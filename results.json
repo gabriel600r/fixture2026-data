@@ -1,4 +1,35 @@
 {
-  "updated": "2026-03-22T22:46:29Z",
-  "results": []
+  "updated": "2026-03-22T22:49:40Z",
+  "results": [
+    {
+      "id": 1,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "id": 2,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "id": 3,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "id": 4,
+      "home": 2,
+      "away": 2
+    },
+    {
+      "id": 5,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "id": 6,
+      "home": 3,
+      "away": 1
+    }
+  ]
 }
