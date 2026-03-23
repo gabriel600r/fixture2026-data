@@ -2,18 +2,16 @@ name: Fetch World Cup Results
 
 on:
   schedule:
-    # 3 veces al día durante el mundial (11 jun - 19 jul 2026)
-    # 10:00 UTC (mañana), 18:00 UTC (tarde), 02:00 UTC (noche/madrugada)
-    - cron: "0 10 * 6-7 *"
-    - cron: "0 18 * 6-7 *"
-    - cron: "0 2 * 6-7 *"
+    # Cada 15 minutos durante junio y julio (mundial: 11 jun - 19 jul 2026)
+    # Los partidos se juegan entre 13:00 UTC y 03:00 UTC del día siguiente
+    # Corremos de 12:00 a 04:00 UTC para cubrir todos los horarios
+    - cron: "*/15 12-23 * 6-7 *"
+    - cron: "*/15 0-4 * 6-7 *"
   workflow_dispatch: # Permite ejecutar manualmente
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    # Solo correr durante el mundial: 11 jun - 19 jul 2026
-    # (los crons ya filtran por mes, esto es extra seguridad)
     steps:
       - uses: actions/checkout@v4
 
