@@ -1,35 +1,126 @@
 {
-  "updated": "2026-03-22T22:49:40Z",
+  "updated": "2026-03-23T21:30:00Z",
   "results": [
     {
       "id": 1,
-      "home": 2,
-      "away": 0
+      "home": 0,
+      "away": 2,
+      "goals": [
+        {"player": "P. Mothiba", "minute": 34, "team": "RSA"},
+        {"player": "T. Mokoena", "minute": 78, "team": "RSA", "pen": true}
+      ]
     },
     {
       "id": 2,
-      "home": 1,
-      "away": 1
+      "home": 3,
+      "away": 1,
+      "goals": [
+        {"player": "Son Heung-min", "minute": 12, "team": "KOR"},
+        {"player": "Hwang Hee-chan", "minute": 45, "extra": 2, "team": "KOR"},
+        {"player": "Lee Kang-in", "minute": 67, "team": "KOR"},
+        {"player": "J. Placeholder", "minute": 55, "team": "UPD"}
+      ]
     },
     {
       "id": 3,
-      "home": 0,
-      "away": 3
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {"player": "J. Placeholder", "minute": 40, "team": "UPD"},
+        {"player": "L. Trossard", "minute": 60, "team": "RSA"}
+      ]
     },
     {
       "id": 4,
-      "home": 2,
-      "away": 2
+      "home": 1,
+      "away": 3,
+      "goals": [
+        {"player": "S. Giménez", "minute": 22, "team": "MEX"},
+        {"player": "Son Heung-min", "minute": 10, "team": "KOR"},
+        {"player": "Lee Kang-in", "minute": 53, "team": "KOR"},
+        {"player": "Hwang Hee-chan", "minute": 88, "team": "KOR"}
+      ]
     },
     {
       "id": 5,
-      "home": 1,
-      "away": 0
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {"player": "J. Placeholder", "minute": 31, "team": "UPD"},
+        {"player": "J. Placeholder", "minute": 75, "team": "UPD", "pen": true}
+      ]
     },
     {
       "id": 6,
       "home": 3,
-      "away": 1
+      "away": 1,
+      "goals": [
+        {"player": "P. Mothiba", "minute": 5, "team": "RSA"},
+        {"player": "T. Mokoena", "minute": 38, "team": "RSA"},
+        {"player": "L. Trossard", "minute": 71, "team": "RSA"},
+        {"player": "Son Heung-min", "minute": 64, "team": "KOR"}
+      ]
+    },
+    {
+      "id": 13,
+      "home": 1,
+      "away": 3,
+      "goals": [
+        {"player": "Vinícius Jr.", "minute": 44, "team": "BRA"},
+        {"player": "A. Hakimi", "minute": 27, "team": "MAR"},
+        {"player": "Y. En-Nesyri", "minute": 61, "team": "MAR"},
+        {"player": "H. Ziyech", "minute": 90, "extra": 4, "team": "MAR"}
+      ]
+    },
+    {
+      "id": 49,
+      "home": 0,
+      "away": 1,
+      "goals": [
+        {"player": "S. Mané", "minute": 76, "team": "SEN"}
+      ]
+    },
+    {
+      "id": 55,
+      "home": 3,
+      "away": 0,
+      "goals": [
+        {"player": "L. Messi", "minute": 15, "team": "ARG"},
+        {"player": "J. Álvarez", "minute": 52, "team": "ARG"},
+        {"player": "L. Messi", "minute": 81, "team": "ARG", "pen": true}
+      ]
+    },
+    {
+      "id": 43,
+      "home": 3,
+      "away": 0,
+      "goals": [
+        {"player": "L. Yamal", "minute": 19, "team": "ESP"},
+        {"player": "Pedri", "minute": 42, "team": "ESP"},
+        {"player": "Á. Morata", "minute": 68, "team": "ESP", "pen": true}
+      ]
+    },
+    {
+      "id": 25,
+      "home": 5,
+      "away": 0,
+      "goals": [
+        {"player": "J. Musiala", "minute": 11, "team": "GER"},
+        {"player": "F. Wirtz", "minute": 25, "team": "GER"},
+        {"player": "K. Havertz", "minute": 39, "team": "GER", "pen": true},
+        {"player": "L. Sané", "minute": 58, "team": "GER"},
+        {"player": "F. Wirtz", "minute": 72, "team": "GER"}
+      ]
+    },
+    {
+      "id": 67,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {"player": "J. Bellingham", "minute": 29, "team": "ENG"},
+        {"player": "H. Kane", "minute": 57, "team": "ENG"},
+        {"player": "L. Modrić", "minute": 44, "team": "CRO"}
+      ]
     }
   ]
 }
