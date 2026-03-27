@@ -122,5 +122,18 @@
         {"player": "L. Modrić", "minute": 44, "team": "CRO"}
       ]
     }
+  ],
+  "live": [
+    {
+      "id": 900,
+      "status": "2H",
+      "minute": 68,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {"player": "L. Messi", "minute": 34, "team": "ARG"}
+      ],
+      "redCards": ["A. Diallo (MRT) 55'"]
+    }
   ]
 }
