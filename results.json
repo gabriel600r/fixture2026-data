@@ -278,20 +278,5 @@
       ]
     }
   ],
-  "live": [
-    {
-      "id": 900,
-      "status": "HT",
-      "minute": null,
-      "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Denilson Munoz",
-          "minute": 15,
-          "team": "ZAM"
-        }
-      ]
-    }
-  ]
+  "live": []
 }
