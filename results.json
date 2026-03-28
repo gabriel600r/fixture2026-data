@@ -127,11 +127,12 @@
     {
       "id": 900,
       "status": "2H",
-      "minute": 68,
-      "home": 1,
+      "minute": 80,
+      "home": 2,
       "away": 0,
       "goals": [
-        {"player": "L. Messi", "minute": 34, "team": "ARG"}
+        {"player": "L. Messi", "minute": 34, "team": "ARG"},
+        {"player": "J. Álvarez", "minute": 72, "team": "ARG"}
       ],
       "redCards": ["A. Diallo (MRT) 55'"]
     }
