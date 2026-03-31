@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prode — Fixture Mundial 2026</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+        .container { max-width: 440px; margin: 24px; padding: 32px; background: white; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); text-align: center; }
+        .icon { font-size: 56px; margin-bottom: 12px; }
+        h1 { font-size: 20px; margin-bottom: 6px; color: #1B5E20; }
+        .subtitle { font-size: 14px; color: #888; margin-bottom: 20px; }
+        .name { font-size: 18px; font-weight: bold; margin-bottom: 20px; color: #333; background: #f0f7f0; padding: 10px 16px; border-radius: 10px; display: inline-block; }
+        .msg { font-size: 15px; color: #555; margin-bottom: 24px; line-height: 1.5; }
+        .btn { display: inline-block; background: #1B5E20; color: white; text-decoration: none; padding: 14px 28px; border-radius: 12px; font-size: 16px; font-weight: 600; }
+        .btn:hover { background: #2E7D32; }
+        .small { font-size: 12px; color: #aaa; margin-top: 16px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">&#9917;</div>
+        <h1>Fixture Mundial 2026</h1>
+        <p class="subtitle">Prode / Predicciones</p>
+
+        <div id="name-box" class="name" style="display:none;"></div>
+
+        <p class="msg" id="msg-installed">
+            Abriendo la app...
+        </p>
+        <p class="msg" id="msg-fallback" style="display:none;">
+            Descarg&aacute; la app para importar este prode:
+        </p>
+
+        <a id="store-link" class="btn" href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026" style="display:none;">
+            Descargar desde Google Play
+        </a>
+
+        <p class="small">Developed by Gabriel Egea</p>
+    </div>
+
+    <script>
+        (function() {
+            // Extract data from query param ?d=
+            var params = new URLSearchParams(window.location.search);
+            var encoded = params.get('d');
+            if (!encoded) {
+                document.getElementById('msg-installed').textContent = 'Link inv\u00e1lido. No hay datos de prode.';
+                return;
+            }
+
+            // Decode base64 to show the name
+            try {
+                var json = JSON.parse(atob(encoded));
+                if (json.n) {
+                    var nameBox = document.getElementById('name-box');
+                    nameBox.textContent = 'Prode de ' + json.n;
+                    nameBox.style.display = 'inline-block';
+                }
+            } catch(e) {}
+
+            // Try to open the app via custom scheme
+            var deepLink = 'fixture2026://prode?d=' + encodeURIComponent(encoded);
+            window.location.href = deepLink;
+
+            // Fallback: after 2s, show Play Store link
+            setTimeout(function() {
+                document.getElementById('msg-installed').style.display = 'none';
+                document.getElementById('msg-fallback').style.display = 'block';
+                document.getElementById('store-link').style.display = 'inline-block';
+            }, 2000);
+        })();
+    </script>
+</body>
+</html>
