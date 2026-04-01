@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T00:54:39Z",
+  "updated": "2026-04-01T00:55:47Z",
   "results": [
     {
       "id": 1,
@@ -282,7 +282,7 @@
     {
       "id": 900,
       "status": "1H",
-      "minute": 58,
+      "minute": 59,
       "home": 3,
       "away": 0,
       "goals": [
