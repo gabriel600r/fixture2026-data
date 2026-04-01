@@ -12,6 +12,9 @@ on:
     - cron: "*/2 22-23 31 3 *"
   workflow_dispatch: # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
