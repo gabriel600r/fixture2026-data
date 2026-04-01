@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T00:55:47Z",
+  "updated": "2026-04-01T01:25:56Z",
   "results": [
     {
       "id": 1,
@@ -282,14 +282,20 @@
     {
       "id": 900,
       "status": "1H",
-      "minute": 59,
-      "home": 3,
+      "minute": 89,
+      "home": 4,
       "away": 0,
       "goals": [
         {
           "player": "Nicolas Otamendi",
           "minute": 50,
           "team": "ARG"
+        },
+        {
+          "player": "Dominic Chanda",
+          "minute": 68,
+          "team": "ARG",
+          "pen": true
         }
       ]
     }
