@@ -277,21 +277,6 @@
       "id": 67
     }
   ],
-  "live": [
-    {
-      "status": "2H",
-      "goals": [
-        {
-          "minute": 21,
-          "team": "TST",
-          "player": "Ben Knight"
-        }
-      ],
-      "minute": 81,
-      "away": 0,
-      "home": 1,
-      "id": 900
-    }
-  ],
-  "updated": "2026-04-02T20:40:50Z"
+  "live": [],
+  "updated": "2026-04-02T20:43:00Z"
 }
