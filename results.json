@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-02T22:25:16Z",
+  "updated": "2026-04-02T22:27:17Z",
   "live": [
     {
-      "minute": 22,
+      "minute": 24,
       "status": "1H",
-      "away": 0,
+      "home": 0,
+      "goals": [
+        {
+          "minute": 23,
+          "player": "Unknown",
+          "team": "CAM"
+        }
+      ],
       "id": 900,
-      "home": 0
+      "away": 1
     }
   ],
   "results": [
