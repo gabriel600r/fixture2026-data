@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-02T22:37:27Z",
+  "updated": "2026-04-02T22:39:31Z",
   "live": [
     {
-      "minute": 34,
+      "minute": 36,
       "status": "1H",
       "home": 0,
       "goals": [
@@ -15,10 +15,15 @@
           "minute": 30,
           "player": "Reinier",
           "team": "CAM"
+        },
+        {
+          "minute": 35,
+          "player": "Tomas Cuello",
+          "team": "CAM"
         }
       ],
       "id": 900,
-      "away": 2
+      "away": 3
     }
   ],
   "results": [
