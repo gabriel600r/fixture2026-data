@@ -17,15 +17,13 @@
       "home": 0,
       "status": "ET",
       "id": 900,
-      "minute": 92
+      "minute": 94
     }
   ],
-  "updated": "2026-04-02T22:18:49Z",
+  "updated": "2026-04-02T22:20:51Z",
   "results": [
     {
       "home": 0,
-      "id": 1,
-      "away": 2,
       "goals": [
         {
           "player": "P. Mothiba",
@@ -38,12 +36,12 @@
           "minute": 78,
           "team": "RSA"
         }
-      ]
+      ],
+      "id": 1,
+      "away": 2
     },
     {
       "home": 3,
-      "id": 2,
-      "away": 1,
       "goals": [
         {
           "player": "Son Heung-min",
@@ -66,12 +64,12 @@
           "minute": 55,
           "team": "UPD"
         }
-      ]
+      ],
+      "id": 2,
+      "away": 1
     },
     {
       "home": 1,
-      "id": 3,
-      "away": 1,
       "goals": [
         {
           "player": "J. Placeholder",
@@ -83,12 +81,12 @@
           "minute": 60,
           "team": "RSA"
         }
-      ]
+      ],
+      "id": 3,
+      "away": 1
     },
     {
       "home": 1,
-      "id": 4,
-      "away": 3,
       "goals": [
         {
           "player": "S. Giménez",
@@ -110,12 +108,12 @@
           "minute": 88,
           "team": "KOR"
         }
-      ]
+      ],
+      "id": 4,
+      "away": 3
     },
     {
       "home": 2,
-      "id": 5,
-      "away": 0,
       "goals": [
         {
           "player": "J. Placeholder",
@@ -128,12 +126,12 @@
           "minute": 75,
           "team": "UPD"
         }
-      ]
+      ],
+      "id": 5,
+      "away": 0
     },
     {
       "home": 3,
-      "id": 6,
-      "away": 1,
       "goals": [
         {
           "player": "P. Mothiba",
@@ -155,12 +153,12 @@
           "minute": 64,
           "team": "KOR"
         }
-      ]
+      ],
+      "id": 6,
+      "away": 1
     },
     {
       "home": 1,
-      "id": 13,
-      "away": 3,
       "goals": [
         {
           "player": "Vinícius Jr.",
@@ -183,24 +181,24 @@
           "minute": 90,
           "player": "H. Ziyech"
         }
-      ]
+      ],
+      "id": 13,
+      "away": 3
     },
     {
       "home": 0,
-      "id": 49,
-      "away": 1,
       "goals": [
         {
           "player": "S. Mané",
           "minute": 76,
           "team": "SEN"
         }
-      ]
+      ],
+      "id": 49,
+      "away": 1
     },
     {
       "home": 3,
-      "id": 55,
-      "away": 0,
       "goals": [
         {
           "player": "L. Messi",
@@ -218,12 +216,12 @@
           "minute": 81,
           "team": "ARG"
         }
-      ]
+      ],
+      "id": 55,
+      "away": 0
     },
     {
       "home": 3,
-      "id": 43,
-      "away": 0,
       "goals": [
         {
           "player": "L. Yamal",
@@ -241,12 +239,12 @@
           "minute": 68,
           "team": "ESP"
         }
-      ]
+      ],
+      "id": 43,
+      "away": 0
     },
     {
       "home": 5,
-      "id": 25,
-      "away": 0,
       "goals": [
         {
           "player": "J. Musiala",
@@ -274,12 +272,12 @@
           "minute": 72,
           "team": "GER"
         }
-      ]
+      ],
+      "id": 25,
+      "away": 0
     },
     {
       "home": 2,
-      "id": 67,
-      "away": 1,
       "goals": [
         {
           "player": "J. Bellingham",
@@ -296,7 +294,9 @@
           "minute": 44,
           "team": "CRO"
         }
-      ]
+      ],
+      "id": 67,
+      "away": 1
     }
   ]
 }
