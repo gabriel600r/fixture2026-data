@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-02T23:07:57Z",
+  "updated": "2026-04-02T23:09:59Z",
   "live": [
     {
-      "minute": null,
-      "status": "HT",
+      "minute": 46,
+      "status": "2H",
       "home": 0,
       "goals": [
         {
