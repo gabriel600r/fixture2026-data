@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
-Fetch live match data from LiveScore API (RapidAPI) and update results.json.
+Fetch live World Cup 2026 match data from LiveScore API and update results.json.
 Pushes updates to GitHub via the Contents API (no git required).
 
+Auto-detects which matches are happening today from schedule.json.
 Compatible with Python 3.4+.
 
 Usage:
-  python3 fetch_live.py              # One-shot fetch
-  python3 fetch_live.py --watch      # Poll every 2 min while match is live
+  python3 fetch_live.py              # One-shot fetch for today's matches
+  python3 fetch_live.py --watch      # Poll every 2 min while matches are live
   python3 fetch_live.py --test       # Test with any live match right now
 
 Requires:
@@ -23,7 +24,7 @@ import os
 import sys
 import time
 import traceback
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # Python 3.4 compat: urllib
@@ -31,7 +32,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 SCRIPT_DIR = Path(__file__).parent
-RESULTS_FILE = SCRIPT_DIR / "results.json"
+SCHEDULE_FILE = SCRIPT_DIR / "schedule.json"
 ENV_FILE = SCRIPT_DIR / ".env"
 
 # LiveScore6 API on RapidAPI
@@ -50,20 +51,15 @@ POLL_INTERVAL = 120  # 2 minutes
 # Max consecutive API failures before giving up
 MAX_FAILURES = 10
 
-# ── Match configuration ─────────────────────────────────────
-# Map LiveScore Eid -> our app match ID and team codes
-# Format: "eid": (app_match_id, "HOME_CODE", "AWAY_CODE")
-# Fill this in before each match day.
-WATCHED_MATCHES = {
-    # "1757983": (900, "ARG", "ZAM"),  # Test match (completed)
-}
+# How many hours before/after kickoff to consider a match "today"
+MATCH_WINDOW_BEFORE_H = 1   # start watching 1h before kickoff
+MATCH_WINDOW_AFTER_H = 4    # stop watching 4h after kickoff
 
 # Incident types in LiveScore API
-IT_GOAL = {36, 37}         # Regular goal
-IT_OWN_GOAL = {34}         # Own goal
-IT_PENALTY_GOAL = {39}     # Penalty scored
-IT_RED_CARD = {17, 45}     # Red card, second yellow -> red
-IT_YELLOW_CARD = {43}      # Yellow card
+IT_GOAL = set([36, 37])         # Regular goal
+IT_OWN_GOAL = set([34])         # Own goal
+IT_PENALTY_GOAL = set([39])     # Penalty scored
+IT_RED_CARD = set([17, 45])     # Red card, second yellow -> red
 
 
 def log(msg):
@@ -94,9 +90,82 @@ def get_config():
     return api_key, gh_token
 
 
+# ── Schedule ────────────────────────────────────────────────
+
+def load_schedule():
+    """Load schedule.json with team names and match list."""
+    with open(str(SCHEDULE_FILE)) as f:
+        return json.loads(f.read())
+
+
+def build_name_to_code(schedule):
+    """Build reverse lookup: lowercase team name -> our code."""
+    mapping = {}
+    teams = schedule.get("teams", {})
+    for code, names in teams.items():
+        for name in names:
+            mapping[name.lower()] = code
+    return mapping
+
+
+def get_todays_matches(schedule):
+    """Return matches happening around now (within the time window)."""
+    now = datetime.now(timezone.utc)
+    today = []
+
+    for m in schedule.get("matches", []):
+        # Parse UTC datetime
+        utc_str = m["utc"]
+        # Python 3.4 compat: parse manually
+        dt = datetime(
+            int(utc_str[0:4]), int(utc_str[5:7]), int(utc_str[8:10]),
+            int(utc_str[11:13]), int(utc_str[14:16]), int(utc_str[17:19]),
+            tzinfo=timezone.utc
+        )
+        window_start = dt - timedelta(hours=MATCH_WINDOW_BEFORE_H)
+        window_end = dt + timedelta(hours=MATCH_WINDOW_AFTER_H)
+
+        if now >= window_start and now <= window_end:
+            today.append({
+                "id": m["id"],
+                "home": m["home"],
+                "away": m["away"],
+                "kickoff": dt,
+            })
+
+    return today
+
+
+def match_livescore_to_schedule(live_match, todays_matches, name_to_code):
+    """Try to match a LiveScore match to one of today's scheduled matches.
+
+    Returns (match_id, home_code, away_code) or None.
+    """
+    ls_home = live_match["home_name"].lower()
+    ls_away = live_match["away_name"].lower()
+
+    # Resolve LiveScore names to our codes
+    home_code = name_to_code.get(ls_home)
+    away_code = name_to_code.get(ls_away)
+
+    if not home_code or not away_code:
+        return None
+
+    # Find matching scheduled match
+    for sm in todays_matches:
+        if sm["home"] == home_code and sm["away"] == away_code:
+            return (sm["id"], home_code, away_code)
+        # Also check reversed (LiveScore might swap home/away)
+        if sm["home"] == away_code and sm["away"] == home_code:
+            return (sm["id"], sm["home"], sm["away"])
+
+    return None
+
+
+# ── HTTP helpers ────────────────────────────────────────────
+
 def http_get(url, headers=None, timeout=15, retries=3):
     """GET request with retry logic."""
-    last_err = None
     for attempt in range(retries):
         try:
             req = Request(url)
@@ -109,13 +178,11 @@ def http_get(url, headers=None, timeout=15, retries=3):
         except HTTPError as e:
             log("  HTTP error {0}: {1} (attempt {2}/{3})".format(
                 e.code, e.reason, attempt + 1, retries))
-            last_err = e
             if e.code in (401, 403, 404):
                 break  # Don't retry auth/not-found errors
         except (URLError, Exception) as e:
             log("  Network error: {0} (attempt {1}/{2})".format(
                 e, attempt + 1, retries))
-            last_err = e
         if attempt < retries - 1:
             wait = 5 * (attempt + 1)
             log("  Retrying in {0}s...".format(wait))
@@ -126,12 +193,8 @@ def http_get(url, headers=None, timeout=15, retries=3):
 def http_put(url, data, headers=None, timeout=15):
     """PUT request for GitHub API."""
     body = json.dumps(data).encode("utf-8")
-    req = Request(url, data=body, method="PUT") if hasattr(Request, 'method') else Request(url, data=body)
-    # Python 3.4 compat for PUT
-    if not hasattr(Request, 'method'):
-        req.get_method = lambda: "PUT"
-    else:
-        req.method = "PUT"
+    req = Request(url, data=body)
+    req.get_method = lambda: "PUT"
     req.add_header("Content-Type", "application/json")
     if headers:
         for k, v in headers.items():
@@ -162,7 +225,7 @@ def fetch_live_matches(api_key):
     }
     data = http_get(API_BASE + "/matches/v2/list-live?Category=soccer", headers)
     if not data:
-        return []
+        return None
 
     matches = []
     for stage in data.get("Stages", []):
@@ -203,7 +266,6 @@ def fetch_incidents(eid, api_key):
     red_cards = []
 
     def process_event(ev):
-        """Process a single incident event."""
         it = ev.get("IT", 0)
         player = ev.get("Pn", "Unknown")
         minute = ev.get("Min", 0)
@@ -237,9 +299,7 @@ def fetch_incidents(eid, api_key):
         if not isinstance(events, list):
             continue
         for ev in events:
-            # Process top-level event
             process_event(ev)
-            # Also process nested sub-incidents (goals are often here)
             for sub in ev.get("Incs", []):
                 process_event(sub)
 
@@ -266,7 +326,7 @@ def map_status(period, status_text):
     """Map LiveScore period/status to our status code."""
     st = status_text.upper().strip().replace("'", "")
 
-    # Check text-based status first (more reliable than period number)
+    # Text-based (most reliable)
     if st in ("HT", "HALF TIME", "HALF-TIME"):
         return "HT"
     if st in ("FT", "FULL TIME", "FULL-TIME", "AET", "AP", "ENDED"):
@@ -274,7 +334,7 @@ def map_status(period, status_text):
     if st in ("PEN", "PENALTIES", "PENALTY"):
         return "PEN"
 
-    # Try to determine from minute number
+    # Determine from minute
     minute = parse_minute(status_text)
     if minute is not None:
         if minute <= 45:
@@ -285,14 +345,7 @@ def map_status(period, status_text):
             return "ET"
 
     # Fallback to period number
-    period_map = {
-        1: "1H",
-        2: "HT",
-        3: "2H",
-        4: "ET",
-        5: "PEN",
-        6: "FT",
-    }
+    period_map = {1: "1H", 2: "HT", 3: "2H", 4: "ET", 5: "PEN", 6: "FT"}
     return period_map.get(period, "1H")
 
 
@@ -309,7 +362,6 @@ def github_get_file(gh_token):
     data = http_get(url, headers)
     if not data:
         return None, None
-
     content = base64.b64decode(data.get("content", "")).decode("utf-8")
     sha = data.get("sha", "")
     return content, sha
@@ -337,7 +389,6 @@ def github_update_file(gh_token, new_content, sha, message):
 def update_results_json(results_data, match_id, match_info, goals, red_cards,
                         home_code, away_code):
     """Update the results dict with live match data. Returns (data, status)."""
-    # Replace team placeholders
     for g in goals:
         if g["team"] == "__HOME__":
             g["team"] = home_code
@@ -407,48 +458,62 @@ def update_results_json(results_data, match_id, match_info, goals, red_cards,
     return results_data, status
 
 
-def run_once(api_key, gh_token, test_mode=False):
+def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
     """Fetch and update once. Returns True if match is still live."""
-    log("Fetching live matches...")
+
+    # Determine today's matches from schedule
+    if not test_mode:
+        todays = get_todays_matches(schedule)
+        if not todays:
+            log("No scheduled matches in the current time window")
+            return False
+        log("Today's matches: {0}".format(
+            ", ".join("{0} vs {1} (id {2})".format(m["home"], m["away"], m["id"])
+                      for m in todays)))
+
+    log("Fetching live matches from API...")
     live_matches = fetch_live_matches(api_key)
 
     if live_matches is None:
         log("API request failed, will retry next cycle")
-        return True  # Keep running, don't stop on transient errors
+        return True  # Keep running on transient errors
 
     if not live_matches:
-        log("No live matches found")
-        return False
+        log("No live matches on LiveScore right now")
+        return not test_mode  # In schedule mode, keep waiting; in test, stop
 
-    # Find our watched matches
+    # Match LiveScore data to our schedule
     targets = []
     for lm in live_matches:
-        eid = lm["eid"]
         if test_mode:
             if lm["home_score"] + lm["away_score"] > 0 or len(targets) == 0:
                 targets.append((lm, 900, "TST", "TST"))
                 log("  TEST: Using {0} vs {1} ({2}) as match 900".format(
                     lm["home_name"], lm["away_name"], lm["league"]))
                 if lm["home_score"] + lm["away_score"] > 0:
-                    break  # Prefer match with goals
-        elif eid in WATCHED_MATCHES:
-            mid, hc, ac = WATCHED_MATCHES[eid]
-            targets.append((lm, mid, hc, ac))
-            log("  Found: {0} {1}-{2} {3} [{4}]".format(
-                lm["home_name"], lm["home_score"], lm["away_score"],
-                lm["away_name"], lm["status_text"]))
+                    break
+        else:
+            result = match_livescore_to_schedule(lm, todays, name_to_code)
+            if result:
+                mid, hc, ac = result
+                targets.append((lm, mid, hc, ac))
+                log("  MATCHED: {0} vs {1} -> id {2} ({3} vs {4})".format(
+                    lm["home_name"], lm["away_name"], mid, hc, ac))
 
     if not targets:
-        log("No watched matches currently live ({0} total live matches)".format(
-            len(live_matches)))
-        return False
+        if test_mode:
+            log("No suitable test match found")
+            return False
+        log("No World Cup matches currently live ({0} total live, {1} scheduled today)".format(
+            len(live_matches), len(todays)))
+        return True  # Keep waiting, matches haven't started yet
 
     # Get current file from GitHub
     log("Fetching results.json from GitHub...")
     content, sha = github_get_file(gh_token)
     if content is None:
         log("ERROR: Could not fetch results.json from GitHub")
-        return True  # Keep running
+        return True
 
     results_data = json.loads(content)
     any_live = False
@@ -457,7 +522,6 @@ def run_once(api_key, gh_token, test_mode=False):
     for lm, match_id, home_code, away_code in targets:
         eid = lm["eid"]
 
-        # Fetch incidents
         goals, red_cards = fetch_incidents(eid, api_key)
         log("  {0} {1}-{2} {3} | {4} | Goals: {5}, Red cards: {6}".format(
             lm["home_name"], lm["home_score"], lm["away_score"],
@@ -505,6 +569,13 @@ def main():
     test_mode = "--test" in sys.argv
     watch_mode = "--watch" in sys.argv
 
+    # Load schedule
+    schedule = load_schedule()
+    name_to_code = build_name_to_code(schedule)
+    log("Loaded {0} matches, {1} team names from schedule".format(
+        len(schedule.get("matches", [])),
+        len(name_to_code)))
+
     if test_mode:
         log("=== TEST MODE ===")
     if watch_mode:
@@ -512,23 +583,24 @@ def main():
 
     if watch_mode:
         consecutive_failures = 0
-        consecutive_empty = 0
+        consecutive_no_schedule = 0
         try:
             while True:
                 try:
-                    still_live = run_once(api_key, gh_token, test_mode)
-                    consecutive_failures = 0  # Reset on success
+                    still_live = run_once(api_key, gh_token, schedule,
+                                         name_to_code, test_mode)
+                    consecutive_failures = 0
 
                     if not still_live:
-                        consecutive_empty += 1
-                        if consecutive_empty >= 5:
-                            log("No live matches for {0} cycles. Stopping.".format(
-                                consecutive_empty))
+                        consecutive_no_schedule += 1
+                        if consecutive_no_schedule >= 5:
+                            log("No matches for {0} cycles. Stopping.".format(
+                                consecutive_no_schedule))
                             break
-                        log("No live matches (attempt {0}/5)".format(
-                            consecutive_empty))
+                        log("Waiting... ({0}/5 empty cycles)".format(
+                            consecutive_no_schedule))
                     else:
-                        consecutive_empty = 0
+                        consecutive_no_schedule = 0
 
                 except Exception as e:
                     consecutive_failures += 1
@@ -546,7 +618,7 @@ def main():
         except KeyboardInterrupt:
             log("Stopped by user")
     else:
-        run_once(api_key, gh_token, test_mode)
+        run_once(api_key, gh_token, schedule, name_to_code, test_mode)
 
 
 if __name__ == "__main__":
