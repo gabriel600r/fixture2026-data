@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T20:39:38Z",
+  "updated": "2026-04-02T20:42:00Z",
   "results": [
     {
       "id": 1,
@@ -278,20 +278,5 @@
       ]
     }
   ],
-  "live": [
-    {
-      "id": 900,
-      "status": "2H",
-      "minute": 78,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "Ben Knight",
-          "minute": 21,
-          "team": "TST"
-        }
-      ]
-    }
-  ]
+  "live": []
 }
