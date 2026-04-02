@@ -1,21 +1,4 @@
 {
-  "updated": "2026-04-02T22:07:39Z",
-  "live": [
-    {
-      "away": 1,
-      "minute": 81,
-      "home": 0,
-      "id": 900,
-      "status": "2H",
-      "goals": [
-        {
-          "player": "Jose Florentin",
-          "team": "TST",
-          "minute": 26
-        }
-      ]
-    }
-  ],
   "results": [
     {
       "away": 2,
@@ -23,14 +6,14 @@
       "goals": [
         {
           "minute": 34,
-          "team": "RSA",
-          "player": "P. Mothiba"
+          "player": "P. Mothiba",
+          "team": "RSA"
         },
         {
+          "minute": 78,
           "player": "T. Mokoena",
-          "team": "RSA",
           "pen": true,
-          "minute": 78
+          "team": "RSA"
         }
       ],
       "home": 0
@@ -41,24 +24,24 @@
       "goals": [
         {
           "minute": 12,
-          "team": "KOR",
-          "player": "Son Heung-min"
+          "player": "Son Heung-min",
+          "team": "KOR"
         },
         {
-          "minute": 45,
-          "team": "KOR",
           "extra": 2,
-          "player": "Hwang Hee-chan"
+          "minute": 45,
+          "player": "Hwang Hee-chan",
+          "team": "KOR"
         },
         {
           "minute": 67,
-          "team": "KOR",
-          "player": "Lee Kang-in"
+          "player": "Lee Kang-in",
+          "team": "KOR"
         },
         {
           "minute": 55,
-          "team": "UPD",
-          "player": "J. Placeholder"
+          "player": "J. Placeholder",
+          "team": "UPD"
         }
       ],
       "home": 3
@@ -69,13 +52,13 @@
       "goals": [
         {
           "minute": 40,
-          "team": "UPD",
-          "player": "J. Placeholder"
+          "player": "J. Placeholder",
+          "team": "UPD"
         },
         {
           "minute": 60,
-          "team": "RSA",
-          "player": "L. Trossard"
+          "player": "L. Trossard",
+          "team": "RSA"
         }
       ],
       "home": 1
@@ -86,23 +69,23 @@
       "goals": [
         {
           "minute": 22,
-          "team": "MEX",
-          "player": "S. Giménez"
+          "player": "S. Giménez",
+          "team": "MEX"
         },
         {
           "minute": 10,
-          "team": "KOR",
-          "player": "Son Heung-min"
+          "player": "Son Heung-min",
+          "team": "KOR"
         },
         {
           "minute": 53,
-          "team": "KOR",
-          "player": "Lee Kang-in"
+          "player": "Lee Kang-in",
+          "team": "KOR"
         },
         {
           "minute": 88,
-          "team": "KOR",
-          "player": "Hwang Hee-chan"
+          "player": "Hwang Hee-chan",
+          "team": "KOR"
         }
       ],
       "home": 1
@@ -113,14 +96,14 @@
       "goals": [
         {
           "minute": 31,
-          "team": "UPD",
-          "player": "J. Placeholder"
+          "player": "J. Placeholder",
+          "team": "UPD"
         },
         {
+          "minute": 75,
           "player": "J. Placeholder",
-          "team": "UPD",
           "pen": true,
-          "minute": 75
+          "team": "UPD"
         }
       ],
       "home": 2
@@ -131,23 +114,23 @@
       "goals": [
         {
           "minute": 5,
-          "team": "RSA",
-          "player": "P. Mothiba"
+          "player": "P. Mothiba",
+          "team": "RSA"
         },
         {
           "minute": 38,
-          "team": "RSA",
-          "player": "T. Mokoena"
+          "player": "T. Mokoena",
+          "team": "RSA"
         },
         {
           "minute": 71,
-          "team": "RSA",
-          "player": "L. Trossard"
+          "player": "L. Trossard",
+          "team": "RSA"
         },
         {
           "minute": 64,
-          "team": "KOR",
-          "player": "Son Heung-min"
+          "player": "Son Heung-min",
+          "team": "KOR"
         }
       ],
       "home": 3
@@ -158,24 +141,24 @@
       "goals": [
         {
           "minute": 44,
-          "team": "BRA",
-          "player": "Vinícius Jr."
+          "player": "Vinícius Jr.",
+          "team": "BRA"
         },
         {
           "minute": 27,
-          "team": "MAR",
-          "player": "A. Hakimi"
+          "player": "A. Hakimi",
+          "team": "MAR"
         },
         {
           "minute": 61,
-          "team": "MAR",
-          "player": "Y. En-Nesyri"
+          "player": "Y. En-Nesyri",
+          "team": "MAR"
         },
         {
-          "minute": 90,
-          "team": "MAR",
           "extra": 4,
-          "player": "H. Ziyech"
+          "minute": 90,
+          "player": "H. Ziyech",
+          "team": "MAR"
         }
       ],
       "home": 1
@@ -186,8 +169,8 @@
       "goals": [
         {
           "minute": 76,
-          "team": "SEN",
-          "player": "S. Mané"
+          "player": "S. Mané",
+          "team": "SEN"
         }
       ],
       "home": 0
@@ -198,19 +181,19 @@
       "goals": [
         {
           "minute": 15,
-          "team": "ARG",
-          "player": "L. Messi"
+          "player": "L. Messi",
+          "team": "ARG"
         },
         {
           "minute": 52,
-          "team": "ARG",
-          "player": "J. Álvarez"
+          "player": "J. Álvarez",
+          "team": "ARG"
         },
         {
+          "minute": 81,
           "player": "L. Messi",
-          "team": "ARG",
           "pen": true,
-          "minute": 81
+          "team": "ARG"
         }
       ],
       "home": 3
@@ -221,19 +204,19 @@
       "goals": [
         {
           "minute": 19,
-          "team": "ESP",
-          "player": "L. Yamal"
+          "player": "L. Yamal",
+          "team": "ESP"
         },
         {
           "minute": 42,
-          "team": "ESP",
-          "player": "Pedri"
+          "player": "Pedri",
+          "team": "ESP"
         },
         {
+          "minute": 68,
           "player": "Á. Morata",
-          "team": "ESP",
           "pen": true,
-          "minute": 68
+          "team": "ESP"
         }
       ],
       "home": 3
@@ -244,29 +227,29 @@
       "goals": [
         {
           "minute": 11,
-          "team": "GER",
-          "player": "J. Musiala"
+          "player": "J. Musiala",
+          "team": "GER"
         },
         {
           "minute": 25,
-          "team": "GER",
-          "player": "F. Wirtz"
+          "player": "F. Wirtz",
+          "team": "GER"
         },
         {
+          "minute": 39,
           "player": "K. Havertz",
-          "team": "GER",
           "pen": true,
-          "minute": 39
+          "team": "GER"
         },
         {
           "minute": 58,
-          "team": "GER",
-          "player": "L. Sané"
+          "player": "L. Sané",
+          "team": "GER"
         },
         {
           "minute": 72,
-          "team": "GER",
-          "player": "F. Wirtz"
+          "player": "F. Wirtz",
+          "team": "GER"
         }
       ],
       "home": 5
@@ -277,21 +260,23 @@
       "goals": [
         {
           "minute": 29,
-          "team": "ENG",
-          "player": "J. Bellingham"
+          "player": "J. Bellingham",
+          "team": "ENG"
         },
         {
           "minute": 57,
-          "team": "ENG",
-          "player": "H. Kane"
+          "player": "H. Kane",
+          "team": "ENG"
         },
         {
           "minute": 44,
-          "team": "CRO",
-          "player": "L. Modrić"
+          "player": "L. Modrić",
+          "team": "CRO"
         }
       ],
       "home": 2
     }
-  ]
+  ],
+  "live": [],
+  "updated": "2026-04-02T22:07:39Z"
 }
