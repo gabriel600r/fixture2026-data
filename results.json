@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-02T23:59:08Z",
+  "updated": "2026-04-03T00:01:10Z",
   "live": [
     {
-      "minute": 95,
+      "minute": 97,
       "status": "ET",
       "home": 0,
       "goals": [
@@ -20,10 +20,15 @@
           "minute": 35,
           "player": "Tomas Cuello",
           "team": "CAM"
+        },
+        {
+          "minute": 90,
+          "player": "Dudu",
+          "team": "CAM"
         }
       ],
       "id": 900,
-      "away": 3
+      "away": 4
     }
   ],
   "results": [
