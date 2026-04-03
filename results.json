@@ -1,36 +1,6 @@
 {
   "updated": "2026-04-03T00:01:10Z",
-  "live": [
-    {
-      "minute": 97,
-      "status": "ET",
-      "home": 0,
-      "goals": [
-        {
-          "minute": 23,
-          "player": "Bernard",
-          "team": "CAM"
-        },
-        {
-          "minute": 30,
-          "player": "Reinier",
-          "team": "CAM"
-        },
-        {
-          "minute": 35,
-          "player": "Tomas Cuello",
-          "team": "CAM"
-        },
-        {
-          "minute": 90,
-          "player": "Dudu",
-          "team": "CAM"
-        }
-      ],
-      "id": 900,
-      "away": 4
-    }
-  ],
+  "live": [],
   "results": [
     {
       "home": 0,

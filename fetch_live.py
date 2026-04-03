@@ -486,11 +486,23 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
     targets = []
     for lm in live_matches:
         if test_mode:
-            if lm["home_score"] + lm["away_score"] > 0 or len(targets) == 0:
-                targets.append((lm, 900, "TST", "TST"))
+            # Match by name if --match argument given, otherwise first with goals
+            test_filter = None
+            for arg in sys.argv:
+                if arg.startswith("--match="):
+                    test_filter = arg.split("=", 1)[1].lower()
+
+            name_match = (test_filter and
+                          (test_filter in lm["home_name"].lower() or
+                           test_filter in lm["away_name"].lower()))
+
+            if name_match or (not test_filter and
+                              (lm["home_score"] + lm["away_score"] > 0 or
+                               len(targets) == 0)):
+                targets.append((lm, 900, "SLO", "EDL"))
                 log("  TEST: Using {0} vs {1} ({2}) as match 900".format(
                     lm["home_name"], lm["away_name"], lm["league"]))
-                if lm["home_score"] + lm["away_score"] > 0:
+                if name_match or lm["home_score"] + lm["away_score"] > 0:
                     break
         else:
             result = match_livescore_to_schedule(lm, todays, name_to_code)
