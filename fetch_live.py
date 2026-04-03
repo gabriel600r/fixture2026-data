@@ -499,7 +499,7 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
             if name_match or (not test_filter and
                               (lm["home_score"] + lm["away_score"] > 0 or
                                len(targets) == 0)):
-                targets.append((lm, 900, "SLO", "EDL"))
+                targets.append((lm, 900, "IND", "RAC"))
                 log("  TEST: Using {0} vs {1} ({2}) as match 900".format(
                     lm["home_name"], lm["away_name"], lm["league"]))
                 if name_match or lm["home_score"] + lm["away_score"] > 0:

@@ -49,8 +49,8 @@
     "SWE": ["Sweden"],
     "IRQ": ["Iraq"],
     "COD": ["DR Congo", "Congo DR", "Democratic Republic of the Congo"],
-    "SLO": ["San Lorenzo", "San Lorenzo de Almagro"],
-    "EDL": ["Estudiantes", "Estudiantes de La Plata", "Estudiantes LP"]
+    "IND": ["Independiente", "CA Independiente"],
+    "RAC": ["Racing", "Racing Club", "Racing Club de Avellaneda"]
   },
   "matches": [
     {"id": 1, "home": "MEX", "away": "RSA", "utc": "2026-06-11T19:00:00Z"},
@@ -125,6 +125,6 @@
     {"id": 70, "home": "PAN", "away": "CRO", "utc": "2026-06-23T23:00:00Z"},
     {"id": 71, "home": "PAN", "away": "ENG", "utc": "2026-06-27T21:00:00Z"},
     {"id": 72, "home": "CRO", "away": "GHA", "utc": "2026-06-27T21:00:00Z"},
-    {"id": 900, "home": "SLO", "away": "EDL", "utc": "2026-04-03T19:30:00Z"}
+    {"id": 900, "home": "IND", "away": "RAC", "utc": "2026-04-04T20:30:00Z"}
   ]
 }
