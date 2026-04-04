@@ -3,7 +3,7 @@
   "brackets": {},
   "live": [
     {
-      "minute": 92,
+      "minute": 94,
       "status": "ET",
       "id": 900,
       "goals": [
@@ -295,7 +295,7 @@
       "away": 1
     }
   ],
-  "min_version": "1.7.0",
-  "updated": "2026-04-04T22:31:45Z",
-  "update_en": ""
+  "updated": "2026-04-04T22:33:46Z",
+  "update_en": "",
+  "min_version": "1.7.0"
 }
