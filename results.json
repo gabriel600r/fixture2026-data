@@ -3,9 +3,16 @@
   "brackets": {},
   "live": [
     {
+      "minute": 83,
       "status": "2H",
-      "minute": 82,
       "id": 900,
+      "goals": [
+        {
+          "minute": 81,
+          "player": "Gabriel Avalos",
+          "team": "IND"
+        }
+      ],
       "home": 1,
       "away": 0
     }
@@ -288,7 +295,7 @@
       "away": 1
     }
   ],
-  "updated": "2026-04-04T22:21:36Z",
-  "update_en": "",
-  "min_version": "1.7.0"
+  "min_version": "1.7.0",
+  "updated": "2026-04-04T22:23:38Z",
+  "update_en": ""
 }
