@@ -343,7 +343,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"R32 Match {match_id}: {new_home} vs {new_away}")
+                changes.append("R32 Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     # ── Step 2: R16 from R32 winners ──
     for match_id, (src_a, src_b) in R16_BRACKET.items():
@@ -365,7 +365,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"R16 Match {match_id}: {new_home} vs {new_away}")
+                changes.append("R16 Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     # ── Step 3: QF from R16 winners ──
     for match_id, (src_a, src_b) in QF_BRACKET.items():
@@ -387,7 +387,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"QF Match {match_id}: {new_home} vs {new_away}")
+                changes.append("QF Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     # ── Step 4: SF from QF winners ──
     for match_id, (src_a, src_b) in SF_BRACKET.items():
@@ -409,7 +409,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"SF Match {match_id}: {new_home} vs {new_away}")
+                changes.append("SF Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     # ── Step 5: Final from SF winners, 3rd place from SF losers ──
     for match_id, (src_a, src_b) in FINAL_BRACKET.items():
@@ -431,7 +431,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"FINAL Match {match_id}: {new_home} vs {new_away}")
+                changes.append("FINAL Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     # 3rd place match (losers of semis)
     for match_id, (src_a, src_b) in THIRD_PLACE_BRACKET.items():
@@ -453,7 +453,7 @@ def update_brackets(data, dry_run=False):
             new_bracket = {'home': new_home, 'away': new_away}
             if current != new_bracket:
                 brackets[mid_str] = new_bracket
-                changes.append(f"3RD Match {match_id}: {new_home} vs {new_away}")
+                changes.append("3RD Match {}: {} vs {}".format(match_id, new_home, new_away))
 
     data['brackets'] = brackets
     return changes
@@ -488,6 +488,9 @@ def push_to_github(data):
         print("ERROR: No GITHUB_TOKEN found")
         return False
 
+    import ssl
+    _ctx = ssl._create_unverified_context()
+
     repo = 'gabriel600r/fixture2026-data'
     path = 'results.json'
     url = 'https://api.github.com/repos/{}/contents/{}'.format(repo, path)
@@ -498,7 +501,7 @@ def push_to_github(data):
         'Accept': 'application/vnd.github.v3+json',
     })
     try:
-        resp = urllib.request.urlopen(req)
+        resp = urllib.request.urlopen(req, context=_ctx)
         current = json.loads(resp.read().decode())
         sha = current['sha']
     except Exception as e:
@@ -521,7 +524,7 @@ def push_to_github(data):
         'Content-Type': 'application/json',
     })
     try:
-        urllib.request.urlopen(req)
+        urllib.request.urlopen(req, context=_ctx)
         print("Pushed to GitHub successfully.")
         return True
     except Exception as e:
@@ -533,12 +536,24 @@ def main():
     dry_run = '--dry-run' in sys.argv
     test_mode = '--test' in sys.argv
 
-    # Load results.json
+    # Load results.json (local file or fetch from GitHub)
     script_dir = os.path.dirname(os.path.abspath(__file__))
     results_path = os.path.join(script_dir, 'results.json')
 
-    with open(results_path) as f:
-        data = json.load(f)
+    if os.path.exists(results_path):
+        with open(results_path) as f:
+            data = json.load(f)
+    else:
+        # Fetch from GitHub raw
+        url = 'https://raw.githubusercontent.com/gabriel600r/fixture2026-data/main/results.json'
+        try:
+            import ssl
+            ctx = ssl._create_unverified_context()
+            resp = urllib.request.urlopen(url, context=ctx)
+            data = json.loads(resp.read().decode())
+        except Exception as e:
+            print("ERROR fetching results.json: {}".format(e))
+            return
 
     if test_mode:
         print("=== TEST MODE: Simulating all 72 group results ===\n")
@@ -562,10 +577,10 @@ def main():
         for name in sorted(GROUPS.keys()):
             info = GROUPS[name]
             standings = calculate_standings(name, info, results_map)
-            print(f"\nGroup {name}:")
+            print("\nGroup {}:".format(name))
             for i, (team, s) in enumerate(standings):
                 pos = ['1st', '2nd', '3rd', '4th'][i]
-                print(f"  {pos}: {team} - {s['pts']}pts (GD:{s['gd']:+d}, GF:{s['gf']})")
+                print("  {}: {} - {}pts (GD:{:+d}, GF:{})".format(pos, team, s['pts'], s['gd'], s['gf']))
 
     if dry_run or test_mode:
         print("\n(Dry run / test — not pushing to GitHub)")
@@ -574,7 +589,7 @@ def main():
             test_path = os.path.join(script_dir, 'test_brackets.json')
             with open(test_path, 'w') as f:
                 json.dump(data['brackets'], f, indent=2)
-            print(f"Test brackets saved to {test_path}")
+            print("Test brackets saved to {}".format(test_path))
     else:
         # Save locally and push
         with open(results_path, 'w') as f:
