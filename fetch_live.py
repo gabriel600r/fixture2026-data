@@ -565,6 +565,25 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
     else:
         log("Push FAILED")
 
+    # If a match finished, run bracket updater
+    if any(s.endswith("(FT)") for s in changes):
+        log("Match finished — running bracket updater...")
+        try:
+            import subprocess
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            bracket_script = os.path.join(script_dir, "update_brackets.py")
+            if os.path.exists(bracket_script):
+                proc = subprocess.run(
+                    [sys.executable, bracket_script],
+                    capture_output=True, text=True, timeout=30)
+                for line in proc.stdout.strip().split("\n"):
+                    if line:
+                        log("  brackets: " + line)
+                if proc.returncode != 0 and proc.stderr:
+                    log("  brackets ERROR: " + proc.stderr[:200])
+        except Exception as e:
+            log("  brackets ERROR: {0}".format(e))
+
     return any_live
 
 
