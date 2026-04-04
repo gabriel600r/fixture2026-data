@@ -513,6 +513,36 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
                     lm["home_name"], lm["away_name"], mid, hc, ac))
 
     if not targets:
+        # Check if there are stale live entries in GitHub that need to be marked FT
+        content, sha = github_get_file(gh_token)
+        if content:
+            rd = json.loads(content)
+            stale = rd.get("live", [])
+            if stale:
+                log("Marking {0} stale live match(es) as FT (API no longer returns them)".format(
+                    len(stale)))
+                for entry in stale:
+                    mid = entry["id"]
+                    result_entry = {
+                        "id": mid,
+                        "home": entry.get("home", 0),
+                        "away": entry.get("away", 0),
+                    }
+                    if entry.get("goals"):
+                        result_entry["goals"] = entry["goals"]
+                    existing_ids = set(r["id"] for r in rd.get("results", []))
+                    if mid not in existing_ids:
+                        rd.setdefault("results", []).append(result_entry)
+                        rd["results"].sort(key=lambda r: r["id"])
+                rd["live"] = []
+                rd["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                new_content = json.dumps(rd, indent=2, ensure_ascii=False) + "\n"
+                msg = "auto-FT: {0}".format(", ".join(
+                    "{0} {1}-{2}".format(e["id"], e.get("home", 0), e.get("away", 0))
+                    for e in stale))
+                github_update_file(gh_token, new_content, sha, msg)
+                log("Pushed FT cleanup")
+
         if test_mode:
             log("No suitable test match found")
             return False
@@ -624,11 +654,11 @@ def main():
 
                     if not still_live:
                         consecutive_no_schedule += 1
-                        if consecutive_no_schedule >= 5:
+                        if consecutive_no_schedule >= 30:
                             log("No matches for {0} cycles. Stopping.".format(
                                 consecutive_no_schedule))
                             break
-                        log("Waiting... ({0}/5 empty cycles)".format(
+                        log("Waiting... ({0}/30 empty cycles)".format(
                             consecutive_no_schedule))
                     else:
                         consecutive_no_schedule = 0
