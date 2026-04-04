@@ -1,13 +1,18 @@
 {
-  "updated": "2026-04-03T00:01:10Z",
-  "min_version": "1.7.0",
   "update_es": "",
-  "update_en": "",
   "brackets": {},
-  "live": [],
+  "live": [
+    {
+      "status": "1H",
+      "minute": null,
+      "id": 900,
+      "home": 0,
+      "away": 0
+    }
+  ],
   "results": [
     {
-      "home": 0,
+      "id": 1,
       "goals": [
         {
           "minute": 34,
@@ -16,16 +21,16 @@
         },
         {
           "minute": 78,
-          "pen": true,
           "player": "T. Mokoena",
+          "pen": true,
           "team": "RSA"
         }
       ],
-      "id": 1,
+      "home": 0,
       "away": 2
     },
     {
-      "home": 3,
+      "id": 2,
       "goals": [
         {
           "minute": 12,
@@ -35,8 +40,8 @@
         {
           "minute": 45,
           "player": "Hwang Hee-chan",
-          "team": "KOR",
-          "extra": 2
+          "extra": 2,
+          "team": "KOR"
         },
         {
           "minute": 67,
@@ -49,11 +54,11 @@
           "team": "UPD"
         }
       ],
-      "id": 2,
+      "home": 3,
       "away": 1
     },
     {
-      "home": 1,
+      "id": 3,
       "goals": [
         {
           "minute": 40,
@@ -66,11 +71,11 @@
           "team": "RSA"
         }
       ],
-      "id": 3,
+      "home": 1,
       "away": 1
     },
     {
-      "home": 1,
+      "id": 4,
       "goals": [
         {
           "minute": 22,
@@ -93,11 +98,11 @@
           "team": "KOR"
         }
       ],
-      "id": 4,
+      "home": 1,
       "away": 3
     },
     {
-      "home": 2,
+      "id": 5,
       "goals": [
         {
           "minute": 31,
@@ -106,16 +111,16 @@
         },
         {
           "minute": 75,
-          "pen": true,
           "player": "J. Placeholder",
+          "pen": true,
           "team": "UPD"
         }
       ],
-      "id": 5,
+      "home": 2,
       "away": 0
     },
     {
-      "home": 3,
+      "id": 6,
       "goals": [
         {
           "minute": 5,
@@ -138,11 +143,11 @@
           "team": "KOR"
         }
       ],
-      "id": 6,
+      "home": 3,
       "away": 1
     },
     {
-      "home": 1,
+      "id": 13,
       "goals": [
         {
           "minute": 44,
@@ -162,15 +167,15 @@
         {
           "minute": 90,
           "player": "H. Ziyech",
-          "team": "MAR",
-          "extra": 4
+          "extra": 4,
+          "team": "MAR"
         }
       ],
-      "id": 13,
+      "home": 1,
       "away": 3
     },
     {
-      "home": 0,
+      "id": 49,
       "goals": [
         {
           "minute": 76,
@@ -178,11 +183,11 @@
           "team": "SEN"
         }
       ],
-      "id": 49,
+      "home": 0,
       "away": 1
     },
     {
-      "home": 3,
+      "id": 55,
       "goals": [
         {
           "minute": 15,
@@ -196,16 +201,16 @@
         },
         {
           "minute": 81,
-          "pen": true,
           "player": "L. Messi",
+          "pen": true,
           "team": "ARG"
         }
       ],
-      "id": 55,
+      "home": 3,
       "away": 0
     },
     {
-      "home": 3,
+      "id": 43,
       "goals": [
         {
           "minute": 19,
@@ -219,16 +224,16 @@
         },
         {
           "minute": 68,
-          "pen": true,
           "player": "Á. Morata",
+          "pen": true,
           "team": "ESP"
         }
       ],
-      "id": 43,
+      "home": 3,
       "away": 0
     },
     {
-      "home": 5,
+      "id": 25,
       "goals": [
         {
           "minute": 11,
@@ -242,8 +247,8 @@
         },
         {
           "minute": 39,
-          "pen": true,
           "player": "K. Havertz",
+          "pen": true,
           "team": "GER"
         },
         {
@@ -257,11 +262,11 @@
           "team": "GER"
         }
       ],
-      "id": 25,
+      "home": 5,
       "away": 0
     },
     {
-      "home": 2,
+      "id": 67,
       "goals": [
         {
           "minute": 29,
@@ -279,8 +284,11 @@
           "team": "CRO"
         }
       ],
-      "id": 67,
+      "home": 2,
       "away": 1
     }
-  ]
+  ],
+  "min_version": "1.7.0",
+  "updated": "2026-04-04T20:25:36Z",
+  "update_en": ""
 }
