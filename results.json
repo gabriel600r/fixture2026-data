@@ -4,7 +4,7 @@
   "live": [
     {
       "status": "1H",
-      "minute": null,
+      "minute": 1,
       "id": 900,
       "home": 0,
       "away": 0
@@ -288,7 +288,7 @@
       "away": 1
     }
   ],
-  "updated": "2026-04-04T20:31:44Z",
-  "update_en": "",
-  "min_version": "1.7.0"
+  "min_version": "1.7.0",
+  "updated": "2026-04-04T20:33:46Z",
+  "update_en": ""
 }
