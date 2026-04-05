@@ -1,320 +1,328 @@
 {
   "results": [
     {
-      "home": 0,
-      "away": 2,
       "id": 1,
+      "away": 2,
       "goals": [
         {
-          "player": "P. Mothiba",
+          "team": "RSA",
           "minute": 34,
-          "team": "RSA"
+          "player": "P. Mothiba"
         },
         {
-          "player": "T. Mokoena",
+          "team": "RSA",
           "minute": 78,
-          "pen": true,
-          "team": "RSA"
-        }
-      ]
-    },
-    {
-      "home": 3,
-      "away": 1,
-      "id": 2,
-      "goals": [
-        {
-          "player": "Son Heung-min",
-          "minute": 12,
-          "team": "KOR"
-        },
-        {
-          "player": "Hwang Hee-chan",
-          "minute": 45,
-          "extra": 2,
-          "team": "KOR"
-        },
-        {
-          "player": "Lee Kang-in",
-          "minute": 67,
-          "team": "KOR"
-        },
-        {
-          "player": "J. Placeholder",
-          "minute": 55,
-          "team": "UPD"
-        }
-      ]
-    },
-    {
-      "home": 1,
-      "away": 1,
-      "id": 3,
-      "goals": [
-        {
-          "player": "J. Placeholder",
-          "minute": 40,
-          "team": "UPD"
-        },
-        {
-          "player": "L. Trossard",
-          "minute": 60,
-          "team": "RSA"
-        }
-      ]
-    },
-    {
-      "home": 1,
-      "away": 3,
-      "id": 4,
-      "goals": [
-        {
-          "player": "S. Giménez",
-          "minute": 22,
-          "team": "MEX"
-        },
-        {
-          "player": "Son Heung-min",
-          "minute": 10,
-          "team": "KOR"
-        },
-        {
-          "player": "Lee Kang-in",
-          "minute": 53,
-          "team": "KOR"
-        },
-        {
-          "player": "Hwang Hee-chan",
-          "minute": 88,
-          "team": "KOR"
-        }
-      ]
-    },
-    {
-      "home": 2,
-      "away": 0,
-      "id": 5,
-      "goals": [
-        {
-          "player": "J. Placeholder",
-          "minute": 31,
-          "team": "UPD"
-        },
-        {
-          "player": "J. Placeholder",
-          "minute": 75,
-          "pen": true,
-          "team": "UPD"
-        }
-      ]
-    },
-    {
-      "home": 3,
-      "away": 1,
-      "id": 6,
-      "goals": [
-        {
-          "player": "P. Mothiba",
-          "minute": 5,
-          "team": "RSA"
-        },
-        {
           "player": "T. Mokoena",
-          "minute": 38,
-          "team": "RSA"
-        },
-        {
-          "player": "L. Trossard",
-          "minute": 71,
-          "team": "RSA"
-        },
-        {
-          "player": "Son Heung-min",
-          "minute": 64,
-          "team": "KOR"
+          "pen": true
         }
-      ]
+      ],
+      "home": 0
     },
     {
-      "home": 1,
+      "id": 2,
+      "away": 1,
+      "goals": [
+        {
+          "team": "KOR",
+          "minute": 12,
+          "player": "Son Heung-min"
+        },
+        {
+          "team": "KOR",
+          "extra": 2,
+          "minute": 45,
+          "player": "Hwang Hee-chan"
+        },
+        {
+          "team": "KOR",
+          "minute": 67,
+          "player": "Lee Kang-in"
+        },
+        {
+          "team": "UPD",
+          "minute": 55,
+          "player": "J. Placeholder"
+        }
+      ],
+      "home": 3
+    },
+    {
+      "id": 3,
+      "away": 1,
+      "goals": [
+        {
+          "team": "UPD",
+          "minute": 40,
+          "player": "J. Placeholder"
+        },
+        {
+          "team": "RSA",
+          "minute": 60,
+          "player": "L. Trossard"
+        }
+      ],
+      "home": 1
+    },
+    {
+      "id": 4,
       "away": 3,
-      "id": 13,
       "goals": [
         {
-          "player": "Vinícius Jr.",
-          "minute": 44,
-          "team": "BRA"
+          "team": "MEX",
+          "minute": 22,
+          "player": "S. Giménez"
         },
         {
-          "player": "A. Hakimi",
-          "minute": 27,
-          "team": "MAR"
+          "team": "KOR",
+          "minute": 10,
+          "player": "Son Heung-min"
         },
         {
-          "player": "Y. En-Nesyri",
-          "minute": 61,
-          "team": "MAR"
+          "team": "KOR",
+          "minute": 53,
+          "player": "Lee Kang-in"
         },
         {
-          "player": "H. Ziyech",
-          "minute": 90,
-          "extra": 4,
-          "team": "MAR"
+          "team": "KOR",
+          "minute": 88,
+          "player": "Hwang Hee-chan"
         }
-      ]
+      ],
+      "home": 1
     },
     {
-      "home": 5,
+      "id": 5,
       "away": 0,
-      "id": 25,
       "goals": [
         {
-          "player": "J. Musiala",
-          "minute": 11,
-          "team": "GER"
-        },
-        {
-          "player": "F. Wirtz",
-          "minute": 25,
-          "team": "GER"
-        },
-        {
-          "player": "K. Havertz",
-          "minute": 39,
-          "pen": true,
-          "team": "GER"
-        },
-        {
-          "player": "L. Sané",
-          "minute": 58,
-          "team": "GER"
-        },
-        {
-          "player": "F. Wirtz",
-          "minute": 72,
-          "team": "GER"
-        }
-      ]
-    },
-    {
-      "home": 3,
-      "away": 0,
-      "id": 43,
-      "goals": [
-        {
-          "player": "L. Yamal",
-          "minute": 19,
-          "team": "ESP"
-        },
-        {
-          "player": "Pedri",
-          "minute": 42,
-          "team": "ESP"
-        },
-        {
-          "player": "Á. Morata",
-          "minute": 68,
-          "pen": true,
-          "team": "ESP"
-        }
-      ]
-    },
-    {
-      "home": 0,
-      "away": 1,
-      "id": 49,
-      "goals": [
-        {
-          "player": "S. Mané",
-          "minute": 76,
-          "team": "SEN"
-        }
-      ]
-    },
-    {
-      "home": 3,
-      "away": 0,
-      "id": 55,
-      "goals": [
-        {
-          "player": "L. Messi",
-          "minute": 15,
-          "team": "ARG"
-        },
-        {
-          "player": "J. Álvarez",
-          "minute": 52,
-          "team": "ARG"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 81,
-          "pen": true,
-          "team": "ARG"
-        }
-      ]
-    },
-    {
-      "home": 2,
-      "away": 1,
-      "id": 67,
-      "goals": [
-        {
-          "player": "J. Bellingham",
-          "minute": 29,
-          "team": "ENG"
-        },
-        {
-          "player": "H. Kane",
-          "minute": 57,
-          "team": "ENG"
-        },
-        {
-          "player": "L. Modrić",
-          "minute": 44,
-          "team": "CRO"
-        }
-      ]
-    },
-    {
-      "home": 1,
-      "away": 0,
-      "id": 900,
-      "goals": [
-        {
-          "player": "Gabriel Avalos",
-          "minute": 81,
-          "team": "IND"
-        }
-      ]
-    },
-    {
-      "home": 2,
-      "away": 1,
-      "id": 902,
-      "goals": [
-        {
-          "player": "Alejo Veliz",
+          "team": "UPD",
           "minute": 31,
-          "team": "ROC"
+          "player": "J. Placeholder"
         },
         {
-          "player": "Leandro Diaz",
-          "minute": 38,
-          "team": "ATU"
-        },
-        {
-          "player": "Alejo Veliz",
+          "team": "UPD",
           "minute": 75,
-          "team": "ROC"
+          "player": "J. Placeholder",
+          "pen": true
         }
-      ]
+      ],
+      "home": 2
+    },
+    {
+      "id": 6,
+      "away": 1,
+      "goals": [
+        {
+          "team": "RSA",
+          "minute": 5,
+          "player": "P. Mothiba"
+        },
+        {
+          "team": "RSA",
+          "minute": 38,
+          "player": "T. Mokoena"
+        },
+        {
+          "team": "RSA",
+          "minute": 71,
+          "player": "L. Trossard"
+        },
+        {
+          "team": "KOR",
+          "minute": 64,
+          "player": "Son Heung-min"
+        }
+      ],
+      "home": 3
+    },
+    {
+      "id": 13,
+      "away": 3,
+      "goals": [
+        {
+          "team": "BRA",
+          "minute": 44,
+          "player": "Vinícius Jr."
+        },
+        {
+          "team": "MAR",
+          "minute": 27,
+          "player": "A. Hakimi"
+        },
+        {
+          "team": "MAR",
+          "minute": 61,
+          "player": "Y. En-Nesyri"
+        },
+        {
+          "team": "MAR",
+          "extra": 4,
+          "minute": 90,
+          "player": "H. Ziyech"
+        }
+      ],
+      "home": 1
+    },
+    {
+      "id": 25,
+      "away": 0,
+      "goals": [
+        {
+          "team": "GER",
+          "minute": 11,
+          "player": "J. Musiala"
+        },
+        {
+          "team": "GER",
+          "minute": 25,
+          "player": "F. Wirtz"
+        },
+        {
+          "team": "GER",
+          "minute": 39,
+          "player": "K. Havertz",
+          "pen": true
+        },
+        {
+          "team": "GER",
+          "minute": 58,
+          "player": "L. Sané"
+        },
+        {
+          "team": "GER",
+          "minute": 72,
+          "player": "F. Wirtz"
+        }
+      ],
+      "home": 5
+    },
+    {
+      "id": 43,
+      "away": 0,
+      "goals": [
+        {
+          "team": "ESP",
+          "minute": 19,
+          "player": "L. Yamal"
+        },
+        {
+          "team": "ESP",
+          "minute": 42,
+          "player": "Pedri"
+        },
+        {
+          "team": "ESP",
+          "minute": 68,
+          "player": "Á. Morata",
+          "pen": true
+        }
+      ],
+      "home": 3
+    },
+    {
+      "id": 49,
+      "away": 1,
+      "goals": [
+        {
+          "team": "SEN",
+          "minute": 76,
+          "player": "S. Mané"
+        }
+      ],
+      "home": 0
+    },
+    {
+      "id": 55,
+      "away": 0,
+      "goals": [
+        {
+          "team": "ARG",
+          "minute": 15,
+          "player": "L. Messi"
+        },
+        {
+          "team": "ARG",
+          "minute": 52,
+          "player": "J. Álvarez"
+        },
+        {
+          "team": "ARG",
+          "minute": 81,
+          "player": "L. Messi",
+          "pen": true
+        }
+      ],
+      "home": 3
+    },
+    {
+      "id": 67,
+      "away": 1,
+      "goals": [
+        {
+          "team": "ENG",
+          "minute": 29,
+          "player": "J. Bellingham"
+        },
+        {
+          "team": "ENG",
+          "minute": 57,
+          "player": "H. Kane"
+        },
+        {
+          "team": "CRO",
+          "minute": 44,
+          "player": "L. Modrić"
+        }
+      ],
+      "home": 2
+    },
+    {
+      "id": 900,
+      "away": 0,
+      "goals": [
+        {
+          "team": "IND",
+          "minute": 81,
+          "player": "Gabriel Avalos"
+        }
+      ],
+      "home": 1
+    },
+    {
+      "id": 902,
+      "away": 1,
+      "goals": [
+        {
+          "team": "ROC",
+          "minute": 31,
+          "player": "Alejo Veliz"
+        },
+        {
+          "team": "ATU",
+          "minute": 38,
+          "player": "Leandro Diaz"
+        },
+        {
+          "team": "ROC",
+          "minute": 75,
+          "player": "Alejo Veliz"
+        }
+      ],
+      "home": 2
     }
   ],
-  "live": [],
-  "brackets": {},
-  "min_version": "1.7.0",
+  "live": [
+    {
+      "minute": 2,
+      "home": 0,
+      "away": 0,
+      "status": "1H",
+      "id": 901
+    }
+  ],
   "update_en": "",
-  "update_es": "",
-  "updated": "2026-04-05T01:58:58Z"
+  "brackets": {},
+  "updated": "2026-04-05T21:02:28Z",
+  "min_version": "1.7.0",
+  "update_es": ""
 }
