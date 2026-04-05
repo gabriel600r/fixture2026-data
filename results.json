@@ -293,13 +293,6 @@
     {
       "status": "1H",
       "home": 0,
-      "minute": 1,
-      "away": 0,
-      "id": 900
-    },
-    {
-      "status": "1H",
-      "home": 0,
       "minute": 3,
       "away": 0,
       "id": 902
