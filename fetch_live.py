@@ -484,14 +484,23 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
 
     # Match LiveScore data to our schedule
     targets = []
+    # Parse test mode arguments
+    test_filter = None
+    test_id = 900
+    test_home = "IND"
+    test_away = "RAC"
+    for arg in sys.argv:
+        if arg.startswith("--match="):
+            test_filter = arg.split("=", 1)[1].lower()
+        elif arg.startswith("--id="):
+            test_id = int(arg.split("=", 1)[1])
+        elif arg.startswith("--home="):
+            test_home = arg.split("=", 1)[1]
+        elif arg.startswith("--away="):
+            test_away = arg.split("=", 1)[1]
+
     for lm in live_matches:
         if test_mode:
-            # Match by name if --match argument given, otherwise first with goals
-            test_filter = None
-            for arg in sys.argv:
-                if arg.startswith("--match="):
-                    test_filter = arg.split("=", 1)[1].lower()
-
             name_match = (test_filter and
                           (test_filter in lm["home_name"].lower() or
                            test_filter in lm["away_name"].lower()))
@@ -499,9 +508,10 @@ def run_once(api_key, gh_token, schedule, name_to_code, test_mode=False):
             if name_match or (not test_filter and
                               (lm["home_score"] + lm["away_score"] > 0 or
                                len(targets) == 0)):
-                targets.append((lm, 900, "IND", "RAC"))
-                log("  TEST: Using {0} vs {1} ({2}) as match 900".format(
-                    lm["home_name"], lm["away_name"], lm["league"]))
+                targets.append((lm, test_id, test_home, test_away))
+                log("  TEST: Using {0} vs {1} ({2}) as match {3} ({4} vs {5})".format(
+                    lm["home_name"], lm["away_name"], lm["league"],
+                    test_id, test_home, test_away))
                 if name_match or lm["home_score"] + lm["away_score"] > 0:
                     break
         else:
