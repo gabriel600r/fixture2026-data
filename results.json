@@ -1,7 +1,8 @@
 {
+  "updated": "2026-04-05T22:31:04Z",
   "results": [
     {
-      "home": 0,
+      "id": 1,
       "away": 2,
       "goals": [
         {
@@ -16,10 +17,10 @@
           "pen": true
         }
       ],
-      "id": 1
+      "home": 0
     },
     {
-      "home": 3,
+      "id": 2,
       "away": 1,
       "goals": [
         {
@@ -44,10 +45,10 @@
           "player": "J. Placeholder"
         }
       ],
-      "id": 2
+      "home": 3
     },
     {
-      "home": 1,
+      "id": 3,
       "away": 1,
       "goals": [
         {
@@ -61,10 +62,10 @@
           "player": "L. Trossard"
         }
       ],
-      "id": 3
+      "home": 1
     },
     {
-      "home": 1,
+      "id": 4,
       "away": 3,
       "goals": [
         {
@@ -88,10 +89,10 @@
           "player": "Hwang Hee-chan"
         }
       ],
-      "id": 4
+      "home": 1
     },
     {
-      "home": 2,
+      "id": 5,
       "away": 0,
       "goals": [
         {
@@ -106,10 +107,10 @@
           "pen": true
         }
       ],
-      "id": 5
+      "home": 2
     },
     {
-      "home": 3,
+      "id": 6,
       "away": 1,
       "goals": [
         {
@@ -133,10 +134,10 @@
           "player": "Son Heung-min"
         }
       ],
-      "id": 6
+      "home": 3
     },
     {
-      "home": 1,
+      "id": 13,
       "away": 3,
       "goals": [
         {
@@ -161,10 +162,10 @@
           "player": "H. Ziyech"
         }
       ],
-      "id": 13
+      "home": 1
     },
     {
-      "home": 5,
+      "id": 25,
       "away": 0,
       "goals": [
         {
@@ -194,10 +195,10 @@
           "player": "F. Wirtz"
         }
       ],
-      "id": 25
+      "home": 5
     },
     {
-      "home": 3,
+      "id": 43,
       "away": 0,
       "goals": [
         {
@@ -217,10 +218,10 @@
           "pen": true
         }
       ],
-      "id": 43
+      "home": 3
     },
     {
-      "home": 0,
+      "id": 49,
       "away": 1,
       "goals": [
         {
@@ -229,10 +230,10 @@
           "player": "S. Mané"
         }
       ],
-      "id": 49
+      "home": 0
     },
     {
-      "home": 3,
+      "id": 55,
       "away": 0,
       "goals": [
         {
@@ -252,10 +253,10 @@
           "pen": true
         }
       ],
-      "id": 55
+      "home": 3
     },
     {
-      "home": 2,
+      "id": 67,
       "away": 1,
       "goals": [
         {
@@ -274,10 +275,10 @@
           "player": "L. Modrić"
         }
       ],
-      "id": 67
+      "home": 2
     },
     {
-      "home": 1,
+      "id": 900,
       "away": 0,
       "goals": [
         {
@@ -286,10 +287,10 @@
           "player": "Gabriel Avalos"
         }
       ],
-      "id": 900
+      "home": 1
     },
     {
-      "home": 2,
+      "id": 902,
       "away": 1,
       "goals": [
         {
@@ -308,16 +309,15 @@
           "player": "Alejo Veliz"
         }
       ],
-      "id": 902
+      "home": 2
     },
     {
-      "home": 0,
+      "id": 903,
       "away": 3,
-      "id": 903
+      "home": 0
     }
   ],
   "update_en": "",
-  "update_es": "",
   "brackets": {},
   "live": [
     {
@@ -337,9 +337,9 @@
       "home": 2,
       "id": 901,
       "away": 0,
-      "minute": 67
+      "minute": 68
     }
   ],
   "min_version": "1.7.0",
-  "updated": "2026-04-05T22:29:47Z"
+  "update_es": ""
 }
