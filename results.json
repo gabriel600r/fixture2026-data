@@ -291,9 +291,9 @@
   ],
   "live": [
     {
-      "status": "HT",
+      "status": "2H",
       "home": 1,
-      "minute": null,
+      "minute": 47,
       "id": 902,
       "goals": [
         {
@@ -312,7 +312,7 @@
   ],
   "brackets": {},
   "min_version": "1.7.0",
-  "updated": "2026-04-05T01:08:10Z",
+  "update_en": "",
   "update_es": "",
-  "update_en": ""
+  "updated": "2026-04-05T01:10:12Z"
 }
