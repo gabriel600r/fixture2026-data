@@ -1,9 +1,8 @@
 {
-  "min_version": "1.7.0",
-  "update_en": "",
-  "updated": "2026-04-05T00:02:45Z",
   "results": [
     {
+      "home": 0,
+      "away": 2,
       "id": 1,
       "goals": [
         {
@@ -12,16 +11,16 @@
           "team": "RSA"
         },
         {
-          "team": "RSA",
           "player": "T. Mokoena",
           "minute": 78,
-          "pen": true
+          "pen": true,
+          "team": "RSA"
         }
-      ],
-      "away": 2,
-      "home": 0
+      ]
     },
     {
+      "home": 3,
+      "away": 1,
       "id": 2,
       "goals": [
         {
@@ -30,9 +29,9 @@
           "team": "KOR"
         },
         {
-          "extra": 2,
           "player": "Hwang Hee-chan",
           "minute": 45,
+          "extra": 2,
           "team": "KOR"
         },
         {
@@ -45,11 +44,11 @@
           "minute": 55,
           "team": "UPD"
         }
-      ],
-      "away": 1,
-      "home": 3
+      ]
     },
     {
+      "home": 1,
+      "away": 1,
       "id": 3,
       "goals": [
         {
@@ -62,11 +61,11 @@
           "minute": 60,
           "team": "RSA"
         }
-      ],
-      "away": 1,
-      "home": 1
+      ]
     },
     {
+      "home": 1,
+      "away": 3,
       "id": 4,
       "goals": [
         {
@@ -89,11 +88,11 @@
           "minute": 88,
           "team": "KOR"
         }
-      ],
-      "away": 3,
-      "home": 1
+      ]
     },
     {
+      "home": 2,
+      "away": 0,
       "id": 5,
       "goals": [
         {
@@ -102,16 +101,16 @@
           "team": "UPD"
         },
         {
-          "team": "UPD",
           "player": "J. Placeholder",
           "minute": 75,
-          "pen": true
+          "pen": true,
+          "team": "UPD"
         }
-      ],
-      "away": 0,
-      "home": 2
+      ]
     },
     {
+      "home": 3,
+      "away": 1,
       "id": 6,
       "goals": [
         {
@@ -134,11 +133,11 @@
           "minute": 64,
           "team": "KOR"
         }
-      ],
-      "away": 1,
-      "home": 3
+      ]
     },
     {
+      "home": 1,
+      "away": 3,
       "id": 13,
       "goals": [
         {
@@ -157,16 +156,16 @@
           "team": "MAR"
         },
         {
-          "extra": 4,
           "player": "H. Ziyech",
           "minute": 90,
+          "extra": 4,
           "team": "MAR"
         }
-      ],
-      "away": 3,
-      "home": 1
+      ]
     },
     {
+      "home": 0,
+      "away": 1,
       "id": 49,
       "goals": [
         {
@@ -174,11 +173,11 @@
           "minute": 76,
           "team": "SEN"
         }
-      ],
-      "away": 1,
-      "home": 0
+      ]
     },
     {
+      "home": 3,
+      "away": 0,
       "id": 55,
       "goals": [
         {
@@ -192,16 +191,16 @@
           "team": "ARG"
         },
         {
-          "team": "ARG",
           "player": "L. Messi",
           "minute": 81,
-          "pen": true
+          "pen": true,
+          "team": "ARG"
         }
-      ],
-      "away": 0,
-      "home": 3
+      ]
     },
     {
+      "home": 3,
+      "away": 0,
       "id": 43,
       "goals": [
         {
@@ -215,16 +214,16 @@
           "team": "ESP"
         },
         {
-          "team": "ESP",
           "player": "Á. Morata",
           "minute": 68,
-          "pen": true
+          "pen": true,
+          "team": "ESP"
         }
-      ],
-      "away": 0,
-      "home": 3
+      ]
     },
     {
+      "home": 5,
+      "away": 0,
       "id": 25,
       "goals": [
         {
@@ -238,10 +237,10 @@
           "team": "GER"
         },
         {
-          "team": "GER",
           "player": "K. Havertz",
           "minute": 39,
-          "pen": true
+          "pen": true,
+          "team": "GER"
         },
         {
           "player": "L. Sané",
@@ -253,11 +252,11 @@
           "minute": 72,
           "team": "GER"
         }
-      ],
-      "away": 0,
-      "home": 5
+      ]
     },
     {
+      "home": 2,
+      "away": 1,
       "id": 67,
       "goals": [
         {
@@ -275,32 +274,40 @@
           "minute": 44,
           "team": "CRO"
         }
-      ],
-      "away": 1,
-      "home": 2
+      ]
     },
     {
+      "home": 1,
+      "away": 0,
+      "id": 900,
       "goals": [
         {
           "player": "Gabriel Avalos",
           "minute": 81,
           "team": "IND"
         }
-      ],
-      "id": 900,
-      "away": 0,
-      "home": 1
+      ]
     }
   ],
-  "update_es": "",
   "live": [
     {
-      "minute": 1,
-      "id": 900,
       "status": "1H",
+      "home": 0,
+      "minute": 1,
       "away": 0,
-      "home": 0
+      "id": 900
+    },
+    {
+      "status": "1H",
+      "home": 0,
+      "minute": 3,
+      "away": 0,
+      "id": 902
     }
   ],
-  "brackets": {}
+  "min_version": "1.7.0",
+  "brackets": {},
+  "update_en": "",
+  "update_es": "",
+  "updated": "2026-04-05T00:04:42Z"
 }
