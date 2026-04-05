@@ -293,14 +293,14 @@
     {
       "status": "1H",
       "home": 0,
-      "minute": 9,
+      "minute": 11,
       "away": 0,
       "id": 902
     }
   ],
   "brackets": {},
   "min_version": "1.7.0",
-  "updated": "2026-04-05T00:10:47Z",
+  "update_en": "",
   "update_es": "",
-  "update_en": ""
+  "updated": "2026-04-05T00:13:01Z"
 }
