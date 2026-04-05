@@ -293,7 +293,7 @@
     {
       "status": "2H",
       "home": 1,
-      "minute": 56,
+      "minute": 59,
       "id": 902,
       "goals": [
         {
@@ -312,7 +312,7 @@
   ],
   "brackets": {},
   "min_version": "1.7.0",
-  "updated": "2026-04-05T01:20:21Z",
+  "update_en": "",
   "update_es": "",
-  "update_en": ""
+  "updated": "2026-04-05T01:22:22Z"
 }
