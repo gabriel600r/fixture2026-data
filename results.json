@@ -70,7 +70,7 @@
         {
           "team": "MEX",
           "minute": 22,
-          "player": "S. Giménez"
+          "player": "S. Gim\u00e9nez"
         },
         {
           "team": "KOR",
@@ -142,7 +142,7 @@
         {
           "team": "BRA",
           "minute": 44,
-          "player": "Vinícius Jr."
+          "player": "Vin\u00edcius Jr."
         },
         {
           "team": "MAR",
@@ -186,7 +186,7 @@
         {
           "team": "GER",
           "minute": 58,
-          "player": "L. Sané"
+          "player": "L. San\u00e9"
         },
         {
           "team": "GER",
@@ -213,7 +213,7 @@
         {
           "team": "ESP",
           "minute": 68,
-          "player": "Á. Morata",
+          "player": "\u00c1. Morata",
           "pen": true
         }
       ],
@@ -226,7 +226,7 @@
         {
           "team": "SEN",
           "minute": 76,
-          "player": "S. Mané"
+          "player": "S. Man\u00e9"
         }
       ],
       "id": 49
@@ -243,7 +243,7 @@
         {
           "team": "ARG",
           "minute": 52,
-          "player": "J. Álvarez"
+          "player": "J. \u00c1lvarez"
         },
         {
           "team": "ARG",
@@ -271,32 +271,10 @@
         {
           "team": "CRO",
           "minute": 44,
-          "player": "L. Modrić"
+          "player": "L. Modri\u0107"
         }
       ],
       "id": 67
-    },
-    {
-      "home": 1,
-      "away": 3,
-      "goals": [
-        {
-          "team": "NOB",
-          "minute": 10,
-          "player": "F. Garcia"
-        },
-        {
-          "team": "NOB",
-          "minute": 40,
-          "player": "O. Salomon"
-        },
-        {
-          "team": "CCO",
-          "minute": 64,
-          "player": "D. Barrera"
-        }
-      ],
-      "id": 904
     }
   ],
   "update_en": "",
