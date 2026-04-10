@@ -5,5 +5,15 @@
   "brackets": {},
   "live": [],
   "min_version": "1.7.0",
-  "updated": "2026-04-06T00:00:00Z"
+  "updated": "2026-04-06T00:00:00Z",
+  "news": [
+    {
+      "id": 1,
+      "title_es": "¡Bienvenido a Fixture 2026!",
+      "title_en": "Welcome to Fixture 2026!",
+      "body_es": "Hola, soy Gabriel, el desarrollador de la app. Esta es mi primera app de fixture mundialista y la hice con mucho esfuerzo para que puedas disfrutar el Mundial al máximo. Durante los partidos vamos a estar atentos verificando que todo funcione correctamente. Si algo falla, ¡lo solucionamos rápido! Y si te gusta la app, te pido un favor enorme: dejá tu puntuación en Google Play. ¡Gracias por estar!",
+      "body_en": "Hi, I am Gabriel, the developer of this app. This is my first World Cup fixture app and I built it with lots of love so you can enjoy the World Cup to the fullest. During matches, I will be monitoring everything to make sure it works correctly. If something fails, I will fix it quickly! And if you like the app, I kindly ask for a huge favor: leave your rating on Google Play. Thanks for being here!",
+      "date": "10/04/2026"
+    }
+  ]
 }
