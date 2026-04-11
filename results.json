@@ -2,16 +2,16 @@
   "update_es": "",
   "brackets": {},
   "update_en": "",
-  "updated": "2026-04-11T01:30:23Z",
+  "updated": "2026-04-11T01:32:24Z",
   "results": [],
   "news": [
     {
       "title_en": "Welcome to Fixture 2026!",
       "body_es": "Hola, soy Gabriel, el desarrollador de la app. Esta es mi primera app de fixture mundialista y la hice con mucho esfuerzo para que puedas disfrutar el Mundial al máximo. Durante los partidos vamos a estar atentos verificando que todo funcione correctamente. Si algo falla, ¡lo solucionamos rápido!\n\nNo te olvides de conocer nuestras otras aplicaciones: tenemos muchas más, y todas son sin publicidad. Podés verlas desde el menú lateral en \"Más apps\".\n\nY si te gusta la app, te pido un favor enorme: dejá tu puntuación en Google Play. ¡Gracias por estar!",
       "id": 1,
-      "body_en": "Hi, I am Gabriel, the developer of this app. This is my first World Cup fixture app and I built it with lots of love so you can enjoy the World Cup to the fullest. During matches, I will be monitoring everything to make sure it works correctly. If something fails, I will fix it quickly!\n\nDo not forget to check out our other apps: we have many more, and all of them are ad-free. You can see them from the sidebar menu under \"More apps\".\n\nAnd if you like the app, I kindly ask for a huge favor: leave your rating on Google Play. Thanks for being here!",
+      "date": "10/04/2026",
       "title_es": "¡Bienvenido a Fixture 2026!",
-      "date": "10/04/2026"
+      "body_en": "Hi, I am Gabriel, the developer of this app. This is my first World Cup fixture app and I built it with lots of love so you can enjoy the World Cup to the fullest. During matches, I will be monitoring everything to make sure it works correctly. If something fails, I will fix it quickly!\n\nDo not forget to check out our other apps: we have many more, and all of them are ad-free. You can see them from the sidebar menu under \"More apps\".\n\nAnd if you like the app, I kindly ask for a huge favor: leave your rating on Google Play. Thanks for being here!"
     }
   ],
   "live": [
@@ -21,7 +21,7 @@
       "redCards": [
         "E. Rigoni (Belgrano Cordoba) 51'"
       ],
-      "minute": 71,
+      "minute": 73,
       "goals": [
         {
           "player": "L. Zelarayan",
