@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.egeainc.fixture2026",
+      "sha256_cert_fingerprints": [
+        "AF:B4:A8:98:C3:2E:C1:D2:6C:06:E6:8E:3D:81:61:0A:CA:18:68:C3:17:11:1F:A3:E6:C8:54:5C:7F:A5:05:AB"
+      ]
+    }
+  }
+]

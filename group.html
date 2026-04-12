@@ -13,8 +13,10 @@
         .subtitle { font-size: 14px; color: #888; margin-bottom: 20px; }
         .name { font-size: 18px; font-weight: bold; margin-bottom: 20px; color: #333; background: #f0f7f0; padding: 10px 16px; border-radius: 10px; display: inline-block; }
         .msg { font-size: 15px; color: #555; margin-bottom: 24px; line-height: 1.5; }
-        .btn { display: inline-block; background: #1B5E20; color: white; text-decoration: none; padding: 14px 28px; border-radius: 12px; font-size: 16px; font-weight: 600; }
+        .btn { display: inline-block; background: #1B5E20; color: white; text-decoration: none; padding: 14px 28px; border-radius: 12px; font-size: 16px; font-weight: 600; margin-bottom: 12px; }
         .btn:hover { background: #2E7D32; }
+        .btn-secondary { display: inline-block; background: #e8f5e9; color: #1B5E20; text-decoration: none; padding: 12px 24px; border-radius: 12px; font-size: 14px; font-weight: 600; }
+        .btn-secondary:hover { background: #c8e6c9; }
         .small { font-size: 12px; color: #aaa; margin-top: 16px; }
     </style>
 </head>
@@ -26,16 +28,22 @@
 
         <div id="group-box" class="name" style="display:none;"></div>
 
-        <p class="msg" id="msg-installed">
+        <p class="msg" id="msg-loading">
             Abriendo la app...
         </p>
-        <p class="msg" id="msg-fallback" style="display:none;">
-            Descarg&aacute; la app para unirte a este grupo:
-        </p>
 
-        <a id="store-link" class="btn" href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026" style="display:none;">
-            Descargar desde Google Play
-        </a>
+        <div id="fallback" style="display:none;">
+            <p class="msg">
+                Toc&aacute; el bot&oacute;n para unirte al grupo:
+            </p>
+            <a id="open-app-btn" class="btn" href="#">
+                Abrir en Fixture 2026
+            </a>
+            <br><br>
+            <a id="store-link" class="btn-secondary" href="https://play.google.com/store/apps/details?id=com.egeainc.fixture2026">
+                Descargar desde Google Play
+            </a>
+        </div>
 
         <p class="small">Developed by Gabriel Egea</p>
     </div>
@@ -46,7 +54,7 @@
             var groupId = params.get('id');
             var groupName = params.get('name');
             if (!groupId) {
-                document.getElementById('msg-installed').textContent = 'Link inv\u00e1lido.';
+                document.getElementById('msg-loading').textContent = 'Link inv\u00e1lido.';
                 return;
             }
 
@@ -56,17 +64,32 @@
                 box.style.display = 'inline-block';
             }
 
-            // Try to open the app via custom scheme
-            var deepLink = 'fixture2026://group?id=' + encodeURIComponent(groupId);
-            if (groupName) deepLink += '&name=' + encodeURIComponent(groupName);
-            window.location.href = deepLink;
+            // Build the Android Intent URI - this works from WhatsApp's in-app browser
+            var intentUri = 'intent://group?id=' + encodeURIComponent(groupId);
+            if (groupName) intentUri += '&name=' + encodeURIComponent(groupName);
+            intentUri += '#Intent;scheme=fixture2026;package=com.egeainc.fixture2026;end;';
 
-            // Fallback: after 2s, show Play Store link
+            // Also build custom scheme as fallback for non-Android
+            var customScheme = 'fixture2026://group?id=' + encodeURIComponent(groupId);
+            if (groupName) customScheme += '&name=' + encodeURIComponent(groupName);
+
+            // Set the button href to the intent URI
+            document.getElementById('open-app-btn').href = intentUri;
+
+            // Try to open automatically via intent URI
+            var iframe = document.createElement('iframe');
+            iframe.style.display = 'none';
+            iframe.src = intentUri;
+            document.body.appendChild(iframe);
+
+            // Also try custom scheme redirect
+            window.location.href = customScheme;
+
+            // Show fallback button after a short delay
             setTimeout(function() {
-                document.getElementById('msg-installed').style.display = 'none';
-                document.getElementById('msg-fallback').style.display = 'block';
-                document.getElementById('store-link').style.display = 'inline-block';
-            }, 2000);
+                document.getElementById('msg-loading').style.display = 'none';
+                document.getElementById('fallback').style.display = 'block';
+            }, 1500);
         })();
     </script>
 </body>
