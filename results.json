@@ -5,7 +5,7 @@
   "brackets": {},
   "live": [],
   "min_version": "1.7.0",
-  "updated": "2026-04-11T01:56:36Z",
+  "updated": "2026-04-27T20:55:00Z",
   "news": [
     {
       "id": 1,
@@ -22,6 +22,14 @@
       "body_es": "🎯 Compartir grupos de prode más rápido: si te invitan por WhatsApp y todavía no tenés apodo, la app te lo pide automáticamente y te une al grupo. Antes había que entrar manualmente.\n\n🇦🇷 Tu equipo, en grande: rediseñamos el header del menú lateral para mostrar la bandera de tu equipo con onda. Tocá la bandera para cambiarla cuando quieras.\n\n☕ Gracias más sentidas: cuando nos invitás un café, ahora aparece un mensaje especial y te avisamos si desbloqueaste una nueva insignia.\n\n📤 Compartir la app: el mensaje que se manda al compartir Fixture 2026 ahora muestra todo lo que la app hace.\n\n⏰ Cuenta regresiva al Mundial: timer estilo aeropuerto en la pantalla de Hoy que va contando los días, horas y minutos hasta el partido inaugural.",
       "body_en": "🎯 Faster prode group sharing: if someone invites you via WhatsApp and you don't have a nickname yet, the app now asks for one and joins automatically. Before, you had to enter manually.\n\n🇦🇷 Your team, in style: we redesigned the sidebar header to display your team's flag prominently. Tap the flag to change it anytime.\n\n☕ Better thanks: when you buy us a coffee, you now get a special message and we let you know if you unlocked a new badge.\n\n📤 Share the app: the message sent when sharing Fixture 2026 now shows everything the app can do.\n\n⏰ World Cup countdown: airport-style flap timer on the Today screen counting down days, hours and minutes until kickoff.",
       "date": "14/04/2026"
+    },
+    {
+      "id": 3,
+      "title_es": "Novedades v1.9.6",
+      "title_en": "What's new in v1.9.6",
+      "body_es": "🛠️ Mejoras menores y ajustes generales.\n\n📲 ¿Sabías que tenemos más apps gratis y sin publicidad? Encontralas en el menú lateral, en \"Más apps de EgeaINC\".",
+      "body_en": "🛠️ Minor improvements and general tweaks.\n\n📲 Did you know we have more free, ad-free apps? Find them in the sidebar, under \"More apps by EgeaINC\".",
+      "date": "27/04/2026"
     }
   ]
 }
