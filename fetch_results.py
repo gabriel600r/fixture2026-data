@@ -264,6 +264,86 @@ def fetch_and_update():
     return True
 
 
+# ── Knockout team resolution (authoritative source) ──────────────────
+# The 3rd-place R32 slots can't be derived from standings (the matching of
+# 8 qualifying thirds onto 8 slots is non-unique). The real teams come from
+# the fixtures FIFA publishes, which the API exposes as SCHEDULED matches
+# once the draw is set. We map each stage's fixtures to our internal IDs by
+# UTC-date order — but ONLY when the whole stage is present (so the ordering
+# is unambiguous) and a team is actually resolved. Everything else is left
+# untouched, so the app keeps showing the honest seed label "3º (A/B/C…)".
+
+def _real_tla(team):
+    """TLA of a resolved team, or '' for an unresolved knockout placeholder."""
+    if not team:
+        return ""
+    tla = team.get("tla") or ""
+    if team.get("id") is None or not tla:
+        return ""  # placeholder like {"name": "Winner Group A", "tla": null}
+    return tla
+
+
+def _apply_api_brackets(matches, brackets):
+    """Pure logic: write resolved knockout teams into `brackets` (mutated).
+    Returns a list of human-readable change strings. No I/O — unit-testable."""
+    by_stage = {}
+    for m in matches:
+        st = m.get("stage", "")
+        if st in KNOCKOUT_STAGES:
+            by_stage.setdefault(st, []).append(m)
+
+    changes = []
+    for st, ids in KNOCKOUT_STAGES.items():
+        ms = by_stage.get(st, [])
+        if len(ms) != len(ids):
+            continue  # whole stage not published yet → leave seed labels
+        ms.sort(key=lambda m: m["utcDate"])
+        for mid, m in zip(ids, ms):
+            home = convert_tla(_real_tla(m.get("homeTeam")))
+            away = convert_tla(_real_tla(m.get("awayTeam")))
+            if not home and not away:
+                continue  # both sides unresolved → seed labels stay
+            cur = brackets.get(str(mid), {})
+            new = {
+                "home": home or cur.get("home", "TBD"),
+                "away": away or cur.get("away", "TBD"),
+            }
+            if cur != new:
+                brackets[str(mid)] = new
+                changes.append(
+                    "bracket #{}: {} vs {}".format(mid, new["home"], new["away"]))
+    return changes
+
+
+def update_brackets_from_api():
+    """Fetch all WC matches and fill brackets[] with the real knockout teams.
+    Fails safe: any error or unresolved slot leaves existing data intact."""
+    if not API_KEY:
+        print("Error: FOOTBALL_DATA_API_KEY not set.")
+        return False
+    resp = api_get(f"/competitions/{COMPETITION}/matches")
+    if resp is None:
+        return False
+    matches = resp.get("matches", [])
+    if not matches:
+        return False
+
+    data = load_results()
+    brackets = data.get("brackets", {})
+    changes = _apply_api_brackets(matches, brackets)
+    if not changes:
+        print("No bracket changes.")
+        return False
+
+    data["brackets"] = brackets
+    save_results(data)
+    print("Bracket updates from API:")
+    for c in changes:
+        print("  " + c)
+    return True
+
+
 if __name__ == "__main__":
-    changed = fetch_and_update()
-    sys.exit(0 if changed else 0)
+    scores_changed = fetch_and_update()
+    brackets_changed = update_brackets_from_api()
+    sys.exit(0 if (scores_changed or brackets_changed) else 0)

@@ -302,19 +302,17 @@ def update_brackets(data, dry_run=False):
         group_runners[name] = standings[1][0]
         group_thirds[name] = (standings[2][0], standings[2][1])
 
-    # Determine qualifying 3rd-place teams (best 8 out of 12)
+    # 3rd-place slots are intentionally NOT resolved from standings.
+    # Mapping the 8 qualifying thirds onto the 8 R32 slots is a bipartite
+    # matching that is non-unique: ~97% of the 495 group-qualification combos
+    # admit >=3 valid assignments, so the correct one cannot be derived from
+    # standings alone — only FIFA's official Annex C table or the real R32
+    # fixtures are authoritative. Leaving these slots as TBD makes the app
+    # show the honest seed label "3º (A/B/C…)"; fetch_results.py fills the
+    # real team from the football-data.org draw once FIFA publishes it.
+    # (The previous greedy here stranded a slot in 395/495 combos and, when it
+    # did fill one, was wrong-vs-FIFA for most combos anyway.)
     third_place_assignments = {}
-    if len(group_thirds) >= 8:
-        # Rank all 3rd-place teams
-        all_thirds = [(g, t, s) for g, (t, s) in group_thirds.items()]
-        all_thirds.sort(key=lambda x: (
-            x[2]['pts'], x[2]['gd'], x[2]['gf'], x[2]['w']
-        ), reverse=True)
-
-        qualifying = all_thirds[:8]
-        qualifying_groups = set(g for g, t, s in qualifying)
-        third_teams = {g: t for g, t, s in qualifying}
-        third_place_assignments = resolve_third_place(qualifying_groups, third_teams)
 
     # Assign R32 matches
     for match_id, (home_src, away_src) in R32_BRACKET.items():
