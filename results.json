@@ -5,7 +5,7 @@
   "brackets": {},
   "live": [],
   "min_version": "1.7.0",
-  "updated": "2026-04-27T20:55:00Z",
+  "updated": "2026-05-26T10:21:56Z",
   "news": [
     {
       "id": 1,
@@ -30,6 +30,14 @@
       "body_es": "🛠️ Mejoras menores y ajustes generales.\n\n📲 ¿Sabías que tenemos más apps gratis y sin publicidad? Encontralas en el menú lateral, en \"Más apps de EgeaINC\".",
       "body_en": "🛠️ Minor improvements and general tweaks.\n\n📲 Did you know we have more free, ad-free apps? Find them in the sidebar, under \"More apps by EgeaINC\".",
       "date": "27/04/2026"
+    },
+    {
+      "id": 4,
+      "title_es": "Novedades v1.9.9",
+      "title_en": "What's new in v1.9.9",
+      "body_es": "🏆 ¡Llegó el cuadro de eliminatorias! Ahora cada cruce muestra su posición (1A, 2B, 3º de grupo) desde antes de que se definan los equipos, así seguís cómo se va armando el camino a la final.\n\n🛠️ Corregimos un cierre inesperado en algunos dispositivos y mejoramos la estabilidad general.\n\n¡Gracias por bancar la app! Cualquier cosa, escribime.",
+      "body_en": "🏆 The knockout bracket is here! Each matchup now shows its seeding (1A, 2B, 3rd place) before the teams are decided, so you can follow how the road to the final takes shape.\n\n🛠️ Fixed an unexpected crash on some devices and improved overall stability.\n\nThanks for using the app!",
+      "date": "26/05/2026"
     }
   ]
 }
