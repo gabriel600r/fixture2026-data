@@ -5,7 +5,7 @@
   "brackets": {},
   "live": [],
   "min_version": "1.7.0",
-  "updated": "2026-05-27T00:27:11Z",
+  "updated": "2026-05-27T23:23:43Z",
   "news": [
     {
       "id": 1,
@@ -46,6 +46,14 @@
       "body_es": "⚽ Resultados siempre confiables: ahora los resultados se actualizan únicamente desde la información oficial. Quitamos la carga manual en Fechas y Grupos (venía de cuando todavía no existía la actualización online). Si alguna vez cargaste un resultado a mano, se corrige solito apenas llega el dato oficial.\n\n🎯 Tu Prode intacto: seguís cargando y editando tus pronósticos como siempre. Este cambio toca solo los resultados oficiales, no tus jugadas.\n\n🙏 Gracias por la buena onda: leo todas las reviews y me ayudan un montón. Este ajuste salió de una sugerencia de ustedes. ¡Mil gracias por el aguante y por avisarme cuando algo se puede mejorar!\n\n🔧 Además: mejoras de estabilidad y un arranque más robusto al reiniciar el celu.",
       "body_en": "⚽ Always-reliable results: match results now update only from the official feed. We removed manual entry in Schedule and Groups (it dated back to before online updates existed). If you ever entered a result by hand, it gets corrected automatically as soon as the official data arrives.\n\n🎯 Your Prode untouched: you keep entering and editing your predictions just like always. This change only affects official results, not your picks.\n\n🙏 Thanks for the good vibes: I read every review and they help me a ton. This tweak came from one of your suggestions. Huge thanks for the support and for letting me know when something can be better!\n\n🔧 Also: stability improvements and a more robust startup after restarting your phone.",
       "date": "26/05/2026"
+    },
+    {
+      "id": 6,
+      "title_es": "Novedades v1.9.12",
+      "title_en": "What's new in v1.9.12",
+      "body_es": "📅 Partidos ordenados por horario: en Fechas y Hoy ahora ves los partidos de cada día en orden de hora, sin importar el grupo. Justo como los mirás.\n\n⭐ Partido del día: cuando hay varios partidos, te marco el más picante del día en la pestaña Hoy.\n\n❤️ Favoritos ordenados: tus equipos aparecen según cuál juega primero.\n\n🎯 Prode más claro: agregué una tarjeta que explica los puntos (Fase de grupos: 3 por exacto, 1 por ganador · Eliminatorias: 5 y 2) y hasta cuándo podés editar tu pronóstico: hasta 30 minutos antes de cada partido.\n\n🙏 Todo esto salió de sugerencias que me mandaron. ¡Gracias por el aguante y por ayudarme a mejorar la app!",
+      "body_en": "📅 Matches sorted by time: in Schedule and Today you now see each day's matches in kickoff order, regardless of group. Just like you watch them.\n\n⭐ Match of the day: when there are several matches, I highlight the biggest one on the Today tab.\n\n❤️ Sorted favorites: your teams show up by whoever plays next.\n\n🎯 Clearer Prode: I added a card explaining the points (Group stage: 3 for exact, 1 for the winner · Knockout: 5 and 2) and when you can edit your prediction: up to 30 minutes before each match.\n\n🙏 All of this came from suggestions you sent me. Thanks for the support and for helping me improve the app!",
+      "date": "27/05/2026"
     }
   ]
 }
