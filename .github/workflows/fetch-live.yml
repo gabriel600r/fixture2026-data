@@ -1,15 +1,13 @@
 name: Fetch Live Matches
 
 on:
-  schedule:
-    # Every 2 minutes during match hours (UTC)
-    # World Cup 2026: 11 jun - 19 jul
-    # Matches: 13:00–03:00 UTC (covers all timezones)
-    - cron: "*/2 12-23 * 6-7 *"
-    - cron: "*/2 0-4 * 6-7 *"
-    # Testing: ARG vs ZAM friendly 31 mar 2026 (23:15 ART = 02:15 UTC 1 apr)
-    - cron: "*/2 1-5 1 4 *"
-    - cron: "*/2 22-23 31 3 *"
+  # schedule deshabilitado 2026-06-01: el droplet NYC1 es la fuente de verdad
+  # (fetch_live.py con football-data.org primary + fallbacks, auto-gateado por
+  # schedule.json). Este workflow corria el fetch_live.py viejo del repo
+  # (LiveScore6/RapidAPI, cuota agotada) sin GITHUB_TOKEN -> fallaba siempre, y
+  # el cron mes=6-7 dia=* disparaba cada 2 min todo junio/julio (sin gate al
+  # dia 11 ni por partido). Si "funcionara" haria doble-push sobre results.json
+  # y chocaria con el droplet. Queda solo manual.
   workflow_dispatch: # Manual trigger
 
 permissions:
