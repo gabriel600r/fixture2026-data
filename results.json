@@ -54,6 +54,14 @@
       "body_es": "📅 Partidos ordenados por horario: en Fechas y Hoy ahora ves los partidos de cada día en orden de hora, sin importar el grupo. Justo como los mirás.\n\n⭐ Partido del día: cuando hay varios partidos, te marco el más picante del día en la pestaña Hoy.\n\n❤️ Favoritos ordenados: tus equipos aparecen según cuál juega primero.\n\n🎯 Prode más claro: agregué una tarjeta que explica los puntos (Fase de grupos: 3 por exacto, 1 por ganador · Eliminatorias: 5 y 2) y hasta cuándo podés editar tu pronóstico: hasta 30 minutos antes de cada partido.\n\n🙏 Todo esto salió de sugerencias que me mandaron. ¡Gracias por el aguante y por ayudarme a mejorar la app!",
       "body_en": "📅 Matches sorted by time: in Schedule and Today you now see each day's matches in kickoff order, regardless of group. Just like you watch them.\n\n⭐ Match of the day: when there are several matches, I highlight the biggest one on the Today tab.\n\n❤️ Sorted favorites: your teams show up by whoever plays next.\n\n🎯 Clearer Prode: I added a card explaining the points (Group stage: 3 for exact, 1 for the winner · Knockout: 5 and 2) and when you can edit your prediction: up to 30 minutes before each match.\n\n🙏 All of this came from suggestions you sent me. Thanks for the support and for helping me improve the app!",
       "date": "27/05/2026"
+    },
+    {
+      "id": 7,
+      "title_es": "Novedades v1.9.15",
+      "title_en": "What's new in v1.9.15",
+      "body_es": "📊 Estadísticas del Mundial: nueva sección con goleadores, asistencias, tarjetas y tablas de equipos. Buscá el botón con el cartelito \"New\" arriba.\n\n🔮 Antes del partido: la predicción y las formaciones confirmadas aparecen hasta una hora antes del pitazo. Mirá quiénes juegan, cómo forman y quién llega favorito.\n\n📋 Detalle de cada partido: posesión, remates, figura del partido y estadísticas detalladas.\n\n☕ Gratis y con café: lo básico siempre gratis (top 3 de cada tabla y datos del partido). Con un cafecito se destraban las tablas completas, la figura y las formaciones.\n\n🙏 ¡Gracias por el aguante! Se viene el Mundial y quiero que tengas todo a mano.",
+      "body_en": "📊 World Cup stats: a new section with top scorers, assists, cards and team tables. Look for the button with the little \"New\" tag up top.\n\n🔮 Before kickoff: the prediction and confirmed lineups show up to an hour before the match. See who's playing, how they line up and who's the favorite.\n\n📋 Match details: possession, shots, player of the match and detailed stats.\n\n☕ Free and with coffee: the basics are always free (top 3 of each table and match data). One coffee unlocks the full tables, player of the match and lineups.\n\n🙏 Thanks for the support! The World Cup is coming and I want you to have it all at hand.",
+      "date": "02/06/2026"
     }
   ]
 }
