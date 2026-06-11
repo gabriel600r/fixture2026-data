@@ -1,6 +1,146 @@
 {
-  "update_es": "",
+  "updated": "2026-06-11T18:30:44Z",
   "live": [],
+  "update_en": "",
+  "update_es": "",
+  "min_version": "1.7.0",
+  "brackets": {},
+  "prematch": [
+    {
+      "extras": {
+        "lineups": {
+          "home": {
+            "coach": "Javier Aguirre",
+            "formation": "4-1-4-1",
+            "xi": [
+              {
+                "pos": "G",
+                "name": "Raúl Rangel",
+                "n": 1
+              },
+              {
+                "pos": "D",
+                "name": "Israel Reyes",
+                "n": 15
+              },
+              {
+                "pos": "D",
+                "name": "César Montes",
+                "n": 3
+              },
+              {
+                "pos": "D",
+                "name": "Johan Vásquez",
+                "n": 5
+              },
+              {
+                "pos": "D",
+                "name": "Jesús Gallardo",
+                "n": 23
+              },
+              {
+                "pos": "M",
+                "name": "Erik Lira",
+                "n": 6
+              },
+              {
+                "pos": "M",
+                "name": "Roberto Alvarado",
+                "n": 25
+              },
+              {
+                "pos": "M",
+                "name": "Brian Gutiérrez",
+                "n": 26
+              },
+              {
+                "pos": "M",
+                "name": "Álvaro Fidalgo",
+                "n": 8
+              },
+              {
+                "pos": "M",
+                "name": "Julián Quiñones",
+                "n": 16
+              },
+              {
+                "pos": "F",
+                "name": "Raúl Jiménez",
+                "n": 9
+              }
+            ]
+          },
+          "away": {
+            "coach": "Hugo Broos",
+            "formation": "5-3-2",
+            "xi": [
+              {
+                "pos": "G",
+                "name": "Ronwen Williams",
+                "n": 1
+              },
+              {
+                "pos": "D",
+                "name": "Khuliso Mudau",
+                "n": 20
+              },
+              {
+                "pos": "D",
+                "name": "Ime Okon",
+                "n": 21
+              },
+              {
+                "pos": "D",
+                "name": "Nkosinathi Sibisi",
+                "n": 19
+              },
+              {
+                "pos": "D",
+                "name": "Mbekezeli Mbokazi",
+                "n": 14
+              },
+              {
+                "pos": "D",
+                "name": "Aubrey Modiba",
+                "n": 6
+              },
+              {
+                "pos": "M",
+                "name": "Teboho Mokoena",
+                "n": 4
+              },
+              {
+                "pos": "M",
+                "name": "Siphephelo Sithole",
+                "n": 13
+              },
+              {
+                "pos": "M",
+                "name": "Jayden Adams",
+                "n": 23
+              },
+              {
+                "pos": "F",
+                "name": "Lyle Foster",
+                "n": 9
+              },
+              {
+                "pos": "F",
+                "name": "Iqraam Rayners",
+                "n": 15
+              }
+            ]
+          }
+        },
+        "pred": {
+          "home": 33,
+          "away": 33,
+          "draw": 33
+        }
+      },
+      "id": 1
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
@@ -67,21 +207,5 @@
       "body_es": "Cuando empecé a armar esta app, jamás imaginé que iba a tomar el vuelo que está tomando. Pensé que con suerte llegaba a mil personas… y solo el 6 de junio la descargaron más de 2.500. Es una locura hermosa. 🤯\n\nGracias por cada reseña positiva, por cada estrella y por el cariño que me dejan. No tienen idea de la energía y la motivación que me dan para seguir mejorándola.\n\n⚠️ ━━━━━━━━━━━━━\nUn recordatorio honesto: detrás de esta app estoy yo solo, haciéndola en los ratos que puedo y con muchísimo amor. Por eso, puede fallar. Si algo sale mal —un resultado, una fecha, lo que sea— te pido paciencia y quedate tranquilo: voy a estar pendiente para arreglarlo lo más rápido posible.\n━━━━━━━━━━━━━\n\nDe hecho, gracias a mi hermano Adrián, que encontró un desfasaje en las fechas de algunos partidos, ya quedó corregido. 🙌\n\n📲 No se olviden de actualizar a la última versión (v1.9.16) para tener todo al día.\n\nGracias de nuevo por el amor y la buena onda. ¡A disfrutar el Mundial juntos! ⚽"
     }
   ],
-  "update_en": "",
-  "min_version": "1.7.0",
-  "brackets": {},
-  "prematch": [
-    {
-      "extras": {
-        "pred": {
-          "home": 33,
-          "away": 33,
-          "draw": 33
-        }
-      },
-      "id": 1
-    }
-  ],
-  "results": [],
-  "updated": "2026-06-11T18:00:03Z"
+  "results": []
 }
