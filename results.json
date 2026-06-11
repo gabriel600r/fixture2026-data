@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:04:55Z",
+  "updated": "2026-06-11T21:29:27Z",
   "live": [],
   "update_en": "",
   "update_es": "",
@@ -88,7 +88,206 @@
           "minute": 67,
           "team": "MEX"
         }
-      ]
+      ],
+      "stats": {
+        "passesTotal": [
+          519,
+          322
+        ],
+        "shotsOff": [
+          7,
+          1
+        ],
+        "shotsOn": [
+          4,
+          2
+        ],
+        "fouls": [
+          11,
+          11
+        ],
+        "passesAccurate": [
+          466,
+          262
+        ],
+        "saves": [
+          2,
+          2
+        ],
+        "passesPct": [
+          90,
+          81
+        ],
+        "shotsInside": [
+          9,
+          1
+        ],
+        "corners": [
+          3,
+          1
+        ],
+        "red": [
+          1,
+          2
+        ],
+        "offsides": [
+          1,
+          1
+        ],
+        "shotsBlocked": [
+          5,
+          0
+        ],
+        "possession": [
+          61,
+          39
+        ],
+        "yellow": [
+          1,
+          2
+        ],
+        "shotsTotal": [
+          16,
+          3
+        ],
+        "shotsOutside": [
+          7,
+          2
+        ],
+        "home": "MEX",
+        "away": "RSA"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-1-4-1",
+            "coach": "Javier Aguirre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Raúl Rangel",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Israel Reyes",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "César Montes",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Johan Vásquez",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Jesús Gallardo",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Erik Lira",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Roberto Alvarado",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Brian Gutiérrez",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Álvaro Fidalgo",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Julián Quiñones",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Raúl Jiménez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-3-2",
+            "coach": "Hugo Broos",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ronwen Williams",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Khuliso Mudau",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Nkosinathi Sibisi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ime Okon",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Mbekezeli Mbokazi",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Aubrey Modiba",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Teboho Mokoena",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Siphephelo Sithole",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Jayden Adams",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Iqraam Rayners",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Lyle Foster",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Julián Quiñones",
+          "rating": 8.5,
+          "team": "MEX"
+        }
+      }
     }
   ]
 }
