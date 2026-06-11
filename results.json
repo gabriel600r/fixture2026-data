@@ -1,31 +1,6 @@
 {
-  "updated": "2026-06-11T20:58:56Z",
-  "live": [
-    {
-      "id": 1,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 0,
-      "goals": [
-        {
-          "player": "J. Quinones",
-          "minute": 9,
-          "team": "MEX"
-        },
-        {
-          "player": "R. Jimenez",
-          "minute": 67,
-          "team": "MEX"
-        }
-      ],
-      "redCards": [
-        "Y. Sithole (RSA) 49'",
-        "T. Zwane (RSA) 84'",
-        "C. Montes (MEX) 90'"
-      ]
-    }
-  ],
+  "updated": "2026-06-11T21:04:55Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -97,5 +72,23 @@
       "body_es": "Cuando empecé a armar esta app, jamás imaginé que iba a tomar el vuelo que está tomando. Pensé que con suerte llegaba a mil personas… y solo el 6 de junio la descargaron más de 2.500. Es una locura hermosa. 🤯\n\nGracias por cada reseña positiva, por cada estrella y por el cariño que me dejan. No tienen idea de la energía y la motivación que me dan para seguir mejorándola.\n\n⚠️ ━━━━━━━━━━━━━\nUn recordatorio honesto: detrás de esta app estoy yo solo, haciéndola en los ratos que puedo y con muchísimo amor. Por eso, puede fallar. Si algo sale mal —un resultado, una fecha, lo que sea— te pido paciencia y quedate tranquilo: voy a estar pendiente para arreglarlo lo más rápido posible.\n━━━━━━━━━━━━━\n\nDe hecho, gracias a mi hermano Adrián, que encontró un desfasaje en las fechas de algunos partidos, ya quedó corregido. 🙌\n\n📲 No se olviden de actualizar a la última versión (v1.9.16) para tener todo al día.\n\nGracias de nuevo por el amor y la buena onda. ¡A disfrutar el Mundial juntos! ⚽"
     }
   ],
-  "results": []
+  "results": [
+    {
+      "id": 1,
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {
+          "player": "J. Quinones",
+          "minute": 9,
+          "team": "MEX"
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 67,
+          "team": "MEX"
+        }
+      ]
+    }
+  ]
 }
