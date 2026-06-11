@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:29:27Z",
+  "updated": "2026-06-11T23:58:49Z",
   "live": [],
   "update_en": "",
   "update_es": "",
@@ -288,6 +288,87 @@
           "team": "MEX"
         }
       }
+    }
+  ],
+  "stats": {
+    "scorers": [
+      {
+        "player": "J. Quinones",
+        "team": "MEX",
+        "goals": 1,
+        "penalties": 0
+      },
+      {
+        "player": "R. Jimenez",
+        "team": "MEX",
+        "goals": 1,
+        "penalties": 0
+      }
+    ],
+    "assists": [],
+    "cards": [
+      {
+        "player": "Y. Sithole",
+        "team": "RSA",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "T. Zwane",
+        "team": "RSA",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "C. Montes",
+        "team": "MEX",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "T. Mokoena",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "B. Gutierrez",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "N. Sibisi",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
+      }
+    ]
+  },
+  "teamStats": [
+    {
+      "code": "MEX",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 2,
+      "ga": 0,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "form": "W"
+    },
+    {
+      "code": "RSA",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 0,
+      "ga": 2,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "form": "L"
     }
   ]
 }
