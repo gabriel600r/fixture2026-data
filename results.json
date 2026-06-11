@@ -1,146 +1,26 @@
 {
-  "updated": "2026-06-11T18:30:44Z",
-  "live": [],
+  "updated": "2026-06-11T19:23:39Z",
+  "live": [
+    {
+      "id": 1,
+      "status": "1H",
+      "minute": 18,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "J. Quinones",
+          "minute": 9,
+          "team": "MEX"
+        }
+      ]
+    }
+  ],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [
-    {
-      "extras": {
-        "lineups": {
-          "home": {
-            "coach": "Javier Aguirre",
-            "formation": "4-1-4-1",
-            "xi": [
-              {
-                "pos": "G",
-                "name": "Raúl Rangel",
-                "n": 1
-              },
-              {
-                "pos": "D",
-                "name": "Israel Reyes",
-                "n": 15
-              },
-              {
-                "pos": "D",
-                "name": "César Montes",
-                "n": 3
-              },
-              {
-                "pos": "D",
-                "name": "Johan Vásquez",
-                "n": 5
-              },
-              {
-                "pos": "D",
-                "name": "Jesús Gallardo",
-                "n": 23
-              },
-              {
-                "pos": "M",
-                "name": "Erik Lira",
-                "n": 6
-              },
-              {
-                "pos": "M",
-                "name": "Roberto Alvarado",
-                "n": 25
-              },
-              {
-                "pos": "M",
-                "name": "Brian Gutiérrez",
-                "n": 26
-              },
-              {
-                "pos": "M",
-                "name": "Álvaro Fidalgo",
-                "n": 8
-              },
-              {
-                "pos": "M",
-                "name": "Julián Quiñones",
-                "n": 16
-              },
-              {
-                "pos": "F",
-                "name": "Raúl Jiménez",
-                "n": 9
-              }
-            ]
-          },
-          "away": {
-            "coach": "Hugo Broos",
-            "formation": "5-3-2",
-            "xi": [
-              {
-                "pos": "G",
-                "name": "Ronwen Williams",
-                "n": 1
-              },
-              {
-                "pos": "D",
-                "name": "Khuliso Mudau",
-                "n": 20
-              },
-              {
-                "pos": "D",
-                "name": "Ime Okon",
-                "n": 21
-              },
-              {
-                "pos": "D",
-                "name": "Nkosinathi Sibisi",
-                "n": 19
-              },
-              {
-                "pos": "D",
-                "name": "Mbekezeli Mbokazi",
-                "n": 14
-              },
-              {
-                "pos": "D",
-                "name": "Aubrey Modiba",
-                "n": 6
-              },
-              {
-                "pos": "M",
-                "name": "Teboho Mokoena",
-                "n": 4
-              },
-              {
-                "pos": "M",
-                "name": "Siphephelo Sithole",
-                "n": 13
-              },
-              {
-                "pos": "M",
-                "name": "Jayden Adams",
-                "n": 23
-              },
-              {
-                "pos": "F",
-                "name": "Lyle Foster",
-                "n": 9
-              },
-              {
-                "pos": "F",
-                "name": "Iqraam Rayners",
-                "n": 15
-              }
-            ]
-          }
-        },
-        "pred": {
-          "home": 33,
-          "away": 33,
-          "draw": 33
-        }
-      },
-      "id": 1
-    }
-  ],
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
