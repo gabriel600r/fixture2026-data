@@ -1,16 +1,21 @@
 {
-  "updated": "2026-06-11T20:33:47Z",
+  "updated": "2026-06-11T20:34:13Z",
   "live": [
     {
       "id": 1,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "J. Quinones",
           "minute": 9,
+          "team": "MEX"
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 67,
           "team": "MEX"
         }
       ],
