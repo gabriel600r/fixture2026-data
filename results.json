@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T20:56:38Z",
+  "updated": "2026-06-12T20:57:25Z",
   "live": [
     {
       "id": 7,
@@ -19,7 +19,7 @@
           "team": "CAN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           2,
