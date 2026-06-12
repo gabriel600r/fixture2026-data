@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T19:51:04Z",
+  "updated": "2026-06-12T19:51:51Z",
   "live": [
     {
       "id": 7,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 1,
       "goals": [
@@ -14,11 +14,11 @@
           "team": "BIH"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
-          1
+          2
         ],
         "red": [
           0,
@@ -41,8 +41,8 @@
           3
         ],
         "passesTotal": [
-          206,
-          105
+          217,
+          112
         ],
         "shotsBlocked": [
           3,
@@ -57,8 +57,8 @@
           1
         ],
         "passesPct": [
-          74,
-          65
+          75,
+          66
         ],
         "shotsOn": [
           1,
@@ -77,8 +77,8 @@
           8
         ],
         "passesAccurate": [
-          153,
-          68
+          163,
+          74
         ],
         "home": "CAN",
         "away": "BIH"
