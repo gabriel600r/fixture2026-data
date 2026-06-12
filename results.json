@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:09:10Z",
+  "updated": "2026-06-12T03:09:57Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 0,
       "stats": {
@@ -201,8 +201,8 @@
           }
         },
         "motm": {
-          "player": "Kang-in Lee",
-          "rating": 7.3,
+          "player": "Lee Tae-seok",
+          "rating": 7.2,
           "team": "KOR"
         }
       }
