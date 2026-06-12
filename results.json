@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T03:17:00Z",
+  "updated": "2026-06-12T03:17:46Z",
   "live": [
     {
       "id": 2,
@@ -7,6 +7,13 @@
       "minute": 55,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": "L. Krejci",
+          "minute": 59,
+          "team": "CZE"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           4,
@@ -21,7 +28,7 @@
           8
         ],
         "shotsInside": [
-          6,
+          7,
           1
         ],
         "offsides": [
@@ -29,7 +36,7 @@
           1
         ],
         "passesTotal": [
-          349,
+          352,
           231
         ],
         "passesPct": [
@@ -37,11 +44,11 @@
           71
         ],
         "shotsOn": [
-          3,
+          4,
           0
         ],
         "passesAccurate": [
-          302,
+          305,
           163
         ],
         "shotsOff": [
@@ -50,7 +57,7 @@
         ],
         "saves": [
           0,
-          3
+          4
         ],
         "red": [
           0,
@@ -61,7 +68,7 @@
           0
         ],
         "shotsTotal": [
-          10,
+          11,
           2
         ],
         "shotsBlocked": [
@@ -69,7 +76,7 @@
           1
         ],
         "corners": [
-          3,
+          4,
           4
         ],
         "home": "KOR",
