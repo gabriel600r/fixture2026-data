@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T02:21:35Z",
+  "updated": "2026-06-12T02:22:21Z",
   "live": [
     {
       "id": 2,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,7 +17,7 @@
           38
         ],
         "fouls": [
-          0,
+          1,
           2
         ],
         "shotsInside": [
