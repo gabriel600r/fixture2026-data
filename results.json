@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T03:07:35Z",
+  "updated": "2026-06-12T03:08:23Z",
   "live": [
     {
       "id": 2,
@@ -13,11 +13,11 @@
           1
         ],
         "possession": [
-          55,
-          45
+          54,
+          46
         ],
         "fouls": [
-          4,
+          5,
           7
         ],
         "shotsInside": [
@@ -29,20 +29,20 @@
           1
         ],
         "passesTotal": [
-          244,
-          194
+          255,
+          214
         ],
         "passesPct": [
           84,
-          70
+          71
         ],
         "shotsOn": [
           1,
           0
         ],
         "passesAccurate": [
-          206,
-          135
+          215,
+          151
         ],
         "shotsOff": [
           4,
@@ -70,7 +70,7 @@
         ],
         "corners": [
           3,
-          3
+          5
         ],
         "home": "KOR",
         "away": "CZE"
