@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-12T04:08:03Z",
+  "updated": "2026-06-12T18:00:05Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 7,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Jesse Marsch",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Maxime Crépeau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Alistair Johnston",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Luc De Fougerolles",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Derek Cornelius",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Richie Laryea",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Tajon Buchanan",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Ismael Koné",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Stephen Eustaquio",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Liam Millar",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jonathan David",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "Tani Oluwaseyi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Sergej Barbarez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Nikola Vasilj",
+                "pos": "G"
+              },
+              {
+                "n": 7,
+                "name": "Amar Dedić",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nikola Katić",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Tarik Muharemović",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Sead Kolašinac",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Esmir Bajraktarević",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Ivan Bašić",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Benjamin Tahirović",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Amar Memić",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Ermedin Demirović",
+                "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "Jovo Lukić",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
