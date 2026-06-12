@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:11:31Z",
+  "updated": "2026-06-12T03:12:18Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "stats": {
@@ -13,8 +13,8 @@
           1
         ],
         "possession": [
-          55,
-          45
+          56,
+          44
         ],
         "fouls": [
           5,
@@ -29,8 +29,8 @@
           1
         ],
         "passesTotal": [
-          282,
-          226
+          297,
+          227
         ],
         "passesPct": [
           85,
@@ -41,7 +41,7 @@
           0
         ],
         "passesAccurate": [
-          239,
+          252,
           161
         ],
         "shotsOff": [
@@ -202,7 +202,7 @@
         },
         "motm": {
           "player": "Lee Tae-seok",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "KOR"
         }
       }
