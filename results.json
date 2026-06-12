@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:40:13Z",
+  "updated": "2026-06-12T20:41:00Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 1,
       "goals": [
@@ -12,6 +12,11 @@
           "player": "J. Lukic",
           "minute": 21,
           "team": "BIH"
+        },
+        {
+          "player": "C. Larin",
+          "minute": 78,
+          "team": "CAN"
         }
       ],
       "stats": {
@@ -24,8 +29,8 @@
           0
         ],
         "possession": [
-          63,
-          37
+          61,
+          39
         ],
         "shotsTotal": [
           10,
@@ -40,8 +45,8 @@
           4
         ],
         "passesTotal": [
-          323,
-          190
+          326,
+          211
         ],
         "shotsBlocked": [
           3,
@@ -56,8 +61,8 @@
           1
         ],
         "passesPct": [
-          74,
-          62
+          73,
+          64
         ],
         "shotsOn": [
           3,
@@ -73,11 +78,11 @@
         ],
         "fouls": [
           9,
-          15
+          16
         ],
         "passesAccurate": [
-          238,
-          117
+          239,
+          135
         ],
         "home": "CAN",
         "away": "BIH"
