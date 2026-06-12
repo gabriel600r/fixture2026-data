@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:38:02Z",
+  "updated": "2026-06-12T03:38:48Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,11 +17,6 @@
           "player": "Hwang In-Beom",
           "minute": 67,
           "team": "KOR"
-        },
-        {
-          "player": "T. Soucek",
-          "minute": 77,
-          "team": "CZE"
         }
       ],
       "stats": {
@@ -34,7 +29,7 @@
           37
         ],
         "fouls": [
-          6,
+          7,
           12
         ],
         "shotsInside": [
@@ -43,10 +38,10 @@
         ],
         "offsides": [
           2,
-          1
+          2
         ],
         "passesTotal": [
-          473,
+          475,
           264
         ],
         "passesPct": [
@@ -58,7 +53,7 @@
           1
         ],
         "passesAccurate": [
-          417,
+          418,
           185
         ],
         "shotsOff": [
