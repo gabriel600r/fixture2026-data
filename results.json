@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-12T03:35:41Z",
+  "updated": "2026-06-12T03:36:28Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "L. Krejci",
@@ -30,7 +30,7 @@
         ],
         "fouls": [
           6,
-          11
+          12
         ],
         "shotsInside": [
           9,
@@ -41,8 +41,8 @@
           1
         ],
         "passesTotal": [
-          452,
-          257
+          473,
+          264
         ],
         "passesPct": [
           88,
@@ -53,8 +53,8 @@
           1
         ],
         "passesAccurate": [
-          398,
-          179
+          417,
+          185
         ],
         "shotsOff": [
           5,
