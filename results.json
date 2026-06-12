@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:10:33Z",
+  "updated": "2026-06-12T20:11:20Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,7 +29,7 @@
         ],
         "shotsTotal": [
           7,
-          5
+          6
         ],
         "corners": [
           9,
@@ -40,8 +40,8 @@
           3
         ],
         "passesTotal": [
-          220,
-          118
+          235,
+          127
         ],
         "shotsBlocked": [
           3,
@@ -49,19 +49,19 @@
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "passesPct": [
-          75,
-          67
+          74,
+          66
         ],
         "shotsOn": [
           1,
-          2
+          3
         ],
         "shotsInside": [
           6,
@@ -73,11 +73,11 @@
         ],
         "fouls": [
           4,
-          8
+          9
         ],
         "passesAccurate": [
-          164,
-          79
+          174,
+          84
         ],
         "home": "CAN",
         "away": "BIH"
@@ -208,8 +208,8 @@
           }
         },
         "motm": {
-          "player": "Amar Dedić",
-          "rating": 7.3,
+          "player": "Sead Kolašinac",
+          "rating": 7.7,
           "team": "BIH"
         }
       }
