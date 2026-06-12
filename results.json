@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:46:29Z",
+  "updated": "2026-06-12T20:47:15Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -45,8 +45,8 @@
           4
         ],
         "passesTotal": [
-          348,
-          227
+          354,
+          233
         ],
         "shotsBlocked": [
           3,
@@ -61,8 +61,8 @@
           1
         ],
         "passesPct": [
-          74,
-          65
+          73,
+          64
         ],
         "shotsOn": [
           4,
@@ -81,8 +81,8 @@
           16
         ],
         "passesAccurate": [
-          259,
-          147
+          260,
+          148
         ],
         "home": "CAN",
         "away": "BIH"
@@ -214,7 +214,7 @@
         },
         "motm": {
           "player": "Nikola Katić",
-          "rating": 8.0,
+          "rating": 8.2,
           "team": "BIH"
         }
       }
