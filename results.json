@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:31:38Z",
+  "updated": "2026-06-12T20:32:25Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 1,
       "goals": [
@@ -28,7 +28,7 @@
           36
         ],
         "shotsTotal": [
-          9,
+          11,
           7
         ],
         "corners": [
@@ -36,12 +36,12 @@
           3
         ],
         "shotsOff": [
-          4,
+          5,
           4
         ],
         "passesTotal": [
-          302,
-          173
+          310,
+          177
         ],
         "shotsBlocked": [
           3,
@@ -56,15 +56,15 @@
           1
         ],
         "passesPct": [
-          75,
+          74,
           62
         ],
         "shotsOn": [
-          2,
+          3,
           3
         ],
         "shotsInside": [
-          7,
+          9,
           5
         ],
         "offsides": [
@@ -72,12 +72,12 @@
           0
         ],
         "fouls": [
-          7,
-          13
+          8,
+          14
         ],
         "passesAccurate": [
-          226,
-          108
+          230,
+          110
         ],
         "home": "CAN",
         "away": "BIH"
@@ -208,7 +208,7 @@
           }
         },
         "motm": {
-          "player": "Sead Kolašinac",
+          "player": "Nikola Katić",
           "rating": 8.3,
           "team": "BIH"
         }
