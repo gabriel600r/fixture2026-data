@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T20:58:11Z",
+  "updated": "2026-06-12T21:59:03Z",
   "live": [],
   "update_en": "",
   "update_es": "",
@@ -988,9 +988,9 @@
       "ga": 0,
       "cleanSheets": 1,
       "failedToScore": 0,
-      "form": "W",
       "biggestWin": "2-0",
-      "biggestLose": ""
+      "biggestLose": "",
+      "form": "W"
     },
     {
       "code": "KOR",
@@ -1002,9 +1002,37 @@
       "ga": 1,
       "cleanSheets": 0,
       "failedToScore": 0,
-      "form": "W",
       "biggestWin": "2-1",
-      "biggestLose": ""
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "CAN",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "BIH",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
     },
     {
       "code": "CZE",
@@ -1016,9 +1044,9 @@
       "ga": 2,
       "cleanSheets": 0,
       "failedToScore": 0,
-      "form": "L",
       "biggestWin": "",
-      "biggestLose": "2-1"
+      "biggestLose": "1-2",
+      "form": "L"
     },
     {
       "code": "RSA",
@@ -1030,9 +1058,9 @@
       "ga": 2,
       "cleanSheets": 0,
       "failedToScore": 1,
-      "form": "L",
       "biggestWin": "",
-      "biggestLose": "2-0"
+      "biggestLose": "0-2",
+      "form": "L"
     }
   ]
 }
