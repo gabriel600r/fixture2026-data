@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T03:48:56Z",
+  "updated": "2026-06-12T03:49:43Z",
   "live": [
     {
       "id": 2,
@@ -24,14 +24,15 @@
           "team": "KOR"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOutside": [
           4,
           1
         ],
         "possession": [
-          63,
-          37
+          64,
+          36
         ],
         "fouls": [
           8,
@@ -46,20 +47,20 @@
           2
         ],
         "passesTotal": [
-          499,
-          282
+          527,
+          286
         ],
         "passesPct": [
           87,
-          70
+          69
         ],
         "shotsOn": [
           6,
           2
         ],
         "passesAccurate": [
-          435,
-          197
+          460,
+          198
         ],
         "shotsOff": [
           5,
