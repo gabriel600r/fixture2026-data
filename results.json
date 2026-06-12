@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:36:28Z",
+  "updated": "2026-06-12T03:37:15Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 2,
       "goals": [
@@ -17,6 +17,11 @@
           "player": "Hwang In-Beom",
           "minute": 67,
           "team": "KOR"
+        },
+        {
+          "player": "T. Soucek",
+          "minute": 77,
+          "team": "CZE"
         }
       ],
       "stats": {
