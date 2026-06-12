@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-12T03:38:48Z",
+  "updated": "2026-06-12T03:39:35Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 80,
-      "home": 1,
+      "minute": 81,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -16,6 +16,11 @@
         {
           "player": "Hwang In-Beom",
           "minute": 67,
+          "team": "KOR"
+        },
+        {
+          "player": "Oh Hyeon-Gyu",
+          "minute": 80,
           "team": "KOR"
         }
       ],
