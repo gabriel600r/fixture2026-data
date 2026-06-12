@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T02:15:20Z",
+  "updated": "2026-06-12T02:16:07Z",
   "live": [
     {
       "id": 2,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -183,13 +183,13 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Pavel Šulc",
+                "n": 17,
+                "name": "Lukáš Provod",
                 "pos": "F"
               },
               {
-                "n": 17,
-                "name": "Lukáš Provod",
+                "n": 15,
+                "name": "Pavel Šulc",
                 "pos": "F"
               },
               {
