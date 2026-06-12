@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T19:36:17Z",
+  "updated": "2026-06-12T19:37:04Z",
   "live": [
     {
       "id": 7,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 1,
       "goals": [
@@ -24,11 +24,11 @@
           0
         ],
         "possession": [
-          62,
-          38
+          64,
+          36
         ],
         "shotsTotal": [
-          3,
+          4,
           4
         ],
         "corners": [
@@ -40,8 +40,8 @@
           2
         ],
         "passesTotal": [
-          119,
-          73
+          133,
+          75
         ],
         "shotsBlocked": [
           2,
@@ -56,7 +56,7 @@
           1
         ],
         "passesPct": [
-          69,
+          70,
           71
         ],
         "shotsOn": [
@@ -64,7 +64,7 @@
           2
         ],
         "shotsInside": [
-          2,
+          3,
           4
         ],
         "offsides": [
@@ -76,8 +76,8 @@
           4
         ],
         "passesAccurate": [
-          82,
-          52
+          93,
+          53
         ],
         "home": "CAN",
         "away": "BIH"
