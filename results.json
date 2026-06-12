@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T19:13:40Z",
+  "updated": "2026-06-12T19:14:27Z",
   "live": [
     {
       "id": 7,
       "status": "1H",
-      "minute": 11,
+      "minute": 13,
       "home": 0,
       "away": 0,
       "stats": {
@@ -173,13 +173,13 @@
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Ivan Bašić",
+                "n": 6,
+                "name": "Benjamin Tahirović",
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Benjamin Tahirović",
+                "n": 13,
+                "name": "Ivan Bašić",
                 "pos": "M"
               },
               {
