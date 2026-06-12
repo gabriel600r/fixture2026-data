@@ -1,13 +1,12 @@
 {
-  "updated": "2026-06-12T18:00:05Z",
-  "live": [],
-  "update_en": "",
-  "update_es": "",
-  "min_version": "1.7.0",
-  "brackets": {},
-  "prematch": [
+  "updated": "2026-06-12T19:03:30Z",
+  "live": [
     {
       "id": 7,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "lineups": {
           "home": {
@@ -136,6 +135,11 @@
       }
     }
   ],
+  "update_en": "",
+  "update_es": "",
+  "min_version": "1.7.0",
+  "brackets": {},
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
