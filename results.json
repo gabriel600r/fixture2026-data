@@ -1,59 +1,39 @@
 {
-  "updated": "2026-06-12T03:17:46Z",
+  "updated": "2026-06-12T03:18:33Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 55,
+      "minute": 60,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
-          "player": "L. Krejci",
+          "player": "Ladislav Krejčí",
           "minute": 59,
           "team": "CZE"
         }
       ],
       "stats": {
-        "shotsOutside": [
-          4,
-          1
-        ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "fouls": [
           5,
           8
         ],
-        "shotsInside": [
-          7,
-          1
-        ],
         "offsides": [
           2,
           1
         ],
-        "passesTotal": [
-          352,
-          231
-        ],
-        "passesPct": [
-          87,
-          71
-        ],
         "shotsOn": [
           4,
-          0
-        ],
-        "passesAccurate": [
-          305,
-          163
+          1
         ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "saves": [
           0,
@@ -69,11 +49,11 @@
         ],
         "shotsTotal": [
           11,
-          2
+          4
         ],
         "shotsBlocked": [
           3,
-          1
+          0
         ],
         "corners": [
           4,
@@ -208,9 +188,9 @@
           }
         },
         "motm": {
-          "player": "Lee Tae-seok",
-          "rating": 7.3,
-          "team": "KOR"
+          "player": "L. Krejčí",
+          "rating": 7.72,
+          "team": "CZE"
         }
       }
     }
