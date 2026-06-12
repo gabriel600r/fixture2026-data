@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:27:08Z",
+  "updated": "2026-06-12T03:27:55Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 1,
       "goals": [
@@ -25,15 +25,15 @@
           1
         ],
         "possession": [
-          61,
-          39
+          63,
+          37
         ],
         "fouls": [
           6,
           9
         ],
         "shotsInside": [
-          8,
+          9,
           2
         ],
         "offsides": [
@@ -41,19 +41,19 @@
           1
         ],
         "passesTotal": [
-          416,
-          252
+          447,
+          253
         ],
         "passesPct": [
           88,
           70
         ],
         "shotsOn": [
-          4,
+          5,
           1
         ],
         "passesAccurate": [
-          364,
+          395,
           177
         ],
         "shotsOff": [
@@ -73,7 +73,7 @@
           0
         ],
         "shotsTotal": [
-          12,
+          13,
           3
         ],
         "shotsBlocked": [
@@ -213,9 +213,9 @@
           }
         },
         "motm": {
-          "player": "Ladislav Krejčí",
+          "player": "Hwang In-beom",
           "rating": 7.9,
-          "team": "CZE"
+          "team": "KOR"
         }
       }
     }
