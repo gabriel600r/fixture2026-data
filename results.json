@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:41:55Z",
+  "updated": "2026-06-12T03:42:42Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 2,
       "away": 1,
       "goals": [
@@ -30,8 +30,8 @@
           1
         ],
         "possession": [
-          64,
-          36
+          63,
+          37
         ],
         "fouls": [
           7,
@@ -39,15 +39,15 @@
         ],
         "shotsInside": [
           10,
-          2
+          3
         ],
         "offsides": [
           2,
           2
         ],
         "passesTotal": [
-          482,
-          266
+          483,
+          269
         ],
         "passesPct": [
           88,
@@ -55,18 +55,18 @@
         ],
         "shotsOn": [
           6,
-          1
+          2
         ],
         "passesAccurate": [
           425,
-          186
+          187
         ],
         "shotsOff": [
           5,
           2
         ],
         "saves": [
-          0,
+          1,
           4
         ],
         "red": [
@@ -79,7 +79,7 @@
         ],
         "shotsTotal": [
           14,
-          3
+          4
         ],
         "shotsBlocked": [
           3,
@@ -219,7 +219,7 @@
         },
         "motm": {
           "player": "Hwang In-beom",
-          "rating": 7.9,
+          "rating": 8.6,
           "team": "KOR"
         }
       }
