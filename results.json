@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T02:17:41Z",
+  "updated": "2026-06-12T02:18:27Z",
   "live": [
     {
       "id": 2,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 0,
       "away": 0,
       "stats": {
@@ -18,22 +18,22 @@
         ],
         "fouls": [
           0,
-          1
+          2
         ],
         "shotsInside": [
-          2,
-          0
+          3,
+          1
         ],
         "offsides": [
           1,
           0
         ],
         "passesTotal": [
-          86,
+          90,
           54
         ],
         "passesPct": [
-          85,
+          84,
           67
         ],
         "shotsOn": [
@@ -41,7 +41,7 @@
           0
         ],
         "passesAccurate": [
-          73,
+          76,
           36
         ],
         "shotsOff": [
@@ -61,16 +61,16 @@
           0
         ],
         "shotsTotal": [
-          3,
-          0
+          4,
+          1
         ],
         "shotsBlocked": [
-          1,
-          0
+          2,
+          1
         ],
         "corners": [
           3,
-          0
+          1
         ],
         "home": "KOR",
         "away": "CZE"
