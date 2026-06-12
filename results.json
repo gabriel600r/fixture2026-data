@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T19:49:31Z",
+  "updated": "2026-06-12T19:50:18Z",
   "live": [
     {
       "id": 7,
@@ -18,15 +18,15 @@
       "stats": {
         "yellow": [
           1,
-          0
+          1
         ],
         "red": [
           0,
           0
         ],
         "possession": [
-          68,
-          32
+          67,
+          33
         ],
         "shotsTotal": [
           7,
@@ -41,8 +41,8 @@
           3
         ],
         "passesTotal": [
-          196,
-          95
+          206,
+          105
         ],
         "shotsBlocked": [
           3,
@@ -57,7 +57,7 @@
           1
         ],
         "passesPct": [
-          75,
+          74,
           65
         ],
         "shotsOn": [
@@ -74,11 +74,11 @@
         ],
         "fouls": [
           4,
-          7
+          8
         ],
         "passesAccurate": [
-          147,
-          62
+          153,
+          68
         ],
         "home": "CAN",
         "away": "BIH"
