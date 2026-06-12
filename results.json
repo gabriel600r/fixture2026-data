@@ -1,20 +1,24 @@
 {
-  "updated": "2026-06-12T03:18:33Z",
+  "updated": "2026-06-12T03:19:20Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Ladislav Krejčí",
+          "player": "L. Krejci",
           "minute": 59,
           "team": "CZE"
         }
       ],
       "stats": {
+        "shotsOutside": [
+          4,
+          1
+        ],
         "possession": [
           60,
           40
@@ -23,13 +27,29 @@
           5,
           8
         ],
+        "shotsInside": [
+          7,
+          3
+        ],
         "offsides": [
           2,
           1
         ],
+        "passesTotal": [
+          363,
+          234
+        ],
+        "passesPct": [
+          87,
+          71
+        ],
         "shotsOn": [
           4,
           1
+        ],
+        "passesAccurate": [
+          316,
+          165
         ],
         "shotsOff": [
           4,
@@ -53,7 +73,7 @@
         ],
         "shotsBlocked": [
           3,
-          0
+          1
         ],
         "corners": [
           4,
