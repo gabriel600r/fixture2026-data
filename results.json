@@ -87,14 +87,16 @@
       "away": 0,
       "goals": [
         {
-          "player": "J. Quinones",
+          "player": "Julián Quiñones",
           "minute": 9,
-          "team": "MEX"
+          "team": "MEX",
+          "assist": "Erik Lira"
         },
         {
-          "player": "R. Jimenez",
+          "player": "Raúl Jiménez",
           "minute": 67,
-          "team": "MEX"
+          "team": "MEX",
+          "assist": "Roberto Alvarado"
         }
       ],
       "stats": {
@@ -295,7 +297,50 @@
           "rating": 8.5,
           "team": "MEX"
         }
-      }
+      },
+      "cardEvents": [
+        {
+          "player": "Teboho Mokoena",
+          "minute": 17,
+          "team": "RSA",
+          "color": "yellow"
+        },
+        {
+          "player": "Brian Gutiérrez",
+          "minute": 23,
+          "team": "MEX",
+          "color": "yellow"
+        },
+        {
+          "player": "Siphephelo Sithole",
+          "minute": 49,
+          "team": "RSA",
+          "color": "red"
+        },
+        {
+          "player": "Nkosinathi Sibisi",
+          "minute": 74,
+          "team": "RSA",
+          "color": "yellow"
+        },
+        {
+          "player": "Themba Zwane",
+          "minute": 84,
+          "team": "RSA",
+          "color": "red"
+        },
+        {
+          "player": "César Montes",
+          "minute": 90,
+          "team": "MEX",
+          "color": "red"
+        }
+      ],
+      "redCards": [
+        "Siphephelo Sithole (RSA) 49'",
+        "Themba Zwane (RSA) 84'",
+        "César Montes (MEX) 90'"
+      ]
     },
     {
       "id": 2,
@@ -305,17 +350,20 @@
         {
           "player": "L. Krejci",
           "minute": 59,
-          "team": "CZE"
+          "team": "CZE",
+          "assist": "V. Coufal"
         },
         {
           "player": "Hwang In-Beom",
           "minute": 67,
-          "team": "KOR"
+          "team": "KOR",
+          "assist": "Lee Kang-In"
         },
         {
           "player": "Oh Hyeon-Gyu",
           "minute": 80,
-          "team": "KOR"
+          "team": "KOR",
+          "assist": "Hwang In-Beom"
         }
       ],
       "stats": {
@@ -516,7 +564,15 @@
           "rating": 8.9,
           "team": "KOR"
         }
-      }
+      },
+      "cardEvents": [
+        {
+          "player": "Lee Gi-Hyuk",
+          "minute": 90,
+          "team": "KOR",
+          "color": "yellow"
+        }
+      ]
     },
     {
       "id": 7,
@@ -526,12 +582,14 @@
         {
           "player": "J. Lukic",
           "minute": 21,
-          "team": "BIH"
+          "team": "BIH",
+          "assist": "S. Kolasinac"
         },
         {
           "player": "C. Larin",
           "minute": 78,
-          "team": "CAN"
+          "team": "CAN",
+          "assist": "P. David"
         }
       ],
       "stats": {
@@ -732,73 +790,86 @@
           "rating": 8.3,
           "team": "BIH"
         }
-      }
+      },
+      "cardEvents": [
+        {
+          "player": "A. Johnston",
+          "minute": 11,
+          "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Demirovic",
+          "minute": 45,
+          "team": "BIH",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Lukic",
+          "minute": 45,
+          "team": "BIH",
+          "color": "yellow"
+        },
+        {
+          "player": "L. De Fougerolles",
+          "minute": 53,
+          "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Katic",
+          "minute": 90,
+          "team": "BIH",
+          "color": "yellow"
+        }
+      ]
     }
   ],
   "stats": {
     "scorers": [
       {
+        "player": "C. Larin",
+        "team": "CAN",
+        "goals": 1
+      },
+      {
         "player": "Hwang In-Beom",
         "team": "KOR",
         "goals": 1,
-        "assists": 1,
-        "penalties": 0,
-        "played": 1,
-        "minutes": 84,
-        "shots": 3,
-        "shotsOn": 2,
-        "rating": 8.9
+        "assists": 1
+      },
+      {
+        "player": "J. Lukic",
+        "team": "BIH",
+        "goals": 1
+      },
+      {
+        "player": "Julián Quiñones",
+        "team": "MEX",
+        "goals": 1
+      },
+      {
+        "player": "L. Krejci",
+        "team": "CZE",
+        "goals": 1
       },
       {
         "player": "Oh Hyeon-Gyu",
         "team": "KOR",
-        "goals": 1,
-        "assists": 0,
-        "penalties": 0,
-        "played": 1,
-        "minutes": 28,
-        "shots": 1,
-        "shotsOn": 1,
-        "rating": 7.3
+        "goals": 1
       },
       {
-        "player": "R. Jiménez",
+        "player": "Raúl Jiménez",
         "team": "MEX",
-        "goals": 1,
-        "assists": 0,
-        "penalties": 0,
-        "played": 1,
-        "minutes": 76,
-        "shots": 3,
-        "shotsOn": 2,
-        "rating": 7.9
-      },
-      {
-        "player": "J. Quiñones",
-        "team": "MEX",
-        "goals": 1,
-        "assists": 0,
-        "penalties": 0,
-        "played": 1,
-        "minutes": 79,
-        "shots": 4,
-        "shotsOn": 2,
-        "rating": 8.3
-      },
-      {
-        "player": "L. Krejčí",
-        "team": "CZE",
-        "goals": 1,
-        "assists": 0,
-        "penalties": 0,
-        "played": 1,
-        "minutes": 97,
-        "shots": 1,
-        "shotsOn": 1,
-        "rating": 7.2
+        "goals": 1
       }
     ],
     "assists": [
+      {
+        "player": "Erik Lira",
+        "team": "MEX",
+        "assists": 1
+      },
       {
         "player": "Hwang In-Beom",
         "team": "KOR",
@@ -806,46 +877,77 @@
         "goals": 1
       },
       {
-        "player": "É. Lira",
-        "team": "MEX",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "player": "R. Alvarado",
-        "team": "MEX",
-        "assists": 1,
-        "goals": 0
-      },
-      {
         "player": "Lee Kang-In",
         "team": "KOR",
-        "assists": 1,
-        "goals": 0
+        "assists": 1
+      },
+      {
+        "player": "P. David",
+        "team": "CAN",
+        "assists": 1
+      },
+      {
+        "player": "Roberto Alvarado",
+        "team": "MEX",
+        "assists": 1
+      },
+      {
+        "player": "S. Kolasinac",
+        "team": "BIH",
+        "assists": 1
       },
       {
         "player": "V. Coufal",
         "team": "CZE",
-        "assists": 1,
-        "goals": 0
+        "assists": 1
       }
     ],
     "cards": [
       {
-        "player": "B. Gutiérrez",
+        "player": "César Montes",
+        "team": "MEX",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "Siphephelo Sithole",
+        "team": "RSA",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "Themba Zwane",
+        "team": "RSA",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "A. Johnston",
+        "team": "CAN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Brian Gutiérrez",
         "team": "MEX",
         "red": 0,
         "yellow": 1
       },
       {
-        "player": "T. Mokoena",
-        "team": "RSA",
+        "player": "E. Demirovic",
+        "team": "BIH",
         "red": 0,
         "yellow": 1
       },
       {
-        "player": "N. Sibisi",
-        "team": "RSA",
+        "player": "J. Lukic",
+        "team": "BIH",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "L. De Fougerolles",
+        "team": "CAN",
         "red": 0,
         "yellow": 1
       },
@@ -856,22 +958,22 @@
         "yellow": 1
       },
       {
-        "player": "T. Zwane",
-        "team": "RSA",
-        "red": 1,
-        "yellow": 0
+        "player": "N. Katic",
+        "team": "BIH",
+        "red": 0,
+        "yellow": 1
       },
       {
-        "player": "S. Sithole",
+        "player": "Nkosinathi Sibisi",
         "team": "RSA",
-        "red": 1,
-        "yellow": 0
+        "red": 0,
+        "yellow": 1
       },
       {
-        "player": "C. Montes",
-        "team": "MEX",
-        "red": 1,
-        "yellow": 0
+        "player": "Teboho Mokoena",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
       }
     ]
   },
