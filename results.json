@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-12T03:37:15Z",
+  "updated": "2026-06-12T03:38:02Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
       "minute": 79,
       "home": 1,
-      "away": 2,
+      "away": 1,
       "goals": [
         {
           "player": "L. Krejci",
