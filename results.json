@@ -522,28 +522,401 @@
   "stats": {
     "scorers": [
       {
-        "player": "J. Quinones",
-        "team": "MEX",
+        "player": "Hwang In-Beom",
+        "team": "KOR",
         "goals": 1,
-        "penalties": 0
+        "assists": 1,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 84,
+        "shots": 3,
+        "shotsOn": 2,
+        "rating": 8.9
       },
       {
-        "player": "R. Jimenez",
+        "player": "Oh Hyeon-Gyu",
+        "team": "KOR",
+        "goals": 1,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 28,
+        "shots": 1,
+        "shotsOn": 1,
+        "rating": 7.3
+      },
+      {
+        "player": "R. Jiménez",
         "team": "MEX",
         "goals": 1,
-        "penalties": 0
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 76,
+        "shots": 3,
+        "shotsOn": 2,
+        "rating": 7.9
+      },
+      {
+        "player": "J. Quiñones",
+        "team": "MEX",
+        "goals": 1,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 79,
+        "shots": 4,
+        "shotsOn": 2,
+        "rating": 8.3
+      },
+      {
+        "player": "L. Krejčí",
+        "team": "CZE",
+        "goals": 1,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 97,
+        "shots": 1,
+        "shotsOn": 1,
+        "rating": 7.2
+      },
+      {
+        "player": "É. Lira",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 1,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 76,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 7.2
+      },
+      {
+        "player": "R. Alvarado",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 1,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 90,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 8.2
+      },
+      {
+        "player": "Lee Kang-In",
+        "team": "KOR",
+        "goals": 0,
+        "assists": 1,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 97,
+        "shots": 1,
+        "shotsOn": 1,
+        "rating": 8.2
+      },
+      {
+        "player": "V. Coufal",
+        "team": "CZE",
+        "goals": 0,
+        "assists": 1,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 97,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.5
+      },
+      {
+        "player": "A. Vega",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 11,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.5
+      },
+      {
+        "player": "E. Makgopa",
+        "team": "RSA",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 13,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.9
+      },
+      {
+        "player": "Kim Jin-Gyu",
+        "team": "KOR",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 13,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.6
+      },
+      {
+        "player": "Park Jin-Seop",
+        "team": "KOR",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 13,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.9
+      },
+      {
+        "player": "O. Appollis",
+        "team": "RSA",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 13,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.7
+      },
+      {
+        "player": "M. Chytil",
+        "team": "CZE",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 13,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.3
+      },
+      {
+        "player": "E. Álvarez",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 14,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 7.0
+      },
+      {
+        "player": "A. González",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 14,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.2
+      },
+      {
+        "player": "T. Zwane",
+        "team": "RSA",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 23,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 5.2
+      },
+      {
+        "player": "G. Mora",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 24,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.3
+      },
+      {
+        "player": "L. Chávez",
+        "team": "MEX",
+        "goals": 0,
+        "assists": 0,
+        "penalties": 0,
+        "played": 1,
+        "minutes": 24,
+        "shots": 0,
+        "shotsOn": 0,
+        "rating": 6.9
       }
     ],
-    "assists": [],
+    "assists": [
+      {
+        "player": "Hwang In-Beom",
+        "team": "KOR",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "player": "É. Lira",
+        "team": "MEX",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "player": "R. Alvarado",
+        "team": "MEX",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "player": "Lee Kang-In",
+        "team": "KOR",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "player": "V. Coufal",
+        "team": "CZE",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "player": "Oh Hyeon-Gyu",
+        "team": "KOR",
+        "assists": 0,
+        "goals": 1
+      },
+      {
+        "player": "R. Jiménez",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 1
+      },
+      {
+        "player": "J. Quiñones",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 1
+      },
+      {
+        "player": "L. Krejčí",
+        "team": "CZE",
+        "assists": 0,
+        "goals": 1
+      },
+      {
+        "player": "A. Vega",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "E. Makgopa",
+        "team": "RSA",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "Kim Jin-Gyu",
+        "team": "KOR",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "Park Jin-Seop",
+        "team": "KOR",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "O. Appollis",
+        "team": "RSA",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "M. Chytil",
+        "team": "CZE",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "E. Álvarez",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "A. González",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "T. Zwane",
+        "team": "RSA",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "G. Mora",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 0
+      },
+      {
+        "player": "L. Chávez",
+        "team": "MEX",
+        "assists": 0,
+        "goals": 0
+      }
+    ],
     "cards": [
       {
-        "player": "Y. Sithole",
+        "player": "B. Gutiérrez",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "T. Mokoena",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "N. Sibisi",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Lee Gi-Hyuk",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "T. Zwane",
         "team": "RSA",
         "red": 1,
         "yellow": 0
       },
       {
-        "player": "T. Zwane",
+        "player": "S. Sithole",
         "team": "RSA",
         "red": 1,
         "yellow": 0
@@ -555,22 +928,82 @@
         "yellow": 0
       },
       {
-        "player": "T. Mokoena",
-        "team": "RSA",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "B. Gutierrez",
+        "player": "A. Vega",
         "team": "MEX",
         "red": 0,
-        "yellow": 1
+        "yellow": 0
       },
       {
-        "player": "N. Sibisi",
+        "player": "Kim Jin-Gyu",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "E. Makgopa",
         "team": "RSA",
         "red": 0,
-        "yellow": 1
+        "yellow": 0
+      },
+      {
+        "player": "O. Appollis",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "M. Chytil",
+        "team": "CZE",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "Park Jin-Seop",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "E. Álvarez",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "A. González",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "G. Mora",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "L. Chávez",
+        "team": "MEX",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "Oh Hyeon-Gyu",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "Eom Ji-Sung",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 0
+      },
+      {
+        "player": "M. Sadílek",
+        "team": "CZE",
+        "red": 0,
+        "yellow": 0
       }
     ]
   },
@@ -585,7 +1018,37 @@
       "ga": 0,
       "cleanSheets": 1,
       "failedToScore": 0,
-      "form": "W"
+      "form": "W",
+      "biggestWin": "2-0",
+      "biggestLose": ""
+    },
+    {
+      "code": "KOR",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 2,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "form": "W",
+      "biggestWin": "2-1",
+      "biggestLose": ""
+    },
+    {
+      "code": "CZE",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 2,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "form": "L",
+      "biggestWin": "",
+      "biggestLose": "2-1"
     },
     {
       "code": "RSA",
@@ -597,7 +1060,9 @@
       "ga": 2,
       "cleanSheets": 0,
       "failedToScore": 1,
-      "form": "L"
+      "form": "L",
+      "biggestWin": "",
+      "biggestLose": "2-0"
     }
   ]
 }
