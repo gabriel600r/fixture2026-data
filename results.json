@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T03:06:01Z",
+  "updated": "2026-06-12T03:06:48Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "stats": {
@@ -29,20 +29,20 @@
           1
         ],
         "passesTotal": [
-          243,
-          195
+          244,
+          194
         ],
         "passesPct": [
           84,
-          69
+          70
         ],
         "shotsOn": [
           1,
           0
         ],
         "passesAccurate": [
-          205,
-          134
+          206,
+          135
         ],
         "shotsOff": [
           4,
@@ -201,8 +201,8 @@
           }
         },
         "motm": {
-          "player": "Kim Min-Jae",
-          "rating": 7.11,
+          "player": "Kang-in Lee",
+          "rating": 7.3,
           "team": "KOR"
         }
       }
