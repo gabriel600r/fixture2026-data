@@ -1,17 +1,22 @@
 {
-  "updated": "2026-06-12T03:25:34Z",
+  "updated": "2026-06-12T03:26:21Z",
   "live": [
     {
       "id": 2,
       "status": "2H",
-      "minute": 67,
-      "home": 0,
+      "minute": 68,
+      "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "L. Krejci",
           "minute": 59,
           "team": "CZE"
+        },
+        {
+          "player": "Hwang In-Beom",
+          "minute": 67,
+          "team": "KOR"
         }
       ],
       "stats": {
