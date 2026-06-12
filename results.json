@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:16:01Z",
+  "updated": "2026-06-12T20:16:48Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 54,
+      "minute": 56,
       "home": 0,
       "away": 1,
       "goals": [
@@ -16,7 +16,7 @@
       ],
       "stats": {
         "yellow": [
-          1,
+          2,
           2
         ],
         "red": [
@@ -24,11 +24,11 @@
           0
         ],
         "possession": [
-          66,
-          34
+          65,
+          35
         ],
         "shotsTotal": [
-          7,
+          8,
           6
         ],
         "corners": [
@@ -40,11 +40,11 @@
           3
         ],
         "passesTotal": [
-          249,
-          135
+          257,
+          142
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "shotsOutside": [
@@ -52,7 +52,7 @@
           2
         ],
         "saves": [
-          2,
+          3,
           1
         ],
         "passesPct": [
@@ -64,7 +64,7 @@
           3
         ],
         "shotsInside": [
-          6,
+          7,
           4
         ],
         "offsides": [
@@ -72,12 +72,12 @@
           0
         ],
         "fouls": [
-          4,
-          10
+          5,
+          11
         ],
         "passesAccurate": [
-          186,
-          87
+          194,
+          91
         ],
         "home": "CAN",
         "away": "BIH"
@@ -209,7 +209,7 @@
         },
         "motm": {
           "player": "Sead Kolašinac",
-          "rating": 7.6,
+          "rating": 8.2,
           "team": "BIH"
         }
       }
