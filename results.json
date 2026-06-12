@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-12T20:13:40Z",
+  "updated": "2026-06-12T20:14:27Z",
   "live": [
     {
       "id": 7,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 0,
       "away": 1,
       "goals": [
@@ -209,7 +209,7 @@
         },
         "motm": {
           "player": "Sead Kolašinac",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "BIH"
         }
       }
