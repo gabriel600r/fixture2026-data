@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:49:24Z",
+  "updated": "2026-06-13T19:50:11Z",
   "live": [
     {
       "id": 8,
@@ -35,13 +35,14 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
-          22,
-          78
+          24,
+          76
         ],
         "shotsTotal": [
-          2,
+          3,
           10
         ],
         "offsides": [
@@ -69,36 +70,36 @@
           2
         ],
         "passesTotal": [
-          71,
-          248
+          80,
+          250
         ],
         "corners": [
           1,
           3
         ],
         "passesAccurate": [
-          40,
-          225
+          48,
+          226
         ],
         "saves": [
           3,
-          1
+          2
         ],
         "shotsInside": [
-          2,
+          3,
           8
         ],
         "shotsOn": [
-          1,
+          2,
           4
         ],
         "passesPct": [
-          56,
-          91
+          60,
+          90
         ],
         "yellow": [
           2,
-          0
+          1
         ],
         "home": "QAT",
         "away": "SUI"
