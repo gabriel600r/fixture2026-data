@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T02:18:51Z",
+  "updated": "2026-06-13T02:19:38Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 3,
       "away": 0,
       "goals": [
@@ -241,7 +241,7 @@
         },
         "motm": {
           "player": "Folarin Balogun",
-          "rating": 9.3,
+          "rating": 9.2,
           "team": "USA"
         }
       }
