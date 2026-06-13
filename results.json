@@ -1,253 +1,6 @@
 {
-  "updated": "2026-06-13T21:04:21Z",
-  "live": [
-    {
-      "id": 8,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "B. Embolo",
-          "minute": 17,
-          "team": "SUI",
-          "pen": true
-        },
-        {
-          "player": "B. Khoukhi",
-          "minute": 90,
-          "team": "QAT",
-          "assist": "H. Al Amin"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Abunada",
-          "minute": 16,
-          "team": "QAT",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Gaber",
-          "minute": 23,
-          "team": "QAT",
-          "color": "yellow"
-        },
-        {
-          "player": "D. Zakaria",
-          "minute": 42,
-          "team": "SUI",
-          "color": "yellow"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "possession": [
-          31,
-          69
-        ],
-        "shotsTotal": [
-          6,
-          25
-        ],
-        "offsides": [
-          0,
-          1
-        ],
-        "shotsOff": [
-          3,
-          9
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "fouls": [
-          12,
-          11
-        ],
-        "shotsBlocked": [
-          0,
-          9
-        ],
-        "shotsOutside": [
-          2,
-          7
-        ],
-        "passesTotal": [
-          266,
-          568
-        ],
-        "corners": [
-          3,
-          9
-        ],
-        "passesAccurate": [
-          189,
-          516
-        ],
-        "saves": [
-          5,
-          3
-        ],
-        "shotsInside": [
-          4,
-          18
-        ],
-        "shotsOn": [
-          3,
-          7
-        ],
-        "passesPct": [
-          71,
-          91
-        ],
-        "yellow": [
-          2,
-          1
-        ],
-        "home": "QAT",
-        "away": "SUI"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Julen Lopetegui",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Mahmud Abunad",
-                "pos": "G"
-              },
-              {
-                "n": 13,
-                "name": "Ayoub Al Oui",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Pedro Miguel",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Boualem Khoukhi",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Homam Al-Amin",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Jassem Gaber Abdulsallam",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Assim Madibo",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Issa Laye",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Edmilson Junior",
-                "pos": "F"
-              },
-              {
-                "n": 15,
-                "name": "Yusuf Abdurisag",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Akram Afif",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Murat Yakin",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Gregor Kobel",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Denis Zakaria",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Nico Elvedi",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Manuel Akanji",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Ricardo Rodríguez",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Michel Aebischer",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Granit Xhaka",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Remo Freuler",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Dan Ndoye",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Breel Embolo",
-                "pos": "F"
-              },
-              {
-                "n": 17,
-                "name": "Rubén Vargas",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Gregor Kobel",
-          "rating": 7.9,
-          "team": "SUI"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-13T21:05:08Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -1215,6 +968,249 @@
       ]
     },
     {
+      "id": 8,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "B. Embolo",
+          "minute": 17,
+          "team": "SUI",
+          "pen": true
+        },
+        {
+          "player": "B. Khoukhi",
+          "minute": 90,
+          "team": "QAT",
+          "assist": "H. Al Amin"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Abunada",
+          "minute": 16,
+          "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Gaber",
+          "minute": 23,
+          "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Zakaria",
+          "minute": 42,
+          "team": "SUI",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "possession": [
+          31,
+          69
+        ],
+        "shotsTotal": [
+          6,
+          25
+        ],
+        "offsides": [
+          0,
+          1
+        ],
+        "shotsOff": [
+          3,
+          9
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          12,
+          11
+        ],
+        "shotsBlocked": [
+          0,
+          9
+        ],
+        "shotsOutside": [
+          2,
+          7
+        ],
+        "passesTotal": [
+          266,
+          568
+        ],
+        "corners": [
+          3,
+          9
+        ],
+        "passesAccurate": [
+          189,
+          516
+        ],
+        "saves": [
+          5,
+          3
+        ],
+        "shotsInside": [
+          4,
+          18
+        ],
+        "shotsOn": [
+          3,
+          7
+        ],
+        "passesPct": [
+          71,
+          91
+        ],
+        "yellow": [
+          2,
+          1
+        ],
+        "home": "QAT",
+        "away": "SUI"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Julen Lopetegui",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Mahmud Abunad",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Ayoub Al Oui",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Pedro Miguel",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Boualem Khoukhi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Homam Al-Amin",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jassem Gaber Abdulsallam",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Assim Madibo",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Issa Laye",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Edmilson Junior",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Yusuf Abdurisag",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Akram Afif",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Murat Yakin",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Gregor Kobel",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Denis Zakaria",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Akanji",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ricardo Rodríguez",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Michel Aebischer",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Granit Xhaka",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Remo Freuler",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Breel Embolo",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "Rubén Vargas",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Gregor Kobel",
+          "rating": 7.9,
+          "team": "SUI"
+        }
+      }
+    },
+    {
       "id": 19,
       "home": 4,
       "away": 1,
@@ -1481,6 +1477,17 @@
         "goals": 2
       },
       {
+        "player": "B. Embolo",
+        "team": "SUI",
+        "goals": 1,
+        "penalties": 1
+      },
+      {
+        "player": "B. Khoukhi",
+        "team": "QAT",
+        "goals": 1
+      },
+      {
         "player": "C. Larin",
         "team": "CAN",
         "goals": 1
@@ -1536,6 +1543,11 @@
       {
         "player": "Erik Lira",
         "team": "MEX",
+        "assists": 1
+      },
+      {
+        "player": "H. Al Amin",
+        "team": "QAT",
         "assists": 1
       },
       {
@@ -1618,6 +1630,12 @@
         "yellow": 1
       },
       {
+        "player": "D. Zakaria",
+        "team": "SUI",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Diego Gomez",
         "team": "PAR",
         "red": 0,
@@ -1626,6 +1644,12 @@
       {
         "player": "E. Demirovic",
         "team": "BIH",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "J. Gaber",
+        "team": "QAT",
         "red": 0,
         "yellow": 1
       },
@@ -1660,6 +1684,12 @@
         "yellow": 1
       },
       {
+        "player": "M. Abunada",
+        "team": "QAT",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Miguel Almirón",
         "team": "PAR",
         "red": 0,
@@ -1680,12 +1710,6 @@
       {
         "player": "Teboho Mokoena",
         "team": "RSA",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Tyler Adams",
-        "team": "USA",
         "red": 0,
         "yellow": 1
       }
@@ -1750,6 +1774,34 @@
     },
     {
       "code": "BIH",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "QAT",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "SUI",
       "played": 1,
       "wins": 0,
       "draws": 1,
