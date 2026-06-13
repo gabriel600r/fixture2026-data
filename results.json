@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T23:48:08Z",
+  "updated": "2026-06-13T23:48:55Z",
   "live": [
     {
       "id": 13,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -69,16 +69,16 @@
           6
         ],
         "passesTotal": [
-          452,
-          373
+          465,
+          383
         ],
         "corners": [
           4,
           0
         ],
         "passesAccurate": [
-          399,
-          322
+          411,
+          331
         ],
         "saves": [
           1,
@@ -235,7 +235,7 @@
         },
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 7.9,
+          "rating": 8.2,
           "team": "BRA"
         }
       }
