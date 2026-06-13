@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T01:15:50Z",
+  "updated": "2026-06-13T01:16:36Z",
   "live": [
     {
       "id": 19,
       "status": "1H",
-      "minute": 14,
+      "minute": 15,
       "home": 1,
       "away": 0,
       "goals": [
@@ -25,7 +25,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          37,
+          61,
           21
         ],
         "red": [
@@ -38,7 +38,7 @@
         ],
         "fouls": [
           1,
-          2
+          3
         ],
         "shotsBlocked": [
           0,
@@ -54,15 +54,15 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "saves": [
           1,
           1
         ],
         "passesTotal": [
-          43,
-          29
+          70,
+          31
         ],
         "shotsOutside": [
           0,
@@ -73,8 +73,8 @@
           0
         ],
         "possession": [
-          57,
-          43
+          68,
+          32
         ],
         "shotsOn": [
           1,
@@ -85,8 +85,8 @@
           1
         ],
         "passesPct": [
-          86,
-          72
+          87,
+          68
         ],
         "home": "USA",
         "away": "PAR"
@@ -128,13 +128,13 @@
                 "pos": "D"
               },
               {
-                "n": 17,
-                "name": "Malik Tillman",
+                "n": 4,
+                "name": "Tyler Adams",
                 "pos": "M"
               },
               {
-                "n": 4,
-                "name": "Tyler Adams",
+                "n": 17,
+                "name": "Malik Tillman",
                 "pos": "M"
               },
               {
