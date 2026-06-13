@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:59:27Z",
+  "updated": "2026-06-13T03:00:18Z",
   "live": [
     {
       "id": 19,
@@ -9,69 +9,69 @@
       "away": 1,
       "goals": [
         {
-          "player": "D. Bobadilla",
+          "player": "Damian Bobadilla",
           "minute": 7,
           "team": "USA",
           "og": true
         },
         {
-          "player": "F. Balogun",
+          "player": "Folarin Balogun",
           "minute": 31,
           "team": "USA",
-          "assist": "C. Pulisic"
+          "assist": "Christian Pulisic"
         },
         {
-          "player": "F. Balogun",
-          "minute": 45,
+          "player": "Folarin Balogun",
+          "minute": 50,
           "team": "USA",
-          "assist": "M. Tillman"
+          "assist": "Malik Tillman"
         },
         {
-          "player": "Mauricio",
+          "player": "Maurício Magalhães Prado",
           "minute": 73,
           "team": "PAR",
-          "assist": "J. Enciso"
+          "assist": "Julio Enciso"
         }
       ],
       "cardEvents": [
         {
-          "player": "J. Caceres",
+          "player": "Juan Caceres",
           "minute": 10,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "M. Almiron",
+          "player": "Miguel Almirón",
           "minute": 53,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "T. Adams",
+          "player": "Tyler Adams",
           "minute": 59,
           "team": "USA",
           "color": "yellow"
         },
         {
-          "player": "D. Gomez",
+          "player": "Diego Gomez",
           "minute": 79,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "A. Arce",
+          "player": "Alex Arce",
           "minute": 88,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "J. Alonso",
-          "minute": 90,
+          "player": "Junior Alonso",
+          "minute": 93,
           "team": "PAR",
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesAccurate": [
           457,
