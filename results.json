@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:13:35Z",
+  "updated": "2026-06-13T20:14:21Z",
   "live": [
     {
       "id": 8,
@@ -37,12 +37,12 @@
       ],
       "stats": {
         "possession": [
-          23,
-          77
+          25,
+          75
         ],
         "shotsTotal": [
           4,
-          12
+          14
         ],
         "offsides": [
           0,
@@ -62,23 +62,23 @@
         ],
         "shotsBlocked": [
           0,
-          4
+          5
         ],
         "shotsOutside": [
           1,
           2
         ],
         "passesTotal": [
-          85,
-          279
+          98,
+          293
         ],
         "corners": [
-          2,
+          3,
           4
         ],
         "passesAccurate": [
-          50,
-          254
+          60,
+          265
         ],
         "saves": [
           5,
@@ -86,15 +86,15 @@
         ],
         "shotsInside": [
           3,
-          10
+          12
         ],
         "shotsOn": [
           2,
-          6
+          7
         ],
         "passesPct": [
-          59,
-          91
+          61,
+          90
         ],
         "yellow": [
           2,
