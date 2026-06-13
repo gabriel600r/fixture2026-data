@@ -1,11 +1,22 @@
 {
-  "updated": "2026-06-12T21:59:03Z",
+  "updated": "2026-06-13T00:00:41Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 19,
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
