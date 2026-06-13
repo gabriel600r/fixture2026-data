@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T03:01:05Z",
+  "updated": "2026-06-13T03:01:52Z",
   "live": [
     {
       "id": 19,
@@ -71,7 +71,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "red": [
           0,
@@ -86,7 +86,7 @@
           17
         ],
         "shotsBlocked": [
-          3,
+          4,
           5
         ],
         "offsides": [
@@ -94,7 +94,7 @@
           1
         ],
         "shotsTotal": [
-          14,
+          15,
           9
         ],
         "yellow": [
@@ -251,8 +251,8 @@
           }
         },
         "motm": {
-          "player": "Folarin Balogun",
-          "rating": 9.2,
+          "player": "F. Balogun",
+          "rating": 9.1,
           "team": "USA"
         }
       }
