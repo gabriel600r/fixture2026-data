@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:15:43Z",
+  "updated": "2026-06-13T02:16:30Z",
   "live": [
     {
       "id": 19,
@@ -44,7 +44,7 @@
       "stats": {
         "passesAccurate": [
           307,
-          106
+          107
         ],
         "red": [
           0,
@@ -55,23 +55,23 @@
           1
         ],
         "fouls": [
-          5,
+          6,
           7
         ],
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "shotsTotal": [
           8,
-          4
+          5
         ],
         "offsides": [
           2,
           0
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "saves": [
@@ -80,11 +80,11 @@
         ],
         "passesTotal": [
           350,
-          149
+          150
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "corners": [
           2,
@@ -241,7 +241,7 @@
         },
         "motm": {
           "player": "Folarin Balogun",
-          "rating": 9.2,
+          "rating": 9.3,
           "team": "USA"
         }
       }
