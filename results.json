@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:27:37Z",
+  "updated": "2026-06-13T20:28:24Z",
   "live": [
     {
       "id": 8,
@@ -69,8 +69,8 @@
           3
         ],
         "passesTotal": [
-          120,
-          373
+          121,
+          385
         ],
         "corners": [
           3,
@@ -78,7 +78,7 @@
         ],
         "passesAccurate": [
           72,
-          337
+          349
         ],
         "saves": [
           4,
@@ -94,7 +94,7 @@
         ],
         "passesPct": [
           60,
-          90
+          91
         ],
         "yellow": [
           2,
@@ -235,7 +235,7 @@
         },
         "motm": {
           "player": "Gregor Kobel",
-          "rating": 7.5,
+          "rating": 7.3,
           "team": "SUI"
         }
       }
