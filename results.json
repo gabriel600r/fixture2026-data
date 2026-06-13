@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:46:17Z",
+  "updated": "2026-06-13T19:47:04Z",
   "live": [
     {
       "id": 8,
@@ -26,6 +26,12 @@
           "player": "J. Gaber",
           "minute": 23,
           "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Zakaria",
+          "minute": 42,
+          "team": "SUI",
           "color": "yellow"
         }
       ],
@@ -166,7 +172,7 @@
             ]
           },
           "away": {
-            "formation": "3-4-2-1",
+            "formation": "4-3-3",
             "coach": "Murat Yakin",
             "xi": [
               {
@@ -180,13 +186,18 @@
                 "pos": "D"
               },
               {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
                 "n": 5,
                 "name": "Manuel Akanji",
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Nico Elvedi",
+                "n": 13,
+                "name": "Ricardo Rodríguez",
                 "pos": "D"
               },
               {
@@ -195,18 +206,13 @@
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Remo Freuler",
-                "pos": "M"
-              },
-              {
                 "n": 10,
                 "name": "Granit Xhaka",
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Ricardo Rodríguez",
+                "n": 8,
+                "name": "Remo Freuler",
                 "pos": "M"
               },
               {
@@ -215,13 +221,13 @@
                 "pos": "F"
               },
               {
-                "n": 17,
-                "name": "Rubén Vargas",
+                "n": 7,
+                "name": "Breel Embolo",
                 "pos": "F"
               },
               {
-                "n": 7,
-                "name": "Breel Embolo",
+                "n": 17,
+                "name": "Rubén Vargas",
                 "pos": "F"
               }
             ]
