@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T20:29:57Z",
+  "updated": "2026-06-13T20:30:44Z",
   "live": [
     {
       "id": 8,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 1,
       "goals": [
@@ -234,8 +234,8 @@
           }
         },
         "motm": {
-          "player": "Gregor Kobel",
-          "rating": 7.3,
+          "player": "Rubén Vargas",
+          "rating": 7.5,
           "team": "SUI"
         }
       }
