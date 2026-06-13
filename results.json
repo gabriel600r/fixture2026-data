@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T02:16:30Z",
+  "updated": "2026-06-13T02:17:17Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 3,
       "away": 0,
       "goals": [
@@ -35,9 +35,9 @@
           "color": "yellow"
         },
         {
-          "player": "T. Ream",
-          "minute": 50,
-          "team": "USA",
+          "player": "M. Almiron",
+          "minute": 53,
+          "team": "PAR",
           "color": "yellow"
         }
       ],
