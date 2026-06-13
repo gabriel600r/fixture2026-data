@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T00:00:41Z",
+  "updated": "2026-06-13T00:31:14Z",
   "live": [],
   "update_en": "",
   "update_es": "",
@@ -13,6 +13,130 @@
           "home": 50,
           "draw": 50,
           "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Mauricio Pochettino",
+            "xi": [
+              {
+                "n": 24,
+                "name": "Matthew Freese",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Alexander Freeman",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Chris Richards",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Tim Ream",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Adams",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Weston McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Christian Pulišić",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Folarin Balogun",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Gustavo Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Orlando Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Juan Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Gustavo Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Omar Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Junior Alonso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Diego Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Damián Bobadilla",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Miguel Almirón",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Antonio Sanabria",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
+                "pos": "F"
+              }
+            ]
+          }
         }
       }
     }
