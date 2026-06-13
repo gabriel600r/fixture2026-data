@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T23:56:43Z",
+  "updated": "2026-06-13T23:57:29Z",
   "live": [
     {
       "id": 13,
@@ -35,11 +35,11 @@
           "color": "yellow"
         }
       ],
-      "extra": 1,
+      "extra": 3,
       "stats": {
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "shotsTotal": [
           11,
@@ -58,8 +58,8 @@
           0
         ],
         "fouls": [
-          14,
-          12
+          15,
+          13
         ],
         "shotsBlocked": [
           4,
@@ -70,16 +70,16 @@
           6
         ],
         "passesTotal": [
-          486,
-          421
+          490,
+          427
         ],
         "corners": [
           4,
           0
         ],
         "passesAccurate": [
-          428,
-          366
+          431,
+          371
         ],
         "saves": [
           1,
@@ -236,7 +236,7 @@
         },
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "BRA"
         }
       }
