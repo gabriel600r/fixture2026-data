@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T01:37:35Z",
+  "updated": "2026-06-13T01:38:22Z",
   "live": [
     {
       "id": 19,
@@ -17,7 +17,8 @@
         {
           "player": "F. Balogun",
           "minute": 31,
-          "team": "USA"
+          "team": "USA",
+          "assist": "C. Pulisic"
         }
       ],
       "cardEvents": [
