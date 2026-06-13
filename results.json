@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T22:36:33Z",
+  "updated": "2026-06-13T22:37:20Z",
   "live": [
     {
       "id": 13,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "Vinicius Junior",
           "minute": 32,
-          "team": "BRA"
+          "team": "BRA",
+          "assist": "Bruno Guimaraes"
         }
       ],
       "stats": {
