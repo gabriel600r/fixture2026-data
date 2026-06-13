@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T01:50:01Z",
+  "updated": "2026-06-13T01:50:48Z",
   "live": [
     {
       "id": 19,
@@ -32,8 +32,8 @@
       "extra": 3,
       "stats": {
         "passesAccurate": [
-          259,
-          70
+          276,
+          85
         ],
         "red": [
           0,
@@ -68,8 +68,8 @@
           2
         ],
         "passesTotal": [
-          293,
-          103
+          312,
+          119
         ],
         "shotsOutside": [
           1,
@@ -80,8 +80,8 @@
           0
         ],
         "possession": [
-          74,
-          26
+          72,
+          28
         ],
         "shotsOn": [
           3,
@@ -93,7 +93,7 @@
         ],
         "passesPct": [
           88,
-          68
+          71
         ],
         "home": "USA",
         "away": "PAR"
