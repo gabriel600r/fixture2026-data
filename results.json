@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T23:09:57Z",
+  "updated": "2026-06-13T23:10:44Z",
   "live": [
     {
       "id": 13,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -35,7 +35,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
       "stats": {
         "possession": [
           54,
@@ -233,6 +232,11 @@
               }
             ]
           }
+        },
+        "motm": {
+          "player": "Vinícius Júnior",
+          "rating": 7.9,
+          "team": "BRA"
         }
       }
     }
