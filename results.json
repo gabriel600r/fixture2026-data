@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T02:42:16Z",
+  "updated": "2026-06-13T02:43:03Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 3,
       "away": 1,
       "goals": [
@@ -51,12 +51,18 @@
           "minute": 59,
           "team": "USA",
           "color": "yellow"
+        },
+        {
+          "player": "D. Gomez",
+          "minute": 79,
+          "team": "PAR",
+          "color": "yellow"
         }
       ],
       "stats": {
         "passesAccurate": [
-          387,
-          173
+          416,
+          182
         ],
         "red": [
           0,
@@ -68,14 +74,14 @@
         ],
         "fouls": [
           9,
-          10
+          11
         ],
         "shotsBlocked": [
           3,
           5
         ],
         "shotsTotal": [
-          10,
+          12,
           9
         ],
         "offsides": [
@@ -88,11 +94,11 @@
         ],
         "saves": [
           1,
-          2
+          4
         ],
         "passesTotal": [
-          449,
-          238
+          482,
+          251
         ],
         "shotsOutside": [
           1,
@@ -107,11 +113,11 @@
           34
         ],
         "shotsOn": [
-          4,
+          6,
           1
         ],
         "shotsInside": [
-          9,
+          11,
           4
         ],
         "passesPct": [
