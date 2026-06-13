@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-13T03:01:52Z",
+  "updated": "2026-06-13T03:02:39Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
       "minute": 90,
-      "home": 3,
+      "home": 4,
       "away": 1,
       "goals": [
         {
@@ -31,6 +31,11 @@
           "minute": 73,
           "team": "PAR",
           "assist": "Julio Enciso"
+        },
+        {
+          "player": "Giovanni Reyna",
+          "minute": 98,
+          "team": "USA"
         }
       ],
       "cardEvents": [
@@ -94,7 +99,7 @@
           1
         ],
         "shotsTotal": [
-          15,
+          16,
           9
         ],
         "yellow": [
@@ -114,7 +119,7 @@
           36
         ],
         "shotsOn": [
-          5,
+          6,
           1
         ],
         "home": "USA",
