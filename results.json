@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T21:00:25Z",
+  "updated": "2026-06-13T21:01:12Z",
   "live": [
     {
       "id": 8,
@@ -35,7 +35,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "possession": [
           32,
@@ -235,7 +235,7 @@
           }
         },
         "motm": {
-          "player": "Rubén Vargas",
+          "player": "Gregor Kobel",
           "rating": 7.9,
           "team": "SUI"
         }
