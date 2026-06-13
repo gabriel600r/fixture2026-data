@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:59:35Z",
+  "updated": "2026-06-13T21:00:21Z",
   "live": [
     {
       "id": 8,
@@ -246,7 +246,142 @@
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 13,
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Carlo Ancelotti",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alisson",
+                "pos": "G"
+              },
+              {
+                "n": 24,
+                "name": "Roger Ibañez",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Marquinhos",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Gabriel Magalhães",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Douglas Santos",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Casemiro",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Guimarães",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Raphinha",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Lucas Paquetá",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Vinícius Júnior",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Igor Thiago",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Mohamed Ouahbi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bono",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Achraf Hakimi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Issa Diop",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Chadi Riad",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Noussair Mazraoui",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Neil El Aynaoui",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Brahim Díaz",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Azzedine Ounahi",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Bilal El Khannouss",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismael Saibari",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
