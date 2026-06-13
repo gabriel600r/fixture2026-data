@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:48:40Z",
+  "updated": "2026-06-13T20:49:27Z",
   "live": [
     {
       "id": 8,
@@ -37,8 +37,8 @@
       ],
       "stats": {
         "possession": [
-          30,
-          70
+          31,
+          69
         ],
         "shotsTotal": [
           5,
@@ -69,16 +69,16 @@
           4
         ],
         "passesTotal": [
-          202,
-          466
+          214,
+          469
         ],
         "corners": [
           3,
           9
         ],
         "passesAccurate": [
-          140,
-          424
+          151,
+          427
         ],
         "saves": [
           5,
@@ -93,7 +93,7 @@
           7
         ],
         "passesPct": [
-          69,
+          71,
           91
         ],
         "yellow": [
@@ -235,7 +235,7 @@
         },
         "motm": {
           "player": "Rubén Vargas",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "SUI"
         }
       }
