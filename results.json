@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-13T02:36:49Z",
+  "updated": "2026-06-13T02:37:35Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
       "minute": 73,
       "home": 3,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "D. Bobadilla",
@@ -25,6 +25,11 @@
           "minute": 45,
           "team": "USA",
           "assist": "M. Tillman"
+        },
+        {
+          "player": null,
+          "minute": 73,
+          "team": "PAR"
         }
       ],
       "cardEvents": [
@@ -247,7 +252,7 @@
         },
         "motm": {
           "player": "Folarin Balogun",
-          "rating": 9.0,
+          "rating": 9.2,
           "team": "USA"
         }
       }
