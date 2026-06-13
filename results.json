@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:20:35Z",
+  "updated": "2026-06-13T19:21:22Z",
   "live": [
     {
       "id": 8,
@@ -7,6 +7,14 @@
       "minute": 16,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "M. Abunada",
+          "minute": 16,
+          "team": "QAT",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "possession": [
           17,
