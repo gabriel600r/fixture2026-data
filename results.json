@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T19:26:49Z",
+  "updated": "2026-06-13T19:27:35Z",
   "live": [
     {
       "id": 8,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 1,
       "goals": [
@@ -19,6 +19,12 @@
         {
           "player": "M. Abunada",
           "minute": 16,
+          "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Gaber",
+          "minute": 23,
           "team": "QAT",
           "color": "yellow"
         }
