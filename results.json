@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T01:30:36Z",
+  "updated": "2026-06-13T01:31:22Z",
   "live": [
     {
       "id": 19,
@@ -13,11 +13,6 @@
           "minute": 7,
           "team": "USA",
           "og": true
-        },
-        {
-          "player": "F. Balogun",
-          "minute": 28,
-          "team": "USA"
         }
       ],
       "cardEvents": [
@@ -66,7 +61,7 @@
           1
         ],
         "passesTotal": [
-          151,
+          152,
           52
         ],
         "shotsOutside": [
@@ -90,7 +85,7 @@
           1
         ],
         "passesPct": [
-          90,
+          89,
           65
         ],
         "home": "USA",
