@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T20:15:08Z",
+  "updated": "2026-06-13T20:15:55Z",
   "live": [
     {
       "id": 8,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 1,
       "goals": [
@@ -234,9 +234,9 @@
           }
         },
         "motm": {
-          "player": "Mahmud Abunad",
-          "rating": 7.6,
-          "team": "QAT"
+          "player": "Gregor Kobel",
+          "rating": 7.5,
+          "team": "SUI"
         }
       }
     }
