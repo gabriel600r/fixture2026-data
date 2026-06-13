@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-13T01:29:49Z",
+  "updated": "2026-06-13T01:30:36Z",
   "live": [
     {
       "id": 19,
       "status": "1H",
-      "minute": 28,
-      "home": 1,
+      "minute": 29,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 7,
           "team": "USA",
           "og": true
+        },
+        {
+          "player": "F. Balogun",
+          "minute": 28,
+          "team": "USA"
         }
       ],
       "cardEvents": [
