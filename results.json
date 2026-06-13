@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T20:12:48Z",
+  "updated": "2026-06-13T20:13:35Z",
   "live": [
     {
       "id": 8,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 47,
       "home": 0,
       "away": 1,
       "goals": [
@@ -35,7 +35,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 6,
       "stats": {
         "possession": [
           23,
@@ -233,6 +232,11 @@
               }
             ]
           }
+        },
+        "motm": {
+          "player": "Mahmud Abunad",
+          "rating": 7.6,
+          "team": "QAT"
         }
       }
     }
