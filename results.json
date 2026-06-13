@@ -1422,5 +1422,8 @@
       "biggestLose": "1-4",
       "form": "L"
     }
-  ]
+  ],
+  "flags": {
+    "prode_merge_sync": true
+  }
 }
