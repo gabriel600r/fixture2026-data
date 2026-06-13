@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:56:19Z",
+  "updated": "2026-06-13T02:57:06Z",
   "live": [
     {
       "id": 19,
@@ -61,6 +61,12 @@
         {
           "player": "A. Arce",
           "minute": 88,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Alonso",
+          "minute": 90,
           "team": "PAR",
           "color": "yellow"
         }
