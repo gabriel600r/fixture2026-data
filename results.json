@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T22:06:10Z",
+  "updated": "2026-06-13T22:06:57Z",
   "live": [
     {
       "id": 13,
@@ -7,6 +7,74 @@
       "minute": 2,
       "home": 0,
       "away": 0,
+      "stats": {
+        "possession": [
+          65,
+          35
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          1,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          15,
+          8
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          12,
+          6
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesPct": [
+          80,
+          75
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "BRA",
+        "away": "MAR"
+      },
       "extras": {
         "pred": {
           "home": 0,
