@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T03:00:18Z",
+  "updated": "2026-06-13T03:01:05Z",
   "live": [
     {
       "id": 19,
@@ -71,12 +71,8 @@
           "color": "yellow"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
-        "passesAccurate": [
-          457,
-          228
-        ],
         "red": [
           0,
           0
@@ -87,55 +83,39 @@
         ],
         "fouls": [
           13,
-          16
+          17
         ],
         "shotsBlocked": [
           3,
           5
         ],
-        "shotsTotal": [
-          14,
-          9
-        ],
         "offsides": [
           2,
           1
+        ],
+        "shotsTotal": [
+          14,
+          9
         ],
         "yellow": [
           1,
           5
         ],
         "saves": [
-          1,
+          0,
           3
-        ],
-        "passesTotal": [
-          538,
-          316
-        ],
-        "shotsOutside": [
-          2,
-          5
         ],
         "corners": [
           3,
           1
         ],
         "possession": [
-          63,
-          37
+          64,
+          36
         ],
         "shotsOn": [
           5,
           1
-        ],
-        "shotsInside": [
-          12,
-          4
-        ],
-        "passesPct": [
-          85,
-          72
         ],
         "home": "USA",
         "away": "PAR"
