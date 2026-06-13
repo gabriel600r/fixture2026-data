@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T02:14:10Z",
+  "updated": "2026-06-13T02:14:56Z",
   "live": [
     {
       "id": 19,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 3,
       "away": 0,
       "goals": [
@@ -33,12 +33,18 @@
           "minute": 10,
           "team": "PAR",
           "color": "yellow"
+        },
+        {
+          "player": "T. Ream",
+          "minute": 50,
+          "team": "USA",
+          "color": "yellow"
         }
       ],
       "stats": {
         "passesAccurate": [
-          299,
-          94
+          307,
+          106
         ],
         "red": [
           0,
@@ -50,15 +56,15 @@
         ],
         "fouls": [
           5,
-          6
+          7
         ],
         "shotsBlocked": [
-          1,
-          0
+          2,
+          2
         ],
         "shotsTotal": [
-          7,
-          2
+          8,
+          4
         ],
         "offsides": [
           2,
@@ -73,32 +79,32 @@
           2
         ],
         "passesTotal": [
-          340,
-          137
+          350,
+          149
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "corners": [
           2,
-          0
+          1
         ],
         "possession": [
-          71,
-          29
+          70,
+          30
         ],
         "shotsOn": [
           4,
           1
         ],
         "shotsInside": [
-          6,
-          1
+          7,
+          2
         ],
         "passesPct": [
           88,
-          69
+          71
         ],
         "home": "USA",
         "away": "PAR"
