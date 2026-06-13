@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T22:11:38Z",
+  "updated": "2026-06-13T22:12:25Z",
   "live": [
     {
       "id": 13,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
       "stats": {
@@ -122,13 +122,13 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Raphinha",
+                "n": 20,
+                "name": "Lucas Paquetá",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Lucas Paquetá",
+                "n": 11,
+                "name": "Raphinha",
                 "pos": "M"
               },
               {
