@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:54:46Z",
+  "updated": "2026-06-13T02:55:33Z",
   "live": [
     {
       "id": 19,
@@ -9,57 +9,57 @@
       "away": 1,
       "goals": [
         {
-          "player": "Damian Bobadilla",
+          "player": "D. Bobadilla",
           "minute": 7,
           "team": "USA",
           "og": true
         },
         {
-          "player": "Folarin Balogun",
+          "player": "F. Balogun",
           "minute": 31,
           "team": "USA",
-          "assist": "Christian Pulisic"
+          "assist": "C. Pulisic"
         },
         {
-          "player": "Folarin Balogun",
-          "minute": 50,
+          "player": "F. Balogun",
+          "minute": 45,
           "team": "USA",
-          "assist": "Malik Tillman"
+          "assist": "M. Tillman"
         },
         {
-          "player": "Maurício Magalhães Prado",
+          "player": "Mauricio",
           "minute": 73,
           "team": "PAR",
-          "assist": "Julio Enciso"
+          "assist": "J. Enciso"
         }
       ],
       "cardEvents": [
         {
-          "player": "Juan Caceres",
+          "player": "J. Caceres",
           "minute": 10,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "Miguel Almirón",
+          "player": "M. Almiron",
           "minute": 53,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "Tyler Adams",
+          "player": "T. Adams",
           "minute": 59,
           "team": "USA",
           "color": "yellow"
         },
         {
-          "player": "Diego Gomez",
+          "player": "D. Gomez",
           "minute": 79,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "Alex Arce",
+          "player": "A. Arce",
           "minute": 88,
           "team": "PAR",
           "color": "yellow"
@@ -67,27 +67,27 @@
       ],
       "stats": {
         "passesAccurate": [
-          439,
-          216
+          447,
+          226
         ],
         "red": [
           0,
           0
         ],
         "shotsOff": [
-          4,
+          6,
           3
         ],
         "fouls": [
-          12,
-          13
+          13,
+          14
         ],
         "shotsBlocked": [
           3,
           5
         ],
         "shotsTotal": [
-          12,
+          14,
           9
         ],
         "offsides": [
@@ -96,18 +96,18 @@
         ],
         "yellow": [
           1,
-          3
+          4
         ],
         "saves": [
           1,
           3
         ],
         "passesTotal": [
-          515,
-          298
+          524,
+          312
         ],
         "shotsOutside": [
-          1,
+          2,
           5
         ],
         "corners": [
@@ -123,7 +123,7 @@
           1
         ],
         "shotsInside": [
-          11,
+          12,
           4
         ],
         "passesPct": [
