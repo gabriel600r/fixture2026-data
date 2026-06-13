@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13T20:33:04Z",
+  "updated": "2026-06-13T20:33:51Z",
   "live": [
     {
       "id": 8,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
@@ -37,8 +37,8 @@
       ],
       "stats": {
         "possession": [
-          26,
-          74
+          25,
+          75
         ],
         "shotsTotal": [
           4,
@@ -69,16 +69,16 @@
           3
         ],
         "passesTotal": [
-          138,
-          389
+          145,
+          413
         ],
         "corners": [
           3,
           8
         ],
         "passesAccurate": [
-          87,
-          353
+          93,
+          376
         ],
         "saves": [
           4,
@@ -93,7 +93,7 @@
           6
         ],
         "passesPct": [
-          63,
+          64,
           91
         ],
         "yellow": [
@@ -235,7 +235,7 @@
         },
         "motm": {
           "player": "Rubén Vargas",
-          "rating": 7.5,
+          "rating": 7.6,
           "team": "SUI"
         }
       }
