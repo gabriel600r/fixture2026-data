@@ -1,13 +1,96 @@
 {
-  "updated": "2026-06-13T00:31:14Z",
-  "live": [],
-  "update_en": "",
-  "update_es": "",
-  "min_version": "1.7.0",
-  "brackets": {},
-  "prematch": [
+  "updated": "2026-06-13T01:15:50Z",
+  "live": [
     {
       "id": 19,
+      "status": "1H",
+      "minute": 14,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "D. Bobadilla",
+          "minute": 7,
+          "team": "USA",
+          "og": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Caceres",
+          "minute": 10,
+          "team": "PAR",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "passesAccurate": [
+          37,
+          21
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "fouls": [
+          1,
+          2
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          1,
+          1
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "passesTotal": [
+          43,
+          29
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "possession": [
+          57,
+          43
+        ],
+        "shotsOn": [
+          1,
+          1
+        ],
+        "shotsInside": [
+          1,
+          1
+        ],
+        "passesPct": [
+          86,
+          72
+        ],
+        "home": "USA",
+        "away": "PAR"
+      },
       "extras": {
         "pred": {
           "home": 50,
@@ -141,6 +224,11 @@
       }
     }
   ],
+  "update_en": "",
+  "update_es": "",
+  "min_version": "1.7.0",
+  "brackets": {},
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
