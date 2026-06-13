@@ -1,27 +1,35 @@
 {
-  "updated": "2026-06-13T22:24:53Z",
+  "updated": "2026-06-13T22:25:40Z",
   "live": [
     {
       "id": 13,
       "status": "1H",
-      "minute": 20,
+      "minute": 22,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "I. Saibari",
+          "minute": 21,
+          "team": "MAR",
+          "assist": "B. Diaz"
+        }
+      ],
       "stats": {
         "possession": [
-          53,
-          47
+          54,
+          46
         ],
         "shotsTotal": [
           3,
-          6
+          7
         ],
         "offsides": [
           0,
           0
         ],
         "shotsOff": [
-          2,
+          1,
           1
         ],
         "red": [
@@ -33,36 +41,36 @@
           4
         ],
         "shotsBlocked": [
-          1,
+          2,
           5
         ],
         "shotsOutside": [
-          1,
-          3
+          2,
+          4
         ],
         "passesTotal": [
-          124,
-          108
+          137,
+          116
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "passesAccurate": [
-          112,
-          96
+          123,
+          103
         ],
         "saves": [
           0,
           0
         ],
         "shotsInside": [
-          2,
+          1,
           3
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "passesPct": [
           90,
