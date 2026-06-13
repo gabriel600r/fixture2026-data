@@ -1,11 +1,146 @@
 {
-  "updated": "2026-06-13T03:03:25Z",
+  "updated": "2026-06-13T18:00:04Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 8,
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Julen Lopetegui",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Mahmud Abunad",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Ayoub Al Oui",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Pedro Miguel",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Boualem Khoukhi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Homam Al-Amin",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jassem Gaber Abdulsallam",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Assim Madibo",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Issa Laye",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Edmilson Junior",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Yusuf Abdurisag",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Akram Afif",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Murat Yakin",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Gregor Kobel",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Denis Zakaria",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Akanji",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Michel Aebischer",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Remo Freuler",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Granit Xhaka",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Ricardo Rodríguez",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "Rubén Vargas",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Breel Embolo",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
