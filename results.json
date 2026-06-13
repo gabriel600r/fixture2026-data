@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-13T21:01:12Z",
+  "updated": "2026-06-13T21:02:00Z",
   "live": [
     {
       "id": 8,
       "status": "2H",
       "minute": 90,
-      "home": 0,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 17,
           "team": "SUI",
           "pen": true
+        },
+        {
+          "player": "B. Khoukhi",
+          "minute": 90,
+          "team": "QAT"
         }
       ],
       "cardEvents": [
@@ -35,15 +40,15 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "possession": [
-          32,
-          68
+          31,
+          69
         ],
         "shotsTotal": [
           6,
-          24
+          25
         ],
         "offsides": [
           0,
@@ -63,23 +68,23 @@
         ],
         "shotsBlocked": [
           0,
-          8
+          9
         ],
         "shotsOutside": [
           2,
-          6
+          7
         ],
         "passesTotal": [
-          264,
-          556
+          266,
+          568
         ],
         "corners": [
           3,
           9
         ],
         "passesAccurate": [
-          188,
-          507
+          189,
+          516
         ],
         "saves": [
           5,
