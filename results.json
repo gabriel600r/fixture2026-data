@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:22:08Z",
+  "updated": "2026-06-13T19:22:55Z",
   "live": [
     {
       "id": 8,
@@ -7,6 +7,14 @@
       "minute": 18,
       "home": 0,
       "away": 1,
+      "goals": [
+        {
+          "player": "B. Embolo",
+          "minute": 17,
+          "team": "SUI",
+          "pen": true
+        }
+      ],
       "cardEvents": [
         {
           "player": "M. Abunada",
