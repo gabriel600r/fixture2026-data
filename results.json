@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-13T19:21:22Z",
+  "updated": "2026-06-13T19:22:08Z",
   "live": [
     {
       "id": 8,
       "status": "1H",
-      "minute": 16,
+      "minute": 18,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "cardEvents": [
         {
           "player": "M. Abunada",
@@ -50,7 +50,7 @@
         ],
         "passesTotal": [
           20,
-          93
+          94
         ],
         "corners": [
           0,
@@ -74,10 +74,10 @@
         ],
         "passesPct": [
           25,
-          89
+          88
         ],
         "yellow": [
-          0,
+          1,
           0
         ],
         "home": "QAT",
