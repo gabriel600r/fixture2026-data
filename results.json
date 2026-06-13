@@ -1,268 +1,6 @@
 {
-  "updated": "2026-06-13T03:02:39Z",
-  "live": [
-    {
-      "id": 19,
-      "status": "2H",
-      "minute": 90,
-      "home": 4,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Damian Bobadilla",
-          "minute": 7,
-          "team": "USA",
-          "og": true
-        },
-        {
-          "player": "Folarin Balogun",
-          "minute": 31,
-          "team": "USA",
-          "assist": "Christian Pulisic"
-        },
-        {
-          "player": "Folarin Balogun",
-          "minute": 50,
-          "team": "USA",
-          "assist": "Malik Tillman"
-        },
-        {
-          "player": "Maurício Magalhães Prado",
-          "minute": 73,
-          "team": "PAR",
-          "assist": "Julio Enciso"
-        },
-        {
-          "player": "Giovanni Reyna",
-          "minute": 98,
-          "team": "USA"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Juan Caceres",
-          "minute": 10,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "Miguel Almirón",
-          "minute": 53,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "Tyler Adams",
-          "minute": 59,
-          "team": "USA",
-          "color": "yellow"
-        },
-        {
-          "player": "Diego Gomez",
-          "minute": 79,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "Alex Arce",
-          "minute": 88,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "Junior Alonso",
-          "minute": 93,
-          "team": "PAR",
-          "color": "yellow"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "red": [
-          0,
-          0
-        ],
-        "shotsOff": [
-          6,
-          3
-        ],
-        "fouls": [
-          13,
-          17
-        ],
-        "shotsBlocked": [
-          4,
-          5
-        ],
-        "offsides": [
-          2,
-          1
-        ],
-        "shotsTotal": [
-          16,
-          9
-        ],
-        "yellow": [
-          1,
-          5
-        ],
-        "saves": [
-          0,
-          3
-        ],
-        "corners": [
-          3,
-          1
-        ],
-        "possession": [
-          64,
-          36
-        ],
-        "shotsOn": [
-          6,
-          1
-        ],
-        "home": "USA",
-        "away": "PAR"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Mauricio Pochettino",
-            "xi": [
-              {
-                "n": 24,
-                "name": "Matthew Freese",
-                "pos": "G"
-              },
-              {
-                "n": 16,
-                "name": "Alexander Freeman",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Chris Richards",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Tim Ream",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Antonee Robinson",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Tyler Adams",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Malik Tillman",
-                "pos": "M"
-              },
-              {
-                "n": 2,
-                "name": "Sergiño Dest",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Weston McKennie",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Christian Pulišić",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Folarin Balogun",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Gustavo Alfaro",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Orlando Gill",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Juan Cáceres",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Gustavo Gómez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Omar Alderete",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Junior Alonso",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Diego Gómez",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Andrés Cubas",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Damián Bobadilla",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Miguel Almirón",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Antonio Sanabria",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "Julio Enciso",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "F. Balogun",
-          "rating": 9.1,
-          "team": "USA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-13T03:03:25Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -1093,13 +831,281 @@
           "color": "yellow"
         }
       ]
+    },
+    {
+      "id": 19,
+      "home": 4,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Damian Bobadilla",
+          "minute": 7,
+          "team": "USA",
+          "og": true
+        },
+        {
+          "player": "Folarin Balogun",
+          "minute": 31,
+          "team": "USA",
+          "assist": "Christian Pulisic"
+        },
+        {
+          "player": "Folarin Balogun",
+          "minute": 50,
+          "team": "USA",
+          "assist": "Malik Tillman"
+        },
+        {
+          "player": "Maurício Magalhães Prado",
+          "minute": 73,
+          "team": "PAR",
+          "assist": "Julio Enciso"
+        },
+        {
+          "player": "Giovanni Reyna",
+          "minute": 98,
+          "team": "USA"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Juan Caceres",
+          "minute": 10,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "Miguel Almirón",
+          "minute": 53,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "Tyler Adams",
+          "minute": 59,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "Diego Gomez",
+          "minute": 79,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "Alex Arce",
+          "minute": 88,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "Junior Alonso",
+          "minute": 93,
+          "team": "PAR",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "red": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          6,
+          3
+        ],
+        "fouls": [
+          13,
+          17
+        ],
+        "shotsBlocked": [
+          4,
+          5
+        ],
+        "offsides": [
+          2,
+          1
+        ],
+        "shotsTotal": [
+          16,
+          9
+        ],
+        "yellow": [
+          1,
+          5
+        ],
+        "saves": [
+          0,
+          3
+        ],
+        "corners": [
+          3,
+          1
+        ],
+        "possession": [
+          64,
+          36
+        ],
+        "shotsOn": [
+          6,
+          1
+        ],
+        "home": "USA",
+        "away": "PAR"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Mauricio Pochettino",
+            "xi": [
+              {
+                "n": 24,
+                "name": "Matthew Freese",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Alexander Freeman",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Chris Richards",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Tim Ream",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Adams",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Weston McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Christian Pulišić",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Folarin Balogun",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Gustavo Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Orlando Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Juan Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Gustavo Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Omar Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Junior Alonso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Diego Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Damián Bobadilla",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Miguel Almirón",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Antonio Sanabria",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "F. Balogun",
+          "rating": 9.1,
+          "team": "USA"
+        }
+      }
     }
   ],
   "stats": {
     "scorers": [
       {
+        "player": "Folarin Balogun",
+        "team": "USA",
+        "goals": 2
+      },
+      {
         "player": "C. Larin",
         "team": "CAN",
+        "goals": 1
+      },
+      {
+        "player": "Giovanni Reyna",
+        "team": "USA",
         "goals": 1
       },
       {
@@ -1124,6 +1130,11 @@
         "goals": 1
       },
       {
+        "player": "Maurício Magalhães Prado",
+        "team": "PAR",
+        "goals": 1
+      },
+      {
         "player": "Oh Hyeon-Gyu",
         "team": "KOR",
         "goals": 1
@@ -1136,6 +1147,11 @@
     ],
     "assists": [
       {
+        "player": "Christian Pulisic",
+        "team": "USA",
+        "assists": 1
+      },
+      {
         "player": "Erik Lira",
         "team": "MEX",
         "assists": 1
@@ -1147,8 +1163,18 @@
         "goals": 1
       },
       {
+        "player": "Julio Enciso",
+        "team": "PAR",
+        "assists": 1
+      },
+      {
         "player": "Lee Kang-In",
         "team": "KOR",
+        "assists": 1
+      },
+      {
+        "player": "Malik Tillman",
+        "team": "USA",
         "assists": 1
       },
       {
@@ -1198,8 +1224,20 @@
         "yellow": 1
       },
       {
+        "player": "Alex Arce",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Brian Gutiérrez",
         "team": "MEX",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Diego Gomez",
+        "team": "PAR",
         "red": 0,
         "yellow": 1
       },
@@ -1216,6 +1254,18 @@
         "yellow": 1
       },
       {
+        "player": "Juan Caceres",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Junior Alonso",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "L. De Fougerolles",
         "team": "CAN",
         "red": 0,
@@ -1224,6 +1274,12 @@
       {
         "player": "Lee Gi-Hyuk",
         "team": "KOR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Miguel Almirón",
+        "team": "PAR",
         "red": 0,
         "yellow": 1
       },
@@ -1244,10 +1300,30 @@
         "team": "RSA",
         "red": 0,
         "yellow": 1
+      },
+      {
+        "player": "Tyler Adams",
+        "team": "USA",
+        "red": 0,
+        "yellow": 1
       }
     ]
   },
   "teamStats": [
+    {
+      "code": "USA",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 4,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "W"
+    },
     {
       "code": "MEX",
       "played": 1,
@@ -1330,6 +1406,20 @@
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "0-2",
+      "form": "L"
+    },
+    {
+      "code": "PAR",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 4,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-4",
       "form": "L"
     }
   ]
