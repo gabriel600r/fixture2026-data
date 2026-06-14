@@ -1,12 +1,80 @@
 {
-  "updated": "2026-06-14T17:02:45Z",
+  "updated": "2026-06-14T17:03:32Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
+      "stats": {
+        "offsides": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          0,
+          1
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "possession": [
+          0,
+          100
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          0,
+          1
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesPct": [
+          0,
+          100
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "GER",
+        "away": "CUR"
+      },
       "extras": {
         "lineups": {
           "home": {
