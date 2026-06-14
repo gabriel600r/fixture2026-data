@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:48:49Z",
+  "updated": "2026-06-14T21:49:36Z",
   "live": [
     {
       "id": 31,
@@ -29,7 +29,8 @@
         {
           "player": "D. Kamada",
           "minute": 89,
-          "team": "JPN"
+          "team": "JPN",
+          "assist": "K. Ogawa"
         }
       ],
       "cardEvents": [
