@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-14T21:55:50Z",
+  "updated": "2026-06-14T22:00:23Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 26,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Emerse Fae",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yahia Fofana",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Guéla Doué",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Wilfried Singo",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Emmanuel Agbadou",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Ghislain Konan",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "Yan Diomande",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Seko Fofana",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Franck Kessié",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Bazoumana Touré",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nicolas Pépé",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "Elye Wahi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-3",
+            "coach": "Sebastian Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Hernán Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Joel Ordóñez",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Willian Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Piero Hincapié",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Alan Minda",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Alan Franco",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Moisés Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pedro Vite",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Gonzalo Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "Enner Valencia",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "John Yeboah",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
