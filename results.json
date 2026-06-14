@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T05:36:31Z",
+  "updated": "2026-06-14T05:37:18Z",
   "live": [
     {
       "id": 20,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 2,
       "away": 0,
       "goals": [
@@ -26,8 +26,8 @@
           68
         ],
         "shotsTotal": [
-          8,
-          22
+          9,
+          23
         ],
         "offsides": [
           1,
@@ -35,7 +35,7 @@
         ],
         "shotsOff": [
           4,
-          7
+          8
         ],
         "red": [
           0,
@@ -50,19 +50,19 @@
           10
         ],
         "shotsOutside": [
-          2,
-          11
+          3,
+          12
         ],
         "passesTotal": [
-          244,
-          536
+          248,
+          537
         ],
         "corners": [
           4,
           6
         ],
         "passesAccurate": [
-          190,
+          191,
           482
         ],
         "saves": [
@@ -74,11 +74,11 @@
           11
         ],
         "shotsOn": [
-          3,
+          4,
           5
         ],
         "passesPct": [
-          78,
+          77,
           90
         ],
         "yellow": [
@@ -214,8 +214,8 @@
           }
         },
         "motm": {
-          "player": "Nestory Irankunda",
-          "rating": 7.5,
+          "player": "Connor Metcalfe",
+          "rating": 7.9,
           "team": "AUS"
         }
       }
