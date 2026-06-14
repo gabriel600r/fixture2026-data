@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T02:54:03Z",
+  "updated": "2026-06-14T02:54:50Z",
   "live": [
     {
       "id": 14,
@@ -30,8 +30,8 @@
       ],
       "stats": {
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "shotsTotal": [
           13,
@@ -42,7 +42,7 @@
           1
         ],
         "shotsOff": [
-          7,
+          8,
           5
         ],
         "red": [
@@ -50,7 +50,7 @@
           0
         ],
         "fouls": [
-          22,
+          23,
           17
         ],
         "shotsBlocked": [
@@ -62,31 +62,31 @@
           1
         ],
         "passesTotal": [
-          364,
-          351
+          387,
+          355
         ],
         "corners": [
           4,
           3
         ],
         "passesAccurate": [
-          310,
-          291
+          331,
+          294
         ],
         "saves": [
           1,
-          2
+          1
         ],
         "shotsInside": [
           7,
           8
         ],
         "shotsOn": [
-          2,
+          1,
           2
         ],
         "passesPct": [
-          85,
+          86,
           83
         ],
         "yellow": [
@@ -222,7 +222,7 @@
           }
         },
         "motm": {
-          "player": "Lewis Ferguson",
+          "player": "Grant Hanley",
           "rating": 7.5,
           "team": "SCO"
         }
