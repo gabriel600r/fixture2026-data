@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T04:45:52Z",
+  "updated": "2026-06-14T04:46:39Z",
   "live": [
     {
       "id": 20,
@@ -15,10 +15,11 @@
           "assist": "P. Okon-Engstler"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
-          33,
-          67
+          34,
+          66
         ],
         "shotsTotal": [
           3,
@@ -49,20 +50,20 @@
           5
         ],
         "passesTotal": [
-          141,
-          300
+          153,
+          308
         ],
         "corners": [
           2,
           2
         ],
         "passesAccurate": [
-          111,
-          274
+          122,
+          282
         ],
         "saves": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           2,
@@ -73,8 +74,8 @@
           2
         ],
         "passesPct": [
-          79,
-          91
+          80,
+          92
         ],
         "yellow": [
           0,
