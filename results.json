@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T02:33:00Z",
+  "updated": "2026-06-14T02:33:47Z",
   "live": [
     {
       "id": 14,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 1,
       "goals": [
@@ -30,8 +30,8 @@
       ],
       "stats": {
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "shotsTotal": [
           8,
@@ -62,16 +62,16 @@
           1
         ],
         "passesTotal": [
-          283,
-          305
+          292,
+          306
         ],
         "corners": [
           1,
           3
         ],
         "passesAccurate": [
-          242,
-          256
+          251,
+          257
         ],
         "saves": [
           1,
@@ -222,8 +222,8 @@
           }
         },
         "motm": {
-          "player": "Grant Hanley",
-          "rating": 7.3,
+          "player": "John McGinn",
+          "rating": 7.5,
           "team": "SCO"
         }
       }
