@@ -1,13 +1,80 @@
 {
-  "updated": "2026-06-14T22:00:23Z",
-  "live": [],
-  "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
-  "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
-  "min_version": "1.9.25",
-  "brackets": {},
-  "prematch": [
+  "updated": "2026-06-14T23:04:28Z",
+  "live": [
     {
       "id": 26,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
+      "stats": {
+        "offsides": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "possession": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesPct": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "CIV",
+        "away": "ECU"
+      },
       "extras": {
         "lineups": {
           "home": {
@@ -136,6 +203,11 @@
       }
     }
   ],
+  "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
+  "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
+  "min_version": "1.9.25",
+  "brackets": {},
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
