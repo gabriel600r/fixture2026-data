@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T02:29:53Z",
+  "updated": "2026-06-14T02:30:40Z",
   "live": [
     {
       "id": 14,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
@@ -50,7 +50,7 @@
           0
         ],
         "fouls": [
-          19,
+          20,
           14
         ],
         "shotsBlocked": [
@@ -62,16 +62,16 @@
           1
         ],
         "passesTotal": [
-          274,
-          300
+          283,
+          305
         ],
         "corners": [
           1,
           3
         ],
         "passesAccurate": [
-          234,
-          252
+          242,
+          256
         ],
         "saves": [
           1,
@@ -86,7 +86,7 @@
           2
         ],
         "passesPct": [
-          85,
+          86,
           84
         ],
         "yellow": [
@@ -222,8 +222,8 @@
           }
         },
         "motm": {
-          "player": "Lewis Ferguson",
-          "rating": 7.5,
+          "player": "Grant Hanley",
+          "rating": 7.3,
           "team": "SCO"
         }
       }
