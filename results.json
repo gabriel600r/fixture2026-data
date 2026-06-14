@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-14T05:56:46Z",
+  "updated": "2026-06-14T16:00:04Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 25,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Julian Nagelsmann",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Manuel Neuer",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Joshua Kimmich",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jonathan Tah",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Nico Schlotterbeck",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nathaniel Brown",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Aleksandar Pavlović",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Felix Nmecha",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Leroy Sané",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jamal Musiala",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Florian Wirtz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kai Havertz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Dick Advocaat",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Eloy Room",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Sherel Constancio Floranus",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Riechedly Bazoer",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Armando Obispo",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Deveron Fonville",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Livano Comenencia",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 12,
+                "name": "Sontje Hansen",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Tahith Chong",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Juninho Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jürgen Locadia",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
