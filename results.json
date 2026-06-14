@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T20:47:54Z",
+  "updated": "2026-06-14T20:48:41Z",
   "live": [
     {
       "id": 31,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "offsides": [
           0,
