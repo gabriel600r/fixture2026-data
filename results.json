@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:49:36Z",
+  "updated": "2026-06-14T21:50:23Z",
   "live": [
     {
       "id": 31,
@@ -45,8 +45,15 @@
           "minute": 83,
           "team": "NED",
           "color": "yellow"
+        },
+        {
+          "player": "M. van de Ven",
+          "minute": 90,
+          "team": "NED",
+          "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           1,
@@ -57,32 +64,32 @@
           4
         ],
         "passesAccurate": [
-          422,
-          250
+          423,
+          260
         ],
         "shotsTotal": [
           9,
-          8
+          10
         ],
         "shotsInside": [
           9,
-          4
+          6
         ],
         "corners": [
           5,
-          2
+          4
         ],
         "red": [
           0,
           0
         ],
         "possession": [
-          61,
-          39
+          60,
+          40
         ],
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "fouls": [
           6,
@@ -93,8 +100,8 @@
           6
         ],
         "passesTotal": [
-          476,
-          297
+          478,
+          309
         ],
         "shotsOutside": [
           0,
@@ -102,10 +109,10 @@
         ],
         "shotsOn": [
           6,
-          2
+          3
         ],
         "passesPct": [
-          89,
+          88,
           84
         ],
         "yellow": [
