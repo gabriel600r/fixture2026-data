@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T02:58:44Z",
+  "updated": "2026-06-14T02:59:31Z",
   "live": [
     {
       "id": 14,
@@ -32,9 +32,15 @@
           "minute": 90,
           "team": "SCO",
           "color": "yellow"
+        },
+        {
+          "player": "K. McLean",
+          "minute": 90,
+          "team": "SCO",
+          "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "possession": [
           54,
