@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-14T03:04:17Z",
+  "updated": "2026-06-14T03:31:00Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 20,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Tony Popovic",
+            "xi": [
+              {
+                "n": 18,
+                "name": "Patrick Beach",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Alessandro Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Harry Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Cameron Burgess",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jacob Italiano",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Aiden O'Neill",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Okon-Engstler",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Jordan Bos",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Nestory Irankunda",
+                "pos": "F"
+              },
+              {
+                "n": 8,
+                "name": "Connor Metcalfe",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Mohamed Touré",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Vincenzo Montella",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Uğurcan Çakır",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Zeki Çelik",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Merih Demiral",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Abdülkerim Bardakcı",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Ferdi Kadıoğlu",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Hakan Çalhanoğlu",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "İsmail Yüksek",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Arda Güler",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Orkun Kökçü",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Barış Alper Yılmaz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kerem Aktürkoğlu",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
