@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T18:52:08Z",
+  "updated": "2026-06-14T18:52:54Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 7,
       "away": 1,
       "goals": [
@@ -52,7 +52,8 @@
         {
           "player": "K. Havertz",
           "minute": 88,
-          "team": "GER"
+          "team": "GER",
+          "assist": "D. Undav"
         }
       ],
       "stats": {
@@ -62,11 +63,11 @@
         ],
         "saves": [
           1,
-          3
+          4
         ],
         "passesAccurate": [
-          512,
-          223
+          519,
+          234
         ],
         "shotsTotal": [
           25,
@@ -85,24 +86,24 @@
           0
         ],
         "possession": [
-          68,
-          32
+          67,
+          33
         ],
         "shotsBlocked": [
           8,
           0
         ],
         "fouls": [
-          17,
-          9
+          18,
+          10
         ],
         "shotsOff": [
           6,
           6
         ],
         "passesTotal": [
-          584,
-          274
+          593,
+          288
         ],
         "shotsOutside": [
           5,
