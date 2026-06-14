@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T18:54:28Z",
+  "updated": "2026-06-14T18:55:15Z",
   "live": [
     {
       "id": 25,
@@ -56,7 +56,7 @@
           "assist": "D. Undav"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "offsides": [
           0,
@@ -67,15 +67,15 @@
           4
         ],
         "passesAccurate": [
-          519,
-          234
+          529,
+          240
         ],
         "shotsTotal": [
-          25,
+          26,
           8
         ],
         "shotsInside": [
-          20,
+          21,
           4
         ],
         "corners": [
@@ -103,15 +103,15 @@
           6
         ],
         "passesTotal": [
-          593,
-          288
+          604,
+          295
         ],
         "shotsOutside": [
           5,
           4
         ],
         "shotsOn": [
-          11,
+          12,
           2
         ],
         "passesPct": [
@@ -251,8 +251,8 @@
           }
         },
         "motm": {
-          "player": "Felix Nmecha",
-          "rating": 8.6,
+          "player": "Deniz Undav",
+          "rating": 8.9,
           "team": "GER"
         }
       }
