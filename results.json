@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T02:41:35Z",
+  "updated": "2026-06-14T02:42:22Z",
   "live": [
     {
       "id": 14,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 1,
       "goals": [
@@ -222,9 +222,9 @@
           }
         },
         "motm": {
-          "player": "Jean-Ricner Bellegarde",
-          "rating": 7.3,
-          "team": "HAI"
+          "player": "John McGinn",
+          "rating": 7.5,
+          "team": "SCO"
         }
       }
     }
