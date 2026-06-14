@@ -1,11 +1,146 @@
 {
-  "updated": "2026-06-14T18:59:56Z",
+  "updated": "2026-06-14T19:00:42Z",
   "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 31,
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Ronald Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bart Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Denzel Dumfries",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Micky van de Ven",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Virgil van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Jan Paul van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Ryan Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Frenkie de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Tijjani Reijnders",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Crysencio Summerville",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Donyell Malen",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Cody Gakpo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Hajime Moriyasu",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Zion Suzuki",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Tsuyoshi Watanabe",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Shogo Taniguchi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Hiroki Itō",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Ritsu Doan",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Daichi Kamada",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Kaishu Sano",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Keito Nakamura",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Takefusa Kubo",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Daizen Maeda",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Ayase Ueda",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
