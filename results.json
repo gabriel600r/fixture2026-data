@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-14T17:08:14Z",
+  "updated": "2026-06-14T17:09:01Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "F. Nmecha",
           "minute": 6,
-          "team": "GER"
+          "team": "GER",
+          "assist": "F. Wirtz"
         }
       ],
       "stats": {
@@ -24,8 +25,8 @@
           0
         ],
         "passesAccurate": [
-          12,
-          11
+          44,
+          22
         ],
         "shotsTotal": [
           0,
@@ -44,8 +45,8 @@
           0
         ],
         "possession": [
-          55,
-          45
+          67,
+          33
         ],
         "shotsBlocked": [
           0,
@@ -53,15 +54,15 @@
         ],
         "fouls": [
           2,
-          0
+          1
         ],
         "shotsOff": [
           0,
           0
         ],
         "passesTotal": [
-          16,
-          13
+          52,
+          26
         ],
         "shotsOutside": [
           0,
@@ -72,7 +73,7 @@
           0
         ],
         "passesPct": [
-          75,
+          85,
           85
         ],
         "yellow": [
