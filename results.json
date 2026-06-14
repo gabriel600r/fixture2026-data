@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T02:54:50Z",
+  "updated": "2026-06-14T02:55:37Z",
   "live": [
     {
       "id": 14,
@@ -26,8 +26,15 @@
           "minute": 46,
           "team": "SCO",
           "color": "yellow"
+        },
+        {
+          "player": "F. Curtis",
+          "minute": 90,
+          "team": "SCO",
+          "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
           52,
