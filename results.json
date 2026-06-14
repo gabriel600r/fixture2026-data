@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T17:21:29Z",
+  "updated": "2026-06-14T17:22:16Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 1,
       "away": 0,
       "goals": [
@@ -147,7 +147,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-1-2",
             "coach": "Dick Advocaat",
             "xi": [
               {
@@ -186,8 +186,8 @@
                 "pos": "M"
               },
               {
-                "n": 12,
-                "name": "Sontje Hansen",
+                "n": 7,
+                "name": "Juninho Bacuna",
                 "pos": "M"
               },
               {
@@ -196,13 +196,13 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Juninho Bacuna",
-                "pos": "M"
-              },
-              {
                 "n": 9,
                 "name": "Jürgen Locadia",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "Sontje Hansen",
                 "pos": "F"
               }
             ]
