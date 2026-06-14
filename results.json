@@ -1,13 +1,80 @@
 {
-  "updated": "2026-06-14T00:31:22Z",
-  "live": [],
-  "update_en": "",
-  "update_es": "",
-  "min_version": "1.7.0",
-  "brackets": {},
-  "prematch": [
+  "updated": "2026-06-14T01:03:24Z",
+  "live": [
     {
       "id": 14,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
+      "stats": {
+        "possession": [
+          0,
+          100
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          0,
+          1
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          0,
+          1
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesPct": [
+          0,
+          100
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "HAI",
+        "away": "SCO"
+      },
       "extras": {
         "lineups": {
           "home": {
@@ -136,6 +203,11 @@
       }
     }
   ],
+  "update_en": "",
+  "update_es": "",
+  "min_version": "1.7.0",
+  "brackets": {},
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
