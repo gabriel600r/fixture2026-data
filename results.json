@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T04:15:33Z",
+  "updated": "2026-06-14T04:16:20Z",
   "live": [
     {
       "id": 20,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -78,13 +78,18 @@
       "extras": {
         "lineups": {
           "home": {
-            "formation": "3-4-2-1",
+            "formation": "5-4-1",
             "coach": "Tony Popovic",
             "xi": [
               {
                 "n": 18,
                 "name": "Patrick Beach",
                 "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Jacob Italiano",
+                "pos": "D"
               },
               {
                 "n": 3,
@@ -102,8 +107,13 @@
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Jacob Italiano",
+                "n": 5,
+                "name": "Jordan Bos",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Connor Metcalfe",
                 "pos": "M"
               },
               {
@@ -117,19 +127,9 @@
                 "pos": "M"
               },
               {
-                "n": 5,
-                "name": "Jordan Bos",
-                "pos": "M"
-              },
-              {
                 "n": 17,
                 "name": "Nestory Irankunda",
-                "pos": "F"
-              },
-              {
-                "n": 8,
-                "name": "Connor Metcalfe",
-                "pos": "F"
+                "pos": "M"
               },
               {
                 "n": 9,
@@ -168,13 +168,13 @@
                 "pos": "D"
               },
               {
-                "n": 10,
-                "name": "Hakan Çalhanoğlu",
+                "n": 16,
+                "name": "İsmail Yüksek",
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "İsmail Yüksek",
+                "n": 10,
+                "name": "Hakan Çalhanoğlu",
                 "pos": "M"
               },
               {
