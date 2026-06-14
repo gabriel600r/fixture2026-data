@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T02:44:42Z",
+  "updated": "2026-06-14T02:45:29Z",
   "live": [
     {
       "id": 14,
@@ -34,7 +34,7 @@
           50
         ],
         "shotsTotal": [
-          9,
+          12,
           9
         ],
         "offsides": [
@@ -54,35 +54,35 @@
           15
         ],
         "shotsBlocked": [
-          2,
+          4,
           2
         ],
         "shotsOutside": [
-          4,
+          6,
           1
         ],
         "passesTotal": [
-          324,
-          330
+          331,
+          337
         ],
         "corners": [
-          2,
+          3,
           3
         ],
         "passesAccurate": [
-          276,
-          275
+          282,
+          279
         ],
         "saves": [
           1,
-          1
+          2
         ],
         "shotsInside": [
-          5,
+          6,
           8
         ],
         "shotsOn": [
-          1,
+          2,
           2
         ],
         "passesPct": [
@@ -222,7 +222,7 @@
           }
         },
         "motm": {
-          "player": "John McGinn",
+          "player": "Grant Hanley",
           "rating": 7.5,
           "team": "SCO"
         }
