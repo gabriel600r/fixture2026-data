@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T21:07:27Z",
+  "updated": "2026-06-14T21:08:14Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 0,
       "stats": {
@@ -207,7 +207,7 @@
         },
         "motm": {
           "player": "Zion Suzuki",
-          "rating": 7.3,
+          "rating": 7.7,
           "team": "JPN"
         }
       }
