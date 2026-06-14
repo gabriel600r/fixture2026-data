@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-14T21:09:02Z",
+  "updated": "2026-06-14T21:09:48Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": "V. van Dijk",
+          "minute": 51,
+          "team": "NED"
+        }
+      ],
       "stats": {
         "offsides": [
           0,
