@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:41:48Z",
+  "updated": "2026-06-14T21:42:35Z",
   "live": [
     {
       "id": 31,
@@ -33,6 +33,12 @@
           "minute": 61,
           "team": "NED",
           "color": "yellow"
+        },
+        {
+          "player": "M. Depay",
+          "minute": 83,
+          "team": "NED",
+          "color": "yellow"
         }
       ],
       "stats": {
@@ -41,20 +47,20 @@
           0
         ],
         "saves": [
-          0,
+          1,
           4
         ],
         "passesAccurate": [
-          410,
-          205
+          412,
+          218
         ],
         "shotsTotal": [
           8,
-          7
+          8
         ],
         "shotsInside": [
           8,
-          3
+          4
         ],
         "corners": [
           5,
@@ -65,8 +71,8 @@
           0
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "shotsBlocked": [
           0,
@@ -81,8 +87,8 @@
           6
         ],
         "passesTotal": [
-          460,
-          244
+          464,
+          258
         ],
         "shotsOutside": [
           0,
@@ -90,7 +96,7 @@
         ],
         "shotsOn": [
           6,
-          1
+          2
         ],
         "passesPct": [
           89,
