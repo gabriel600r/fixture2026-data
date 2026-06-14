@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-14T17:23:03Z",
+  "updated": "2026-06-14T17:23:50Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
       "minute": 22,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "F. Nmecha",
           "minute": 6,
           "team": "GER",
           "assist": "F. Wirtz"
+        },
+        {
+          "player": "L. Comenencia",
+          "minute": 21,
+          "team": "CUR"
         }
       ],
       "stats": {
@@ -25,12 +30,12 @@
           1
         ],
         "passesAccurate": [
-          144,
-          49
+          159,
+          61
         ],
         "shotsTotal": [
           8,
-          0
+          1
         ],
         "shotsInside": [
           5,
@@ -45,8 +50,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          70,
+          30
         ],
         "shotsBlocked": [
           3,
@@ -58,15 +63,15 @@
         ],
         "shotsOff": [
           3,
-          0
+          1
         ],
         "passesTotal": [
-          160,
-          63
+          176,
+          76
         ],
         "shotsOutside": [
           3,
-          0
+          1
         ],
         "shotsOn": [
           2,
@@ -74,7 +79,7 @@
         ],
         "passesPct": [
           90,
-          78
+          80
         ],
         "yellow": [
           0,
