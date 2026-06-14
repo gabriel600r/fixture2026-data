@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T01:43:54Z",
+  "updated": "2026-06-14T01:44:41Z",
   "live": [
     {
       "id": 14,
@@ -24,15 +24,15 @@
       ],
       "stats": {
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "shotsTotal": [
           7,
           7
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "shotsOff": [
@@ -44,7 +44,7 @@
           0
         ],
         "fouls": [
-          10,
+          11,
           6
         ],
         "shotsBlocked": [
@@ -56,16 +56,16 @@
           1
         ],
         "passesTotal": [
-          137,
-          191
+          141,
+          197
         ],
         "corners": [
           0,
           0
         ],
         "passesAccurate": [
-          118,
-          165
+          121,
+          169
         ],
         "saves": [
           1,
@@ -84,7 +84,7 @@
           86
         ],
         "yellow": [
-          0,
+          1,
           0
         ],
         "home": "HAI",
