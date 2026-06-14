@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T02:11:57Z",
+  "updated": "2026-06-14T02:12:44Z",
   "live": [
     {
       "id": 14,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 1,
       "goals": [
@@ -222,9 +222,9 @@
           }
         },
         "motm": {
-          "player": "Ben Gannon-Doak",
+          "player": "Jean-Ricner Bellegarde",
           "rating": 7.3,
-          "team": "SCO"
+          "team": "HAI"
         }
       }
     }
