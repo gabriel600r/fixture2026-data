@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T05:51:19Z",
+  "updated": "2026-06-14T05:52:06Z",
   "live": [
     {
       "id": 20,
@@ -28,7 +28,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "possession": [
           29,
@@ -51,7 +51,7 @@
           0
         ],
         "fouls": [
-          10,
+          11,
           4
         ],
         "shotsBlocked": [
@@ -63,8 +63,8 @@
           15
         ],
         "passesTotal": [
-          258,
-          641
+          260,
+          654
         ],
         "corners": [
           5,
@@ -72,10 +72,10 @@
         ],
         "passesAccurate": [
           196,
-          579
+          590
         ],
         "saves": [
-          7,
+          8,
           2
         ],
         "shotsInside": [
@@ -87,7 +87,7 @@
           8
         ],
         "passesPct": [
-          76,
+          75,
           90
         ],
         "yellow": [
@@ -224,7 +224,7 @@
         },
         "motm": {
           "player": "Patrick Beach",
-          "rating": 7.9,
+          "rating": 8.7,
           "team": "AUS"
         }
       }
