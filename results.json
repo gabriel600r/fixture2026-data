@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T18:08:20Z",
+  "updated": "2026-06-14T18:09:07Z",
   "live": [
     {
       "id": 25,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 3,
       "away": 1,
       "goals": [
@@ -32,7 +32,6 @@
           "pen": true
         }
       ],
-      "extra": 6,
       "stats": {
         "offsides": [
           0,
@@ -225,6 +224,11 @@
               }
             ]
           }
+        },
+        "motm": {
+          "player": "Felix Nmecha",
+          "rating": 8.0,
+          "team": "GER"
         }
       }
     }
