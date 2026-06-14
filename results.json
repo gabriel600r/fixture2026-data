@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T05:24:03Z",
+  "updated": "2026-06-14T05:24:49Z",
   "live": [
     {
       "id": 20,
@@ -17,8 +17,8 @@
       ],
       "stats": {
         "possession": [
-          35,
-          65
+          34,
+          66
         ],
         "shotsTotal": [
           8,
@@ -30,7 +30,7 @@
         ],
         "shotsOff": [
           4,
-          6
+          7
         ],
         "red": [
           0,
@@ -42,23 +42,23 @@
         ],
         "shotsBlocked": [
           1,
-          7
+          6
         ],
         "shotsOutside": [
           2,
           9
         ],
         "passesTotal": [
-          219,
-          430
+          222,
+          450
         ],
         "corners": [
           4,
           5
         ],
         "passesAccurate": [
-          174,
-          386
+          175,
+          403
         ],
         "saves": [
           4,
@@ -209,9 +209,9 @@
           }
         },
         "motm": {
-          "player": "İsmail Yüksek",
+          "player": "Nestory Irankunda",
           "rating": 7.5,
-          "team": "TUR"
+          "team": "AUS"
         }
       }
     }
