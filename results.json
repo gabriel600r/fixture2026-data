@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-14T04:27:14Z",
+  "updated": "2026-06-14T04:28:01Z",
   "live": [
     {
       "id": 20,
       "status": "1H",
-      "minute": 26,
-      "home": 0,
+      "minute": 27,
+      "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": null,
+          "player": "N. Irankunda",
           "minute": 27,
           "team": "AUS"
         }
