@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T18:13:02Z",
+  "updated": "2026-06-14T18:13:48Z",
   "live": [
     {
       "id": 25,
@@ -49,7 +49,7 @@
         ],
         "passesAccurate": [
           313,
-          113
+          116
         ],
         "shotsTotal": [
           17,
@@ -85,7 +85,7 @@
         ],
         "passesTotal": [
           351,
-          139
+          142
         ],
         "shotsOutside": [
           4,
@@ -97,7 +97,7 @@
         ],
         "passesPct": [
           89,
-          81
+          82
         ],
         "yellow": [
           0,
