@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:00:42Z",
+  "updated": "2026-06-14T19:37:22Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
@@ -30,8 +30,8 @@
                 "pos": "D"
               },
               {
-                "n": 15,
-                "name": "Micky van de Ven",
+                "n": 6,
+                "name": "Jan Paul van Hecke",
                 "pos": "D"
               },
               {
@@ -40,8 +40,8 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Jan Paul van Hecke",
+                "n": 15,
+                "name": "Micky van de Ven",
                 "pos": "D"
               },
               {
@@ -106,13 +106,13 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Daichi Kamada",
+                "n": 24,
+                "name": "Kaishu Sano",
                 "pos": "M"
               },
               {
-                "n": 24,
-                "name": "Kaishu Sano",
+                "n": 15,
+                "name": "Daichi Kamada",
                 "pos": "M"
               },
               {
