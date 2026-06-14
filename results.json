@@ -1,247 +1,6 @@
 {
-  "updated": "2026-06-14T03:03:30Z",
-  "live": [
-    {
-      "id": 14,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "J. McGinn",
-          "minute": 28,
-          "team": "SCO"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Bellegarde",
-          "minute": 39,
-          "team": "HAI",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Hickey",
-          "minute": 46,
-          "team": "SCO",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Curtis",
-          "minute": 90,
-          "team": "SCO",
-          "color": "yellow"
-        },
-        {
-          "player": "K. McLean",
-          "minute": 90,
-          "team": "SCO",
-          "color": "yellow"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "possession": [
-          54,
-          46
-        ],
-        "shotsTotal": [
-          15,
-          9
-        ],
-        "offsides": [
-          3,
-          1
-        ],
-        "shotsOff": [
-          9,
-          5
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "fouls": [
-          23,
-          21
-        ],
-        "shotsBlocked": [
-          4,
-          2
-        ],
-        "shotsOutside": [
-          7,
-          1
-        ],
-        "passesTotal": [
-          431,
-          373
-        ],
-        "corners": [
-          4,
-          3
-        ],
-        "passesAccurate": [
-          367,
-          306
-        ],
-        "saves": [
-          1,
-          2
-        ],
-        "shotsInside": [
-          8,
-          8
-        ],
-        "shotsOn": [
-          2,
-          2
-        ],
-        "passesPct": [
-          85,
-          82
-        ],
-        "yellow": [
-          1,
-          3
-        ],
-        "home": "HAI",
-        "away": "SCO"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Sebastien Migne",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Johny Placide",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Carlens Arcus",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Ricardo Adé",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Hannes Delcroix",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Martin Expérience",
-                "pos": "D"
-              },
-              {
-                "n": 11,
-                "name": "Louicius Don Deedson",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Danley Jean Jacques",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jean-Ricner Bellegarde",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Ruben Providence",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Frantzdy Pierrot",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "Wilson Isidor",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Steve Clarke",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Angus Gunn",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Aaron Hickey",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Grant Hanley",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Jack Hendry",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Andy Robertson",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Ben Gannon-Doak",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Scott McTominay",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lewis Ferguson",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "John McGinn",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Lawrence Shankland",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Che Adams",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Grant Hanley",
-          "rating": 7.7,
-          "team": "SCO"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-14T03:04:17Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -1534,6 +1293,243 @@
       }
     },
     {
+      "id": 14,
+      "home": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. McGinn",
+          "minute": 28,
+          "team": "SCO"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Bellegarde",
+          "minute": 39,
+          "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Hickey",
+          "minute": 46,
+          "team": "SCO",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Curtis",
+          "minute": 90,
+          "team": "SCO",
+          "color": "yellow"
+        },
+        {
+          "player": "K. McLean",
+          "minute": 90,
+          "team": "SCO",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "possession": [
+          54,
+          46
+        ],
+        "shotsTotal": [
+          15,
+          9
+        ],
+        "offsides": [
+          3,
+          1
+        ],
+        "shotsOff": [
+          9,
+          5
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          23,
+          21
+        ],
+        "shotsBlocked": [
+          4,
+          2
+        ],
+        "shotsOutside": [
+          7,
+          1
+        ],
+        "passesTotal": [
+          431,
+          373
+        ],
+        "corners": [
+          4,
+          3
+        ],
+        "passesAccurate": [
+          367,
+          306
+        ],
+        "saves": [
+          1,
+          2
+        ],
+        "shotsInside": [
+          8,
+          8
+        ],
+        "shotsOn": [
+          2,
+          2
+        ],
+        "passesPct": [
+          85,
+          82
+        ],
+        "yellow": [
+          1,
+          3
+        ],
+        "home": "HAI",
+        "away": "SCO"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Sebastien Migne",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Johny Placide",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Carlens Arcus",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Ricardo Adé",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Hannes Delcroix",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Martin Expérience",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "Louicius Don Deedson",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Danley Jean Jacques",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jean-Ricner Bellegarde",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Ruben Providence",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Frantzdy Pierrot",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Wilson Isidor",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Steve Clarke",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Angus Gunn",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Aaron Hickey",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Grant Hanley",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Jack Hendry",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Andy Robertson",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Ben Gannon-Doak",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Scott McTominay",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lewis Ferguson",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "John McGinn",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Lawrence Shankland",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Che Adams",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Grant Hanley",
+          "rating": 7.7,
+          "team": "SCO"
+        }
+      }
+    },
+    {
       "id": 19,
       "home": 4,
       "away": 1,
@@ -1837,6 +1833,11 @@
         "goals": 1
       },
       {
+        "player": "J. McGinn",
+        "team": "SCO",
+        "goals": 1
+      },
+      {
         "player": "Julián Quiñones",
         "team": "MEX",
         "goals": 1
@@ -1955,6 +1956,12 @@
         "yellow": 0
       },
       {
+        "player": "A. Hickey",
+        "team": "SCO",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Johnston",
         "team": "CAN",
         "red": 0,
@@ -1997,6 +2004,18 @@
         "yellow": 1
       },
       {
+        "player": "F. Curtis",
+        "team": "SCO",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "J. Bellegarde",
+        "team": "HAI",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "J. Gaber",
         "team": "QAT",
         "red": 0,
@@ -2021,6 +2040,12 @@
         "yellow": 1
       },
       {
+        "player": "K. McLean",
+        "team": "SCO",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "L. De Fougerolles",
         "team": "CAN",
         "red": 0,
@@ -2029,30 +2054,6 @@
       {
         "player": "Lee Gi-Hyuk",
         "team": "KOR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "M. Abunada",
-        "team": "QAT",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Miguel Almirón",
-        "team": "PAR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "N. Katic",
-        "team": "BIH",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Nkosinathi Sibisi",
-        "team": "RSA",
         "red": 0,
         "yellow": 1
       }
@@ -2098,6 +2099,20 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "2-1",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "SCO",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 1,
+      "ga": 0,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "1-0",
       "biggestLose": "",
       "form": "W"
     },
@@ -2197,6 +2212,20 @@
       "failedToScore": 0,
       "biggestWin": "",
       "biggestLose": "1-2",
+      "form": "L"
+    },
+    {
+      "code": "HAI",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 0,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-1",
       "form": "L"
     },
     {
