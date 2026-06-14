@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T18:51:21Z",
+  "updated": "2026-06-14T18:52:08Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 88,
-      "home": 6,
+      "minute": 89,
+      "home": 7,
       "away": 1,
       "goals": [
         {
@@ -48,6 +48,11 @@
           "minute": 78,
           "team": "GER",
           "assist": "J. Kimmich"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 88,
+          "team": "GER"
         }
       ],
       "stats": {
