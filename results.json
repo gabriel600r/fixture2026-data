@@ -1,263 +1,6 @@
 {
-  "updated": "2026-06-14T18:59:10Z",
-  "live": [
-    {
-      "id": 25,
-      "status": "2H",
-      "minute": 90,
-      "home": 7,
-      "away": 1,
-      "goals": [
-        {
-          "player": "F. Nmecha",
-          "minute": 6,
-          "team": "GER",
-          "assist": "F. Wirtz"
-        },
-        {
-          "player": "L. Comenencia",
-          "minute": 21,
-          "team": "CUR"
-        },
-        {
-          "player": "N. Schlotterbeck",
-          "minute": 38,
-          "team": "GER",
-          "assist": "N. Brown"
-        },
-        {
-          "player": "K. Havertz",
-          "minute": 45,
-          "team": "GER",
-          "pen": true
-        },
-        {
-          "player": "J. Musiala",
-          "minute": 47,
-          "team": "GER",
-          "assist": "J. Kimmich"
-        },
-        {
-          "player": "N. Brown",
-          "minute": 68,
-          "team": "GER",
-          "assist": "D. Undav"
-        },
-        {
-          "player": "D. Undav",
-          "minute": 78,
-          "team": "GER",
-          "assist": "J. Kimmich"
-        },
-        {
-          "player": "K. Havertz",
-          "minute": 88,
-          "team": "GER",
-          "assist": "D. Undav"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "offsides": [
-          0,
-          1
-        ],
-        "saves": [
-          1,
-          4
-        ],
-        "passesAccurate": [
-          548,
-          276
-        ],
-        "shotsTotal": [
-          26,
-          8
-        ],
-        "shotsInside": [
-          21,
-          4
-        ],
-        "corners": [
-          8,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "possession": [
-          65,
-          35
-        ],
-        "shotsBlocked": [
-          8,
-          0
-        ],
-        "fouls": [
-          18,
-          10
-        ],
-        "shotsOff": [
-          6,
-          6
-        ],
-        "passesTotal": [
-          630,
-          336
-        ],
-        "shotsOutside": [
-          5,
-          4
-        ],
-        "shotsOn": [
-          12,
-          2
-        ],
-        "passesPct": [
-          87,
-          82
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "home": "GER",
-        "away": "CUR"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Julian Nagelsmann",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Manuel Neuer",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Joshua Kimmich",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Jonathan Tah",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Nico Schlotterbeck",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Nathaniel Brown",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Felix Nmecha",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Aleksandar Pavlović",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Leroy Sané",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jamal Musiala",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Florian Wirtz",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kai Havertz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-1-2",
-            "coach": "Dick Advocaat",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Eloy Room",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Sherel Constancio Floranus",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Riechedly Bazoer",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Armando Obispo",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Deveron Fonville",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Livano Comenencia",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Leandro Bacuna",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Juninho Bacuna",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Tahith Chong",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Jürgen Locadia",
-                "pos": "F"
-              },
-              {
-                "n": 12,
-                "name": "Sontje Hansen",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Deniz Undav",
-          "rating": 8.9,
-          "team": "GER"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-14T18:59:56Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -2276,10 +2019,269 @@
           "team": "AUS"
         }
       }
+    },
+    {
+      "id": 25,
+      "home": 7,
+      "away": 1,
+      "goals": [
+        {
+          "player": "F. Nmecha",
+          "minute": 6,
+          "team": "GER",
+          "assist": "F. Wirtz"
+        },
+        {
+          "player": "L. Comenencia",
+          "minute": 21,
+          "team": "CUR"
+        },
+        {
+          "player": "N. Schlotterbeck",
+          "minute": 38,
+          "team": "GER",
+          "assist": "N. Brown"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 45,
+          "team": "GER",
+          "pen": true
+        },
+        {
+          "player": "J. Musiala",
+          "minute": 47,
+          "team": "GER",
+          "assist": "J. Kimmich"
+        },
+        {
+          "player": "N. Brown",
+          "minute": 68,
+          "team": "GER",
+          "assist": "D. Undav"
+        },
+        {
+          "player": "D. Undav",
+          "minute": 78,
+          "team": "GER",
+          "assist": "J. Kimmich"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 88,
+          "team": "GER",
+          "assist": "D. Undav"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          0,
+          1
+        ],
+        "saves": [
+          1,
+          4
+        ],
+        "passesAccurate": [
+          548,
+          276
+        ],
+        "shotsTotal": [
+          26,
+          8
+        ],
+        "shotsInside": [
+          21,
+          4
+        ],
+        "corners": [
+          8,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "possession": [
+          65,
+          35
+        ],
+        "shotsBlocked": [
+          8,
+          0
+        ],
+        "fouls": [
+          18,
+          10
+        ],
+        "shotsOff": [
+          6,
+          6
+        ],
+        "passesTotal": [
+          630,
+          336
+        ],
+        "shotsOutside": [
+          5,
+          4
+        ],
+        "shotsOn": [
+          12,
+          2
+        ],
+        "passesPct": [
+          87,
+          82
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "GER",
+        "away": "CUR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Julian Nagelsmann",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Manuel Neuer",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Joshua Kimmich",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jonathan Tah",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Nico Schlotterbeck",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nathaniel Brown",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Felix Nmecha",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Aleksandar Pavlović",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Leroy Sané",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jamal Musiala",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Florian Wirtz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kai Havertz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-1-2",
+            "coach": "Dick Advocaat",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Eloy Room",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Sherel Constancio Floranus",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Riechedly Bazoer",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Armando Obispo",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Deveron Fonville",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Livano Comenencia",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Juninho Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Tahith Chong",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jürgen Locadia",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "Sontje Hansen",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Deniz Undav",
+          "rating": 8.9,
+          "team": "GER"
+        }
+      }
     }
   ],
   "stats": {
     "scorers": [
+      {
+        "player": "K. Havertz",
+        "team": "GER",
+        "goals": 2,
+        "penalties": 1
+      },
       {
         "player": "Folarin Balogun",
         "team": "USA",
@@ -2304,6 +2306,17 @@
       {
         "player": "C. Metcalfe",
         "team": "AUS",
+        "goals": 1
+      },
+      {
+        "player": "D. Undav",
+        "team": "GER",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "player": "F. Nmecha",
+        "team": "GER",
         "goals": 1
       },
       {
@@ -2333,8 +2346,18 @@
         "goals": 1
       },
       {
+        "player": "J. Musiala",
+        "team": "GER",
+        "goals": 1
+      },
+      {
         "player": "Julián Quiñones",
         "team": "MEX",
+        "goals": 1
+      },
+      {
+        "player": "L. Comenencia",
+        "team": "CUR",
         "goals": 1
       },
       {
@@ -2348,27 +2371,29 @@
         "goals": 1
       },
       {
+        "player": "N. Brown",
+        "team": "GER",
+        "goals": 1,
+        "assists": 1
+      },
+      {
         "player": "N. Irankunda",
         "team": "AUS",
-        "goals": 1
-      },
-      {
-        "player": "Oh Hyeon-Gyu",
-        "team": "KOR",
-        "goals": 1
-      },
-      {
-        "player": "Raúl Jiménez",
-        "team": "MEX",
-        "goals": 1
-      },
-      {
-        "player": "Vinícius",
-        "team": "BRA",
         "goals": 1
       }
     ],
     "assists": [
+      {
+        "player": "D. Undav",
+        "team": "GER",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "player": "J. Kimmich",
+        "team": "GER",
+        "assists": 2
+      },
       {
         "player": "Brahim Díaz",
         "team": "MAR",
@@ -2387,6 +2412,11 @@
       {
         "player": "Erik Lira",
         "team": "MEX",
+        "assists": 1
+      },
+      {
+        "player": "F. Wirtz",
+        "team": "GER",
         "assists": 1
       },
       {
@@ -2414,6 +2444,12 @@
         "player": "Malik Tillman",
         "team": "USA",
         "assists": 1
+      },
+      {
+        "player": "N. Brown",
+        "team": "GER",
+        "assists": 1,
+        "goals": 1
       },
       {
         "player": "P. David",
@@ -2565,6 +2601,20 @@
     ]
   },
   "teamStats": [
+    {
+      "code": "GER",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 7,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "7-1",
+      "biggestLose": "",
+      "form": "W"
+    },
     {
       "code": "USA",
       "played": 1,
@@ -2787,6 +2837,20 @@
       "failedToScore": 0,
       "biggestWin": "",
       "biggestLose": "1-4",
+      "form": "L"
+    },
+    {
+      "code": "CUR",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 7,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-7",
       "form": "L"
     }
   ],
