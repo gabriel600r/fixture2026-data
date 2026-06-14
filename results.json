@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:47:15Z",
+  "updated": "2026-06-14T17:48:02Z",
   "live": [
     {
       "id": 25,
@@ -26,6 +26,7 @@
           "assist": "N. Brown"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           0,
