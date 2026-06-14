@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T18:09:54Z",
+  "updated": "2026-06-14T18:10:41Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 46,
-      "home": 3,
+      "minute": 47,
+      "home": 4,
       "away": 1,
       "goals": [
         {
@@ -30,6 +30,12 @@
           "minute": 45,
           "team": "GER",
           "pen": true
+        },
+        {
+          "player": "J. Musiala",
+          "minute": 47,
+          "team": "GER",
+          "assist": "J. Kimmich"
         }
       ],
       "stats": {
