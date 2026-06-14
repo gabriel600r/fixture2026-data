@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T18:09:07Z",
+  "updated": "2026-06-14T18:09:54Z",
   "live": [
     {
       "id": 25,
@@ -43,14 +43,14 @@
         ],
         "passesAccurate": [
           288,
-          111
+          112
         ],
         "shotsTotal": [
-          15,
+          16,
           4
         ],
         "shotsInside": [
-          11,
+          12,
           1
         ],
         "corners": [
@@ -66,7 +66,7 @@
           29
         ],
         "shotsBlocked": [
-          5,
+          6,
           0
         ],
         "fouls": [
@@ -74,19 +74,19 @@
           5
         ],
         "shotsOff": [
-          6,
+          4,
           2
         ],
         "passesTotal": [
-          327,
-          137
+          326,
+          138
         ],
         "shotsOutside": [
           4,
           3
         ],
         "shotsOn": [
-          4,
+          6,
           2
         ],
         "passesPct": [
@@ -227,7 +227,7 @@
         },
         "motm": {
           "player": "Felix Nmecha",
-          "rating": 8.0,
+          "rating": 8.3,
           "team": "GER"
         }
       }
