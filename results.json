@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T03:02:43Z",
+  "updated": "2026-06-14T03:03:30Z",
   "live": [
     {
       "id": 14,
@@ -47,7 +47,7 @@
           46
         ],
         "shotsTotal": [
-          14,
+          15,
           9
         ],
         "offsides": [
@@ -55,7 +55,7 @@
           1
         ],
         "shotsOff": [
-          8,
+          9,
           5
         ],
         "red": [
@@ -71,20 +71,20 @@
           2
         ],
         "shotsOutside": [
-          6,
+          7,
           1
         ],
         "passesTotal": [
-          426,
-          366
+          431,
+          373
         ],
         "corners": [
           4,
           3
         ],
         "passesAccurate": [
-          364,
-          301
+          367,
+          306
         ],
         "saves": [
           1,
@@ -236,7 +236,7 @@
         },
         "motm": {
           "player": "Grant Hanley",
-          "rating": 7.5,
+          "rating": 7.7,
           "team": "SCO"
         }
       }
