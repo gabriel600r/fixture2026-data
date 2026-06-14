@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:53:30Z",
+  "updated": "2026-06-14T21:54:17Z",
   "live": [
     {
       "id": 31,
@@ -28,7 +28,7 @@
         },
         {
           "player": "D. Kamada",
-          "minute": 89,
+          "minute": 88,
           "team": "JPN",
           "assist": "K. Ogawa"
         }
@@ -53,7 +53,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "offsides": [
           1,
