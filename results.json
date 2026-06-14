@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T17:51:09Z",
+  "updated": "2026-06-14T17:51:55Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
       "minute": 45,
-      "home": 2,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -24,6 +24,12 @@
           "minute": 38,
           "team": "GER",
           "assist": "N. Brown"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 45,
+          "team": "GER",
+          "pen": true
         }
       ],
       "extra": 5,
@@ -33,19 +39,19 @@
           0
         ],
         "saves": [
-          0,
+          1,
           2
         ],
         "passesAccurate": [
-          276,
-          105
+          288,
+          111
         ],
         "shotsTotal": [
-          12,
-          3
+          15,
+          4
         ],
         "shotsInside": [
-          8,
+          11,
           1
         ],
         "corners": [
@@ -61,28 +67,28 @@
           29
         ],
         "shotsBlocked": [
-          4,
+          5,
           0
         ],
         "fouls": [
           7,
-          4
+          5
         ],
         "shotsOff": [
-          4,
+          6,
           2
         ],
         "passesTotal": [
-          313,
-          130
+          327,
+          137
         ],
         "shotsOutside": [
           4,
-          2
+          3
         ],
         "shotsOn": [
           4,
-          1
+          2
         ],
         "passesPct": [
           88,
