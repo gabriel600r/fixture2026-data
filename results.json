@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T17:36:21Z",
+  "updated": "2026-06-14T17:37:08Z",
   "live": [
     {
       "id": 25,
       "status": "1H",
-      "minute": 34,
+      "minute": 36,
       "home": 1,
       "away": 1,
       "goals": [
@@ -30,8 +30,8 @@
           2
         ],
         "passesAccurate": [
-          191,
-          67
+          207,
+          70
         ],
         "shotsTotal": [
           10,
@@ -50,8 +50,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          73,
+          27
         ],
         "shotsBlocked": [
           4,
@@ -66,8 +66,8 @@
           1
         ],
         "passesTotal": [
-          213,
-          84
+          231,
+          88
         ],
         "shotsOutside": [
           4,
@@ -120,13 +120,13 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Aleksandar Pavlović",
+                "n": 23,
+                "name": "Felix Nmecha",
                 "pos": "M"
               },
               {
-                "n": 23,
-                "name": "Felix Nmecha",
+                "n": 5,
+                "name": "Aleksandar Pavlović",
                 "pos": "M"
               },
               {
