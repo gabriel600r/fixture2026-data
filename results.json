@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T18:23:59Z",
+  "updated": "2026-06-14T18:24:46Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 4,
       "away": 1,
       "goals": [
@@ -48,8 +48,8 @@
           3
         ],
         "passesAccurate": [
-          381,
-          160
+          406,
+          167
         ],
         "shotsTotal": [
           21,
@@ -76,7 +76,7 @@
           0
         ],
         "fouls": [
-          11,
+          12,
           8
         ],
         "shotsOff": [
@@ -84,8 +84,8 @@
           2
         ],
         "passesTotal": [
-          430,
-          195
+          460,
+          206
         ],
         "shotsOutside": [
           5,
@@ -96,8 +96,8 @@
           2
         ],
         "passesPct": [
-          89,
-          82
+          88,
+          81
         ],
         "yellow": [
           0,
@@ -233,7 +233,7 @@
         },
         "motm": {
           "player": "Felix Nmecha",
-          "rating": 8.5,
+          "rating": 8.3,
           "team": "GER"
         }
       }
