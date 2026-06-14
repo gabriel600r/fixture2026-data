@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T05:47:26Z",
+  "updated": "2026-06-14T05:48:12Z",
   "live": [
     {
       "id": 20,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 2,
       "away": 0,
       "goals": [
@@ -35,7 +35,7 @@
         ],
         "shotsTotal": [
           9,
-          26
+          27
         ],
         "offsides": [
           1,
@@ -50,7 +50,7 @@
           0
         ],
         "fouls": [
-          9,
+          10,
           3
         ],
         "shotsBlocked": [
@@ -59,22 +59,22 @@
         ],
         "shotsOutside": [
           3,
-          13
+          14
         ],
         "passesTotal": [
-          254,
-          612
+          258,
+          615
         ],
         "corners": [
           5,
           6
         ],
         "passesAccurate": [
-          194,
-          551
+          195,
+          553
         ],
         "saves": [
-          6,
+          7,
           2
         ],
         "shotsInside": [
@@ -83,7 +83,7 @@
         ],
         "shotsOn": [
           4,
-          6
+          7
         ],
         "passesPct": [
           76,
@@ -91,7 +91,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "home": "AUS",
         "away": "TUR"
