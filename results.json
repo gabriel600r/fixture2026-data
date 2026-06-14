@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T05:20:55Z",
+  "updated": "2026-06-14T05:21:42Z",
   "live": [
     {
       "id": 20,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 0,
       "goals": [
@@ -17,12 +17,12 @@
       ],
       "stats": {
         "possession": [
-          34,
-          66
+          35,
+          65
         ],
         "shotsTotal": [
           8,
-          16
+          17
         ],
         "offsides": [
           1,
@@ -38,27 +38,27 @@
         ],
         "fouls": [
           7,
-          2
+          3
         ],
         "shotsBlocked": [
           1,
-          6
+          7
         ],
         "shotsOutside": [
           2,
           9
         ],
         "passesTotal": [
-          209,
-          423
+          219,
+          430
         ],
         "corners": [
           4,
           5
         ],
         "passesAccurate": [
-          168,
-          381
+          174,
+          386
         ],
         "saves": [
           4,
@@ -66,14 +66,14 @@
         ],
         "shotsInside": [
           6,
-          7
+          8
         ],
         "shotsOn": [
           3,
           4
         ],
         "passesPct": [
-          80,
+          79,
           90
         ],
         "yellow": [
@@ -209,9 +209,9 @@
           }
         },
         "motm": {
-          "player": "Harry Souttar",
-          "rating": 7.2,
-          "team": "AUS"
+          "player": "İsmail Yüksek",
+          "rating": 7.5,
+          "team": "TUR"
         }
       }
     }
