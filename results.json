@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T18:31:02Z",
+  "updated": "2026-06-14T18:31:49Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 67,
-      "home": 4,
+      "minute": 69,
+      "home": 5,
       "away": 1,
       "goals": [
         {
@@ -36,6 +36,11 @@
           "minute": 47,
           "team": "GER",
           "assist": "J. Kimmich"
+        },
+        {
+          "player": "N. Brown",
+          "minute": 68,
+          "team": "GER"
         }
       ],
       "stats": {
