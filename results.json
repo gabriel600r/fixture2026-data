@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T05:50:33Z",
+  "updated": "2026-06-14T05:51:19Z",
   "live": [
     {
       "id": 20,
@@ -28,6 +28,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
           29,
