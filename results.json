@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:28:31Z",
+  "updated": "2026-06-14T21:29:18Z",
   "live": [
     {
       "id": 31,
@@ -37,7 +37,7 @@
       ],
       "stats": {
         "offsides": [
-          0,
+          1,
           0
         ],
         "saves": [
@@ -45,12 +45,12 @@
           2
         ],
         "passesAccurate": [
-          391,
-          152
+          393,
+          154
         ],
         "shotsTotal": [
           6,
-          4
+          5
         ],
         "shotsInside": [
           6,
@@ -78,15 +78,15 @@
         ],
         "shotsOff": [
           2,
-          3
+          4
         ],
         "passesTotal": [
-          440,
-          185
+          442,
+          188
         ],
         "shotsOutside": [
           0,
-          2
+          3
         ],
         "shotsOn": [
           4,
@@ -234,8 +234,8 @@
           }
         },
         "motm": {
-          "player": "Virgil van Dijk",
-          "rating": 7.9,
+          "player": "Crysencio Summerville",
+          "rating": 8.3,
           "team": "NED"
         }
       }
