@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T04:26:28Z",
+  "updated": "2026-06-14T04:27:14Z",
   "live": [
     {
       "id": 20,
@@ -7,6 +7,13 @@
       "minute": 26,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 27,
+          "team": "AUS"
+        }
+      ],
       "stats": {
         "possession": [
           34,
