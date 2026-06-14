@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T21:23:04Z",
+  "updated": "2026-06-14T21:23:50Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 2,
       "away": 1,
       "goals": [
@@ -19,6 +19,12 @@
           "minute": 57,
           "team": "JPN",
           "assist": "T. Kubo"
+        },
+        {
+          "player": "C. Summerville",
+          "minute": 64,
+          "team": "NED",
+          "assist": "R. Gravenberch"
         }
       ],
       "cardEvents": [
