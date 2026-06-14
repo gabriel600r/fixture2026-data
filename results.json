@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T21:19:10Z",
+  "updated": "2026-06-14T21:19:56Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 1,
       "goals": [
@@ -31,12 +31,12 @@
           2
         ],
         "passesAccurate": [
-          369,
-          146
+          371,
+          147
         ],
         "shotsTotal": [
           5,
-          3
+          4
         ],
         "shotsInside": [
           5,
@@ -67,16 +67,16 @@
           3
         ],
         "passesTotal": [
-          413,
-          176
+          417,
+          177
         ],
         "shotsOutside": [
           0,
-          1
+          2
         ],
         "shotsOn": [
           3,
-          0
+          1
         ],
         "passesPct": [
           89,
@@ -221,7 +221,7 @@
         },
         "motm": {
           "player": "Virgil van Dijk",
-          "rating": 8.2,
+          "rating": 7.9,
           "team": "NED"
         }
       }
