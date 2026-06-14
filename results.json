@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-14T21:47:15Z",
+  "updated": "2026-06-14T21:48:03Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "V. van Dijk",
@@ -25,6 +25,11 @@
           "minute": 64,
           "team": "NED",
           "assist": "R. Gravenberch"
+        },
+        {
+          "player": "K. Ogawa",
+          "minute": 89,
+          "team": "JPN"
         }
       ],
       "cardEvents": [
@@ -52,7 +57,7 @@
         ],
         "passesAccurate": [
           422,
-          236
+          250
         ],
         "shotsTotal": [
           9,
@@ -71,15 +76,15 @@
           0
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "shotsBlocked": [
           1,
           0
         ],
         "fouls": [
-          5,
+          6,
           7
         ],
         "shotsOff": [
@@ -88,7 +93,7 @@
         ],
         "passesTotal": [
           476,
-          283
+          297
         ],
         "shotsOutside": [
           0,
@@ -100,7 +105,7 @@
         ],
         "passesPct": [
           89,
-          83
+          84
         ],
         "yellow": [
           2,
