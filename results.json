@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-14T21:16:03Z",
+  "updated": "2026-06-14T21:16:50Z",
   "live": [
     {
       "id": 31,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "V. van Dijk",
           "minute": 51,
           "team": "NED",
           "assist": "R. Gravenberch"
+        },
+        {
+          "player": "K. Nakamura",
+          "minute": 57,
+          "team": "JPN"
         }
       ],
       "stats": {
@@ -214,8 +219,8 @@
           }
         },
         "motm": {
-          "player": "Jan Paul van Hecke",
-          "rating": 7.5,
+          "player": "Virgil van Dijk",
+          "rating": 8.2,
           "team": "NED"
         }
       }
