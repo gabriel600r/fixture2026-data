@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T18:41:11Z",
+  "updated": "2026-06-14T18:41:58Z",
   "live": [
     {
       "id": 25,
       "status": "2H",
-      "minute": 78,
-      "home": 5,
+      "minute": 79,
+      "home": 6,
       "away": 1,
       "goals": [
         {
@@ -42,6 +42,12 @@
           "minute": 68,
           "team": "GER",
           "assist": "D. Undav"
+        },
+        {
+          "player": "D. Undav",
+          "minute": 78,
+          "team": "GER",
+          "assist": "J. Kimmich"
         }
       ],
       "stats": {
@@ -54,16 +60,16 @@
           3
         ],
         "passesAccurate": [
-          438,
-          211
+          454,
+          212
         ],
         "shotsTotal": [
           23,
-          6
+          7
         ],
         "shotsInside": [
           18,
-          2
+          3
         ],
         "corners": [
           7,
@@ -74,8 +80,8 @@
           0
         ],
         "possession": [
-          66,
-          34
+          67,
+          33
         ],
         "shotsBlocked": [
           8,
@@ -87,11 +93,11 @@
         ],
         "shotsOff": [
           6,
-          4
+          5
         ],
         "passesTotal": [
-          498,
-          257
+          517,
+          258
         ],
         "shotsOutside": [
           5,
