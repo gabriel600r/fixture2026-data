@@ -1,227 +1,6 @@
 {
-  "updated": "2026-06-14T00:05:24Z",
-  "live": [
-    {
-      "id": 13,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Ismael Saibari",
-          "minute": 21,
-          "team": "MAR",
-          "assist": "Brahim Díaz"
-        },
-        {
-          "player": "Vinícius",
-          "minute": 32,
-          "team": "BRA",
-          "assist": "Bruno Guimarães"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Carlos Henrique Casimiro",
-          "minute": 37,
-          "team": "BRA",
-          "color": "yellow"
-        },
-        {
-          "player": "Roger Ibañez",
-          "minute": 43,
-          "team": "BRA",
-          "color": "yellow"
-        }
-      ],
-      "extra": 10,
-      "stats": {
-        "possession": [
-          52,
-          48
-        ],
-        "shotsTotal": [
-          13,
-          14
-        ],
-        "offsides": [
-          0,
-          1
-        ],
-        "shotsOff": [
-          4,
-          5
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "fouls": [
-          16,
-          14
-        ],
-        "shotsBlocked": [
-          4,
-          6
-        ],
-        "corners": [
-          6,
-          2
-        ],
-        "saves": [
-          2,
-          4
-        ],
-        "shotsOn": [
-          5,
-          3
-        ],
-        "yellow": [
-          2,
-          0
-        ],
-        "home": "BRA",
-        "away": "MAR"
-      },
-      "extras": {
-        "pred": {
-          "home": 0,
-          "draw": 50,
-          "away": 50
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Carlo Ancelotti",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alisson",
-                "pos": "G"
-              },
-              {
-                "n": 24,
-                "name": "Roger Ibañez",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Marquinhos",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Gabriel Magalhães",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Douglas Santos",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Casemiro",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Guimarães",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Lucas Paquetá",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Raphinha",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Vinícius Júnior",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Igor Thiago",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Mohamed Ouahbi",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Bono",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Achraf Hakimi",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Issa Diop",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Chadi Riad",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Noussair Mazraoui",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Neil El Aynaoui",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Ayyoub Bouaddi",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Brahim Díaz",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Azzedine Ounahi",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Bilal El Khannouss",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ismael Saibari",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Vinícius Júnior",
-          "rating": 8.0,
-          "team": "BRA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-14T00:06:10Z",
+  "live": [],
   "update_en": "",
   "update_es": "",
   "min_version": "1.7.0",
@@ -1297,6 +1076,223 @@
       }
     },
     {
+      "id": 13,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Ismael Saibari",
+          "minute": 21,
+          "team": "MAR",
+          "assist": "Brahim Díaz"
+        },
+        {
+          "player": "Vinícius",
+          "minute": 32,
+          "team": "BRA",
+          "assist": "Bruno Guimarães"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Carlos Henrique Casimiro",
+          "minute": 37,
+          "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "Roger Ibañez",
+          "minute": 43,
+          "team": "BRA",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "possession": [
+          52,
+          48
+        ],
+        "shotsTotal": [
+          13,
+          14
+        ],
+        "offsides": [
+          0,
+          1
+        ],
+        "shotsOff": [
+          4,
+          5
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          16,
+          14
+        ],
+        "shotsBlocked": [
+          4,
+          6
+        ],
+        "corners": [
+          6,
+          2
+        ],
+        "saves": [
+          2,
+          4
+        ],
+        "shotsOn": [
+          5,
+          3
+        ],
+        "yellow": [
+          2,
+          0
+        ],
+        "home": "BRA",
+        "away": "MAR"
+      },
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Carlo Ancelotti",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alisson",
+                "pos": "G"
+              },
+              {
+                "n": 24,
+                "name": "Roger Ibañez",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Marquinhos",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Gabriel Magalhães",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Douglas Santos",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Casemiro",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Guimarães",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Lucas Paquetá",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Raphinha",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Vinícius Júnior",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Igor Thiago",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Mohamed Ouahbi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bono",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Achraf Hakimi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Issa Diop",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Chadi Riad",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Noussair Mazraoui",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Neil El Aynaoui",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Brahim Díaz",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Azzedine Ounahi",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Bilal El Khannouss",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismael Saibari",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Vinícius Júnior",
+          "rating": 8.0,
+          "team": "BRA"
+        }
+      }
+    },
+    {
       "id": 19,
       "home": 4,
       "away": 1,
@@ -1590,6 +1586,11 @@
         "assists": 1
       },
       {
+        "player": "Ismael Saibari",
+        "team": "MAR",
+        "goals": 1
+      },
+      {
         "player": "J. Lukic",
         "team": "BIH",
         "goals": 1
@@ -1618,9 +1619,24 @@
         "player": "Raúl Jiménez",
         "team": "MEX",
         "goals": 1
+      },
+      {
+        "player": "Vinícius",
+        "team": "BRA",
+        "goals": 1
       }
     ],
     "assists": [
+      {
+        "player": "Brahim Díaz",
+        "team": "MAR",
+        "assists": 1
+      },
+      {
+        "player": "Bruno Guimarães",
+        "team": "BRA",
+        "assists": 1
+      },
       {
         "player": "Christian Pulisic",
         "team": "USA",
@@ -1716,6 +1732,12 @@
         "yellow": 1
       },
       {
+        "player": "Carlos Henrique Casimiro",
+        "team": "BRA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "D. Zakaria",
         "team": "SUI",
         "red": 0,
@@ -1789,12 +1811,6 @@
       },
       {
         "player": "Nkosinathi Sibisi",
-        "team": "RSA",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Teboho Mokoena",
         "team": "RSA",
         "red": 0,
         "yellow": 1
@@ -1888,6 +1904,34 @@
     },
     {
       "code": "SUI",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "BRA",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "MAR",
       "played": 1,
       "wins": 0,
       "draws": 1,
