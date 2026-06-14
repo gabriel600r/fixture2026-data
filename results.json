@@ -84,8 +84,16 @@
       "date": "12/06/2026",
       "title_es": "Un ajuste en los pronósticos ⚙️",
       "title_en": "A fix for group predictions ⚙️",
-      "body_es": "¿Notaste que algún pronóstico tuyo en un grupo no coincide con el que cargaste en tu celu? Tranqui: ya lo detecté y lo estoy resolviendo.\n\nMuy pronto, el pronóstico de tu celular va a sincronizar siempre, y los puntos del grupo se recalculan solos. No tenés que hacer nada y no perdés nada de lo que ya cargaste.\n\nGracias por la paciencia y por bancar el proyecto. ¡A seguir disfrutando el Mundial! ⚽",
-      "body_en": "Did you notice that one of your predictions in a group doesn't match the one you entered on your phone? No worries: I already spotted it and I'm on it.\n\nVery soon, your phone's prediction will always sync, and the group points recalculate automatically. You don't need to do anything, and you won't lose anything you already entered.\n\nThanks for your patience and for supporting the project. Enjoy the World Cup! ⚽"
+      "body_es": "¿Notaste que algún pronóstico tuyo en un grupo no coincidía con el que cargaste en tu celu? ¡Ya quedó resuelto! ✅\n\nActualizá a la última versión (v1.9.25) y tu pronóstico del celular sincroniza solo con el grupo, con los puntos recalculados. No perdés nada de lo que ya cargaste.\n\nGracias por la paciencia y por bancar el proyecto. ¡A seguir disfrutando el Mundial! ⚽",
+      "body_en": "Did you notice one of your predictions in a group didn't match the one you entered on your phone? It's now fixed! ✅\n\nUpdate to the latest version (v1.9.25) and your phone's prediction syncs with the group on its own, with points recalculated. You won't lose anything you already entered.\n\nThanks for your patience and for supporting the project. Enjoy the World Cup! ⚽"
+    },
+    {
+      "id": 11,
+      "date": "14/06/2026",
+      "title_es": "Novedades v1.9.25 ⚽",
+      "title_en": "What's new in v1.9.25 ⚽",
+      "body_es": "📲 Si tenés un grupo de Prode, actualizá la app, por favor 🙏\nEsta versión trae el arreglo que te venía contando: tu pronóstico del celular ahora sincroniza siempre con el grupo y los puntos se recalculan solos. Es un cambio que vive dentro de la app, así que para tenerlo necesitás actualizar a la última versión (v1.9.25). Si jugás el Prode con amigos o familia, pasales el dato así actualizan todos. 💪\n\nAdemás, en esta versión:\n\n🗓️ Nueva pestaña \"Ayer\": revisá los resultados del día anterior y deslizá para ver también los próximos días.\n\n📊 Filtros en las estadísticas: tocá para ordenar goleadores, asistencias, tarjetas y equipos como más te guste.\n\n🟨 Tarjetas amarillas con detalle: ahora ves el nombre y el minuto en el detalle de cada partido.\n\n⚽ Goles en contra: figuran en la columna del equipo al que favorecen.\n\nGracias de nuevo por bancar la app en el Mundial. ¡A seguir disfrutándolo! ⚽",
+      "body_en": "📲 If you play in a Prode group, please update the app 🙏\nThis version brings the fix I told you about: your phone's prediction now always syncs with the group, and the points recalculate on their own. It's a change that lives inside the app, so to get it you need to update to the latest version (v1.9.25). If you play the Prode with friends or family, spread the word so everyone updates. 💪\n\nAlso in this version:\n\n🗓️ New \"Yesterday\" tab: check the previous day's results and swipe to see upcoming days too.\n\n📊 Stats filters: tap to sort scorers, assists, cards and teams however you like.\n\n🟨 Yellow cards with detail: you now see the player's name and minute in each match's detail.\n\n⚽ Own goals: they appear under the column of the team they benefit.\n\nThanks again for supporting the app during the World Cup. Enjoy it! ⚽"
     }
   ],
   "results": [
