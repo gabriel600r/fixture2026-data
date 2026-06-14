@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T03:01:09Z",
+  "updated": "2026-06-14T03:01:56Z",
   "live": [
     {
       "id": 14,
@@ -47,7 +47,7 @@
           46
         ],
         "shotsTotal": [
-          13,
+          14,
           9
         ],
         "offsides": [
@@ -64,7 +64,7 @@
         ],
         "fouls": [
           23,
-          19
+          21
         ],
         "shotsBlocked": [
           4,
@@ -75,27 +75,27 @@
           1
         ],
         "passesTotal": [
-          416,
-          363
+          426,
+          366
         ],
         "corners": [
           4,
           3
         ],
         "passesAccurate": [
-          355,
-          299
+          364,
+          301
         ],
         "saves": [
           1,
-          1
+          2
         ],
         "shotsInside": [
-          7,
+          8,
           8
         ],
         "shotsOn": [
-          1,
+          2,
           2
         ],
         "passesPct": [
@@ -104,7 +104,7 @@
         ],
         "yellow": [
           1,
-          2
+          3
         ],
         "home": "HAI",
         "away": "SCO"
