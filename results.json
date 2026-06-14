@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-14T01:20:33Z",
+  "updated": "2026-06-14T01:21:20Z",
   "live": [
     {
       "id": 14,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
         "possession": [
-          37,
-          63
+          39,
+          61
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "offsides": [
           0,
@@ -22,7 +22,7 @@
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "red": [
           0,
@@ -30,7 +30,7 @@
         ],
         "fouls": [
           4,
-          3
+          4
         ],
         "shotsBlocked": [
           1,
@@ -41,16 +41,16 @@
           1
         ],
         "passesTotal": [
-          53,
-          92
+          62,
+          98
         ],
         "corners": [
           0,
           0
         ],
         "passesAccurate": [
-          44,
-          80
+          51,
+          83
         ],
         "saves": [
           0,
@@ -58,15 +58,15 @@
         ],
         "shotsInside": [
           0,
-          2
+          3
         ],
         "shotsOn": [
           0,
           0
         ],
         "passesPct": [
-          83,
-          87
+          82,
+          85
         ],
         "yellow": [
           0,
