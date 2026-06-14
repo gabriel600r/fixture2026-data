@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T18:58:23Z",
+  "updated": "2026-06-14T18:59:10Z",
   "live": [
     {
       "id": 25,
@@ -56,7 +56,7 @@
           "assist": "D. Undav"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "offsides": [
           0,
@@ -67,8 +67,8 @@
           4
         ],
         "passesAccurate": [
-          529,
-          240
+          548,
+          276
         ],
         "shotsTotal": [
           26,
@@ -87,8 +87,8 @@
           0
         ],
         "possession": [
-          67,
-          33
+          65,
+          35
         ],
         "shotsBlocked": [
           8,
@@ -103,8 +103,8 @@
           6
         ],
         "passesTotal": [
-          604,
-          295
+          630,
+          336
         ],
         "shotsOutside": [
           5,
@@ -115,8 +115,8 @@
           2
         ],
         "passesPct": [
-          88,
-          81
+          87,
+          82
         ],
         "yellow": [
           0,
