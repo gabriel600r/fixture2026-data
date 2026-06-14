@@ -1,16 +1,23 @@
 {
-  "updated": "2026-06-14T01:30:41Z",
+  "updated": "2026-06-14T01:31:28Z",
   "live": [
     {
       "id": 14,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. McGinn",
+          "minute": 28,
+          "team": "SCO"
+        }
+      ],
       "stats": {
         "possession": [
-          44,
-          56
+          41,
+          59
         ],
         "shotsTotal": [
           3,
@@ -29,7 +36,7 @@
           0
         ],
         "fouls": [
-          6,
+          7,
           4
         ],
         "shotsBlocked": [
@@ -41,19 +48,19 @@
           1
         ],
         "passesTotal": [
-          99,
-          130
+          104,
+          153
         ],
         "corners": [
           0,
           0
         ],
         "passesAccurate": [
-          86,
-          111
+          90,
+          131
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
@@ -66,7 +73,7 @@
         ],
         "passesPct": [
           87,
-          85
+          86
         ],
         "yellow": [
           0,
