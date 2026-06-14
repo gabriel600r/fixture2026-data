@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T01:15:53Z",
+  "updated": "2026-06-14T01:16:39Z",
   "live": [
     {
       "id": 14,
@@ -9,8 +9,8 @@
       "away": 0,
       "stats": {
         "possession": [
-          24,
-          76
+          30,
+          70
         ],
         "shotsTotal": [
           2,
@@ -30,7 +30,7 @@
         ],
         "fouls": [
           3,
-          1
+          2
         ],
         "shotsBlocked": [
           0,
@@ -41,16 +41,16 @@
           1
         ],
         "passesTotal": [
-          25,
-          83
+          37,
+          90
         ],
         "corners": [
           0,
           0
         ],
         "passesAccurate": [
-          18,
-          74
+          29,
+          79
         ],
         "saves": [
           0,
@@ -65,8 +65,8 @@
           0
         ],
         "passesPct": [
-          72,
-          89
+          78,
+          88
         ],
         "yellow": [
           0,
@@ -153,13 +153,13 @@
                 "pos": "D"
               },
               {
-                "n": 13,
-                "name": "Jack Hendry",
+                "n": 5,
+                "name": "Grant Hanley",
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Grant Hanley",
+                "n": 13,
+                "name": "Jack Hendry",
                 "pos": "D"
               },
               {
