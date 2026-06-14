@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T23:37:13Z",
+  "updated": "2026-06-14T23:38:00Z",
   "live": [
     {
       "id": 26,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -120,13 +120,13 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Seko Fofana",
+                "n": 8,
+                "name": "Franck Kessié",
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Franck Kessié",
+                "n": 6,
+                "name": "Seko Fofana",
                 "pos": "M"
               },
               {
