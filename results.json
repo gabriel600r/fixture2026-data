@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-14T05:34:57Z",
+  "updated": "2026-06-14T05:35:44Z",
   "live": [
     {
       "id": 20,
       "status": "2H",
-      "minute": 74,
-      "home": 1,
+      "minute": 75,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 27,
           "team": "AUS",
           "assist": "P. Okon-Engstler"
+        },
+        {
+          "player": "C. Metcalfe",
+          "minute": 75,
+          "team": "AUS"
         }
       ],
       "stats": {
