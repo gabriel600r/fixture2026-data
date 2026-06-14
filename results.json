@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T00:03:49Z",
+  "updated": "2026-06-14T00:04:36Z",
   "live": [
     {
       "id": 13,
@@ -9,27 +9,27 @@
       "away": 1,
       "goals": [
         {
-          "player": "I. Saibari",
+          "player": "Ismael Saibari",
           "minute": 21,
           "team": "MAR",
-          "assist": "B. Diaz"
+          "assist": "Brahim Díaz"
         },
         {
-          "player": "Vinicius Junior",
+          "player": "Vinícius",
           "minute": 32,
           "team": "BRA",
-          "assist": "Bruno Guimaraes"
+          "assist": "Bruno Guimarães"
         }
       ],
       "cardEvents": [
         {
-          "player": "Casemiro",
+          "player": "Carlos Henrique Casimiro",
           "minute": 37,
           "team": "BRA",
           "color": "yellow"
         },
         {
-          "player": "Ibanez",
+          "player": "Roger Ibañez",
           "minute": 43,
           "team": "BRA",
           "color": "yellow"
@@ -38,12 +38,12 @@
       "extra": 5,
       "stats": {
         "possession": [
-          54,
-          46
+          52,
+          48
         ],
         "shotsTotal": [
-          12,
-          12
+          13,
+          13
         ],
         "offsides": [
           0,
@@ -58,44 +58,24 @@
           0
         ],
         "fouls": [
-          15,
+          16,
           14
         ],
         "shotsBlocked": [
           4,
           6
         ],
-        "shotsOutside": [
-          3,
-          6
-        ],
-        "passesTotal": [
-          501,
-          432
-        ],
         "corners": [
-          5,
-          0
-        ],
-        "passesAccurate": [
-          441,
-          375
-        ],
-        "saves": [
-          1,
-          3
-        ],
-        "shotsInside": [
-          9,
-          6
-        ],
-        "shotsOn": [
-          4,
+          6,
           2
         ],
-        "passesPct": [
-          88,
-          87
+        "saves": [
+          2,
+          4
+        ],
+        "shotsOn": [
+          5,
+          3
         ],
         "yellow": [
           2,
