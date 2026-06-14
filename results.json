@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14T02:36:07Z",
+  "updated": "2026-06-14T02:36:54Z",
   "live": [
     {
       "id": 14,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 1,
       "goals": [
@@ -222,7 +222,7 @@
           }
         },
         "motm": {
-          "player": "John McGinn",
+          "player": "Lewis Ferguson",
           "rating": 7.5,
           "team": "SCO"
         }
