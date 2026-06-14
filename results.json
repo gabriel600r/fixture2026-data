@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T00:04:36Z",
+  "updated": "2026-06-14T00:05:24Z",
   "live": [
     {
       "id": 13,
@@ -35,7 +35,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "extra": 10,
       "stats": {
         "possession": [
           52,
@@ -43,7 +43,7 @@
         ],
         "shotsTotal": [
           13,
-          13
+          14
         ],
         "offsides": [
           0,
@@ -51,7 +51,7 @@
         ],
         "shotsOff": [
           4,
-          4
+          5
         ],
         "red": [
           0,
