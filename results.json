@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:55:30Z",
+  "updated": "2026-06-15T23:56:18Z",
   "live": [
     {
       "id": 44,
@@ -27,6 +27,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           1,
@@ -49,8 +50,8 @@
           88
         ],
         "passesTotal": [
-          308,
-          543
+          310,
+          552
         ],
         "corners": [
           4,
@@ -78,7 +79,7 @@
         ],
         "offsides": [
           0,
-          5
+          6
         ],
         "shotsOff": [
           3,
@@ -89,8 +90,8 @@
           2
         ],
         "passesAccurate": [
-          228,
-          477
+          229,
+          486
         ],
         "home": "KSA",
         "away": "URU"
