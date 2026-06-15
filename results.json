@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T16:29:29Z",
+  "updated": "2026-06-15T16:30:17Z",
   "live": [
     {
       "id": 43,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -26,7 +26,7 @@
         ],
         "passesTotal": [
           213,
-          94
+          106
         ],
         "shotsOff": [
           1,
@@ -41,8 +41,8 @@
           0
         ],
         "possession": [
-          69,
-          31
+          67,
+          33
         ],
         "saves": [
           0,
@@ -58,7 +58,7 @@
         ],
         "passesPct": [
           90,
-          74
+          76
         ],
         "offsides": [
           0,
@@ -78,7 +78,7 @@
         ],
         "passesAccurate": [
           192,
-          70
+          81
         ],
         "home": "ESP",
         "away": "CPV"
