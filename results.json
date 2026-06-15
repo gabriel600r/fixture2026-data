@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T00:57:44Z",
+  "updated": "2026-06-15T00:58:31Z",
   "live": [
     {
       "id": 26,
@@ -41,7 +41,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "offsides": [
           0,
@@ -236,8 +236,8 @@
           }
         },
         "motm": {
-          "player": "Yan Diomande",
-          "rating": 7.2,
+          "player": "A. Diallo",
+          "rating": 8.2,
           "team": "CIV"
         }
       }
