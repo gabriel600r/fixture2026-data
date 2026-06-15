@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:35:50Z",
+  "updated": "2026-06-15T23:36:38Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 0,
       "goals": [
@@ -37,15 +37,15 @@
         ],
         "shotsOutside": [
           2,
-          3
+          5
         ],
         "passesPct": [
           74,
           88
         ],
         "passesTotal": [
-          250,
-          444
+          255,
+          445
         ],
         "corners": [
           4,
@@ -57,18 +57,18 @@
         ],
         "shotsOn": [
           3,
-          4
+          5
         ],
         "shotsBlocked": [
           0,
-          2
+          3
         ],
         "shotsTotal": [
           5,
-          12
+          14
         ],
         "fouls": [
-          5,
+          7,
           5
         ],
         "offsides": [
@@ -80,11 +80,11 @@
           6
         ],
         "saves": [
-          4,
+          5,
           2
         ],
         "passesAccurate": [
-          186,
+          189,
           391
         ],
         "home": "KSA",
