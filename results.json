@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T20:55:02Z",
+  "updated": "2026-06-15T20:55:50Z",
   "live": [
     {
       "id": 37,
@@ -9,13 +9,13 @@
       "away": 1,
       "goals": [
         {
-          "player": "Emam Ashour",
+          "player": "E. Ashour",
           "minute": 19,
           "team": "EGY",
-          "assist": "Mohamed Salah"
+          "assist": "M. Salah"
         },
         {
-          "player": "Mohamed Hany",
+          "player": "M. Hany",
           "minute": 66,
           "team": "BEL",
           "og": true
@@ -23,25 +23,25 @@
       ],
       "cardEvents": [
         {
-          "player": "Marwan Attia",
+          "player": "M. Attia",
           "minute": 13,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "Timothy Castagne",
+          "player": "T. Castagne",
           "minute": 14,
           "team": "BEL",
           "color": "yellow"
         },
         {
-          "player": "Ahmed Fatouh",
+          "player": "A. Fatouh",
           "minute": 34,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "Maxim De Cuyper",
+          "player": "M. De Cuyper",
           "minute": 75,
           "team": "BEL",
           "color": "yellow"
@@ -59,7 +59,7 @@
         ],
         "shotsInside": [
           8,
-          10
+          11
         ],
         "shotsOutside": [
           6,
@@ -70,8 +70,8 @@
           81
         ],
         "passesTotal": [
-          419,
-          372
+          432,
+          388
         ],
         "corners": [
           2,
@@ -87,11 +87,11 @@
         ],
         "shotsBlocked": [
           5,
-          7
+          8
         ],
         "shotsTotal": [
           14,
-          13
+          14
         ],
         "fouls": [
           15,
@@ -110,8 +110,8 @@
           3
         ],
         "passesAccurate": [
-          361,
-          302
+          371,
+          314
         ],
         "home": "BEL",
         "away": "EGY"
