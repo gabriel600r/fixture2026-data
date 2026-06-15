@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T15:00:04Z",
+  "updated": "2026-06-15T15:44:26Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
@@ -86,13 +86,13 @@
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Pico",
+                "n": 3,
+                "name": "Diney Borges",
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "Diney Borges",
+                "n": 4,
+                "name": "Pico",
                 "pos": "D"
               },
               {
