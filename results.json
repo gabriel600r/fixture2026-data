@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-15T20:58:10Z",
+  "updated": "2026-06-15T21:00:27Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 44,
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Georgios Donis",
+            "xi": [
+              {
+                "n": 21,
+                "name": "Mohammed Al-Owais",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Saud Abdulhamid",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Hassan Altambakti",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Abdulelah Al-Amri",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Moteb Al-Harbi",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Mohammed Abu Al-Shamat",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Mohamed Kanno",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Abdullah Al-Khaibari",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Salem Al-Dawsari",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Musab Al Juwayr",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Firas Al-Buraikan",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Marcelo Bielsa",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Fernando Muslera",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Guillermo Varela",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Sebastián Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Mathías Olivera",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Matías Viña",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Federico Valverde",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Ugarte",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Rodrigo Bentancur",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Maximiliano Araújo",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Federico Viñas",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Darwin Núñez",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Maurizio Mariani, Italy"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
