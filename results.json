@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-15T03:56:01Z",
+  "updated": "2026-06-15T03:56:48Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
       "minute": 90,
-      "home": 4,
+      "home": 5,
       "away": 1,
       "goals": [
         {
@@ -36,6 +36,11 @@
           "minute": 84,
           "team": "SWE",
           "assist": "A. Isak"
+        },
+        {
+          "player": "Y. Ayari",
+          "minute": 90,
+          "team": "SWE"
         }
       ],
       "cardEvents": [
@@ -46,7 +51,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "offsides": [
           3,
