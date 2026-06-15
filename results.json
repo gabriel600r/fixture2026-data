@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T00:31:08Z",
+  "updated": "2026-06-15T00:31:55Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -221,9 +221,9 @@
           }
         },
         "motm": {
-          "player": "P. Vite",
+          "player": "Yan Diomande",
           "rating": 7.2,
-          "team": "ECU"
+          "team": "CIV"
         }
       }
     }
