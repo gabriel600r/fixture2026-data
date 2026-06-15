@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-15T20:54:15Z",
+  "updated": "2026-06-15T20:55:02Z",
   "live": [
     {
       "id": 37,
       "status": "2H",
-      "minute": 88,
+      "minute": 90,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "E. Ashour",
+          "player": "Emam Ashour",
           "minute": 19,
           "team": "EGY",
-          "assist": "M. Salah"
+          "assist": "Mohamed Salah"
         },
         {
-          "player": "M. Hany",
+          "player": "Mohamed Hany",
           "minute": 66,
           "team": "BEL",
           "og": true
@@ -23,30 +23,31 @@
       ],
       "cardEvents": [
         {
-          "player": "M. Attia",
+          "player": "Marwan Attia",
           "minute": 13,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "T. Castagne",
+          "player": "Timothy Castagne",
           "minute": 14,
           "team": "BEL",
           "color": "yellow"
         },
         {
-          "player": "A. Fatouh",
+          "player": "Ahmed Fatouh",
           "minute": 34,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "M. De Cuyper",
+          "player": "Maxim De Cuyper",
           "minute": 75,
           "team": "BEL",
           "color": "yellow"
         }
       ],
+      "extra": 3,
       "stats": {
         "yellow": [
           2,
