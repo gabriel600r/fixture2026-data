@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:56:48Z",
+  "updated": "2026-06-15T03:57:35Z",
   "live": [
     {
       "id": 32,
@@ -40,7 +40,8 @@
         {
           "player": "Y. Ayari",
           "minute": 90,
-          "team": "SWE"
+          "team": "SWE",
+          "assist": "L. Bergvall"
         }
       ],
       "cardEvents": [
@@ -51,22 +52,22 @@
           "color": "yellow"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "offsides": [
           3,
-          5
+          6
         ],
         "saves": [
           1,
           1
         ],
         "passesAccurate": [
-          270,
-          280
+          280,
+          287
         ],
         "shotsTotal": [
-          12,
+          13,
           6
         ],
         "shotsInside": [
@@ -98,15 +99,15 @@
           3
         ],
         "passesTotal": [
-          343,
-          354
+          353,
+          362
         ],
         "shotsOutside": [
-          3,
+          4,
           4
         ],
         "shotsOn": [
-          6,
+          7,
           2
         ],
         "passesPct": [
