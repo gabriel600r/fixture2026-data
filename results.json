@@ -1,33 +1,33 @@
 {
-  "updated": "2026-06-15T00:46:48Z",
+  "updated": "2026-06-15T00:47:34Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Seko Fofana",
+          "player": "S. Fofana",
           "minute": 28,
           "team": "CIV",
           "color": "yellow"
         },
         {
-          "player": "Franck Kessié",
+          "player": "F. Kessie",
           "minute": 38,
           "team": "CIV",
           "color": "yellow"
         },
         {
-          "player": "Guéla Doué",
+          "player": "G. Doue",
           "minute": 40,
           "team": "CIV",
           "color": "yellow"
         },
         {
-          "player": "Jackson Porozo",
+          "player": "J. Porozo",
           "minute": 73,
           "team": "ECU",
           "color": "yellow"
