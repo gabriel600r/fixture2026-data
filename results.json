@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T20:21:11Z",
+  "updated": "2026-06-15T20:21:58Z",
   "live": [
     {
       "id": 37,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 1,
       "goals": [
@@ -46,7 +46,7 @@
         ],
         "shotsInside": [
           3,
-          4
+          5
         ],
         "shotsOutside": [
           5,
@@ -57,8 +57,8 @@
           80
         ],
         "passesTotal": [
-          297,
-          234
+          303,
+          239
         ],
         "corners": [
           0,
@@ -70,7 +70,7 @@
         ],
         "shotsOn": [
           0,
-          3
+          4
         ],
         "shotsBlocked": [
           4,
@@ -78,11 +78,11 @@
         ],
         "shotsTotal": [
           8,
-          6
+          7
         ],
         "fouls": [
           10,
-          10
+          11
         ],
         "offsides": [
           0,
@@ -97,8 +97,8 @@
           0
         ],
         "passesAccurate": [
-          254,
-          187
+          260,
+          192
         ],
         "home": "BEL",
         "away": "EGY"
@@ -235,9 +235,9 @@
         },
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
-          "player": "Emam Ashour",
-          "rating": 7.7,
-          "team": "EGY"
+          "player": "Timothy Castagne",
+          "rating": 7.9,
+          "team": "BEL"
         }
       }
     }
