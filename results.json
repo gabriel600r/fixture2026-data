@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T22:33:04Z",
+  "updated": "2026-06-15T22:33:51Z",
   "live": [
     {
       "id": 44,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
       "away": 0,
       "stats": {
@@ -70,7 +70,7 @@
         ],
         "passesAccurate": [
           115,
-          150
+          149
         ],
         "home": "KSA",
         "away": "URU"
