@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T17:53:39Z",
+  "updated": "2026-06-15T17:54:26Z",
   "live": [
     {
       "id": 43,
@@ -13,45 +13,51 @@
           "minute": 16,
           "team": "CPV",
           "color": "yellow"
+        },
+        {
+          "player": "Pedri",
+          "minute": 90,
+          "team": "ESP",
+          "color": "yellow"
         }
       ],
       "extra": 3,
       "stats": {
         "shotsTotal": [
-          24,
-          3
+          25,
+          5
         ],
         "shotsOn": [
           7,
-          0
+          1
         ],
         "passesTotal": [
-          773,
-          267
+          782,
+          274
         ],
         "shotsOff": [
           10,
           2
         ],
         "shotsOutside": [
-          10,
-          2
+          11,
+          3
         ],
         "shotsInside": [
           14,
-          1
+          2
         ],
         "possession": [
           74,
           26
         ],
         "saves": [
-          0,
+          1,
           7
         ],
         "shotsBlocked": [
-          7,
-          1
+          8,
+          2
         ],
         "fouls": [
           9,
@@ -66,8 +72,8 @@
           3
         ],
         "corners": [
-          9,
-          0
+          10,
+          1
         ],
         "red": [
           0,
@@ -78,8 +84,8 @@
           1
         ],
         "passesAccurate": [
-          709,
-          197
+          718,
+          202
         ],
         "home": "ESP",
         "away": "CPV"
