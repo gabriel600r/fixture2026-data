@@ -1,260 +1,6 @@
 {
-  "updated": "2026-06-15T20:57:24Z",
-  "live": [
-    {
-      "id": 37,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "E. Ashour",
-          "minute": 19,
-          "team": "EGY",
-          "assist": "M. Salah"
-        },
-        {
-          "player": "M. Hany",
-          "minute": 66,
-          "team": "BEL",
-          "og": true
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Attia",
-          "minute": 13,
-          "team": "EGY",
-          "color": "yellow"
-        },
-        {
-          "player": "T. Castagne",
-          "minute": 14,
-          "team": "BEL",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Fatouh",
-          "minute": 34,
-          "team": "EGY",
-          "color": "yellow"
-        },
-        {
-          "player": "M. De Cuyper",
-          "minute": 75,
-          "team": "BEL",
-          "color": "yellow"
-        }
-      ],
-      "extra": 3,
-      "stats": {
-        "yellow": [
-          2,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          8,
-          11
-        ],
-        "shotsOutside": [
-          6,
-          3
-        ],
-        "passesPct": [
-          86,
-          81
-        ],
-        "passesTotal": [
-          432,
-          388
-        ],
-        "corners": [
-          2,
-          7
-        ],
-        "possession": [
-          53,
-          47
-        ],
-        "shotsOn": [
-          3,
-          3
-        ],
-        "shotsBlocked": [
-          5,
-          8
-        ],
-        "shotsTotal": [
-          14,
-          14
-        ],
-        "fouls": [
-          15,
-          14
-        ],
-        "offsides": [
-          0,
-          1
-        ],
-        "shotsOff": [
-          6,
-          3
-        ],
-        "saves": [
-          2,
-          3
-        ],
-        "passesAccurate": [
-          371,
-          314
-        ],
-        "home": "BEL",
-        "away": "EGY"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Rudi Garcia",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Thibaut Courtois",
-                "pos": "G"
-              },
-              {
-                "n": 15,
-                "name": "Thomas Meunier",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nathan Ngoy",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Brandon Mechele",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Timothy Castagne",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Amadou Onana",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Youri Tielemans",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Leandro Trossard",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kevin De Bruyne",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Jérémy Doku",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Charles De Ketelaere",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Hossam Hassan",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Mostafa Shobeir",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Mohamed Hany",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Yasser Ibrahim",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Hamdy Fathy",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Ahmed Fatouh",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Marwan Attia",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Mohanad Lasheen",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Mostafa Ziko",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Mohamed Salah",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Emam Ashour",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Omar Marmoush",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Ramon Abatti Abel, Brazil",
-        "motm": {
-          "player": "Timothy Castagne",
-          "rating": 7.9,
-          "team": "BEL"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-15T20:58:10Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -3270,6 +3016,256 @@
       }
     },
     {
+      "id": 37,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "E. Ashour",
+          "minute": 19,
+          "team": "EGY",
+          "assist": "M. Salah"
+        },
+        {
+          "player": "M. Hany",
+          "minute": 66,
+          "team": "BEL",
+          "og": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Attia",
+          "minute": 13,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "T. Castagne",
+          "minute": 14,
+          "team": "BEL",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Fatouh",
+          "minute": 34,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "M. De Cuyper",
+          "minute": 75,
+          "team": "BEL",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          2,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          8,
+          11
+        ],
+        "shotsOutside": [
+          6,
+          3
+        ],
+        "passesPct": [
+          86,
+          81
+        ],
+        "passesTotal": [
+          432,
+          388
+        ],
+        "corners": [
+          2,
+          7
+        ],
+        "possession": [
+          53,
+          47
+        ],
+        "shotsOn": [
+          3,
+          3
+        ],
+        "shotsBlocked": [
+          5,
+          8
+        ],
+        "shotsTotal": [
+          14,
+          14
+        ],
+        "fouls": [
+          15,
+          14
+        ],
+        "offsides": [
+          0,
+          1
+        ],
+        "shotsOff": [
+          6,
+          3
+        ],
+        "saves": [
+          2,
+          3
+        ],
+        "passesAccurate": [
+          371,
+          314
+        ],
+        "home": "BEL",
+        "away": "EGY"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Rudi Garcia",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Thibaut Courtois",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Thomas Meunier",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nathan Ngoy",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Brandon Mechele",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Timothy Castagne",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Amadou Onana",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Youri Tielemans",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Trossard",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kevin De Bruyne",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jérémy Doku",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Charles De Ketelaere",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Hossam Hassan",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mostafa Shobeir",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Mohamed Hany",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Yasser Ibrahim",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Hamdy Fathy",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ahmed Fatouh",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Mohanad Lasheen",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Omar Marmoush",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ramon Abatti Abel, Brazil",
+        "motm": {
+          "player": "Timothy Castagne",
+          "rating": 7.9,
+          "team": "BEL"
+        }
+      }
+    },
+    {
       "id": 43,
       "home": 0,
       "away": 0,
@@ -3555,6 +3551,11 @@
         "assists": 2
       },
       {
+        "player": "E. Ashour",
+        "team": "EGY",
+        "goals": 1
+      },
+      {
         "player": "F. Nmecha",
         "team": "GER",
         "goals": 1
@@ -3588,11 +3589,6 @@
       {
         "player": "J. Musiala",
         "team": "GER",
-        "goals": 1
-      },
-      {
-        "player": "Julián Quiñones",
-        "team": "MEX",
         "goals": 1
       }
     ],
@@ -3681,6 +3677,11 @@
         "assists": 1
       },
       {
+        "player": "M. Salah",
+        "team": "EGY",
+        "assists": 1
+      },
+      {
         "player": "Malik Tillman",
         "team": "USA",
         "assists": 1
@@ -3694,11 +3695,6 @@
       {
         "player": "P. David",
         "team": "CAN",
-        "assists": 1
-      },
-      {
-        "player": "P. Okon-Engstler",
-        "team": "AUS",
         "assists": 1
       }
     ],
@@ -3720,6 +3716,12 @@
         "team": "RSA",
         "red": 1,
         "yellow": 0
+      },
+      {
+        "player": "A. Fatouh",
+        "team": "EGY",
+        "red": 0,
+        "yellow": 1
       },
       {
         "player": "A. Hickey",
@@ -3814,12 +3816,6 @@
       {
         "player": "J. Porozo",
         "team": "ECU",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Juan Caceres",
-        "team": "PAR",
         "red": 0,
         "yellow": 1
       }
@@ -4044,6 +4040,34 @@
       "loses": 0,
       "gf": 2,
       "ga": 2,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "BEL",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "EGY",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "",
