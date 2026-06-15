@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:16:58Z",
+  "updated": "2026-06-15T03:17:45Z",
   "live": [
     {
       "id": 32,
@@ -36,7 +36,7 @@
       ],
       "stats": {
         "offsides": [
-          2,
+          3,
           2
         ],
         "saves": [
@@ -44,20 +44,20 @@
           0
         ],
         "passesAccurate": [
-          194,
-          186
+          195,
+          188
         ],
         "shotsTotal": [
-          5,
-          4
+          6,
+          5
         ],
         "shotsInside": [
           3,
-          1
+          2
         ],
         "corners": [
           2,
-          0
+          1
         ],
         "red": [
           0,
@@ -68,7 +68,7 @@
           50
         ],
         "shotsBlocked": [
-          0,
+          1,
           1
         ],
         "fouls": [
@@ -77,14 +77,14 @@
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "passesTotal": [
-          240,
-          237
+          242,
+          240
         ],
         "shotsOutside": [
-          2,
+          3,
           3
         ],
         "shotsOn": [
@@ -97,7 +97,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "home": "SWE",
         "away": "TUN"
