@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-15T00:55:24Z",
+  "updated": "2026-06-15T00:56:11Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
       "minute": 90,
-      "home": 0,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "Amad Diallo",
+          "minute": 90,
+          "team": "CIV"
+        }
+      ],
       "cardEvents": [
         {
           "player": "Seko Fofana",
@@ -33,6 +40,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           0,
