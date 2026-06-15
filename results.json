@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T20:29:05Z",
+  "updated": "2026-06-15T20:29:52Z",
   "live": [
     {
       "id": 37,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "R. Lukaku",
           "minute": 66,
-          "team": "BEL"
+          "team": "BEL",
+          "assist": "T. Meunier"
         }
       ],
       "cardEvents": [
