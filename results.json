@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-15T22:44:03Z",
+  "updated": "2026-06-15T22:44:50Z",
   "live": [
     {
       "id": 44,
       "status": "1H",
-      "minute": 40,
-      "home": 0,
+      "minute": 41,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "A. Al Amri",
+          "minute": 41,
+          "team": "KSA"
+        }
+      ],
       "stats": {
         "yellow": [
           0,
