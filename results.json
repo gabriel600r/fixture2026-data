@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T19:17:29Z",
+  "updated": "2026-06-15T19:18:17Z",
   "live": [
     {
       "id": 37,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,7 +23,7 @@
       ],
       "stats": {
         "yellow": [
-          0,
+          1,
           1
         ],
         "red": [
@@ -40,19 +40,19 @@
         ],
         "passesPct": [
           85,
-          84
+          85
         ],
         "passesTotal": [
-          62,
-          79
+          66,
+          87
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "shotsOn": [
           0,
@@ -83,8 +83,8 @@
           0
         ],
         "passesAccurate": [
-          53,
-          66
+          56,
+          74
         ],
         "home": "BEL",
         "away": "EGY"
