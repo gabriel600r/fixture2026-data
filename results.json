@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:50:33Z",
+  "updated": "2026-06-15T03:51:20Z",
   "live": [
     {
       "id": 32,
@@ -46,18 +46,19 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           3,
-          4
+          5
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesAccurate": [
-          261,
-          272
+          262,
+          274
         ],
         "shotsTotal": [
           10,
@@ -92,8 +93,8 @@
           3
         ],
         "passesTotal": [
-          329,
-          344
+          331,
+          347
         ],
         "shotsOutside": [
           3,
@@ -241,7 +242,7 @@
         },
         "motm": {
           "player": "Alexander Isak",
-          "rating": 8.3,
+          "rating": 8.6,
           "team": "SWE"
         }
       }
