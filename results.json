@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T17:11:56Z",
+  "updated": "2026-06-15T17:12:43Z",
   "live": [
     {
       "id": 43,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -17,7 +17,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          13,
+          15,
           3
         ],
         "shotsOn": [
@@ -25,24 +25,24 @@
           0
         ],
         "passesTotal": [
-          398,
-          167
+          455,
+          174
         ],
         "shotsOff": [
-          5,
+          7,
           2
         ],
         "shotsOutside": [
-          4,
+          5,
           2
         ],
         "shotsInside": [
-          9,
+          10,
           1
         ],
         "possession": [
-          70,
-          30
+          72,
+          28
         ],
         "saves": [
           0,
@@ -58,7 +58,7 @@
         ],
         "passesPct": [
           92,
-          77
+          76
         ],
         "offsides": [
           2,
@@ -77,8 +77,8 @@
           1
         ],
         "passesAccurate": [
-          366,
-          129
+          420,
+          133
         ],
         "home": "ESP",
         "away": "CPV"
@@ -210,7 +210,7 @@
         },
         "motm": {
           "player": "Rodri",
-          "rating": 7.0,
+          "rating": 7.3,
           "team": "ESP"
         }
       }
