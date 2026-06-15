@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T19:08:03Z",
+  "updated": "2026-06-15T19:08:50Z",
   "live": [
     {
       "id": 37,
@@ -25,20 +25,20 @@
           0
         ],
         "passesPct": [
-          100,
-          100
+          88,
+          87
         ],
         "passesTotal": [
-          4,
-          6
+          17,
+          39
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          40,
-          60
+          30,
+          70
         ],
         "shotsOn": [
           0,
@@ -58,7 +58,7 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsOff": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesAccurate": [
-          4,
-          6
+          15,
+          34
         ],
         "home": "BEL",
         "away": "EGY"
