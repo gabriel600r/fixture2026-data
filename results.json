@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T22:11:52Z",
+  "updated": "2026-06-15T22:12:39Z",
   "live": [
     {
       "id": 44,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "stats": {
@@ -97,13 +97,13 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Hassan Altambakti",
+                "n": 4,
+                "name": "Abdulelah Al-Amri",
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Abdulelah Al-Amri",
+                "n": 5,
+                "name": "Hassan Altambakti",
                 "pos": "D"
               },
               {
@@ -132,13 +132,13 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Musab Al Juwayr",
+                "n": 9,
+                "name": "Firas Al-Buraikan",
                 "pos": "F"
               },
               {
-                "n": 9,
-                "name": "Firas Al-Buraikan",
+                "n": 7,
+                "name": "Musab Al Juwayr",
                 "pos": "F"
               }
             ]
