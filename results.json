@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T02:35:40Z",
+  "updated": "2026-06-15T02:36:27Z",
   "live": [
     {
       "id": 32,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 2,
       "away": 0,
       "goals": [
@@ -152,7 +152,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "5-3-2",
             "coach": "Sabri Lamouchi",
             "xi": [
               {
@@ -181,6 +181,11 @@
                 "pos": "D"
               },
               {
+                "n": 2,
+                "name": "Ali Abdi",
+                "pos": "D"
+              },
+              {
                 "n": 13,
                 "name": "Rani Khedira",
                 "pos": "M"
@@ -191,23 +196,18 @@
                 "pos": "M"
               },
               {
-                "n": 25,
-                "name": "Anis Ben Slimane",
-                "pos": "M"
-              },
-              {
                 "n": 10,
                 "name": "Hannibal Mejbri",
                 "pos": "M"
               },
               {
-                "n": 2,
-                "name": "Ali Abdi",
-                "pos": "M"
-              },
-              {
                 "n": 8,
                 "name": "Elias Saad",
+                "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "Anis Ben Slimane",
                 "pos": "F"
               }
             ]
