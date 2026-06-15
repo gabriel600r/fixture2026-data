@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T20:37:44Z",
+  "updated": "2026-06-15T20:38:31Z",
   "live": [
     {
       "id": 37,
@@ -39,6 +39,12 @@
           "minute": 34,
           "team": "EGY",
           "color": "yellow"
+        },
+        {
+          "player": "M. De Cuyper",
+          "minute": 75,
+          "team": "BEL",
+          "color": "yellow"
         }
       ],
       "stats": {
@@ -51,7 +57,7 @@
           0
         ],
         "shotsInside": [
-          4,
+          5,
           9
         ],
         "shotsOutside": [
@@ -63,19 +69,19 @@
           80
         ],
         "passesTotal": [
-          352,
-          278
+          377,
+          288
         ],
         "corners": [
           2,
           6
         ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "shotsOn": [
-          1,
+          2,
           3
         ],
         "shotsBlocked": [
@@ -83,11 +89,11 @@
           5
         ],
         "shotsTotal": [
-          10,
+          11,
           11
         ],
         "fouls": [
-          12,
+          13,
           13
         ],
         "offsides": [
@@ -103,8 +109,8 @@
           2
         ],
         "passesAccurate": [
-          305,
-          223
+          327,
+          230
         ],
         "home": "BEL",
         "away": "EGY"
