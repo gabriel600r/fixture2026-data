@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-15T19:19:51Z",
+  "updated": "2026-06-15T19:20:38Z",
   "live": [
     {
       "id": 37,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "E. Ashour",
+          "minute": 20,
+          "team": "EGY",
+          "assist": "M. Salah"
+        }
+      ],
       "cardEvents": [
         {
           "player": "M. Attia",
