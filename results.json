@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T20:18:49Z",
+  "updated": "2026-06-15T20:19:36Z",
   "live": [
     {
       "id": 37,
@@ -54,19 +54,19 @@
         ],
         "passesPct": [
           86,
-          79
+          80
         ],
         "passesTotal": [
-          295,
-          225
+          297,
+          234
         ],
         "corners": [
           0,
-          4
+          5
         ],
         "possession": [
-          57,
-          43
+          56,
+          44
         ],
         "shotsOn": [
           0,
@@ -93,12 +93,12 @@
           0
         ],
         "saves": [
-          2,
+          3,
           0
         ],
         "passesAccurate": [
           254,
-          178
+          187
         ],
         "home": "BEL",
         "away": "EGY"
