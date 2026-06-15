@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T18:09:31Z",
+  "updated": "2026-06-15T18:54:04Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
@@ -55,8 +55,8 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Jérémy Doku",
+                "n": 10,
+                "name": "Leandro Trossard",
                 "pos": "M"
               },
               {
@@ -65,8 +65,8 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Leandro Trossard",
+                "n": 11,
+                "name": "Jérémy Doku",
                 "pos": "M"
               },
               {
