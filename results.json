@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T03:13:50Z",
+  "updated": "2026-06-15T03:14:37Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 2,
       "away": 1,
       "goals": [
@@ -24,6 +24,14 @@
           "minute": 43,
           "team": "TUN",
           "assist": "H. Mejbri"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Khedira",
+          "minute": 54,
+          "team": "TUN",
+          "color": "yellow"
         }
       ],
       "stats": {
