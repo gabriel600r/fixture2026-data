@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-15T02:43:27Z",
+  "updated": "2026-06-15T02:44:13Z",
   "live": [
     {
       "id": 32,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 2,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "Y. Ayari",
@@ -18,6 +18,12 @@
           "minute": 30,
           "team": "SWE",
           "assist": "V. Gyokeres"
+        },
+        {
+          "player": "O. Rekik",
+          "minute": 43,
+          "team": "TUN",
+          "assist": "H. Mejbri"
         }
       ],
       "stats": {
