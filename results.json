@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:38:59Z",
+  "updated": "2026-06-15T23:39:46Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 0,
       "goals": [
@@ -44,16 +44,16 @@
           88
         ],
         "passesTotal": [
-          255,
-          453
+          256,
+          459
         ],
         "corners": [
           4,
           4
         ],
         "possession": [
-          36,
-          64
+          35,
+          65
         ],
         "shotsOn": [
           3,
@@ -68,7 +68,7 @@
           14
         ],
         "fouls": [
-          7,
+          8,
           5
         ],
         "offsides": [
@@ -85,7 +85,7 @@
         ],
         "passesAccurate": [
           189,
-          399
+          405
         ],
         "home": "KSA",
         "away": "URU"
