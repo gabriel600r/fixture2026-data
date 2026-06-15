@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T02:20:53Z",
+  "updated": "2026-06-15T02:21:40Z",
   "live": [
     {
       "id": 32,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 1,
       "away": 0,
       "goals": [
@@ -160,13 +160,13 @@
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "Montassar Talbi",
+                "n": 4,
+                "name": "Omar Rekik",
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Omar Rekik",
+                "n": 3,
+                "name": "Montassar Talbi",
                 "pos": "D"
               },
               {
