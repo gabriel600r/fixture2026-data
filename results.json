@@ -1,248 +1,6 @@
 {
-  "updated": "2026-06-15T01:04:08Z",
-  "live": [
-    {
-      "id": 26,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "A. Diallo",
-          "minute": 90,
-          "team": "CIV",
-          "assist": "W. Singo"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "S. Fofana",
-          "minute": 28,
-          "team": "CIV",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Kessie",
-          "minute": 38,
-          "team": "CIV",
-          "color": "yellow"
-        },
-        {
-          "player": "G. Doue",
-          "minute": 40,
-          "team": "CIV",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Porozo",
-          "minute": 73,
-          "team": "ECU",
-          "color": "yellow"
-        }
-      ],
-      "extra": 3,
-      "stats": {
-        "offsides": [
-          0,
-          0
-        ],
-        "saves": [
-          0,
-          1
-        ],
-        "passesAccurate": [
-          193,
-          248
-        ],
-        "shotsTotal": [
-          6,
-          6
-        ],
-        "shotsInside": [
-          3,
-          1
-        ],
-        "corners": [
-          2,
-          0
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "possession": [
-          45,
-          55
-        ],
-        "shotsBlocked": [
-          3,
-          0
-        ],
-        "fouls": [
-          8,
-          3
-        ],
-        "shotsOff": [
-          2,
-          6
-        ],
-        "passesTotal": [
-          233,
-          285
-        ],
-        "shotsOutside": [
-          3,
-          5
-        ],
-        "shotsOn": [
-          1,
-          0
-        ],
-        "passesPct": [
-          83,
-          87
-        ],
-        "yellow": [
-          3,
-          0
-        ],
-        "home": "CIV",
-        "away": "ECU"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Emerse Fae",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Yahia Fofana",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "Guéla Doué",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Wilfried Singo",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Emmanuel Agbadou",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Ghislain Konan",
-                "pos": "D"
-              },
-              {
-                "n": 11,
-                "name": "Yan Diomande",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Franck Kessié",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Seko Fofana",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Bazoumana Touré",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Nicolas Pépé",
-                "pos": "F"
-              },
-              {
-                "n": 12,
-                "name": "Elye Wahi",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-3",
-            "coach": "Sebastian Beccacece",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Hernán Galíndez",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "Alan Franco",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Joel Ordóñez",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Willian Pacho",
-                "pos": "D"
-              },
-              {
-                "n": 9,
-                "name": "John Yeboah",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Moisés Caicedo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Pedro Vite",
-                "pos": "M"
-              },
-              {
-                "n": 3,
-                "name": "Piero Hincapié",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Gonzalo Plata",
-                "pos": "F"
-              },
-              {
-                "n": 13,
-                "name": "Enner Valencia",
-                "pos": "F"
-              },
-              {
-                "n": 14,
-                "name": "Alan Minda",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Yan Diomande",
-          "rating": 7.2,
-          "team": "CIV"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-15T01:04:54Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -2516,6 +2274,244 @@
       }
     },
     {
+      "id": 26,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "A. Diallo",
+          "minute": 90,
+          "team": "CIV",
+          "assist": "W. Singo"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "S. Fofana",
+          "minute": 28,
+          "team": "CIV",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Kessie",
+          "minute": 38,
+          "team": "CIV",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Doue",
+          "minute": 40,
+          "team": "CIV",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Porozo",
+          "minute": 73,
+          "team": "ECU",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          1
+        ],
+        "passesAccurate": [
+          193,
+          248
+        ],
+        "shotsTotal": [
+          6,
+          6
+        ],
+        "shotsInside": [
+          3,
+          1
+        ],
+        "corners": [
+          2,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "possession": [
+          45,
+          55
+        ],
+        "shotsBlocked": [
+          3,
+          0
+        ],
+        "fouls": [
+          8,
+          3
+        ],
+        "shotsOff": [
+          2,
+          6
+        ],
+        "passesTotal": [
+          233,
+          285
+        ],
+        "shotsOutside": [
+          3,
+          5
+        ],
+        "shotsOn": [
+          1,
+          0
+        ],
+        "passesPct": [
+          83,
+          87
+        ],
+        "yellow": [
+          3,
+          0
+        ],
+        "home": "CIV",
+        "away": "ECU"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Emerse Fae",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yahia Fofana",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Guéla Doué",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Wilfried Singo",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Emmanuel Agbadou",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Ghislain Konan",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "Yan Diomande",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Franck Kessié",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Seko Fofana",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Bazoumana Touré",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nicolas Pépé",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "Elye Wahi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-3",
+            "coach": "Sebastian Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Hernán Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Alan Franco",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Joel Ordóñez",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Willian Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 9,
+                "name": "John Yeboah",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Moisés Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pedro Vite",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Piero Hincapié",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Gonzalo Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "Enner Valencia",
+                "pos": "F"
+              },
+              {
+                "n": 14,
+                "name": "Alan Minda",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Yan Diomande",
+          "rating": 7.2,
+          "team": "CIV"
+        }
+      }
+    },
+    {
       "id": 31,
       "home": 2,
       "away": 2,
@@ -2791,6 +2787,11 @@
         "penalties": 1
       },
       {
+        "player": "A. Diallo",
+        "team": "CIV",
+        "goals": 1
+      },
+      {
         "player": "B. Khoukhi",
         "team": "QAT",
         "goals": 1
@@ -2870,11 +2871,6 @@
       {
         "player": "L. Comenencia",
         "team": "CUR",
-        "goals": 1
-      },
-      {
-        "player": "L. Krejci",
-        "team": "CZE",
         "goals": 1
       }
     ],
@@ -3063,6 +3059,18 @@
         "yellow": 1
       },
       {
+        "player": "F. Kessie",
+        "team": "CIV",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "G. Doue",
+        "team": "CIV",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "J. Bellegarde",
         "team": "HAI",
         "red": 0,
@@ -3081,26 +3089,14 @@
         "yellow": 1
       },
       {
+        "player": "J. Porozo",
+        "team": "ECU",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Juan Caceres",
         "team": "PAR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Junior Alonso",
-        "team": "PAR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "K. McLean",
-        "team": "SCO",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "L. De Fougerolles",
-        "team": "CAN",
         "red": 0,
         "yellow": 1
       }
@@ -3179,6 +3175,20 @@
     },
     {
       "code": "SCO",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 1,
+      "ga": 0,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "1-0",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "CIV",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -3319,6 +3329,20 @@
     },
     {
       "code": "HAI",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 0,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-1",
+      "form": "L"
+    },
+    {
+      "code": "ECU",
       "played": 1,
       "wins": 0,
       "draws": 0,
