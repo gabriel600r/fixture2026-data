@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T00:36:37Z",
+  "updated": "2026-06-15T00:37:24Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -28,16 +28,28 @@
         }
       ],
       "stats": {
+        "offsides": [
+          0,
+          0
+        ],
         "saves": [
-          1,
-          2
+          0,
+          1
+        ],
+        "passesAccurate": [
+          193,
+          248
         ],
         "shotsTotal": [
-          11,
-          9
+          6,
+          6
+        ],
+        "shotsInside": [
+          3,
+          1
         ],
         "corners": [
-          3,
+          2,
           0
         ],
         "red": [
@@ -45,8 +57,8 @@
           0
         ],
         "possession": [
-          49,
-          51
+          45,
+          55
         ],
         "shotsBlocked": [
           3,
@@ -54,15 +66,27 @@
         ],
         "fouls": [
           8,
-          7
+          3
         ],
         "shotsOff": [
-          6,
-          8
+          2,
+          6
+        ],
+        "passesTotal": [
+          233,
+          285
+        ],
+        "shotsOutside": [
+          3,
+          5
         ],
         "shotsOn": [
-          2,
-          1
+          1,
+          0
+        ],
+        "passesPct": [
+          83,
+          87
         ],
         "yellow": [
           3,
@@ -159,8 +183,8 @@
                 "pos": "D"
               },
               {
-                "n": 19,
-                "name": "Gonzalo Plata",
+                "n": 9,
+                "name": "John Yeboah",
                 "pos": "M"
               },
               {
@@ -179,8 +203,8 @@
                 "pos": "M"
               },
               {
-                "n": 9,
-                "name": "John Yeboah",
+                "n": 19,
+                "name": "Gonzalo Plata",
                 "pos": "F"
               },
               {
