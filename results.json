@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T19:09:37Z",
+  "updated": "2026-06-15T19:10:24Z",
   "live": [
     {
       "id": 37,
       "status": "1H",
-      "minute": 9,
+      "minute": 10,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,39 +21,39 @@
           0
         ],
         "shotsOutside": [
-          0,
+          2,
           0
         ],
         "passesPct": [
-          88,
-          87
+          89,
+          84
         ],
         "passesTotal": [
-          17,
-          39
+          36,
+          43
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          30,
-          70
+          46,
+          54
         ],
         "shotsOn": [
           0,
           0
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
-          0,
+          2,
           0
         ],
         "fouls": [
-          1,
+          2,
           0
         ],
         "offsides": [
@@ -61,7 +61,7 @@
           1
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "saves": [
@@ -69,8 +69,8 @@
           0
         ],
         "passesAccurate": [
-          15,
-          34
+          32,
+          36
         ],
         "home": "BEL",
         "away": "EGY"
