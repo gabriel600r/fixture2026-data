@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T17:15:05Z",
+  "updated": "2026-06-15T17:15:52Z",
   "live": [
     {
       "id": 43,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -210,7 +210,7 @@
         },
         "motm": {
           "player": "Rodri",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "ESP"
         }
       }
