@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:42:07Z",
+  "updated": "2026-06-15T23:42:54Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 0,
       "goals": [
@@ -159,7 +159,7 @@
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "4-2-3-1",
             "coach": "Marcelo Bielsa",
             "xi": [
               {
@@ -188,11 +188,6 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Federico Valverde",
-                "pos": "M"
-              },
-              {
                 "n": 5,
                 "name": "Manuel Ugarte",
                 "pos": "M"
@@ -203,14 +198,19 @@
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Maximiliano Araújo",
+                "n": 8,
+                "name": "Federico Valverde",
                 "pos": "M"
               },
               {
                 "n": 21,
                 "name": "Federico Viñas",
-                "pos": "F"
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Maximiliano Araújo",
+                "pos": "M"
               },
               {
                 "n": 9,
