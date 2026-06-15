@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T19:23:00Z",
+  "updated": "2026-06-15T19:23:47Z",
   "live": [
     {
       "id": 37,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 1,
       "goals": [
@@ -44,27 +44,27 @@
         ],
         "shotsOutside": [
           2,
-          0
+          1
         ],
         "passesPct": [
-          85,
-          86
+          84,
+          85
         ],
         "passesTotal": [
-          81,
-          100
+          86,
+          111
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           1,
@@ -72,10 +72,10 @@
         ],
         "shotsTotal": [
           2,
-          0
+          1
         ],
         "fouls": [
-          4,
+          5,
           2
         ],
         "offsides": [
@@ -91,8 +91,8 @@
           0
         ],
         "passesAccurate": [
-          69,
-          86
+          72,
+          94
         ],
         "home": "BEL",
         "away": "EGY"
@@ -195,13 +195,18 @@
                 "pos": "D"
               },
               {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
                 "n": 17,
                 "name": "Mohanad Lasheen",
                 "pos": "M"
               },
               {
-                "n": 19,
-                "name": "Marwan Attia",
+                "n": 11,
+                "name": "Mostafa Ziko",
                 "pos": "M"
               },
               {
@@ -212,11 +217,6 @@
               {
                 "n": 8,
                 "name": "Emam Ashour",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Mostafa Ziko",
                 "pos": "M"
               },
               {
