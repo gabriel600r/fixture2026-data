@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-15T23:45:17Z",
+  "updated": "2026-06-15T23:46:04Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
       "minute": 80,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "A. Al Amri",
