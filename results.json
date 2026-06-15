@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-15T03:58:21Z",
+  "updated": "2026-06-15T15:00:04Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 43,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Marcos Llorente",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Fabián Ruiz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Ferran Torres",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Pablo Gavi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Pedro Leitao Brito",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Vozinha",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Steven Moreira",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Pico",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Diney Borges",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Sidny Lopes Cabral",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Kevin Lenini",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Laros Duarte",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ryan Mendes",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jamiro Monteiro",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Jovane Cabral",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Dailon Rocha Livramento",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
