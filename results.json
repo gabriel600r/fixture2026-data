@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:48:59Z",
+  "updated": "2026-06-15T03:49:46Z",
   "live": [
     {
       "id": 32,
@@ -48,7 +48,7 @@
       ],
       "stats": {
         "offsides": [
-          4,
+          3,
           4
         ],
         "saves": [
@@ -57,14 +57,14 @@
         ],
         "passesAccurate": [
           261,
-          268
+          272
         ],
         "shotsTotal": [
-          9,
+          10,
           5
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "corners": [
@@ -93,14 +93,14 @@
         ],
         "passesTotal": [
           329,
-          338
+          344
         ],
         "shotsOutside": [
           3,
           3
         ],
         "shotsOn": [
-          4,
+          5,
           1
         ],
         "passesPct": [
