@@ -1,40 +1,40 @@
 {
-  "updated": "2026-06-15T03:42:44Z",
+  "updated": "2026-06-15T03:43:31Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 77,
+      "minute": 83,
       "home": 3,
       "away": 1,
       "goals": [
         {
-          "player": "Y. Ayari",
+          "player": "Yasin Ayari",
           "minute": 7,
           "team": "SWE"
         },
         {
-          "player": "A. Isak",
+          "player": "Alexander Isak",
           "minute": 30,
           "team": "SWE",
-          "assist": "V. Gyokeres"
+          "assist": "Viktor Gyökeres"
         },
         {
-          "player": "O. Rekik",
+          "player": "Omar Rekik",
           "minute": 43,
           "team": "TUN",
-          "assist": "H. Mejbri"
+          "assist": "Hannibal Mejbri"
         },
         {
-          "player": "V. Gyokeres",
+          "player": "Viktor Gyökeres",
           "minute": 59,
           "team": "SWE",
-          "assist": "A. Isak"
+          "assist": "Alexander Isak"
         }
       ],
       "cardEvents": [
         {
-          "player": "R. Khedira",
+          "player": "Rani Khedira",
           "minute": 54,
           "team": "TUN",
           "color": "yellow"
@@ -45,21 +45,9 @@
           3,
           4
         ],
-        "saves": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          240,
-          267
-        ],
         "shotsTotal": [
           9,
           5
-        ],
-        "shotsInside": [
-          6,
-          2
         ],
         "corners": [
           3,
@@ -85,21 +73,9 @@
           3,
           3
         ],
-        "passesTotal": [
-          305,
-          335
-        ],
-        "shotsOutside": [
-          3,
-          3
-        ],
         "shotsOn": [
           4,
           1
-        ],
-        "passesPct": [
-          79,
-          80
         ],
         "yellow": [
           0,
