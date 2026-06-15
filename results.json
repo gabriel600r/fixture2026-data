@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T00:18:37Z",
+  "updated": "2026-06-15T00:19:24Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -28,25 +28,13 @@
         }
       ],
       "stats": {
-        "offsides": [
-          0,
-          0
-        ],
         "saves": [
           0,
           1
         ],
-        "passesAccurate": [
-          193,
-          248
-        ],
         "shotsTotal": [
-          6,
-          6
-        ],
-        "shotsInside": [
-          3,
-          1
+          9,
+          7
         ],
         "corners": [
           2,
@@ -57,8 +45,8 @@
           0
         ],
         "possession": [
-          45,
-          55
+          47,
+          53
         ],
         "shotsBlocked": [
           3,
@@ -66,27 +54,15 @@
         ],
         "fouls": [
           8,
-          3
+          4
         ],
         "shotsOff": [
-          2,
-          6
-        ],
-        "passesTotal": [
-          233,
-          285
-        ],
-        "shotsOutside": [
-          3,
-          5
+          5,
+          7
         ],
         "shotsOn": [
           1,
           0
-        ],
-        "passesPct": [
-          83,
-          87
         ],
         "yellow": [
           3,
@@ -221,9 +197,9 @@
           }
         },
         "motm": {
-          "player": "Yan Diomande",
-          "rating": 7.2,
-          "team": "CIV"
+          "player": "A. Franco",
+          "rating": 7.47,
+          "team": "ECU"
         }
       }
     }
