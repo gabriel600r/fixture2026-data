@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T19:48:09Z",
+  "updated": "2026-06-15T19:48:56Z",
   "live": [
     {
       "id": 37,
@@ -35,7 +35,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "yellow": [
           1,
@@ -54,20 +54,20 @@
           1
         ],
         "passesPct": [
-          87,
+          86,
           80
         ],
         "passesTotal": [
-          241,
-          183
+          250,
+          184
         ],
         "corners": [
           0,
           1
         ],
         "possession": [
-          57,
-          43
+          58,
+          42
         ],
         "shotsOn": [
           0,
@@ -98,7 +98,7 @@
           0
         ],
         "passesAccurate": [
-          209,
+          216,
           147
         ],
         "home": "BEL",
