@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-15T19:20:38Z",
+  "updated": "2026-06-15T19:21:26Z",
   "live": [
     {
       "id": 37,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "E. Ashour",
-          "minute": 20,
+          "minute": 19,
           "team": "EGY",
           "assist": "M. Salah"
         }
@@ -48,19 +48,19 @@
         ],
         "passesPct": [
           85,
-          85
+          86
         ],
         "passesTotal": [
-          66,
-          87
+          81,
+          100
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          43,
-          57
+          45,
+          55
         ],
         "shotsOn": [
           0,
@@ -75,7 +75,7 @@
           0
         ],
         "fouls": [
-          3,
+          4,
           2
         ],
         "offsides": [
@@ -91,8 +91,8 @@
           0
         ],
         "passesAccurate": [
-          56,
-          74
+          69,
+          86
         ],
         "home": "BEL",
         "away": "EGY"
