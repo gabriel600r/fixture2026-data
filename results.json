@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T22:22:06Z",
+  "updated": "2026-06-15T22:22:53Z",
   "live": [
     {
       "id": 44,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
@@ -25,28 +25,28 @@
           1
         ],
         "passesPct": [
-          79,
-          90
+          85,
+          86
         ],
         "passesTotal": [
-          42,
-          58
+          126,
+          126
         ],
         "corners": [
           0,
           1
         ],
         "possession": [
-          41,
-          59
+          50,
+          50
         ],
         "shotsOn": [
           0,
-          2
+          1
         ],
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesAccurate": [
-          33,
-          52
+          107,
+          108
         ],
         "home": "KSA",
         "away": "URU"
