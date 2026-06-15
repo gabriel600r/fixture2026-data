@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T03:21:39Z",
+  "updated": "2026-06-15T03:22:26Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 3,
       "away": 1,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "V. Gyokeres",
           "minute": 59,
-          "team": "SWE"
+          "team": "SWE",
+          "assist": "A. Isak"
         }
       ],
       "cardEvents": [
