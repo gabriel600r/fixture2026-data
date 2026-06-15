@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T03:48:13Z",
+  "updated": "2026-06-15T03:48:59Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 4,
       "away": 1,
       "goals": [
@@ -33,7 +33,7 @@
         },
         {
           "player": "M. Svanberg",
-          "minute": 85,
+          "minute": 84,
           "team": "SWE",
           "assist": "A. Isak"
         }
@@ -240,8 +240,8 @@
           }
         },
         "motm": {
-          "player": "V. Gyökeres",
-          "rating": 8.5,
+          "player": "Alexander Isak",
+          "rating": 8.3,
           "team": "SWE"
         }
       }
