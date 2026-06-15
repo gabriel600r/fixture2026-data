@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:47:38Z",
+  "updated": "2026-06-15T23:48:25Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 1,
       "goals": [
@@ -38,11 +38,11 @@
         ],
         "shotsInside": [
           3,
-          9
+          11
         ],
         "shotsOutside": [
           2,
-          5
+          6
         ],
         "passesPct": [
           74,
@@ -50,7 +50,7 @@
         ],
         "passesTotal": [
           277,
-          498
+          506
         ],
         "corners": [
           4,
@@ -62,15 +62,15 @@
         ],
         "shotsOn": [
           3,
-          5
+          7
         ],
         "shotsBlocked": [
           0,
-          3
+          4
         ],
         "shotsTotal": [
           5,
-          14
+          17
         ],
         "fouls": [
           9,
@@ -85,12 +85,12 @@
           6
         ],
         "saves": [
-          5,
+          6,
           2
         ],
         "passesAccurate": [
           206,
-          439
+          447
         ],
         "home": "KSA",
         "away": "URU"
@@ -227,8 +227,8 @@
         },
         "referee": "Maurizio Mariani, Italy",
         "motm": {
-          "player": "Abdulelah Al-Amri",
-          "rating": 7.6,
+          "player": "Mohammed Al-Owais",
+          "rating": 7.5,
           "team": "KSA"
         }
       }
