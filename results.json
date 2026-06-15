@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T17:06:25Z",
+  "updated": "2026-06-15T17:07:12Z",
   "live": [
     {
       "id": 43,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -15,7 +15,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
       "stats": {
         "shotsTotal": [
           9,
@@ -208,6 +207,11 @@
               }
             ]
           }
+        },
+        "motm": {
+          "player": "Marcos Llorente",
+          "rating": 6.9,
+          "team": "ESP"
         }
       }
     }
