@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:46:04Z",
+  "updated": "2026-06-15T23:46:51Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 1,
       "goals": [
@@ -12,6 +12,11 @@
           "player": "A. Al Amri",
           "minute": 41,
           "team": "KSA"
+        },
+        {
+          "player": "M. Araujo",
+          "minute": 80,
+          "team": "URU"
         }
       ],
       "cardEvents": [
