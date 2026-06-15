@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:53:41Z",
+  "updated": "2026-06-15T03:54:28Z",
   "live": [
     {
       "id": 32,
@@ -46,7 +46,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "offsides": [
           3,
@@ -242,7 +242,7 @@
         },
         "motm": {
           "player": "Alexander Isak",
-          "rating": 8.6,
+          "rating": 8.9,
           "team": "SWE"
         }
       }
