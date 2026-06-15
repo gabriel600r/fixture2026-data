@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T00:13:08Z",
+  "updated": "2026-06-15T00:13:55Z",
   "live": [
     {
       "id": 26,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -222,7 +222,7 @@
         },
         "motm": {
           "player": "Yan Diomande",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "CIV"
         }
       }
