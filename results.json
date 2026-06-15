@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T22:30:43Z",
+  "updated": "2026-06-15T22:31:30Z",
   "live": [
     {
       "id": 44,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 0,
       "stats": {
@@ -29,7 +29,7 @@
           86
         ],
         "passesTotal": [
-          139,
+          141,
           174
         ],
         "corners": [
@@ -37,8 +37,8 @@
           1
         ],
         "possession": [
-          44,
-          56
+          45,
+          55
         ],
         "shotsOn": [
           0,
@@ -69,7 +69,7 @@
           0
         ],
         "passesAccurate": [
-          114,
+          115,
           150
         ],
         "home": "KSA",
