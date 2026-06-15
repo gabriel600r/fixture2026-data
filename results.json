@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-15T03:20:05Z",
+  "updated": "2026-06-15T03:20:52Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 58,
-      "home": 2,
+      "minute": 60,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -24,6 +24,11 @@
           "minute": 43,
           "team": "TUN",
           "assist": "H. Mejbri"
+        },
+        {
+          "player": "V. Gyokeres",
+          "minute": 60,
+          "team": "SWE"
         }
       ],
       "cardEvents": [
