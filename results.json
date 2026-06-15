@@ -1,259 +1,6 @@
 {
-  "updated": "2026-06-15T03:57:35Z",
-  "live": [
-    {
-      "id": 32,
-      "status": "2H",
-      "minute": 90,
-      "home": 5,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Y. Ayari",
-          "minute": 7,
-          "team": "SWE"
-        },
-        {
-          "player": "A. Isak",
-          "minute": 30,
-          "team": "SWE",
-          "assist": "V. Gyokeres"
-        },
-        {
-          "player": "O. Rekik",
-          "minute": 43,
-          "team": "TUN",
-          "assist": "H. Mejbri"
-        },
-        {
-          "player": "V. Gyokeres",
-          "minute": 59,
-          "team": "SWE",
-          "assist": "A. Isak"
-        },
-        {
-          "player": "M. Svanberg",
-          "minute": 84,
-          "team": "SWE",
-          "assist": "A. Isak"
-        },
-        {
-          "player": "Y. Ayari",
-          "minute": 90,
-          "team": "SWE",
-          "assist": "L. Bergvall"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "R. Khedira",
-          "minute": 54,
-          "team": "TUN",
-          "color": "yellow"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "offsides": [
-          3,
-          6
-        ],
-        "saves": [
-          1,
-          1
-        ],
-        "passesAccurate": [
-          280,
-          287
-        ],
-        "shotsTotal": [
-          13,
-          6
-        ],
-        "shotsInside": [
-          9,
-          2
-        ],
-        "corners": [
-          4,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "possession": [
-          49,
-          51
-        ],
-        "shotsBlocked": [
-          3,
-          1
-        ],
-        "fouls": [
-          10,
-          8
-        ],
-        "shotsOff": [
-          3,
-          3
-        ],
-        "passesTotal": [
-          353,
-          362
-        ],
-        "shotsOutside": [
-          4,
-          4
-        ],
-        "shotsOn": [
-          7,
-          2
-        ],
-        "passesPct": [
-          79,
-          79
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "home": "SWE",
-        "away": "TUN"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "3-1-4-2",
-            "coach": "Graham Potter",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Kristoffer Nordfeldt",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Gustaf Lagerbielke",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Isak Hien",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Victor Lindelöf",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Jesper Karlström",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Alexander Bernhardsson",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Benjamin Nygren",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Yasin Ayari",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Gabriel Gudmundsson",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Viktor Gyökeres",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Alexander Isak",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-3-2",
-            "coach": "Sabri Lamouchi",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Abdelmouhib Chamakh",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "Yan Valery",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Omar Rekik",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Montassar Talbi",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Amine Ben Hmida",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Ali Abdi",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Rani Khedira",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Ellyes Skhiri",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Hannibal Mejbri",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Elias Saad",
-                "pos": "F"
-              },
-              {
-                "n": 25,
-                "name": "Anis Ben Slimane",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "motm": {
-          "player": "Alexander Isak",
-          "rating": 8.9,
-          "team": "SWE"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-15T03:58:21Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -3018,6 +2765,255 @@
           "team": "NED"
         }
       }
+    },
+    {
+      "id": 32,
+      "home": 5,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Y. Ayari",
+          "minute": 7,
+          "team": "SWE"
+        },
+        {
+          "player": "A. Isak",
+          "minute": 30,
+          "team": "SWE",
+          "assist": "V. Gyokeres"
+        },
+        {
+          "player": "O. Rekik",
+          "minute": 43,
+          "team": "TUN",
+          "assist": "H. Mejbri"
+        },
+        {
+          "player": "V. Gyokeres",
+          "minute": 59,
+          "team": "SWE",
+          "assist": "A. Isak"
+        },
+        {
+          "player": "M. Svanberg",
+          "minute": 84,
+          "team": "SWE",
+          "assist": "A. Isak"
+        },
+        {
+          "player": "Y. Ayari",
+          "minute": 90,
+          "team": "SWE",
+          "assist": "L. Bergvall"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Khedira",
+          "minute": 54,
+          "team": "TUN",
+          "color": "yellow"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          3,
+          6
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "passesAccurate": [
+          280,
+          287
+        ],
+        "shotsTotal": [
+          13,
+          6
+        ],
+        "shotsInside": [
+          9,
+          2
+        ],
+        "corners": [
+          4,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "possession": [
+          49,
+          51
+        ],
+        "shotsBlocked": [
+          3,
+          1
+        ],
+        "fouls": [
+          10,
+          8
+        ],
+        "shotsOff": [
+          3,
+          3
+        ],
+        "passesTotal": [
+          353,
+          362
+        ],
+        "shotsOutside": [
+          4,
+          4
+        ],
+        "shotsOn": [
+          7,
+          2
+        ],
+        "passesPct": [
+          79,
+          79
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "home": "SWE",
+        "away": "TUN"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-1-4-2",
+            "coach": "Graham Potter",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Kristoffer Nordfeldt",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Gustaf Lagerbielke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Isak Hien",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Victor Lindelöf",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Jesper Karlström",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Alexander Bernhardsson",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Benjamin Nygren",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Yasin Ayari",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Gabriel Gudmundsson",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Viktor Gyökeres",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Alexander Isak",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-3-2",
+            "coach": "Sabri Lamouchi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Abdelmouhib Chamakh",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Yan Valery",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Omar Rekik",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Montassar Talbi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Amine Ben Hmida",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ali Abdi",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Rani Khedira",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Ellyes Skhiri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Hannibal Mejbri",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Elias Saad",
+                "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "Anis Ben Slimane",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "motm": {
+          "player": "Alexander Isak",
+          "rating": 8.9,
+          "team": "SWE"
+        }
+      }
     }
   ],
   "stats": {
@@ -3034,6 +3030,11 @@
         "goals": 2
       },
       {
+        "player": "Y. Ayari",
+        "team": "SWE",
+        "goals": 2
+      },
+      {
         "player": "B. Embolo",
         "team": "SUI",
         "goals": 1,
@@ -3043,6 +3044,12 @@
         "player": "A. Diallo",
         "team": "CIV",
         "goals": 1
+      },
+      {
+        "player": "A. Isak",
+        "team": "SWE",
+        "goals": 1,
+        "assists": 2
       },
       {
         "player": "B. Khoukhi",
@@ -3115,19 +3122,15 @@
         "player": "Julián Quiñones",
         "team": "MEX",
         "goals": 1
-      },
-      {
-        "player": "K. Nakamura",
-        "team": "JPN",
-        "goals": 1
-      },
-      {
-        "player": "L. Comenencia",
-        "team": "CUR",
-        "goals": 1
       }
     ],
     "assists": [
+      {
+        "player": "A. Isak",
+        "team": "SWE",
+        "assists": 2,
+        "goals": 1
+      },
       {
         "player": "D. Undav",
         "team": "GER",
@@ -3175,6 +3178,11 @@
         "assists": 1
       },
       {
+        "player": "H. Mejbri",
+        "team": "TUN",
+        "assists": 1
+      },
+      {
         "player": "Hwang In-Beom",
         "team": "KOR",
         "assists": 1,
@@ -3188,6 +3196,11 @@
       {
         "player": "K. Ogawa",
         "team": "JPN",
+        "assists": 1
+      },
+      {
+        "player": "L. Bergvall",
+        "team": "SWE",
         "assists": 1
       },
       {
@@ -3214,21 +3227,6 @@
       {
         "player": "P. Okon-Engstler",
         "team": "AUS",
-        "assists": 1
-      },
-      {
-        "player": "Roberto Alvarado",
-        "team": "MEX",
-        "assists": 1
-      },
-      {
-        "player": "S. Kolasinac",
-        "team": "BIH",
-        "assists": 1
-      },
-      {
-        "player": "T. Kubo",
-        "team": "JPN",
         "assists": 1
       }
     ],
@@ -3367,6 +3365,20 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "7-1",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "SWE",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 5,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "5-1",
       "biggestLose": "",
       "form": "W"
     },
@@ -3648,6 +3660,20 @@
       "failedToScore": 0,
       "biggestWin": "",
       "biggestLose": "1-4",
+      "form": "L"
+    },
+    {
+      "code": "TUN",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 5,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-5",
       "form": "L"
     },
     {
