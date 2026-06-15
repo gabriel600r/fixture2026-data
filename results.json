@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T16:31:04Z",
+  "updated": "2026-06-15T16:31:51Z",
   "live": [
     {
       "id": 43,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 0,
       "cardEvents": [
