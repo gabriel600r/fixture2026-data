@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T02:45:47Z",
+  "updated": "2026-06-15T02:46:35Z",
   "live": [
     {
       "id": 32,
@@ -26,6 +26,7 @@
           "assist": "H. Mejbri"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           0,
@@ -36,16 +37,16 @@
           0
         ],
         "passesAccurate": [
-          160,
-          100
+          162,
+          108
         ],
         "shotsTotal": [
           5,
-          2
+          3
         ],
         "shotsInside": [
           3,
-          0
+          1
         ],
         "corners": [
           2,
@@ -56,8 +57,8 @@
           0
         ],
         "possession": [
-          59,
-          41
+          58,
+          42
         ],
         "shotsBlocked": [
           0,
@@ -72,8 +73,8 @@
           1
         ],
         "passesTotal": [
-          196,
-          137
+          202,
+          146
         ],
         "shotsOutside": [
           2,
@@ -81,11 +82,11 @@
         ],
         "shotsOn": [
           3,
-          0
+          1
         ],
         "passesPct": [
-          82,
-          73
+          80,
+          74
         ],
         "yellow": [
           0,
