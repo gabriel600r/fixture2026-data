@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T22:05:36Z",
+  "updated": "2026-06-15T22:06:23Z",
   "live": [
     {
       "id": 44,
@@ -7,6 +7,42 @@
       "minute": 2,
       "home": 0,
       "away": 0,
+      "stats": {
+        "yellow": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "possession": [
+          51,
+          49
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "home": "KSA",
+        "away": "URU"
+      },
       "extras": {
         "pred": {
           "home": 0,
