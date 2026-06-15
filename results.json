@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-15T01:04:54Z",
+  "updated": "2026-06-15T01:06:26Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 32,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-4-1-2",
+            "coach": "Graham Potter",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Kristoffer Nordfeldt",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Gustaf Lagerbielke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Isak Hien",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Victor Lindelöf",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Alexander Bernhardsson",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Jesper Karlström",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Yasin Ayari",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Gabriel Gudmundsson",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Benjamin Nygren",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "Viktor Gyökeres",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Alexander Isak",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Sabri Lamouchi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Abdelmouhib Chamakh",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Yan Valery",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Montassar Talbi",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Omar Rekik",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Amine Ben Hmida",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Rani Khedira",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Ellyes Skhiri",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Anis Ben Slimane",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Hannibal Mejbri",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "Ali Abdi",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Elias Saad",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
