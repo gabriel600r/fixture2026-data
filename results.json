@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T03:06:02Z",
+  "updated": "2026-06-15T03:06:48Z",
   "live": [
     {
       "id": 32,
@@ -36,8 +36,8 @@
           0
         ],
         "passesAccurate": [
-          170,
-          113
+          171,
+          134
         ],
         "shotsTotal": [
           5,
@@ -56,8 +56,8 @@
           0
         ],
         "possession": [
-          58,
-          42
+          54,
+          46
         ],
         "shotsBlocked": [
           0,
@@ -72,8 +72,8 @@
           1
         ],
         "passesTotal": [
-          210,
-          153
+          213,
+          180
         ],
         "shotsOutside": [
           2,
@@ -84,7 +84,7 @@
           1
         ],
         "passesPct": [
-          81,
+          80,
           74
         ],
         "yellow": [
@@ -220,9 +220,9 @@
           }
         },
         "motm": {
-          "player": "Yasin Ayari",
-          "rating": 7.3,
-          "team": "SWE"
+          "player": "Omar Rekik",
+          "rating": 7.5,
+          "team": "TUN"
         }
       }
     }
