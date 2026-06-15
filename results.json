@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T03:35:42Z",
+  "updated": "2026-06-15T03:36:29Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 3,
       "away": 1,
       "goals": [
@@ -50,8 +50,8 @@
           0
         ],
         "passesAccurate": [
-          227,
-          228
+          228,
+          237
         ],
         "shotsTotal": [
           9,
@@ -79,15 +79,15 @@
         ],
         "fouls": [
           7,
-          5
+          6
         ],
         "shotsOff": [
           3,
           3
         ],
         "passesTotal": [
-          283,
-          288
+          287,
+          300
         ],
         "shotsOutside": [
           3,
@@ -98,7 +98,7 @@
           1
         ],
         "passesPct": [
-          80,
+          79,
           79
         ],
         "yellow": [
@@ -111,7 +111,7 @@
       "extras": {
         "lineups": {
           "home": {
-            "formation": "3-4-1-2",
+            "formation": "3-1-4-2",
             "coach": "Graham Potter",
             "xi": [
               {
@@ -135,13 +135,18 @@
                 "pos": "D"
               },
               {
+                "n": 16,
+                "name": "Jesper Karlström",
+                "pos": "M"
+              },
+              {
                 "n": 21,
                 "name": "Alexander Bernhardsson",
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "Jesper Karlström",
+                "n": 10,
+                "name": "Benjamin Nygren",
                 "pos": "M"
               },
               {
@@ -153,11 +158,6 @@
                 "n": 5,
                 "name": "Gabriel Gudmundsson",
                 "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Benjamin Nygren",
-                "pos": "F"
               },
               {
                 "n": 17,
@@ -235,7 +235,7 @@
         },
         "motm": {
           "player": "Alexander Isak",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "SWE"
         }
       }
