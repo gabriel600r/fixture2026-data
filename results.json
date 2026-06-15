@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:33:25Z",
+  "updated": "2026-06-15T16:34:11Z",
   "live": [
     {
       "id": 43,
@@ -17,7 +17,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          3,
+          5,
           1
         ],
         "shotsOn": [
@@ -25,11 +25,11 @@
           0
         ],
         "passesTotal": [
-          229,
-          112
+          243,
+          120
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "shotsOutside": [
@@ -37,7 +37,7 @@
           0
         ],
         "shotsInside": [
-          0,
+          2,
           1
         ],
         "possession": [
@@ -49,7 +49,7 @@
           1
         ],
         "shotsBlocked": [
-          1,
+          2,
           1
         ],
         "fouls": [
@@ -58,7 +58,7 @@
         ],
         "passesPct": [
           90,
-          77
+          78
         ],
         "offsides": [
           0,
@@ -77,8 +77,8 @@
           1
         ],
         "passesAccurate": [
-          206,
-          86
+          218,
+          93
         ],
         "home": "ESP",
         "away": "CPV"
