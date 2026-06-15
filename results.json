@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T23:24:01Z",
+  "updated": "2026-06-15T23:24:48Z",
   "live": [
     {
       "id": 44,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
       "away": 0,
       "goals": [
@@ -223,7 +223,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Abdulelah Al-Amri",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "KSA"
         }
       }
