@@ -1,17 +1,23 @@
 {
-  "updated": "2026-06-15T02:30:13Z",
+  "updated": "2026-06-15T02:31:00Z",
   "live": [
     {
       "id": 32,
       "status": "1H",
-      "minute": 30,
-      "home": 1,
+      "minute": 31,
+      "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "Y. Ayari",
           "minute": 7,
           "team": "SWE"
+        },
+        {
+          "player": "A. Isak",
+          "minute": 30,
+          "team": "SWE",
+          "assist": "V. Gyokeres"
         }
       ],
       "stats": {
