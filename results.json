@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-15T20:28:17Z",
+  "updated": "2026-06-15T20:29:05Z",
   "live": [
     {
       "id": 37,
       "status": "2H",
-      "minute": 66,
-      "home": 0,
+      "minute": 67,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 19,
           "team": "EGY",
           "assist": "M. Salah"
+        },
+        {
+          "player": "R. Lukaku",
+          "minute": 66,
+          "team": "BEL"
         }
       ],
       "cardEvents": [
