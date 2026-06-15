@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T17:48:09Z",
+  "updated": "2026-06-15T17:48:56Z",
   "live": [
     {
       "id": 43,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -17,7 +17,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          22,
+          23,
           3
         ],
         "shotsOn": [
@@ -25,15 +25,15 @@
           0
         ],
         "passesTotal": [
-          732,
-          255
+          745,
+          256
         ],
         "shotsOff": [
-          9,
+          10,
           2
         ],
         "shotsOutside": [
-          9,
+          10,
           2
         ],
         "shotsInside": [
@@ -53,11 +53,11 @@
           1
         ],
         "fouls": [
-          8,
+          9,
           1
         ],
         "passesPct": [
-          93,
+          92,
           75
         ],
         "offsides": [
@@ -77,7 +77,7 @@
           1
         ],
         "passesAccurate": [
-          679,
+          689,
           191
         ],
         "home": "ESP",
@@ -209,9 +209,9 @@
           }
         },
         "motm": {
-          "player": "Pedri",
-          "rating": 8.9,
-          "team": "ESP"
+          "player": "Vozinha",
+          "rating": 9.3,
+          "team": "CPV"
         }
       }
     }
