@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-15T03:47:26Z",
+  "updated": "2026-06-15T03:48:13Z",
   "live": [
     {
       "id": 32,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 4,
       "away": 1,
       "goals": [
@@ -33,8 +33,9 @@
         },
         {
           "player": "M. Svanberg",
-          "minute": 86,
-          "team": "SWE"
+          "minute": 85,
+          "team": "SWE",
+          "assist": "A. Isak"
         }
       ],
       "cardEvents": [
