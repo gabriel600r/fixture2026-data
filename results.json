@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T20:39:17Z",
+  "updated": "2026-06-16T20:40:04Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 66,
           "team": "FRA",
           "assist": "M. Olise"
+        }
+      ],
+      "subs": [
+        {
+          "out": "I. Sarr",
+          "in": "I. Mbaye",
+          "minute": 75,
+          "team": "SEN"
         }
       ],
       "stats": {
