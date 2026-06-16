@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T19:37:48Z",
+  "updated": "2026-06-16T19:38:35Z",
   "live": [
     {
       "id": 49,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 0,
       "away": 0,
       "stats": {
@@ -139,7 +139,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-2-3-1",
             "coach": "Bouna Thiaw Pape",
             "xi": [
               {
@@ -168,11 +168,6 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Lamine Camara",
-                "pos": "M"
-              },
-              {
                 "n": 5,
                 "name": "Idrissa Gana Gueye",
                 "pos": "M"
@@ -185,16 +180,21 @@
               {
                 "n": 18,
                 "name": "Ismaïla Sarr",
-                "pos": "F"
+                "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Nicolas Jackson",
-                "pos": "F"
+                "n": 8,
+                "name": "Lamine Camara",
+                "pos": "M"
               },
               {
                 "n": 10,
                 "name": "Sadio Mané",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Nicolas Jackson",
                 "pos": "F"
               }
             ]
