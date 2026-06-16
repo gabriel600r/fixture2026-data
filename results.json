@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:12:40Z",
+  "updated": "2026-06-16T02:13:27Z",
   "live": [
     {
       "id": 38,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -21,7 +21,6 @@
           "assist": "S. Moghanlou"
         }
       ],
-      "extra": 7,
       "stats": {
         "yellow": [
           0,
@@ -40,20 +39,20 @@
           3
         ],
         "passesPct": [
-          81,
-          88
+          80,
+          87
         ],
         "passesTotal": [
-          230,
-          246
+          238,
+          250
         ],
         "corners": [
           0,
           1
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "shotsOn": [
           2,
@@ -69,10 +68,10 @@
         ],
         "fouls": [
           2,
-          3
+          4
         ],
         "offsides": [
-          0,
+          1,
           0
         ],
         "shotsOff": [
@@ -84,8 +83,8 @@
           1
         ],
         "passesAccurate": [
-          187,
-          217
+          191,
+          218
         ],
         "home": "IRN",
         "away": "NZL"
@@ -215,7 +214,12 @@
             ]
           }
         },
-        "referee": "César Ramos Palazuelos, Mexico"
+        "referee": "César Ramos Palazuelos, Mexico",
+        "motm": {
+          "player": "Ramin Rezaeian",
+          "rating": 7.9,
+          "team": "IRN"
+        }
       }
     }
   ],
