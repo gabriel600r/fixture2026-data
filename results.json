@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:51:52Z",
+  "updated": "2026-06-16T20:52:41Z",
   "live": [
     {
       "id": 49,
@@ -41,7 +41,7 @@
           "team": "FRA"
         },
         {
-          "out": "I. Gueye",
+          "out": "P. Gueye",
           "in": "C. Ndiaye",
           "minute": 83,
           "team": "SEN"
@@ -57,6 +57,12 @@
           "in": "R. Cherki",
           "minute": 87,
           "team": "FRA"
+        },
+        {
+          "out": "I. Gueye",
+          "in": "P. Ciss",
+          "minute": 89,
+          "team": "SEN"
         }
       ],
       "stats": {
