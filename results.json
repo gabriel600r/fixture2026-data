@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:47:56Z",
+  "updated": "2026-06-16T23:48:43Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 3,
       "goals": [
@@ -30,6 +30,14 @@
           "minute": 76,
           "team": "NOR",
           "assist": "M. Odegaard"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Z. Tahseen",
+          "minute": 86,
+          "team": "IRQ",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -100,12 +108,12 @@
           3
         ],
         "saves": [
-          1,
+          2,
           0
         ],
         "shotsTotal": [
           11,
-          9
+          11
         ],
         "possession": [
           40,
@@ -117,7 +125,7 @@
         ],
         "shotsOn": [
           1,
-          4
+          5
         ],
         "shotsOutside": [
           3,
@@ -125,23 +133,23 @@
         ],
         "shotsInside": [
           8,
-          8
+          10
         ],
         "fouls": [
           9,
           12
         ],
         "passesTotal": [
-          276,
-          427
+          287,
+          441
         ],
         "passesPct": [
-          81,
+          80,
           88
         ],
         "passesAccurate": [
-          223,
-          376
+          230,
+          388
         ],
         "offsides": [
           1,
@@ -157,7 +165,7 @@
         ],
         "shotsOff": [
           8,
-          2
+          3
         ],
         "home": "IRQ",
         "away": "NOR"
