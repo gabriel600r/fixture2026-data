@@ -356,6 +356,62 @@
         "Siphephelo Sithole (RSA) 49'",
         "Themba Zwane (RSA) 84'",
         "César Montes (MEX) 90'"
+      ],
+      "subs": [
+        {
+          "out": "L. Foster",
+          "in": "T. Mbatha",
+          "minute": 56,
+          "team": "RSA"
+        },
+        {
+          "out": "J. Adams",
+          "in": "T. Zwane",
+          "minute": 61,
+          "team": "RSA"
+        },
+        {
+          "out": "B. Gutierrez",
+          "in": "L. Chavez",
+          "minute": 66,
+          "team": "MEX"
+        },
+        {
+          "out": "A. Fidalgo",
+          "in": "G. Mora",
+          "minute": 66,
+          "team": "MEX"
+        },
+        {
+          "out": "E. Lira",
+          "in": "E. Alvarez",
+          "minute": 76,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Jimenez",
+          "in": "A. Gonzalez",
+          "minute": 76,
+          "team": "MEX"
+        },
+        {
+          "out": "I. Rayners",
+          "in": "E. Makgopa",
+          "minute": 76,
+          "team": "RSA"
+        },
+        {
+          "out": "A. Modiba",
+          "in": "O. Appollis",
+          "minute": 77,
+          "team": "RSA"
+        },
+        {
+          "out": "J. Quinones",
+          "in": "A. Vega",
+          "minute": 79,
+          "team": "MEX"
+        }
       ]
     },
     {
@@ -587,6 +643,62 @@
           "minute": 90,
           "team": "KOR",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Lee Jae-Sung",
+          "in": "Hwang Hee-Chan",
+          "minute": 62,
+          "team": "KOR"
+        },
+        {
+          "out": "P. Sulc",
+          "in": "A. Hlozek",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "P. Schick",
+          "in": "T. Chory",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "L. Provod",
+          "in": "M. Sadilek",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "Son Heung-Min",
+          "in": "Oh Hyeon-Gyu",
+          "minute": 69,
+          "team": "KOR"
+        },
+        {
+          "out": "Lee Tae-Seok",
+          "in": "Eom Ji-Sung",
+          "minute": 69,
+          "team": "KOR"
+        },
+        {
+          "out": "Hwang In-Beom",
+          "in": "Kim Jin-Gyu",
+          "minute": 84,
+          "team": "KOR"
+        },
+        {
+          "out": "Paik Seung-Ho",
+          "in": "Park Jin-Seob",
+          "minute": 84,
+          "team": "KOR"
+        },
+        {
+          "out": "A. Sojka",
+          "in": "M. Chytil",
+          "minute": 84,
+          "team": "CZE"
         }
       ]
     },
@@ -838,6 +950,68 @@
           "team": "BIH",
           "color": "yellow"
         }
+      ],
+      "subs": [
+        {
+          "out": "L. Millar",
+          "in": "J. Shaffelburg",
+          "minute": 61,
+          "team": "CAN"
+        },
+        {
+          "out": "J. David",
+          "in": "P. David",
+          "minute": 61,
+          "team": "CAN"
+        },
+        {
+          "out": "T. Buchanan",
+          "in": "A. Ahmed",
+          "minute": 61,
+          "team": "CAN"
+        },
+        {
+          "out": "I. Basic",
+          "in": "A. Gigovic",
+          "minute": 62,
+          "team": "BIH"
+        },
+        {
+          "out": "J. Lukic",
+          "in": "S. Bazdar",
+          "minute": 62,
+          "team": "BIH"
+        },
+        {
+          "out": "E. Bajraktarevic",
+          "in": "I. Sunjic",
+          "minute": 74,
+          "team": "BIH"
+        },
+        {
+          "out": "A. Memic",
+          "in": "K. Alajbegovic",
+          "minute": 74,
+          "team": "BIH"
+        },
+        {
+          "out": "T. Oluwaseyi",
+          "in": "C. Larin",
+          "minute": 76,
+          "team": "CAN"
+        },
+        {
+          "out": "S. Kolasinac",
+          "in": "D. Burnic",
+          "minute": 84,
+          "team": "BIH"
+        },
+        {
+          "out": "S. Eustaquio",
+          "in": "J. Osorio",
+          "minute": 90,
+          "team": "CAN"
+        }
       ]
     },
     {
@@ -1081,7 +1255,69 @@
           "rating": 7.9,
           "team": "SUI"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "A. Al Oui",
+          "in": "A. Fathi",
+          "minute": 60,
+          "team": "QAT"
+        },
+        {
+          "out": "J. Gaber",
+          "in": "K. Boudiaf",
+          "minute": 60,
+          "team": "QAT"
+        },
+        {
+          "out": "Y. Abdurisag",
+          "in": "A. Alaaeldin",
+          "minute": 60,
+          "team": "QAT"
+        },
+        {
+          "out": "M. Aebischer",
+          "in": "F. Rieder",
+          "minute": 65,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "J. Manzambi",
+          "minute": 65,
+          "team": "SUI"
+        },
+        {
+          "out": "A. O. Madibo",
+          "in": "M. Al Mannai",
+          "minute": 79,
+          "team": "QAT"
+        },
+        {
+          "out": "R. Vargas",
+          "in": "Z. Amdouni",
+          "minute": 79,
+          "team": "SUI"
+        },
+        {
+          "out": "Edmilson Junior",
+          "in": "H. Al Haydos",
+          "minute": 88,
+          "team": "QAT"
+        },
+        {
+          "out": "R. Rodriguez",
+          "in": "M. Muheim",
+          "minute": 89,
+          "team": "SUI"
+        },
+        {
+          "out": "R. Freuler",
+          "in": "A. Jashari",
+          "minute": 89,
+          "team": "SUI"
+        }
+      ]
     },
     {
       "id": 13,
@@ -1298,7 +1534,69 @@
           "rating": 8.0,
           "team": "BRA"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "Ibanez",
+          "in": "Danilo",
+          "minute": 46,
+          "team": "BRA"
+        },
+        {
+          "out": "Casemiro",
+          "in": "Fabinho",
+          "minute": 46,
+          "team": "BRA"
+        },
+        {
+          "out": "Lucas Paqueta",
+          "in": "M. Cunha",
+          "minute": 61,
+          "team": "BRA"
+        },
+        {
+          "out": "I. Thiago",
+          "in": "Luiz Henrique",
+          "minute": 62,
+          "team": "BRA"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "C. Talbi",
+          "minute": 65,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Ounahi",
+          "in": "S. El Mourabet",
+          "minute": 65,
+          "team": "MAR"
+        },
+        {
+          "out": "Bruno Guimaraes",
+          "in": "Danilo Santos",
+          "minute": 80,
+          "team": "BRA"
+        },
+        {
+          "out": "N. Mazraoui",
+          "in": "A. Salah-Eddine",
+          "minute": 80,
+          "team": "MAR"
+        },
+        {
+          "out": "B. El Khannouss",
+          "in": "A. Amaimouni",
+          "minute": 80,
+          "team": "MAR"
+        },
+        {
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
+          "minute": 89,
+          "team": "MAR"
+        }
+      ]
     },
     {
       "id": 14,
@@ -1535,7 +1833,57 @@
           "rating": 7.7,
           "team": "SCO"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "L. Deedson",
+          "in": "J. Casimir",
+          "minute": 61,
+          "team": "HAI"
+        },
+        {
+          "out": "B. Gannon-Doak",
+          "in": "R. Christie",
+          "minute": 75,
+          "team": "SCO"
+        },
+        {
+          "out": "C. Adams",
+          "in": "L. Dykes",
+          "minute": 75,
+          "team": "SCO"
+        },
+        {
+          "out": "A. Hickey",
+          "in": "N. Patterson",
+          "minute": 75,
+          "team": "SCO"
+        },
+        {
+          "out": "W. Isidor",
+          "in": "L. Joseph",
+          "minute": 76,
+          "team": "HAI"
+        },
+        {
+          "out": "L. Shankland",
+          "in": "K. McLean",
+          "minute": 83,
+          "team": "SCO"
+        },
+        {
+          "out": "J. McGinn",
+          "in": "F. Curtis",
+          "minute": 83,
+          "team": "SCO"
+        },
+        {
+          "out": "R. Providence",
+          "in": "Y. Fortune",
+          "minute": 85,
+          "team": "HAI"
+        }
+      ]
     },
     {
       "id": 19,
@@ -1793,7 +2141,63 @@
           "rating": 9.1,
           "team": "USA"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "C. Pulisic",
+          "in": "S. Berhalter",
+          "minute": 46,
+          "team": "USA"
+        },
+        {
+          "out": "D. Bobadilla",
+          "in": "Mauricio",
+          "minute": 46,
+          "team": "PAR"
+        },
+        {
+          "out": "A. Sanabria",
+          "in": "A. Arce",
+          "minute": 62,
+          "team": "PAR"
+        },
+        {
+          "out": "F. Balogun",
+          "in": "R. Pepi",
+          "minute": 72,
+          "team": "USA"
+        },
+        {
+          "out": "S. Dest",
+          "in": "T. Weah",
+          "minute": 72,
+          "team": "USA"
+        },
+        {
+          "out": "J. Caceres",
+          "in": "G. Velazquez",
+          "minute": 79,
+          "team": "PAR"
+        },
+        {
+          "out": "M. Almiron",
+          "in": "R. Sosa",
+          "minute": 79,
+          "team": "PAR"
+        },
+        {
+          "out": "D. Gomez",
+          "in": "Kaku",
+          "minute": 80,
+          "team": "PAR"
+        },
+        {
+          "out": "M. Tillman",
+          "in": "G. Reyna",
+          "minute": 82,
+          "team": "USA"
+        }
+      ]
     },
     {
       "id": 20,
@@ -2018,7 +2422,69 @@
           "rating": 8.7,
           "team": "AUS"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "B. Yilmaz",
+          "in": "K. Yildiz",
+          "minute": 46,
+          "team": "TUR"
+        },
+        {
+          "out": "N. Irankunda",
+          "in": "N. Velupillay",
+          "minute": 61,
+          "team": "AUS"
+        },
+        {
+          "out": "O. Kokcu",
+          "in": "Y. Akgun",
+          "minute": 62,
+          "team": "TUR"
+        },
+        {
+          "out": "J. Italiano",
+          "in": "J. Geria",
+          "minute": 74,
+          "team": "AUS"
+        },
+        {
+          "out": "M. Toure",
+          "in": "T. Yengi",
+          "minute": 74,
+          "team": "AUS"
+        },
+        {
+          "out": "Z. Celik",
+          "in": "M. Muldur",
+          "minute": 81,
+          "team": "TUR"
+        },
+        {
+          "out": "I. Yuksek",
+          "in": "S. Ozcan",
+          "minute": 81,
+          "team": "TUR"
+        },
+        {
+          "out": "J. Bos",
+          "in": "A. Behich",
+          "minute": 84,
+          "team": "AUS"
+        },
+        {
+          "out": "P. Okon-Engstler",
+          "in": "J. Irvine",
+          "minute": 84,
+          "team": "AUS"
+        },
+        {
+          "out": "K. Akturkoglu",
+          "in": "D. Gul",
+          "minute": 85,
+          "team": "TUR"
+        }
+      ]
     },
     {
       "id": 25,
@@ -2271,7 +2737,57 @@
           "rating": 8.9,
           "team": "GER"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "S. Hansen",
+          "in": "J. Antonisse",
+          "minute": 46,
+          "team": "CUR"
+        },
+        {
+          "out": "J. Musiala",
+          "in": "D. Undav",
+          "minute": 64,
+          "team": "GER"
+        },
+        {
+          "out": "J. Locadia",
+          "in": "J. Margaritha",
+          "minute": 65,
+          "team": "CUR"
+        },
+        {
+          "out": "F. Nmecha",
+          "in": "L. Goretzka",
+          "minute": 73,
+          "team": "GER"
+        },
+        {
+          "out": "J. Tah",
+          "in": "A. Rudiger",
+          "minute": 73,
+          "team": "GER"
+        },
+        {
+          "out": "N. Brown",
+          "in": "D. Raum",
+          "minute": 73,
+          "team": "GER"
+        },
+        {
+          "out": "J. Kimmich",
+          "in": "W. Anton",
+          "minute": 83,
+          "team": "GER"
+        },
+        {
+          "out": "T. Chong",
+          "in": "G. Kastaneer",
+          "minute": 83,
+          "team": "CUR"
+        }
+      ]
     },
     {
       "id": 26,
@@ -2509,7 +3025,63 @@
           "rating": 7.2,
           "team": "CIV"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "B. Toure",
+          "in": "A. Diallo",
+          "minute": 56,
+          "team": "CIV"
+        },
+        {
+          "out": "E. Wahi",
+          "in": "A. Bonny",
+          "minute": 56,
+          "team": "CIV"
+        },
+        {
+          "out": "A. Minda",
+          "in": "N. Angulo",
+          "minute": 56,
+          "team": "ECU"
+        },
+        {
+          "out": "J. Yeboah",
+          "in": "A. Preciado",
+          "minute": 62,
+          "team": "ECU"
+        },
+        {
+          "out": "A. Franco",
+          "in": "J. Porozo",
+          "minute": 62,
+          "team": "ECU"
+        },
+        {
+          "out": "S. Fofana",
+          "in": "I. Sangare",
+          "minute": 77,
+          "team": "CIV"
+        },
+        {
+          "out": "N. Pepe",
+          "in": "C. Inao Oulai",
+          "minute": 77,
+          "team": "CIV"
+        },
+        {
+          "out": "E. Valencia",
+          "in": "K. Rodriguez",
+          "minute": 77,
+          "team": "ECU"
+        },
+        {
+          "out": "G. Doue",
+          "in": "O. Kossounou",
+          "minute": 89,
+          "team": "CIV"
+        }
+      ]
     },
     {
       "id": 31,
@@ -2764,7 +3336,69 @@
           "rating": 8.3,
           "team": "NED"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "D. Maeda",
+          "in": "J. Ito",
+          "minute": 66,
+          "team": "JPN"
+        },
+        {
+          "out": "D. Malen",
+          "in": "M. Depay",
+          "minute": 70,
+          "team": "NED"
+        },
+        {
+          "out": "T. Reijnders",
+          "in": "Q. Timber",
+          "minute": 70,
+          "team": "NED"
+        },
+        {
+          "out": "C. Summerville",
+          "in": "T. Koopmeiners",
+          "minute": 70,
+          "team": "NED"
+        },
+        {
+          "out": "T. Watanabe",
+          "in": "T. Tomiyasu",
+          "minute": 75,
+          "team": "JPN"
+        },
+        {
+          "out": "R. Doan",
+          "in": "Y. Sugawara",
+          "minute": 75,
+          "team": "JPN"
+        },
+        {
+          "out": "T. Kubo",
+          "in": "K. Ogawa",
+          "minute": 75,
+          "team": "JPN"
+        },
+        {
+          "out": "R. Gravenberch",
+          "in": "N. Ake",
+          "minute": 81,
+          "team": "NED"
+        },
+        {
+          "out": "A. Ueda",
+          "in": "K. Shiogai",
+          "minute": 84,
+          "team": "JPN"
+        },
+        {
+          "out": "C. Gakpo",
+          "in": "B. Brobbey",
+          "minute": 85,
+          "team": "NED"
+        }
+      ]
     },
     {
       "id": 32,
@@ -3013,7 +3647,69 @@
           "rating": 8.9,
           "team": "SWE"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "G. Gudmundsson",
+          "in": "E. Stroud",
+          "minute": 65,
+          "team": "SWE"
+        },
+        {
+          "out": "B. Nygren",
+          "in": "L. Bergvall",
+          "minute": 65,
+          "team": "SWE"
+        },
+        {
+          "out": "E. Saad",
+          "in": "S. Tounekti",
+          "minute": 72,
+          "team": "TUN"
+        },
+        {
+          "out": "E. Skhiri",
+          "in": "E. Achouri",
+          "minute": 72,
+          "team": "TUN"
+        },
+        {
+          "out": "Y. Valery",
+          "in": "M. Belhadj",
+          "minute": 72,
+          "team": "TUN"
+        },
+        {
+          "out": "R. Khedira",
+          "in": "I. Gharbi",
+          "minute": 83,
+          "team": "TUN"
+        },
+        {
+          "out": "J. Karlstrom",
+          "in": "M. Svanberg",
+          "minute": 84,
+          "team": "SWE"
+        },
+        {
+          "out": "A. Slimane",
+          "in": "F. Chaouat",
+          "minute": 84,
+          "team": "TUN"
+        },
+        {
+          "out": "A. Isak",
+          "in": "A. Elanga",
+          "minute": 90,
+          "team": "SWE"
+        },
+        {
+          "out": "A. Bernhardsson",
+          "in": "D. Svensson",
+          "minute": 90,
+          "team": "SWE"
+        }
+      ]
     },
     {
       "id": 37,
@@ -3263,7 +3959,69 @@
           "rating": 7.9,
           "team": "BEL"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "Amadou Onana",
+          "in": "Maxim De Cuyper",
+          "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "Timothy Castagne",
+          "in": "Nicolas Raskin",
+          "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "Charles De Ketelaere",
+          "in": "Romelu Lukaku",
+          "minute": 66,
+          "team": "BEL"
+        },
+        {
+          "out": "Emam Ashour",
+          "in": "Rami Rabia",
+          "minute": 71,
+          "team": "EGY"
+        },
+        {
+          "out": "Mohamed Salah",
+          "in": "Hamza Abdelkarim",
+          "minute": 76,
+          "team": "EGY"
+        },
+        {
+          "out": "Mostafa Ziko",
+          "in": "Zizo",
+          "minute": 76,
+          "team": "EGY"
+        },
+        {
+          "out": "Kevin De Bruyne",
+          "in": "Hans Vanaken",
+          "minute": 86,
+          "team": "BEL"
+        },
+        {
+          "out": "Jérémy Doku",
+          "in": "Matías Fernández-Pardo",
+          "minute": 86,
+          "team": "BEL"
+        },
+        {
+          "out": "Hamdy Fathy",
+          "in": "Ibrahim Adel",
+          "minute": 89,
+          "team": "EGY"
+        },
+        {
+          "out": "Ahmed Fatouh",
+          "in": "Karim Hafez",
+          "minute": 89,
+          "team": "EGY"
+        }
+      ]
     },
     {
       "id": 38,
@@ -3501,7 +4259,63 @@
           "rating": 9.3,
           "team": "IRN"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "A. Yousefi",
+          "in": "M. Ghaedi",
+          "minute": 46,
+          "team": "IRN"
+        },
+        {
+          "out": "S. Moghanlou",
+          "in": "A. Alipour",
+          "minute": 53,
+          "team": "IRN"
+        },
+        {
+          "out": "S. Ghoddos",
+          "in": "E. Hajsafi",
+          "minute": 65,
+          "team": "IRN"
+        },
+        {
+          "out": "L. Cacace",
+          "in": "B. Old",
+          "minute": 68,
+          "team": "NZL"
+        },
+        {
+          "out": "C. McCowatt",
+          "in": "R. Thomas",
+          "minute": 68,
+          "team": "NZL"
+        },
+        {
+          "out": "T. Payne",
+          "in": "C. Elliot",
+          "minute": 78,
+          "team": "NZL"
+        },
+        {
+          "out": "M. Taremi",
+          "in": "A. Hosseinzadeh",
+          "minute": 80,
+          "team": "IRN"
+        },
+        {
+          "out": "S. Singh",
+          "in": "J. Randall",
+          "minute": 90,
+          "team": "NZL"
+        },
+        {
+          "out": "M. Stamenic",
+          "in": "T. Bindon",
+          "minute": 90,
+          "team": "NZL"
+        }
+      ]
     },
     {
       "id": 43,
@@ -3719,7 +4533,63 @@
           "rating": 9.2,
           "team": "CPV"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "Laros Duarte",
+          "in": "Deroy Duarte",
+          "minute": 61,
+          "team": "CPV"
+        },
+        {
+          "out": "Dailon Rocha Livramento",
+          "in": "Nuno Da Costa",
+          "minute": 61,
+          "team": "CPV"
+        },
+        {
+          "out": "Jovane Cabral",
+          "in": "Willy Semedo",
+          "minute": 61,
+          "team": "CPV"
+        },
+        {
+          "out": "Fabián Ruiz",
+          "in": "Mikel Merino",
+          "minute": 71,
+          "team": "ESP"
+        },
+        {
+          "out": "Pablo Gavi",
+          "in": "Lamine Yamal",
+          "minute": 71,
+          "team": "ESP"
+        },
+        {
+          "out": "Sidny Lopes Cabral",
+          "in": "João Paulo",
+          "minute": 76,
+          "team": "CPV"
+        },
+        {
+          "out": "Jamiro Monteiro",
+          "in": "Telmo Arcanjo",
+          "minute": 79,
+          "team": "CPV"
+        },
+        {
+          "out": "Ferran Torres",
+          "in": "Dani Olmo",
+          "minute": 81,
+          "team": "ESP"
+        },
+        {
+          "out": "Rodri",
+          "in": "Nico Williams",
+          "minute": 87,
+          "team": "ESP"
+        }
+      ]
     },
     {
       "id": 44,
@@ -3949,7 +4819,69 @@
           "rating": 7.9,
           "team": "KSA"
         }
-      }
+      },
+      "subs": [
+        {
+          "out": "Darwin Núñez",
+          "in": "Agustín Canobbio",
+          "minute": 46,
+          "team": "URU"
+        },
+        {
+          "out": "Matías Viña",
+          "in": "Juan Sanabria",
+          "minute": 46,
+          "team": "URU"
+        },
+        {
+          "out": "Musab Al Juwayr",
+          "in": "Nasser Al-Dawsari",
+          "minute": 63,
+          "team": "KSA"
+        },
+        {
+          "out": "Manuel Ugarte",
+          "in": "Nicolás de la Cruz",
+          "minute": 72,
+          "team": "URU"
+        },
+        {
+          "out": "Mohammed Abu Al-Shamat",
+          "in": "Nawaf Boushal",
+          "minute": 81,
+          "team": "KSA"
+        },
+        {
+          "out": "Maximiliano Araújo",
+          "in": "Brian Rodríguez",
+          "minute": 81,
+          "team": "URU"
+        },
+        {
+          "out": "Saud Abdulhamid",
+          "in": "Ali Lajami",
+          "minute": 90,
+          "team": "KSA"
+        },
+        {
+          "out": "Firas Al-Buraikan",
+          "in": "Ala'a Al-Hejji",
+          "minute": 90,
+          "team": "KSA"
+        },
+        {
+          "out": "Moteb Al-Harbi",
+          "in": "Abdullah Al-Hamdan",
+          "minute": 90,
+          "team": "KSA"
+        },
+        {
+          "out": "Federico Viñas",
+          "in": "Rodrigo Aguirre",
+          "minute": 90,
+          "team": "URU"
+        }
+      ]
     }
   ],
   "stats": {
