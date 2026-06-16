@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-16T00:05:55Z",
+  "updated": "2026-06-16T00:30:33Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 38,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Amir Ghalenoei",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alireza Beiranvand",
+                "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "Ramin Rezaeian",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Ali Nemati",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Shoja Khalilzadeh",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Milad Mohammadi",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Aria Yousefi",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Saman Ghoddos",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Saeid Ezatolahi",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Mohammad Mohebi",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Shahriar Moghanlou",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Mehdi Taremi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": null,
+            "xi": [
+              {
+                "n": 1,
+                "name": "Max Crocombe",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Tim Payne",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Finn Surman",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Michael Boxall",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Liberato Cacace",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Joe Bell",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Marko Stamenić",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Callum McCowatt",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Sarpreet Singh",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Elijah Just",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Chris Wood",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
