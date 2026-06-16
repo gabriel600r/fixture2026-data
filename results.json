@@ -4058,6 +4058,56 @@
         "player": "J. Lukic",
         "team": "BIH",
         "goals": 1
+      },
+      {
+        "player": "J. McGinn",
+        "team": "SCO",
+        "goals": 1
+      },
+      {
+        "player": "J. Musiala",
+        "team": "GER",
+        "goals": 1
+      },
+      {
+        "player": "Julián Quiñones",
+        "team": "MEX",
+        "goals": 1
+      },
+      {
+        "player": "K. Nakamura",
+        "team": "JPN",
+        "goals": 1
+      },
+      {
+        "player": "L. Comenencia",
+        "team": "CUR",
+        "goals": 1
+      },
+      {
+        "player": "L. Krejci",
+        "team": "CZE",
+        "goals": 1
+      },
+      {
+        "player": "M. Araujo",
+        "team": "URU",
+        "goals": 1
+      },
+      {
+        "player": "M. Svanberg",
+        "team": "SWE",
+        "goals": 1
+      },
+      {
+        "player": "Maurício Magalhães Prado",
+        "team": "PAR",
+        "goals": 1
+      },
+      {
+        "player": "Mohammad Mohebbi",
+        "team": "IRN",
+        "goals": 1
       }
     ],
     "assists": [
@@ -4164,6 +4214,53 @@
         "team": "GER",
         "assists": 1,
         "goals": 1
+      },
+      {
+        "player": "P. David",
+        "team": "CAN",
+        "assists": 1
+      },
+      {
+        "player": "P. Okon-Engstler",
+        "team": "AUS",
+        "assists": 1
+      },
+      {
+        "player": "Ramin Rezaeian",
+        "team": "IRN",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "player": "Roberto Alvarado",
+        "team": "MEX",
+        "assists": 1
+      },
+      {
+        "player": "S. Kolasinac",
+        "team": "BIH",
+        "assists": 1
+      },
+      {
+        "player": "T. Kubo",
+        "team": "JPN",
+        "assists": 1
+      },
+      {
+        "player": "V. Coufal",
+        "team": "CZE",
+        "assists": 1
+      },
+      {
+        "player": "V. Gyokeres",
+        "team": "SWE",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "player": "W. Singo",
+        "team": "CIV",
+        "assists": 1
       }
     ],
     "cards": [
@@ -4284,6 +4381,66 @@
       {
         "player": "J. Gaber",
         "team": "QAT",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "J. Lukic",
+        "team": "BIH",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "J. Porozo",
+        "team": "ECU",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Juan Caceres",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Junior Alonso",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "K. McLean",
+        "team": "SCO",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "L. De Fougerolles",
+        "team": "CAN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Lee Gi-Hyuk",
+        "team": "KOR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "M. Abunada",
+        "team": "QAT",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "M. Attia",
+        "team": "EGY",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "M. De Cuyper",
+        "team": "BEL",
         "red": 0,
         "yellow": 1
       }
