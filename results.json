@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T23:58:56Z",
+  "updated": "2026-06-16T23:59:43Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "E. Haaland",
@@ -30,6 +30,12 @@
           "minute": 76,
           "team": "NOR",
           "assist": "M. Odegaard"
+        },
+        {
+          "player": "K. Thorstvedt",
+          "minute": 90,
+          "team": "NOR",
+          "assist": "E. Haaland"
         }
       ],
       "cardEvents": [
@@ -102,7 +108,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsBlocked": [
           2,
@@ -117,8 +123,8 @@
           12
         ],
         "possession": [
-          37,
-          63
+          39,
+          61
         ],
         "corners": [
           2,
@@ -137,19 +143,19 @@
           11
         ],
         "fouls": [
-          10,
-          12
+          11,
+          13
         ],
         "passesTotal": [
-          304,
-          528
+          332,
+          530
         ],
         "passesPct": [
-          80,
+          81,
           89
         ],
         "passesAccurate": [
-          243,
+          270,
           472
         ],
         "offsides": [
