@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:40:51Z",
+  "updated": "2026-06-16T23:41:38Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 3,
       "goals": [
@@ -27,7 +27,7 @@
         },
         {
           "player": "L. Ostigard",
-          "minute": 77,
+          "minute": 76,
           "team": "NOR",
           "assist": "M. Odegaard"
         }
