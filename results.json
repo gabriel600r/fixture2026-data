@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:59:26Z",
+  "updated": "2026-06-16T00:00:19Z",
   "live": [
     {
       "id": 44,
@@ -27,7 +27,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
@@ -228,9 +228,9 @@
         },
         "referee": "Maurizio Mariani, Italy",
         "motm": {
-          "player": "Maximiliano Araújo",
-          "rating": 7.5,
-          "team": "URU"
+          "player": "Mohammed Al-Owais",
+          "rating": 7.9,
+          "team": "KSA"
         }
       }
     }
