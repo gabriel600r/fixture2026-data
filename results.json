@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T20:17:14Z",
+  "updated": "2026-06-16T20:18:01Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,8 +21,8 @@
           5
         ],
         "possession": [
-          59,
-          41
+          57,
+          43
         ],
         "corners": [
           3,
@@ -46,15 +46,15 @@
         ],
         "passesTotal": [
           373,
-          267
+          283
         ],
         "passesPct": [
           87,
-          83
+          84
         ],
         "passesAccurate": [
           324,
-          221
+          237
         ],
         "offsides": [
           1,
@@ -203,7 +203,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Dayot Upamecano",
-          "rating": 7.2,
+          "rating": 7.5,
           "team": "FRA"
         }
       }
