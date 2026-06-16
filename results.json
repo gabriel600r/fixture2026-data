@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:24:28Z",
+  "updated": "2026-06-16T02:25:15Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 2,
       "goals": [
@@ -17,8 +17,7 @@
         {
           "player": "R. Rezaeian",
           "minute": 32,
-          "team": "IRN",
-          "assist": "S. Moghanlou"
+          "team": "IRN"
         },
         {
           "player": "E. Just",
