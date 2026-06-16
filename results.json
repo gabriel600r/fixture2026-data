@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T20:58:59Z",
+  "updated": "2026-06-16T20:59:46Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
       "minute": 90,
       "home": 2,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "K. Mbappe",
@@ -19,6 +19,11 @@
           "minute": 82,
           "team": "FRA",
           "assist": "A. Rabiot"
+        },
+        {
+          "player": "I. Mbaye",
+          "minute": 90,
+          "team": "SEN"
         }
       ],
       "subs": [
@@ -262,7 +267,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Dayot Upamecano",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "FRA"
         }
       }
