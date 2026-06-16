@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:44:00Z",
+  "updated": "2026-06-16T23:44:47Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 3,
       "goals": [
@@ -86,6 +86,12 @@
           "in": "Meme",
           "minute": 78,
           "team": "IRQ"
+        },
+        {
+          "out": "M. Odegaard",
+          "in": "P. Berg",
+          "minute": 81,
+          "team": "NOR"
         }
       ],
       "stats": {
@@ -123,19 +129,19 @@
         ],
         "fouls": [
           8,
-          11
+          12
         ],
         "passesTotal": [
-          268,
-          407
+          276,
+          427
         ],
         "passesPct": [
           81,
           88
         ],
         "passesAccurate": [
-          217,
-          360
+          223,
+          376
         ],
         "offsides": [
           1,
@@ -284,7 +290,7 @@
         "referee": "Pierre Ghislain Atcho, Gabon",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.2,
+          "rating": 8.0,
           "team": "NOR"
         }
       }
