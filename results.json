@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T02:22:06Z",
+  "updated": "2026-06-16T02:22:53Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
       "minute": 55,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "E. Just",
@@ -19,6 +19,12 @@
           "minute": 32,
           "team": "IRN",
           "assist": "S. Moghanlou"
+        },
+        {
+          "player": "E. Just",
+          "minute": 54,
+          "team": "NZL",
+          "assist": "C. Wood"
         }
       ],
       "stats": {
