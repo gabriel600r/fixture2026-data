@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-16T20:46:22Z",
+  "updated": "2026-06-16T20:47:09Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 82,
-      "home": 1,
+      "minute": 83,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 66,
           "team": "FRA",
           "assist": "M. Olise"
+        },
+        {
+          "player": "B. Barcola",
+          "minute": 82,
+          "team": "FRA",
+          "assist": "A. Rabiot"
         }
       ],
       "subs": [
