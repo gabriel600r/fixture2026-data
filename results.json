@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:08:36Z",
+  "updated": "2026-06-16T23:09:23Z",
   "live": [
     {
       "id": 50,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 47,
       "home": 1,
       "away": 2,
       "goals": [
@@ -26,10 +26,9 @@
           "team": "NOR"
         }
       ],
-      "extra": 7,
       "stats": {
         "shotsBlocked": [
-          1,
+          2,
           2
         ],
         "saves": [
@@ -37,15 +36,15 @@
           0
         ],
         "shotsTotal": [
-          7,
+          9,
           7
         ],
         "possession": [
-          39,
-          61
+          40,
+          60
         ],
         "corners": [
-          1,
+          2,
           2
         ],
         "shotsOn": [
@@ -53,11 +52,11 @@
           3
         ],
         "shotsOutside": [
-          1,
+          2,
           1
         ],
         "shotsInside": [
-          6,
+          7,
           6
         ],
         "fouls": [
@@ -65,7 +64,7 @@
           9
         ],
         "passesTotal": [
-          164,
+          165,
           264
         ],
         "passesPct": [
@@ -73,7 +72,7 @@
           87
         ],
         "passesAccurate": [
-          125,
+          126,
           230
         ],
         "offsides": [
@@ -89,7 +88,7 @@
           0
         ],
         "shotsOff": [
-          5,
+          6,
           2
         ],
         "home": "IRQ",
@@ -220,7 +219,12 @@
             ]
           }
         },
-        "referee": "Pierre Ghislain Atcho, Gabon"
+        "referee": "Pierre Ghislain Atcho, Gabon",
+        "motm": {
+          "player": "Erling Haaland",
+          "rating": 8.5,
+          "team": "NOR"
+        }
       }
     }
   ],
