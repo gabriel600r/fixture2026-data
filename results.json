@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T02:45:41Z",
+  "updated": "2026-06-16T02:46:28Z",
   "live": [
     {
       "id": 38,
@@ -46,7 +46,7 @@
           8
         ],
         "shotsOutside": [
-          4,
+          5,
           4
         ],
         "passesPct": [
@@ -54,8 +54,8 @@
           86
         ],
         "passesTotal": [
-          333,
-          397
+          337,
+          398
         ],
         "corners": [
           2,
@@ -70,15 +70,15 @@
           7
         ],
         "shotsBlocked": [
-          3,
+          4,
           2
         ],
         "shotsTotal": [
-          11,
+          12,
           12
         ],
         "fouls": [
-          6,
+          7,
           5
         ],
         "offsides": [
@@ -94,7 +94,7 @@
           1
         ],
         "passesAccurate": [
-          261,
+          263,
           343
         ],
         "home": "IRN",
