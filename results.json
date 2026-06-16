@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:10:57Z",
+  "updated": "2026-06-16T23:11:45Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 1,
       "away": 2,
       "goals": [
@@ -52,11 +52,11 @@
           3
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "shotsInside": [
-          7,
+          6,
           6
         ],
         "fouls": [
@@ -68,11 +68,11 @@
           264
         ],
         "passesPct": [
-          76,
+          77,
           87
         ],
         "passesAccurate": [
-          126,
+          127,
           230
         ],
         "offsides": [
@@ -222,7 +222,7 @@
         "referee": "Pierre Ghislain Atcho, Gabon",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.5,
+          "rating": 8.2,
           "team": "NOR"
         }
       }
