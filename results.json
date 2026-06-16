@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T23:56:35Z",
+  "updated": "2026-06-16T23:57:22Z",
   "live": [
     {
       "id": 50,
@@ -102,7 +102,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 3,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           2,
@@ -141,16 +141,16 @@
           12
         ],
         "passesTotal": [
-          300,
-          518
+          304,
+          528
         ],
         "passesPct": [
           80,
           89
         ],
         "passesAccurate": [
-          239,
-          462
+          243,
+          472
         ],
         "offsides": [
           1,
