@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:58:12Z",
+  "updated": "2026-06-16T20:58:59Z",
   "live": [
     {
       "id": 49,
@@ -65,7 +65,7 @@
           "team": "SEN"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           2,
@@ -101,19 +101,19 @@
         ],
         "fouls": [
           4,
-          7
+          9
         ],
         "passesTotal": [
-          528,
-          451
+          546,
+          465
         ],
         "passesPct": [
           88,
           86
         ],
         "passesAccurate": [
-          465,
-          387
+          482,
+          400
         ],
         "offsides": [
           1,
