@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:31:33Z",
+  "updated": "2026-06-16T02:32:20Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 2,
       "away": 2,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "M. Mohebi",
           "minute": 64,
-          "team": "IRN"
+          "team": "IRN",
+          "assist": "R. Rezaeian"
         }
       ],
       "stats": {
@@ -42,19 +43,19 @@
         ],
         "shotsInside": [
           5,
-          7
+          8
         ],
         "shotsOutside": [
           4,
           4
         ],
         "passesPct": [
-          79,
-          88
+          78,
+          87
         ],
         "passesTotal": [
-          298,
-          341
+          299,
+          349
         ],
         "corners": [
           1,
@@ -66,7 +67,7 @@
         ],
         "shotsOn": [
           2,
-          6
+          7
         ],
         "shotsBlocked": [
           2,
@@ -74,7 +75,7 @@
         ],
         "shotsTotal": [
           9,
-          11
+          12
         ],
         "fouls": [
           4,
@@ -89,12 +90,12 @@
           3
         ],
         "saves": [
-          4,
+          5,
           1
         ],
         "passesAccurate": [
           234,
-          299
+          305
         ],
         "home": "IRN",
         "away": "NZL"
