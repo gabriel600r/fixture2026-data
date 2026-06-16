@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T01:31:49Z",
+  "updated": "2026-06-16T01:32:36Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 1,
       "goals": [
@@ -33,11 +33,11 @@
           1
         ],
         "passesPct": [
-          83,
+          84,
           90
         ],
         "passesTotal": [
-          139,
+          140,
           146
         ],
         "corners": [
@@ -77,7 +77,7 @@
           1
         ],
         "passesAccurate": [
-          116,
+          117,
           132
         ],
         "home": "IRN",
@@ -207,7 +207,8 @@
               }
             ]
           }
-        }
+        },
+        "referee": "César Ramos Palazuelos, Mexico"
       }
     }
   ],
