@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T01:11:25Z",
+  "updated": "2026-06-16T01:12:12Z",
   "live": [
     {
       "id": 38,
@@ -11,7 +11,8 @@
         {
           "player": "E. Just",
           "minute": 7,
-          "team": "NZL"
+          "team": "NZL",
+          "assist": "C. Wood"
         }
       ],
       "stats": {
