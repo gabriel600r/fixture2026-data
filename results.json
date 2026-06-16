@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T01:49:03Z",
+  "updated": "2026-06-16T01:49:50Z",
   "live": [
     {
       "id": 38,
@@ -21,6 +21,7 @@
           "assist": "S. Moghanlou"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           0,
