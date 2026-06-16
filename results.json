@@ -1,23 +1,24 @@
 {
-  "updated": "2026-06-16T01:38:05Z",
+  "updated": "2026-06-16T01:38:52Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "Elijah Just",
+          "player": "E. Just",
           "minute": 7,
           "team": "NZL",
-          "assist": "Chris Wood"
+          "assist": "C. Wood"
         },
         {
-          "player": "Ramin Rezaeian",
+          "player": "R. Rezaeian",
           "minute": 32,
-          "team": "IRN"
+          "team": "IRN",
+          "assist": "S. Moghanlou"
         }
       ],
       "stats": {
