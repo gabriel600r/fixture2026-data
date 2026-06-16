@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T01:09:04Z",
+  "updated": "2026-06-16T01:09:51Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 5,
+      "minute": 6,
       "home": 0,
       "away": 0,
       "stats": {
@@ -25,20 +25,20 @@
           0
         ],
         "passesPct": [
-          88,
-          100
+          81,
+          90
         ],
         "passesTotal": [
-          16,
-          13
+          26,
+          31
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          58,
-          42
+          48,
+          52
         ],
         "shotsOn": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesAccurate": [
-          14,
-          13
+          21,
+          28
         ],
         "home": "IRN",
         "away": "NZL"
