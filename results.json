@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:36:54Z",
+  "updated": "2026-06-16T23:37:41Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 1,
       "away": 2,
       "goals": [
@@ -66,13 +66,13 @@
         {
           "out": "H. Ali",
           "in": "M. Saadoon",
-          "minute": 74,
+          "minute": 73,
           "team": "IRQ"
         },
         {
           "out": "A. Jasim",
           "in": "A. Qasem",
-          "minute": 74,
+          "minute": 73,
           "team": "IRQ"
         }
       ],
