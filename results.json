@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-16T22:30:17Z",
+  "updated": "2026-06-16T22:31:04Z",
   "live": [
     {
       "id": 50,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "E. Haaland",
           "minute": 29,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "D. Wolfe"
         }
       ],
       "stats": {
