@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T19:34:39Z",
+  "updated": "2026-06-16T19:35:26Z",
   "live": [
     {
       "id": 49,
@@ -18,11 +18,11 @@
         ],
         "shotsTotal": [
           1,
-          2
+          3
         ],
         "possession": [
-          61,
-          39
+          59,
+          41
         ],
         "corners": [
           2,
@@ -34,27 +34,27 @@
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           0,
           2
         ],
         "fouls": [
-          2,
-          2
+          3,
+          3
         ],
         "passesTotal": [
-          201,
-          127
+          210,
+          143
         ],
         "passesPct": [
-          91,
-          85
+          90,
+          86
         ],
         "passesAccurate": [
-          182,
-          108
+          188,
+          123
         ],
         "offsides": [
           0,
@@ -70,7 +70,7 @@
         ],
         "shotsOff": [
           0,
-          1
+          2
         ],
         "home": "FRA",
         "away": "SEN"
