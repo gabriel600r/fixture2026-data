@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T20:51:05Z",
+  "updated": "2026-06-16T20:51:52Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 2,
       "away": 0,
       "goals": [
@@ -51,6 +51,12 @@
           "in": "B. Dieng",
           "minute": 83,
           "team": "SEN"
+        },
+        {
+          "out": "D. Doue",
+          "in": "R. Cherki",
+          "minute": 87,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -60,22 +66,22 @@
         ],
         "saves": [
           1,
-          4
+          5
         ],
         "shotsTotal": [
-          9,
+          10,
           5
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "corners": [
           6,
           3
         ],
         "shotsOn": [
-          6,
+          7,
           1
         ],
         "shotsOutside": [
@@ -83,7 +89,7 @@
           2
         ],
         "shotsInside": [
-          6,
+          7,
           3
         ],
         "fouls": [
@@ -91,16 +97,16 @@
           7
         ],
         "passesTotal": [
-          487,
-          414
+          509,
+          422
         ],
         "passesPct": [
-          87,
+          88,
           86
         ],
         "passesAccurate": [
-          426,
-          355
+          448,
+          362
         ],
         "offsides": [
           1,
