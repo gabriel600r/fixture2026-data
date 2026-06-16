@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-16T22:39:40Z",
+  "updated": "2026-06-16T22:40:27Z",
   "live": [
     {
       "id": 50,
       "status": "1H",
       "minute": 39,
-      "home": 0,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 29,
           "team": "NOR",
           "assist": "D. Wolfe"
+        },
+        {
+          "player": "A. Hussein",
+          "minute": 39,
+          "team": "IRQ"
         }
       ],
       "stats": {
@@ -26,11 +31,11 @@
         ],
         "shotsTotal": [
           3,
-          4
+          5
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "corners": [
           0,
@@ -42,7 +47,7 @@
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           2,
@@ -50,19 +55,19 @@
         ],
         "fouls": [
           4,
-          5
+          6
         ],
         "passesTotal": [
-          108,
-          188
+          115,
+          198
         ],
         "passesPct": [
-          73,
+          74,
           88
         ],
         "passesAccurate": [
-          79,
-          165
+          85,
+          174
         ],
         "offsides": [
           0,
@@ -78,7 +83,7 @@
         ],
         "shotsOff": [
           3,
-          1
+          2
         ],
         "home": "IRQ",
         "away": "NOR"
