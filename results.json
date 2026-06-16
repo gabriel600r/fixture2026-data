@@ -1,11 +1,142 @@
 {
-  "updated": "2026-06-16T03:03:43Z",
+  "updated": "2026-06-16T18:00:05Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 49,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Didier Deschamps",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Mike Maignan",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Jules Koundé",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "William Saliba",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Dayot Upamecano",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Theo Hernández",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Aurélien Tchouaméni",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Adrien Rabiot",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Olise",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Ousmane Dembélé",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Désiré Doué",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Kylian Mbappé",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Bouna Thiaw Pape",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Edouard Mendy",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Krépin Diatta",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kalidou Koulibaly",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Moussa Niakhaté",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "El Hadji Malick Diouf",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Lamine Camara",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Pape Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Ismaïla Sarr",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Nicolas Jackson",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Alireza Faghani, Australia"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
