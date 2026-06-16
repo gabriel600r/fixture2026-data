@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T23:39:16Z",
+  "updated": "2026-06-16T23:40:04Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "E. Haaland",
@@ -23,6 +23,11 @@
         {
           "player": "E. Haaland",
           "minute": 43,
+          "team": "NOR"
+        },
+        {
+          "player": "L. Ostigard",
+          "minute": 77,
           "team": "NOR"
         }
       ],
