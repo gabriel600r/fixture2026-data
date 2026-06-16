@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-16T21:04:32Z",
+  "updated": "2026-06-16T21:30:36Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 50,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Graham Arnold",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Jalal Hassan",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Hussein Ali",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Zaid Tahseen",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Akam Hashem",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Merchas Doski",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Ibrahim Bayesh",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Amir Al-Ammari",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Zaid Ismail",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Ali Jasim",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Aymen Hussein",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ali Al-Hamadi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Stale Solbakken",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ørjan Nyland",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Julian Ryerson",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kristoffer Ajer",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Torbjørn Heggem",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "David Møller Wolfe",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Martin Ødegaard",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Sander Berge",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Fredrik Aursnes",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Alexander Sørloth",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Erling Haaland",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "Antonio Nusa",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
