@@ -1,15 +1,22 @@
 {
-  "updated": "2026-06-16T20:29:51Z",
+  "updated": "2026-06-16T20:30:38Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 66,
-      "home": 0,
+      "minute": 67,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "K. Mbappe",
+          "minute": 66,
+          "team": "FRA"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
-          1,
+          2,
           1
         ],
         "saves": [
@@ -17,7 +24,7 @@
           2
         ],
         "shotsTotal": [
-          4,
+          5,
           5
         ],
         "possession": [
@@ -37,7 +44,7 @@
           2
         ],
         "shotsInside": [
-          2,
+          3,
           3
         ],
         "fouls": [
@@ -45,16 +52,16 @@
           6
         ],
         "passesTotal": [
-          403,
-          338
+          424,
+          352
         ],
         "passesPct": [
-          87,
+          88,
           85
         ],
         "passesAccurate": [
-          351,
-          287
+          371,
+          300
         ],
         "offsides": [
           1,
