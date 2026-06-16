@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T22:09:06Z",
+  "updated": "2026-06-16T22:09:53Z",
   "live": [
     {
       "id": 50,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,12 +17,12 @@
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           0
         ],
         "possession": [
-          42,
-          58
+          37,
+          63
         ],
         "corners": [
           0,
@@ -37,24 +37,24 @@
           0
         ],
         "shotsInside": [
-          0,
+          1,
           0
         ],
         "fouls": [
           0,
-          1
+          2
         ],
         "passesTotal": [
-          16,
-          23
+          21,
+          37
         ],
         "passesPct": [
-          56,
-          83
+          62,
+          86
         ],
         "passesAccurate": [
-          9,
-          19
+          13,
+          32
         ],
         "offsides": [
           0,
@@ -69,7 +69,7 @@
           0
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "home": "IRQ",
