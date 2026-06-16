@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T21:01:22Z",
+  "updated": "2026-06-16T21:02:09Z",
   "live": [
     {
       "id": 49,
@@ -23,7 +23,8 @@
         {
           "player": "I. Mbaye",
           "minute": 90,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "I. Ndiaye"
         },
         {
           "player": "K. Mbappe",
@@ -53,7 +54,7 @@
         },
         {
           "out": "P. Gueye",
-          "in": "C. Ndiaye",
+          "in": "I. Ndiaye",
           "minute": 83,
           "team": "SEN"
         },
@@ -76,7 +77,7 @@
           "team": "SEN"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsBlocked": [
           2,
@@ -88,7 +89,7 @@
         ],
         "shotsTotal": [
           10,
-          5
+          6
         ],
         "possession": [
           54,
@@ -100,7 +101,7 @@
         ],
         "shotsOn": [
           7,
-          1
+          2
         ],
         "shotsOutside": [
           3,
@@ -108,23 +109,23 @@
         ],
         "shotsInside": [
           7,
-          3
+          4
         ],
         "fouls": [
           4,
           9
         ],
         "passesTotal": [
-          546,
-          465
+          561,
+          476
         ],
         "passesPct": [
           88,
           86
         ],
         "passesAccurate": [
-          482,
-          400
+          493,
+          409
         ],
         "offsides": [
           1,
