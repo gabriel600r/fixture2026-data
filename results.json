@@ -1,284 +1,6 @@
 {
-  "updated": "2026-06-16T21:03:45Z",
-  "live": [
-    {
-      "id": 49,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 1,
-      "goals": [
-        {
-          "player": "K. Mbappe",
-          "minute": 66,
-          "team": "FRA",
-          "assist": "M. Olise"
-        },
-        {
-          "player": "B. Barcola",
-          "minute": 82,
-          "team": "FRA",
-          "assist": "A. Rabiot"
-        },
-        {
-          "player": "I. Mbaye",
-          "minute": 90,
-          "team": "SEN",
-          "assist": "I. Ndiaye"
-        },
-        {
-          "player": "K. Mbappe",
-          "minute": 90,
-          "team": "FRA"
-        }
-      ],
-      "subs": [
-        {
-          "out": "I. Sarr",
-          "in": "I. Mbaye",
-          "minute": 75,
-          "team": "SEN"
-        },
-        {
-          "out": "L. Camara",
-          "in": "H. Diarra",
-          "minute": 76,
-          "team": "SEN"
-        },
-        {
-          "out": "O. Dembele",
-          "in": "B. Barcola",
-          "minute": 80,
-          "team": "FRA"
-        },
-        {
-          "out": "P. Gueye",
-          "in": "I. Ndiaye",
-          "minute": 83,
-          "team": "SEN"
-        },
-        {
-          "out": "N. Jackson",
-          "in": "B. Dieng",
-          "minute": 83,
-          "team": "SEN"
-        },
-        {
-          "out": "D. Doue",
-          "in": "R. Cherki",
-          "minute": 87,
-          "team": "FRA"
-        },
-        {
-          "out": "I. Gueye",
-          "in": "P. Ciss",
-          "minute": 88,
-          "team": "SEN"
-        }
-      ],
-      "extra": 9,
-      "stats": {
-        "shotsBlocked": [
-          2,
-          1
-        ],
-        "saves": [
-          1,
-          5
-        ],
-        "shotsTotal": [
-          11,
-          6
-        ],
-        "possession": [
-          54,
-          46
-        ],
-        "corners": [
-          6,
-          4
-        ],
-        "shotsOn": [
-          8,
-          2
-        ],
-        "shotsOutside": [
-          4,
-          2
-        ],
-        "shotsInside": [
-          7,
-          4
-        ],
-        "fouls": [
-          4,
-          9
-        ],
-        "passesTotal": [
-          566,
-          485
-        ],
-        "passesPct": [
-          88,
-          86
-        ],
-        "passesAccurate": [
-          498,
-          417
-        ],
-        "offsides": [
-          1,
-          3
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "shotsOff": [
-          1,
-          3
-        ],
-        "home": "FRA",
-        "away": "SEN"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Didier Deschamps",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Mike Maignan",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Jules Koundé",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Dayot Upamecano",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "William Saliba",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Theo Hernández",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Aurélien Tchouaméni",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Adrien Rabiot",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Michael Olise",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Ousmane Dembélé",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Désiré Doué",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Kylian Mbappé",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Bouna Thiaw Pape",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Edouard Mendy",
-                "pos": "G"
-              },
-              {
-                "n": 15,
-                "name": "Krépin Diatta",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kalidou Koulibaly",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Moussa Niakhaté",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "El Hadji Malick Diouf",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Idrissa Gana Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 26,
-                "name": "Pape Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Ismaïla Sarr",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Lamine Camara",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Sadio Mané",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Nicolas Jackson",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Alireza Faghani, Australia",
-        "motm": {
-          "player": "Kylian Mbappé",
-          "rating": 8.3,
-          "team": "FRA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-16T21:04:32Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -5160,6 +4882,280 @@
           "team": "URU"
         }
       ]
+    },
+    {
+      "id": 49,
+      "home": 3,
+      "away": 1,
+      "goals": [
+        {
+          "player": "K. Mbappe",
+          "minute": 66,
+          "team": "FRA",
+          "assist": "M. Olise"
+        },
+        {
+          "player": "B. Barcola",
+          "minute": 82,
+          "team": "FRA",
+          "assist": "A. Rabiot"
+        },
+        {
+          "player": "I. Mbaye",
+          "minute": 90,
+          "team": "SEN",
+          "assist": "I. Ndiaye"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 90,
+          "team": "FRA"
+        }
+      ],
+      "subs": [
+        {
+          "out": "I. Sarr",
+          "in": "I. Mbaye",
+          "minute": 75,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Camara",
+          "in": "H. Diarra",
+          "minute": 76,
+          "team": "SEN"
+        },
+        {
+          "out": "O. Dembele",
+          "in": "B. Barcola",
+          "minute": 80,
+          "team": "FRA"
+        },
+        {
+          "out": "P. Gueye",
+          "in": "I. Ndiaye",
+          "minute": 83,
+          "team": "SEN"
+        },
+        {
+          "out": "N. Jackson",
+          "in": "B. Dieng",
+          "minute": 83,
+          "team": "SEN"
+        },
+        {
+          "out": "D. Doue",
+          "in": "R. Cherki",
+          "minute": 87,
+          "team": "FRA"
+        },
+        {
+          "out": "I. Gueye",
+          "in": "P. Ciss",
+          "minute": 88,
+          "team": "SEN"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          2,
+          1
+        ],
+        "saves": [
+          1,
+          5
+        ],
+        "shotsTotal": [
+          11,
+          6
+        ],
+        "possession": [
+          54,
+          46
+        ],
+        "corners": [
+          6,
+          4
+        ],
+        "shotsOn": [
+          8,
+          2
+        ],
+        "shotsOutside": [
+          4,
+          2
+        ],
+        "shotsInside": [
+          7,
+          4
+        ],
+        "fouls": [
+          4,
+          9
+        ],
+        "passesTotal": [
+          566,
+          485
+        ],
+        "passesPct": [
+          88,
+          86
+        ],
+        "passesAccurate": [
+          498,
+          417
+        ],
+        "offsides": [
+          1,
+          3
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          1,
+          3
+        ],
+        "home": "FRA",
+        "away": "SEN"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Didier Deschamps",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Mike Maignan",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Jules Koundé",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Dayot Upamecano",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "William Saliba",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Theo Hernández",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Aurélien Tchouaméni",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Adrien Rabiot",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Olise",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Ousmane Dembélé",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Désiré Doué",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Kylian Mbappé",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Bouna Thiaw Pape",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Edouard Mendy",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Krépin Diatta",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kalidou Koulibaly",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Moussa Niakhaté",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "El Hadji Malick Diouf",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Pape Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Ismaïla Sarr",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Lamine Camara",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Nicolas Jackson",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Alireza Faghani, Australia",
+        "motm": {
+          "player": "Kylian Mbappé",
+          "rating": 8.3,
+          "team": "FRA"
+        }
+      }
     }
   ],
   "stats": {
@@ -5178,6 +5174,11 @@
       {
         "player": "Folarin Balogun",
         "team": "USA",
+        "goals": 2
+      },
+      {
+        "player": "K. Mbappe",
+        "team": "FRA",
         "goals": 2
       },
       {
@@ -5206,6 +5207,11 @@
         "team": "SWE",
         "goals": 1,
         "assists": 2
+      },
+      {
+        "player": "B. Barcola",
+        "team": "FRA",
+        "goals": 1
       },
       {
         "player": "B. Khoukhi",
@@ -5260,6 +5266,11 @@
         "assists": 1
       },
       {
+        "player": "I. Mbaye",
+        "team": "SEN",
+        "goals": 1
+      },
+      {
         "player": "Ismael Saibari",
         "team": "MAR",
         "goals": 1
@@ -5303,21 +5314,6 @@
         "player": "M. Araujo",
         "team": "URU",
         "goals": 1
-      },
-      {
-        "player": "M. Svanberg",
-        "team": "SWE",
-        "goals": 1
-      },
-      {
-        "player": "Maurício Magalhães Prado",
-        "team": "PAR",
-        "goals": 1
-      },
-      {
-        "player": "Mohammad Mohebbi",
-        "team": "IRN",
-        "goals": 1
       }
     ],
     "assists": [
@@ -5347,6 +5343,11 @@
         "player": "R. Gravenberch",
         "team": "NED",
         "assists": 2
+      },
+      {
+        "player": "A. Rabiot",
+        "team": "FRA",
+        "assists": 1
       },
       {
         "player": "Brahim Díaz",
@@ -5390,6 +5391,11 @@
         "goals": 1
       },
       {
+        "player": "I. Ndiaye",
+        "team": "SEN",
+        "assists": 1
+      },
+      {
         "player": "Julio Enciso",
         "team": "PAR",
         "assists": 1
@@ -5407,6 +5413,11 @@
       {
         "player": "Lee Kang-In",
         "team": "KOR",
+        "assists": 1
+      },
+      {
+        "player": "M. Olise",
+        "team": "FRA",
         "assists": 1
       },
       {
@@ -5459,17 +5470,6 @@
       {
         "player": "V. Coufal",
         "team": "CZE",
-        "assists": 1
-      },
-      {
-        "player": "V. Gyokeres",
-        "team": "SWE",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "player": "W. Singo",
-        "team": "CIV",
         "assists": 1
       }
     ],
@@ -5724,6 +5724,20 @@
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "2-0",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "FRA",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 3,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "3-1",
       "biggestLose": "",
       "form": "W"
     },
@@ -6061,6 +6075,20 @@
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "0-2",
+      "form": "L"
+    },
+    {
+      "code": "SEN",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-3",
       "form": "L"
     },
     {
