@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-16T20:59:46Z",
+  "updated": "2026-06-16T21:00:34Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
       "minute": 90,
-      "home": 2,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -70,7 +70,7 @@
           "team": "SEN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsBlocked": [
           2,
