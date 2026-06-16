@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T20:10:54Z",
+  "updated": "2026-06-16T20:11:42Z",
   "live": [
     {
       "id": 49,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "stats": {
@@ -203,7 +203,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Dayot Upamecano",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "FRA"
         }
       }
