@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-16T01:10:38Z",
+  "updated": "2026-06-16T01:11:25Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "E. Just",
+          "minute": 7,
+          "team": "NZL"
+        }
+      ],
       "stats": {
         "yellow": [
           0,
@@ -17,7 +24,7 @@
           0
         ],
         "shotsInside": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
@@ -25,12 +32,12 @@
           0
         ],
         "passesPct": [
-          81,
+          84,
           90
         ],
         "passesTotal": [
-          26,
-          31
+          43,
+          48
         ],
         "corners": [
           0,
@@ -41,7 +48,7 @@
           52
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "shotsBlocked": [
@@ -49,7 +56,7 @@
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           0
         ],
         "fouls": [
@@ -66,11 +73,11 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesAccurate": [
-          21,
-          28
+          36,
+          43
         ],
         "home": "IRN",
         "away": "NZL"
