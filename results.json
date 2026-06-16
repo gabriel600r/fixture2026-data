@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:41:46Z",
+  "updated": "2026-06-16T02:42:33Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 2,
       "away": 2,
       "goals": [
@@ -54,8 +54,8 @@
           86
         ],
         "passesTotal": [
-          320,
-          370
+          325,
+          375
         ],
         "corners": [
           2,
@@ -94,8 +94,8 @@
           1
         ],
         "passesAccurate": [
-          249,
-          320
+          254,
+          323
         ],
         "home": "IRN",
         "away": "NZL"
