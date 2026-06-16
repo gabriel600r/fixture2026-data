@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:21:40Z",
+  "updated": "2026-06-16T22:22:27Z",
   "live": [
     {
       "id": 50,
@@ -18,15 +18,15 @@
         ],
         "shotsTotal": [
           2,
-          0
+          1
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "shotsOn": [
           0,
@@ -38,23 +38,23 @@
         ],
         "shotsInside": [
           2,
-          0
+          1
         ],
         "fouls": [
           2,
           3
         ],
         "passesTotal": [
-          66,
-          120
+          76,
+          128
         ],
         "passesPct": [
-          76,
+          78,
           89
         ],
         "passesAccurate": [
-          50,
-          107
+          59,
+          114
         ],
         "offsides": [
           0,
@@ -70,7 +70,7 @@
         ],
         "shotsOff": [
           2,
-          0
+          1
         ],
         "home": "IRQ",
         "away": "NOR"
