@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T00:01:07Z",
+  "updated": "2026-06-16T00:01:55Z",
   "live": [
     {
       "id": 44,
@@ -39,11 +39,11 @@
         ],
         "shotsInside": [
           4,
-          14
+          15
         ],
         "shotsOutside": [
           3,
-          8
+          9
         ],
         "passesPct": [
           73,
@@ -51,11 +51,11 @@
         ],
         "passesTotal": [
           316,
-          566
+          571
         ],
         "corners": [
           4,
-          8
+          10
         ],
         "possession": [
           35,
@@ -63,7 +63,7 @@
         ],
         "shotsOn": [
           3,
-          8
+          9
         ],
         "shotsBlocked": [
           1,
@@ -71,7 +71,7 @@
         ],
         "shotsTotal": [
           7,
-          22
+          24
         ],
         "fouls": [
           11,
@@ -83,15 +83,15 @@
         ],
         "shotsOff": [
           3,
-          9
+          10
         ],
         "saves": [
-          7,
+          8,
           2
         ],
         "passesAccurate": [
           232,
-          498
+          502
         ],
         "home": "KSA",
         "away": "URU"
