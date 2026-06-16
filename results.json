@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T21:00:34Z",
+  "updated": "2026-06-16T21:01:22Z",
   "live": [
     {
       "id": 49,
@@ -24,6 +24,12 @@
           "player": "I. Mbaye",
           "minute": 90,
           "team": "SEN"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 90,
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "subs": [
@@ -70,7 +76,7 @@
           "team": "SEN"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsBlocked": [
           2,
