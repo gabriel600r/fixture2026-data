@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T01:14:33Z",
+  "updated": "2026-06-16T01:15:20Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 1,
       "goals": [
@@ -33,20 +33,20 @@
           0
         ],
         "passesPct": [
-          84,
-          90
+          85,
+          92
         ],
         "passesTotal": [
-          43,
-          50
+          75,
+          62
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          47,
-          53
+          55,
+          45
         ],
         "shotsOn": [
           1,
@@ -61,7 +61,7 @@
           1
         ],
         "fouls": [
-          0,
+          1,
           1
         ],
         "offsides": [
@@ -77,8 +77,8 @@
           1
         ],
         "passesAccurate": [
-          36,
-          45
+          64,
+          57
         ],
         "home": "IRN",
         "away": "NZL"
@@ -100,13 +100,13 @@
                 "pos": "D"
               },
               {
-                "n": 19,
-                "name": "Ali Nemati",
+                "n": 4,
+                "name": "Shoja Khalilzadeh",
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Shoja Khalilzadeh",
+                "n": 19,
+                "name": "Ali Nemati",
                 "pos": "D"
               },
               {
