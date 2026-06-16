@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:44:00Z",
+  "updated": "2026-06-16T20:44:48Z",
   "live": [
     {
       "id": 49,
@@ -27,6 +27,12 @@
           "in": "H. Diarra",
           "minute": 76,
           "team": "SEN"
+        },
+        {
+          "out": "O. Dembele",
+          "in": "L. Hernandez",
+          "minute": 80,
+          "team": "FRA"
         }
       ],
       "stats": {
