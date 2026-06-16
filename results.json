@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:14:36Z",
+  "updated": "2026-06-16T22:15:23Z",
   "live": [
     {
       "id": 50,
@@ -17,12 +17,12 @@
           0
         ],
         "shotsTotal": [
-          1,
+          2,
           0
         ],
         "possession": [
-          42,
-          58
+          43,
+          57
         ],
         "corners": [
           0,
@@ -37,7 +37,7 @@
           0
         ],
         "shotsInside": [
-          1,
+          2,
           0
         ],
         "fouls": [
@@ -45,16 +45,16 @@
           3
         ],
         "passesTotal": [
-          40,
-          58
+          57,
+          81
         ],
         "passesPct": [
-          75,
-          88
+          77,
+          89
         ],
         "passesAccurate": [
-          30,
-          51
+          44,
+          72
         ],
         "offsides": [
           0,
@@ -69,7 +69,7 @@
           0
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "home": "IRQ",
@@ -112,13 +112,13 @@
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "Amir Al-Ammari",
+                "n": 24,
+                "name": "Zaid Ismail",
                 "pos": "M"
               },
               {
-                "n": 24,
-                "name": "Zaid Ismail",
+                "n": 16,
+                "name": "Amir Al-Ammari",
                 "pos": "M"
               },
               {
