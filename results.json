@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T23:55:01Z",
+  "updated": "2026-06-16T23:55:48Z",
   "live": [
     {
       "id": 50,
@@ -102,7 +102,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           2,
@@ -114,11 +114,11 @@
         ],
         "shotsTotal": [
           11,
-          11
+          12
         ],
         "possession": [
-          40,
-          60
+          37,
+          63
         ],
         "corners": [
           2,
@@ -134,23 +134,23 @@
         ],
         "shotsInside": [
           8,
-          10
+          11
         ],
         "fouls": [
           10,
           12
         ],
         "passesTotal": [
-          297,
-          454
+          300,
+          518
         ],
         "passesPct": [
           80,
-          88
+          89
         ],
         "passesAccurate": [
-          238,
-          400
+          239,
+          462
         ],
         "offsides": [
           1,
@@ -166,7 +166,7 @@
         ],
         "shotsOff": [
           8,
-          3
+          4
         ],
         "home": "IRQ",
         "away": "NOR"
