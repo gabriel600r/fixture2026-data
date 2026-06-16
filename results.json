@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:41:38Z",
+  "updated": "2026-06-16T23:42:25Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 3,
       "goals": [
@@ -80,12 +80,18 @@
           "in": "A. Qasem",
           "minute": 73,
           "team": "IRQ"
+        },
+        {
+          "out": "I. Bayesh",
+          "in": "Meme",
+          "minute": 78,
+          "team": "IRQ"
         }
       ],
       "stats": {
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "saves": [
           1,
@@ -93,7 +99,7 @@
         ],
         "shotsTotal": [
           11,
-          7
+          9
         ],
         "possession": [
           40,
@@ -101,11 +107,11 @@
         ],
         "corners": [
           2,
-          4
+          5
         ],
         "shotsOn": [
           1,
-          3
+          4
         ],
         "shotsOutside": [
           3,
@@ -113,23 +119,23 @@
         ],
         "shotsInside": [
           8,
-          6
+          8
         ],
         "fouls": [
           8,
-          10
+          11
         ],
         "passesTotal": [
-          260,
-          405
+          268,
+          407
         ],
         "passesPct": [
           81,
           88
         ],
         "passesAccurate": [
-          210,
-          358
+          217,
+          360
         ],
         "offsides": [
           1,
