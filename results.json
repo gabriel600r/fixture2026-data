@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:30:38Z",
+  "updated": "2026-06-16T20:31:25Z",
   "live": [
     {
       "id": 49,
@@ -11,7 +11,8 @@
         {
           "player": "K. Mbappe",
           "minute": 66,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "stats": {
