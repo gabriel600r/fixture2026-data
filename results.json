@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:47:56Z",
+  "updated": "2026-06-16T20:48:43Z",
   "live": [
     {
       "id": 49,
@@ -39,6 +39,18 @@
           "in": "B. Barcola",
           "minute": 80,
           "team": "FRA"
+        },
+        {
+          "out": "I. Gueye",
+          "in": "C. Ndiaye",
+          "minute": 83,
+          "team": "SEN"
+        },
+        {
+          "out": "N. Jackson",
+          "in": "B. Dieng",
+          "minute": 83,
+          "team": "SEN"
         }
       ],
       "stats": {
