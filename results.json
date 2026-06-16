@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T22:45:08Z",
+  "updated": "2026-06-16T22:45:55Z",
   "live": [
     {
       "id": 50,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 1,
       "away": 2,
       "goals": [
@@ -32,16 +32,16 @@
           2
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
           4,
-          5
+          7
         ],
         "possession": [
-          39,
-          61
+          38,
+          62
         ],
         "corners": [
           0,
@@ -49,7 +49,7 @@
         ],
         "shotsOn": [
           1,
-          1
+          3
         ],
         "shotsOutside": [
           1,
@@ -57,23 +57,23 @@
         ],
         "shotsInside": [
           3,
-          4
+          6
         ],
         "fouls": [
           4,
           7
         ],
         "passesTotal": [
-          130,
-          208
+          133,
+          228
         ],
         "passesPct": [
-          75,
+          76,
           88
         ],
         "passesAccurate": [
-          98,
-          182
+          101,
+          200
         ],
         "offsides": [
           0,
@@ -158,7 +158,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-4-2",
             "coach": "Stale Solbakken",
             "xi": [
               {
@@ -202,6 +202,11 @@
                 "pos": "M"
               },
               {
+                "n": 20,
+                "name": "Antonio Nusa",
+                "pos": "M"
+              },
+              {
                 "n": 7,
                 "name": "Alexander Sørloth",
                 "pos": "F"
@@ -209,11 +214,6 @@
               {
                 "n": 9,
                 "name": "Erling Haaland",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Antonio Nusa",
                 "pos": "F"
               }
             ]
