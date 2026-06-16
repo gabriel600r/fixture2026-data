@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T23:40:04Z",
+  "updated": "2026-06-16T23:40:51Z",
   "live": [
     {
       "id": 50,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 3,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "L. Ostigard",
           "minute": 77,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "M. Odegaard"
         }
       ],
       "subs": [
@@ -95,8 +96,8 @@
           7
         ],
         "possession": [
-          41,
-          59
+          40,
+          60
         ],
         "corners": [
           2,
@@ -120,7 +121,7 @@
         ],
         "passesTotal": [
           260,
-          380
+          405
         ],
         "passesPct": [
           81,
@@ -128,7 +129,7 @@
         ],
         "passesAccurate": [
           210,
-          336
+          358
         ],
         "offsides": [
           1,
