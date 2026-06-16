@@ -1,37 +1,46 @@
 {
-  "updated": "2026-06-16T02:59:49Z",
+  "updated": "2026-06-16T03:00:36Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 88,
+      "minute": 90,
       "home": 2,
       "away": 2,
       "goals": [
         {
-          "player": "E. Just",
+          "player": "Elijah Just",
           "minute": 7,
           "team": "NZL",
-          "assist": "C. Wood"
+          "assist": "Chris Wood"
         },
         {
-          "player": "R. Rezaeian",
+          "player": "Ramin Rezaeian",
           "minute": 32,
           "team": "IRN"
         },
         {
-          "player": "E. Just",
+          "player": "Elijah Just",
           "minute": 54,
           "team": "NZL",
-          "assist": "C. Wood"
+          "assist": "Chris Wood"
         },
         {
-          "player": "M. Mohebi",
+          "player": "Mohammad Mohebbi",
           "minute": 64,
           "team": "IRN",
-          "assist": "R. Rezaeian"
+          "assist": "Ramin Rezaeian"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "Ehsan Hajisafi",
+          "minute": 89,
+          "team": "IRN",
+          "color": "yellow"
+        }
+      ],
+      "extra": 3,
       "stats": {
         "yellow": [
           1,
@@ -40,22 +49,6 @@
         "red": [
           0,
           0
-        ],
-        "shotsInside": [
-          10,
-          9
-        ],
-        "shotsOutside": [
-          7,
-          4
-        ],
-        "passesPct": [
-          76,
-          85
-        ],
-        "passesTotal": [
-          379,
-          439
         ],
         "corners": [
           3,
@@ -67,7 +60,7 @@
         ],
         "shotsOn": [
           4,
-          7
+          8
         ],
         "shotsBlocked": [
           5,
@@ -75,7 +68,7 @@
         ],
         "shotsTotal": [
           17,
-          13
+          14
         ],
         "fouls": [
           9,
@@ -90,12 +83,8 @@
           4
         ],
         "saves": [
-          5,
+          6,
           2
-        ],
-        "passesAccurate": [
-          289,
-          372
         ],
         "home": "IRN",
         "away": "NZL"
