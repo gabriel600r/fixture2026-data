@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T22:43:34Z",
+  "updated": "2026-06-16T22:44:21Z",
   "live": [
     {
       "id": 50,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "E. Haaland",
@@ -19,6 +19,11 @@
           "minute": 39,
           "team": "IRQ",
           "assist": "A. Al Ammari"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 43,
+          "team": "NOR"
         }
       ],
       "stats": {
