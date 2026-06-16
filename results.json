@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:49:36Z",
+  "updated": "2026-06-16T02:50:24Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 2,
       "away": 2,
       "goals": [
@@ -50,20 +50,20 @@
           4
         ],
         "passesPct": [
-          78,
-          86
+          77,
+          85
         ],
         "passesTotal": [
-          342,
-          401
+          345,
+          411
         ],
         "corners": [
           2,
           1
         ],
         "possession": [
-          47,
-          53
+          46,
+          54
         ],
         "shotsOn": [
           3,
@@ -78,7 +78,7 @@
           12
         ],
         "fouls": [
-          7,
+          8,
           5
         ],
         "offsides": [
@@ -95,7 +95,7 @@
         ],
         "passesAccurate": [
           266,
-          344
+          349
         ],
         "home": "IRN",
         "away": "NZL"
@@ -228,7 +228,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Ramin Rezaeian",
-          "rating": 8.9,
+          "rating": 9.2,
           "team": "IRN"
         }
       }
