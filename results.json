@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T03:02:10Z",
+  "updated": "2026-06-16T03:02:57Z",
   "live": [
     {
       "id": 38,
@@ -40,7 +40,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           1,
@@ -50,8 +50,24 @@
           0,
           0
         ],
+        "shotsInside": [
+          10,
+          10
+        ],
+        "shotsOutside": [
+          7,
+          4
+        ],
+        "passesPct": [
+          77,
+          85
+        ],
+        "passesTotal": [
+          390,
+          445
+        ],
         "corners": [
-          4,
+          3,
           1
         ],
         "possession": [
@@ -85,6 +101,10 @@
         "saves": [
           6,
           2
+        ],
+        "passesAccurate": [
+          299,
+          377
         ],
         "home": "IRN",
         "away": "NZL"
