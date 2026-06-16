@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T02:14:14Z",
+  "updated": "2026-06-16T02:15:02Z",
   "live": [
     {
       "id": 38,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 1,
       "away": 1,
       "goals": [
@@ -43,7 +43,7 @@
           87
         ],
         "passesTotal": [
-          238,
+          239,
           250
         ],
         "corners": [
@@ -83,7 +83,7 @@
           1
         ],
         "passesAccurate": [
-          191,
+          192,
           218
         ],
         "home": "IRN",
