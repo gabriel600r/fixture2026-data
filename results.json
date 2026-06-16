@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T01:13:46Z",
+  "updated": "2026-06-16T01:14:33Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 1,
       "goals": [
@@ -26,7 +26,7 @@
         ],
         "shotsInside": [
           1,
-          0
+          1
         ],
         "shotsOutside": [
           0,
@@ -38,19 +38,19 @@
         ],
         "passesTotal": [
           43,
-          48
+          50
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          48,
-          52
+          47,
+          53
         ],
         "shotsOn": [
           1,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
@@ -58,7 +58,7 @@
         ],
         "shotsTotal": [
           1,
-          0
+          1
         ],
         "fouls": [
           0,
@@ -78,7 +78,7 @@
         ],
         "passesAccurate": [
           36,
-          43
+          45
         ],
         "home": "IRN",
         "away": "NZL"
