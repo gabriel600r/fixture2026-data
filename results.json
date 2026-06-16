@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T01:53:45Z",
+  "updated": "2026-06-16T01:54:32Z",
   "live": [
     {
       "id": 38,
@@ -21,7 +21,7 @@
           "assist": "S. Moghanlou"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           0,
@@ -32,7 +32,7 @@
           0
         ],
         "shotsInside": [
-          4,
+          5,
           6
         ],
         "shotsOutside": [
@@ -41,11 +41,11 @@
         ],
         "passesPct": [
           81,
-          89
+          88
         ],
         "passesTotal": [
-          222,
-          243
+          230,
+          246
         ],
         "corners": [
           0,
@@ -64,7 +64,7 @@
           2
         ],
         "shotsTotal": [
-          6,
+          7,
           9
         ],
         "fouls": [
@@ -76,7 +76,7 @@
           0
         ],
         "shotsOff": [
-          3,
+          4,
           2
         ],
         "saves": [
@@ -84,8 +84,8 @@
           1
         ],
         "passesAccurate": [
-          180,
-          216
+          187,
+          217
         ],
         "home": "IRN",
         "away": "NZL"
