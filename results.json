@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-16T19:30:42Z",
+  "updated": "2026-06-16T19:31:30Z",
   "live": [
     {
       "id": 49,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 0,
       "stats": {
@@ -18,7 +18,7 @@
         ],
         "shotsTotal": [
           1,
-          1
+          2
         ],
         "possession": [
           61,
@@ -26,7 +26,7 @@
         ],
         "corners": [
           2,
-          1
+          2
         ],
         "shotsOn": [
           0,
@@ -38,7 +38,7 @@
         ],
         "shotsInside": [
           0,
-          1
+          2
         ],
         "fouls": [
           2,
@@ -70,7 +70,7 @@
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "home": "FRA",
         "away": "SEN"
