@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-16T01:36:31Z",
+  "updated": "2026-06-16T01:37:18Z",
   "live": [
     {
       "id": 38,
       "status": "1H",
-      "minute": 29,
-      "home": 0,
+      "minute": 34,
+      "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "E. Just",
+          "player": "Elijah Just",
           "minute": 7,
           "team": "NZL",
-          "assist": "C. Wood"
+          "assist": "Chris Wood"
+        },
+        {
+          "player": "Ramin Rezaeian",
+          "minute": 32,
+          "team": "IRN"
         }
       ],
       "stats": {
@@ -33,20 +38,20 @@
           1
         ],
         "passesPct": [
-          83,
-          90
+          84,
+          88
         ],
         "passesTotal": [
-          146,
-          155
+          170,
+          161
         ],
         "corners": [
           0,
           1
         ],
         "possession": [
-          49,
-          51
+          52,
+          48
         ],
         "shotsOn": [
           1,
@@ -54,7 +59,7 @@
         ],
         "shotsBlocked": [
           0,
-          2
+          1
         ],
         "shotsTotal": [
           4,
@@ -70,15 +75,15 @@
         ],
         "shotsOff": [
           3,
-          2
+          3
         ],
         "saves": [
           2,
           1
         ],
         "passesAccurate": [
-          121,
-          139
+          142,
+          141
         ],
         "home": "IRN",
         "away": "NZL"
