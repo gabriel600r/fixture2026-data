@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:47:29Z",
+  "updated": "2026-06-16T22:48:15Z",
   "live": [
     {
       "id": 50,
@@ -26,7 +26,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsBlocked": [
           0,
