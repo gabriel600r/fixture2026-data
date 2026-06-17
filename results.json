@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T23:17:09Z",
+  "updated": "2026-06-17T23:17:57Z",
   "live": [
     {
       "id": 68,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -115,8 +115,8 @@
                 "pos": "D"
               },
               {
-                "n": 11,
-                "name": "Antoine Semenyo",
+                "n": 24,
+                "name": "Ernest Nuamah",
                 "pos": "M"
               },
               {
@@ -130,8 +130,8 @@
                 "pos": "M"
               },
               {
-                "n": 24,
-                "name": "Ernest Nuamah",
+                "n": 11,
+                "name": "Antoine Semenyo",
                 "pos": "M"
               },
               {
@@ -147,18 +147,13 @@
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "3-4-3",
             "coach": "Thomas Christiansen",
             "xi": [
               {
                 "n": 22,
                 "name": "Orlando Mosquera",
                 "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "César Blackman",
-                "pos": "D"
               },
               {
                 "n": 13,
@@ -186,23 +181,28 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Cristian Martínez",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "José Luis Rodríguez",
-                "pos": "M"
-              },
-              {
                 "n": 11,
                 "name": "Yoel Bárcenas",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "César Blackman",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Cristian Martínez",
                 "pos": "F"
               },
               {
                 "n": 18,
                 "name": "Cecilio Waterman",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "José Luis Rodríguez",
                 "pos": "F"
               }
             ]
