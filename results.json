@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T20:36:37Z",
+  "updated": "2026-06-17T20:37:24Z",
   "live": [
     {
       "id": 67,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "M. Baturina",
           "minute": 36,
-          "team": "CRO"
+          "team": "CRO",
+          "assist": "P. Sucic"
         }
       ],
       "stats": {
