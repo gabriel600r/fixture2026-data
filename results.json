@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T18:46:56Z",
+  "updated": "2026-06-17T18:47:43Z",
   "live": [
     {
       "id": 61,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -71,6 +71,12 @@
           "in": "J. Kayembe",
           "minute": 74,
           "team": "COD"
+        },
+        {
+          "out": "Vitinha",
+          "in": "G. Ramos",
+          "minute": 83,
+          "team": "POR"
         }
       ],
       "stats": {
