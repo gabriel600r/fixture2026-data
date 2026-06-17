@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-17T20:11:31Z",
+  "updated": "2026-06-17T20:12:18Z",
   "live": [
     {
       "id": 67,
       "status": "1H",
       "minute": 12,
-      "home": 0,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "H. Kane",
+          "minute": 11,
+          "team": "ENG",
+          "pen": true
+        }
+      ],
       "stats": {
         "shotsOutside": [
           0,
