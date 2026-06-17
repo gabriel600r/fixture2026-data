@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T20:45:15Z",
+  "updated": "2026-06-17T20:46:02Z",
   "live": [
     {
       "id": 67,
@@ -27,6 +27,7 @@
           "assist": "D. Rice"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOutside": [
           1,
