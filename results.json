@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T05:23:20Z",
+  "updated": "2026-06-17T05:24:08Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
       "away": 1,
       "goals": [
@@ -26,6 +26,24 @@
           "out": "Sasa Kalajdzic",
           "in": "Marko Arnautović",
           "minute": 45,
+          "team": "AUT"
+        },
+        {
+          "out": "Phillipp Mwene",
+          "in": "Paul Wanner",
+          "minute": 59,
+          "team": "AUT"
+        },
+        {
+          "out": "Xaver Schlager",
+          "in": "Carney Chukwuemeka",
+          "minute": 59,
+          "team": "AUT"
+        },
+        {
+          "out": "David Alaba",
+          "in": "Kevin Danso",
+          "minute": 59,
           "team": "AUT"
         }
       ],
