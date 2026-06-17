@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:44:16Z",
+  "updated": "2026-06-17T21:45:05Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 3,
       "away": 2,
       "goals": [
@@ -79,7 +79,7 @@
         {
           "out": "M. Baturina",
           "in": "N. Vlasic",
-          "minute": 79,
+          "minute": 78,
           "team": "CRO"
         },
         {
@@ -87,6 +87,12 @@
           "in": "A. Kramaric",
           "minute": 79,
           "team": "CRO"
+        },
+        {
+          "out": "J. Bellingham",
+          "in": "D. Spence",
+          "minute": 80,
+          "team": "ENG"
         }
       ],
       "stats": {
