@@ -1,31 +1,30 @@
 {
-  "updated": "2026-06-17T05:20:59Z",
+  "updated": "2026-06-17T05:21:46Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 55,
+      "minute": 57,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "R. Schmid",
+          "player": "Romano Schmid",
           "minute": 20,
           "team": "AUT",
-          "assist": "X. Schlager"
+          "assist": "Xaver Schlager"
         },
         {
-          "player": "A. Olwan",
+          "player": "Ali Olwan",
           "minute": 50,
-          "team": "JOR",
-          "assist": "N. Al Rawabdeh"
+          "team": "JOR"
         }
       ],
       "subs": [
         {
-          "out": "S. Kalajdzic",
-          "in": "M. Arnautovic",
-          "minute": 46,
+          "out": "Sasa Kalajdzic",
+          "in": "Marko Arnautović",
+          "minute": 45,
           "team": "AUT"
         }
       ],
@@ -67,16 +66,16 @@
           3
         ],
         "passesTotal": [
-          340,
-          184
+          368,
+          201
         ],
         "passesPct": [
           85,
           76
         ],
         "passesAccurate": [
-          288,
-          139
+          313,
+          153
         ],
         "offsides": [
           2,
