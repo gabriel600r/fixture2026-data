@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T05:31:59Z",
+  "updated": "2026-06-17T05:32:46Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 67,
-      "home": 1,
+      "minute": 68,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -19,6 +19,11 @@
           "minute": 50,
           "team": "JOR",
           "assist": "N. Al Rawabdeh"
+        },
+        {
+          "player": "M. Arnautovic",
+          "minute": 67,
+          "team": "AUT"
         }
       ],
       "subs": [
@@ -49,7 +54,7 @@
       ],
       "stats": {
         "shotsBlocked": [
-          2,
+          1,
           2
         ],
         "saves": [
@@ -69,7 +74,7 @@
           3
         ],
         "shotsOn": [
-          1,
+          2,
           4
         ],
         "shotsOutside": [
@@ -85,7 +90,7 @@
           6
         ],
         "passesTotal": [
-          431,
+          437,
           232
         ],
         "passesPct": [
@@ -93,12 +98,12 @@
           75
         ],
         "passesAccurate": [
-          366,
+          371,
           173
         ],
         "offsides": [
           2,
-          0
+          1
         ],
         "red": [
           0,
