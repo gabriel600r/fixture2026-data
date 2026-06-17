@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T18:39:51Z",
+  "updated": "2026-06-17T18:40:38Z",
   "live": [
     {
       "id": 61,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -63,13 +63,13 @@
         {
           "out": "E. Kayembe",
           "in": "C. Pickel",
-          "minute": 75,
+          "minute": 74,
           "team": "COD"
         },
         {
           "out": "A. Masuaku",
           "in": "J. Kayembe",
-          "minute": 75,
+          "minute": 74,
           "team": "COD"
         }
       ],
