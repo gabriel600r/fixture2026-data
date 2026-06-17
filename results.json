@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T04:48:03Z",
+  "updated": "2026-06-17T04:48:50Z",
   "live": [
     {
       "id": 56,
@@ -15,10 +15,11 @@
           "assist": "X. Schlager"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           1,
-          1
+          2
         ],
         "saves": [
           3,
@@ -26,15 +27,15 @@
         ],
         "shotsTotal": [
           5,
-          6
+          7
         ],
         "possession": [
-          66,
-          34
+          64,
+          36
         ],
         "corners": [
           1,
-          2
+          3
         ],
         "shotsOn": [
           1,
@@ -42,27 +43,27 @@
         ],
         "shotsOutside": [
           3,
-          2
+          3
         ],
         "shotsInside": [
           2,
           4
         ],
         "fouls": [
-          6,
+          7,
           2
         ],
         "passesTotal": [
           259,
-          135
+          145
         ],
         "passesPct": [
-          86,
+          87,
           77
         ],
         "passesAccurate": [
-          224,
-          104
+          225,
+          111
         ],
         "offsides": [
           2,
