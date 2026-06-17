@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-17T05:24:55Z",
+  "updated": "2026-06-17T05:25:42Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "Romano Schmid",
-          "minute": 20,
+          "minute": 21,
           "team": "AUT",
           "assist": "Xaver Schlager"
         },
@@ -61,8 +61,8 @@
           10
         ],
         "possession": [
-          64,
-          36
+          63,
+          37
         ],
         "corners": [
           1,
@@ -82,19 +82,19 @@
         ],
         "fouls": [
           7,
-          4
+          6
         ],
         "passesTotal": [
-          383,
-          211
+          396,
+          222
         ],
         "passesPct": [
           85,
-          77
+          76
         ],
         "passesAccurate": [
-          325,
-          163
+          335,
+          169
         ],
         "offsides": [
           2,
