@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:51:40Z",
+  "updated": "2026-06-17T18:52:28Z",
   "live": [
     {
       "id": 61,
@@ -125,11 +125,11 @@
           1
         ],
         "possession": [
-          76,
-          24
+          77,
+          23
         ],
         "passesTotal": [
-          725,
+          740,
           219
         ],
         "shotsInside": [
@@ -145,7 +145,7 @@
           2
         ],
         "passesAccurate": [
-          673,
+          686,
           171
         ],
         "red": [
@@ -287,7 +287,7 @@
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
           "player": "João Neves",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "POR"
         }
       }
