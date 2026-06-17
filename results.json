@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T02:39:26Z",
+  "updated": "2026-06-17T02:40:13Z",
   "live": [
     {
       "id": 55,
       "status": "2H",
-      "minute": 76,
-      "home": 2,
+      "minute": 77,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -18,6 +18,12 @@
           "player": "L. Messi",
           "minute": 60,
           "team": "ARG"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 76,
+          "team": "ARG",
+          "assist": "N. Gonzalez"
         }
       ],
       "subs": [
