@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T06:07:26Z",
+  "updated": "2026-06-17T06:08:13Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
       "minute": 90,
-      "home": 2,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -25,6 +25,12 @@
           "minute": 76,
           "team": "AUT",
           "og": true
+        },
+        {
+          "player": "M. Arnautovic",
+          "minute": 90,
+          "team": "AUT",
+          "pen": true
         }
       ],
       "cardEvents": [
@@ -97,7 +103,7 @@
           "team": "JOR"
         }
       ],
-      "extra": 12,
+      "extra": 13,
       "stats": {
         "shotsBlocked": [
           1,
