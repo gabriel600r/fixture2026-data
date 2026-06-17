@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:49:48Z",
+  "updated": "2026-06-17T21:50:35Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 4,
       "away": 2,
       "goals": [
@@ -41,7 +41,8 @@
         {
           "player": "M. Rashford",
           "minute": 85,
-          "team": "ENG"
+          "team": "ENG",
+          "assist": "B. Saka"
         }
       ],
       "subs": [
@@ -103,27 +104,27 @@
       "stats": {
         "shotsOutside": [
           2,
-          4
+          5
         ],
         "corners": [
           8,
           1
         ],
         "fouls": [
-          8,
+          9,
           10
         ],
         "shotsTotal": [
           20,
-          7
+          8
         ],
         "shotsBlocked": [
           5,
           0
         ],
         "saves": [
-          2,
-          6
+          3,
+          7
         ],
         "shotsOff": [
           5,
@@ -134,19 +135,19 @@
           0
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "passesTotal": [
-          415,
-          358
+          418,
+          383
         ],
         "shotsInside": [
           18,
           3
         ],
         "passesPct": [
-          86,
+          85,
           85
         ],
         "offsides": [
@@ -154,8 +155,8 @@
           1
         ],
         "passesAccurate": [
-          355,
-          304
+          356,
+          324
         ],
         "red": [
           0,
@@ -163,7 +164,7 @@
         ],
         "shotsOn": [
           10,
-          4
+          5
         ],
         "home": "ENG",
         "away": "CRO"
