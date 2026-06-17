@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T05:42:11Z",
+  "updated": "2026-06-17T05:42:58Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 2,
       "away": 1,
       "goals": [
@@ -21,9 +21,10 @@
           "assist": "N. Al Rawabdeh"
         },
         {
-          "player": "M. Arnautovic",
+          "player": "Y. Al Arab",
           "minute": 77,
-          "team": "AUT"
+          "team": "AUT",
+          "og": true
         }
       ],
       "subs": [
@@ -76,7 +77,7 @@
           34
         ],
         "corners": [
-          2,
+          3,
           3
         ],
         "shotsOn": [
@@ -96,15 +97,15 @@
           6
         ],
         "passesTotal": [
-          455,
-          234
+          458,
+          235
         ],
         "passesPct": [
           85,
           74
         ],
         "passesAccurate": [
-          388,
+          389,
           174
         ],
         "offsides": [
