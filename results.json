@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T04:51:57Z",
+  "updated": "2026-06-17T04:52:44Z",
   "live": [
     {
       "id": 56,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 0,
       "goals": [
@@ -15,7 +15,7 @@
           "assist": "X. Schlager"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           1,
@@ -27,11 +27,11 @@
         ],
         "shotsTotal": [
           5,
-          7
+          8
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "corners": [
           1,
@@ -47,23 +47,23 @@
         ],
         "shotsInside": [
           2,
-          4
+          5
         ],
         "fouls": [
           7,
-          2
+          3
         ],
         "passesTotal": [
-          261,
-          155
+          280,
+          161
         ],
         "passesPct": [
-          87,
+          86,
           76
         ],
         "passesAccurate": [
-          226,
-          118
+          241,
+          122
         ],
         "offsides": [
           2,
@@ -79,7 +79,7 @@
         ],
         "shotsOff": [
           3,
-          2
+          3
         ],
         "home": "AUT",
         "away": "JOR"
