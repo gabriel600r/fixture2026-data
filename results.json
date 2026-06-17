@@ -1,311 +1,6 @@
 {
-  "updated": "2026-06-17T18:58:48Z",
-  "live": [
-    {
-      "id": 61,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "J. Neves",
-          "minute": 6,
-          "team": "POR",
-          "assist": "P. Neto"
-        },
-        {
-          "player": "Y. Wissa",
-          "minute": 45,
-          "team": "COD",
-          "assist": "A. Masuaku"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "B. Silva",
-          "minute": 13,
-          "team": "POR",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Mbemba",
-          "minute": 32,
-          "team": "COD",
-          "color": "yellow"
-        },
-        {
-          "player": "N. Semedo",
-          "minute": 88,
-          "team": "POR",
-          "color": "yellow"
-        },
-        {
-          "player": "T. Araujo",
-          "minute": 90,
-          "team": "POR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "B. Silva",
-          "in": "F. Conceicao",
-          "minute": 46,
-          "team": "POR"
-        },
-        {
-          "out": "N. Mukau",
-          "in": "N. Sadiki",
-          "minute": 57,
-          "team": "COD"
-        },
-        {
-          "out": "P. Neto",
-          "in": "R. Leao",
-          "minute": 71,
-          "team": "POR"
-        },
-        {
-          "out": "N. Mendes",
-          "in": "N. Semedo",
-          "minute": 72,
-          "team": "POR"
-        },
-        {
-          "out": "E. Kayembe",
-          "in": "C. Pickel",
-          "minute": 74,
-          "team": "COD"
-        },
-        {
-          "out": "A. Masuaku",
-          "in": "J. Kayembe",
-          "minute": 74,
-          "team": "COD"
-        },
-        {
-          "out": "Vitinha",
-          "in": "G. Ramos",
-          "minute": 83,
-          "team": "POR"
-        },
-        {
-          "out": "C. Bakambu",
-          "in": "S. Banza",
-          "minute": 85,
-          "team": "COD"
-        },
-        {
-          "out": "A. Wan-Bissaka",
-          "in": "G. Kalulu",
-          "minute": 85,
-          "team": "COD"
-        }
-      ],
-      "extra": 4,
-      "stats": {
-        "shotsOutside": [
-          2,
-          6
-        ],
-        "corners": [
-          4,
-          4
-        ],
-        "fouls": [
-          8,
-          10
-        ],
-        "shotsTotal": [
-          6,
-          8
-        ],
-        "shotsBlocked": [
-          2,
-          3
-        ],
-        "saves": [
-          1,
-          0
-        ],
-        "shotsOff": [
-          3,
-          3
-        ],
-        "yellow": [
-          2,
-          1
-        ],
-        "possession": [
-          75,
-          25
-        ],
-        "passesTotal": [
-          771,
-          246
-        ],
-        "shotsInside": [
-          4,
-          2
-        ],
-        "passesPct": [
-          92,
-          79
-        ],
-        "offsides": [
-          3,
-          2
-        ],
-        "passesAccurate": [
-          713,
-          194
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          1,
-          2
-        ],
-        "home": "POR",
-        "away": "COD"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Roberto Martinez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Diogo Costa",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "João Cancelo",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Tomás Araújo",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Renato Veiga",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nuno Mendes",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "João Neves",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Vitinha",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Bernardo Silva",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Fernandes",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Pedro Neto",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Cristiano Ronaldo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-3-2",
-            "coach": "Sebastien Desabre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Lionel Mpasi Nzau",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Aaron Wan-Bissaka",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Chancel Mbemba",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Axel Tuanzebe",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Steve Kapuadi",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Arthur Masuaku",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Ngal'ayel Mukau",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Samuel Moutoussamy",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Edo Kayembe",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Yoane Wissa",
-                "pos": "F"
-              },
-              {
-                "n": 17,
-                "name": "Cédric Bakambu",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Abdulrahman Al-Jassim, Qatar",
-        "motm": {
-          "player": "João Neves",
-          "rating": 8.0,
-          "team": "POR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-17T18:59:34Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -6354,6 +6049,307 @@
           "team": "JOR"
         }
       }
+    },
+    {
+      "id": 61,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. Neves",
+          "minute": 6,
+          "team": "POR",
+          "assist": "P. Neto"
+        },
+        {
+          "player": "Y. Wissa",
+          "minute": 45,
+          "team": "COD",
+          "assist": "A. Masuaku"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "B. Silva",
+          "minute": 13,
+          "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Mbemba",
+          "minute": 32,
+          "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Semedo",
+          "minute": 88,
+          "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "T. Araujo",
+          "minute": 90,
+          "team": "POR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "B. Silva",
+          "in": "F. Conceicao",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "N. Mukau",
+          "in": "N. Sadiki",
+          "minute": 57,
+          "team": "COD"
+        },
+        {
+          "out": "P. Neto",
+          "in": "R. Leao",
+          "minute": 71,
+          "team": "POR"
+        },
+        {
+          "out": "N. Mendes",
+          "in": "N. Semedo",
+          "minute": 72,
+          "team": "POR"
+        },
+        {
+          "out": "E. Kayembe",
+          "in": "C. Pickel",
+          "minute": 74,
+          "team": "COD"
+        },
+        {
+          "out": "A. Masuaku",
+          "in": "J. Kayembe",
+          "minute": 74,
+          "team": "COD"
+        },
+        {
+          "out": "Vitinha",
+          "in": "G. Ramos",
+          "minute": 83,
+          "team": "POR"
+        },
+        {
+          "out": "C. Bakambu",
+          "in": "S. Banza",
+          "minute": 85,
+          "team": "COD"
+        },
+        {
+          "out": "A. Wan-Bissaka",
+          "in": "G. Kalulu",
+          "minute": 85,
+          "team": "COD"
+        }
+      ],
+      "stats": {
+        "shotsOutside": [
+          2,
+          6
+        ],
+        "corners": [
+          4,
+          4
+        ],
+        "fouls": [
+          8,
+          10
+        ],
+        "shotsTotal": [
+          6,
+          8
+        ],
+        "shotsBlocked": [
+          2,
+          3
+        ],
+        "saves": [
+          1,
+          0
+        ],
+        "shotsOff": [
+          3,
+          3
+        ],
+        "yellow": [
+          2,
+          1
+        ],
+        "possession": [
+          75,
+          25
+        ],
+        "passesTotal": [
+          771,
+          246
+        ],
+        "shotsInside": [
+          4,
+          2
+        ],
+        "passesPct": [
+          92,
+          79
+        ],
+        "offsides": [
+          3,
+          2
+        ],
+        "passesAccurate": [
+          713,
+          194
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          1,
+          2
+        ],
+        "home": "POR",
+        "away": "COD"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Tomás Araújo",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Bernardo Silva",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-3-2",
+            "coach": "Sebastien Desabre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Lionel Mpasi Nzau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Aaron Wan-Bissaka",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Chancel Mbemba",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Axel Tuanzebe",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Steve Kapuadi",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Arthur Masuaku",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ngal'ayel Mukau",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Samuel Moutoussamy",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Edo Kayembe",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Yoane Wissa",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "Cédric Bakambu",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Abdulrahman Al-Jassim, Qatar",
+        "motm": {
+          "player": "João Neves",
+          "rating": 8.0,
+          "team": "POR"
+        }
+      }
     }
   ],
   "stats": {
@@ -6549,6 +6545,11 @@
         "assists": 1
       },
       {
+        "player": "A. Masuaku",
+        "team": "COD",
+        "assists": 1
+      },
+      {
         "player": "A. Rabiot",
         "team": "FRA",
         "assists": 1
@@ -6664,11 +6665,6 @@
         "player": "P. David",
         "team": "CAN",
         "assists": 1
-      },
-      {
-        "player": "P. Okon-Engstler",
-        "team": "AUS",
-        "assists": 1
       }
     ],
     "cards": [
@@ -6721,8 +6717,20 @@
         "yellow": 1
       },
       {
+        "player": "B. Silva",
+        "team": "POR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Brian Gutiérrez",
         "team": "MEX",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "C. Mbemba",
+        "team": "COD",
         "red": 0,
         "yellow": 1
       },
@@ -6837,18 +6845,6 @@
       {
         "player": "M. Abunada",
         "team": "QAT",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "M. Attia",
-        "team": "EGY",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "M. De Cuyper",
-        "team": "BEL",
         "red": 0,
         "yellow": 1
       }
@@ -7235,6 +7231,34 @@
     },
     {
       "code": "URU",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "POR",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "loses": 0,
+      "gf": 1,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "D"
+    },
+    {
+      "code": "COD",
       "played": 1,
       "wins": 0,
       "draws": 1,
