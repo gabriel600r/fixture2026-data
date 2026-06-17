@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T19:00:21Z",
+  "updated": "2026-06-17T19:01:09Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
@@ -13,7 +13,132 @@
           "home": 45,
           "draw": 45,
           "away": 10
-        }
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Thomas Tuchel",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Jordan Pickford",
+                "pos": "G"
+              },
+              {
+                "n": 24,
+                "name": "Reece James",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ezri Konsa",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "John Stones",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nico O'Reilly",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Elliot Anderson",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Declan Rice",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Noni Madueke",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jude Bellingham",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Anthony Gordon",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Harry Kane",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Zlatko Dalic",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Dominik Livaković",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Josip Šutalo",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Luka Vušković",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Joško Gvardiol",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Josip Stanišić",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Luka Modrić",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Petar Sučić",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Perišić",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Mario Pašalić",
+                "pos": "F"
+              },
+              {
+                "n": 16,
+                "name": "Martin Baturina",
+                "pos": "F"
+              },
+              {
+                "n": 26,
+                "name": "Petar Musa",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Clement Turpin, France"
       }
     }
   ],
