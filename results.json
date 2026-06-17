@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-17T20:35:50Z",
+  "updated": "2026-06-17T20:36:37Z",
   "live": [
     {
       "id": 67,
       "status": "1H",
-      "minute": 36,
+      "minute": 37,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "H. Kane",
           "minute": 12,
           "team": "ENG",
           "pen": true
+        },
+        {
+          "player": "M. Baturina",
+          "minute": 36,
+          "team": "CRO"
         }
       ],
       "stats": {
@@ -25,11 +30,11 @@
           1
         ],
         "fouls": [
-          2,
+          3,
           4
         ],
         "shotsTotal": [
-          6,
+          7,
           1
         ],
         "shotsBlocked": [
@@ -41,7 +46,7 @@
           0
         ],
         "shotsOff": [
-          1,
+          2,
           1
         ],
         "yellow": [
@@ -49,19 +54,19 @@
           0
         ],
         "possession": [
-          53,
-          47
+          51,
+          49
         ],
         "passesTotal": [
-          151,
-          133
+          164,
+          154
         ],
         "shotsInside": [
-          5,
+          6,
           1
         ],
         "passesPct": [
-          84,
+          83,
           86
         ],
         "offsides": [
@@ -69,8 +74,8 @@
           0
         ],
         "passesAccurate": [
-          127,
-          114
+          136,
+          132
         ],
         "red": [
           0,
