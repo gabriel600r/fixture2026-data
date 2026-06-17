@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-17T17:07:13Z",
+  "updated": "2026-06-17T17:08:00Z",
   "live": [
     {
       "id": 61,
       "status": "1H",
-      "minute": 6,
-      "home": 0,
+      "minute": 7,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "J. Neves",
+          "minute": 6,
+          "team": "POR",
+          "assist": "P. Neto"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           0,
