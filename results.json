@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T05:37:29Z",
+  "updated": "2026-06-17T05:38:16Z",
   "live": [
     {
       "id": 56,
@@ -9,42 +9,48 @@
       "away": 1,
       "goals": [
         {
-          "player": "R. Schmid",
+          "player": "Romano Schmid",
           "minute": 21,
           "team": "AUT",
-          "assist": "X. Schlager"
+          "assist": "Xaver Schlager"
         },
         {
-          "player": "A. Olwan",
+          "player": "Ali Olwan",
           "minute": 50,
           "team": "JOR",
-          "assist": "N. Al Rawabdeh"
+          "assist": "Noor Al-Rawabdeh"
         }
       ],
       "subs": [
         {
-          "out": "S. Kalajdzic",
-          "in": "M. Arnautovic",
-          "minute": 46,
+          "out": "Sasa Kalajdzic",
+          "in": "Marko Arnautović",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "X. Schlager",
-          "in": "C. Chukwuemeka",
+          "out": "Phillipp Mwene",
+          "in": "Paul Wanner",
           "minute": 59,
           "team": "AUT"
         },
         {
-          "out": "D. Alaba",
-          "in": "K. Danso",
+          "out": "Xaver Schlager",
+          "in": "Carney Chukwuemeka",
           "minute": 59,
           "team": "AUT"
         },
         {
-          "out": "P. Mwene",
-          "in": "P. Wanner",
+          "out": "David Alaba",
+          "in": "Kevin Danso",
           "minute": 59,
           "team": "AUT"
+        },
+        {
+          "out": "Mohammad Abualnadi",
+          "in": "Saleem Obaid",
+          "minute": 72,
+          "team": "JOR"
         }
       ],
       "stats": {
@@ -57,7 +63,7 @@
           0
         ],
         "shotsTotal": [
-          10,
+          8,
           10
         ],
         "possession": [
@@ -69,32 +75,12 @@
           3
         ],
         "shotsOn": [
-          3,
+          2,
           4
         ],
-        "shotsOutside": [
-          4,
-          3
-        ],
-        "shotsInside": [
-          6,
-          7
-        ],
         "fouls": [
-          8,
+          9,
           6
-        ],
-        "passesTotal": [
-          455,
-          234
-        ],
-        "passesPct": [
-          85,
-          74
-        ],
-        "passesAccurate": [
-          388,
-          174
         ],
         "offsides": [
           2,
@@ -109,7 +95,7 @@
           0
         ],
         "shotsOff": [
-          6,
+          5,
           4
         ],
         "home": "AUT",
@@ -243,7 +229,7 @@
         "referee": "Dahane Beida, Mauritania",
         "motm": {
           "player": "Ali Olwan",
-          "rating": 7.9,
+          "rating": 7.83,
           "team": "JOR"
         }
       }
