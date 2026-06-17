@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T04:26:07Z",
+  "updated": "2026-06-17T04:26:54Z",
   "live": [
     {
       "id": 56,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 1,
       "away": 0,
       "goals": [
@@ -26,15 +26,15 @@
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "possession": [
-          76,
-          24
+          73,
+          27
         ],
         "corners": [
           1,
-          1
+          2
         ],
         "shotsOn": [
           1,
@@ -58,7 +58,7 @@
         ],
         "shotsOff": [
           1,
-          1
+          2
         ],
         "home": "AUT",
         "away": "JOR"
