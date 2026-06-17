@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T18:20:53Z",
+  "updated": "2026-06-17T18:21:41Z",
   "live": [
     {
       "id": 61,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 1,
       "goals": [
@@ -41,6 +41,12 @@
           "in": "F. Conceicao",
           "minute": 46,
           "team": "POR"
+        },
+        {
+          "out": "N. Mukau",
+          "in": "N. Sadiki",
+          "minute": 57,
+          "team": "COD"
         }
       ],
       "stats": {
