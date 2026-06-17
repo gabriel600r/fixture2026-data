@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:37:13Z",
+  "updated": "2026-06-17T21:38:00Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 3,
       "away": 2,
       "goals": [
@@ -60,14 +60,20 @@
         },
         {
           "out": "A. Gordon",
-          "in": "M. Rogers",
+          "in": "M. Rashford",
           "minute": 72,
           "team": "ENG"
         },
         {
           "out": "N. Madueke",
           "in": "B. Saka",
-          "minute": 73,
+          "minute": 72,
+          "team": "ENG"
+        },
+        {
+          "out": "D. Rice",
+          "in": "M. Rogers",
+          "minute": 72,
           "team": "ENG"
         }
       ],
@@ -94,10 +100,10 @@
         ],
         "saves": [
           0,
-          7
+          6
         ],
         "shotsOff": [
-          4,
+          5,
           2
         ],
         "yellow": [
@@ -133,7 +139,7 @@
           0
         ],
         "shotsOn": [
-          10,
+          9,
           2
         ],
         "home": "ENG",
