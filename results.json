@@ -1,316 +1,6 @@
 {
-  "updated": "2026-06-17T00:04:32Z",
-  "live": [
-    {
-      "id": 50,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 4,
-      "goals": [
-        {
-          "player": "E. Haaland",
-          "minute": 29,
-          "team": "NOR",
-          "assist": "D. Wolfe"
-        },
-        {
-          "player": "A. Hussein",
-          "minute": 39,
-          "team": "IRQ",
-          "assist": "A. Al Ammari"
-        },
-        {
-          "player": "E. Haaland",
-          "minute": 43,
-          "team": "NOR"
-        },
-        {
-          "player": "L. Ostigard",
-          "minute": 76,
-          "team": "NOR",
-          "assist": "M. Odegaard"
-        },
-        {
-          "player": "A. Hussein",
-          "minute": 90,
-          "team": "NOR",
-          "og": true
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Z. Tahseen",
-          "minute": 86,
-          "team": "IRQ",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Z. Ismaeel",
-          "in": "Z. Iqbal",
-          "minute": 59,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Al Hamadi",
-          "in": "M. Farji",
-          "minute": 59,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Nusa",
-          "in": "A. Schjelderup",
-          "minute": 73,
-          "team": "NOR"
-        },
-        {
-          "out": "F. Aursnes",
-          "in": "K. Thorstvedt",
-          "minute": 73,
-          "team": "NOR"
-        },
-        {
-          "out": "D. Wolfe",
-          "in": "L. Ostigard",
-          "minute": 73,
-          "team": "NOR"
-        },
-        {
-          "out": "A. Sorloth",
-          "in": "O. Bobb",
-          "minute": 73,
-          "team": "NOR"
-        },
-        {
-          "out": "H. Ali",
-          "in": "M. Saadoon",
-          "minute": 73,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Jasim",
-          "in": "A. Qasem",
-          "minute": 73,
-          "team": "IRQ"
-        },
-        {
-          "out": "I. Bayesh",
-          "in": "Meme",
-          "minute": 78,
-          "team": "IRQ"
-        },
-        {
-          "out": "M. Odegaard",
-          "in": "P. Berg",
-          "minute": 81,
-          "team": "NOR"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "shotsBlocked": [
-          2,
-          3
-        ],
-        "saves": [
-          2,
-          0
-        ],
-        "shotsTotal": [
-          11,
-          12
-        ],
-        "possession": [
-          39,
-          61
-        ],
-        "corners": [
-          2,
-          5
-        ],
-        "shotsOn": [
-          1,
-          5
-        ],
-        "shotsOutside": [
-          3,
-          1
-        ],
-        "shotsInside": [
-          8,
-          11
-        ],
-        "fouls": [
-          11,
-          13
-        ],
-        "passesTotal": [
-          332,
-          530
-        ],
-        "passesPct": [
-          81,
-          89
-        ],
-        "passesAccurate": [
-          270,
-          472
-        ],
-        "offsides": [
-          1,
-          0
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "yellow": [
-          1,
-          0
-        ],
-        "shotsOff": [
-          8,
-          4
-        ],
-        "home": "IRQ",
-        "away": "NOR"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Graham Arnold",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Jalal Hassan",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Hussein Ali",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Zaid Tahseen",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Akam Hashem",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Merchas Doski",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Ibrahim Bayesh",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Zaid Ismail",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Amir Al-Ammari",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Ali Jasim",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Aymen Hussein",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Ali Al-Hamadi",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Stale Solbakken",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Ørjan Nyland",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Julian Ryerson",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kristoffer Ajer",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Torbjørn Heggem",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "David Møller Wolfe",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Martin Ødegaard",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Sander Berge",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Fredrik Aursnes",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Antonio Nusa",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Alexander Sørloth",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Erling Haaland",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Pierre Ghislain Atcho, Gabon",
-        "motm": {
-          "player": "Erling Haaland",
-          "rating": 8.2,
-          "team": "NOR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-17T00:05:19Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -5466,6 +5156,312 @@
           "team": "FRA"
         }
       }
+    },
+    {
+      "id": 50,
+      "home": 1,
+      "away": 4,
+      "goals": [
+        {
+          "player": "E. Haaland",
+          "minute": 29,
+          "team": "NOR",
+          "assist": "D. Wolfe"
+        },
+        {
+          "player": "A. Hussein",
+          "minute": 39,
+          "team": "IRQ",
+          "assist": "A. Al Ammari"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 43,
+          "team": "NOR"
+        },
+        {
+          "player": "L. Ostigard",
+          "minute": 76,
+          "team": "NOR",
+          "assist": "M. Odegaard"
+        },
+        {
+          "player": "A. Hussein",
+          "minute": 90,
+          "team": "NOR",
+          "og": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Z. Tahseen",
+          "minute": 86,
+          "team": "IRQ",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Z. Ismaeel",
+          "in": "Z. Iqbal",
+          "minute": 59,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Al Hamadi",
+          "in": "M. Farji",
+          "minute": 59,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Nusa",
+          "in": "A. Schjelderup",
+          "minute": 73,
+          "team": "NOR"
+        },
+        {
+          "out": "F. Aursnes",
+          "in": "K. Thorstvedt",
+          "minute": 73,
+          "team": "NOR"
+        },
+        {
+          "out": "D. Wolfe",
+          "in": "L. Ostigard",
+          "minute": 73,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 73,
+          "team": "NOR"
+        },
+        {
+          "out": "H. Ali",
+          "in": "M. Saadoon",
+          "minute": 73,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Jasim",
+          "in": "A. Qasem",
+          "minute": 73,
+          "team": "IRQ"
+        },
+        {
+          "out": "I. Bayesh",
+          "in": "Meme",
+          "minute": 78,
+          "team": "IRQ"
+        },
+        {
+          "out": "M. Odegaard",
+          "in": "P. Berg",
+          "minute": 81,
+          "team": "NOR"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          2,
+          3
+        ],
+        "saves": [
+          2,
+          0
+        ],
+        "shotsTotal": [
+          11,
+          12
+        ],
+        "possession": [
+          39,
+          61
+        ],
+        "corners": [
+          2,
+          5
+        ],
+        "shotsOn": [
+          1,
+          5
+        ],
+        "shotsOutside": [
+          3,
+          1
+        ],
+        "shotsInside": [
+          8,
+          11
+        ],
+        "fouls": [
+          11,
+          13
+        ],
+        "passesTotal": [
+          332,
+          530
+        ],
+        "passesPct": [
+          81,
+          89
+        ],
+        "passesAccurate": [
+          270,
+          472
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "yellow": [
+          1,
+          0
+        ],
+        "shotsOff": [
+          8,
+          4
+        ],
+        "home": "IRQ",
+        "away": "NOR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Graham Arnold",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Jalal Hassan",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Hussein Ali",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Zaid Tahseen",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Akam Hashem",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Merchas Doski",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Ibrahim Bayesh",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Zaid Ismail",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Amir Al-Ammari",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Ali Jasim",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Aymen Hussein",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ali Al-Hamadi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Stale Solbakken",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ørjan Nyland",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Julian Ryerson",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kristoffer Ajer",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Torbjørn Heggem",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "David Møller Wolfe",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Martin Ødegaard",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Sander Berge",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Fredrik Aursnes",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Antonio Nusa",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Alexander Sørloth",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Erling Haaland",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Pierre Ghislain Atcho, Gabon",
+        "motm": {
+          "player": "Erling Haaland",
+          "rating": 8.2,
+          "team": "NOR"
+        }
+      }
     }
   ],
   "stats": {
@@ -5475,6 +5471,11 @@
         "team": "GER",
         "goals": 2,
         "penalties": 1
+      },
+      {
+        "player": "E. Haaland",
+        "team": "NOR",
+        "goals": 2
       },
       {
         "player": "Elijah Just",
@@ -5510,6 +5511,11 @@
       {
         "player": "A. Diallo",
         "team": "CIV",
+        "goals": 1
+      },
+      {
+        "player": "A. Hussein",
+        "team": "IRQ",
         "goals": 1
       },
       {
@@ -5614,16 +5620,6 @@
         "player": "L. Comenencia",
         "team": "CUR",
         "goals": 1
-      },
-      {
-        "player": "L. Krejci",
-        "team": "CZE",
-        "goals": 1
-      },
-      {
-        "player": "M. Araujo",
-        "team": "URU",
-        "goals": 1
       }
     ],
     "assists": [
@@ -5655,6 +5651,11 @@
         "assists": 2
       },
       {
+        "player": "A. Al Ammari",
+        "team": "IRQ",
+        "assists": 1
+      },
+      {
         "player": "A. Rabiot",
         "team": "FRA",
         "assists": 1
@@ -5672,6 +5673,11 @@
       {
         "player": "Christian Pulisic",
         "team": "USA",
+        "assists": 1
+      },
+      {
+        "player": "D. Wolfe",
+        "team": "NOR",
         "assists": 1
       },
       {
@@ -5726,6 +5732,11 @@
         "assists": 1
       },
       {
+        "player": "M. Odegaard",
+        "team": "NOR",
+        "assists": 1
+      },
+      {
         "player": "M. Olise",
         "team": "FRA",
         "assists": 1
@@ -5765,21 +5776,6 @@
       {
         "player": "Roberto Alvarado",
         "team": "MEX",
-        "assists": 1
-      },
-      {
-        "player": "S. Kolasinac",
-        "team": "BIH",
-        "assists": 1
-      },
-      {
-        "player": "T. Kubo",
-        "team": "JPN",
-        "assists": 1
-      },
-      {
-        "player": "V. Coufal",
-        "team": "CZE",
         "assists": 1
       }
     ],
@@ -5997,6 +5993,20 @@
     },
     {
       "code": "USA",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 4,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "NOR",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -6403,6 +6413,20 @@
     },
     {
       "code": "PAR",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 4,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-4",
+      "form": "L"
+    },
+    {
+      "code": "IRQ",
       "played": 1,
       "wins": 0,
       "draws": 0,
