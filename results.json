@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-17T20:50:44Z",
+  "updated": "2026-06-17T20:51:31Z",
   "live": [
     {
       "id": 67,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "H. Kane",
@@ -25,25 +25,31 @@
           "minute": 42,
           "team": "ENG",
           "assist": "D. Rice"
+        },
+        {
+          "player": "P. Musa",
+          "minute": 45,
+          "team": "CRO",
+          "assist": "I. Perisic"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOutside": [
           2,
-          1
+          2
         ],
         "corners": [
           3,
           1
         ],
         "fouls": [
-          5,
+          6,
           5
         ],
         "shotsTotal": [
           9,
-          2
+          3
         ],
         "shotsBlocked": [
           5,
@@ -55,19 +61,19 @@
         ],
         "shotsOff": [
           2,
-          1
+          2
         ],
         "yellow": [
           0,
           0
         ],
         "possession": [
-          51,
-          49
+          48,
+          52
         ],
         "passesTotal": [
-          212,
-          206
+          218,
+          232
         ],
         "shotsInside": [
           7,
@@ -75,15 +81,15 @@
         ],
         "passesPct": [
           83,
-          86
+          87
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          177,
-          177
+          180,
+          202
         ],
         "red": [
           0,
