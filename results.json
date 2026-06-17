@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:42:42Z",
+  "updated": "2026-06-17T21:43:29Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 78,
+      "minute": 80,
       "home": 3,
       "away": 2,
       "goals": [
@@ -75,6 +75,12 @@
           "in": "M. Rogers",
           "minute": 72,
           "team": "ENG"
+        },
+        {
+          "out": "M. Baturina",
+          "in": "N. Vlasic",
+          "minute": 79,
+          "team": "CRO"
         }
       ],
       "stats": {
