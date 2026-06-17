@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:25:21Z",
+  "updated": "2026-06-17T21:26:09Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 3,
       "away": 2,
       "goals": [
@@ -248,7 +248,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Harry Kane",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "ENG"
         }
       }
