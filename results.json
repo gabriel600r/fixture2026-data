@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:41:25Z",
+  "updated": "2026-06-17T18:42:13Z",
   "live": [
     {
       "id": 61,
@@ -51,7 +51,7 @@
         {
           "out": "P. Neto",
           "in": "R. Leao",
-          "minute": 72,
+          "minute": 71,
           "team": "POR"
         },
         {
@@ -87,7 +87,7 @@
           10
         ],
         "shotsTotal": [
-          4,
+          3,
           7
         ],
         "shotsBlocked": [
@@ -99,7 +99,7 @@
           0
         ],
         "shotsOff": [
-          2,
+          1,
           2
         ],
         "yellow": [
@@ -111,11 +111,11 @@
           22
         ],
         "passesTotal": [
-          670,
+          662,
           179
         ],
         "shotsInside": [
-          3,
+          2,
           2
         ],
         "passesPct": [
@@ -127,7 +127,7 @@
           2
         ],
         "passesAccurate": [
-          629,
+          621,
           147
         ],
         "red": [
