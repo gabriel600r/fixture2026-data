@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:43:29Z",
+  "updated": "2026-06-17T21:44:16Z",
   "live": [
     {
       "id": 67,
@@ -81,12 +81,18 @@
           "in": "N. Vlasic",
           "minute": 79,
           "team": "CRO"
+        },
+        {
+          "out": "M. Pasalic",
+          "in": "A. Kramaric",
+          "minute": 79,
+          "team": "CRO"
         }
       ],
       "stats": {
         "shotsOutside": [
           2,
-          2
+          3
         ],
         "corners": [
           8,
@@ -98,14 +104,14 @@
         ],
         "shotsTotal": [
           19,
-          4
+          6
         ],
         "shotsBlocked": [
           5,
           0
         ],
         "saves": [
-          1,
+          2,
           6
         ],
         "shotsOff": [
@@ -121,24 +127,24 @@
           46
         ],
         "passesTotal": [
-          383,
-          331
+          394,
+          342
         ],
         "shotsInside": [
           17,
-          2
+          3
         ],
         "passesPct": [
           85,
-          84
+          85
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "passesAccurate": [
-          326,
-          278
+          336,
+          289
         ],
         "red": [
           0,
@@ -146,7 +152,7 @@
         ],
         "shotsOn": [
           9,
-          2
+          4
         ],
         "home": "ENG",
         "away": "CRO"
@@ -284,7 +290,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Harry Kane",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "ENG"
         }
       }
