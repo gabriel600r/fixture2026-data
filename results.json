@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T01:49:13Z",
+  "updated": "2026-06-17T01:50:00Z",
   "live": [
     {
       "id": 55,
@@ -27,11 +27,11 @@
         ],
         "shotsTotal": [
           2,
-          1
+          2
         ],
         "possession": [
-          59,
-          41
+          57,
+          43
         ],
         "corners": [
           0,
@@ -43,7 +43,7 @@
         ],
         "shotsOutside": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           0,
@@ -54,16 +54,16 @@
           2
         ],
         "passesTotal": [
-          298,
-          201
+          301,
+          221
         ],
         "passesPct": [
-          93,
+          92,
           91
         ],
         "passesAccurate": [
-          276,
-          182
+          278,
+          202
         ],
         "offsides": [
           3,
@@ -79,7 +79,7 @@
         ],
         "shotsOff": [
           1,
-          1
+          2
         ],
         "home": "ARG",
         "away": "ALG"
