@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T21:11:11Z",
+  "updated": "2026-06-17T21:11:59Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 47,
-      "home": 2,
+      "minute": 48,
+      "home": 3,
       "away": 2,
       "goals": [
         {
@@ -31,6 +31,12 @@
           "minute": 45,
           "team": "CRO",
           "assist": "I. Perisic"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 47,
+          "team": "ENG",
+          "assist": "E. Anderson"
         }
       ],
       "stats": {
@@ -71,15 +77,15 @@
           52
         ],
         "passesTotal": [
-          218,
-          233
+          219,
+          234
         ],
         "shotsInside": [
           7,
           2
         ],
         "passesPct": [
-          83,
+          82,
           87
         ],
         "offsides": [
