@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T20:15:26Z",
+  "updated": "2026-06-17T20:16:13Z",
   "live": [
     {
       "id": 67,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 1,
       "away": 0,
       "goals": [
@@ -186,8 +186,8 @@
                 "pos": "M"
               },
               {
-                "n": 17,
-                "name": "Petar Sučić",
+                "n": 15,
+                "name": "Mario Pašalić",
                 "pos": "M"
               },
               {
@@ -196,8 +196,8 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Mario Pašalić",
+                "n": 17,
+                "name": "Petar Sučić",
                 "pos": "F"
               },
               {
