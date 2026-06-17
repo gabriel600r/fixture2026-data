@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:22:13Z",
+  "updated": "2026-06-17T21:23:00Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 3,
       "away": 2,
       "goals": [
@@ -53,7 +53,7 @@
           2
         ],
         "corners": [
-          6,
+          8,
           1
         ],
         "fouls": [
@@ -61,7 +61,7 @@
           5
         ],
         "shotsTotal": [
-          13,
+          16,
           4
         ],
         "shotsBlocked": [
@@ -70,7 +70,7 @@
         ],
         "saves": [
           0,
-          2
+          5
         ],
         "shotsOff": [
           4,
@@ -81,19 +81,19 @@
           0
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "passesTotal": [
-          258,
+          269,
           265
         ],
         "shotsInside": [
-          11,
+          14,
           2
         ],
         "passesPct": [
-          83,
+          84,
           85
         ],
         "offsides": [
@@ -101,7 +101,7 @@
           0
         ],
         "passesAccurate": [
-          215,
+          226,
           225
         ],
         "red": [
@@ -109,7 +109,7 @@
           0
         ],
         "shotsOn": [
-          5,
+          8,
           2
         ],
         "home": "ENG",
@@ -248,7 +248,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Harry Kane",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "ENG"
         }
       }
