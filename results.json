@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:56:04Z",
+  "updated": "2026-06-17T21:56:52Z",
   "live": [
     {
       "id": 67,
@@ -107,7 +107,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOutside": [
           2,
@@ -119,7 +119,7 @@
         ],
         "fouls": [
           9,
-          10
+          11
         ],
         "shotsTotal": [
           21,
@@ -146,8 +146,8 @@
           46
         ],
         "passesTotal": [
-          458,
-          395
+          468,
+          410
         ],
         "shotsInside": [
           19,
@@ -162,8 +162,8 @@
           1
         ],
         "passesAccurate": [
-          393,
-          335
+          402,
+          349
         ],
         "red": [
           0,
