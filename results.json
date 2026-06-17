@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T23:47:00Z",
+  "updated": "2026-06-17T23:47:47Z",
   "live": [
     {
       "id": 68,
@@ -15,7 +15,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOutside": [
           0,
@@ -121,13 +121,13 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Elisha Owusu",
+                "n": 3,
+                "name": "Caleb Yirenkyi",
                 "pos": "M"
               },
               {
-                "n": 3,
-                "name": "Caleb Yirenkyi",
+                "n": 15,
+                "name": "Elisha Owusu",
                 "pos": "M"
               },
               {
