@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T02:46:30Z",
+  "updated": "2026-06-17T02:47:17Z",
   "live": [
     {
       "id": 55,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 3,
       "away": 0,
       "goals": [
@@ -76,13 +76,13 @@
           "team": "ARG"
         },
         {
-          "out": "N. Bentaleb",
+          "out": "I. Maza",
           "in": "R. Zerrouki",
           "minute": 82,
           "team": "ALG"
         },
         {
-          "out": "I. Maza",
+          "out": "N. Bentaleb",
           "in": "A. Boulbina",
           "minute": 82,
           "team": "ALG"
