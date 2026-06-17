@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-17T01:10:50Z",
+  "updated": "2026-06-17T01:11:37Z",
   "live": [
     {
       "id": 55,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "F. Chaibi",
           "minute": 8,
-          "team": "ALG"
+          "team": "ALG",
+          "assist": "I. Maza"
         }
       ],
       "stats": {
@@ -28,8 +29,8 @@
           0
         ],
         "possession": [
-          64,
-          36
+          67,
+          33
         ],
         "corners": [
           0,
@@ -52,19 +53,19 @@
           0
         ],
         "passesTotal": [
-          44,
-          25
+          64,
+          31
         ],
         "passesPct": [
-          86,
-          88
+          88,
+          87
         ],
         "passesAccurate": [
-          38,
-          22
+          56,
+          27
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "red": [
