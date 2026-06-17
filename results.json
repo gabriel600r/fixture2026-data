@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:50:35Z",
+  "updated": "2026-06-17T21:51:22Z",
   "live": [
     {
       "id": 67,
@@ -98,6 +98,12 @@
           "out": "J. Bellingham",
           "in": "D. Spence",
           "minute": 80,
+          "team": "ENG"
+        },
+        {
+          "out": "J. Stones",
+          "in": "M. Guehi",
+          "minute": 87,
           "team": "ENG"
         }
       ],
