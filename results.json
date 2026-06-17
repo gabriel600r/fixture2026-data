@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T20:41:19Z",
+  "updated": "2026-06-17T20:42:07Z",
   "live": [
     {
       "id": 67,
       "status": "1H",
-      "minute": 41,
-      "home": 1,
+      "minute": 42,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -19,6 +19,12 @@
           "minute": 36,
           "team": "CRO",
           "assist": "P. Sucic"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 42,
+          "team": "ENG",
+          "assist": "D. Rice"
         }
       ],
       "stats": {
