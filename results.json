@@ -1,11 +1,142 @@
 {
-  "updated": "2026-06-17T03:00:37Z",
+  "updated": "2026-06-17T03:12:53Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 56,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Philipp Lienhart",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Phillipp Mwene",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "F"
+              },
+              {
+                "n": 14,
+                "name": "Saša Kalajdžić",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Jamal Sellami",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yazeed Abu Laila",
+                "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "Ehsan Haddad",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Abdallah Nasib",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Yazan Al-Arab",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Mo Abualnadi",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Mohannad Abu Taha",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Mousa Tamari",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Nizar Al-Rashdan",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Noor Al-Deen Al Rawabdeh",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Odeh Fakhoury",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Ali Olwan",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Dahane Beida, Mauritania"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
