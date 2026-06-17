@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T04:13:35Z",
+  "updated": "2026-06-17T04:14:22Z",
   "live": [
     {
       "id": 56,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "stats": {
@@ -78,7 +78,7 @@
       "extras": {
         "lineups": {
           "home": {
-            "formation": "3-4-2-1",
+            "formation": "4-2-3-1",
             "coach": "Ralf Rangnick",
             "xi": [
               {
@@ -104,6 +104,11 @@
               {
                 "n": 16,
                 "name": "Phillipp Mwene",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
                 "pos": "M"
               },
               {
@@ -112,8 +117,8 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Nicolas Seiwald",
+                "n": 18,
+                "name": "Romano Schmid",
                 "pos": "M"
               },
               {
@@ -122,14 +127,9 @@
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Romano Schmid",
-                "pos": "F"
-              },
-              {
                 "n": 9,
                 "name": "Marcel Sabitzer",
-                "pos": "F"
+                "pos": "M"
               },
               {
                 "n": 14,
@@ -173,8 +173,8 @@
                 "pos": "D"
               },
               {
-                "n": 10,
-                "name": "Mousa Tamari",
+                "n": 11,
+                "name": "Odeh Fakhoury",
                 "pos": "M"
               },
               {
@@ -188,13 +188,13 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Odeh Fakhoury",
+                "n": 9,
+                "name": "Ali Olwan",
                 "pos": "M"
               },
               {
-                "n": 9,
-                "name": "Ali Olwan",
+                "n": 10,
+                "name": "Mousa Tamari",
                 "pos": "F"
               }
             ]
