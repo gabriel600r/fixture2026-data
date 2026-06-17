@@ -1,295 +1,6 @@
 {
-  "updated": "2026-06-17T02:59:50Z",
-  "live": [
-    {
-      "id": 55,
-      "status": "2H",
-      "minute": 87,
-      "home": 3,
-      "away": 0,
-      "goals": [
-        {
-          "player": "L. Messi",
-          "minute": 17,
-          "team": "ARG",
-          "assist": "R. de Paul"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 60,
-          "team": "ARG"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 76,
-          "team": "ARG",
-          "assist": "N. Gonzalez"
-        }
-      ],
-      "subs": [
-        {
-          "out": "G. Montiel",
-          "in": "N. Molina",
-          "minute": 46,
-          "team": "ARG"
-        },
-        {
-          "out": "L. Martinez",
-          "in": "J. Alvarez",
-          "minute": 55,
-          "team": "ARG"
-        },
-        {
-          "out": "T. Almada",
-          "in": "N. Gonzalez",
-          "minute": 55,
-          "team": "ARG"
-        },
-        {
-          "out": "H. Boudaoui",
-          "in": "H. Aouar",
-          "minute": 64,
-          "team": "ALG"
-        },
-        {
-          "out": "A. Gouiri",
-          "in": "M. Amoura",
-          "minute": 64,
-          "team": "ALG"
-        },
-        {
-          "out": "A. Hadj Moussa",
-          "in": "R. Mahrez",
-          "minute": 64,
-          "team": "ALG"
-        },
-        {
-          "out": "L. Messi",
-          "in": "N. Paz",
-          "minute": 80,
-          "team": "ARG"
-        },
-        {
-          "out": "C. Romero",
-          "in": "N. Otamendi",
-          "minute": 80,
-          "team": "ARG"
-        },
-        {
-          "out": "N. Bentaleb",
-          "in": "A. Boulbina",
-          "minute": 81,
-          "team": "ALG"
-        },
-        {
-          "out": "I. Maza",
-          "in": "R. Zerrouki",
-          "minute": 82,
-          "team": "ALG"
-        }
-      ],
-      "stats": {
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "saves": [
-          0,
-          3
-        ],
-        "shotsTotal": [
-          10,
-          7
-        ],
-        "possession": [
-          48,
-          52
-        ],
-        "corners": [
-          2,
-          2
-        ],
-        "shotsOn": [
-          6,
-          0
-        ],
-        "shotsOutside": [
-          6,
-          4
-        ],
-        "shotsInside": [
-          4,
-          3
-        ],
-        "fouls": [
-          12,
-          7
-        ],
-        "passesTotal": [
-          561,
-          595
-        ],
-        "passesPct": [
-          90,
-          92
-        ],
-        "passesAccurate": [
-          503,
-          547
-        ],
-        "offsides": [
-          3,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "shotsOff": [
-          4,
-          4
-        ],
-        "home": "ARG",
-        "away": "ALG"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Lionel Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Emiliano Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Gonzalo Montiel",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Cristian Romero",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Lisandro Martínez",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Facundo Medina",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "Rodrigo De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Alexis Mac Allister",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Enzo Fernández",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Thiago Almada",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Lionel Messi",
-                "pos": "F"
-              },
-              {
-                "n": 22,
-                "name": "Lautaro Martínez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Vladimir Petkovic",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Luca Zidane",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "Rafik Belghali",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Aïssa Mandi",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Ramy Bensebaini",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Rayan Aït-Nouri",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Hicham Boudaoui",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Nabil Bentaleb",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Ibrahim Maza",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Anis Hadj Moussa",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Amine Gouiri",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Farès Chaïbi",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Szymon Marciniak, Poland",
-        "motm": {
-          "player": "Lionel Messi",
-          "rating": 10.0,
-          "team": "ARG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-17T03:00:37Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -5751,10 +5462,301 @@
           "team": "NOR"
         }
       }
+    },
+    {
+      "id": 55,
+      "home": 3,
+      "away": 0,
+      "goals": [
+        {
+          "player": "L. Messi",
+          "minute": 17,
+          "team": "ARG",
+          "assist": "R. de Paul"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 60,
+          "team": "ARG"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 76,
+          "team": "ARG",
+          "assist": "N. Gonzalez"
+        }
+      ],
+      "subs": [
+        {
+          "out": "G. Montiel",
+          "in": "N. Molina",
+          "minute": 46,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "J. Alvarez",
+          "minute": 55,
+          "team": "ARG"
+        },
+        {
+          "out": "T. Almada",
+          "in": "N. Gonzalez",
+          "minute": 55,
+          "team": "ARG"
+        },
+        {
+          "out": "H. Boudaoui",
+          "in": "H. Aouar",
+          "minute": 64,
+          "team": "ALG"
+        },
+        {
+          "out": "A. Gouiri",
+          "in": "M. Amoura",
+          "minute": 64,
+          "team": "ALG"
+        },
+        {
+          "out": "A. Hadj Moussa",
+          "in": "R. Mahrez",
+          "minute": 64,
+          "team": "ALG"
+        },
+        {
+          "out": "L. Messi",
+          "in": "N. Paz",
+          "minute": 80,
+          "team": "ARG"
+        },
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 80,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Bentaleb",
+          "in": "A. Boulbina",
+          "minute": 81,
+          "team": "ALG"
+        },
+        {
+          "out": "I. Maza",
+          "in": "R. Zerrouki",
+          "minute": 82,
+          "team": "ALG"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "saves": [
+          0,
+          3
+        ],
+        "shotsTotal": [
+          10,
+          7
+        ],
+        "possession": [
+          48,
+          52
+        ],
+        "corners": [
+          2,
+          2
+        ],
+        "shotsOn": [
+          6,
+          0
+        ],
+        "shotsOutside": [
+          6,
+          4
+        ],
+        "shotsInside": [
+          4,
+          3
+        ],
+        "fouls": [
+          12,
+          7
+        ],
+        "passesTotal": [
+          561,
+          595
+        ],
+        "passesPct": [
+          90,
+          92
+        ],
+        "passesAccurate": [
+          503,
+          547
+        ],
+        "offsides": [
+          3,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          4,
+          4
+        ],
+        "home": "ARG",
+        "away": "ALG"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Gonzalo Montiel",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Facundo Medina",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Thiago Almada",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Lautaro Martínez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Vladimir Petkovic",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Luca Zidane",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Rafik Belghali",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Aïssa Mandi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ramy Bensebaini",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Rayan Aït-Nouri",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Hicham Boudaoui",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nabil Bentaleb",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Ibrahim Maza",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Anis Hadj Moussa",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Amine Gouiri",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Szymon Marciniak, Poland",
+        "motm": {
+          "player": "Lionel Messi",
+          "rating": 10.0,
+          "team": "ARG"
+        }
+      }
     }
   ],
   "stats": {
     "scorers": [
+      {
+        "player": "L. Messi",
+        "team": "ARG",
+        "goals": 3
+      },
       {
         "player": "K. Havertz",
         "team": "GER",
@@ -5904,11 +5906,6 @@
         "player": "K. Nakamura",
         "team": "JPN",
         "goals": 1
-      },
-      {
-        "player": "L. Comenencia",
-        "team": "CUR",
-        "goals": 1
       }
     ],
     "assists": [
@@ -6047,6 +6044,11 @@
         "goals": 1
       },
       {
+        "player": "N. Gonzalez",
+        "team": "ARG",
+        "assists": 1
+      },
+      {
         "player": "P. David",
         "team": "CAN",
         "assists": 1
@@ -6057,14 +6059,8 @@
         "assists": 1
       },
       {
-        "player": "Ramin Rezaeian",
-        "team": "IRN",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "player": "Roberto Alvarado",
-        "team": "MEX",
+        "player": "R. de Paul",
+        "team": "ARG",
         "assists": 1
       }
     ],
@@ -6305,6 +6301,20 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "ARG",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 3,
+      "ga": 0,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
       "biggestLose": "",
       "form": "W"
     },
@@ -6726,6 +6736,20 @@
       "failedToScore": 0,
       "biggestWin": "",
       "biggestLose": "1-4",
+      "form": "L"
+    },
+    {
+      "code": "ALG",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 0,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-3",
       "form": "L"
     },
     {
