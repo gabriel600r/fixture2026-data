@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T02:22:10Z",
+  "updated": "2026-06-17T02:22:57Z",
   "live": [
     {
       "id": 55,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 1,
       "away": 0,
       "goals": [
@@ -49,8 +49,8 @@
           4
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "corners": [
           0,
@@ -73,16 +73,16 @@
           4
         ],
         "passesTotal": [
-          376,
-          327
+          379,
+          349
         ],
         "passesPct": [
           90,
           92
         ],
         "passesAccurate": [
-          339,
-          300
+          341,
+          322
         ],
         "offsides": [
           3,
@@ -231,7 +231,7 @@
         "referee": "Szymon Marciniak, Poland",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.0,
+          "rating": 8.3,
           "team": "ARG"
         }
       }
