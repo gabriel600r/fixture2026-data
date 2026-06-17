@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T23:24:13Z",
+  "updated": "2026-06-17T23:25:01Z",
   "live": [
     {
       "id": 68,
@@ -49,28 +49,28 @@
           0
         ],
         "possession": [
-          30,
-          70
+          37,
+          63
         ],
         "passesTotal": [
-          57,
-          132
+          89,
+          154
         ],
         "shotsInside": [
           0,
           2
         ],
         "passesPct": [
-          79,
-          90
+          84,
+          89
         ],
         "offsides": [
-          1,
+          2,
           1
         ],
         "passesAccurate": [
-          45,
-          119
+          75,
+          137
         ],
         "red": [
           0,
