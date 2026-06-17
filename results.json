@@ -1,11 +1,142 @@
 {
-  "updated": "2026-06-17T22:00:48Z",
+  "updated": "2026-06-17T22:03:07Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 68,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-4-1-1",
+            "coach": "Carlos Queiroz",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Lawrence Ati Zigi",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Marvin Senaya",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jonas Adjei Adjetey",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Jerome Opoku",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Gideon Mensah",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "Antoine Semenyo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Elisha Owusu",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Caleb Yirenkyi",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Ernest Nuamah",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Kamaldeen Sulemana",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Jordan Ayew",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Thomas Christiansen",
+            "xi": [
+              {
+                "n": 22,
+                "name": "Orlando Mosquera",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "César Blackman",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Jiovany Ramos",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "José Córdoba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Andrés Andrade",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Amir Murillo",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Carlos Harvey",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Cristian Martínez",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "José Luis Rodríguez",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Yoel Bárcenas",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Cecilio Waterman",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Glenn Nyberg, Sweden"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
