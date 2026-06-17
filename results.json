@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-17T01:11:37Z",
+  "updated": "2026-06-17T01:12:24Z",
   "live": [
     {
       "id": 55,
       "status": "1H",
-      "minute": 9,
+      "minute": 10,
       "home": 0,
-      "away": 1,
+      "away": 0,
       "goals": [
         {
           "player": "F. Chaibi",
