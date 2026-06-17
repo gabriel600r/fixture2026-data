@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T05:43:45Z",
+  "updated": "2026-06-17T05:44:32Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 2,
       "away": 1,
       "goals": [
@@ -199,18 +199,13 @@
             ]
           },
           "away": {
-            "formation": "5-4-1",
+            "formation": "3-4-2-1",
             "coach": "Jamal Sellami",
             "xi": [
               {
                 "n": 1,
                 "name": "Yazeed Abu Laila",
                 "pos": "G"
-              },
-              {
-                "n": 23,
-                "name": "Ehsan Haddad",
-                "pos": "D"
               },
               {
                 "n": 3,
@@ -228,13 +223,8 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Mohannad Abu Taha",
-                "pos": "D"
-              },
-              {
-                "n": 11,
-                "name": "Odeh Fakhoury",
+                "n": 23,
+                "name": "Ehsan Haddad",
                 "pos": "M"
               },
               {
@@ -248,9 +238,19 @@
                 "pos": "M"
               },
               {
+                "n": 20,
+                "name": "Mohannad Abu Taha",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Odeh Fakhoury",
+                "pos": "F"
+              },
+              {
                 "n": 9,
                 "name": "Ali Olwan",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 10,
