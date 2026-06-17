@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T02:18:14Z",
+  "updated": "2026-06-17T02:19:01Z",
   "live": [
     {
       "id": 55,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 0,
       "goals": [
@@ -21,6 +21,12 @@
           "in": "N. Molina",
           "minute": 46,
           "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "J. Alvarez",
+          "minute": 55,
+          "team": "ARG"
         }
       ],
       "stats": {
@@ -30,22 +36,22 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
-          5,
+          6,
           4
         ],
         "possession": [
-          53,
-          47
+          54,
+          46
         ],
         "corners": [
           0,
           2
         ],
         "shotsOn": [
-          1,
+          2,
           0
         ],
         "shotsOutside": [
@@ -53,7 +59,7 @@
           1
         ],
         "shotsInside": [
-          1,
+          2,
           3
         ],
         "fouls": [
@@ -61,16 +67,16 @@
           4
         ],
         "passesTotal": [
-          357,
-          313
+          372,
+          316
         ],
         "passesPct": [
           90,
           92
         ],
         "passesAccurate": [
-          323,
-          287
+          336,
+          290
         ],
         "offsides": [
           3,
