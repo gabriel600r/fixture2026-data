@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:36:25Z",
+  "updated": "2026-06-17T21:37:13Z",
   "live": [
     {
       "id": 67,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 3,
       "away": 2,
       "goals": [
@@ -62,6 +62,12 @@
           "out": "A. Gordon",
           "in": "M. Rogers",
           "minute": 72,
+          "team": "ENG"
+        },
+        {
+          "out": "N. Madueke",
+          "in": "B. Saka",
+          "minute": 73,
           "team": "ENG"
         }
       ],
