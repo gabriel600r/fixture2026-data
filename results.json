@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-17T05:40:37Z",
+  "updated": "2026-06-17T05:41:24Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 75,
-      "home": 1,
+      "minute": 77,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -249,7 +249,7 @@
         "referee": "Dahane Beida, Mauritania",
         "motm": {
           "player": "Ali Olwan",
-          "rating": 7.83,
+          "rating": 7.9,
           "team": "JOR"
         }
       }
