@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T17:13:31Z",
+  "updated": "2026-06-17T17:14:18Z",
   "live": [
     {
       "id": 61,
@@ -13,6 +13,14 @@
           "minute": 6,
           "team": "POR",
           "assist": "P. Neto"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "B. Silva",
+          "minute": 13,
+          "team": "POR",
+          "color": "yellow"
         }
       ],
       "stats": {
