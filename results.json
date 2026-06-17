@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:49:17Z",
+  "updated": "2026-06-17T18:50:06Z",
   "live": [
     {
       "id": 61,
@@ -83,24 +83,30 @@
           "in": "S. Banza",
           "minute": 85,
           "team": "COD"
+        },
+        {
+          "out": "A. Wan-Bissaka",
+          "in": "G. Kalulu",
+          "minute": 85,
+          "team": "COD"
         }
       ],
       "stats": {
         "shotsOutside": [
           1,
-          6
+          7
         ],
         "corners": [
           4,
           4
         ],
         "fouls": [
-          6,
+          7,
           10
         ],
         "shotsTotal": [
           5,
-          8
+          9
         ],
         "shotsBlocked": [
           2,
@@ -112,19 +118,19 @@
         ],
         "shotsOff": [
           2,
-          3
+          4
         ],
         "yellow": [
           1,
           1
         ],
         "possession": [
-          77,
-          23
+          76,
+          24
         ],
         "passesTotal": [
-          702,
-          202
+          725,
+          219
         ],
         "shotsInside": [
           4,
@@ -132,15 +138,15 @@
         ],
         "passesPct": [
           93,
-          80
+          78
         ],
         "offsides": [
           3,
           2
         ],
         "passesAccurate": [
-          654,
-          161
+          673,
+          171
         ],
         "red": [
           0,
