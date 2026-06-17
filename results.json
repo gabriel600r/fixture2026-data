@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T18:35:07Z",
+  "updated": "2026-06-17T18:35:54Z",
   "live": [
     {
       "id": 61,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 1,
       "goals": [
@@ -47,6 +47,18 @@
           "in": "N. Sadiki",
           "minute": 57,
           "team": "COD"
+        },
+        {
+          "out": "P. Neto",
+          "in": "R. Leao",
+          "minute": 72,
+          "team": "POR"
+        },
+        {
+          "out": "N. Mendes",
+          "in": "N. Semedo",
+          "minute": 72,
+          "team": "POR"
         }
       ],
       "stats": {
