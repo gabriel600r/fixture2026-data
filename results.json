@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T04:51:10Z",
+  "updated": "2026-06-17T04:51:57Z",
   "live": [
     {
       "id": 56,
@@ -15,7 +15,7 @@
           "assist": "X. Schlager"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           1,
