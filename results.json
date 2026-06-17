@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T21:09:37Z",
+  "updated": "2026-06-17T21:10:24Z",
   "live": [
     {
       "id": 67,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 2,
       "goals": [
@@ -33,7 +33,6 @@
           "assist": "I. Perisic"
         }
       ],
-      "extra": 6,
       "stats": {
         "shotsOutside": [
           2,
@@ -232,7 +231,12 @@
             ]
           }
         },
-        "referee": "Clement Turpin, France"
+        "referee": "Clement Turpin, France",
+        "motm": {
+          "player": "Harry Kane",
+          "rating": 8.2,
+          "team": "ENG"
+        }
       }
     }
   ],
