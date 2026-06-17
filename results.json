@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T01:21:00Z",
+  "updated": "2026-06-17T01:21:47Z",
   "live": [
     {
       "id": 55,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 1,
       "away": 0,
       "goals": [
@@ -25,7 +25,7 @@
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           0
         ],
         "possession": [
@@ -37,11 +37,11 @@
           0
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
@@ -53,16 +53,16 @@
           0
         ],
         "passesTotal": [
-          96,
-          52
+          142,
+          76
         ],
         "passesPct": [
-          89,
-          88
+          90,
+          89
         ],
         "passesAccurate": [
-          85,
-          46
+          128,
+          68
         ],
         "offsides": [
           2,
@@ -86,7 +86,7 @@
       "extras": {
         "lineups": {
           "home": {
-            "formation": "4-3-3",
+            "formation": "4-4-2",
             "coach": "Lionel Scaloni",
             "xi": [
               {
@@ -115,6 +115,11 @@
                 "pos": "D"
               },
               {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
                 "n": 20,
                 "name": "Alexis Mac Allister",
                 "pos": "M"
@@ -125,8 +130,8 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Rodrigo De Paul",
+                "n": 16,
+                "name": "Thiago Almada",
                 "pos": "M"
               },
               {
@@ -138,16 +143,11 @@
                 "n": 22,
                 "name": "Lautaro Martínez",
                 "pos": "F"
-              },
-              {
-                "n": 16,
-                "name": "Thiago Almada",
-                "pos": "M"
               }
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "4-3-3",
             "coach": "Vladimir Petkovic",
             "xi": [
               {
@@ -176,11 +176,6 @@
                 "pos": "D"
               },
               {
-                "n": 11,
-                "name": "Anis Hadj Moussa",
-                "pos": "F"
-              },
-              {
                 "n": 14,
                 "name": "Hicham Boudaoui",
                 "pos": "M"
@@ -191,18 +186,23 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Farès Chaïbi",
-                "pos": "F"
-              },
-              {
                 "n": 22,
                 "name": "Ibrahim Maza",
                 "pos": "M"
               },
               {
+                "n": 11,
+                "name": "Anis Hadj Moussa",
+                "pos": "F"
+              },
+              {
                 "n": 9,
                 "name": "Amine Gouiri",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
                 "pos": "F"
               }
             ]
