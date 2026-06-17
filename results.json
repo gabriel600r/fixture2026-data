@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T17:38:07Z",
+  "updated": "2026-06-17T17:38:54Z",
   "live": [
     {
       "id": 61,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 0,
       "goals": [
@@ -210,13 +210,13 @@
                 "pos": "M"
               },
               {
-                "n": 17,
-                "name": "Cédric Bakambu",
+                "n": 20,
+                "name": "Yoane Wissa",
                 "pos": "F"
               },
               {
-                "n": 20,
-                "name": "Yoane Wissa",
+                "n": 17,
+                "name": "Cédric Bakambu",
                 "pos": "F"
               }
             ]
