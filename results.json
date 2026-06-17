@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T20:46:02Z",
+  "updated": "2026-06-17T20:46:49Z",
   "live": [
     {
       "id": 67,
@@ -27,7 +27,7 @@
           "assist": "D. Rice"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOutside": [
           1,
@@ -39,7 +39,7 @@
         ],
         "fouls": [
           5,
-          4
+          5
         ],
         "shotsTotal": [
           8,
@@ -66,8 +66,8 @@
           48
         ],
         "passesTotal": [
-          204,
-          185
+          211,
+          191
         ],
         "shotsInside": [
           7,
@@ -75,15 +75,15 @@
         ],
         "passesPct": [
           84,
-          86
+          85
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          171,
-          159
+          177,
+          163
         ],
         "red": [
           0,
