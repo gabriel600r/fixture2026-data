@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T18:52:28Z",
+  "updated": "2026-06-17T18:53:15Z",
   "live": [
     {
       "id": 61,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 1,
       "away": 1,
       "goals": [
@@ -32,6 +32,12 @@
           "player": "C. Mbemba",
           "minute": 32,
           "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Semedo",
+          "minute": 88,
+          "team": "POR",
           "color": "yellow"
         }
       ],
