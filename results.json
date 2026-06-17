@@ -1,311 +1,6 @@
 {
-  "updated": "2026-06-17T06:08:13Z",
-  "live": [
-    {
-      "id": 56,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 1,
-      "goals": [
-        {
-          "player": "R. Schmid",
-          "minute": 21,
-          "team": "AUT",
-          "assist": "X. Schlager"
-        },
-        {
-          "player": "A. Olwan",
-          "minute": 50,
-          "team": "JOR",
-          "assist": "N. Al Rawabdeh"
-        },
-        {
-          "player": "Y. Al Arab",
-          "minute": 76,
-          "team": "AUT",
-          "og": true
-        },
-        {
-          "player": "M. Arnautovic",
-          "minute": 90,
-          "team": "AUT",
-          "pen": true
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Sabitzer",
-          "minute": 77,
-          "team": "AUT",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "S. Kalajdzic",
-          "in": "M. Arnautovic",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "X. Schlager",
-          "in": "C. Chukwuemeka",
-          "minute": 59,
-          "team": "AUT"
-        },
-        {
-          "out": "D. Alaba",
-          "in": "K. Danso",
-          "minute": 59,
-          "team": "AUT"
-        },
-        {
-          "out": "P. Mwene",
-          "in": "P. Wanner",
-          "minute": 59,
-          "team": "AUT"
-        },
-        {
-          "out": "M. Abualnadi",
-          "in": "S. Obaid",
-          "minute": 72,
-          "team": "JOR"
-        },
-        {
-          "out": "A. Nasib",
-          "in": "S. Al Rosan",
-          "minute": 81,
-          "team": "JOR"
-        },
-        {
-          "out": "E. Haddad",
-          "in": "M. Al Mardi",
-          "minute": 81,
-          "team": "JOR"
-        },
-        {
-          "out": "R. Schmid",
-          "in": "P. Wimmer",
-          "minute": 83,
-          "team": "AUT"
-        },
-        {
-          "out": "M. Tamari",
-          "in": "M. Al Daoud",
-          "minute": 88,
-          "team": "JOR"
-        },
-        {
-          "out": "O. Al Fakhouri",
-          "in": "A. Azaizeh",
-          "minute": 89,
-          "team": "JOR"
-        }
-      ],
-      "extra": 13,
-      "stats": {
-        "shotsBlocked": [
-          1,
-          2
-        ],
-        "saves": [
-          3,
-          1
-        ],
-        "shotsTotal": [
-          10,
-          11
-        ],
-        "possession": [
-          63,
-          37
-        ],
-        "corners": [
-          4,
-          3
-        ],
-        "shotsOn": [
-          3,
-          4
-        ],
-        "shotsOutside": [
-          5,
-          4
-        ],
-        "shotsInside": [
-          5,
-          7
-        ],
-        "fouls": [
-          12,
-          6
-        ],
-        "passesTotal": [
-          580,
-          328
-        ],
-        "passesPct": [
-          84,
-          73
-        ],
-        "passesAccurate": [
-          489,
-          240
-        ],
-        "offsides": [
-          3,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "yellow": [
-          1,
-          0
-        ],
-        "shotsOff": [
-          6,
-          5
-        ],
-        "home": "AUT",
-        "away": "JOR"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Ralf Rangnick",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alexander Schlager",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Stefan Posch",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Philipp Lienhart",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "David Alaba",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Phillipp Mwene",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Nicolas Seiwald",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Xaver Schlager",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Romano Schmid",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Konrad Laimer",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Marcel Sabitzer",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Saša Kalajdžić",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-2-1",
-            "coach": "Jamal Sellami",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Yazeed Abu Laila",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Abdallah Nasib",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Yazan Al-Arab",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Mo Abualnadi",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Ehsan Haddad",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Nizar Al-Rashdan",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Noor Al-Deen Al Rawabdeh",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Mohannad Abu Taha",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Odeh Fakhoury",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Ali Olwan",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Mousa Tamari",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Dahane Beida, Mauritania",
-        "motm": {
-          "player": "Mohannad Abu Taha",
-          "rating": 7.7,
-          "team": "JOR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-17T06:08:59Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -6053,6 +5748,307 @@
           "team": "ARG"
         }
       }
+    },
+    {
+      "id": 56,
+      "home": 3,
+      "away": 1,
+      "goals": [
+        {
+          "player": "R. Schmid",
+          "minute": 21,
+          "team": "AUT",
+          "assist": "X. Schlager"
+        },
+        {
+          "player": "A. Olwan",
+          "minute": 50,
+          "team": "JOR",
+          "assist": "N. Al Rawabdeh"
+        },
+        {
+          "player": "Y. Al Arab",
+          "minute": 76,
+          "team": "AUT",
+          "og": true
+        },
+        {
+          "player": "M. Arnautovic",
+          "minute": 90,
+          "team": "AUT",
+          "pen": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Sabitzer",
+          "minute": 77,
+          "team": "AUT",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "S. Kalajdzic",
+          "in": "M. Arnautovic",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "X. Schlager",
+          "in": "C. Chukwuemeka",
+          "minute": 59,
+          "team": "AUT"
+        },
+        {
+          "out": "D. Alaba",
+          "in": "K. Danso",
+          "minute": 59,
+          "team": "AUT"
+        },
+        {
+          "out": "P. Mwene",
+          "in": "P. Wanner",
+          "minute": 59,
+          "team": "AUT"
+        },
+        {
+          "out": "M. Abualnadi",
+          "in": "S. Obaid",
+          "minute": 72,
+          "team": "JOR"
+        },
+        {
+          "out": "A. Nasib",
+          "in": "S. Al Rosan",
+          "minute": 81,
+          "team": "JOR"
+        },
+        {
+          "out": "E. Haddad",
+          "in": "M. Al Mardi",
+          "minute": 81,
+          "team": "JOR"
+        },
+        {
+          "out": "R. Schmid",
+          "in": "P. Wimmer",
+          "minute": 83,
+          "team": "AUT"
+        },
+        {
+          "out": "M. Tamari",
+          "in": "M. Al Daoud",
+          "minute": 88,
+          "team": "JOR"
+        },
+        {
+          "out": "O. Al Fakhouri",
+          "in": "A. Azaizeh",
+          "minute": 89,
+          "team": "JOR"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          1,
+          2
+        ],
+        "saves": [
+          3,
+          1
+        ],
+        "shotsTotal": [
+          10,
+          11
+        ],
+        "possession": [
+          63,
+          37
+        ],
+        "corners": [
+          4,
+          3
+        ],
+        "shotsOn": [
+          3,
+          4
+        ],
+        "shotsOutside": [
+          5,
+          4
+        ],
+        "shotsInside": [
+          5,
+          7
+        ],
+        "fouls": [
+          12,
+          6
+        ],
+        "passesTotal": [
+          580,
+          328
+        ],
+        "passesPct": [
+          84,
+          73
+        ],
+        "passesAccurate": [
+          489,
+          240
+        ],
+        "offsides": [
+          3,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "yellow": [
+          1,
+          0
+        ],
+        "shotsOff": [
+          6,
+          5
+        ],
+        "home": "AUT",
+        "away": "JOR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Philipp Lienhart",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Phillipp Mwene",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Saša Kalajdžić",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Jamal Sellami",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yazeed Abu Laila",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Abdallah Nasib",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Yazan Al-Arab",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Mo Abualnadi",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Ehsan Haddad",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Nizar Al-Rashdan",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Noor Al-Deen Al Rawabdeh",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Mohannad Abu Taha",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Odeh Fakhoury",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ali Olwan",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Mousa Tamari",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Dahane Beida, Mauritania",
+        "motm": {
+          "player": "Mohannad Abu Taha",
+          "rating": 7.7,
+          "team": "JOR"
+        }
+      }
     }
   ],
   "stats": {
@@ -6100,6 +6096,12 @@
         "penalties": 1
       },
       {
+        "player": "M. Arnautovic",
+        "team": "AUT",
+        "goals": 1,
+        "penalties": 1
+      },
+      {
         "player": "A. Al Amri",
         "team": "KSA",
         "goals": 1
@@ -6119,6 +6121,11 @@
         "team": "SWE",
         "goals": 1,
         "assists": 2
+      },
+      {
+        "player": "A. Olwan",
+        "team": "JOR",
+        "goals": 1
       },
       {
         "player": "B. Barcola",
@@ -6200,16 +6207,6 @@
       {
         "player": "J. Musiala",
         "team": "GER",
-        "goals": 1
-      },
-      {
-        "player": "Julián Quiñones",
-        "team": "MEX",
-        "goals": 1
-      },
-      {
-        "player": "K. Nakamura",
-        "team": "JPN",
         "goals": 1
       }
     ],
@@ -6343,6 +6340,11 @@
         "assists": 1
       },
       {
+        "player": "N. Al Rawabdeh",
+        "team": "JOR",
+        "assists": 1
+      },
+      {
         "player": "N. Brown",
         "team": "GER",
         "assists": 1,
@@ -6361,11 +6363,6 @@
       {
         "player": "P. Okon-Engstler",
         "team": "AUS",
-        "assists": 1
-      },
-      {
-        "player": "R. de Paul",
-        "team": "ARG",
         "assists": 1
       }
     ],
@@ -6653,6 +6650,20 @@
     },
     {
       "code": "FRA",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 3,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "3-1",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "AUT",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -7003,6 +7014,20 @@
     },
     {
       "code": "SEN",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 1,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-3",
+      "form": "L"
+    },
+    {
+      "code": "JOR",
       "played": 1,
       "wins": 0,
       "draws": 0,
