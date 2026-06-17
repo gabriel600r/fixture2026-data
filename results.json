@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:56:26Z",
+  "updated": "2026-06-17T18:57:13Z",
   "live": [
     {
       "id": 61,
@@ -37,6 +37,12 @@
         {
           "player": "N. Semedo",
           "minute": 88,
+          "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "T. Araujo",
+          "minute": 90,
           "team": "POR",
           "color": "yellow"
         }
@@ -100,7 +106,7 @@
       "extra": 3,
       "stats": {
         "shotsOutside": [
-          1,
+          2,
           6
         ],
         "corners": [
@@ -112,7 +118,7 @@
           10
         ],
         "shotsTotal": [
-          5,
+          6,
           8
         ],
         "shotsBlocked": [
@@ -124,7 +130,7 @@
           0
         ],
         "shotsOff": [
-          2,
+          3,
           3
         ],
         "yellow": [
@@ -132,19 +138,19 @@
           1
         ],
         "possession": [
-          76,
-          24
+          75,
+          25
         ],
         "passesTotal": [
-          756,
-          237
+          771,
+          246
         ],
         "shotsInside": [
           4,
           2
         ],
         "passesPct": [
-          93,
+          92,
           79
         ],
         "offsides": [
@@ -152,8 +158,8 @@
           2
         ],
         "passesAccurate": [
-          701,
-          188
+          713,
+          194
         ],
         "red": [
           0,
