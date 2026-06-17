@@ -1,13 +1,24 @@
 {
-  "updated": "2026-06-17T04:23:00Z",
+  "updated": "2026-06-17T04:23:47Z",
   "live": [
     {
       "id": 56,
       "status": "1H",
-      "minute": 20,
-      "home": 0,
+      "minute": 21,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "Romano Schmid",
+          "minute": 20,
+          "team": "AUT"
+        }
+      ],
       "stats": {
+        "shotsBlocked": [
+          0,
+          0
+        ],
         "saves": [
           2,
           0
@@ -28,9 +39,29 @@
           0,
           2
         ],
+        "shotsOutside": [
+          1,
+          2
+        ],
+        "shotsInside": [
+          0,
+          1
+        ],
         "fouls": [
           3,
           1
+        ],
+        "passesTotal": [
+          163,
+          52
+        ],
+        "passesPct": [
+          85,
+          69
+        ],
+        "passesAccurate": [
+          139,
+          36
         ],
         "offsides": [
           1,
