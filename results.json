@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T05:52:24Z",
+  "updated": "2026-06-17T05:53:11Z",
   "live": [
     {
       "id": 56,
@@ -83,6 +83,18 @@
           "in": "P. Wimmer",
           "minute": 83,
           "team": "AUT"
+        },
+        {
+          "out": "M. Tamari",
+          "in": "M. Al Daoud",
+          "minute": 88,
+          "team": "JOR"
+        },
+        {
+          "out": "O. Al Fakhouri",
+          "in": "A. Azaizeh",
+          "minute": 88,
+          "team": "JOR"
         }
       ],
       "stats": {
