@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T05:22:33Z",
+  "updated": "2026-06-17T05:23:20Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "Ali Olwan",
           "minute": 50,
-          "team": "JOR"
+          "team": "JOR",
+          "assist": "Noor Al-Rawabdeh"
         }
       ],
       "subs": [
@@ -31,7 +32,7 @@
       "stats": {
         "shotsBlocked": [
           1,
-          1
+          2
         ],
         "saves": [
           3,
@@ -39,7 +40,7 @@
         ],
         "shotsTotal": [
           6,
-          9
+          10
         ],
         "possession": [
           64,
@@ -53,29 +54,9 @@
           1,
           4
         ],
-        "shotsOutside": [
-          4,
-          3
-        ],
-        "shotsInside": [
-          2,
-          6
-        ],
         "fouls": [
           7,
-          3
-        ],
-        "passesTotal": [
-          368,
-          201
-        ],
-        "passesPct": [
-          85,
-          76
-        ],
-        "passesAccurate": [
-          313,
-          153
+          5
         ],
         "offsides": [
           2,
