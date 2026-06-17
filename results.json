@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T02:26:52Z",
+  "updated": "2026-06-17T02:27:39Z",
   "live": [
     {
       "id": 55,
@@ -38,6 +38,12 @@
           "in": "N. Gonzalez",
           "minute": 55,
           "team": "ARG"
+        },
+        {
+          "out": "H. Boudaoui",
+          "in": "H. Aouar",
+          "minute": 64,
+          "team": "ALG"
         }
       ],
       "stats": {
