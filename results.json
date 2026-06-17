@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T05:46:06Z",
+  "updated": "2026-06-17T05:46:53Z",
   "live": [
     {
       "id": 56,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 2,
       "away": 1,
       "goals": [
@@ -64,6 +64,18 @@
           "out": "M. Abualnadi",
           "in": "S. Obaid",
           "minute": 72,
+          "team": "JOR"
+        },
+        {
+          "out": "A. Nasib",
+          "in": "S. Al Rosan",
+          "minute": 81,
+          "team": "JOR"
+        },
+        {
+          "out": "E. Haddad",
+          "in": "M. Al Mardi",
+          "minute": 82,
           "team": "JOR"
         }
       ],
