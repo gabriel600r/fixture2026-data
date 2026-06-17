@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T05:25:42Z",
+  "updated": "2026-06-17T05:26:29Z",
   "live": [
     {
       "id": 56,
@@ -9,40 +9,40 @@
       "away": 1,
       "goals": [
         {
-          "player": "Romano Schmid",
+          "player": "R. Schmid",
           "minute": 21,
           "team": "AUT",
-          "assist": "Xaver Schlager"
+          "assist": "X. Schlager"
         },
         {
-          "player": "Ali Olwan",
+          "player": "A. Olwan",
           "minute": 50,
           "team": "JOR",
-          "assist": "Noor Al-Rawabdeh"
+          "assist": "N. Al Rawabdeh"
         }
       ],
       "subs": [
         {
-          "out": "Sasa Kalajdzic",
-          "in": "Marko Arnautović",
-          "minute": 45,
+          "out": "S. Kalajdzic",
+          "in": "M. Arnautovic",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Phillipp Mwene",
-          "in": "Paul Wanner",
+          "out": "X. Schlager",
+          "in": "C. Chukwuemeka",
           "minute": 59,
           "team": "AUT"
         },
         {
-          "out": "Xaver Schlager",
-          "in": "Carney Chukwuemeka",
+          "out": "D. Alaba",
+          "in": "K. Danso",
           "minute": 59,
           "team": "AUT"
         },
         {
-          "out": "David Alaba",
-          "in": "Kevin Danso",
+          "out": "P. Mwene",
+          "in": "P. Wanner",
           "minute": 59,
           "team": "AUT"
         }
