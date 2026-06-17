@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-17T02:44:56Z",
+  "updated": "2026-06-17T02:45:43Z",
   "live": [
     {
       "id": 55,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 3,
       "away": 0,
       "goals": [
@@ -74,6 +74,18 @@
           "in": "N. Otamendi",
           "minute": 80,
           "team": "ARG"
+        },
+        {
+          "out": "N. Bentaleb",
+          "in": "R. Zerrouki",
+          "minute": 81,
+          "team": "ALG"
+        },
+        {
+          "out": "I. Maza",
+          "in": "A. Boulbina",
+          "minute": 82,
+          "team": "ALG"
         }
       ],
       "stats": {
@@ -90,8 +102,8 @@
           6
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "corners": [
           2,
@@ -114,7 +126,7 @@
           7
         ],
         "passesTotal": [
-          477,
+          490,
           469
         ],
         "passesPct": [
@@ -122,8 +134,8 @@
           92
         ],
         "passesAccurate": [
-          431,
-          432
+          443,
+          433
         ],
         "offsides": [
           3,
