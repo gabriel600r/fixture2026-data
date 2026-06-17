@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T06:04:17Z",
+  "updated": "2026-06-17T06:05:05Z",
   "live": [
     {
       "id": 56,
@@ -97,7 +97,7 @@
           "team": "JOR"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "shotsBlocked": [
           1,
