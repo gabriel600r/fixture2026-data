@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T05:54:45Z",
+  "updated": "2026-06-17T05:55:32Z",
   "live": [
     {
       "id": 56,
@@ -97,6 +97,7 @@
           "team": "JOR"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           1,
@@ -111,8 +112,8 @@
           10
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "corners": [
           3,
@@ -135,7 +136,7 @@
           6
         ],
         "passesTotal": [
-          518,
+          522,
           280
         ],
         "passesPct": [
@@ -143,8 +144,8 @@
           75
         ],
         "passesAccurate": [
-          442,
-          210
+          446,
+          209
         ],
         "offsides": [
           3,
