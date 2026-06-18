@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:50:31Z",
+  "updated": "2026-06-18T20:51:18Z",
   "live": [
     {
       "id": 9,
@@ -109,8 +109,15 @@
           "in": "C. Itten",
           "minute": 89,
           "team": "SUI"
+        },
+        {
+          "out": "K. Alajbegovic",
+          "in": "E. Mahmic",
+          "minute": 90,
+          "team": "BIH"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           3,
