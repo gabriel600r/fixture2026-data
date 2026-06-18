@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:26:37Z",
+  "updated": "2026-06-18T03:27:24Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 1,
       "away": 2,
       "goals": [
@@ -22,7 +22,8 @@
         {
           "player": "L. Diaz",
           "minute": 65,
-          "team": "COL"
+          "team": "COL",
+          "assist": "G. Puerta"
         }
       ],
       "cardEvents": [
