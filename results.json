@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:36:32Z",
+  "updated": "2026-06-18T17:37:19Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 0,
       "goals": [
@@ -26,6 +26,12 @@
           "player": "T. Mbatha",
           "minute": 40,
           "team": "RSA",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Krejci",
+          "minute": 75,
+          "team": "CZE",
           "color": "yellow"
         }
       ],
@@ -73,15 +79,15 @@
           5
         ],
         "saves": [
-          0,
+          1,
           2
         ],
         "passesTotal": [
-          257,
-          410
+          265,
+          428
         ],
         "passesPct": [
-          82,
+          81,
           90
         ],
         "yellow": [
@@ -101,8 +107,8 @@
           0
         ],
         "passesAccurate": [
-          210,
-          368
+          215,
+          385
         ],
         "offsides": [
           1,
@@ -110,11 +116,11 @@
         ],
         "shotsInside": [
           9,
-          2
+          3
         ],
         "shotsOn": [
           3,
-          0
+          1
         ],
         "fouls": [
           9,
@@ -126,7 +132,7 @@
         ],
         "shotsTotal": [
           11,
-          8
+          9
         ],
         "possession": [
           39,
