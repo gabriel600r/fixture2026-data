@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:35:56Z",
+  "updated": "2026-06-18T23:36:43Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 4,
       "away": 0,
       "goals": [
@@ -26,6 +26,11 @@
         {
           "player": "N. Saliba",
           "minute": 64,
+          "team": "CAN"
+        },
+        {
+          "player": null,
+          "minute": 75,
           "team": "CAN"
         }
       ],
