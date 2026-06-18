@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-18T20:18:14Z",
+  "updated": "2026-06-18T20:19:01Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "A. Dedic",
+          "minute": 59,
+          "team": "BIH",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOff": [
           3,
