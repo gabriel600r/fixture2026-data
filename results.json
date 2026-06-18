@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:54:51Z",
+  "updated": "2026-06-18T03:55:38Z",
   "live": [
     {
       "id": 62,
@@ -88,6 +88,18 @@
           "in": "A. Gomez",
           "minute": 90,
           "team": "COL"
+        },
+        {
+          "out": "J. Arias",
+          "in": "K. Castano",
+          "minute": 90,
+          "team": "COL"
+        },
+        {
+          "out": "E. Shomurodov",
+          "in": "I. Sergeev",
+          "minute": 90,
+          "team": "UZB"
         }
       ],
       "extra": 5,
