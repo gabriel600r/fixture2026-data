@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:39:30Z",
+  "updated": "2026-06-18T22:40:17Z",
   "live": [
     {
       "id": 10,
@@ -46,11 +46,11 @@
           2
         ],
         "passesTotal": [
-          150,
+          162,
           87
         ],
         "passesPct": [
-          86,
+          87,
           64
         ],
         "yellow": [
@@ -70,7 +70,7 @@
           1
         ],
         "passesAccurate": [
-          129,
+          141,
           56
         ],
         "offsides": [
@@ -98,8 +98,8 @@
           2
         ],
         "possession": [
-          65,
-          35
+          67,
+          33
         ],
         "home": "CAN",
         "away": "QAT"
