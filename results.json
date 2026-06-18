@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-18T00:18:34Z",
+  "updated": "2026-06-18T00:19:21Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Caleb Yirenkyi",
+          "player": "C. Yirenkyi",
           "minute": 16,
           "team": "GHA",
           "color": "yellow"
@@ -17,9 +17,9 @@
       ],
       "subs": [
         {
-          "out": "Lawrence Ati-Zigi",
-          "in": "Benjamin Asare",
-          "minute": 45,
+          "out": "L. Ati Zigi",
+          "in": "B. Asare",
+          "minute": 46,
           "team": "GHA"
         }
       ],
