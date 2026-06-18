@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:59:34Z",
+  "updated": "2026-06-18T04:00:21Z",
   "live": [
     {
       "id": 62,
@@ -26,9 +26,10 @@
           "assist": "G. Puerta"
         },
         {
-          "player": null,
+          "player": "J. Campaz",
           "minute": 90,
-          "team": "COL"
+          "team": "COL",
+          "assist": "C. Hernandez"
         }
       ],
       "cardEvents": [
@@ -107,7 +108,7 @@
           "team": "UZB"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "shotsOutside": [
           2,
