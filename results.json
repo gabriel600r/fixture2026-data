@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T22:37:56Z",
+  "updated": "2026-06-18T22:38:43Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 2,
       "away": 0,
       "goals": [
@@ -38,7 +38,7 @@
       ],
       "stats": {
         "shotsOff": [
-          1,
+          2,
           1
         ],
         "saves": [
@@ -46,12 +46,12 @@
           2
         ],
         "passesTotal": [
-          146,
-          79
+          150,
+          87
         ],
         "passesPct": [
-          88,
-          65
+          86,
+          64
         ],
         "yellow": [
           1,
@@ -62,7 +62,7 @@
           1
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "red": [
@@ -70,8 +70,8 @@
           1
         ],
         "passesAccurate": [
-          128,
-          51
+          129,
+          56
         ],
         "offsides": [
           0,
@@ -87,19 +87,19 @@
         ],
         "fouls": [
           2,
-          4
+          5
         ],
         "shotsBlocked": [
           2,
           1
         ],
         "shotsTotal": [
-          7,
+          8,
           2
         ],
         "possession": [
-          66,
-          34
+          65,
+          35
         ],
         "home": "CAN",
         "away": "QAT"
@@ -146,13 +146,13 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Stephen Eustaquio",
+                "n": 8,
+                "name": "Ismael Koné",
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Ismael Koné",
+                "n": 7,
+                "name": "Stephen Eustaquio",
                 "pos": "M"
               },
               {
