@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-18T20:33:14Z",
+  "updated": "2026-06-18T20:34:02Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 74,
-      "home": 0,
+      "minute": 75,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "J. Manzambi",
+          "minute": 74,
+          "team": "SUI"
+        }
+      ],
       "cardEvents": [
         {
           "player": "A. Dedic",
