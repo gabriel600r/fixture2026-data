@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:48:53Z",
+  "updated": "2026-06-18T22:49:39Z",
   "live": [
     {
       "id": 10,
@@ -49,7 +49,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           2,
