@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:08:58Z",
+  "updated": "2026-06-18T17:09:45Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 1,
       "away": 0,
       "goals": [
@@ -47,11 +47,11 @@
           0
         ],
         "passesTotal": [
-          159,
-          280
+          166,
+          286
         ],
         "passesPct": [
-          84,
+          83,
           90
         ],
         "yellow": [
@@ -71,8 +71,8 @@
           0
         ],
         "passesAccurate": [
-          133,
-          253
+          138,
+          257
         ],
         "offsides": [
           1,
@@ -88,7 +88,7 @@
         ],
         "fouls": [
           8,
-          4
+          5
         ],
         "shotsBlocked": [
           0,
@@ -237,8 +237,8 @@
         },
         "referee": "Tori Penso, USA",
         "motm": {
-          "player": "Michal Sadílek",
-          "rating": 7.5,
+          "player": "Ladislav Krejčí",
+          "rating": 7.2,
           "team": "CZE"
         }
       }
