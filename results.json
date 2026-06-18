@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T19:42:46Z",
+  "updated": "2026-06-18T19:43:33Z",
   "live": [
     {
       "id": 9,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,12 +17,12 @@
           1
         ],
         "passesTotal": [
-          294,
-          113
+          304,
+          127
         ],
         "passesPct": [
           89,
-          73
+          75
         ],
         "yellow": [
           0,
@@ -41,8 +41,8 @@
           0
         ],
         "passesAccurate": [
-          263,
-          82
+          270,
+          95
         ],
         "offsides": [
           2,
@@ -69,8 +69,8 @@
           2
         ],
         "possession": [
-          72,
-          28
+          70,
+          30
         ],
         "home": "SUI",
         "away": "BIH"
