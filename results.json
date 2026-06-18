@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:20:09Z",
+  "updated": "2026-06-18T00:20:56Z",
   "live": [
     {
       "id": 68,
@@ -25,7 +25,13 @@
         {
           "out": "E. Nuamah",
           "in": "I. Fatawu",
-          "minute": 59,
+          "minute": 58,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sulemana",
+          "in": "B. Thomas-Asante",
+          "minute": 58,
           "team": "GHA"
         }
       ],
