@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T20:31:40Z",
+  "updated": "2026-06-18T20:32:27Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -254,8 +254,8 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "G. Xhaka",
-          "rating": 7.2,
+          "player": "Granit Xhaka",
+          "rating": 7.5,
           "team": "SUI"
         }
       }
