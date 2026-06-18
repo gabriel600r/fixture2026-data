@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:33:35Z",
+  "updated": "2026-06-18T23:34:22Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 4,
       "away": 0,
       "goals": [
@@ -99,6 +99,12 @@
         {
           "out": "L. De Fougerolles",
           "in": "J. Shaffelburg",
+          "minute": 71,
+          "team": "CAN"
+        },
+        {
+          "out": "A. Ahmed",
+          "in": "T. Oluwaseyi",
           "minute": 71,
           "team": "CAN"
         }
