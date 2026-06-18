@@ -1,22 +1,27 @@
 {
-  "updated": "2026-06-18T22:29:20Z",
+  "updated": "2026-06-18T22:30:07Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 25,
-      "home": 1,
+      "minute": 30,
+      "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "C. Larin",
+          "player": "Cyle Larin",
           "minute": 16,
+          "team": "CAN"
+        },
+        {
+          "player": "Jonathan David",
+          "minute": 29,
           "team": "CAN"
         }
       ],
       "cardEvents": [
         {
-          "player": "D. Cornelius",
+          "player": "Derek Cornelius",
           "minute": 9,
           "team": "CAN",
           "color": "yellow"
