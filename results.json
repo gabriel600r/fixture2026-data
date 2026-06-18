@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:19:26Z",
+  "updated": "2026-06-18T23:20:14Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 3,
       "away": 0,
       "goals": [
@@ -71,6 +71,12 @@
           "out": "D. Cornelius",
           "in": "M. Bombito",
           "minute": 46,
+          "team": "CAN"
+        },
+        {
+          "out": "I. Kone",
+          "in": "N. Saliba",
+          "minute": 57,
           "team": "CAN"
         }
       ],
