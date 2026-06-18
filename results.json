@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:37:09Z",
+  "updated": "2026-06-18T22:37:56Z",
   "live": [
     {
       "id": 10,
@@ -20,7 +20,7 @@
         }
       ],
       "redCards": [
-        "H. Al Amin (Qatar) 32'"
+        "H. Al Amin (Qatar) 33'"
       ],
       "cardEvents": [
         {
@@ -31,7 +31,7 @@
         },
         {
           "player": "H. Al Amin",
-          "minute": 32,
+          "minute": 33,
           "team": "QAT",
           "color": "red"
         }
