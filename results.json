@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T01:01:57Z",
+  "updated": "2026-06-18T01:02:45Z",
   "live": [
     {
       "id": 68,
@@ -91,7 +91,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 11,
+      "extra": 12,
       "stats": {
         "shotsOutside": [
           0,
