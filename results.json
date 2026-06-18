@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:27:52Z",
+  "updated": "2026-06-18T17:28:40Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 0,
       "goals": [
@@ -51,8 +51,20 @@
         {
           "out": "I. Rayners",
           "in": "E. Makgopa",
-          "minute": 67,
+          "minute": 66,
           "team": "RSA"
+        },
+        {
+          "out": "A. Hlozek",
+          "in": "L. Provod",
+          "minute": 67,
+          "team": "CZE"
+        },
+        {
+          "out": "M. Sadilek",
+          "in": "T. Soucek",
+          "minute": 67,
+          "team": "CZE"
         }
       ],
       "stats": {
@@ -65,11 +77,11 @@
           2
         ],
         "passesTotal": [
-          229,
-          397
+          248,
+          406
         ],
         "passesPct": [
-          82,
+          83,
           90
         ],
         "yellow": [
@@ -89,8 +101,8 @@
           0
         ],
         "passesAccurate": [
-          188,
-          356
+          205,
+          364
         ],
         "offsides": [
           1,
@@ -105,7 +117,7 @@
           0
         ],
         "fouls": [
-          8,
+          9,
           8
         ],
         "shotsBlocked": [
@@ -117,8 +129,8 @@
           8
         ],
         "possession": [
-          37,
-          63
+          39,
+          61
         ],
         "home": "CZE",
         "away": "RSA"
