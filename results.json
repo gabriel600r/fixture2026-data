@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:07:40Z",
+  "updated": "2026-06-18T23:08:27Z",
   "live": [
     {
       "id": 10,
@@ -53,6 +53,18 @@
           "in": "A. Fathi",
           "minute": 46,
           "team": "QAT"
+        },
+        {
+          "out": "J. Gaber",
+          "in": "M. Al Mannai",
+          "minute": 46,
+          "team": "QAT"
+        },
+        {
+          "out": "D. Cornelius",
+          "in": "M. Bombito",
+          "minute": 46,
+          "team": "CAN"
         }
       ],
       "stats": {
