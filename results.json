@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:17:52Z",
+  "updated": "2026-06-18T23:18:40Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 3,
       "away": 0,
       "goals": [
@@ -26,7 +26,7 @@
       ],
       "redCards": [
         "H. Al Amin (Qatar) 33'",
-        "A. O. Madibo (Qatar) 51'"
+        "A. O. Madibo (Qatar) 53'"
       ],
       "cardEvents": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "player": "A. O. Madibo",
-          "minute": 51,
+          "minute": 53,
           "team": "QAT",
           "color": "red"
         }
@@ -105,7 +105,7 @@
         ],
         "red": [
           0,
-          1
+          2
         ],
         "passesAccurate": [
           286,
