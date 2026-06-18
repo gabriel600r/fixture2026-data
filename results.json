@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:55:34Z",
+  "updated": "2026-06-18T23:56:21Z",
   "live": [
     {
       "id": 10,
@@ -37,7 +37,8 @@
         {
           "player": "J. David",
           "minute": 90,
-          "team": "CAN"
+          "team": "CAN",
+          "assist": "N. Saliba"
         }
       ],
       "redCards": [
@@ -132,7 +133,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           6,
@@ -143,12 +144,12 @@
           4
         ],
         "passesTotal": [
-          505,
-          156
+          518,
+          160
         ],
         "passesPct": [
           90,
-          65
+          64
         ],
         "yellow": [
           1,
@@ -159,7 +160,7 @@
           1
         ],
         "shotsOutside": [
-          10,
+          11,
           1
         ],
         "red": [
@@ -167,31 +168,31 @@
           2
         ],
         "passesAccurate": [
-          456,
-          101
+          467,
+          103
         ],
         "offsides": [
           1,
           0
         ],
         "shotsInside": [
-          17,
+          18,
           1
         ],
         "shotsOn": [
-          9,
+          10,
           0
         ],
         "fouls": [
-          6,
+          7,
           9
         ],
         "shotsBlocked": [
-          12,
+          13,
           1
         ],
         "shotsTotal": [
-          27,
+          29,
           2
         ],
         "possession": [
