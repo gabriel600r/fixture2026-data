@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:10:49Z",
+  "updated": "2026-06-18T23:11:36Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 3,
       "away": 0,
       "goals": [
@@ -77,11 +77,11 @@
           4
         ],
         "passesTotal": [
-          252,
+          290,
           132
         ],
         "passesPct": [
-          88,
+          89,
           71
         ],
         "yellow": [
@@ -101,7 +101,7 @@
           1
         ],
         "passesAccurate": [
-          221,
+          259,
           94
         ],
         "offsides": [
@@ -129,8 +129,8 @@
           2
         ],
         "possession": [
-          67,
-          33
+          70,
+          30
         ],
         "home": "CAN",
         "away": "QAT"
