@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T01:13:32Z",
+  "updated": "2026-06-18T01:14:18Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
@@ -132,7 +132,8 @@
               }
             ]
           }
-        }
+        },
+        "referee": "Anthony Taylor, England"
       }
     }
   ],
