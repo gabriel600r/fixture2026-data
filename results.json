@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T16:37:39Z",
+  "updated": "2026-06-18T16:38:26Z",
   "live": [
     {
       "id": 3,
@@ -33,11 +33,11 @@
           0
         ],
         "passesTotal": [
-          125,
-          176
+          132,
+          194
         ],
         "passesPct": [
-          89,
+          87,
           89
         ],
         "yellow": [
@@ -57,12 +57,12 @@
           0
         ],
         "passesAccurate": [
-          111,
-          157
+          115,
+          173
         ],
         "offsides": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           4,
@@ -73,7 +73,7 @@
           0
         ],
         "fouls": [
-          6,
+          7,
           3
         ],
         "shotsBlocked": [
@@ -85,8 +85,8 @@
           3
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "home": "CZE",
         "away": "RSA"
