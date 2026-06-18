@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T02:34:54Z",
+  "updated": "2026-06-18T02:35:41Z",
   "live": [
     {
       "id": 62,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -31,7 +31,7 @@
           1
         ],
         "fouls": [
-          7,
+          8,
           3
         ],
         "shotsTotal": [
@@ -48,35 +48,35 @@
         ],
         "shotsOff": [
           0,
-          1
+          2
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "passesTotal": [
-          75,
-          195
+          79,
+          202
         ],
         "shotsInside": [
           0,
           1
         ],
         "passesPct": [
-          69,
-          89
+          68,
+          88
         ],
         "offsides": [
           0,
           1
         ],
         "passesAccurate": [
-          52,
-          174
+          54,
+          177
         ],
         "red": [
           0,
@@ -84,7 +84,7 @@
         ],
         "shotsOn": [
           0,
-          1
+          0
         ],
         "home": "UZB",
         "away": "COL"
