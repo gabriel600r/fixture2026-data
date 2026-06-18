@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:10:34Z",
+  "updated": "2026-06-18T22:11:21Z",
   "live": [
     {
       "id": 10,
@@ -22,22 +22,22 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          48,
-          18
+          61,
+          22
         ],
         "passesPct": [
-          90,
-          56
+          87,
+          50
         ],
         "yellow": [
           0,
           0
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
@@ -49,23 +49,23 @@
           0
         ],
         "passesAccurate": [
-          43,
-          10
+          53,
+          11
         ],
         "offsides": [
           0,
           0
         ],
         "shotsInside": [
-          0,
+          1,
           1
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "fouls": [
-          0,
+          1,
           0
         ],
         "shotsBlocked": [
@@ -73,12 +73,12 @@
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           1
         ],
         "possession": [
-          73,
-          27
+          75,
+          25
         ],
         "home": "CAN",
         "away": "QAT"
