@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:30:53Z",
+  "updated": "2026-06-18T20:31:40Z",
   "live": [
     {
       "id": 9,
@@ -39,6 +39,24 @@
           "in": "E. Bajraktarevic",
           "minute": 64,
           "team": "BIH"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "J. Manzambi",
+          "minute": 71,
+          "team": "SUI"
+        },
+        {
+          "out": "F. Rieder",
+          "in": "R. Vargas",
+          "minute": 71,
+          "team": "SUI"
+        },
+        {
+          "out": "M. Aebischer",
+          "in": "D. Sow",
+          "minute": 71,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -50,6 +68,14 @@
           2,
           3
         ],
+        "passesTotal": [
+          444,
+          280
+        ],
+        "passesPct": [
+          88,
+          81
+        ],
         "yellow": [
           1,
           2
@@ -58,21 +84,33 @@
           6,
           2
         ],
+        "shotsOutside": [
+          3,
+          2
+        ],
         "red": [
           0,
           0
+        ],
+        "passesAccurate": [
+          390,
+          228
         ],
         "offsides": [
           3,
           1
         ],
-        "fouls": [
-          6,
-          14
+        "shotsInside": [
+          5,
+          2
         ],
         "shotsOn": [
           3,
           2
+        ],
+        "fouls": [
+          6,
+          14
         ],
         "shotsBlocked": [
           2,
