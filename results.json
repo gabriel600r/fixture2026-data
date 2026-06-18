@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T02:43:31Z",
+  "updated": "2026-06-18T02:44:18Z",
   "live": [
     {
       "id": 62,
@@ -161,7 +161,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Nestor Lorenzo",
             "xi": [
               {
@@ -190,13 +190,13 @@
                 "pos": "D"
               },
               {
-                "n": 16,
-                "name": "Jefferson Lerma",
+                "n": 14,
+                "name": "Gustavo Puerta",
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Gustavo Puerta",
+                "n": 16,
+                "name": "Jefferson Lerma",
                 "pos": "M"
               },
               {
@@ -207,16 +207,16 @@
               {
                 "n": 10,
                 "name": "James Rodríguez",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Luis Díaz",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 25,
                 "name": "Luis Javier Suárez",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Luis Díaz",
                 "pos": "F"
               }
             ]
