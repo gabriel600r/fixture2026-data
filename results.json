@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:27:05Z",
+  "updated": "2026-06-18T17:27:52Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 1,
       "away": 0,
       "goals": [
@@ -47,6 +47,12 @@
           "in": "J. Zeleny",
           "minute": 55,
           "team": "CZE"
+        },
+        {
+          "out": "I. Rayners",
+          "in": "E. Makgopa",
+          "minute": 67,
+          "team": "RSA"
         }
       ],
       "stats": {
