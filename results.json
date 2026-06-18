@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-18T03:25:50Z",
+  "updated": "2026-06-18T03:26:37Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "D. Munoz",
@@ -18,6 +18,11 @@
           "player": "A. Fayzullaev",
           "minute": 60,
           "team": "UZB"
+        },
+        {
+          "player": "L. Diaz",
+          "minute": 65,
+          "team": "COL"
         }
       ],
       "cardEvents": [
