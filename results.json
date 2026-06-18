@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T00:39:04Z",
+  "updated": "2026-06-18T00:39:51Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -57,6 +57,12 @@
           "in": "I. Diaz",
           "minute": 74,
           "team": "PAN"
+        },
+        {
+          "out": "E. Owusu",
+          "in": "K. Sibo",
+          "minute": 78,
+          "team": "GHA"
         }
       ],
       "stats": {
