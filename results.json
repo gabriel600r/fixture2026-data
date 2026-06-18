@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T00:48:31Z",
+  "updated": "2026-06-18T00:49:18Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -62,6 +62,12 @@
           "out": "E. Owusu",
           "in": "K. Sibo",
           "minute": 78,
+          "team": "GHA"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "P. Adu",
+          "minute": 88,
           "team": "GHA"
         }
       ],
