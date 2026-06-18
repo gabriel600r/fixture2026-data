@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:23:22Z",
+  "updated": "2026-06-18T23:24:09Z",
   "live": [
     {
       "id": 10,
@@ -46,6 +46,12 @@
           "minute": 53,
           "team": "QAT",
           "color": "red"
+        },
+        {
+          "player": "A. Fathi",
+          "minute": 62,
+          "team": "QAT",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -96,12 +102,12 @@
           4
         ],
         "passesTotal": [
-          327,
-          134
+          332,
+          136
         ],
         "passesPct": [
           90,
-          71
+          70
         ],
         "yellow": [
           1,
@@ -120,7 +126,7 @@
           2
         ],
         "passesAccurate": [
-          294,
+          298,
           95
         ],
         "offsides": [
