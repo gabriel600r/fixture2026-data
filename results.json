@@ -1,13 +1,12 @@
 {
-  "updated": "2026-06-18T01:14:18Z",
-  "live": [],
-  "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
-  "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
-  "min_version": "1.9.25",
-  "brackets": {},
-  "prematch": [
+  "updated": "2026-06-18T02:01:05Z",
+  "live": [
     {
       "id": 62,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "lineups": {
           "home": {
@@ -137,6 +136,11 @@
       }
     }
   ],
+  "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
+  "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
+  "min_version": "1.9.25",
+  "brackets": {},
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
