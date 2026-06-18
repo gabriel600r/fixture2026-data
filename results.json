@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-18T20:57:34Z",
+  "updated": "2026-06-18T21:00:37Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 10,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Jesse Marsch",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Maxime Crépeau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Alistair Johnston",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Luc De Fougerolles",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Derek Cornelius",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Richie Laryea",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Tajon Buchanan",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Stephen Eustaquio",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Ismael Koné",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ali Ahmed",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jonathan David",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Cyle Larin",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Julen Lopetegui",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Mahmud Abunada",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Ayoub Al Oui",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Pedro Miguel",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Boualem Khoukhi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Homam Al-Amin",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jassem Gaber Abdulsallam",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Assim Madibo",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Issa Laye",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Edmilson Junior",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Yusuf Abdurisag",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Akram Afif",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Cristian Garay, Chile"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
