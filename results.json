@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T20:48:57Z",
+  "updated": "2026-06-18T20:49:44Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 89,
-      "home": 2,
+      "minute": 90,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -18,6 +18,12 @@
           "minute": 84,
           "team": "SUI",
           "assist": "B. Embolo"
+        },
+        {
+          "player": "J. Manzambi",
+          "minute": 90,
+          "team": "SUI",
+          "assist": "R. Vargas"
         }
       ],
       "redCards": [
