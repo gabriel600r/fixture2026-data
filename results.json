@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-18T22:52:01Z",
+  "updated": "2026-06-18T22:52:47Z",
   "live": [
     {
       "id": 10,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 3,
       "away": 0,
       "goals": [
         {
-          "player": "Cyle Larin",
+          "player": "C. Larin",
           "minute": 16,
           "team": "CAN"
         },
         {
-          "player": "Jonathan David",
+          "player": "J. David",
           "minute": 29,
           "team": "CAN"
         },
         {
-          "player": "Jonathan David",
-          "minute": 48,
+          "player": "J. David",
+          "minute": 45,
           "team": "CAN"
         }
       ],
       "redCards": [
-        "Homam Ahmed (Qatar) 33'"
+        "H. Al Amin (Qatar) 33'"
       ],
       "cardEvents": [
         {
-          "player": "Derek Cornelius",
+          "player": "D. Cornelius",
           "minute": 9,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Homam Ahmed",
+          "player": "H. Al Amin",
           "minute": 33,
           "team": "QAT",
           "color": "red"
@@ -43,8 +43,8 @@
       ],
       "subs": [
         {
-          "out": "Yusuf Abdurisag",
-          "in": "Sultan Al-Brake",
+          "out": "Y. Abdurisag",
+          "in": "S. Al Brake",
           "minute": 40,
           "team": "QAT"
         }
