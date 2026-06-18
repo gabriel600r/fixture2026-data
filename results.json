@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T23:36:43Z",
+  "updated": "2026-06-18T23:37:30Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 75,
-      "home": 4,
+      "minute": 76,
+      "home": 5,
       "away": 0,
       "goals": [
         {
@@ -29,9 +29,10 @@
           "team": "CAN"
         },
         {
-          "player": null,
+          "player": "M. Al Mannai",
           "minute": 75,
-          "team": "CAN"
+          "team": "CAN",
+          "og": true
         }
       ],
       "redCards": [
@@ -124,19 +125,19 @@
           4
         ],
         "passesTotal": [
-          378,
-          141
+          390,
+          142
         ],
         "passesPct": [
           90,
-          69
+          68
         ],
         "yellow": [
           1,
           1
         ],
         "corners": [
-          9,
+          10,
           1
         ],
         "shotsOutside": [
@@ -148,7 +149,7 @@
           2
         ],
         "passesAccurate": [
-          339,
+          350,
           97
         ],
         "offsides": [
@@ -165,7 +166,7 @@
         ],
         "fouls": [
           4,
-          8
+          9
         ],
         "shotsBlocked": [
           6,
@@ -176,8 +177,8 @@
           2
         ],
         "possession": [
-          74,
-          26
+          75,
+          25
         ],
         "home": "CAN",
         "away": "QAT"
