@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:51:40Z",
+  "updated": "2026-06-18T00:52:27Z",
   "live": [
     {
       "id": 68,
@@ -69,6 +69,12 @@
           "in": "P. Adu",
           "minute": 87,
           "team": "GHA"
+        },
+        {
+          "out": "C. Blackman",
+          "in": "A. Godoy",
+          "minute": 90,
+          "team": "PAN"
         }
       ],
       "extra": 1,
