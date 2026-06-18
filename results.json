@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T04:00:21Z",
+  "updated": "2026-06-18T04:01:08Z",
   "live": [
     {
       "id": 62,
@@ -108,7 +108,7 @@
           "team": "UZB"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
         "shotsOutside": [
           2,
@@ -124,7 +124,7 @@
         ],
         "shotsTotal": [
           6,
-          14
+          15
         ],
         "shotsBlocked": [
           1,
@@ -147,15 +147,15 @@
           62
         ],
         "passesTotal": [
-          307,
-          516
+          311,
+          522
         ],
         "shotsInside": [
           4,
-          9
+          10
         ],
         "passesPct": [
-          77,
+          76,
           86
         ],
         "offsides": [
@@ -163,8 +163,8 @@
           3
         ],
         "passesAccurate": [
-          236,
-          444
+          237,
+          448
         ],
         "red": [
           0,
@@ -172,7 +172,7 @@
         ],
         "shotsOn": [
           2,
-          3
+          4
         ],
         "home": "UZB",
         "away": "COL"
