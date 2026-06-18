@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T20:41:05Z",
+  "updated": "2026-06-18T20:41:53Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 0,
       "goals": [
@@ -270,7 +270,7 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Johan Manzambi",
+          "player": "Granit Xhaka",
           "rating": 7.7,
           "team": "SUI"
         }
