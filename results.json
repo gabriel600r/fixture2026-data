@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T23:53:13Z",
+  "updated": "2026-06-18T23:54:00Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
       "minute": 90,
-      "home": 5,
+      "home": 6,
       "away": 0,
       "goals": [
         {
@@ -33,6 +33,11 @@
           "minute": 75,
           "team": "CAN",
           "og": true
+        },
+        {
+          "player": "J. David",
+          "minute": 90,
+          "team": "CAN"
         }
       ],
       "redCards": [
@@ -127,7 +132,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           6,
