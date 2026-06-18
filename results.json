@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-18T16:07:04Z",
+  "updated": "2026-06-18T16:07:51Z",
   "live": [
     {
       "id": 3,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "M. Sadilek",
           "minute": 6,
-          "team": "CZE"
+          "team": "CZE",
+          "assist": "A. Sojka"
         }
       ],
       "stats": {
