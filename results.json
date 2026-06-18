@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:38:23Z",
+  "updated": "2026-06-18T03:39:10Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 2,
       "goals": [
@@ -58,6 +58,18 @@
           "in": "J. Campaz",
           "minute": 72,
           "team": "COL"
+        },
+        {
+          "out": "A. Fayzullaev",
+          "in": "A. Amonov",
+          "minute": 77,
+          "team": "UZB"
+        },
+        {
+          "out": "R. Ashurmatov",
+          "in": "J. Urozov",
+          "minute": 77,
+          "team": "UZB"
         }
       ],
       "stats": {
