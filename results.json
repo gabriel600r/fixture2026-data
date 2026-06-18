@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:25:03Z",
+  "updated": "2026-06-18T03:25:50Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 1,
       "goals": [
@@ -243,9 +243,9 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Daniel Muñoz",
+          "player": "Abbosbek Fayzullaev",
           "rating": 7.2,
-          "team": "COL"
+          "team": "UZB"
         }
       }
     }
