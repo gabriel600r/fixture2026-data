@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:55:14Z",
+  "updated": "2026-06-18T20:56:01Z",
   "live": [
     {
       "id": 9,
@@ -122,7 +122,7 @@
           "team": "BIH"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           3,
@@ -133,8 +133,8 @@
           3
         ],
         "passesTotal": [
-          563,
-          349
+          581,
+          353
         ],
         "passesPct": [
           88,
@@ -146,7 +146,7 @@
         ],
         "corners": [
           7,
-          2
+          3
         ],
         "shotsOutside": [
           4,
@@ -157,8 +157,8 @@
           1
         ],
         "passesAccurate": [
-          497,
-          283
+          512,
+          285
         ],
         "offsides": [
           3,
@@ -166,11 +166,11 @@
         ],
         "shotsInside": [
           8,
-          2
+          3
         ],
         "shotsOn": [
           6,
-          2
+          3
         ],
         "fouls": [
           7,
@@ -182,7 +182,7 @@
         ],
         "shotsTotal": [
           12,
-          4
+          5
         ],
         "possession": [
           62,
