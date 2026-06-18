@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:49:39Z",
+  "updated": "2026-06-18T22:50:26Z",
   "live": [
     {
       "id": 10,
@@ -49,7 +49,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           2,
@@ -57,7 +57,7 @@
         ],
         "saves": [
           0,
-          2
+          3
         ],
         "yellow": [
           1,
@@ -80,7 +80,7 @@
           5
         ],
         "shotsOn": [
-          5,
+          7,
           0
         ],
         "shotsBlocked": [
@@ -88,7 +88,7 @@
           1
         ],
         "shotsTotal": [
-          11,
+          13,
           2
         ],
         "possession": [
