@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:13:57Z",
+  "updated": "2026-06-18T23:14:44Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 3,
       "away": 0,
       "goals": [
@@ -39,6 +39,12 @@
           "minute": 33,
           "team": "QAT",
           "color": "red"
+        },
+        {
+          "player": "A. O. Madibo",
+          "minute": 51,
+          "team": "QAT",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -77,11 +83,11 @@
           4
         ],
         "passesTotal": [
-          290,
-          132
+          313,
+          133
         ],
         "passesPct": [
-          89,
+          90,
           71
         ],
         "yellow": [
@@ -101,15 +107,15 @@
           1
         ],
         "passesAccurate": [
-          259,
-          94
+          281,
+          95
         ],
         "offsides": [
           1,
           0
         ],
         "shotsInside": [
-          11,
+          12,
           1
         ],
         "shotsOn": [
@@ -121,16 +127,16 @@
           5
         ],
         "shotsBlocked": [
-          4,
+          5,
           1
         ],
         "shotsTotal": [
-          14,
+          15,
           2
         ],
         "possession": [
-          70,
-          30
+          71,
+          29
         ],
         "home": "CAN",
         "away": "QAT"
