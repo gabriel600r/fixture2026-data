@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:06:13Z",
+  "updated": "2026-06-18T03:07:00Z",
   "live": [
     {
       "id": 62,
@@ -29,10 +29,24 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "O. Urunov",
+          "in": "D. Khamdamov",
+          "minute": 46,
+          "team": "UZB"
+        },
+        {
+          "out": "S. Nasrullaev",
+          "in": "F. Sayfiev",
+          "minute": 46,
+          "team": "UZB"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "corners": [
           1,
@@ -44,11 +58,11 @@
         ],
         "shotsTotal": [
           1,
-          6
+          7
         ],
         "shotsBlocked": [
           0,
-          1
+          2
         ],
         "saves": [
           1,
@@ -63,27 +77,27 @@
           1
         ],
         "possession": [
-          27,
-          73
+          28,
+          72
         ],
         "passesTotal": [
-          109,
-          308
+          121,
+          309
         ],
         "shotsInside": [
           0,
           4
         ],
         "passesPct": [
-          70,
-          90
+          72,
+          89
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          76,
+          87,
           276
         ],
         "red": [
