@@ -1,17 +1,23 @@
 {
-  "updated": "2026-06-18T20:43:27Z",
+  "updated": "2026-06-18T20:44:14Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 84,
-      "home": 1,
+      "minute": 85,
+      "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "J. Manzambi",
           "minute": 74,
           "team": "SUI"
+        },
+        {
+          "player": "R. Vargas",
+          "minute": 84,
+          "team": "SUI",
+          "assist": "B. Embolo"
         }
       ],
       "redCards": [
@@ -85,11 +91,11 @@
           3
         ],
         "passesTotal": [
-          494,
+          515,
           333
         ],
         "passesPct": [
-          87,
+          88,
           82
         ],
         "yellow": [
@@ -97,11 +103,11 @@
           2
         ],
         "corners": [
-          6,
+          7,
           2
         ],
         "shotsOutside": [
-          3,
+          4,
           2
         ],
         "red": [
@@ -109,7 +115,7 @@
           1
         ],
         "passesAccurate": [
-          432,
+          452,
           272
         ],
         "offsides": [
@@ -121,7 +127,7 @@
           2
         ],
         "shotsOn": [
-          3,
+          4,
           2
         ],
         "fouls": [
@@ -133,12 +139,12 @@
           1
         ],
         "shotsTotal": [
-          9,
+          10,
           4
         ],
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "home": "SUI",
         "away": "BIH"
@@ -270,8 +276,8 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Granit Xhaka",
-          "rating": 7.7,
+          "player": "Manuel Akanji",
+          "rating": 7.9,
           "team": "SUI"
         }
       }
