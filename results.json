@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-18T03:58:47Z",
+  "updated": "2026-06-18T03:59:34Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "D. Munoz",
@@ -24,6 +24,11 @@
           "minute": 65,
           "team": "COL",
           "assist": "G. Puerta"
+        },
+        {
+          "player": null,
+          "minute": 90,
+          "team": "COL"
         }
       ],
       "cardEvents": [
@@ -102,7 +107,7 @@
           "team": "UZB"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "shotsOutside": [
           2,
