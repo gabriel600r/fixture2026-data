@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-18T02:06:37Z",
+  "updated": "2026-06-18T02:07:24Z",
   "live": [
     {
       "id": 62,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "J. Mojica",
+          "minute": 7,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           0,
