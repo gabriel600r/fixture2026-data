@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:45:21Z",
+  "updated": "2026-06-18T23:46:08Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 5,
       "away": 0,
       "goals": [
@@ -112,6 +112,12 @@
           "out": "A. Ahmed",
           "in": "T. Oluwaseyi",
           "minute": 71,
+          "team": "CAN"
+        },
+        {
+          "out": "T. Buchanan",
+          "in": "N. Sigur",
+          "minute": 83,
           "team": "CAN"
         }
       ],
