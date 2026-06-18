@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T02:39:36Z",
+  "updated": "2026-06-18T02:40:23Z",
   "live": [
     {
       "id": 62,
@@ -7,6 +7,13 @@
       "minute": 40,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 41,
+          "team": "COL"
+        }
+      ],
       "cardEvents": [
         {
           "player": "J. Mojica",
