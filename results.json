@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:48:30Z",
+  "updated": "2026-06-18T23:49:17Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 5,
       "away": 0,
       "goals": [
@@ -119,6 +119,12 @@
           "in": "N. Sigur",
           "minute": 83,
           "team": "CAN"
+        },
+        {
+          "out": "A. Fathi",
+          "in": "Lucas Mendes",
+          "minute": 87,
+          "team": "QAT"
         }
       ],
       "stats": {
