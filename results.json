@@ -1,9 +1,9 @@
 {
   "updated": "2026-06-18T04:02:42Z",
   "live": [],
-  "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
-  "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
-  "min_version": "1.9.25",
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.34",
   "brackets": {},
   "prematch": [],
   "news": [
@@ -94,6 +94,14 @@
       "title_en": "What's new in v1.9.25 ⚽",
       "body_es": "📲 Si tenés un grupo de Prode, actualizá la app, por favor 🙏\nEsta versión trae el arreglo que te venía contando: tu pronóstico del celular ahora sincroniza siempre con el grupo y los puntos se recalculan solos. Es un cambio que vive dentro de la app, así que para tenerlo necesitás actualizar a la última versión (v1.9.25). Si jugás el Prode con amigos o familia, pasales el dato así actualizan todos. 💪\n\nAdemás, en esta versión:\n\n🗓️ Nueva pestaña \"Ayer\": revisá los resultados del día anterior y deslizá para ver también los próximos días.\n\n📊 Filtros en las estadísticas: tocá para ordenar goleadores, asistencias, tarjetas y equipos como más te guste.\n\n🟨 Tarjetas amarillas con detalle: ahora ves el nombre y el minuto en el detalle de cada partido.\n\n⚽ Goles en contra: figuran en la columna del equipo al que favorecen.\n\nGracias de nuevo por bancar la app en el Mundial. ¡A seguir disfrutándolo! ⚽",
       "body_en": "📲 If you play in a Prode group, please update the app 🙏\nThis version brings the fix I told you about: your phone's prediction now always syncs with the group, and the points recalculate on their own. It's a change that lives inside the app, so to get it you need to update to the latest version (v1.9.25). If you play the Prode with friends or family, spread the word so everyone updates. 💪\n\nAlso in this version:\n\n🗓️ New \"Yesterday\" tab: check the previous day's results and swipe to see upcoming days too.\n\n📊 Stats filters: tap to sort scorers, assists, cards and teams however you like.\n\n🟨 Yellow cards with detail: you now see the player's name and minute in each match's detail.\n\n⚽ Own goals: they appear under the column of the team they benefit.\n\nThanks again for supporting the app during the World Cup. Enjoy it! ⚽"
+    },
+    {
+      "id": 12,
+      "date": "18/06/2026",
+      "title_es": "Novedades ⚽",
+      "title_en": "What's new ⚽",
+      "body_es": "📩 ¡Gracias por seguir disfrutando la app durante el Mundial! Del otro lado estoy monitoreando todo para darles la mejor experiencia. Muchas de estas mejoras nacen de su devolución —que está siendo fenomenal—, y eso es lo que me mueve. 🙌\n\nLo nuevo:\n🔁 Sustituciones del partido: quién entra y sale, y a qué minuto.\n🅰️ Asistencias: quién dio el pase en cada gol.\n🧑‍⚖️ Árbitro del partido, con su país y banderita.\n📊 Estadísticas más completas: top 30 en goleadores, asistencias y tarjetas.\n⏳ \"Próximo partido\": cuenta regresiva del que está por arrancar.\n✅ \"Finalizado\": los partidos jugados se marcan de un vistazo.\n📅 Más días hacia atrás en Hoy, y el día de la semana en cada fecha.\n🟢 Estado real de cada partido: se acabó el falso \"EN VIVO\" cuando se demora.\n🔔 La notificación en vivo ahora muestra el tiempo adicional (45+4).\n⏱️ El minuto del partido en vivo corre más fluido, sin saltos.\n🌙 Mejor legibilidad en modo oscuro.\n\n¡A seguir disfrutando el Mundial! ⚽\n\n🎬 Un agradecimiento especial: el video de la app en la ficha de Play Store lo hizo mi hija Mica. ¡Gracias, Mica! 💙",
+      "body_en": "📩 Thanks for enjoying the app during the World Cup! Behind the scenes I keep an eye on everything to give you the best possible experience. Many of these improvements come from your feedback —which has been phenomenal—, and that's what keeps me going. 🙌\n\nWhat's new:\n🔁 Substitutions: who comes on and off, and when.\n🅰️ Assists: who set up each goal.\n🧑‍⚖️ Match referee, with country and flag.\n📊 Fuller stats: top 30 scorers, assists and cards.\n⏳ \"Up next\": a countdown for the match about to kick off.\n✅ \"Final\": played matches are marked at a glance.\n📅 More past days on Today, and the weekday on each date.\n🟢 Real match status: no more fake \"LIVE\" when a match is delayed.\n🔔 The live score notification now shows added time (45+4).\n⏱️ The live match minute now ticks smoothly, no jumps.\n🌙 Better dark-mode readability.\n\nEnjoy the World Cup! ⚽\n\n🎬 A special thank-you: the video on the app's Play Store page was made by my daughter, Mica. Thanks, Mica! 💙"
     }
   ],
   "results": [
