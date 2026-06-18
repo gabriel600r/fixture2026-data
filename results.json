@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:23:29Z",
+  "updated": "2026-06-18T03:24:16Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 1,
       "away": 1,
       "goals": [
@@ -16,7 +16,7 @@
         },
         {
           "player": "A. Fayzullaev",
-          "minute": 61,
+          "minute": 60,
           "team": "UZB"
         }
       ],
