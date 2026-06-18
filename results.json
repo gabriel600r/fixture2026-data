@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:06:46Z",
+  "updated": "2026-06-18T00:07:34Z",
   "live": [
     {
       "id": 68,
@@ -15,6 +15,14 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "L. Ati Zigi",
+          "in": "B. Asare",
+          "minute": 46,
+          "team": "GHA"
+        }
+      ],
       "extra": 6,
       "stats": {
         "shotsOutside": [
@@ -27,7 +35,7 @@
         ],
         "fouls": [
           3,
-          5
+          6
         ],
         "shotsTotal": [
           1,
@@ -50,28 +58,28 @@
           0
         ],
         "possession": [
-          35,
-          65
+          36,
+          64
         ],
         "passesTotal": [
-          163,
-          299
+          172,
+          315
         ],
         "shotsInside": [
-          0,
+          1,
           3
         ],
         "passesPct": [
-          81,
+          82,
           88
         ],
         "offsides": [
-          2,
+          3,
           1
         ],
         "passesAccurate": [
-          132,
-          262
+          141,
+          276
         ],
         "red": [
           0,
