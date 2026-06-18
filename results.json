@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:47:43Z",
+  "updated": "2026-06-18T23:48:30Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 5,
       "away": 0,
       "goals": [
@@ -131,11 +131,11 @@
           4
         ],
         "passesTotal": [
-          451,
-          150
+          469,
+          151
         ],
         "passesPct": [
-          90,
+          91,
           67
         ],
         "yellow": [
@@ -155,8 +155,8 @@
           2
         ],
         "passesAccurate": [
-          408,
-          100
+          425,
+          101
         ],
         "offsides": [
           1,
@@ -183,8 +183,8 @@
           2
         ],
         "possession": [
-          76,
-          24
+          77,
+          23
         ],
         "home": "CAN",
         "away": "QAT"
@@ -322,7 +322,7 @@
         "referee": "Cristian Garay, Chile",
         "motm": {
           "player": "Stephen Eustaquio",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "CAN"
         }
       }
