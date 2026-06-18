@@ -1,299 +1,6 @@
 {
-  "updated": "2026-06-18T01:03:32Z",
-  "live": [
-    {
-      "id": 68,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "C. Yirenkyi",
-          "minute": 90,
-          "team": "GHA",
-          "assist": "B. Thomas-Asante"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "C. Yirenkyi",
-          "minute": 16,
-          "team": "GHA",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Blackman",
-          "minute": 73,
-          "team": "PAN",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Harvey",
-          "minute": 90,
-          "team": "PAN",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "L. Ati Zigi",
-          "in": "B. Asare",
-          "minute": 46,
-          "team": "GHA"
-        },
-        {
-          "out": "E. Nuamah",
-          "in": "I. Fatawu",
-          "minute": 58,
-          "team": "GHA"
-        },
-        {
-          "out": "K. Sulemana",
-          "in": "B. Thomas-Asante",
-          "minute": 58,
-          "team": "GHA"
-        },
-        {
-          "out": "C. Waterman",
-          "in": "J. Fajardo",
-          "minute": 63,
-          "team": "PAN"
-        },
-        {
-          "out": "C. Martinez",
-          "in": "A. Londono",
-          "minute": 63,
-          "team": "PAN"
-        },
-        {
-          "out": "J. Rodriguez",
-          "in": "I. Diaz",
-          "minute": 74,
-          "team": "PAN"
-        },
-        {
-          "out": "E. Owusu",
-          "in": "K. Sibo",
-          "minute": 78,
-          "team": "GHA"
-        },
-        {
-          "out": "J. Ayew",
-          "in": "P. Adu",
-          "minute": 87,
-          "team": "GHA"
-        },
-        {
-          "out": "C. Blackman",
-          "in": "A. Godoy",
-          "minute": 90,
-          "team": "PAN"
-        }
-      ],
-      "extra": 12,
-      "stats": {
-        "shotsOutside": [
-          0,
-          0
-        ],
-        "corners": [
-          0,
-          0
-        ],
-        "fouls": [
-          3,
-          6
-        ],
-        "shotsTotal": [
-          1,
-          3
-        ],
-        "shotsBlocked": [
-          0,
-          1
-        ],
-        "saves": [
-          1,
-          0
-        ],
-        "shotsOff": [
-          1,
-          1
-        ],
-        "yellow": [
-          1,
-          0
-        ],
-        "possession": [
-          36,
-          64
-        ],
-        "passesTotal": [
-          172,
-          315
-        ],
-        "shotsInside": [
-          1,
-          3
-        ],
-        "passesPct": [
-          82,
-          88
-        ],
-        "offsides": [
-          3,
-          1
-        ],
-        "passesAccurate": [
-          141,
-          276
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          0,
-          1
-        ],
-        "home": "GHA",
-        "away": "PAN"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-4-1-1",
-            "coach": "Carlos Queiroz",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Lawrence Ati Zigi",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Marvin Senaya",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Jonas Adjei Adjetey",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Jerome Opoku",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Gideon Mensah",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Ernest Nuamah",
-                "pos": "M"
-              },
-              {
-                "n": 3,
-                "name": "Caleb Yirenkyi",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Elisha Owusu",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Antoine Semenyo",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Kamaldeen Sulemana",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Jordan Ayew",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-3",
-            "coach": "Thomas Christiansen",
-            "xi": [
-              {
-                "n": 22,
-                "name": "Orlando Mosquera",
-                "pos": "G"
-              },
-              {
-                "n": 13,
-                "name": "Jiovany Ramos",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "José Córdoba",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Andrés Andrade",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Amir Murillo",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Carlos Harvey",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Yoel Bárcenas",
-                "pos": "M"
-              },
-              {
-                "n": 2,
-                "name": "César Blackman",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Cristian Martínez",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "Cecilio Waterman",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "José Luis Rodríguez",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Glenn Nyberg, Sweden",
-        "motm": {
-          "player": "Andrés Andrade",
-          "rating": 7.5,
-          "team": "PAN"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-18T01:04:19Z",
+  "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
@@ -6956,14 +6663,90 @@
     },
     {
       "id": 68,
-      "home": 0,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "C. Yirenkyi",
+          "minute": 90,
+          "team": "GHA",
+          "assist": "B. Thomas-Asante"
+        }
+      ],
       "cardEvents": [
         {
           "player": "C. Yirenkyi",
           "minute": 16,
           "team": "GHA",
           "color": "yellow"
+        },
+        {
+          "player": "C. Blackman",
+          "minute": 73,
+          "team": "PAN",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Harvey",
+          "minute": 90,
+          "team": "PAN",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "L. Ati Zigi",
+          "in": "B. Asare",
+          "minute": 46,
+          "team": "GHA"
+        },
+        {
+          "out": "E. Nuamah",
+          "in": "I. Fatawu",
+          "minute": 58,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sulemana",
+          "in": "B. Thomas-Asante",
+          "minute": 58,
+          "team": "GHA"
+        },
+        {
+          "out": "C. Waterman",
+          "in": "J. Fajardo",
+          "minute": 63,
+          "team": "PAN"
+        },
+        {
+          "out": "C. Martinez",
+          "in": "A. Londono",
+          "minute": 63,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "I. Diaz",
+          "minute": 74,
+          "team": "PAN"
+        },
+        {
+          "out": "E. Owusu",
+          "in": "K. Sibo",
+          "minute": 78,
+          "team": "GHA"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "P. Adu",
+          "minute": 87,
+          "team": "GHA"
+        },
+        {
+          "out": "C. Blackman",
+          "in": "A. Godoy",
+          "minute": 90,
+          "team": "PAN"
         }
       ],
       "stats": {
@@ -6977,11 +6760,11 @@
         ],
         "fouls": [
           3,
-          1
+          6
         ],
         "shotsTotal": [
-          0,
-          2
+          1,
+          3
         ],
         "shotsBlocked": [
           0,
@@ -6992,36 +6775,36 @@
           0
         ],
         "shotsOff": [
-          0,
-          0
+          1,
+          1
         ],
         "yellow": [
           1,
           0
         ],
         "possession": [
-          34,
-          66
+          36,
+          64
         ],
         "passesTotal": [
-          102,
-          202
+          172,
+          315
         ],
         "shotsInside": [
-          0,
-          2
+          1,
+          3
         ],
         "passesPct": [
-          86,
-          90
+          82,
+          88
         ],
         "offsides": [
-          2,
+          3,
           1
         ],
         "passesAccurate": [
-          88,
-          181
+          141,
+          276
         ],
         "red": [
           0,
@@ -7071,13 +6854,13 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Elisha Owusu",
+                "n": 3,
+                "name": "Caleb Yirenkyi",
                 "pos": "M"
               },
               {
-                "n": 3,
-                "name": "Caleb Yirenkyi",
+                "n": 15,
+                "name": "Elisha Owusu",
                 "pos": "M"
               },
               {
@@ -7159,7 +6942,12 @@
             ]
           }
         },
-        "referee": "Glenn Nyberg, Sweden"
+        "referee": "Glenn Nyberg, Sweden",
+        "motm": {
+          "player": "Andrés Andrade",
+          "rating": 7.5,
+          "team": "PAN"
+        }
       }
     }
   ],
@@ -7271,6 +7059,11 @@
         "goals": 1
       },
       {
+        "player": "C. Yirenkyi",
+        "team": "GHA",
+        "goals": 1
+      },
+      {
         "player": "D. Kamada",
         "team": "JPN",
         "goals": 1
@@ -7315,11 +7108,6 @@
       {
         "player": "J. Bellingham",
         "team": "ENG",
-        "goals": 1
-      },
-      {
-        "player": "J. Lukic",
-        "team": "BIH",
         "goals": 1
       }
     ],
@@ -7369,6 +7157,11 @@
       {
         "player": "B. Saka",
         "team": "ENG",
+        "assists": 1
+      },
+      {
+        "player": "B. Thomas-Asante",
+        "team": "GHA",
         "assists": 1
       },
       {
@@ -7471,11 +7264,6 @@
         "player": "M. Salah",
         "team": "EGY",
         "assists": 1
-      },
-      {
-        "player": "Malik Tillman",
-        "team": "USA",
-        "assists": 1
       }
     ],
     "cards": [
@@ -7536,6 +7324,18 @@
       {
         "player": "Brian Gutiérrez",
         "team": "MEX",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "C. Blackman",
+        "team": "PAN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "C. Harvey",
+        "team": "PAN",
         "red": 0,
         "yellow": 1
       },
@@ -7644,18 +7444,6 @@
       {
         "player": "K. McLean",
         "team": "SCO",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "L. De Fougerolles",
-        "team": "CAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Lee Gi-Hyuk",
-        "team": "KOR",
         "red": 0,
         "yellow": 1
       }
@@ -7832,6 +7620,20 @@
     },
     {
       "code": "CIV",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "loses": 0,
+      "gf": 1,
+      "ga": 0,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "1-0",
+      "biggestLose": "",
+      "form": "W"
+    },
+    {
+      "code": "GHA",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -8097,34 +7899,6 @@
       "form": "D"
     },
     {
-      "code": "GHA",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 0,
-      "ga": 0,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
-    },
-    {
-      "code": "PAN",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 0,
-      "ga": 0,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
-    },
-    {
       "code": "CZE",
       "played": 1,
       "wins": 0,
@@ -8154,6 +7928,20 @@
     },
     {
       "code": "ECU",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "loses": 1,
+      "gf": 0,
+      "ga": 1,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-1",
+      "form": "L"
+    },
+    {
+      "code": "PAN",
       "played": 1,
       "wins": 0,
       "draws": 0,
