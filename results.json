@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-18T20:52:05Z",
+  "updated": "2026-06-18T20:52:52Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
       "minute": 90,
       "home": 3,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "J. Manzambi",
@@ -24,6 +24,11 @@
           "minute": 90,
           "team": "SUI",
           "assist": "R. Vargas"
+        },
+        {
+          "player": "E. Mahmic",
+          "minute": 90,
+          "team": "BIH"
         }
       ],
       "redCards": [
@@ -117,7 +122,7 @@
           "team": "BIH"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           3,
@@ -128,11 +133,11 @@
           3
         ],
         "passesTotal": [
-          558,
-          339
+          563,
+          349
         ],
         "passesPct": [
-          89,
+          88,
           81
         ],
         "yellow": [
@@ -152,8 +157,8 @@
           1
         ],
         "passesAccurate": [
-          494,
-          275
+          497,
+          283
         ],
         "offsides": [
           3,
