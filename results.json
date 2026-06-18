@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T22:32:28Z",
+  "updated": "2026-06-18T22:33:15Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 2,
       "away": 0,
       "goals": [
@@ -24,6 +24,12 @@
           "player": "D. Cornelius",
           "minute": 9,
           "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Al Amin",
+          "minute": 32,
+          "team": "QAT",
           "color": "yellow"
         }
       ],
