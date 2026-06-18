@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:54:00Z",
+  "updated": "2026-06-18T23:54:47Z",
   "live": [
     {
       "id": 10,
@@ -132,7 +132,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           6,
@@ -143,11 +143,11 @@
           4
         ],
         "passesTotal": [
-          498,
+          505,
           156
         ],
         "passesPct": [
-          91,
+          90,
           65
         ],
         "yellow": [
@@ -155,11 +155,11 @@
           1
         ],
         "corners": [
-          15,
+          16,
           1
         ],
         "shotsOutside": [
-          9,
+          10,
           1
         ],
         "red": [
@@ -167,7 +167,7 @@
           2
         ],
         "passesAccurate": [
-          451,
+          456,
           101
         ],
         "offsides": [
@@ -183,15 +183,15 @@
           0
         ],
         "fouls": [
-          5,
+          6,
           9
         ],
         "shotsBlocked": [
-          11,
+          12,
           1
         ],
         "shotsTotal": [
-          26,
+          27,
           2
         ],
         "possession": [
@@ -334,7 +334,7 @@
         "referee": "Cristian Garay, Chile",
         "motm": {
           "player": "Richie Laryea",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "CAN"
         }
       }
