@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T20:56:01Z",
+  "updated": "2026-06-18T20:56:48Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
       "minute": 90,
-      "home": 3,
+      "home": 4,
       "away": 1,
       "goals": [
         {
@@ -29,6 +29,12 @@
           "player": "E. Mahmic",
           "minute": 90,
           "team": "BIH"
+        },
+        {
+          "player": "G. Xhaka",
+          "minute": 90,
+          "team": "SUI",
+          "pen": true
         }
       ],
       "redCards": [
@@ -318,7 +324,7 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Rubén Vargas",
+          "player": "Johan Manzambi",
           "rating": 8.5,
           "team": "SUI"
         }
