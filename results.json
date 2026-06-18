@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T16:32:58Z",
+  "updated": "2026-06-18T16:33:45Z",
   "live": [
     {
       "id": 3,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 6,
           "team": "CZE",
           "assist": "A. Sojka"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "T. Mokoena",
+          "minute": 34,
+          "team": "RSA",
+          "color": "yellow"
         }
       ],
       "stats": {
@@ -25,11 +33,11 @@
           0
         ],
         "passesTotal": [
-          99,
-          148
+          102,
+          165
         ],
         "passesPct": [
-          90,
+          88,
           89
         ],
         "yellow": [
@@ -49,8 +57,8 @@
           0
         ],
         "passesAccurate": [
-          89,
-          132
+          90,
+          147
         ],
         "offsides": [
           1,
@@ -65,7 +73,7 @@
           0
         ],
         "fouls": [
-          4,
+          5,
           3
         ],
         "shotsBlocked": [
@@ -77,8 +85,8 @@
           2
         ],
         "possession": [
-          42,
-          58
+          40,
+          60
         ],
         "home": "CZE",
         "away": "RSA"
