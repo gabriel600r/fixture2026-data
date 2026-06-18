@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:52:30Z",
+  "updated": "2026-06-18T03:53:17Z",
   "live": [
     {
       "id": 62,
@@ -84,14 +84,14 @@
           "team": "COL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOutside": [
-          1,
+          2,
           5
         ],
         "corners": [
-          2,
+          3,
           4
         ],
         "fouls": [
@@ -99,11 +99,11 @@
           10
         ],
         "shotsTotal": [
-          3,
-          13
+          4,
+          14
         ],
         "shotsBlocked": [
-          0,
+          1,
           4
         ],
         "saves": [
@@ -112,35 +112,35 @@
         ],
         "shotsOff": [
           1,
-          6
+          7
         ],
         "yellow": [
           1,
           1
         ],
         "possession": [
-          34,
-          66
+          35,
+          65
         ],
         "passesTotal": [
-          252,
-          499
+          265,
+          506
         ],
         "shotsInside": [
           2,
-          8
+          9
         ],
         "passesPct": [
-          73,
-          87
+          74,
+          86
         ],
         "offsides": [
           0,
           3
         ],
         "passesAccurate": [
-          183,
-          432
+          195,
+          437
         ],
         "red": [
           0,
