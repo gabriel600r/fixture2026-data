@@ -1,24 +1,44 @@
 {
-  "updated": "2026-06-18T20:26:53Z",
+  "updated": "2026-06-18T20:27:41Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 64,
+      "minute": 68,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "A. Dedic",
+          "player": "Amar Dedić",
           "minute": 59,
           "team": "BIH",
           "color": "yellow"
         },
         {
-          "player": "E. Dzeko",
+          "player": "Edin Džeko",
           "minute": 61,
           "team": "BIH",
           "color": "yellow"
+        },
+        {
+          "player": "Nico Elvedi",
+          "minute": 65,
+          "team": "SUI",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Benjamin Tahirovic",
+          "in": "Ivan Bašić",
+          "minute": 63,
+          "team": "BIH"
+        },
+        {
+          "out": "Edin Džeko",
+          "in": "Esmir Bajraktarević",
+          "minute": 64,
+          "team": "BIH"
         }
       ],
       "stats": {
@@ -30,49 +50,29 @@
           1,
           3
         ],
-        "passesTotal": [
-          441,
-          243
-        ],
-        "passesPct": [
-          88,
-          79
-        ],
         "yellow": [
-          0,
+          1,
           2
         ],
         "corners": [
           6,
           2
         ],
-        "shotsOutside": [
-          3,
-          1
-        ],
         "red": [
           0,
           0
-        ],
-        "passesAccurate": [
-          388,
-          192
         ],
         "offsides": [
           3,
           1
         ],
-        "shotsInside": [
-          5,
-          2
+        "fouls": [
+          6,
+          14
         ],
         "shotsOn": [
           3,
           1
-        ],
-        "fouls": [
-          5,
-          14
         ],
         "shotsBlocked": [
           2,
@@ -83,8 +83,8 @@
           3
         ],
         "possession": [
-          64,
-          36
+          62,
+          38
         ],
         "home": "SUI",
         "away": "BIH"
