@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:45:49Z",
+  "updated": "2026-06-18T20:46:36Z",
   "live": [
     {
       "id": 9,
@@ -85,6 +85,18 @@
           "in": "J. Lukic",
           "minute": 86,
           "team": "BIH"
+        },
+        {
+          "out": "I. Sunjic",
+          "in": "A. Hadziahmetovic",
+          "minute": 86,
+          "team": "BIH"
+        },
+        {
+          "out": "S. Widmer",
+          "in": "L. Jaquez",
+          "minute": 86,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -97,7 +109,7 @@
           3
         ],
         "passesTotal": [
-          515,
+          531,
           333
         ],
         "passesPct": [
@@ -121,7 +133,7 @@
           1
         ],
         "passesAccurate": [
-          452,
+          467,
           272
         ],
         "offsides": [
@@ -129,11 +141,11 @@
           1
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "shotsOn": [
-          4,
+          5,
           2
         ],
         "fouls": [
@@ -145,7 +157,7 @@
           1
         ],
         "shotsTotal": [
-          10,
+          11,
           4
         ],
         "possession": [
