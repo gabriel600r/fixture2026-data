@@ -1,11 +1,141 @@
 {
-  "updated": "2026-06-18T01:04:19Z",
+  "updated": "2026-06-18T01:13:32Z",
   "live": [],
   "update_en": "There's an important Prode improvement: your prediction now always syncs with your group and points update automatically. Update to get it. Thanks for supporting the app! ⚽",
   "update_es": "Salió una mejora importante para el Prode: tu pronóstico ahora sincroniza siempre con tu grupo y los puntos se actualizan solos. Actualizá para tenerla. ¡Gracias por bancar la app! ⚽",
   "min_version": "1.9.25",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 62,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Fabio Cannavaro",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Utkir Yusupov",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Rustam Ashurmatov",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Abdukodir Khusanov",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Abdulla Abdullaev",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Bekhruz Karimov",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Akmal Mozgovoy",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Otabek Shukurov",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Sherzod Nasrullaev",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Abbosbek Fayzullaev",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Oston Urunov",
+                "pos": "F"
+              },
+              {
+                "n": 14,
+                "name": "Eldor Shomurodov",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Nestor Lorenzo",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Camilo Vargas",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Daniel Muñoz",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Davinson Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jhon Lucumí",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Johan Mojica",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Jefferson Lerma",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Gustavo Puerta",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jhon Arias",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "James Rodríguez",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Luis Díaz",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Luis Javier Suárez",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
