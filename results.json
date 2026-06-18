@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:38:53Z",
+  "updated": "2026-06-18T17:39:40Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 0,
       "goals": [
@@ -71,6 +71,12 @@
           "in": "T. Soucek",
           "minute": 67,
           "team": "CZE"
+        },
+        {
+          "out": "L. Cerv",
+          "in": "D. Zima",
+          "minute": 78,
+          "team": "CZE"
         }
       ],
       "stats": {
@@ -83,15 +89,15 @@
           2
         ],
         "passesTotal": [
-          265,
-          428
+          277,
+          434
         ],
         "passesPct": [
-          81,
+          82,
           90
         ],
         "yellow": [
-          0,
+          1,
           2
         ],
         "corners": [
@@ -107,8 +113,8 @@
           0
         ],
         "passesAccurate": [
-          215,
-          385
+          226,
+          391
         ],
         "offsides": [
           1,
@@ -123,8 +129,8 @@
           1
         ],
         "fouls": [
-          9,
-          8
+          10,
+          9
         ],
         "shotsBlocked": [
           3,
