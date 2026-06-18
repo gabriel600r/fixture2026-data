@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-18T20:30:05Z",
+  "updated": "2026-06-18T20:30:53Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Amar Dedić",
+          "player": "A. Dedic",
           "minute": 59,
           "team": "BIH",
           "color": "yellow"
         },
         {
-          "player": "Edin Džeko",
+          "player": "E. Dzeko",
           "minute": 61,
           "team": "BIH",
           "color": "yellow"
         },
         {
-          "player": "Nico Elvedi",
+          "player": "N. Elvedi",
           "minute": 65,
           "team": "SUI",
           "color": "yellow"
@@ -29,14 +29,14 @@
       ],
       "subs": [
         {
-          "out": "Benjamin Tahirovic",
-          "in": "Ivan Bašić",
+          "out": "B. Tahirovic",
+          "in": "I. Basic",
           "minute": 63,
           "team": "BIH"
         },
         {
-          "out": "Edin Džeko",
-          "in": "Esmir Bajraktarević",
+          "out": "E. Dzeko",
+          "in": "E. Bajraktarevic",
           "minute": 64,
           "team": "BIH"
         }
