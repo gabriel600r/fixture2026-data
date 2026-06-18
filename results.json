@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:24:56Z",
+  "updated": "2026-06-18T23:25:43Z",
   "live": [
     {
       "id": 10,
@@ -21,6 +21,11 @@
         {
           "player": "J. David",
           "minute": 45,
+          "team": "CAN"
+        },
+        {
+          "player": "N. Saliba",
+          "minute": 64,
           "team": "CAN"
         }
       ],
