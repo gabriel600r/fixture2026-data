@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:24:05Z",
+  "updated": "2026-06-18T00:24:52Z",
   "live": [
     {
       "id": 68,
@@ -33,6 +33,18 @@
           "in": "B. Thomas-Asante",
           "minute": 58,
           "team": "GHA"
+        },
+        {
+          "out": "C. Waterman",
+          "in": "J. Fajardo",
+          "minute": 63,
+          "team": "PAN"
+        },
+        {
+          "out": "C. Martinez",
+          "in": "A. Londono",
+          "minute": 63,
+          "team": "PAN"
         }
       ],
       "stats": {
