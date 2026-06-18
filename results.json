@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:21:08Z",
+  "updated": "2026-06-18T03:21:55Z",
   "live": [
     {
       "id": 62,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 1,
       "goals": [
@@ -13,6 +13,11 @@
           "minute": 40,
           "team": "COL",
           "assist": "L. Diaz"
+        },
+        {
+          "player": "A. Fayzullaev",
+          "minute": 61,
+          "team": "UZB"
         }
       ],
       "cardEvents": [
