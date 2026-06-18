@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T19:45:54Z",
+  "updated": "2026-06-18T19:46:41Z",
   "live": [
     {
       "id": 9,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           2,
