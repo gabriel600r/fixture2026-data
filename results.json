@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:45:10Z",
+  "updated": "2026-06-18T17:45:57Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 1,
       "away": 1,
       "goals": [
@@ -13,12 +13,6 @@
           "minute": 6,
           "team": "CZE",
           "assist": "A. Sojka"
-        },
-        {
-          "player": "T. Mokoena",
-          "minute": 83,
-          "team": "RSA",
-          "pen": true
         }
       ],
       "cardEvents": [
