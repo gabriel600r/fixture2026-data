@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:45:45Z",
+  "updated": "2026-06-18T22:46:32Z",
   "live": [
     {
       "id": 10,
@@ -46,7 +46,7 @@
       ],
       "stats": {
         "shotsOff": [
-          2,
+          3,
           1
         ],
         "saves": [
@@ -54,7 +54,7 @@
           2
         ],
         "passesTotal": [
-          180,
+          181,
           116
         ],
         "passesPct": [
@@ -66,7 +66,7 @@
           1
         ],
         "corners": [
-          4,
+          5,
           1
         ],
         "shotsOutside": [
@@ -86,7 +86,7 @@
           0
         ],
         "shotsInside": [
-          7,
+          8,
           1
         ],
         "shotsOn": [
@@ -102,12 +102,12 @@
           1
         ],
         "shotsTotal": [
-          10,
+          11,
           2
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "home": "CAN",
         "away": "QAT"
