@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:11:20Z",
+  "updated": "2026-06-18T17:12:07Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 1,
       "away": 0,
       "goals": [
@@ -238,7 +238,7 @@
         "referee": "Tori Penso, USA",
         "motm": {
           "player": "Ladislav Krejčí",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "CZE"
         }
       }
