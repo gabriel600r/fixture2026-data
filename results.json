@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-18T22:16:50Z",
+  "updated": "2026-06-18T22:17:37Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 16,
-      "home": 0,
+      "minute": 17,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "C. Larin",
+          "minute": 16,
+          "team": "CAN"
+        }
+      ],
       "cardEvents": [
         {
           "player": "D. Cornelius",
@@ -25,12 +32,12 @@
           1
         ],
         "passesTotal": [
-          61,
-          40
+          97,
+          45
         ],
         "passesPct": [
-          87,
-          65
+          89,
+          67
         ],
         "yellow": [
           1,
@@ -49,8 +56,8 @@
           0
         ],
         "passesAccurate": [
-          53,
-          26
+          86,
+          30
         ],
         "offsides": [
           0,
@@ -66,7 +73,7 @@
         ],
         "fouls": [
           1,
-          0
+          2
         ],
         "shotsBlocked": [
           0,
@@ -77,8 +84,8 @@
           2
         ],
         "possession": [
-          62,
-          38
+          69,
+          31
         ],
         "home": "CAN",
         "away": "QAT"
