@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:54:04Z",
+  "updated": "2026-06-18T03:54:51Z",
   "live": [
     {
       "id": 62,
@@ -82,9 +82,15 @@
           "in": "R. Rios",
           "minute": 80,
           "team": "COL"
+        },
+        {
+          "out": "L. Diaz",
+          "in": "A. Gomez",
+          "minute": 90,
+          "team": "COL"
         }
       ],
-      "extra": 3,
+      "extra": 5,
       "stats": {
         "shotsOutside": [
           2,
@@ -99,7 +105,7 @@
           10
         ],
         "shotsTotal": [
-          4,
+          5,
           14
         ],
         "shotsBlocked": [
@@ -108,10 +114,10 @@
         ],
         "saves": [
           1,
-          1
+          2
         ],
         "shotsOff": [
-          1,
+          2,
           7
         ],
         "yellow": [
@@ -119,19 +125,19 @@
           1
         ],
         "possession": [
-          35,
-          65
+          36,
+          64
         ],
         "passesTotal": [
-          265,
-          506
+          281,
+          507
         ],
         "shotsInside": [
-          2,
+          3,
           9
         ],
         "passesPct": [
-          74,
+          75,
           86
         ],
         "offsides": [
@@ -139,8 +145,8 @@
           3
         ],
         "passesAccurate": [
-          195,
-          437
+          211,
+          438
         ],
         "red": [
           0,
