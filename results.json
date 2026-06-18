@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:50:56Z",
+  "updated": "2026-06-18T03:51:43Z",
   "live": [
     {
       "id": 62,
@@ -84,6 +84,7 @@
           "team": "COL"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOutside": [
           1,
