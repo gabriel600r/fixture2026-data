@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:21:35Z",
+  "updated": "2026-06-18T17:22:22Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 0,
       "goals": [
@@ -59,11 +59,11 @@
           2
         ],
         "passesTotal": [
-          197,
-          348
+          215,
+          367
         ],
         "passesPct": [
-          82,
+          83,
           89
         ],
         "yellow": [
@@ -83,8 +83,8 @@
           0
         ],
         "passesAccurate": [
-          162,
-          311
+          178,
+          328
         ],
         "offsides": [
           1,
@@ -100,7 +100,7 @@
         ],
         "fouls": [
           8,
-          6
+          8
         ],
         "shotsBlocked": [
           1,
@@ -111,8 +111,8 @@
           7
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "home": "CZE",
         "away": "RSA"
