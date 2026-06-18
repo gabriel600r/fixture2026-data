@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:20:14Z",
+  "updated": "2026-06-18T23:21:01Z",
   "live": [
     {
       "id": 10,
@@ -78,6 +78,12 @@
           "in": "N. Saliba",
           "minute": 57,
           "team": "CAN"
+        },
+        {
+          "out": "A. Afif",
+          "in": "A. Al Hussain",
+          "minute": 59,
+          "team": "QAT"
         }
       ],
       "stats": {
