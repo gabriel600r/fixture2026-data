@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-18T02:40:23Z",
+  "updated": "2026-06-18T02:41:10Z",
   "live": [
     {
       "id": 62,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "D. Munoz",
           "minute": 41,
-          "team": "COL"
+          "team": "COL",
+          "assist": "L. Diaz"
         }
       ],
       "cardEvents": [
@@ -39,7 +40,7 @@
         ],
         "fouls": [
           8,
-          4
+          5
         ],
         "shotsTotal": [
           0,
@@ -62,12 +63,12 @@
           1
         ],
         "possession": [
-          29,
-          71
+          27,
+          73
         ],
         "passesTotal": [
-          81,
-          207
+          86,
+          235
         ],
         "shotsInside": [
           0,
@@ -75,15 +76,15 @@
         ],
         "passesPct": [
           67,
-          87
+          88
         ],
         "offsides": [
           0,
           1
         ],
         "passesAccurate": [
-          54,
-          181
+          58,
+          207
         ],
         "red": [
           0,
