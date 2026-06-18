@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:06:52Z",
+  "updated": "2026-06-18T23:07:40Z",
   "live": [
     {
       "id": 10,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 3,
       "away": 0,
       "goals": [
@@ -47,9 +47,14 @@
           "in": "S. Al Brake",
           "minute": 40,
           "team": "QAT"
+        },
+        {
+          "out": "Edmilson Junior",
+          "in": "A. Fathi",
+          "minute": 46,
+          "team": "QAT"
         }
       ],
-      "extra": 6,
       "stats": {
         "shotsOff": [
           2,
@@ -248,7 +253,12 @@
             ]
           }
         },
-        "referee": "Cristian Garay, Chile"
+        "referee": "Cristian Garay, Chile",
+        "motm": {
+          "player": "Jonathan David",
+          "rating": 8.5,
+          "team": "CAN"
+        }
       }
     }
   ],
