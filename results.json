@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T03:05:26Z",
+  "updated": "2026-06-18T03:06:13Z",
   "live": [
     {
       "id": 62,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,7 +29,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsOutside": [
           1,
@@ -223,7 +222,12 @@
             ]
           }
         },
-        "referee": "Anthony Taylor, England"
+        "referee": "Anthony Taylor, England",
+        "motm": {
+          "player": "Daniel Muñoz",
+          "rating": 7.7,
+          "team": "COL"
+        }
       }
     }
   ],
