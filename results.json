@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T20:04:48Z",
+  "updated": "2026-06-18T20:05:36Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,12 +17,12 @@
           1
         ],
         "passesTotal": [
-          332,
-          149
+          345,
+          153
         ],
         "passesPct": [
           89,
-          77
+          76
         ],
         "yellow": [
           0,
@@ -41,12 +41,12 @@
           0
         ],
         "passesAccurate": [
-          296,
-          115
+          308,
+          116
         ],
         "offsides": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           1,
@@ -202,7 +202,7 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Granit Xhaka",
+          "player": "Remo Freuler",
           "rating": 7.3,
           "team": "SUI"
         }
