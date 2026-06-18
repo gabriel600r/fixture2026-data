@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T22:34:02Z",
+  "updated": "2026-06-18T22:34:49Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 2,
       "away": 0,
       "goals": [
@@ -19,6 +19,9 @@
           "team": "CAN"
         }
       ],
+      "redCards": [
+        "H. Al Amin (Qatar) 32'"
+      ],
       "cardEvents": [
         {
           "player": "D. Cornelius",
@@ -30,7 +33,7 @@
           "player": "H. Al Amin",
           "minute": 32,
           "team": "QAT",
-          "color": "yellow"
+          "color": "red"
         }
       ],
       "stats": {
@@ -43,12 +46,12 @@
           2
         ],
         "passesTotal": [
-          142,
-          68
+          145,
+          79
         ],
         "passesPct": [
-          89,
-          69
+          88,
+          66
         ],
         "yellow": [
           1,
@@ -67,8 +70,8 @@
           0
         ],
         "passesAccurate": [
-          126,
-          47
+          127,
+          52
         ],
         "offsides": [
           0,
@@ -83,7 +86,7 @@
           0
         ],
         "fouls": [
-          1,
+          2,
           4
         ],
         "shotsBlocked": [
@@ -95,8 +98,8 @@
           2
         ],
         "possession": [
-          69,
-          31
+          66,
+          34
         ],
         "home": "CAN",
         "away": "QAT"
