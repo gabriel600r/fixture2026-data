@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:32:47Z",
+  "updated": "2026-06-18T23:33:35Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 4,
       "away": 0,
       "goals": [
@@ -95,6 +95,12 @@
           "in": "A. Al Hussain",
           "minute": 59,
           "team": "QAT"
+        },
+        {
+          "out": "L. De Fougerolles",
+          "in": "J. Shaffelburg",
+          "minute": 71,
+          "team": "CAN"
         }
       ],
       "stats": {
@@ -107,7 +113,7 @@
           4
         ],
         "passesTotal": [
-          368,
+          376,
           139
         ],
         "passesPct": [
@@ -119,7 +125,7 @@
           1
         ],
         "corners": [
-          8,
+          9,
           1
         ],
         "shotsOutside": [
@@ -131,7 +137,7 @@
           2
         ],
         "passesAccurate": [
-          333,
+          338,
           97
         ],
         "offsides": [
