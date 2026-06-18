@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:47:34Z",
+  "updated": "2026-06-18T17:48:21Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 1,
       "away": 1,
       "goals": [
@@ -134,11 +134,11 @@
         ],
         "shotsInside": [
           9,
-          3
+          4
         ],
         "shotsOn": [
           3,
-          1
+          2
         ],
         "fouls": [
           12,
@@ -150,7 +150,7 @@
         ],
         "shotsTotal": [
           11,
-          11
+          12
         ],
         "possession": [
           38,
@@ -291,9 +291,9 @@
         },
         "referee": "Tori Penso, USA",
         "motm": {
-          "player": "Ladislav Krejčí",
-          "rating": 7.7,
-          "team": "CZE"
+          "player": "Teboho Mokoena",
+          "rating": 7.9,
+          "team": "RSA"
         }
       }
     }
