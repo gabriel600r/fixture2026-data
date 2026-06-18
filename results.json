@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:57:08Z",
+  "updated": "2026-06-18T23:57:55Z",
   "live": [
     {
       "id": 10,
@@ -133,7 +133,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           6,
@@ -334,8 +334,8 @@
         },
         "referee": "Cristian Garay, Chile",
         "motm": {
-          "player": "Richie Laryea",
-          "rating": 8.2,
+          "player": "Jonathan David",
+          "rating": 8.9,
           "team": "CAN"
         }
       }
