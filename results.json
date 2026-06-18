@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-18T22:08:59Z",
+  "updated": "2026-06-18T22:09:46Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "D. Cornelius",
+          "minute": 9,
+          "team": "CAN",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
