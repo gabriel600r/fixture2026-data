@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T22:48:06Z",
+  "updated": "2026-06-18T22:48:53Z",
   "live": [
     {
       "id": 10,
       "status": "1H",
       "minute": 45,
-      "home": 2,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -16,6 +16,11 @@
         {
           "player": "Jonathan David",
           "minute": 29,
+          "team": "CAN"
+        },
+        {
+          "player": "Jonathan David",
+          "minute": 48,
           "team": "CAN"
         }
       ],
@@ -44,62 +49,42 @@
           "team": "QAT"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
-          3,
+          2,
           1
         ],
         "saves": [
           0,
           2
         ],
-        "passesTotal": [
-          181,
-          116
-        ],
-        "passesPct": [
-          87,
-          71
-        ],
         "yellow": [
           1,
-          1
+          0
         ],
         "corners": [
           5,
-          1
-        ],
-        "shotsOutside": [
-          3,
           1
         ],
         "red": [
           0,
           1
         ],
-        "passesAccurate": [
-          157,
-          82
-        ],
         "offsides": [
           1,
-          0
-        ],
-        "shotsInside": [
-          8,
-          1
-        ],
-        "shotsOn": [
-          5,
           0
         ],
         "fouls": [
           3,
           5
         ],
+        "shotsOn": [
+          5,
+          0
+        ],
         "shotsBlocked": [
-          3,
+          4,
           1
         ],
         "shotsTotal": [
@@ -107,8 +92,8 @@
           2
         ],
         "possession": [
-          63,
-          37
+          61,
+          39
         ],
         "home": "CAN",
         "away": "QAT"
