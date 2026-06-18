@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:50:53Z",
+  "updated": "2026-06-18T00:51:40Z",
   "live": [
     {
       "id": 68,
@@ -71,6 +71,7 @@
           "team": "GHA"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOutside": [
           0,
