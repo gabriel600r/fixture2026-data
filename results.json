@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T00:35:55Z",
+  "updated": "2026-06-18T00:36:42Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -50,6 +50,12 @@
           "out": "C. Martinez",
           "in": "A. Londono",
           "minute": 63,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "I. Diaz",
+          "minute": 75,
           "team": "PAN"
         }
       ],
