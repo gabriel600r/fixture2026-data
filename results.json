@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T17:06:37Z",
+  "updated": "2026-06-18T17:07:24Z",
   "live": [
     {
       "id": 3,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -29,7 +29,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "subs": [
+        {
+          "out": "J. Adams",
+          "in": "R. Mofokeng",
+          "minute": 46,
+          "team": "RSA"
+        }
+      ],
       "stats": {
         "shotsOff": [
           4,
@@ -228,7 +235,12 @@
             ]
           }
         },
-        "referee": "Tori Penso, USA"
+        "referee": "Tori Penso, USA",
+        "motm": {
+          "player": "Michal Sadílek",
+          "rating": 7.5,
+          "team": "CZE"
+        }
       }
     }
   ],
