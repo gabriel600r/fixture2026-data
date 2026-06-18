@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T16:33:45Z",
+  "updated": "2026-06-18T16:34:31Z",
   "live": [
     {
       "id": 3,
@@ -18,7 +18,7 @@
       "cardEvents": [
         {
           "player": "T. Mokoena",
-          "minute": 34,
+          "minute": 33,
           "team": "RSA",
           "color": "yellow"
         }
