@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T17:46:47Z",
+  "updated": "2026-06-18T17:47:34Z",
   "live": [
     {
       "id": 3,
@@ -83,6 +83,12 @@
           "in": "D. Zima",
           "minute": 78,
           "team": "CZE"
+        },
+        {
+          "out": "T. Maseko",
+          "in": "K. Sebelebele",
+          "minute": 84,
+          "team": "RSA"
         }
       ],
       "stats": {
