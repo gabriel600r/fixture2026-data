@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-18T00:55:36Z",
+  "updated": "2026-06-18T00:56:23Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
       "minute": 90,
-      "home": 0,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 90,
+          "team": "GHA"
+        }
+      ],
       "cardEvents": [
         {
           "player": "C. Yirenkyi",
@@ -77,7 +84,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOutside": [
           0,
