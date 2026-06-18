@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T23:41:26Z",
+  "updated": "2026-06-18T23:42:13Z",
   "live": [
     {
       "id": 10,
       "status": "2H",
-      "minute": 79,
+      "minute": 81,
       "home": 5,
       "away": 0,
       "goals": [
@@ -316,7 +316,7 @@
         "referee": "Cristian Garay, Chile",
         "motm": {
           "player": "Stephen Eustaquio",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "CAN"
         }
       }
