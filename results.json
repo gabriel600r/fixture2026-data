@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T20:16:39Z",
+  "updated": "2026-06-18T20:17:26Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "stats": {
@@ -37,7 +37,7 @@
           11
         ],
         "shotsOn": [
-          3,
+          2,
           1
         ],
         "shotsBlocked": [
@@ -45,7 +45,7 @@
           1
         ],
         "shotsTotal": [
-          8,
+          7,
           3
         ],
         "possession": [
@@ -182,7 +182,7 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Granit Xhaka",
+          "player": "G. Xhaka",
           "rating": 7.5,
           "team": "SUI"
         }
