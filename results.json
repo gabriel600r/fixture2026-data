@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T17:53:55Z",
+  "updated": "2026-06-18T17:55:02Z",
   "live": [
     {
       "id": 3,
@@ -91,7 +91,7 @@
           "team": "RSA"
         }
       ],
-      "extra": 2,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           5,
@@ -102,7 +102,7 @@
           2
         ],
         "passesTotal": [
-          310,
+          315,
           512
         ],
         "passesPct": [
@@ -114,7 +114,7 @@
           2
         ],
         "corners": [
-          4,
+          5,
           4
         ],
         "shotsOutside": [
@@ -126,11 +126,11 @@
           0
         ],
         "passesAccurate": [
-          248,
+          252,
           464
         ],
         "offsides": [
-          1,
+          2,
           3
         ],
         "shotsInside": [
@@ -143,7 +143,7 @@
         ],
         "fouls": [
           12,
-          9
+          10
         ],
         "shotsBlocked": [
           3,
@@ -154,8 +154,8 @@
           14
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "home": "CZE",
         "away": "RSA"
