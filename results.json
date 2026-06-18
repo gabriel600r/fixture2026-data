@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T00:20:56Z",
+  "updated": "2026-06-18T00:21:43Z",
   "live": [
     {
       "id": 68,
       "status": "2H",
-      "minute": 59,
+      "minute": 61,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -230,9 +230,9 @@
         },
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
-          "player": "L. Zigi",
-          "rating": 7.3,
-          "team": "GHA"
+          "player": "Andrés Andrade",
+          "rating": 7.5,
+          "team": "PAN"
         }
       }
     }
