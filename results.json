@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T02:33:20Z",
+  "updated": "2026-06-18T02:34:07Z",
   "live": [
     {
       "id": 62,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "J. Mojica",
           "minute": 7,
           "team": "COL",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Khusanov",
+          "minute": 34,
+          "team": "UZB",
           "color": "yellow"
         }
       ],
@@ -30,7 +36,7 @@
         ],
         "shotsTotal": [
           0,
-          1
+          2
         ],
         "shotsBlocked": [
           0,
@@ -49,19 +55,19 @@
           1
         ],
         "possession": [
-          30,
-          70
+          28,
+          72
         ],
         "passesTotal": [
           75,
-          177
+          195
         ],
         "shotsInside": [
           0,
-          0
+          1
         ],
         "passesPct": [
-          71,
+          69,
           89
         ],
         "offsides": [
@@ -69,8 +75,8 @@
           1
         ],
         "passesAccurate": [
-          53,
-          158
+          52,
+          174
         ],
         "red": [
           0,
@@ -78,7 +84,7 @@
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "home": "UZB",
         "away": "COL"
