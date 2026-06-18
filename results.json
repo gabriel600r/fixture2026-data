@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:56:23Z",
+  "updated": "2026-06-18T00:57:10Z",
   "live": [
     {
       "id": 68,
@@ -9,9 +9,10 @@
       "away": 0,
       "goals": [
         {
-          "player": null,
+          "player": "C. Yirenkyi",
           "minute": 90,
-          "team": "GHA"
+          "team": "GHA",
+          "assist": "B. Thomas-Asante"
         }
       ],
       "cardEvents": [
@@ -84,7 +85,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOutside": [
           0,
