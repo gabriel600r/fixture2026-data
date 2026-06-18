@@ -1,18 +1,24 @@
 {
-  "updated": "2026-06-18T17:44:23Z",
+  "updated": "2026-06-18T17:45:10Z",
   "live": [
     {
       "id": 3,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "M. Sadilek",
           "minute": 6,
           "team": "CZE",
           "assist": "A. Sojka"
+        },
+        {
+          "player": "T. Mokoena",
+          "minute": 83,
+          "team": "RSA",
+          "pen": true
         }
       ],
       "cardEvents": [
@@ -90,11 +96,11 @@
         ],
         "passesTotal": [
           284,
-          470
+          482
         ],
         "passesPct": [
           81,
-          90
+          91
         ],
         "yellow": [
           1,
@@ -106,7 +112,7 @@
         ],
         "shotsOutside": [
           2,
-          7
+          8
         ],
         "red": [
           0,
@@ -114,7 +120,7 @@
         ],
         "passesAccurate": [
           230,
-          425
+          437
         ],
         "offsides": [
           1,
@@ -129,16 +135,16 @@
           1
         ],
         "fouls": [
-          11,
+          12,
           9
         ],
         "shotsBlocked": [
           3,
-          4
+          5
         ],
         "shotsTotal": [
           11,
-          10
+          11
         ],
         "possession": [
           38,
@@ -279,7 +285,7 @@
         },
         "referee": "Tori Penso, USA",
         "motm": {
-          "player": "Michal Sadílek",
+          "player": "Ladislav Krejčí",
           "rating": 7.7,
           "team": "CZE"
         }
