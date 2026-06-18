@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T01:01:09Z",
+  "updated": "2026-06-18T01:01:57Z",
   "live": [
     {
       "id": 68,
@@ -25,6 +25,12 @@
         {
           "player": "C. Blackman",
           "minute": 73,
+          "team": "PAN",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Harvey",
+          "minute": 90,
           "team": "PAN",
           "color": "yellow"
         }
@@ -85,7 +91,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
         "shotsOutside": [
           0,
