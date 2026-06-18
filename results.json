@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T02:13:40Z",
+  "updated": "2026-06-18T02:14:27Z",
   "live": [
     {
       "id": 62,
       "status": "1H",
-      "minute": 14,
+      "minute": 15,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -95,11 +95,6 @@
                 "pos": "G"
               },
               {
-                "n": 5,
-                "name": "Rustam Ashurmatov",
-                "pos": "D"
-              },
-              {
                 "n": 2,
                 "name": "Abdukodir Khusanov",
                 "pos": "D"
@@ -107,6 +102,11 @@
               {
                 "n": 18,
                 "name": "Abdulla Abdullaev",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rustam Ashurmatov",
                 "pos": "D"
               },
               {
