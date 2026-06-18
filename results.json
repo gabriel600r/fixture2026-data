@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-18T20:47:23Z",
+  "updated": "2026-06-18T20:48:10Z",
   "live": [
     {
       "id": 9,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 2,
       "away": 0,
       "goals": [
@@ -96,6 +96,12 @@
           "out": "S. Widmer",
           "in": "L. Jaquez",
           "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "B. Embolo",
+          "in": "C. Itten",
+          "minute": 89,
           "team": "SUI"
         }
       ],
