@@ -1,12 +1,80 @@
 {
-  "updated": "2026-06-19T01:02:29Z",
+  "updated": "2026-06-19T01:03:16Z",
   "live": [
     {
       "id": 4,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
+      "stats": {
+        "shotsOff": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          0,
+          2
+        ],
+        "passesPct": [
+          0,
+          100
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          0,
+          2
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "possession": [
+          0,
+          100
+        ],
+        "home": "MEX",
+        "away": "KOR"
+      },
       "extras": {
         "pred": {
           "home": 45,
