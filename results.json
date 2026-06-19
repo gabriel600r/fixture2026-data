@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T23:34:27Z",
+  "updated": "2026-06-19T23:35:15Z",
   "live": [
     {
       "id": 15,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 1,
       "goals": [
@@ -39,13 +39,13 @@
         {
           "out": "C. Adams",
           "in": "L. Dykes",
-          "minute": 72,
+          "minute": 71,
           "team": "SCO"
         },
         {
           "out": "R. Christie",
           "in": "K. McLean",
-          "minute": 72,
+          "minute": 71,
           "team": "SCO"
         }
       ],
