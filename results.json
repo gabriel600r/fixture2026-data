@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T20:58:18Z",
+  "updated": "2026-06-19T20:59:05Z",
   "live": [
     {
       "id": 21,
@@ -56,6 +56,12 @@
           "minute": 89,
           "team": "AUS",
           "color": "yellow"
+        },
+        {
+          "player": "C. Richards",
+          "minute": 90,
+          "team": "USA",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -108,11 +114,11 @@
           "team": "USA"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           86,
-          74
+          73
         ],
         "saves": [
           2,
@@ -127,7 +133,7 @@
           37
         ],
         "corners": [
-          6,
+          7,
           4
         ],
         "yellow": [
@@ -135,8 +141,8 @@
           4
         ],
         "passesTotal": [
-          501,
-          284
+          506,
+          289
         ],
         "red": [
           0,
@@ -167,8 +173,8 @@
           3
         ],
         "passesAccurate": [
-          431,
-          209
+          436,
+          212
         ],
         "shotsBlocked": [
           6,
