@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:42:37Z",
+  "updated": "2026-06-19T20:43:24Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 2,
       "away": 0,
       "goals": [
@@ -70,6 +70,12 @@
           "in": "S. Berhalter",
           "minute": 74,
           "team": "USA"
+        },
+        {
+          "out": "P. Okon-Engstler",
+          "in": "J. Irvine",
+          "minute": 78,
+          "team": "AUS"
         }
       ],
       "stats": {
