@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T19:32:47Z",
+  "updated": "2026-06-19T19:33:34Z",
   "live": [
     {
       "id": 21,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 1,
       "away": 0,
       "goals": [
@@ -19,6 +19,12 @@
         {
           "player": "J. Bos",
           "minute": 16,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Circati",
+          "minute": 32,
           "team": "AUS",
           "color": "yellow"
         }
