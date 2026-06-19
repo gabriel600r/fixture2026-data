@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:59:29Z",
+  "updated": "2026-06-19T00:00:17Z",
   "live": [
     {
       "id": 10,
@@ -345,7 +345,18 @@
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 4,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
