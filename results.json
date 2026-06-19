@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:52:43Z",
+  "updated": "2026-06-19T23:53:31Z",
   "live": [
     {
       "id": 15,
@@ -77,11 +77,18 @@
           "in": "R. Stewart",
           "minute": 89,
           "team": "SCO"
+        },
+        {
+          "out": "A. Ounahi",
+          "in": "S. El Mourabet",
+          "minute": 90,
+          "team": "MAR"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
-          87,
+          88,
           91
         ],
         "saves": [
@@ -105,8 +112,8 @@
           1
         ],
         "passesTotal": [
-          402,
-          629
+          417,
+          634
         ],
         "red": [
           0,
@@ -125,11 +132,11 @@
           8
         ],
         "shotsTotal": [
-          5,
+          6,
           9
         ],
         "shotsInside": [
-          4,
+          5,
           7
         ],
         "shotsOff": [
@@ -137,11 +144,11 @@
           4
         ],
         "passesAccurate": [
-          350,
-          570
+          365,
+          574
         ],
         "shotsBlocked": [
-          2,
+          3,
           3
         ],
         "home": "SCO",
