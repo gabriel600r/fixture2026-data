@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:45:45Z",
+  "updated": "2026-06-19T20:46:32Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 2,
       "away": 0,
       "goals": [
@@ -76,6 +76,12 @@
           "in": "J. Irvine",
           "minute": 78,
           "team": "AUS"
+        },
+        {
+          "out": "S. Dest",
+          "in": "J. Scally",
+          "minute": 81,
+          "team": "USA"
         }
       ],
       "stats": {
