@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:39:29Z",
+  "updated": "2026-06-19T20:40:16Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 2,
       "away": 0,
       "goals": [
@@ -64,11 +64,17 @@
           "in": "C. Volpato",
           "minute": 61,
           "team": "AUS"
+        },
+        {
+          "out": "R. Pepi",
+          "in": "S. Berhalter",
+          "minute": 74,
+          "team": "USA"
         }
       ],
       "stats": {
         "passesPct": [
-          89,
+          88,
           71
         ],
         "saves": [
@@ -92,8 +98,8 @@
           2
         ],
         "passesTotal": [
-          450,
-          206
+          455,
+          211
         ],
         "red": [
           0,
@@ -108,7 +114,7 @@
           2
         ],
         "fouls": [
-          9,
+          10,
           10
         ],
         "shotsTotal": [
@@ -124,8 +130,8 @@
           2
         ],
         "passesAccurate": [
-          399,
-          146
+          402,
+          149
         ],
         "shotsBlocked": [
           6,
@@ -142,7 +148,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-3-3",
+            "formation": "3-5-2",
             "coach": "Mauricio Pochettino",
             "xi": [
               {
@@ -166,9 +172,9 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Antonee Robinson",
-                "pos": "D"
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
               },
               {
                 "n": 8,
@@ -186,9 +192,9 @@
                 "pos": "M"
               },
               {
-                "n": 2,
-                "name": "Sergiño Dest",
-                "pos": "F"
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "M"
               },
               {
                 "n": 20,
