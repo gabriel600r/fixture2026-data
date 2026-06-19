@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T19:16:22Z",
+  "updated": "2026-06-19T19:17:09Z",
   "live": [
     {
       "id": 21,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 1,
       "away": 0,
       "goals": [
@@ -15,10 +15,18 @@
           "og": true
         }
       ],
+      "cardEvents": [
+        {
+          "player": "J. Bos",
+          "minute": 16,
+          "team": "AUS",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesPct": [
-          88,
-          63
+          86,
+          62
         ],
         "saves": [
           1,
@@ -33,7 +41,7 @@
           25
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "yellow": [
@@ -41,8 +49,8 @@
           0
         ],
         "passesTotal": [
-          100,
-          35
+          108,
+          37
         ],
         "red": [
           0,
@@ -57,15 +65,15 @@
           1
         ],
         "fouls": [
-          2,
+          3,
           1
         ],
         "shotsTotal": [
-          1,
+          3,
           2
         ],
         "shotsInside": [
-          1,
+          3,
           2
         ],
         "shotsOff": [
@@ -73,11 +81,11 @@
           1
         ],
         "passesAccurate": [
-          88,
-          22
+          93,
+          23
         ],
         "shotsBlocked": [
-          1,
+          3,
           0
         ],
         "home": "USA",
