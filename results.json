@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T19:24:12Z",
+  "updated": "2026-06-19T19:24:58Z",
   "live": [
     {
       "id": 21,
       "status": "1H",
-      "minute": 24,
+      "minute": 25,
       "home": 1,
       "away": 0,
       "goals": [
@@ -99,7 +99,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Mauricio Pochettino",
             "xi": [
               {
@@ -128,8 +128,8 @@
                 "pos": "D"
               },
               {
-                "n": 17,
-                "name": "Malik Tillman",
+                "n": 8,
+                "name": "Weston McKennie",
                 "pos": "M"
               },
               {
@@ -138,23 +138,23 @@
                 "pos": "M"
               },
               {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
                 "n": 2,
                 "name": "Sergiño Dest",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Weston McKennie",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Ricardo Pepi",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 20,
                 "name": "Folarin Balogun",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ricardo Pepi",
                 "pos": "F"
               }
             ]
