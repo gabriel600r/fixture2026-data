@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T02:31:57Z",
+  "updated": "2026-06-19T02:32:44Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 71,
+      "minute": 73,
       "home": 1,
       "away": 0,
       "goals": [
@@ -52,6 +52,18 @@
           "in": "O. Vargas",
           "minute": 71,
           "team": "MEX"
+        },
+        {
+          "out": "Seol Young-Woo",
+          "in": "Yang Hyun-Jun",
+          "minute": 71,
+          "team": "KOR"
+        },
+        {
+          "out": "Kim Moon-Hwan",
+          "in": "Eom Ji-Sung",
+          "minute": 71,
+          "team": "KOR"
         }
       ],
       "stats": {
