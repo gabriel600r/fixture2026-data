@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:55:06Z",
+  "updated": "2026-06-19T23:55:54Z",
   "live": [
     {
       "id": 15,
@@ -88,8 +88,8 @@
       "extra": 3,
       "stats": {
         "passesPct": [
-          88,
-          91
+          87,
+          90
         ],
         "saves": [
           1,
@@ -97,7 +97,7 @@
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "possession": [
           40,
@@ -112,8 +112,8 @@
           1
         ],
         "passesTotal": [
-          417,
-          634
+          426,
+          655
         ],
         "red": [
           0,
@@ -133,7 +133,7 @@
         ],
         "shotsTotal": [
           6,
-          9
+          10
         ],
         "shotsInside": [
           5,
@@ -144,12 +144,12 @@
           4
         ],
         "passesAccurate": [
-          365,
-          574
+          369,
+          590
         ],
         "shotsBlocked": [
           3,
-          3
+          4
         ],
         "home": "SCO",
         "away": "MAR"
