@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-19T19:45:18Z",
+  "updated": "2026-06-19T19:46:05Z",
   "live": [
     {
       "id": 21,
       "status": "1H",
       "minute": 45,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -29,6 +29,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
           89,
