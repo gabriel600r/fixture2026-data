@@ -1,339 +1,6 @@
 {
-  "updated": "2026-06-19T21:03:51Z",
-  "live": [
-    {
-      "id": 21,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 0,
-      "goals": [
-        {
-          "player": "C. Burgess",
-          "minute": 11,
-          "team": "USA",
-          "og": true
-        },
-        {
-          "player": "A. Freeman",
-          "minute": 43,
-          "team": "USA"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Bos",
-          "minute": 16,
-          "team": "AUS",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Circati",
-          "minute": 32,
-          "team": "AUS",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Robinson",
-          "minute": 56,
-          "team": "USA",
-          "color": "yellow"
-        },
-        {
-          "player": "H. Souttar",
-          "minute": 88,
-          "team": "AUS",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Balogun",
-          "minute": 89,
-          "team": "USA",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Italiano",
-          "minute": 89,
-          "team": "AUS",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Richards",
-          "minute": 90,
-          "team": "USA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "C. Burgess",
-          "in": "J. Geria",
-          "minute": 46,
-          "team": "AUS"
-        },
-        {
-          "out": "N. Velupillay",
-          "in": "C. Metcalfe",
-          "minute": 46,
-          "team": "AUS"
-        },
-        {
-          "out": "M. Toure",
-          "in": "N. Irankunda",
-          "minute": 46,
-          "team": "AUS"
-        },
-        {
-          "out": "M. Leckie",
-          "in": "C. Volpato",
-          "minute": 61,
-          "team": "AUS"
-        },
-        {
-          "out": "R. Pepi",
-          "in": "S. Berhalter",
-          "minute": 74,
-          "team": "USA"
-        },
-        {
-          "out": "P. Okon-Engstler",
-          "in": "J. Irvine",
-          "minute": 78,
-          "team": "AUS"
-        },
-        {
-          "out": "S. Dest",
-          "in": "J. Scally",
-          "minute": 80,
-          "team": "USA"
-        },
-        {
-          "out": "A. Robinson",
-          "in": "A. Trusty",
-          "minute": 80,
-          "team": "USA"
-        },
-        {
-          "out": "F. Balogun",
-          "in": "H. Wright",
-          "minute": 90,
-          "team": "USA"
-        },
-        {
-          "out": "W. McKennie",
-          "in": "G. Reyna",
-          "minute": 90,
-          "team": "USA"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "passesPct": [
-          86,
-          73
-        ],
-        "saves": [
-          2,
-          1
-        ],
-        "shotsOutside": [
-          2,
-          2
-        ],
-        "possession": [
-          62,
-          38
-        ],
-        "corners": [
-          7,
-          4
-        ],
-        "yellow": [
-          3,
-          4
-        ],
-        "passesTotal": [
-          516,
-          301
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          2,
-          2
-        ],
-        "fouls": [
-          12,
-          16
-        ],
-        "shotsTotal": [
-          10,
-          5
-        ],
-        "shotsInside": [
-          8,
-          3
-        ],
-        "shotsOff": [
-          2,
-          3
-        ],
-        "passesAccurate": [
-          444,
-          219
-        ],
-        "shotsBlocked": [
-          6,
-          0
-        ],
-        "home": "USA",
-        "away": "AUS"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "3-5-2",
-            "coach": "Mauricio Pochettino",
-            "xi": [
-              {
-                "n": 24,
-                "name": "Matthew Freese",
-                "pos": "G"
-              },
-              {
-                "n": 16,
-                "name": "Alexander Freeman",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Chris Richards",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Tim Ream",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Sergiño Dest",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Weston McKennie",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Tyler Adams",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Malik Tillman",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Antonee Robinson",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Folarin Balogun",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Ricardo Pepi",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-4-1",
-            "coach": "Tony Popovic",
-            "xi": [
-              {
-                "n": 18,
-                "name": "Patrick Beach",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Jacob Italiano",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Alessandro Circati",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Harry Souttar",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Cameron Burgess",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Jordan Bos",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "Mathew Leckie",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Aiden O'Neill",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Paul Okon-Engstler",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Nishan Velupillay",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Mohamed Touré",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Felix Zwayer, Germany",
-        "motm": {
-          "player": "Alexander Freeman",
-          "rating": 8.2,
-          "team": "USA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-19T21:04:37Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -4086,6 +3753,335 @@
           "team": "TUR"
         }
       ]
+    },
+    {
+      "id": 21,
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {
+          "player": "C. Burgess",
+          "minute": 11,
+          "team": "USA",
+          "og": true
+        },
+        {
+          "player": "A. Freeman",
+          "minute": 43,
+          "team": "USA"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Bos",
+          "minute": 16,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Circati",
+          "minute": 32,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Robinson",
+          "minute": 56,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Souttar",
+          "minute": 88,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Balogun",
+          "minute": 89,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Italiano",
+          "minute": 89,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Richards",
+          "minute": 90,
+          "team": "USA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Burgess",
+          "in": "J. Geria",
+          "minute": 46,
+          "team": "AUS"
+        },
+        {
+          "out": "N. Velupillay",
+          "in": "C. Metcalfe",
+          "minute": 46,
+          "team": "AUS"
+        },
+        {
+          "out": "M. Toure",
+          "in": "N. Irankunda",
+          "minute": 46,
+          "team": "AUS"
+        },
+        {
+          "out": "M. Leckie",
+          "in": "C. Volpato",
+          "minute": 61,
+          "team": "AUS"
+        },
+        {
+          "out": "R. Pepi",
+          "in": "S. Berhalter",
+          "minute": 74,
+          "team": "USA"
+        },
+        {
+          "out": "P. Okon-Engstler",
+          "in": "J. Irvine",
+          "minute": 78,
+          "team": "AUS"
+        },
+        {
+          "out": "S. Dest",
+          "in": "J. Scally",
+          "minute": 80,
+          "team": "USA"
+        },
+        {
+          "out": "A. Robinson",
+          "in": "A. Trusty",
+          "minute": 80,
+          "team": "USA"
+        },
+        {
+          "out": "F. Balogun",
+          "in": "H. Wright",
+          "minute": 90,
+          "team": "USA"
+        },
+        {
+          "out": "W. McKennie",
+          "in": "G. Reyna",
+          "minute": 90,
+          "team": "USA"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          86,
+          73
+        ],
+        "saves": [
+          2,
+          1
+        ],
+        "shotsOutside": [
+          2,
+          2
+        ],
+        "possession": [
+          62,
+          38
+        ],
+        "corners": [
+          7,
+          4
+        ],
+        "yellow": [
+          3,
+          4
+        ],
+        "passesTotal": [
+          516,
+          301
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          2,
+          2
+        ],
+        "fouls": [
+          12,
+          16
+        ],
+        "shotsTotal": [
+          10,
+          5
+        ],
+        "shotsInside": [
+          8,
+          3
+        ],
+        "shotsOff": [
+          2,
+          3
+        ],
+        "passesAccurate": [
+          444,
+          219
+        ],
+        "shotsBlocked": [
+          6,
+          0
+        ],
+        "home": "USA",
+        "away": "AUS"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-5-2",
+            "coach": "Mauricio Pochettino",
+            "xi": [
+              {
+                "n": 24,
+                "name": "Matthew Freese",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Alexander Freeman",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Chris Richards",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Tim Ream",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Weston McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Adams",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Folarin Balogun",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ricardo Pepi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Tony Popovic",
+            "xi": [
+              {
+                "n": 18,
+                "name": "Patrick Beach",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Jacob Italiano",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Alessandro Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Harry Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Cameron Burgess",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jordan Bos",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Mathew Leckie",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Aiden O'Neill",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Okon-Engstler",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Nishan Velupillay",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Mohamed Touré",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Felix Zwayer, Germany",
+        "motm": {
+          "player": "Alexander Freeman",
+          "rating": 8.2,
+          "team": "USA"
+        }
+      }
     },
     {
       "id": 25,
@@ -8958,6 +8954,11 @@
         "goals": 1
       },
       {
+        "player": "A. Freeman",
+        "team": "USA",
+        "goals": 1
+      },
+      {
         "player": "A. Hussein",
         "team": "IRQ",
         "goals": 1
@@ -9013,11 +9014,6 @@
         "team": "GER",
         "goals": 1,
         "assists": 2
-      },
-      {
-        "player": "E. Ashour",
-        "team": "EGY",
-        "goals": 1
       }
     ],
     "assists": [
@@ -9220,6 +9216,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Circati",
+        "team": "AUS",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Dedic",
         "team": "BIH",
         "red": 0,
@@ -9256,6 +9258,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Robinson",
+        "team": "USA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Alex Arce",
         "team": "PAR",
         "red": 0,
@@ -9288,6 +9296,12 @@
       {
         "player": "C. Mbemba",
         "team": "COD",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "C. Richards",
+        "team": "USA",
         "red": 0,
         "yellow": 1
       },
@@ -9338,28 +9352,24 @@
         "team": "BIH",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "Ehsan Hajisafi",
-        "team": "IRN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "F. Curtis",
-        "team": "SCO",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "F. Kessie",
-        "team": "CIV",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
   "teamStats": [
+    {
+      "code": "USA",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "loses": 0,
+      "gf": 6,
+      "ga": 1,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "WW"
+    },
     {
       "code": "MEX",
       "played": 2,
@@ -9431,20 +9441,6 @@
       "form": "W"
     },
     {
-      "code": "USA",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 4,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "W"
-    },
-    {
       "code": "NOR",
       "played": 1,
       "wins": 1,
@@ -9469,20 +9465,6 @@
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "W"
-    },
-    {
-      "code": "AUS",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 2,
-      "ga": 0,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "2-0",
       "biggestLose": "",
       "form": "W"
     },
@@ -9596,6 +9578,20 @@
       "failedToScore": 1,
       "biggestWin": "2-1",
       "biggestLose": "0-1",
+      "form": "WL"
+    },
+    {
+      "code": "AUS",
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "loses": 1,
+      "gf": 2,
+      "ga": 2,
+      "cleanSheets": 1,
+      "failedToScore": 1,
+      "biggestWin": "2-0",
+      "biggestLose": "0-2",
       "form": "WL"
     },
     {
