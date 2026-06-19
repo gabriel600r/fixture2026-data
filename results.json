@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T00:01:08Z",
+  "updated": "2026-06-19T00:01:55Z",
   "live": [
     {
       "id": 10,
@@ -133,7 +133,7 @@
           "team": "QAT"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "shotsOff": [
           6,
@@ -144,11 +144,11 @@
           4
         ],
         "passesTotal": [
-          533,
-          161
+          552,
+          162
         ],
         "passesPct": [
-          90,
+          91,
           64
         ],
         "yellow": [
@@ -156,7 +156,7 @@
           1
         ],
         "corners": [
-          16,
+          18,
           1
         ],
         "shotsOutside": [
@@ -168,15 +168,15 @@
           2
         ],
         "passesAccurate": [
-          482,
+          500,
           103
         ],
         "offsides": [
           1,
-          0
+          1
         ],
         "shotsInside": [
-          18,
+          19,
           1
         ],
         "shotsOn": [
@@ -184,20 +184,20 @@
           0
         ],
         "fouls": [
-          7,
+          8,
           10
         ],
         "shotsBlocked": [
-          13,
+          14,
           1
         ],
         "shotsTotal": [
-          29,
+          30,
           2
         ],
         "possession": [
-          78,
-          22
+          79,
+          21
         ],
         "home": "CAN",
         "away": "QAT"
