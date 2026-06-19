@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T23:45:35Z",
+  "updated": "2026-06-19T23:46:22Z",
   "live": [
     {
       "id": 15,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 1,
       "goals": [
@@ -47,11 +47,17 @@
           "in": "K. McLean",
           "minute": 71,
           "team": "SCO"
+        },
+        {
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
+          "minute": 84,
+          "team": "MAR"
         }
       ],
       "stats": {
         "passesPct": [
-          86,
+          87,
           91
         ],
         "saves": [
@@ -75,8 +81,8 @@
           1
         ],
         "passesTotal": [
-          351,
-          584
+          382,
+          624
         ],
         "red": [
           0,
@@ -107,8 +113,8 @@
           4
         ],
         "passesAccurate": [
-          303,
-          532
+          332,
+          568
         ],
         "shotsBlocked": [
           1,
