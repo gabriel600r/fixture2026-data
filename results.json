@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:54:22Z",
+  "updated": "2026-06-19T20:55:09Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 0,
       "goals": [
@@ -37,6 +37,24 @@
           "player": "A. Robinson",
           "minute": 56,
           "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Balogun",
+          "minute": 89,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Italiano",
+          "minute": 89,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Souttar",
+          "minute": 89,
+          "team": "AUS",
           "color": "yellow"
         }
       ],
@@ -92,8 +110,8 @@
       ],
       "stats": {
         "passesPct": [
-          87,
-          75
+          86,
+          74
         ],
         "saves": [
           2,
@@ -101,7 +119,7 @@
         ],
         "shotsOutside": [
           2,
-          1
+          2
         ],
         "possession": [
           63,
@@ -109,15 +127,15 @@
         ],
         "corners": [
           6,
-          3
+          4
         ],
         "yellow": [
           1,
           2
         ],
         "passesTotal": [
-          487,
-          273
+          500,
+          282
         ],
         "red": [
           0,
@@ -132,12 +150,12 @@
           2
         ],
         "fouls": [
-          10,
-          13
+          11,
+          15
         ],
         "shotsTotal": [
           10,
-          4
+          5
         ],
         "shotsInside": [
           8,
@@ -145,11 +163,11 @@
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "passesAccurate": [
-          422,
-          206
+          430,
+          209
         ],
         "shotsBlocked": [
           6,
