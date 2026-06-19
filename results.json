@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:04:37Z",
+  "updated": "2026-06-19T21:06:56Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -13,7 +13,132 @@
           "home": 45,
           "draw": 45,
           "away": 10
-        }
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Steve Clarke",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Angus Gunn",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Grant Hanley",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Jack Hendry",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Kieran Tierney",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Nathan Patterson",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Scott McTominay",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lewis Ferguson",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Andy Robertson",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "John McGinn",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Ryan Christie",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Che Adams",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Mohamed Ouahbi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bono",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Achraf Hakimi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Issa Diop",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Chadi Riad",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Noussair Mazraoui",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Neil El Aynaoui",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Brahim Díaz",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Azzedine Ounahi",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Bilal El Khannouss",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismael Saibari",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ilgiz Tantashev, Uzbekistan"
       }
     }
   ],
