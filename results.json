@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T02:39:48Z",
+  "updated": "2026-06-19T02:40:35Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 0,
       "goals": [
@@ -70,6 +70,18 @@
           "in": "Cho Gue-Sung",
           "minute": 77,
           "team": "KOR"
+        },
+        {
+          "out": "R. Jimenez",
+          "in": "S. Gimenez",
+          "minute": 80,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Alvarado",
+          "in": "I. Reyes",
+          "minute": 80,
+          "team": "MEX"
         }
       ],
       "stats": {
