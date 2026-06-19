@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:47:19Z",
+  "updated": "2026-06-19T20:48:06Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 2,
       "away": 0,
       "goals": [
@@ -78,22 +78,22 @@
           "team": "AUS"
         },
         {
-          "out": "A. Robinson",
-          "in": "A. Trusty",
+          "out": "S. Dest",
+          "in": "J. Scally",
           "minute": 80,
           "team": "USA"
         },
         {
-          "out": "S. Dest",
-          "in": "J. Scally",
-          "minute": 81,
+          "out": "A. Robinson",
+          "in": "A. Trusty",
+          "minute": 80,
           "team": "USA"
         }
       ],
       "stats": {
         "passesPct": [
-          88,
-          74
+          87,
+          73
         ],
         "saves": [
           2,
@@ -109,15 +109,15 @@
         ],
         "corners": [
           6,
-          2
+          3
         ],
         "yellow": [
           1,
           2
         ],
         "passesTotal": [
-          476,
-          247
+          484,
+          249
         ],
         "red": [
           0,
@@ -133,7 +133,7 @@
         ],
         "fouls": [
           10,
-          12
+          13
         ],
         "shotsTotal": [
           10,
@@ -148,7 +148,7 @@
           2
         ],
         "passesAccurate": [
-          418,
+          422,
           182
         ],
         "shotsBlocked": [
@@ -291,7 +291,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Alexander Freeman",
-          "rating": 8.0,
+          "rating": 8.2,
           "team": "USA"
         }
       }
