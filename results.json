@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T02:52:20Z",
+  "updated": "2026-06-19T02:53:07Z",
   "live": [
     {
       "id": 4,
@@ -90,7 +90,7 @@
           "team": "MEX"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           3,
@@ -101,12 +101,12 @@
           3
         ],
         "passesTotal": [
-          420,
-          551
+          427,
+          560
         ],
         "passesPct": [
           82,
-          85
+          84
         ],
         "yellow": [
           0,
@@ -125,8 +125,8 @@
           0
         ],
         "passesAccurate": [
-          346,
-          467
+          350,
+          471
         ],
         "offsides": [
           3,
