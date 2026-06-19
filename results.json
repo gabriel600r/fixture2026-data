@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:51:56Z",
+  "updated": "2026-06-19T23:52:43Z",
   "live": [
     {
       "id": 15,
@@ -69,6 +69,12 @@
         {
           "out": "N. Patterson",
           "in": "A. Ralston",
+          "minute": 89,
+          "team": "SCO"
+        },
+        {
+          "out": "J. McGinn",
+          "in": "R. Stewart",
           "minute": 89,
           "team": "SCO"
         }
