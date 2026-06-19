@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T02:30:23Z",
+  "updated": "2026-06-19T02:31:10Z",
   "live": [
     {
       "id": 4,
@@ -40,6 +40,12 @@
           "in": "Oh Hyeon-Gyu",
           "minute": 57,
           "team": "KOR"
+        },
+        {
+          "out": "B. Gutierrez",
+          "in": "O. Pineda",
+          "minute": 71,
+          "team": "MEX"
         }
       ],
       "stats": {
