@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T02:17:03Z",
+  "updated": "2026-06-19T02:17:50Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 0,
       "goals": [
@@ -20,6 +20,20 @@
           "minute": 4,
           "team": "KOR",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Lee Jae-Sung",
+          "in": "Hwang Hee-Chan",
+          "minute": 57,
+          "team": "KOR"
+        },
+        {
+          "out": "Son Heung-Min",
+          "in": "Oh Hyeon-Gyu",
+          "minute": 57,
+          "team": "KOR"
         }
       ],
       "stats": {
