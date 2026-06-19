@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T01:19:46Z",
+  "updated": "2026-06-19T01:20:33Z",
   "live": [
     {
       "id": 4,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -120,8 +120,8 @@
                 "pos": "D"
               },
               {
-                "n": 7,
-                "name": "Luis Romo",
+                "n": 26,
+                "name": "Brian Gutiérrez",
                 "pos": "M"
               },
               {
@@ -130,8 +130,8 @@
                 "pos": "M"
               },
               {
-                "n": 26,
-                "name": "Brian Gutiérrez",
+                "n": 7,
+                "name": "Luis Romo",
                 "pos": "M"
               },
               {
@@ -176,8 +176,8 @@
                 "pos": "D"
               },
               {
-                "n": 22,
-                "name": "Young-woo Seol",
+                "n": 15,
+                "name": "Kim Moon-hwan",
                 "pos": "M"
               },
               {
@@ -191,8 +191,8 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Kim Moon-hwan",
+                "n": 22,
+                "name": "Young-woo Seol",
                 "pos": "M"
               },
               {
