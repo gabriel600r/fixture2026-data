@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T23:33:40Z",
+  "updated": "2026-06-19T23:34:27Z",
   "live": [
     {
       "id": 15,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 1,
       "goals": [
@@ -34,6 +34,18 @@
           "out": "K. Tierney",
           "in": "B. Gannon-Doak",
           "minute": 60,
+          "team": "SCO"
+        },
+        {
+          "out": "C. Adams",
+          "in": "L. Dykes",
+          "minute": 72,
+          "team": "SCO"
+        },
+        {
+          "out": "R. Christie",
+          "in": "K. McLean",
+          "minute": 72,
           "team": "SCO"
         }
       ],
