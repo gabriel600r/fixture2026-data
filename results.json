@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T01:40:09Z",
+  "updated": "2026-06-19T01:40:56Z",
   "live": [
     {
       "id": 4,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -24,24 +24,52 @@
           0,
           1
         ],
+        "passesTotal": [
+          209,
+          128
+        ],
+        "passesPct": [
+          87,
+          77
+        ],
         "yellow": [
           0,
           1
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          2,
+          0
         ],
         "red": [
           0,
           0
         ],
+        "passesAccurate": [
+          181,
+          98
+        ],
         "offsides": [
           2,
           4
         ],
-        "fouls": [
-          2,
-          4
+        "shotsInside": [
+          1,
+          0
         ],
         "shotsOn": [
           1,
+          0
+        ],
+        "fouls": [
+          1,
+          4
+        ],
+        "shotsBlocked": [
+          0,
           0
         ],
         "shotsTotal": [
@@ -49,8 +77,8 @@
           0
         ],
         "possession": [
-          57,
-          43
+          62,
+          38
         ],
         "home": "MEX",
         "away": "KOR"
