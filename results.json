@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T19:46:05Z",
+  "updated": "2026-06-19T19:46:52Z",
   "live": [
     {
       "id": 21,
@@ -13,6 +13,11 @@
           "minute": 11,
           "team": "USA",
           "og": true
+        },
+        {
+          "player": "A. Freeman",
+          "minute": 43,
+          "team": "USA"
         }
       ],
       "cardEvents": [
@@ -29,7 +34,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesPct": [
           89,
@@ -40,7 +45,7 @@
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "possession": [
@@ -56,7 +61,7 @@
           2
         ],
         "passesTotal": [
-          264,
+          263,
           105
         ],
         "red": [
@@ -68,7 +73,7 @@
           0
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "fouls": [
@@ -76,11 +81,11 @@
           7
         ],
         "shotsTotal": [
-          6,
+          8,
           2
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "shotsOff": [
@@ -88,11 +93,11 @@
           1
         ],
         "passesAccurate": [
-          235,
+          234,
           66
         ],
         "shotsBlocked": [
-          4,
+          5,
           0
         ],
         "home": "USA",
