@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T22:22:26Z",
+  "updated": "2026-06-19T22:23:13Z",
   "live": [
     {
       "id": 15,
@@ -13,6 +13,14 @@
           "minute": 2,
           "team": "MAR",
           "assist": "B. Diaz"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "I. Diop",
+          "minute": 23,
+          "team": "MAR",
+          "color": "yellow"
         }
       ],
       "stats": {
