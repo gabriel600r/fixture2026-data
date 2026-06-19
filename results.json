@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T22:20:52Z",
+  "updated": "2026-06-19T22:21:39Z",
   "live": [
     {
       "id": 15,
@@ -91,13 +91,18 @@
         },
         "lineups": {
           "home": {
-            "formation": "3-4-2-1",
+            "formation": "4-2-3-1",
             "coach": "Steve Clarke",
             "xi": [
               {
                 "n": 1,
                 "name": "Angus Gunn",
                 "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Nathan Patterson",
+                "pos": "D"
               },
               {
                 "n": 5,
@@ -110,18 +115,13 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Kieran Tierney",
+                "n": 3,
+                "name": "Andy Robertson",
                 "pos": "D"
               },
               {
-                "n": 22,
-                "name": "Nathan Patterson",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Scott McTominay",
+                "n": 11,
+                "name": "Ryan Christie",
                 "pos": "M"
               },
               {
@@ -130,19 +130,19 @@
                 "pos": "M"
               },
               {
-                "n": 3,
-                "name": "Andy Robertson",
+                "n": 7,
+                "name": "John McGinn",
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "John McGinn",
-                "pos": "F"
+                "n": 4,
+                "name": "Scott McTominay",
+                "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Ryan Christie",
-                "pos": "F"
+                "n": 6,
+                "name": "Kieran Tierney",
+                "pos": "M"
               },
               {
                 "n": 10,
@@ -181,13 +181,13 @@
                 "pos": "D"
               },
               {
-                "n": 24,
-                "name": "Neil El Aynaoui",
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Ayyoub Bouaddi",
+                "n": 24,
+                "name": "Neil El Aynaoui",
                 "pos": "M"
               },
               {
