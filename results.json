@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T01:04:04Z",
+  "updated": "2026-06-19T01:04:51Z",
   "live": [
     {
       "id": 4,
@@ -7,6 +7,14 @@
       "minute": 4,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Lee Kang-In",
+          "minute": 4,
+          "team": "KOR",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
@@ -17,12 +25,12 @@
           0
         ],
         "passesTotal": [
-          0,
-          2
+          14,
+          20
         ],
         "passesPct": [
-          0,
-          100
+          79,
+          85
         ],
         "yellow": [
           0,
@@ -41,12 +49,12 @@
           0
         ],
         "passesAccurate": [
-          0,
-          2
+          11,
+          17
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsInside": [
           0,
@@ -58,7 +66,7 @@
         ],
         "fouls": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
@@ -69,8 +77,8 @@
           0
         ],
         "possession": [
-          0,
-          100
+          41,
+          59
         ],
         "home": "MEX",
         "away": "KOR"
