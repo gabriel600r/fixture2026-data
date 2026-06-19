@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-19T02:57:01Z",
+  "updated": "2026-06-19T18:00:07Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 21,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Mauricio Pochettino",
+            "xi": [
+              {
+                "n": 24,
+                "name": "Matthew Freese",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Alexander Freeman",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Chris Richards",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Tim Ream",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Adams",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Weston McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Ricardo Pepi",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Folarin Balogun",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Tony Popovic",
+            "xi": [
+              {
+                "n": 18,
+                "name": "Patrick Beach",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Jacob Italiano",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Alessandro Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Harry Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Cameron Burgess",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jordan Bos",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Mathew Leckie",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Aiden O'Neill",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Okon-Engstler",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Nishan Velupillay",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Mohamed Touré",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Felix Zwayer, Germany"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
