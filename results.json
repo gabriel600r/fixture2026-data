@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:56:41Z",
+  "updated": "2026-06-19T23:58:25Z",
   "live": [
     {
       "id": 15,
@@ -85,10 +85,10 @@
           "team": "MAR"
         }
       ],
-      "extra": 4,
+      "extra": 6,
       "stats": {
         "passesPct": [
-          87,
+          86,
           90
         ],
         "saves": [
@@ -112,8 +112,8 @@
           1
         ],
         "passesTotal": [
-          426,
-          655
+          438,
+          666
         ],
         "red": [
           0,
@@ -133,19 +133,19 @@
         ],
         "shotsTotal": [
           6,
-          10
+          11
         ],
         "shotsInside": [
           5,
-          7
+          8
         ],
         "shotsOff": [
           3,
-          4
+          5
         ],
         "passesAccurate": [
-          369,
-          590
+          377,
+          599
         ],
         "shotsBlocked": [
           3,
