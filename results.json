@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T23:28:07Z",
+  "updated": "2026-06-19T23:28:54Z",
   "live": [
     {
       "id": 15,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
@@ -20,6 +20,12 @@
           "player": "I. Diop",
           "minute": 23,
           "team": "MAR",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Robertson",
+          "minute": 65,
+          "team": "SCO",
           "color": "yellow"
         }
       ],
@@ -41,8 +47,8 @@
           0
         ],
         "shotsOutside": [
-          0,
-          1
+          1,
+          2
         ],
         "possession": [
           40,
@@ -57,8 +63,8 @@
           1
         ],
         "passesTotal": [
-          301,
-          459
+          310,
+          478
         ],
         "red": [
           0,
@@ -77,20 +83,20 @@
           5
         ],
         "shotsTotal": [
-          2,
-          8
+          3,
+          9
         ],
         "shotsInside": [
           2,
           7
         ],
         "shotsOff": [
-          1,
-          3
+          2,
+          4
         ],
         "passesAccurate": [
-          263,
-          418
+          270,
+          434
         ],
         "shotsBlocked": [
           1,
