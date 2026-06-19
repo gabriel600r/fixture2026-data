@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T02:54:41Z",
+  "updated": "2026-06-19T02:55:28Z",
   "live": [
     {
       "id": 4,
@@ -90,7 +90,7 @@
           "team": "MEX"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           3,
