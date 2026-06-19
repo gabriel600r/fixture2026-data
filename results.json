@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T20:57:31Z",
+  "updated": "2026-06-19T20:58:18Z",
   "live": [
     {
       "id": 21,
@@ -40,19 +40,19 @@
           "color": "yellow"
         },
         {
-          "player": "F. Balogun",
-          "minute": 88,
-          "team": "USA",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Italiano",
+          "player": "H. Souttar",
           "minute": 88,
           "team": "AUS",
           "color": "yellow"
         },
         {
-          "player": "H. Souttar",
+          "player": "F. Balogun",
+          "minute": 89,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Italiano",
           "minute": 89,
           "team": "AUS",
           "color": "yellow"
@@ -108,7 +108,7 @@
           "team": "USA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           86,
