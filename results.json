@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-19T22:02:06Z",
+  "updated": "2026-06-19T22:02:53Z",
   "live": [
     {
       "id": 15,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "I. Saibari",
           "minute": 2,
-          "team": "MAR"
+          "team": "MAR",
+          "assist": "B. Diaz"
         }
       ],
       "extras": {
