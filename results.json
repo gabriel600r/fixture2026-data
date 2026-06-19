@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T23:46:22Z",
+  "updated": "2026-06-19T23:47:10Z",
   "live": [
     {
       "id": 15,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 1,
       "goals": [
@@ -51,6 +51,18 @@
         {
           "out": "I. Saibari",
           "in": "S. Rahimi",
+          "minute": 84,
+          "team": "MAR"
+        },
+        {
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
+          "minute": 84,
+          "team": "MAR"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "A. Amaimouni",
           "minute": 84,
           "team": "MAR"
         }
