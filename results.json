@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:10:25Z",
+  "updated": "2026-06-19T20:11:12Z",
   "live": [
     {
       "id": 21,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 0,
       "goals": [
@@ -34,7 +34,26 @@
           "color": "yellow"
         }
       ],
-      "extra": 8,
+      "subs": [
+        {
+          "out": "C. Burgess",
+          "in": "J. Geria",
+          "minute": 46,
+          "team": "AUS"
+        },
+        {
+          "out": "N. Velupillay",
+          "in": "C. Metcalfe",
+          "minute": 46,
+          "team": "AUS"
+        },
+        {
+          "out": "M. Toure",
+          "in": "N. Irankunda",
+          "minute": 46,
+          "team": "AUS"
+        }
+      ],
       "stats": {
         "passesPct": [
           89,
@@ -233,7 +252,12 @@
             ]
           }
         },
-        "referee": "Felix Zwayer, Germany"
+        "referee": "Felix Zwayer, Germany",
+        "motm": {
+          "player": "Alexander Freeman",
+          "rating": 7.9,
+          "team": "USA"
+        }
       }
     }
   ],
