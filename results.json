@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T02:49:59Z",
+  "updated": "2026-06-19T02:50:46Z",
   "live": [
     {
       "id": 4,
@@ -90,22 +90,23 @@
           "team": "MEX"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           3,
           2
         ],
         "saves": [
-          0,
+          2,
           3
         ],
         "passesTotal": [
-          419,
-          540
+          420,
+          551
         ],
         "passesPct": [
           82,
-          84
+          85
         ],
         "yellow": [
           0,
@@ -124,8 +125,8 @@
           0
         ],
         "passesAccurate": [
-          345,
-          456
+          346,
+          467
         ],
         "offsides": [
           3,
@@ -133,11 +134,11 @@
         ],
         "shotsInside": [
           5,
-          1
+          3
         ],
         "shotsOn": [
           4,
-          0
+          2
         ],
         "fouls": [
           9,
@@ -149,11 +150,11 @@
         ],
         "shotsTotal": [
           8,
-          4
+          6
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "home": "MEX",
         "away": "KOR"
