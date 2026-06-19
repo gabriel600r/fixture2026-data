@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T02:29:36Z",
+  "updated": "2026-06-19T02:30:23Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 0,
       "goals": [
@@ -52,11 +52,11 @@
           1
         ],
         "passesTotal": [
-          335,
-          423
+          352,
+          440
         ],
         "passesPct": [
-          82,
+          83,
           85
         ],
         "yellow": [
@@ -76,8 +76,8 @@
           0
         ],
         "passesAccurate": [
-          276,
-          358
+          292,
+          374
         ],
         "offsides": [
           3,
@@ -104,8 +104,8 @@
           3
         ],
         "possession": [
-          44,
-          56
+          45,
+          55
         ],
         "home": "MEX",
         "away": "KOR"
