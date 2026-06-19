@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-19T22:01:19Z",
+  "updated": "2026-06-19T22:02:06Z",
   "live": [
     {
       "id": 15,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "I. Saibari",
+          "minute": 2,
+          "team": "MAR"
+        }
+      ],
       "extras": {
         "pred": {
           "home": 45,
