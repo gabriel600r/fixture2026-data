@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T02:13:55Z",
+  "updated": "2026-06-19T02:14:42Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 0,
       "goals": [
@@ -32,12 +32,12 @@
           1
         ],
         "passesTotal": [
-          301,
-          325
+          305,
+          337
         ],
         "passesPct": [
-          85,
-          84
+          84,
+          83
         ],
         "yellow": [
           0,
@@ -56,8 +56,8 @@
           0
         ],
         "passesAccurate": [
-          255,
-          272
+          257,
+          280
         ],
         "offsides": [
           2,
@@ -72,7 +72,7 @@
           0
         ],
         "fouls": [
-          4,
+          5,
           4
         ],
         "shotsBlocked": [
@@ -223,7 +223,7 @@
         "referee": "Gustavo Tejera, Uruguay",
         "motm": {
           "player": "Luis Romo",
-          "rating": 7.0,
+          "rating": 7.9,
           "team": "MEX"
         }
       }
