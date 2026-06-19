@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:01:28Z",
+  "updated": "2026-06-19T21:02:15Z",
   "live": [
     {
       "id": 21,
@@ -111,6 +111,18 @@
           "out": "A. Robinson",
           "in": "A. Trusty",
           "minute": 80,
+          "team": "USA"
+        },
+        {
+          "out": "F. Balogun",
+          "in": "H. Wright",
+          "minute": 90,
+          "team": "USA"
+        },
+        {
+          "out": "W. McKennie",
+          "in": "G. Reyna",
+          "minute": 90,
           "team": "USA"
         }
       ],
