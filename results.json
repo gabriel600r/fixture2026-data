@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-19T19:10:54Z",
+  "updated": "2026-06-19T19:11:41Z",
   "live": [
     {
       "id": 21,
       "status": "1H",
       "minute": 11,
-      "home": 0,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "C. Burgess",
+          "minute": 11,
+          "team": "USA",
+          "og": true
+        }
+      ],
       "stats": {
         "passesPct": [
           85,
