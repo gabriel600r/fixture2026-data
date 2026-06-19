@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T01:33:53Z",
+  "updated": "2026-06-19T01:34:40Z",
   "live": [
     {
       "id": 4,
@@ -26,11 +26,11 @@
         ],
         "passesTotal": [
           209,
-          122
+          128
         ],
         "passesPct": [
           87,
-          75
+          77
         ],
         "yellow": [
           0,
@@ -50,11 +50,11 @@
         ],
         "passesAccurate": [
           181,
-          92
+          98
         ],
         "offsides": [
           2,
-          3
+          4
         ],
         "shotsInside": [
           1,
@@ -77,8 +77,8 @@
           0
         ],
         "possession": [
-          63,
-          37
+          62,
+          38
         ],
         "home": "MEX",
         "away": "KOR"
