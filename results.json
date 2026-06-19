@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T20:41:03Z",
+  "updated": "2026-06-19T20:41:50Z",
   "live": [
     {
       "id": 21,
@@ -98,8 +98,8 @@
           2
         ],
         "passesTotal": [
-          455,
-          211
+          470,
+          221
         ],
         "red": [
           0,
@@ -115,7 +115,7 @@
         ],
         "fouls": [
           10,
-          10
+          11
         ],
         "shotsTotal": [
           10,
@@ -130,8 +130,8 @@
           2
         ],
         "passesAccurate": [
-          402,
-          149
+          415,
+          158
         ],
         "shotsBlocked": [
           6,
@@ -273,7 +273,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Alexander Freeman",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "USA"
         }
       }
