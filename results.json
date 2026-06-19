@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-19T20:46:32Z",
+  "updated": "2026-06-19T20:47:19Z",
   "live": [
     {
       "id": 21,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 2,
       "away": 0,
       "goals": [
@@ -76,6 +76,12 @@
           "in": "J. Irvine",
           "minute": 78,
           "team": "AUS"
+        },
+        {
+          "out": "A. Robinson",
+          "in": "A. Trusty",
+          "minute": 80,
+          "team": "USA"
         },
         {
           "out": "S. Dest",
