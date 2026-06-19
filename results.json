@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-19T02:09:59Z",
+  "updated": "2026-06-19T02:10:47Z",
   "live": [
     {
       "id": 4,
       "status": "2H",
-      "minute": 50,
-      "home": 0,
+      "minute": 51,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "L. Romo",
+          "minute": 50,
+          "team": "MEX"
+        }
+      ],
       "cardEvents": [
         {
           "player": "Lee Kang-In",
