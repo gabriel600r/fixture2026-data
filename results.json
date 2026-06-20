@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T03:17:10Z",
+  "updated": "2026-06-20T03:17:57Z",
   "live": [
     {
       "id": 22,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 0,
       "away": 1,
       "goals": [
@@ -25,7 +25,7 @@
       ],
       "stats": {
         "passesPct": [
-          91,
+          90,
           72
         ],
         "saves": [
@@ -37,11 +37,11 @@
           3
         ],
         "possession": [
-          74,
-          26
+          75,
+          25
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "yellow": [
@@ -49,7 +49,7 @@
           1
         ],
         "passesTotal": [
-          95,
+          100,
           32
         ],
         "red": [
@@ -58,7 +58,7 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsOn": [
           0,
@@ -69,11 +69,11 @@
           2
         ],
         "shotsTotal": [
-          1,
+          2,
           3
         ],
         "shotsInside": [
-          1,
+          2,
           0
         ],
         "shotsOff": [
@@ -81,11 +81,11 @@
           2
         ],
         "passesAccurate": [
-          86,
+          90,
           23
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "home": "TUR",
