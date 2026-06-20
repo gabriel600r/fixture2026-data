@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T17:45:08Z",
+  "updated": "2026-06-20T17:45:55Z",
   "live": [
     {
       "id": 33,
@@ -21,6 +21,7 @@
           "assist": "D. Dumfries"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesAccurate": [
           220,
