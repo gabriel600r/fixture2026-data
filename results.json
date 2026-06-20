@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:30:05Z",
+  "updated": "2026-06-20T02:30:52Z",
   "live": [
     {
       "id": 16,
@@ -326,7 +326,137 @@
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 22,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Vincenzo Montella",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Uğurcan Çakır",
+                "pos": "G"
+              },
+              {
+                "n": 18,
+                "name": "Mert Müldür",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Merih Demiral",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Abdülkerim Bardakcı",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Ferdi Kadıoğlu",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "İsmail Yüksek",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Hakan Çalhanoğlu",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Yunus Akgün",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Arda Güler",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Kenan Yıldız",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kerem Aktürkoğlu",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Gustavo Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Orlando Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Juan Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Gustavo Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Omar Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Junior Alonso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Diego Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Matías Galarza",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Miguel Almirón",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Isidro Pitta",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
+                "pos": "F"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
