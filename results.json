@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:23:47Z",
+  "updated": "2026-06-20T21:24:34Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 1,
       "goals": [
@@ -36,13 +36,13 @@
         {
           "out": "A. Pavlovic",
           "in": "N. Amiri",
-          "minute": 61,
+          "minute": 60,
           "team": "GER"
         }
       ],
       "stats": {
         "passesAccurate": [
-          366,
+          391,
           250
         ],
         "yellow": [
@@ -50,7 +50,7 @@
           0
         ],
         "passesTotal": [
-          412,
+          438,
           284
         ],
         "shotsTotal": [
@@ -59,7 +59,7 @@
         ],
         "fouls": [
           2,
-          4
+          5
         ],
         "shotsOn": [
           2,
@@ -70,12 +70,12 @@
           1
         ],
         "corners": [
-          4,
+          6,
           2
         ],
         "possession": [
-          59,
-          41
+          61,
+          39
         ],
         "saves": [
           1,
