@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:27:44Z",
+  "updated": "2026-06-20T04:28:31Z",
   "live": [
     {
       "id": 22,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 1,
       "goals": [
@@ -68,12 +68,12 @@
           3
         ],
         "shotsOutside": [
-          8,
+          9,
           3
         ],
         "possession": [
-          79,
-          21
+          80,
+          20
         ],
         "corners": [
           6,
@@ -84,8 +84,8 @@
           1
         ],
         "passesTotal": [
-          463,
-          125
+          481,
+          127
         ],
         "red": [
           0,
@@ -96,7 +96,7 @@
           2
         ],
         "shotsOn": [
-          2,
+          3,
           2
         ],
         "fouls": [
@@ -104,20 +104,20 @@
           12
         ],
         "shotsTotal": [
-          15,
-          4
+          16,
+          5
         ],
         "shotsInside": [
           7,
-          1
+          2
         ],
         "shotsOff": [
           6,
-          2
+          3
         ],
         "passesAccurate": [
-          413,
-          73
+          428,
+          74
         ],
         "shotsBlocked": [
           7,
@@ -253,9 +253,9 @@
         },
         "referee": "Iván Barton, El Salvador",
         "motm": {
-          "player": "Matías Galarza",
+          "player": "Abdülkerim Bardakcı",
           "rating": 7.9,
-          "team": "PAR"
+          "team": "TUR"
         }
       }
     }
