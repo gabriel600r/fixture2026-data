@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-20T18:14:52Z",
+  "updated": "2026-06-20T18:15:39Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 54,
-      "home": 3,
+      "minute": 55,
+      "home": 4,
       "away": 0,
       "goals": [
         {
@@ -25,6 +25,12 @@
           "minute": 47,
           "team": "NED",
           "assist": "D. Dumfries"
+        },
+        {
+          "player": "C. Gakpo",
+          "minute": 54,
+          "team": "NED",
+          "assist": "C. Summerville"
         }
       ],
       "cardEvents": [
