@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:47:20Z",
+  "updated": "2026-06-20T21:48:07Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 1,
       "away": 1,
       "goals": [
@@ -68,27 +68,33 @@
           "in": "G. Doue",
           "minute": 82,
           "team": "CIV"
+        },
+        {
+          "out": "Y. Diomande",
+          "in": "N. Pepe",
+          "minute": 85,
+          "team": "CIV"
         }
       ],
       "stats": {
         "passesAccurate": [
-          481,
-          320
+          484,
+          328
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          540,
-          369
+          544,
+          378
         ],
         "shotsTotal": [
           12,
           8
         ],
         "fouls": [
-          4,
+          5,
           5
         ],
         "shotsOn": [
@@ -104,8 +110,8 @@
           2
         ],
         "possession": [
-          60,
-          40
+          59,
+          41
         ],
         "saves": [
           1,
