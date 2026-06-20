@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-20T00:55:39Z",
+  "updated": "2026-06-20T00:56:26Z",
   "live": [
     {
       "id": 16,
       "status": "1H",
-      "minute": 23,
-      "home": 0,
+      "minute": 24,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "H. Delcroix",
+          "minute": 24,
+          "team": "BRA",
+          "og": true
+        }
+      ],
       "cardEvents": [
         {
           "player": "C. Arcus",
@@ -18,7 +26,7 @@
       "stats": {
         "passesPct": [
           89,
-          80
+          76
         ],
         "saves": [
           0,
@@ -29,11 +37,11 @@
           0
         ],
         "possession": [
-          65,
-          35
+          66,
+          34
         ],
         "corners": [
-          3,
+          4,
           0
         ],
         "yellow": [
@@ -41,15 +49,15 @@
           1
         ],
         "passesTotal": [
-          133,
-          74
+          141,
+          78
         ],
         "red": [
           0,
           0
         ],
         "offsides": [
-          3,
+          4,
           1
         ],
         "shotsOn": [
@@ -61,11 +69,11 @@
           2
         ],
         "shotsTotal": [
-          1,
+          2,
           0
         ],
         "shotsInside": [
-          1,
+          2,
           0
         ],
         "shotsOff": [
@@ -73,11 +81,11 @@
           0
         ],
         "passesAccurate": [
-          118,
+          126,
           59
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "home": "BRA",
