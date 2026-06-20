@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-20T18:19:34Z",
+  "updated": "2026-06-20T18:20:21Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 4,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "B. Brobbey",
@@ -31,6 +31,12 @@
           "minute": 54,
           "team": "NED",
           "assist": "C. Summerville"
+        },
+        {
+          "player": "A. Elanga",
+          "minute": 59,
+          "team": "SWE",
+          "assist": "A. Isak"
         }
       ],
       "cardEvents": [
@@ -49,6 +55,12 @@
           "team": "NED"
         },
         {
+          "out": "A. Bernhardsson",
+          "in": "A. Elanga",
+          "minute": 55,
+          "team": "SWE"
+        },
+        {
           "out": "J. Karlstrom",
           "in": "B. Zeneli",
           "minute": 56,
@@ -57,12 +69,6 @@
         {
           "out": "B. Nygren",
           "in": "L. Bergvall",
-          "minute": 56,
-          "team": "SWE"
-        },
-        {
-          "out": "A. Bernhardsson",
-          "in": "A. Elanga",
           "minute": 56,
           "team": "SWE"
         }
