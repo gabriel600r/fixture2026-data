@@ -1,314 +1,6 @@
 {
-  "updated": "2026-06-20T05:06:09Z",
-  "live": [
-    {
-      "id": 22,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "M. Galarza",
-          "minute": 2,
-          "team": "PAR",
-          "assist": "J. Enciso"
-        }
-      ],
-      "redCards": [
-        "M. Almiron (Paraguay) 45'"
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Galarza",
-          "minute": 4,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "M. Almiron",
-          "minute": 45,
-          "team": "PAR",
-          "color": "red"
-        },
-        {
-          "player": "V. Montella",
-          "minute": 63,
-          "team": "TUR",
-          "color": "yellow"
-        },
-        {
-          "player": "E. Elmali",
-          "minute": 71,
-          "team": "TUR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "I. Pitta",
-          "in": "D. Bobadilla",
-          "minute": 46,
-          "team": "PAR"
-        },
-        {
-          "out": "K. Akturkoglu",
-          "in": "B. Yilmaz",
-          "minute": 46,
-          "team": "TUR"
-        },
-        {
-          "out": "I. Yuksek",
-          "in": "C. Uzun",
-          "minute": 60,
-          "team": "TUR"
-        },
-        {
-          "out": "Y. Akgun",
-          "in": "D. Gul",
-          "minute": 60,
-          "team": "TUR"
-        },
-        {
-          "out": "D. Gomez",
-          "in": "G. Velazquez",
-          "minute": 67,
-          "team": "PAR"
-        },
-        {
-          "out": "F. Kadioglu",
-          "in": "E. Elmali",
-          "minute": 70,
-          "team": "TUR"
-        },
-        {
-          "out": "J. Caceres",
-          "in": "A. Maidana",
-          "minute": 81,
-          "team": "PAR"
-        },
-        {
-          "out": "A. Bardakci",
-          "in": "O. Kokcu",
-          "minute": 86,
-          "team": "TUR"
-        },
-        {
-          "out": "J. Enciso",
-          "in": "G. Avalos",
-          "minute": 90,
-          "team": "PAR"
-        },
-        {
-          "out": "M. Galarza",
-          "in": "J. Canale",
-          "minute": 90,
-          "team": "PAR"
-        }
-      ],
-      "extra": 9,
-      "stats": {
-        "passesPct": [
-          89,
-          53
-        ],
-        "saves": [
-          1,
-          5
-        ],
-        "shotsOutside": [
-          15,
-          4
-        ],
-        "possession": [
-          79,
-          21
-        ],
-        "corners": [
-          11,
-          0
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "passesTotal": [
-          623,
-          175
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "offsides": [
-          2,
-          3
-        ],
-        "shotsOn": [
-          5,
-          2
-        ],
-        "fouls": [
-          14,
-          14
-        ],
-        "shotsTotal": [
-          31,
-          7
-        ],
-        "shotsInside": [
-          16,
-          3
-        ],
-        "shotsOff": [
-          14,
-          3
-        ],
-        "passesAccurate": [
-          555,
-          93
-        ],
-        "shotsBlocked": [
-          12,
-          2
-        ],
-        "home": "TUR",
-        "away": "PAR"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Vincenzo Montella",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Uğurcan Çakır",
-                "pos": "G"
-              },
-              {
-                "n": 18,
-                "name": "Mert Müldür",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Merih Demiral",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Abdülkerim Bardakcı",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Ferdi Kadıoğlu",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "İsmail Yüksek",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Hakan Çalhanoğlu",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Yunus Akgün",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Arda Güler",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Kenan Yıldız",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kerem Aktürkoğlu",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Gustavo Alfaro",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Orlando Gill",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Juan Cáceres",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Gustavo Gómez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Omar Alderete",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Junior Alonso",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Miguel Almirón",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Andrés Cubas",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Diego Gómez",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Matías Galarza",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Isidro Pitta",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "Julio Enciso",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Iván Barton, El Salvador",
-        "motm": {
-          "player": "Abdülkerim Bardakcı",
-          "rating": 8.0,
-          "team": "TUR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-20T05:06:55Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -4982,6 +4674,310 @@
           "player": "Alexander Freeman",
           "rating": 8.2,
           "team": "USA"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "home": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "M. Galarza",
+          "minute": 2,
+          "team": "PAR",
+          "assist": "J. Enciso"
+        }
+      ],
+      "redCards": [
+        "M. Almiron (Paraguay) 45'"
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Galarza",
+          "minute": 4,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Almiron",
+          "minute": 45,
+          "team": "PAR",
+          "color": "red"
+        },
+        {
+          "player": "V. Montella",
+          "minute": 63,
+          "team": "TUR",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Elmali",
+          "minute": 71,
+          "team": "TUR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "I. Pitta",
+          "in": "D. Bobadilla",
+          "minute": 46,
+          "team": "PAR"
+        },
+        {
+          "out": "K. Akturkoglu",
+          "in": "B. Yilmaz",
+          "minute": 46,
+          "team": "TUR"
+        },
+        {
+          "out": "I. Yuksek",
+          "in": "C. Uzun",
+          "minute": 60,
+          "team": "TUR"
+        },
+        {
+          "out": "Y. Akgun",
+          "in": "D. Gul",
+          "minute": 60,
+          "team": "TUR"
+        },
+        {
+          "out": "D. Gomez",
+          "in": "G. Velazquez",
+          "minute": 67,
+          "team": "PAR"
+        },
+        {
+          "out": "F. Kadioglu",
+          "in": "E. Elmali",
+          "minute": 70,
+          "team": "TUR"
+        },
+        {
+          "out": "J. Caceres",
+          "in": "A. Maidana",
+          "minute": 81,
+          "team": "PAR"
+        },
+        {
+          "out": "A. Bardakci",
+          "in": "O. Kokcu",
+          "minute": 86,
+          "team": "TUR"
+        },
+        {
+          "out": "J. Enciso",
+          "in": "G. Avalos",
+          "minute": 90,
+          "team": "PAR"
+        },
+        {
+          "out": "M. Galarza",
+          "in": "J. Canale",
+          "minute": 90,
+          "team": "PAR"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          89,
+          53
+        ],
+        "saves": [
+          1,
+          5
+        ],
+        "shotsOutside": [
+          15,
+          4
+        ],
+        "possession": [
+          79,
+          21
+        ],
+        "corners": [
+          11,
+          0
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "passesTotal": [
+          623,
+          175
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "offsides": [
+          2,
+          3
+        ],
+        "shotsOn": [
+          5,
+          2
+        ],
+        "fouls": [
+          14,
+          14
+        ],
+        "shotsTotal": [
+          31,
+          7
+        ],
+        "shotsInside": [
+          16,
+          3
+        ],
+        "shotsOff": [
+          14,
+          3
+        ],
+        "passesAccurate": [
+          555,
+          93
+        ],
+        "shotsBlocked": [
+          12,
+          2
+        ],
+        "home": "TUR",
+        "away": "PAR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Vincenzo Montella",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Uğurcan Çakır",
+                "pos": "G"
+              },
+              {
+                "n": 18,
+                "name": "Mert Müldür",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Merih Demiral",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Abdülkerim Bardakcı",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Ferdi Kadıoğlu",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "İsmail Yüksek",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Hakan Çalhanoğlu",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Yunus Akgün",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Arda Güler",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Kenan Yıldız",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kerem Aktürkoğlu",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Gustavo Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Orlando Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Juan Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Gustavo Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Omar Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Junior Alonso",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Miguel Almirón",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Diego Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Matías Galarza",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Isidro Pitta",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Iván Barton, El Salvador",
+        "motm": {
+          "player": "Abdülkerim Bardakcı",
+          "rating": 8.0,
+          "team": "TUR"
         }
       }
     },
@@ -10063,13 +10059,13 @@
         "assists": 1
       },
       {
-        "player": "Julio Enciso",
+        "player": "J. Enciso",
         "team": "PAR",
         "assists": 1
       },
       {
-        "player": "K. Ogawa",
-        "team": "JPN",
+        "player": "Julio Enciso",
+        "team": "PAR",
         "assists": 1
       }
     ],
@@ -10089,6 +10085,12 @@
       {
         "player": "H. Al Amin",
         "team": "QAT",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "M. Almiron",
+        "team": "PAR",
         "red": 1,
         "yellow": 0
       },
@@ -10245,12 +10247,6 @@
       {
         "player": "D. Jean Jacques",
         "team": "HAI",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "D. Zakaria",
-        "team": "SUI",
         "red": 0,
         "yellow": 1
       }
@@ -10524,6 +10520,20 @@
       "form": "WL"
     },
     {
+      "code": "PAR",
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "loses": 1,
+      "gf": 2,
+      "ga": 4,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "1-0",
+      "biggestLose": "1-4",
+      "form": "LW"
+    },
+    {
       "code": "NED",
       "played": 1,
       "wins": 0,
@@ -10776,20 +10786,6 @@
       "form": "L"
     },
     {
-      "code": "TUR",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "loses": 1,
-      "gf": 0,
-      "ga": 2,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "0-2",
-      "form": "L"
-    },
-    {
       "code": "SEN",
       "played": 1,
       "wins": 0,
@@ -10846,18 +10842,18 @@
       "form": "L"
     },
     {
-      "code": "PAR",
-      "played": 1,
+      "code": "TUR",
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "loses": 1,
-      "gf": 1,
-      "ga": 4,
+      "loses": 2,
+      "gf": 0,
+      "ga": 3,
       "cleanSheets": 0,
-      "failedToScore": 0,
+      "failedToScore": 2,
       "biggestWin": "",
-      "biggestLose": "1-4",
-      "form": "L"
+      "biggestLose": "0-2",
+      "form": "LL"
     },
     {
       "code": "IRQ",
