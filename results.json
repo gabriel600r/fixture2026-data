@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:16:26Z",
+  "updated": "2026-06-20T18:17:13Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 4,
       "away": 0,
       "goals": [
@@ -250,7 +250,7 @@
         "referee": "Michael Oliver, England",
         "motm": {
           "player": "Denzel Dumfries",
-          "rating": 8.5,
+          "rating": 8.9,
           "team": "NED"
         }
       }
