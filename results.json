@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:45:48Z",
+  "updated": "2026-06-20T04:46:35Z",
   "live": [
     {
       "id": 22,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 0,
       "away": 1,
       "goals": [
@@ -89,18 +89,18 @@
         ],
         "saves": [
           1,
-          5
+          4
         ],
         "shotsOutside": [
-          11,
+          12,
           3
         ],
         "possession": [
-          80,
-          20
+          79,
+          21
         ],
         "corners": [
-          9,
+          10,
           0
         ],
         "yellow": [
@@ -108,8 +108,8 @@
           1
         ],
         "passesTotal": [
-          533,
-          139
+          540,
+          146
         ],
         "red": [
           0,
@@ -124,27 +124,27 @@
           2
         ],
         "fouls": [
-          8,
+          9,
           12
         ],
         "shotsTotal": [
-          21,
+          23,
           5
         ],
         "shotsInside": [
-          10,
+          11,
           2
         ],
         "shotsOff": [
-          9,
+          10,
           3
         ],
         "passesAccurate": [
-          476,
-          75
+          483,
+          79
         ],
         "shotsBlocked": [
-          8,
+          9,
           0
         ],
         "home": "TUR",
@@ -278,7 +278,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Abdülkerim Bardakcı",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "TUR"
         }
       }
