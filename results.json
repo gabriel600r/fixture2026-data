@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:07:02Z",
+  "updated": "2026-06-20T18:07:49Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 2,
       "away": 0,
       "goals": [
@@ -21,30 +21,38 @@
           "assist": "D. Dumfries"
         }
       ],
+      "subs": [
+        {
+          "out": "D. Malen",
+          "in": "C. Summerville",
+          "minute": 46,
+          "team": "NED"
+        }
+      ],
       "stats": {
         "passesAccurate": [
-          222,
-          142
+          223,
+          146
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          245,
-          168
+          249,
+          174
         ],
         "shotsTotal": [
           5,
-          6
+          9
         ],
         "fouls": [
-          4,
+          5,
           4
         ],
         "shotsOn": [
           4,
-          2
+          4
         ],
         "offsides": [
           1,
@@ -52,23 +60,23 @@
         ],
         "corners": [
           1,
-          1
+          2
         ],
         "possession": [
-          60,
-          40
+          59,
+          41
         ],
         "saves": [
-          3,
+          4,
           2
         ],
         "shotsOutside": [
           1,
-          1
+          4
         ],
         "shotsOff": [
           1,
-          3
+          4
         ],
         "shotsBlocked": [
           0,
@@ -79,8 +87,8 @@
           0
         ],
         "passesPct": [
-          91,
-          85
+          90,
+          84
         ],
         "shotsInside": [
           4,
