@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:48:07Z",
+  "updated": "2026-06-20T21:48:54Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -74,6 +74,12 @@
           "in": "N. Pepe",
           "minute": 85,
           "team": "CIV"
+        },
+        {
+          "out": "K. Havertz",
+          "in": "L. Goretzka",
+          "minute": 85,
+          "team": "GER"
         }
       ],
       "stats": {
