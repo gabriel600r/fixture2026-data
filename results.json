@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T00:57:13Z",
+  "updated": "2026-06-20T00:58:00Z",
   "live": [
     {
       "id": 16,
@@ -9,10 +9,9 @@
       "away": 0,
       "goals": [
         {
-          "player": "H. Delcroix",
+          "player": "M. Cunha",
           "minute": 24,
-          "team": "BRA",
-          "og": true
+          "team": "BRA"
         }
       ],
       "cardEvents": [
