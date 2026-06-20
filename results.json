@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T02:16:32Z",
+  "updated": "2026-06-20T02:17:20Z",
   "live": [
     {
       "id": 16,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 3,
       "away": 0,
       "goals": [
@@ -106,6 +106,12 @@
           "in": "Ederson",
           "minute": 81,
           "team": "BRA"
+        },
+        {
+          "out": "J. Bellegarde",
+          "in": "D. Etienne",
+          "minute": 81,
+          "team": "HAI"
         }
       ],
       "stats": {
