@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T02:02:14Z",
+  "updated": "2026-06-20T02:03:02Z",
   "live": [
     {
       "id": 16,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 3,
       "away": 0,
       "goals": [
@@ -87,7 +87,7 @@
       "stats": {
         "passesPct": [
           90,
-          82
+          83
         ],
         "saves": [
           1,
@@ -98,8 +98,8 @@
           1
         ],
         "possession": [
-          60,
-          40
+          59,
+          41
         ],
         "corners": [
           4,
@@ -111,7 +111,7 @@
         ],
         "passesTotal": [
           415,
-          276
+          288
         ],
         "red": [
           0,
@@ -126,7 +126,7 @@
           1
         ],
         "fouls": [
-          8,
+          9,
           6
         ],
         "shotsTotal": [
@@ -143,7 +143,7 @@
         ],
         "passesAccurate": [
           372,
-          227
+          239
         ],
         "shotsBlocked": [
           1,
@@ -285,7 +285,7 @@
         "referee": "Alejandro Hernandez, Spain",
         "motm": {
           "player": "Matheus Cunha",
-          "rating": 9.2,
+          "rating": 9.3,
           "team": "BRA"
         }
       }
