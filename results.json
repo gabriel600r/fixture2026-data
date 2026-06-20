@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T03:03:07Z",
+  "updated": "2026-06-20T03:03:54Z",
   "live": [
     {
       "id": 22,
       "status": "1H",
-      "minute": 3,
+      "minute": 4,
       "home": 0,
       "away": 1,
       "goals": [
@@ -12,7 +12,7 @@
           "player": "M. Galarza",
           "minute": 2,
           "team": "PAR",
-          "assist": "I. Pitta"
+          "assist": "J. Enciso"
         }
       ],
       "stats": {
