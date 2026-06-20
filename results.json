@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:50:54Z",
+  "updated": "2026-06-20T20:51:41Z",
   "live": [
     {
       "id": 27,
@@ -14,19 +14,19 @@
           "team": "CIV"
         }
       ],
-      "extra": 5,
+      "extra": 7,
       "stats": {
         "passesAccurate": [
-          240,
-          166
+          254,
+          172
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          272,
-          188
+          287,
+          197
         ],
         "shotsTotal": [
           7,
@@ -73,8 +73,8 @@
           0
         ],
         "passesPct": [
-          88,
-          88
+          89,
+          87
         ],
         "shotsInside": [
           3,
