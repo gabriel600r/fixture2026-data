@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:25:23Z",
+  "updated": "2026-06-20T04:26:10Z",
   "live": [
     {
       "id": 22,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 1,
       "goals": [
@@ -241,7 +241,7 @@
         },
         "referee": "Iván Barton, El Salvador",
         "motm": {
-          "player": "Juan Cáceres",
+          "player": "Matías Galarza",
           "rating": 7.9,
           "team": "PAR"
         }
