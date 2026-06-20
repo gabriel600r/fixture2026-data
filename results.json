@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:54:03Z",
+  "updated": "2026-06-20T18:54:50Z",
   "live": [
     {
       "id": 33,
@@ -119,28 +119,34 @@
           "in": "N. Lang",
           "minute": 90,
           "team": "NED"
+        },
+        {
+          "out": "G. Gudmundsson",
+          "in": "E. Stroud",
+          "minute": 90,
+          "team": "SWE"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesAccurate": [
           389,
-          331
+          344
         ],
         "yellow": [
           0,
           3
         ],
         "passesTotal": [
-          438,
-          386
+          440,
+          401
         ],
         "shotsTotal": [
           10,
           14
         ],
         "fouls": [
-          8,
+          9,
           11
         ],
         "shotsOn": [
@@ -156,8 +162,8 @@
           4
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "saves": [
           6,
@@ -180,7 +186,7 @@
           0
         ],
         "passesPct": [
-          89,
+          88,
           86
         ],
         "shotsInside": [
