@@ -1,340 +1,6 @@
 {
-  "updated": "2026-06-20T18:57:11Z",
-  "live": [
-    {
-      "id": 33,
-      "status": "2H",
-      "minute": 90,
-      "home": 5,
-      "away": 1,
-      "goals": [
-        {
-          "player": "B. Brobbey",
-          "minute": 5,
-          "team": "NED",
-          "assist": "C. Gakpo"
-        },
-        {
-          "player": "B. Brobbey",
-          "minute": 17,
-          "team": "NED",
-          "assist": "D. Dumfries"
-        },
-        {
-          "player": "C. Gakpo",
-          "minute": 47,
-          "team": "NED",
-          "assist": "D. Dumfries"
-        },
-        {
-          "player": "C. Gakpo",
-          "minute": 54,
-          "team": "NED",
-          "assist": "C. Summerville"
-        },
-        {
-          "player": "A. Elanga",
-          "minute": 59,
-          "team": "SWE",
-          "assist": "A. Isak"
-        },
-        {
-          "player": "C. Summerville",
-          "minute": 89,
-          "team": "NED",
-          "assist": "M. Depay"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "G. Gudmundsson",
-          "minute": 53,
-          "team": "SWE",
-          "color": "yellow"
-        },
-        {
-          "player": "Y. Ayari",
-          "minute": 75,
-          "team": "SWE",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Bergvall",
-          "minute": 80,
-          "team": "SWE",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "D. Malen",
-          "in": "C. Summerville",
-          "minute": 46,
-          "team": "NED"
-        },
-        {
-          "out": "A. Bernhardsson",
-          "in": "A. Elanga",
-          "minute": 55,
-          "team": "SWE"
-        },
-        {
-          "out": "J. Karlstrom",
-          "in": "B. Zeneli",
-          "minute": 56,
-          "team": "SWE"
-        },
-        {
-          "out": "B. Nygren",
-          "in": "L. Bergvall",
-          "minute": 56,
-          "team": "SWE"
-        },
-        {
-          "out": "F. de Jong",
-          "in": "T. Koopmeiners",
-          "minute": 59,
-          "team": "NED"
-        },
-        {
-          "out": "T. Reijnders",
-          "in": "G. Til",
-          "minute": 59,
-          "team": "NED"
-        },
-        {
-          "out": "B. Brobbey",
-          "in": "M. Depay",
-          "minute": 72,
-          "team": "NED"
-        },
-        {
-          "out": "Y. Ayari",
-          "in": "T. Ali",
-          "minute": 79,
-          "team": "SWE"
-        },
-        {
-          "out": "C. Gakpo",
-          "in": "N. Lang",
-          "minute": 90,
-          "team": "NED"
-        },
-        {
-          "out": "G. Gudmundsson",
-          "in": "E. Stroud",
-          "minute": 90,
-          "team": "SWE"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "passesAccurate": [
-          397,
-          350
-        ],
-        "yellow": [
-          0,
-          3
-        ],
-        "passesTotal": [
-          450,
-          409
-        ],
-        "shotsTotal": [
-          10,
-          15
-        ],
-        "fouls": [
-          9,
-          12
-        ],
-        "shotsOn": [
-          7,
-          7
-        ],
-        "offsides": [
-          3,
-          3
-        ],
-        "corners": [
-          2,
-          4
-        ],
-        "possession": [
-          52,
-          48
-        ],
-        "saves": [
-          6,
-          2
-        ],
-        "shotsOutside": [
-          4,
-          9
-        ],
-        "shotsOff": [
-          2,
-          5
-        ],
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          88,
-          86
-        ],
-        "shotsInside": [
-          6,
-          6
-        ],
-        "home": "NED",
-        "away": "SWE"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Ronald Koeman",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Bart Verbruggen",
-                "pos": "G"
-              },
-              {
-                "n": 22,
-                "name": "Denzel Dumfries",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Jan Paul van Hecke",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Virgil van Dijk",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Micky van de Ven",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Ryan Gravenberch",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Frenkie de Jong",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Tijjani Reijnders",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Donyell Malen",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "Brian Brobbey",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Cody Gakpo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-1-4-2",
-            "coach": "Graham Potter",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Kristoffer Nordfeldt",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Gustaf Lagerbielke",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Isak Hien",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Victor Lindelöf",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Jesper Karlström",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Alexander Bernhardsson",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Benjamin Nygren",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Yasin Ayari",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Gabriel Gudmundsson",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Viktor Gyökeres",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Alexander Isak",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Michael Oliver, England",
-        "motm": {
-          "player": "Cody Gakpo",
-          "rating": 9.6,
-          "team": "NED"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-20T18:57:57Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -6541,6 +6207,336 @@
       ]
     },
     {
+      "id": 33,
+      "home": 5,
+      "away": 1,
+      "goals": [
+        {
+          "player": "B. Brobbey",
+          "minute": 5,
+          "team": "NED",
+          "assist": "C. Gakpo"
+        },
+        {
+          "player": "B. Brobbey",
+          "minute": 17,
+          "team": "NED",
+          "assist": "D. Dumfries"
+        },
+        {
+          "player": "C. Gakpo",
+          "minute": 47,
+          "team": "NED",
+          "assist": "D. Dumfries"
+        },
+        {
+          "player": "C. Gakpo",
+          "minute": 54,
+          "team": "NED",
+          "assist": "C. Summerville"
+        },
+        {
+          "player": "A. Elanga",
+          "minute": 59,
+          "team": "SWE",
+          "assist": "A. Isak"
+        },
+        {
+          "player": "C. Summerville",
+          "minute": 89,
+          "team": "NED",
+          "assist": "M. Depay"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "G. Gudmundsson",
+          "minute": 53,
+          "team": "SWE",
+          "color": "yellow"
+        },
+        {
+          "player": "Y. Ayari",
+          "minute": 75,
+          "team": "SWE",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Bergvall",
+          "minute": 80,
+          "team": "SWE",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "D. Malen",
+          "in": "C. Summerville",
+          "minute": 46,
+          "team": "NED"
+        },
+        {
+          "out": "A. Bernhardsson",
+          "in": "A. Elanga",
+          "minute": 55,
+          "team": "SWE"
+        },
+        {
+          "out": "J. Karlstrom",
+          "in": "B. Zeneli",
+          "minute": 56,
+          "team": "SWE"
+        },
+        {
+          "out": "B. Nygren",
+          "in": "L. Bergvall",
+          "minute": 56,
+          "team": "SWE"
+        },
+        {
+          "out": "F. de Jong",
+          "in": "T. Koopmeiners",
+          "minute": 59,
+          "team": "NED"
+        },
+        {
+          "out": "T. Reijnders",
+          "in": "G. Til",
+          "minute": 59,
+          "team": "NED"
+        },
+        {
+          "out": "B. Brobbey",
+          "in": "M. Depay",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Y. Ayari",
+          "in": "T. Ali",
+          "minute": 79,
+          "team": "SWE"
+        },
+        {
+          "out": "C. Gakpo",
+          "in": "N. Lang",
+          "minute": 90,
+          "team": "NED"
+        },
+        {
+          "out": "G. Gudmundsson",
+          "in": "E. Stroud",
+          "minute": 90,
+          "team": "SWE"
+        }
+      ],
+      "stats": {
+        "passesAccurate": [
+          397,
+          350
+        ],
+        "yellow": [
+          0,
+          3
+        ],
+        "passesTotal": [
+          450,
+          409
+        ],
+        "shotsTotal": [
+          10,
+          15
+        ],
+        "fouls": [
+          9,
+          12
+        ],
+        "shotsOn": [
+          7,
+          7
+        ],
+        "offsides": [
+          3,
+          3
+        ],
+        "corners": [
+          2,
+          4
+        ],
+        "possession": [
+          52,
+          48
+        ],
+        "saves": [
+          6,
+          2
+        ],
+        "shotsOutside": [
+          4,
+          9
+        ],
+        "shotsOff": [
+          2,
+          5
+        ],
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          88,
+          86
+        ],
+        "shotsInside": [
+          6,
+          6
+        ],
+        "home": "NED",
+        "away": "SWE"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Ronald Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bart Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Denzel Dumfries",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Jan Paul van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Virgil van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Micky van de Ven",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Ryan Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Frenkie de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Tijjani Reijnders",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Donyell Malen",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Brian Brobbey",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Cody Gakpo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-1-4-2",
+            "coach": "Graham Potter",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Kristoffer Nordfeldt",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Gustaf Lagerbielke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Isak Hien",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Victor Lindelöf",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Jesper Karlström",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Alexander Bernhardsson",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Benjamin Nygren",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Yasin Ayari",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Gabriel Gudmundsson",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Viktor Gyökeres",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Alexander Isak",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Michael Oliver, England",
+        "motm": {
+          "player": "Cody Gakpo",
+          "rating": 9.6,
+          "team": "NED"
+        }
+      }
+    },
+    {
       "id": 37,
       "home": 1,
       "away": 1,
@@ -10111,9 +10107,26 @@
         "penalties": 1
       },
       {
+        "player": "B. Brobbey",
+        "team": "NED",
+        "goals": 2
+      },
+      {
+        "player": "C. Gakpo",
+        "team": "NED",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "player": "C. Larin",
         "team": "CAN",
         "goals": 2
+      },
+      {
+        "player": "C. Summerville",
+        "team": "NED",
+        "goals": 2,
+        "assists": 1
       },
       {
         "player": "E. Haaland",
@@ -10186,6 +10199,11 @@
         "goals": 1
       },
       {
+        "player": "A. Elanga",
+        "team": "SWE",
+        "goals": 1
+      },
+      {
         "player": "A. Fayzullaev",
         "team": "UZB",
         "goals": 1
@@ -10204,7 +10222,7 @@
         "player": "A. Isak",
         "team": "SWE",
         "goals": 1,
-        "assists": 2
+        "assists": 3
       },
       {
         "player": "A. Olwan",
@@ -10225,38 +10243,23 @@
         "player": "C. Metcalfe",
         "team": "AUS",
         "goals": 1
-      },
-      {
-        "player": "C. Summerville",
-        "team": "NED",
-        "goals": 1
-      },
-      {
-        "player": "C. Yirenkyi",
-        "team": "GHA",
-        "goals": 1
-      },
-      {
-        "player": "D. Kamada",
-        "team": "JPN",
-        "goals": 1
-      },
-      {
-        "player": "D. Munoz",
-        "team": "COL",
-        "goals": 1
       }
     ],
     "assists": [
       {
         "player": "A. Isak",
         "team": "SWE",
-        "assists": 2,
+        "assists": 3,
         "goals": 1
       },
       {
         "player": "Chris Wood",
         "team": "NZL",
+        "assists": 2
+      },
+      {
+        "player": "D. Dumfries",
+        "team": "NED",
         "assists": 2
       },
       {
@@ -10327,9 +10330,21 @@
         "assists": 1
       },
       {
+        "player": "C. Gakpo",
+        "team": "NED",
+        "assists": 1,
+        "goals": 2
+      },
+      {
         "player": "C. Hernandez",
         "team": "COL",
         "assists": 1
+      },
+      {
+        "player": "C. Summerville",
+        "team": "NED",
+        "assists": 1,
+        "goals": 2
       },
       {
         "player": "Christian Pulisic",
@@ -10385,21 +10400,6 @@
       {
         "player": "I. Ndiaye",
         "team": "SEN",
-        "assists": 1
-      },
-      {
-        "player": "I. Perisic",
-        "team": "CRO",
-        "assists": 1
-      },
-      {
-        "player": "J. Enciso",
-        "team": "PAR",
-        "assists": 1
-      },
-      {
-        "player": "Julio Enciso",
-        "team": "PAR",
         "assists": 1
       }
     ],
@@ -10630,6 +10630,20 @@
       "form": "DW"
     },
     {
+      "code": "NED",
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "loses": 0,
+      "gf": 7,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DW"
+    },
+    {
       "code": "SUI",
       "played": 2,
       "wins": 1,
@@ -10682,20 +10696,6 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "7-1",
-      "biggestLose": "",
-      "form": "W"
-    },
-    {
-      "code": "SWE",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 5,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "5-1",
       "biggestLose": "",
       "form": "W"
     },
@@ -10854,6 +10854,20 @@
       "form": "WL"
     },
     {
+      "code": "SWE",
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "loses": 1,
+      "gf": 6,
+      "ga": 6,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "5-1",
+      "biggestLose": "1-5",
+      "form": "WL"
+    },
+    {
       "code": "PAR",
       "played": 2,
       "wins": 1,
@@ -10866,20 +10880,6 @@
       "biggestWin": "1-0",
       "biggestLose": "1-4",
       "form": "LW"
-    },
-    {
-      "code": "NED",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 2,
-      "ga": 2,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
     },
     {
       "code": "JPN",
