@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-20T17:06:04Z",
+  "updated": "2026-06-20T17:06:51Z",
   "live": [
     {
       "id": 33,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "B. Brobbey",
-          "minute": 6,
+          "minute": 5,
           "team": "NED",
           "assist": "C. Gakpo"
         }
