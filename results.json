@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:37:58Z",
+  "updated": "2026-06-20T04:38:44Z",
   "live": [
     {
       "id": 22,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 1,
       "goals": [
@@ -34,6 +34,12 @@
         {
           "player": "V. Montella",
           "minute": 63,
+          "team": "TUR",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Elmali",
+          "minute": 71,
           "team": "TUR",
           "color": "yellow"
         }
