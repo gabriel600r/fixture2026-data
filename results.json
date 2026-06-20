@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:36:02Z",
+  "updated": "2026-06-20T18:36:49Z",
   "live": [
     {
       "id": 33,
@@ -43,6 +43,12 @@
         {
           "player": "G. Gudmundsson",
           "minute": 53,
+          "team": "SWE",
+          "color": "yellow"
+        },
+        {
+          "player": "Y. Ayari",
+          "minute": 75,
           "team": "SWE",
           "color": "yellow"
         }
