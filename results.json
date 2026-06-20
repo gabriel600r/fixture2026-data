@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:21:29Z",
+  "updated": "2026-06-20T01:22:16Z",
   "live": [
     {
       "id": 16,
@@ -32,6 +32,12 @@
           "minute": 4,
           "team": "HAI",
           "color": "yellow"
+        },
+        {
+          "player": "F. Pierrot",
+          "minute": 45,
+          "team": "HAI",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -42,7 +48,7 @@
           "team": "BRA"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesPct": [
           89,
