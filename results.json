@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T17:49:03Z",
+  "updated": "2026-06-20T17:49:50Z",
   "live": [
     {
       "id": 33,
@@ -21,26 +21,26 @@
           "assist": "D. Dumfries"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesAccurate": [
           222,
-          133
+          142
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          244,
-          158
+          245,
+          168
         ],
         "shotsTotal": [
           5,
           6
         ],
         "fouls": [
-          3,
+          4,
           4
         ],
         "shotsOn": [
@@ -56,11 +56,11 @@
           1
         ],
         "possession": [
-          61,
-          39
+          60,
+          40
         ],
         "saves": [
-          2,
+          3,
           2
         ],
         "shotsOutside": [
@@ -81,7 +81,7 @@
         ],
         "passesPct": [
           91,
-          84
+          85
         ],
         "shotsInside": [
           4,
