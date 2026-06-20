@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:29:50Z",
+  "updated": "2026-06-20T20:30:37Z",
   "live": [
     {
       "id": 27,
@@ -9,7 +9,7 @@
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "F. Kessie",
           "minute": 30,
           "team": "CIV"
         }
