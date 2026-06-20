@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:41:03Z",
+  "updated": "2026-06-20T01:41:50Z",
   "live": [
     {
       "id": 16,
@@ -46,6 +46,18 @@
           "in": "Rayan",
           "minute": 40,
           "team": "BRA"
+        },
+        {
+          "out": "C. Arcus",
+          "in": "D. Simon",
+          "minute": 46,
+          "team": "HAI"
+        },
+        {
+          "out": "F. Pierrot",
+          "in": "W. Isidor",
+          "minute": 46,
+          "team": "HAI"
         }
       ],
       "stats": {
