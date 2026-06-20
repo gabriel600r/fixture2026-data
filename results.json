@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:51:42Z",
+  "updated": "2026-06-20T18:52:29Z",
   "live": [
     {
       "id": 33,
@@ -113,23 +113,30 @@
           "in": "T. Ali",
           "minute": 79,
           "team": "SWE"
+        },
+        {
+          "out": "C. Gakpo",
+          "in": "N. Lang",
+          "minute": 90,
+          "team": "NED"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesAccurate": [
-          379,
-          322
+          389,
+          331
         ],
         "yellow": [
           0,
           3
         ],
         "passesTotal": [
-          426,
-          374
+          438,
+          386
         ],
         "shotsTotal": [
-          9,
+          10,
           14
         ],
         "fouls": [
@@ -137,7 +144,7 @@
           11
         ],
         "shotsOn": [
-          6,
+          7,
           7
         ],
         "offsides": [
@@ -157,7 +164,7 @@
           2
         ],
         "shotsOutside": [
-          3,
+          4,
           8
         ],
         "shotsOff": [
