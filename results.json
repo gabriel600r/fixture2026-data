@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:22:53Z",
+  "updated": "2026-06-20T02:23:41Z",
   "live": [
     {
       "id": 16,
@@ -116,12 +116,12 @@
       ],
       "stats": {
         "saves": [
-          1,
+          2,
           2
         ],
         "possession": [
-          57,
-          43
+          58,
+          42
         ],
         "yellow": [
           1,
@@ -129,7 +129,7 @@
         ],
         "corners": [
           4,
-          2
+          3
         ],
         "red": [
           0,
@@ -141,7 +141,7 @@
         ],
         "shotsOn": [
           5,
-          1
+          2
         ],
         "fouls": [
           12,
@@ -149,7 +149,7 @@
         ],
         "shotsTotal": [
           7,
-          4
+          5
         ],
         "shotsOff": [
           1,
@@ -295,7 +295,7 @@
         "referee": "Alejandro Hernandez, Spain",
         "motm": {
           "player": "Matheus Cunha",
-          "rating": 9.3,
+          "rating": 8.97,
           "team": "BRA"
         }
       }
