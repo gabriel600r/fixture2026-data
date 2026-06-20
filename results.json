@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T21:21:26Z",
+  "updated": "2026-06-20T21:22:13Z",
   "live": [
     {
       "id": 27,
@@ -24,20 +24,20 @@
       ],
       "stats": {
         "passesAccurate": [
-          346,
-          245
+          366,
+          250
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          391,
-          277
+          412,
+          284
         ],
         "shotsTotal": [
-          8,
-          7
+          9,
+          8
         ],
         "fouls": [
           2,
@@ -64,12 +64,12 @@
           2
         ],
         "shotsOutside": [
-          4,
+          5,
           2
         ],
         "shotsOff": [
-          2,
-          1
+          3,
+          2
         ],
         "shotsBlocked": [
           4,
@@ -80,12 +80,12 @@
           0
         ],
         "passesPct": [
-          88,
+          89,
           88
         ],
         "shotsInside": [
           4,
-          5
+          6
         ],
         "home": "GER",
         "away": "CIV"
