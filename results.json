@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-20T03:01:33Z",
+  "updated": "2026-06-20T03:02:20Z",
   "live": [
     {
       "id": 22,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "M. Galarza",
+          "minute": 2,
+          "team": "PAR",
+          "assist": "I. Pitta"
+        }
+      ],
       "stats": {
         "passesPct": [
           67,
