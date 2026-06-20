@@ -1,16 +1,21 @@
 {
-  "updated": "2026-06-20T01:08:12Z",
+  "updated": "2026-06-20T01:08:59Z",
   "live": [
     {
       "id": 16,
       "status": "1H",
-      "minute": 36,
-      "home": 1,
+      "minute": 37,
+      "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "M. Cunha",
           "minute": 23,
+          "team": "BRA"
+        },
+        {
+          "player": "M. Cunha",
+          "minute": 36,
           "team": "BRA"
         }
       ],
