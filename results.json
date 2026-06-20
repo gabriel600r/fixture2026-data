@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:39:57Z",
+  "updated": "2026-06-20T18:40:44Z",
   "live": [
     {
       "id": 33,
@@ -95,6 +95,12 @@
           "in": "M. Depay",
           "minute": 72,
           "team": "NED"
+        },
+        {
+          "out": "Y. Ayari",
+          "in": "T. Ali",
+          "minute": 79,
+          "team": "SWE"
         }
       ],
       "stats": {
