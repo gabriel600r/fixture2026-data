@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:07:01Z",
+  "updated": "2026-06-20T02:07:48Z",
   "live": [
     {
       "id": 16,
@@ -43,6 +43,12 @@
           "player": "Douglas Santos",
           "minute": 65,
           "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Jean Jacques",
+          "minute": 72,
+          "team": "HAI",
           "color": "yellow"
         }
       ],
