@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:12:04Z",
+  "updated": "2026-06-20T04:12:51Z",
   "live": [
     {
       "id": 22,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -32,7 +32,20 @@
           "color": "red"
         }
       ],
-      "extra": 11,
+      "subs": [
+        {
+          "out": "I. Pitta",
+          "in": "D. Bobadilla",
+          "minute": 46,
+          "team": "PAR"
+        },
+        {
+          "out": "K. Akturkoglu",
+          "in": "B. Yilmaz",
+          "minute": 46,
+          "team": "TUR"
+        }
+      ],
       "stats": {
         "passesPct": [
           88,
@@ -226,7 +239,12 @@
             ]
           }
         },
-        "referee": "Iván Barton, El Salvador"
+        "referee": "Iván Barton, El Salvador",
+        "motm": {
+          "player": "Juan Cáceres",
+          "rating": 7.9,
+          "team": "PAR"
+        }
       }
     }
   ],
