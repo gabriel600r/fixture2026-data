@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:15:11Z",
+  "updated": "2026-06-20T21:15:57Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 0,
       "away": 1,
       "goals": [
@@ -24,20 +24,20 @@
       ],
       "stats": {
         "passesAccurate": [
-          304,
-          203
+          325,
+          212
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          342,
-          233
+          366,
+          243
         ],
         "shotsTotal": [
           8,
-          5
+          7
         ],
         "fouls": [
           2,
@@ -69,11 +69,11 @@
         ],
         "shotsOff": [
           2,
-          0
+          1
         ],
         "shotsBlocked": [
           4,
-          3
+          4
         ],
         "red": [
           0,
@@ -85,7 +85,7 @@
         ],
         "shotsInside": [
           4,
-          3
+          5
         ],
         "home": "GER",
         "away": "CIV"
