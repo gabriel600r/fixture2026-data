@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:12:54Z",
+  "updated": "2026-06-20T01:13:40Z",
   "live": [
     {
       "id": 16,
@@ -28,6 +28,14 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "Raphinha",
+          "in": "Rayan",
+          "minute": 40,
+          "team": "BRA"
+        }
+      ],
       "stats": {
         "passesPct": [
           86,
@@ -42,8 +50,8 @@
           0
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "corners": [
           4,
@@ -54,8 +62,8 @@
           1
         ],
         "passesTotal": [
-          189,
-          132
+          195,
+          133
         ],
         "red": [
           0,
@@ -63,7 +71,7 @@
         ],
         "offsides": [
           5,
-          1
+          2
         ],
         "shotsOn": [
           4,
@@ -71,7 +79,7 @@
         ],
         "fouls": [
           4,
-          2
+          3
         ],
         "shotsTotal": [
           6,
@@ -86,7 +94,7 @@
           0
         ],
         "passesAccurate": [
-          163,
+          168,
           106
         ],
         "shotsBlocked": [
