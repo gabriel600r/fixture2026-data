@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T00:40:46Z",
+  "updated": "2026-06-20T00:41:33Z",
   "live": [
     {
       "id": 16,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -17,7 +17,7 @@
       ],
       "stats": {
         "passesPct": [
-          86,
+          91,
           73
         ],
         "saves": [
@@ -29,11 +29,11 @@
           0
         ],
         "possession": [
-          65,
-          35
+          75,
+          25
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "yellow": [
@@ -41,7 +41,7 @@
           1
         ],
         "passesTotal": [
-          28,
+          43,
           15
         ],
         "red": [
@@ -73,7 +73,7 @@
           0
         ],
         "passesAccurate": [
-          24,
+          39,
           11
         ],
         "shotsBlocked": [
