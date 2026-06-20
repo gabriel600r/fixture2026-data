@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-20T02:22:06Z",
+  "updated": "2026-06-20T02:22:53Z",
   "live": [
     {
       "id": 16,
       "status": "2H",
-      "minute": 83,
+      "minute": 88,
       "home": 3,
       "away": 0,
       "goals": [
         {
-          "player": "M. Cunha",
+          "player": "Matheus Cunha",
           "minute": 23,
           "team": "BRA"
         },
         {
-          "player": "M. Cunha",
+          "player": "Matheus Cunha",
           "minute": 36,
           "team": "BRA",
-          "assist": "Vinicius Junior"
+          "assist": "Vinícius"
         },
         {
-          "player": "Vinicius Junior",
-          "minute": 45,
+          "player": "Vinícius",
+          "minute": 48,
           "team": "BRA",
-          "assist": "Lucas Paqueta"
+          "assist": "Lucas Paquetá"
         }
       ],
       "cardEvents": [
         {
-          "player": "C. Arcus",
+          "player": "Carlens Arcus",
           "minute": 4,
           "team": "HAI",
           "color": "yellow"
         },
         {
-          "player": "F. Pierrot",
-          "minute": 45,
+          "player": "Frantzdy Pierrot",
+          "minute": 49,
           "team": "HAI",
           "color": "yellow"
         },
@@ -46,7 +46,7 @@
           "color": "yellow"
         },
         {
-          "player": "D. Jean Jacques",
+          "player": "Danley Jean Jacques",
           "minute": 72,
           "team": "HAI",
           "color": "yellow"
@@ -54,94 +54,82 @@
       ],
       "subs": [
         {
-          "out": "Raphinha",
-          "in": "Rayan",
+          "out": "Raphael Dias Belloli",
+          "in": "Rayan Vitor Simplício Rocha",
           "minute": 40,
           "team": "BRA"
         },
         {
-          "out": "C. Arcus",
-          "in": "D. Simon",
-          "minute": 46,
+          "out": "Carlens Arcus",
+          "in": "Dominique Simon",
+          "minute": 45,
           "team": "HAI"
         },
         {
-          "out": "F. Pierrot",
-          "in": "W. Isidor",
-          "minute": 46,
+          "out": "Frantzdy Pierrot",
+          "in": "Wilson Isidor",
+          "minute": 45,
           "team": "HAI"
         },
         {
-          "out": "J. Casimir",
-          "in": "L. Deedson",
-          "minute": 63,
+          "out": "Josue Casimir",
+          "in": "Louicius Deedson",
+          "minute": 62,
           "team": "HAI"
         },
         {
-          "out": "Lucas Paqueta",
-          "in": "G. Martinelli",
+          "out": "Lucas Paquetá",
+          "in": "Gabriel Martinelli",
           "minute": 64,
           "team": "BRA"
         },
         {
-          "out": "M. Cunha",
-          "in": "Endrick",
+          "out": "Matheus Cunha",
+          "in": "Endrick Felipe Moreira de Sousa",
           "minute": 64,
           "team": "BRA"
         },
         {
-          "out": "R. Providence",
-          "in": "L. Joseph",
+          "out": "Ruben Providence",
+          "in": "Lenny Joseph",
           "minute": 71,
           "team": "HAI"
         },
         {
-          "out": "Vinicius Junior",
-          "in": "Danilo Santos",
+          "out": "Vinícius",
+          "in": "Danilo dos Santos de Oliveira",
           "minute": 81,
           "team": "BRA"
         },
         {
-          "out": "Bruno Guimaraes",
-          "in": "Ederson",
+          "out": "Bruno Guimarães",
+          "in": "Éderson José dos Santos",
           "minute": 81,
           "team": "BRA"
         },
         {
-          "out": "J. Bellegarde",
-          "in": "D. Etienne",
+          "out": "Jean-Ricner Bellegarde",
+          "in": "Derrick Etienne Jr.",
           "minute": 81,
           "team": "HAI"
         }
       ],
       "stats": {
-        "passesPct": [
-          90,
-          83
-        ],
         "saves": [
           1,
           2
         ],
-        "shotsOutside": [
-          0,
-          1
-        ],
         "possession": [
-          58,
-          42
-        ],
-        "corners": [
-          4,
-          2
+          57,
+          43
         ],
         "yellow": [
           1,
           3
         ],
-        "passesTotal": [
-          478,
-          345
+        "corners": [
+          4,
+          2
         ],
         "red": [
           0,
@@ -157,23 +145,15 @@
         ],
         "fouls": [
           12,
-          11
+          14
         ],
         "shotsTotal": [
           7,
           4
         ],
-        "shotsInside": [
-          7,
-          3
-        ],
         "shotsOff": [
           1,
           2
-        ],
-        "passesAccurate": [
-          428,
-          288
         ],
         "shotsBlocked": [
           1,
