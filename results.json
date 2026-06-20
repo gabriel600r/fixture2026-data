@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:38:43Z",
+  "updated": "2026-06-20T21:39:30Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -264,9 +264,9 @@
         },
         "referee": "Juan Gabriel Benitez, Paraguay",
         "motm": {
-          "player": "Florian Wirtz",
-          "rating": 7.3,
-          "team": "GER"
+          "player": "Yahia Fofana",
+          "rating": 7.6,
+          "team": "CIV"
         }
       }
     }
