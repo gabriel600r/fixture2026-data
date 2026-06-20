@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:36:49Z",
+  "updated": "2026-06-20T18:37:36Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 4,
       "away": 1,
       "goals": [
@@ -99,24 +99,24 @@
       ],
       "stats": {
         "passesAccurate": [
-          326,
-          254
+          329,
+          265
         ],
         "yellow": [
           0,
           1
         ],
         "passesTotal": [
-          362,
-          295
+          367,
+          308
         ],
         "shotsTotal": [
           9,
           12
         ],
         "fouls": [
-          6,
-          6
+          7,
+          7
         ],
         "shotsOn": [
           6,
@@ -131,8 +131,8 @@
           3
         ],
         "possession": [
-          55,
-          45
+          54,
+          46
         ],
         "saves": [
           4,
@@ -298,7 +298,7 @@
         "referee": "Michael Oliver, England",
         "motm": {
           "player": "Cody Gakpo",
-          "rating": 9.7,
+          "rating": 9.5,
           "team": "NED"
         }
       }
