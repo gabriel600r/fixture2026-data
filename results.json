@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T05:01:27Z",
+  "updated": "2026-06-20T05:02:14Z",
   "live": [
     {
       "id": 22,
@@ -78,7 +78,7 @@
         {
           "out": "F. Kadioglu",
           "in": "E. Elmali",
-          "minute": 71,
+          "minute": 70,
           "team": "TUR"
         },
         {
@@ -106,10 +106,10 @@
           "team": "PAR"
         }
       ],
-      "extra": 4,
+      "extra": 6,
       "stats": {
         "passesPct": [
-          89,
+          90,
           52
         ],
         "saves": [
@@ -133,8 +133,8 @@
           1
         ],
         "passesTotal": [
-          596,
-          165
+          611,
+          168
         ],
         "red": [
           0,
@@ -149,7 +149,7 @@
           2
         ],
         "fouls": [
-          12,
+          14,
           13
         ],
         "shotsTotal": [
@@ -165,8 +165,8 @@
           3
         ],
         "passesAccurate": [
-          533,
-          86
+          547,
+          88
         ],
         "shotsBlocked": [
           10,
