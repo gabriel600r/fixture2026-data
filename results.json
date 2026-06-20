@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-20T18:50:08Z",
+  "updated": "2026-06-20T18:50:55Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 89,
-      "home": 4,
+      "minute": 90,
+      "home": 5,
       "away": 1,
       "goals": [
         {
@@ -39,9 +39,10 @@
           "assist": "A. Isak"
         },
         {
-          "player": null,
+          "player": "C. Summerville",
           "minute": 89,
-          "team": "NED"
+          "team": "NED",
+          "assist": "M. Depay"
         }
       ],
       "cardEvents": [
