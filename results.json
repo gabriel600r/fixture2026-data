@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:20:21Z",
+  "updated": "2026-06-20T18:21:08Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 4,
       "away": 1,
       "goals": [
@@ -71,6 +71,18 @@
           "in": "L. Bergvall",
           "minute": 56,
           "team": "SWE"
+        },
+        {
+          "out": "F. de Jong",
+          "in": "T. Koopmeiners",
+          "minute": 60,
+          "team": "NED"
+        },
+        {
+          "out": "T. Reijnders",
+          "in": "G. Til",
+          "minute": 60,
+          "team": "NED"
         }
       ],
       "stats": {
