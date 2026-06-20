@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T21:59:05Z",
+  "updated": "2026-06-20T21:59:52Z",
   "live": [
     {
       "id": 27,
@@ -88,7 +88,7 @@
           "team": "GER"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "passesAccurate": [
           553,
