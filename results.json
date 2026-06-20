@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:11:15Z",
+  "updated": "2026-06-20T21:12:03Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 1,
       "goals": [
@@ -223,7 +223,7 @@
         "referee": "Juan Gabriel Benitez, Paraguay",
         "motm": {
           "player": "Yahia Fofana",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "CIV"
         }
       }
