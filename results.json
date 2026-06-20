@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-20T20:29:03Z",
+  "updated": "2026-06-20T20:29:50Z",
   "live": [
     {
       "id": 27,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 30,
+          "team": "CIV"
+        }
+      ],
       "stats": {
         "passesAccurate": [
           161,
