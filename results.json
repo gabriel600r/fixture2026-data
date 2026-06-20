@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T01:59:04Z",
+  "updated": "2026-06-20T01:59:51Z",
   "live": [
     {
       "id": 16,
       "status": "2H",
-      "minute": 61,
+      "minute": 64,
       "home": 3,
       "away": 0,
       "goals": [
@@ -58,6 +58,24 @@
           "in": "W. Isidor",
           "minute": 46,
           "team": "HAI"
+        },
+        {
+          "out": "J. Casimir",
+          "in": "L. Deedson",
+          "minute": 63,
+          "team": "HAI"
+        },
+        {
+          "out": "Lucas Paqueta",
+          "in": "G. Martinelli",
+          "minute": 64,
+          "team": "BRA"
+        },
+        {
+          "out": "M. Cunha",
+          "in": "Endrick",
+          "minute": 64,
+          "team": "BRA"
         }
       ],
       "stats": {
