@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:23:00Z",
+  "updated": "2026-06-20T21:23:47Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 1,
       "goals": [
@@ -25,6 +25,18 @@
           "out": "L. Sane",
           "in": "J. Leweling",
           "minute": 60,
+          "team": "GER"
+        },
+        {
+          "out": "J. Musiala",
+          "in": "D. Undav",
+          "minute": 60,
+          "team": "GER"
+        },
+        {
+          "out": "A. Pavlovic",
+          "in": "N. Amiri",
+          "minute": 61,
           "team": "GER"
         }
       ],
