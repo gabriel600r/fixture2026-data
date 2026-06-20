@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:41:31Z",
+  "updated": "2026-06-20T18:42:18Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 4,
       "away": 1,
       "goals": [
@@ -49,6 +49,12 @@
         {
           "player": "Y. Ayari",
           "minute": 75,
+          "team": "SWE",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Bergvall",
+          "minute": 80,
           "team": "SWE",
           "color": "yellow"
         }
