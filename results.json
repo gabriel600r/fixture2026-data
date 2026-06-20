@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T20:22:00Z",
+  "updated": "2026-06-20T20:22:47Z",
   "live": [
     {
       "id": 27,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "stats": {
@@ -144,7 +144,7 @@
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "4-3-3",
             "coach": "Emerse Fae",
             "xi": [
               {
@@ -173,11 +173,6 @@
                 "pos": "D"
               },
               {
-                "n": 15,
-                "name": "Amad Diallo",
-                "pos": "M"
-              },
-              {
                 "n": 8,
                 "name": "Franck Kessié",
                 "pos": "M"
@@ -188,9 +183,14 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Yan Diomande",
+                "n": 26,
+                "name": "Christ Inao Oulaï",
                 "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Amad Diallo",
+                "pos": "F"
               },
               {
                 "n": 9,
@@ -198,8 +198,8 @@
                 "pos": "F"
               },
               {
-                "n": 26,
-                "name": "Christ Inao Oulaï",
+                "n": 11,
+                "name": "Yan Diomande",
                 "pos": "F"
               }
             ]
