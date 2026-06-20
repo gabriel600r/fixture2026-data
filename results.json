@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:29:14Z",
+  "updated": "2026-06-20T02:30:05Z",
   "live": [
     {
       "id": 16,
@@ -9,33 +9,33 @@
       "away": 0,
       "goals": [
         {
-          "player": "Matheus Cunha",
+          "player": "M. Cunha",
           "minute": 23,
           "team": "BRA"
         },
         {
-          "player": "Matheus Cunha",
+          "player": "M. Cunha",
           "minute": 36,
           "team": "BRA",
-          "assist": "Vinícius"
+          "assist": "Vinicius Junior"
         },
         {
-          "player": "Vinícius",
-          "minute": 48,
+          "player": "Vinicius Junior",
+          "minute": 45,
           "team": "BRA",
-          "assist": "Lucas Paquetá"
+          "assist": "Lucas Paqueta"
         }
       ],
       "cardEvents": [
         {
-          "player": "Carlens Arcus",
+          "player": "C. Arcus",
           "minute": 4,
           "team": "HAI",
           "color": "yellow"
         },
         {
-          "player": "Frantzdy Pierrot",
-          "minute": 49,
+          "player": "F. Pierrot",
+          "minute": 45,
           "team": "HAI",
           "color": "yellow"
         },
@@ -46,7 +46,7 @@
           "color": "yellow"
         },
         {
-          "player": "Danley Jean Jacques",
+          "player": "D. Jean Jacques",
           "minute": 72,
           "team": "HAI",
           "color": "yellow"
@@ -54,83 +54,95 @@
       ],
       "subs": [
         {
-          "out": "Raphael Dias Belloli",
-          "in": "Rayan Vitor Simplício Rocha",
+          "out": "Raphinha",
+          "in": "Rayan",
           "minute": 40,
           "team": "BRA"
         },
         {
-          "out": "Carlens Arcus",
-          "in": "Dominique Simon",
-          "minute": 45,
+          "out": "C. Arcus",
+          "in": "D. Simon",
+          "minute": 46,
           "team": "HAI"
         },
         {
-          "out": "Frantzdy Pierrot",
-          "in": "Wilson Isidor",
-          "minute": 45,
+          "out": "F. Pierrot",
+          "in": "W. Isidor",
+          "minute": 46,
           "team": "HAI"
         },
         {
-          "out": "Josue Casimir",
-          "in": "Louicius Deedson",
-          "minute": 62,
+          "out": "J. Casimir",
+          "in": "L. Deedson",
+          "minute": 63,
           "team": "HAI"
         },
         {
-          "out": "Lucas Paquetá",
-          "in": "Gabriel Martinelli",
+          "out": "Lucas Paqueta",
+          "in": "G. Martinelli",
           "minute": 64,
           "team": "BRA"
         },
         {
-          "out": "Matheus Cunha",
-          "in": "Endrick Felipe Moreira de Sousa",
+          "out": "M. Cunha",
+          "in": "Endrick",
           "minute": 64,
           "team": "BRA"
         },
         {
-          "out": "Ruben Providence",
-          "in": "Lenny Joseph",
+          "out": "R. Providence",
+          "in": "L. Joseph",
           "minute": 71,
           "team": "HAI"
         },
         {
-          "out": "Vinícius",
-          "in": "Danilo dos Santos de Oliveira",
+          "out": "Vinicius Junior",
+          "in": "Danilo Santos",
           "minute": 81,
           "team": "BRA"
         },
         {
-          "out": "Bruno Guimarães",
-          "in": "Éderson José dos Santos",
+          "out": "Bruno Guimaraes",
+          "in": "Ederson",
           "minute": 81,
           "team": "BRA"
         },
         {
-          "out": "Jean-Ricner Bellegarde",
-          "in": "Derrick Etienne Jr.",
+          "out": "J. Bellegarde",
+          "in": "D. Etienne",
           "minute": 81,
           "team": "HAI"
         }
       ],
       "extra": 4,
       "stats": {
+        "passesPct": [
+          89,
+          83
+        ],
         "saves": [
           2,
+          2
+        ],
+        "shotsOutside": [
+          0,
           2
         ],
         "possession": [
           57,
           43
         ],
+        "corners": [
+          4,
+          3
+        ],
         "yellow": [
           1,
           3
         ],
-        "corners": [
-          4,
-          3
+        "passesTotal": [
+          509,
+          386
         ],
         "red": [
           0,
@@ -146,15 +158,23 @@
         ],
         "fouls": [
           12,
-          15
+          14
         ],
         "shotsTotal": [
           8,
           6
         ],
+        "shotsInside": [
+          8,
+          4
+        ],
         "shotsOff": [
           2,
           3
+        ],
+        "passesAccurate": [
+          451,
+          322
         ],
         "shotsBlocked": [
           1,
@@ -296,7 +316,7 @@
         "referee": "Alejandro Hernandez, Spain",
         "motm": {
           "player": "Matheus Cunha",
-          "rating": 8.97,
+          "rating": 9.3,
           "team": "BRA"
         }
       }
