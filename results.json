@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T02:01:27Z",
+  "updated": "2026-06-20T02:02:14Z",
   "live": [
     {
       "id": 16,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 3,
       "away": 0,
       "goals": [
@@ -37,6 +37,12 @@
           "player": "F. Pierrot",
           "minute": 45,
           "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "Douglas Santos",
+          "minute": 66,
+          "team": "BRA",
           "color": "yellow"
         }
       ],
