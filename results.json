@@ -1,327 +1,6 @@
 {
-  "updated": "2026-06-20T02:30:52Z",
-  "live": [
-    {
-      "id": 16,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 0,
-      "goals": [
-        {
-          "player": "M. Cunha",
-          "minute": 23,
-          "team": "BRA"
-        },
-        {
-          "player": "M. Cunha",
-          "minute": 36,
-          "team": "BRA",
-          "assist": "Vinicius Junior"
-        },
-        {
-          "player": "Vinicius Junior",
-          "minute": 45,
-          "team": "BRA",
-          "assist": "Lucas Paqueta"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "C. Arcus",
-          "minute": 4,
-          "team": "HAI",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Pierrot",
-          "minute": 45,
-          "team": "HAI",
-          "color": "yellow"
-        },
-        {
-          "player": "Douglas Santos",
-          "minute": 65,
-          "team": "BRA",
-          "color": "yellow"
-        },
-        {
-          "player": "D. Jean Jacques",
-          "minute": 72,
-          "team": "HAI",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Raphinha",
-          "in": "Rayan",
-          "minute": 40,
-          "team": "BRA"
-        },
-        {
-          "out": "C. Arcus",
-          "in": "D. Simon",
-          "minute": 46,
-          "team": "HAI"
-        },
-        {
-          "out": "F. Pierrot",
-          "in": "W. Isidor",
-          "minute": 46,
-          "team": "HAI"
-        },
-        {
-          "out": "J. Casimir",
-          "in": "L. Deedson",
-          "minute": 63,
-          "team": "HAI"
-        },
-        {
-          "out": "Lucas Paqueta",
-          "in": "G. Martinelli",
-          "minute": 64,
-          "team": "BRA"
-        },
-        {
-          "out": "M. Cunha",
-          "in": "Endrick",
-          "minute": 64,
-          "team": "BRA"
-        },
-        {
-          "out": "R. Providence",
-          "in": "L. Joseph",
-          "minute": 71,
-          "team": "HAI"
-        },
-        {
-          "out": "Vinicius Junior",
-          "in": "Danilo Santos",
-          "minute": 81,
-          "team": "BRA"
-        },
-        {
-          "out": "Bruno Guimaraes",
-          "in": "Ederson",
-          "minute": 81,
-          "team": "BRA"
-        },
-        {
-          "out": "J. Bellegarde",
-          "in": "D. Etienne",
-          "minute": 81,
-          "team": "HAI"
-        }
-      ],
-      "extra": 4,
-      "stats": {
-        "passesPct": [
-          89,
-          83
-        ],
-        "saves": [
-          2,
-          2
-        ],
-        "shotsOutside": [
-          0,
-          2
-        ],
-        "possession": [
-          57,
-          43
-        ],
-        "corners": [
-          4,
-          3
-        ],
-        "yellow": [
-          1,
-          3
-        ],
-        "passesTotal": [
-          509,
-          386
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          8,
-          3
-        ],
-        "shotsOn": [
-          5,
-          2
-        ],
-        "fouls": [
-          12,
-          14
-        ],
-        "shotsTotal": [
-          8,
-          6
-        ],
-        "shotsInside": [
-          8,
-          4
-        ],
-        "shotsOff": [
-          2,
-          3
-        ],
-        "passesAccurate": [
-          451,
-          322
-        ],
-        "shotsBlocked": [
-          1,
-          1
-        ],
-        "home": "BRA",
-        "away": "HAI"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Carlo Ancelotti",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alisson",
-                "pos": "G"
-              },
-              {
-                "n": 13,
-                "name": "Danilo",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Marquinhos",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Gabriel Magalhães",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Douglas Santos",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Guimarães",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Casemiro",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Lucas Paquetá",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Raphinha",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Matheus Cunha",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Vinícius Júnior",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-4-1",
-            "coach": "Sebastien Migne",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Johny Placide",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Carlens Arcus",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Jean-Kévin Duverne",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Ricardo Adé",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Hannes Delcroix",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Martin Expérience",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Josué Casimir",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Danley Jean Jacques",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jean-Ricner Bellegarde",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Ruben Providence",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Frantzdy Pierrot",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Alejandro Hernandez, Spain",
-        "motm": {
-          "player": "Matheus Cunha",
-          "rating": 9.3,
-          "team": "BRA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-20T02:31:40Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -3878,6 +3557,323 @@
           "player": "Ismael Saibari",
           "rating": 7.9,
           "team": "MAR"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "home": 3,
+      "away": 0,
+      "goals": [
+        {
+          "player": "M. Cunha",
+          "minute": 23,
+          "team": "BRA"
+        },
+        {
+          "player": "M. Cunha",
+          "minute": 36,
+          "team": "BRA",
+          "assist": "Vinicius Junior"
+        },
+        {
+          "player": "Vinicius Junior",
+          "minute": 45,
+          "team": "BRA",
+          "assist": "Lucas Paqueta"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "C. Arcus",
+          "minute": 4,
+          "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Pierrot",
+          "minute": 45,
+          "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "Douglas Santos",
+          "minute": 65,
+          "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Jean Jacques",
+          "minute": 72,
+          "team": "HAI",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Raphinha",
+          "in": "Rayan",
+          "minute": 40,
+          "team": "BRA"
+        },
+        {
+          "out": "C. Arcus",
+          "in": "D. Simon",
+          "minute": 46,
+          "team": "HAI"
+        },
+        {
+          "out": "F. Pierrot",
+          "in": "W. Isidor",
+          "minute": 46,
+          "team": "HAI"
+        },
+        {
+          "out": "J. Casimir",
+          "in": "L. Deedson",
+          "minute": 63,
+          "team": "HAI"
+        },
+        {
+          "out": "Lucas Paqueta",
+          "in": "G. Martinelli",
+          "minute": 64,
+          "team": "BRA"
+        },
+        {
+          "out": "M. Cunha",
+          "in": "Endrick",
+          "minute": 64,
+          "team": "BRA"
+        },
+        {
+          "out": "R. Providence",
+          "in": "L. Joseph",
+          "minute": 71,
+          "team": "HAI"
+        },
+        {
+          "out": "Vinicius Junior",
+          "in": "Danilo Santos",
+          "minute": 81,
+          "team": "BRA"
+        },
+        {
+          "out": "Bruno Guimaraes",
+          "in": "Ederson",
+          "minute": 81,
+          "team": "BRA"
+        },
+        {
+          "out": "J. Bellegarde",
+          "in": "D. Etienne",
+          "minute": 81,
+          "team": "HAI"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          89,
+          83
+        ],
+        "saves": [
+          2,
+          2
+        ],
+        "shotsOutside": [
+          0,
+          2
+        ],
+        "possession": [
+          57,
+          43
+        ],
+        "corners": [
+          4,
+          3
+        ],
+        "yellow": [
+          1,
+          3
+        ],
+        "passesTotal": [
+          509,
+          386
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          8,
+          3
+        ],
+        "shotsOn": [
+          5,
+          2
+        ],
+        "fouls": [
+          12,
+          14
+        ],
+        "shotsTotal": [
+          8,
+          6
+        ],
+        "shotsInside": [
+          8,
+          4
+        ],
+        "shotsOff": [
+          2,
+          3
+        ],
+        "passesAccurate": [
+          451,
+          322
+        ],
+        "shotsBlocked": [
+          1,
+          1
+        ],
+        "home": "BRA",
+        "away": "HAI"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Carlo Ancelotti",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alisson",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Danilo",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Marquinhos",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Gabriel Magalhães",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Douglas Santos",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Guimarães",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Casemiro",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Lucas Paquetá",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Raphinha",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Matheus Cunha",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Vinícius Júnior",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Sebastien Migne",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Johny Placide",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Carlens Arcus",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Jean-Kévin Duverne",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Ricardo Adé",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Hannes Delcroix",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Martin Expérience",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Josué Casimir",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Danley Jean Jacques",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jean-Ricner Bellegarde",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Ruben Providence",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Frantzdy Pierrot",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Alejandro Hernandez, Spain",
+        "motm": {
+          "player": "Matheus Cunha",
+          "rating": 9.3,
+          "team": "BRA"
         }
       }
     },
@@ -9637,6 +9633,11 @@
         "goals": 2
       },
       {
+        "player": "M. Cunha",
+        "team": "BRA",
+        "goals": 2
+      },
+      {
         "player": "Y. Ayari",
         "team": "SWE",
         "goals": 2
@@ -9736,12 +9737,6 @@
         "player": "D. Munoz",
         "team": "COL",
         "goals": 1
-      },
-      {
-        "player": "D. Undav",
-        "team": "GER",
-        "goals": 1,
-        "assists": 2
       }
     ],
     "assists": [
@@ -10016,6 +10011,12 @@
         "yellow": 1
       },
       {
+        "player": "C. Arcus",
+        "team": "HAI",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "C. Blackman",
         "team": "PAN",
         "red": 0,
@@ -10064,20 +10065,14 @@
         "yellow": 1
       },
       {
+        "player": "D. Jean Jacques",
+        "team": "HAI",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "D. Zakaria",
         "team": "SUI",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Diego Gomez",
-        "team": "PAR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "E. Demirovic",
-        "team": "BIH",
         "red": 0,
         "yellow": 1
       }
@@ -10137,6 +10132,20 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "DW"
+    },
+    {
+      "code": "BRA",
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "loses": 0,
+      "gf": 4,
+      "ga": 1,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
       "biggestLose": "",
       "form": "DW"
     },
@@ -10335,20 +10344,6 @@
       "biggestWin": "2-0",
       "biggestLose": "0-2",
       "form": "WL"
-    },
-    {
-      "code": "BRA",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 1,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
     },
     {
       "code": "NED",
@@ -10575,20 +10570,6 @@
       "form": "DL"
     },
     {
-      "code": "HAI",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "loses": 1,
-      "gf": 0,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "0-1",
-      "form": "L"
-    },
-    {
       "code": "ECU",
       "played": 1,
       "wins": 0,
@@ -10727,6 +10708,20 @@
       "biggestWin": "",
       "biggestLose": "0-3",
       "form": "L"
+    },
+    {
+      "code": "HAI",
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "loses": 2,
+      "gf": 0,
+      "ga": 4,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "0-3",
+      "form": "LL"
     },
     {
       "code": "TUN",
