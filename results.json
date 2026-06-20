@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T03:48:24Z",
+  "updated": "2026-06-20T03:49:57Z",
   "live": [
     {
       "id": 22,
@@ -15,15 +15,24 @@
           "assist": "J. Enciso"
         }
       ],
+      "redCards": [
+        "M. Almiron (Paraguay) 45'"
+      ],
       "cardEvents": [
         {
           "player": "M. Galarza",
           "minute": 4,
           "team": "PAR",
           "color": "yellow"
+        },
+        {
+          "player": "M. Almiron",
+          "minute": 45,
+          "team": "PAR",
+          "color": "red"
         }
       ],
-      "extra": 3,
+      "extra": 5,
       "stats": {
         "passesPct": [
           89,
@@ -50,7 +59,7 @@
           1
         ],
         "passesTotal": [
-          304,
+          305,
           94
         ],
         "red": [
@@ -82,7 +91,7 @@
           2
         ],
         "passesAccurate": [
-          271,
+          272,
           61
         ],
         "shotsBlocked": [
