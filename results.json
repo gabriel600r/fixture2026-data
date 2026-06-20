@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:29:18Z",
+  "updated": "2026-06-20T04:30:07Z",
   "live": [
     {
       "id": 22,
@@ -30,6 +30,12 @@
           "minute": 45,
           "team": "PAR",
           "color": "red"
+        },
+        {
+          "player": null,
+          "minute": 63,
+          "team": "TUR",
+          "color": "yellow"
         }
       ],
       "subs": [
