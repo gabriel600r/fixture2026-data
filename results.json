@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:07:23Z",
+  "updated": "2026-06-20T04:08:10Z",
   "live": [
     {
       "id": 22,
@@ -36,14 +36,14 @@
       "stats": {
         "passesPct": [
           88,
-          63
+          62
         ],
         "saves": [
           1,
           1
         ],
         "shotsOutside": [
-          6,
+          7,
           3
         ],
         "possession": [
@@ -59,8 +59,8 @@
           1
         ],
         "passesTotal": [
-          355,
-          107
+          361,
+          108
         ],
         "red": [
           0,
@@ -79,7 +79,7 @@
           11
         ],
         "shotsTotal": [
-          11,
+          12,
           4
         ],
         "shotsInside": [
@@ -91,11 +91,11 @@
           2
         ],
         "passesAccurate": [
-          312,
+          317,
           67
         ],
         "shotsBlocked": [
-          6,
+          7,
           0
         ],
         "home": "TUR",
