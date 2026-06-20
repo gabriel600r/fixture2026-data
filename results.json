@@ -1,17 +1,23 @@
 {
-  "updated": "2026-06-20T21:30:53Z",
+  "updated": "2026-06-20T21:31:40Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 68,
-      "home": 0,
+      "minute": 69,
+      "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "F. Kessie",
           "minute": 30,
           "team": "CIV"
+        },
+        {
+          "player": "D. Undav",
+          "minute": 68,
+          "team": "GER",
+          "assist": "N. Amiri"
         }
       ],
       "subs": [
@@ -42,16 +48,16 @@
       ],
       "stats": {
         "passesAccurate": [
-          407,
-          264
+          427,
+          270
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          456,
-          302
+          477,
+          308
         ],
         "shotsTotal": [
           11,
@@ -74,8 +80,8 @@
           2
         ],
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "saves": [
           1,
@@ -98,8 +104,8 @@
           0
         ],
         "passesPct": [
-          89,
-          87
+          90,
+          88
         ],
         "shotsInside": [
           5,
