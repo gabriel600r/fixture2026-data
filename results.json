@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:09:23Z",
+  "updated": "2026-06-20T18:10:10Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 3,
       "away": 0,
       "goals": [
@@ -22,7 +22,7 @@
         },
         {
           "player": "C. Gakpo",
-          "minute": 48,
+          "minute": 47,
           "team": "NED",
           "assist": "D. Dumfries"
         }
@@ -37,16 +37,16 @@
       ],
       "stats": {
         "passesAccurate": [
-          223,
-          146
+          224,
+          153
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          249,
-          174
+          251,
+          182
         ],
         "shotsTotal": [
           5,
@@ -54,7 +54,7 @@
         ],
         "fouls": [
           5,
-          4
+          5
         ],
         "shotsOn": [
           4,
@@ -69,8 +69,8 @@
           2
         ],
         "possession": [
-          59,
-          41
+          58,
+          42
         ],
         "saves": [
           4,
@@ -93,7 +93,7 @@
           0
         ],
         "passesPct": [
-          90,
+          89,
           84
         ],
         "shotsInside": [
