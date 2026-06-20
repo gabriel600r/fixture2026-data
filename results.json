@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-20T05:06:55Z",
+  "updated": "2026-06-20T16:00:06Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 33,
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Ronald Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bart Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Denzel Dumfries",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Virgil van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Jan Paul van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Micky van de Ven",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Ryan Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Frenkie de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Tijjani Reijnders",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Donyell Malen",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Brian Brobbey",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Cody Gakpo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-1-4-2",
+            "coach": "Graham Potter",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Kristoffer Nordfeldt",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Gustaf Lagerbielke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Isak Hien",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Victor Lindelöf",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Jesper Karlström",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Alexander Bernhardsson",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Benjamin Nygren",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Yasin Ayari",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Gabriel Gudmundsson",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Viktor Gyökeres",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Alexander Isak",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Michael Oliver, England"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
