@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T04:52:03Z",
+  "updated": "2026-06-20T04:52:50Z",
   "live": [
     {
       "id": 22,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 1,
       "goals": [
@@ -86,12 +86,18 @@
           "in": "A. Maidana",
           "minute": 81,
           "team": "PAR"
+        },
+        {
+          "out": "A. Bardakci",
+          "in": "O. Kokcu",
+          "minute": 86,
+          "team": "TUR"
         }
       ],
       "stats": {
         "passesPct": [
           90,
-          53
+          52
         ],
         "saves": [
           1,
@@ -102,8 +108,8 @@
           3
         ],
         "possession": [
-          79,
-          21
+          80,
+          20
         ],
         "corners": [
           10,
@@ -114,8 +120,8 @@
           1
         ],
         "passesTotal": [
-          567,
-          152
+          579,
+          154
         ],
         "red": [
           0,
@@ -123,14 +129,14 @@
         ],
         "offsides": [
           2,
-          2
+          3
         ],
         "shotsOn": [
           4,
           2
         ],
         "fouls": [
-          9,
+          10,
           12
         ],
         "shotsTotal": [
@@ -146,7 +152,7 @@
           3
         ],
         "passesAccurate": [
-          509,
+          520,
           80
         ],
         "shotsBlocked": [
@@ -284,7 +290,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Abdülkerim Bardakcı",
-          "rating": 8.2,
+          "rating": 8.0,
           "team": "TUR"
         }
       }
