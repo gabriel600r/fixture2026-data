@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:13:18Z",
+  "updated": "2026-06-20T18:14:05Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 3,
       "away": 0,
       "goals": [
@@ -37,19 +37,19 @@
       ],
       "stats": {
         "passesAccurate": [
-          249,
-          161
+          250,
+          180
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          276,
-          191
+          277,
+          210
         ],
         "shotsTotal": [
-          6,
+          7,
           9
         ],
         "fouls": [
@@ -69,19 +69,19 @@
           2
         ],
         "possession": [
-          59,
-          41
+          57,
+          43
         ],
         "saves": [
           4,
           2
         ],
         "shotsOutside": [
-          1,
+          2,
           4
         ],
         "shotsOff": [
-          1,
+          2,
           4
         ],
         "shotsBlocked": [
@@ -94,7 +94,7 @@
         ],
         "passesPct": [
           90,
-          84
+          86
         ],
         "shotsInside": [
           5,
@@ -235,7 +235,7 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Brian Brobbey",
+          "player": "Denzel Dumfries",
           "rating": 8.5,
           "team": "NED"
         }
