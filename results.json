@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T03:03:54Z",
+  "updated": "2026-06-20T03:04:41Z",
   "live": [
     {
       "id": 22,
@@ -15,10 +15,18 @@
           "assist": "J. Enciso"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "M. Galarza",
+          "minute": 4,
+          "team": "PAR",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesPct": [
-          67,
-          50
+          86,
+          75
         ],
         "saves": [
           0,
@@ -26,11 +34,11 @@
         ],
         "shotsOutside": [
           0,
-          0
+          1
         ],
         "possession": [
-          75,
-          25
+          88,
+          12
         ],
         "corners": [
           0,
@@ -41,8 +49,8 @@
           0
         ],
         "passesTotal": [
-          6,
-          2
+          28,
+          4
         ],
         "red": [
           0,
@@ -54,7 +62,7 @@
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "fouls": [
           0,
@@ -62,7 +70,7 @@
         ],
         "shotsTotal": [
           0,
-          0
+          1
         ],
         "shotsInside": [
           0,
@@ -73,8 +81,8 @@
           0
         ],
         "passesAccurate": [
-          4,
-          1
+          24,
+          3
         ],
         "shotsBlocked": [
           0,
