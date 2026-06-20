@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:37:11Z",
+  "updated": "2026-06-20T04:37:58Z",
   "live": [
     {
       "id": 22,
@@ -68,6 +68,12 @@
           "in": "G. Velazquez",
           "minute": 67,
           "team": "PAR"
+        },
+        {
+          "out": "F. Kadioglu",
+          "in": "E. Elmali",
+          "minute": 71,
+          "team": "TUR"
         }
       ],
       "stats": {
