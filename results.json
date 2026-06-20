@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:59:06Z",
+  "updated": "2026-06-20T04:59:53Z",
   "live": [
     {
       "id": 22,
@@ -106,7 +106,7 @@
           "team": "PAR"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           89,
@@ -118,7 +118,7 @@
         ],
         "shotsOutside": [
           14,
-          3
+          4
         ],
         "possession": [
           79,
@@ -133,8 +133,8 @@
           1
         ],
         "passesTotal": [
-          591,
-          162
+          596,
+          165
         ],
         "red": [
           0,
@@ -145,32 +145,32 @@
           3
         ],
         "shotsOn": [
-          4,
+          5,
           2
         ],
         "fouls": [
           12,
-          12
+          13
         ],
         "shotsTotal": [
-          27,
-          5
+          28,
+          7
         ],
         "shotsInside": [
-          13,
-          2
+          14,
+          3
         ],
         "shotsOff": [
           13,
           3
         ],
         "passesAccurate": [
-          528,
-          84
+          533,
+          86
         ],
         "shotsBlocked": [
           10,
-          0
+          2
         ],
         "home": "TUR",
         "away": "PAR"
