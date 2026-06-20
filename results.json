@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:48:33Z",
+  "updated": "2026-06-20T20:49:20Z",
   "live": [
     {
       "id": 27,
@@ -14,22 +14,22 @@
           "team": "CIV"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesAccurate": [
-          226,
-          165
+          240,
+          166
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          256,
+          272,
           188
         ],
         "shotsTotal": [
-          6,
+          7,
           4
         ],
         "fouls": [
@@ -45,19 +45,19 @@
           1
         ],
         "corners": [
-          2,
+          3,
           0
         ],
         "possession": [
-          58,
-          42
+          60,
+          40
         ],
         "saves": [
           1,
           1
         ],
         "shotsOutside": [
-          3,
+          4,
           1
         ],
         "shotsOff": [
@@ -65,7 +65,7 @@
           0
         ],
         "shotsBlocked": [
-          3,
+          4,
           2
         ],
         "red": [
