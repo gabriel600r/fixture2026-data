@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:06:15Z",
+  "updated": "2026-06-20T18:07:02Z",
   "live": [
     {
       "id": 33,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 0,
       "goals": [
@@ -21,7 +21,6 @@
           "assist": "D. Dumfries"
         }
       ],
-      "extra": 6,
       "stats": {
         "passesAccurate": [
           222,
@@ -220,7 +219,12 @@
             ]
           }
         },
-        "referee": "Michael Oliver, England"
+        "referee": "Michael Oliver, England",
+        "motm": {
+          "player": "Brian Brobbey",
+          "rating": 8.3,
+          "team": "NED"
+        }
       }
     }
   ],
