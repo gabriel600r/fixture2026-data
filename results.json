@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T03:50:44Z",
+  "updated": "2026-06-20T03:51:31Z",
   "live": [
     {
       "id": 22,
@@ -32,11 +32,11 @@
           "color": "red"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "passesPct": [
           89,
-          65
+          64
         ],
         "saves": [
           1,
@@ -59,12 +59,12 @@
           1
         ],
         "passesTotal": [
-          305,
-          94
+          319,
+          96
         ],
         "red": [
           0,
-          0
+          1
         ],
         "offsides": [
           1,
@@ -91,7 +91,7 @@
           2
         ],
         "passesAccurate": [
-          272,
+          284,
           61
         ],
         "shotsBlocked": [
