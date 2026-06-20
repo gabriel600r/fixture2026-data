@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T21:37:56Z",
+  "updated": "2026-06-20T21:38:43Z",
   "live": [
     {
       "id": 27,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 1,
       "goals": [
@@ -44,6 +44,24 @@
           "in": "N. Amiri",
           "minute": 60,
           "team": "GER"
+        },
+        {
+          "out": "A. Bonny",
+          "in": "E. Guessand",
+          "minute": 75,
+          "team": "CIV"
+        },
+        {
+          "out": "I. Sangare",
+          "in": "S. Fofana",
+          "minute": 75,
+          "team": "CIV"
+        },
+        {
+          "out": "A. Diallo",
+          "in": "S. Adingra",
+          "minute": 75,
+          "team": "CIV"
         }
       ],
       "stats": {
