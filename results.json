@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:57:32Z",
+  "updated": "2026-06-20T04:58:19Z",
   "live": [
     {
       "id": 22,
@@ -92,6 +92,18 @@
           "in": "O. Kokcu",
           "minute": 86,
           "team": "TUR"
+        },
+        {
+          "out": "J. Enciso",
+          "in": "G. Avalos",
+          "minute": 90,
+          "team": "PAR"
+        },
+        {
+          "out": "M. Galarza",
+          "in": "J. Canale",
+          "minute": 90,
+          "team": "PAR"
         }
       ],
       "extra": 1,
