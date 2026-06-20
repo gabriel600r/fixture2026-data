@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:20:43Z",
+  "updated": "2026-06-20T01:21:29Z",
   "live": [
     {
       "id": 16,
@@ -22,7 +22,8 @@
         {
           "player": "Vinicius Junior",
           "minute": 45,
-          "team": "BRA"
+          "team": "BRA",
+          "assist": "Lucas Paqueta"
         }
       ],
       "cardEvents": [
@@ -41,7 +42,7 @@
           "team": "BRA"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           89,
