@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-20T18:08:36Z",
+  "updated": "2026-06-20T18:09:23Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 47,
-      "home": 2,
+      "minute": 48,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -17,6 +17,12 @@
         {
           "player": "B. Brobbey",
           "minute": 17,
+          "team": "NED",
+          "assist": "D. Dumfries"
+        },
+        {
+          "player": "C. Gakpo",
+          "minute": 48,
           "team": "NED",
           "assist": "D. Dumfries"
         }
