@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T00:46:15Z",
+  "updated": "2026-06-20T00:47:02Z",
   "live": [
     {
       "id": 16,
@@ -17,8 +17,8 @@
       ],
       "stats": {
         "passesPct": [
-          90,
-          71
+          93,
+          76
         ],
         "saves": [
           0,
@@ -29,8 +29,8 @@
           0
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "corners": [
           1,
@@ -41,15 +41,15 @@
           1
         ],
         "passesTotal": [
-          61,
-          35
+          80,
+          45
         ],
         "red": [
           0,
           0
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "shotsOn": [
@@ -58,7 +58,7 @@
         ],
         "fouls": [
           2,
-          1
+          2
         ],
         "shotsTotal": [
           0,
@@ -73,8 +73,8 @@
           0
         ],
         "passesAccurate": [
-          55,
-          25
+          74,
+          34
         ],
         "shotsBlocked": [
           0,
@@ -91,7 +91,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Carlo Ancelotti",
             "xi": [
               {
@@ -130,23 +130,23 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Raphinha",
-                "pos": "M"
-              },
-              {
                 "n": 20,
                 "name": "Lucas Paquetá",
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Vinícius Júnior",
-                "pos": "M"
+                "n": 11,
+                "name": "Raphinha",
+                "pos": "F"
               },
               {
                 "n": 9,
                 "name": "Matheus Cunha",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Vinícius Júnior",
                 "pos": "F"
               }
             ]
@@ -166,13 +166,13 @@
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Ricardo Adé",
+                "n": 22,
+                "name": "Jean-Kévin Duverne",
                 "pos": "D"
               },
               {
-                "n": 22,
-                "name": "Jean-Kévin Duverne",
+                "n": 4,
+                "name": "Ricardo Adé",
                 "pos": "D"
               },
               {
