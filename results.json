@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T20:36:51Z",
+  "updated": "2026-06-20T20:37:38Z",
   "live": [
     {
       "id": 27,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 1,
       "goals": [
@@ -151,7 +151,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-1-4-1",
             "coach": "Emerse Fae",
             "xi": [
               {
@@ -180,13 +180,18 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Franck Kessié",
+                "n": 18,
+                "name": "Ibrahim Sangaré",
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Ibrahim Sangaré",
+                "n": 15,
+                "name": "Amad Diallo",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Franck Kessié",
                 "pos": "M"
               },
               {
@@ -195,18 +200,13 @@
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Amad Diallo",
-                "pos": "F"
+                "n": 11,
+                "name": "Yan Diomande",
+                "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Ange-Yoan Bonny",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Yan Diomande",
                 "pos": "F"
               }
             ]
