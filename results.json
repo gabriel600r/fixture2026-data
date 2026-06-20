@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:08:59Z",
+  "updated": "2026-06-20T01:09:46Z",
   "live": [
     {
       "id": 16,
@@ -16,7 +16,8 @@
         {
           "player": "M. Cunha",
           "minute": 36,
-          "team": "BRA"
+          "team": "BRA",
+          "assist": "Vinicius Junior"
         }
       ],
       "cardEvents": [
@@ -41,20 +42,20 @@
           0
         ],
         "possession": [
-          63,
-          37
+          62,
+          38
         ],
         "corners": [
           4,
-          0
+          1
         ],
         "yellow": [
           0,
           1
         ],
         "passesTotal": [
-          180,
-          108
+          183,
+          113
         ],
         "red": [
           0,
@@ -85,8 +86,8 @@
           0
         ],
         "passesAccurate": [
-          157,
-          83
+          159,
+          87
         ],
         "shotsBlocked": [
           2,
