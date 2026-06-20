@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:17:13Z",
+  "updated": "2026-06-20T18:18:00Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 4,
       "away": 0,
       "goals": [
@@ -47,6 +47,18 @@
           "in": "C. Summerville",
           "minute": 46,
           "team": "NED"
+        },
+        {
+          "out": "J. Karlstrom",
+          "in": "B. Zeneli",
+          "minute": 56,
+          "team": "SWE"
+        },
+        {
+          "out": "B. Nygren",
+          "in": "L. Bergvall",
+          "minute": 56,
+          "team": "SWE"
         }
       ],
       "stats": {
