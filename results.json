@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20T18:32:53Z",
+  "updated": "2026-06-20T18:33:40Z",
   "live": [
     {
       "id": 33,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 4,
       "away": 1,
       "goals": [
@@ -83,12 +83,18 @@
           "in": "G. Til",
           "minute": 59,
           "team": "NED"
+        },
+        {
+          "out": "B. Brobbey",
+          "in": "M. Depay",
+          "minute": 72,
+          "team": "NED"
         }
       ],
       "stats": {
         "passesAccurate": [
           326,
-          253
+          254
         ],
         "yellow": [
           0,
