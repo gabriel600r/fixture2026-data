@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:18:00Z",
+  "updated": "2026-06-20T18:18:47Z",
   "live": [
     {
       "id": 33,
@@ -59,23 +59,29 @@
           "in": "L. Bergvall",
           "minute": 56,
           "team": "SWE"
+        },
+        {
+          "out": "A. Bernhardsson",
+          "in": "A. Elanga",
+          "minute": 56,
+          "team": "SWE"
         }
       ],
       "stats": {
         "passesAccurate": [
-          257,
-          188
+          260,
+          191
         ],
         "yellow": [
           0,
           1
         ],
         "passesTotal": [
-          286,
-          223
+          289,
+          226
         ],
         "shotsTotal": [
-          7,
+          8,
           10
         ],
         "fouls": [
@@ -83,7 +89,7 @@
           6
         ],
         "shotsOn": [
-          5,
+          6,
           4
         ],
         "offsides": [
@@ -120,10 +126,10 @@
         ],
         "passesPct": [
           90,
-          84
+          85
         ],
         "shotsInside": [
-          5,
+          6,
           5
         ],
         "home": "NED",
