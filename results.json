@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:35:22Z",
+  "updated": "2026-06-21T23:36:09Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 2,
       "goals": [
@@ -76,7 +76,7 @@
           0
         ],
         "passesAccurate": [
-          337,
+          351,
           150
         ],
         "shotsOn": [
@@ -84,7 +84,7 @@
           2
         ],
         "shotsBlocked": [
-          4,
+          5,
           1
         ],
         "red": [
@@ -92,7 +92,7 @@
           0
         ],
         "shotsTotal": [
-          11,
+          12,
           6
         ],
         "saves": [
@@ -100,12 +100,12 @@
           0
         ],
         "passesTotal": [
-          399,
-          201
+          415,
+          202
         ],
         "possession": [
-          67,
-          33
+          68,
+          32
         ],
         "shotsOff": [
           5,
@@ -116,7 +116,7 @@
           1
         ],
         "shotsOutside": [
-          5,
+          6,
           6
         ],
         "offsides": [
@@ -124,8 +124,8 @@
           0
         ],
         "passesPct": [
-          84,
-          75
+          85,
+          74
         ],
         "fouls": [
           8,
@@ -271,7 +271,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Maximiliano Araújo",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "URU"
         }
       }
