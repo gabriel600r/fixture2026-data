@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-21T05:52:55Z",
+  "updated": "2026-06-21T05:53:42Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 82,
+      "minute": 90,
       "home": 0,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "D. Kamada",
