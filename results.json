@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:52:21Z",
+  "updated": "2026-06-21T20:53:08Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 0,
       "redCards": [
@@ -84,6 +84,12 @@
           "in": "A. Hosseinzadeh",
           "minute": 85,
           "team": "IRN"
+        },
+        {
+          "out": "K. De Bruyne",
+          "in": "M. Fernandez-Pardo",
+          "minute": 87,
+          "team": "BEL"
         }
       ],
       "stats": {
