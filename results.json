@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:24:19Z",
+  "updated": "2026-06-21T23:25:07Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 2,
       "away": 1,
       "goals": [
@@ -57,6 +57,12 @@
           "in": "N. Da Costa",
           "minute": 58,
           "team": "CPV"
+        },
+        {
+          "out": "G. Rodrigues",
+          "in": "H. Varela",
+          "minute": 59,
+          "team": "CPV"
         }
       ],
       "stats": {
@@ -65,8 +71,8 @@
           0
         ],
         "passesAccurate": [
-          288,
-          132
+          311,
+          149
         ],
         "shotsOn": [
           2,
@@ -89,12 +95,12 @@
           0
         ],
         "passesTotal": [
-          342,
-          175
+          369,
+          196
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOff": [
           5,
@@ -114,10 +120,10 @@
         ],
         "passesPct": [
           84,
-          75
+          76
         ],
         "fouls": [
-          7,
+          8,
           2
         ],
         "yellow": [
