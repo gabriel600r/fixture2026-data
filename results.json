@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:17:13Z",
+  "updated": "2026-06-21T23:18:00Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 2,
       "away": 1,
       "goals": [
@@ -248,7 +248,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Maximiliano Araújo",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "URU"
         }
       }
