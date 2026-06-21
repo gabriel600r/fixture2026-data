@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T05:05:03Z",
+  "updated": "2026-06-21T05:05:50Z",
   "live": [
     {
       "id": 34,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 2,
       "goals": [
@@ -21,7 +21,14 @@
           "assist": "K. Itakura"
         }
       ],
-      "extra": 4,
+      "subs": [
+        {
+          "out": "E. Saad",
+          "in": "I. Gharbi",
+          "minute": 46,
+          "team": "TUN"
+        }
+      ],
       "stats": {
         "passesAccurate": [
           117,
@@ -220,7 +227,12 @@
             ]
           }
         },
-        "referee": "Istvan Kovacs, Romania"
+        "referee": "Istvan Kovacs, Romania",
+        "motm": {
+          "player": "Ko Itakura",
+          "rating": 7.3,
+          "team": "JPN"
+        }
       }
     }
   ],
