@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:59:28Z",
+  "updated": "2026-06-21T21:00:16Z",
   "live": [
     {
       "id": 39,
@@ -304,7 +304,143 @@
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 46,
+      "extras": {
+        "pred": {
+          "home": 35,
+          "draw": 35,
+          "away": 30
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Marcelo Bielsa",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Fernando Muslera",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Guillermo Varela",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Sebastián Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Mathías Olivera",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Juan Sanabria",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Ugarte",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Rodrigo Bentancur",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Agustín Canobbio",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Federico Valverde",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Maximiliano Araújo",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Federico Viñas",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-4-1",
+            "coach": "Pedro Leitao Brito",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Vozinha",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "Steven Moreira",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Pico",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Diney Borges",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Sidny Lopes Cabral",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Kevin Lenini",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Telmo Arcanjo",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ryan Mendes",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jamiro Monteiro",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Garry Rodrigues",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Gilson Tavares",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Espen Eskas, Norway"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
