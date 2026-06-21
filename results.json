@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:55:51Z",
+  "updated": "2026-06-21T23:56:38Z",
   "live": [
     {
       "id": 46,
@@ -96,10 +96,11 @@
         {
           "out": "M. Araujo",
           "in": "B. Rodriguez",
-          "minute": 82,
+          "minute": 81,
           "team": "URU"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsInside": [
           8,
@@ -130,7 +131,7 @@
           0
         ],
         "passesTotal": [
-          490,
+          491,
           251
         ],
         "possession": [
@@ -142,7 +143,7 @@
           4
         ],
         "corners": [
-          10,
+          11,
           3
         ],
         "shotsOutside": [
@@ -159,7 +160,7 @@
         ],
         "fouls": [
           8,
-          3
+          4
         ],
         "yellow": [
           2,
