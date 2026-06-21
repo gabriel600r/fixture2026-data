@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:49:58Z",
+  "updated": "2026-06-21T20:50:46Z",
   "live": [
     {
       "id": 39,
@@ -77,6 +77,12 @@
           "out": "S. Ghoddos",
           "in": "S. Moghanlou",
           "minute": 79,
+          "team": "IRN"
+        },
+        {
+          "out": "S. Ezatolahi",
+          "in": "A. Hosseinzadeh",
+          "minute": 85,
           "team": "IRN"
         }
       ],
