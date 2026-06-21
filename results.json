@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T04:48:36Z",
+  "updated": "2026-06-21T04:49:23Z",
   "live": [
     {
       "id": 34,
@@ -21,7 +21,7 @@
           "assist": "K. Itakura"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesAccurate": [
           117,
