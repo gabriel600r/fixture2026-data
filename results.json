@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T22:19:50Z",
+  "updated": "2026-06-21T22:20:37Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "S. Lopes Cabral",
           "minute": 5,
           "team": "CPV",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Ugarte",
+          "minute": 20,
+          "team": "URU",
           "color": "yellow"
         }
       ],
@@ -91,7 +97,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-1-4-1",
             "coach": "Marcelo Bielsa",
             "xi": [
               {
@@ -125,13 +131,13 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Rodrigo Bentancur",
+                "n": 14,
+                "name": "Agustín Canobbio",
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Agustín Canobbio",
+                "n": 6,
+                "name": "Rodrigo Bentancur",
                 "pos": "M"
               },
               {
@@ -186,13 +192,13 @@
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Telmo Arcanjo",
+                "n": 20,
+                "name": "Ryan Mendes",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Ryan Mendes",
+                "n": 18,
+                "name": "Telmo Arcanjo",
                 "pos": "M"
               },
               {
