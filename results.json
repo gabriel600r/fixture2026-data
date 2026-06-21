@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T17:08:11Z",
+  "updated": "2026-06-21T17:08:58Z",
   "live": [
     {
       "id": 45,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 3,
       "away": 0,
       "goals": [
@@ -35,7 +35,32 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "subs": [
+        {
+          "out": "Lamine Yamal",
+          "in": "Y. Pino",
+          "minute": 46,
+          "team": "ESP"
+        },
+        {
+          "out": "M. Oyarzabal",
+          "in": "F. Torres",
+          "minute": 46,
+          "team": "ESP"
+        },
+        {
+          "out": "A. Al Khaibari",
+          "in": "M. Kanno",
+          "minute": 46,
+          "team": "KSA"
+        },
+        {
+          "out": "M. Al Juwayr",
+          "in": "A. Al Hamdan",
+          "minute": 46,
+          "team": "KSA"
+        }
+      ],
       "stats": {
         "shotsInside": [
           8,
@@ -234,7 +259,12 @@
             ]
           }
         },
-        "referee": "Raphael Claus, Brazil"
+        "referee": "Raphael Claus, Brazil",
+        "motm": {
+          "player": "Mikel Oyarzabal",
+          "rating": 9.5,
+          "team": "ESP"
+        }
       }
     }
   ],
