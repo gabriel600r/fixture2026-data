@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T00:38:25Z",
+  "updated": "2026-06-21T00:39:12Z",
   "live": [
     {
       "id": 28,
       "status": "1H",
-      "minute": 38,
+      "minute": 39,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -13,20 +13,26 @@
           "minute": 38,
           "team": "ECU",
           "color": "yellow"
+        },
+        {
+          "player": "L. Bacuna",
+          "minute": 39,
+          "team": "CUR",
+          "color": "yellow"
         }
       ],
       "stats": {
         "passesAccurate": [
-          209,
-          71
+          239,
+          73
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          240,
-          96
+          270,
+          98
         ],
         "shotsTotal": [
           7,
@@ -49,8 +55,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          74,
+          26
         ],
         "saves": [
           0,
@@ -73,7 +79,7 @@
           0
         ],
         "passesPct": [
-          87,
+          89,
           74
         ],
         "shotsInside": [
