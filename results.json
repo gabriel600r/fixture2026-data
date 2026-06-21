@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T05:05:50Z",
+  "updated": "2026-06-21T05:06:37Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 2,
       "goals": [
@@ -27,28 +27,34 @@
           "in": "I. Gharbi",
           "minute": 46,
           "team": "TUN"
+        },
+        {
+          "out": "D. Bronn",
+          "in": "M. Ben Hamida",
+          "minute": 46,
+          "team": "TUN"
         }
       ],
       "stats": {
         "passesAccurate": [
-          117,
-          255
+          118,
+          266
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          154,
-          283
+          155,
+          295
         ],
         "shotsTotal": [
-          1,
+          2,
           5
         ],
         "fouls": [
           5,
-          7
+          8
         ],
         "shotsOn": [
           0,
@@ -63,8 +69,8 @@
           2
         ],
         "possession": [
-          35,
-          65
+          34,
+          66
         ],
         "saves": [
           1,
@@ -75,7 +81,7 @@
           1
         ],
         "shotsOff": [
-          1,
+          2,
           2
         ],
         "shotsBlocked": [
@@ -91,7 +97,7 @@
           90
         ],
         "shotsInside": [
-          0,
+          1,
           5
         ],
         "home": "TUN",
