@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:26:22Z",
+  "updated": "2026-06-21T01:27:09Z",
   "live": [
     {
       "id": 28,
@@ -43,19 +43,19 @@
       ],
       "stats": {
         "passesAccurate": [
-          437,
-          127
+          443,
+          128
         ],
         "yellow": [
           1,
           3
         ],
         "passesTotal": [
-          485,
-          175
+          491,
+          178
         ],
         "shotsTotal": [
-          15,
+          17,
           9
         ],
         "fouls": [
@@ -63,7 +63,7 @@
           8
         ],
         "shotsOn": [
-          9,
+          10,
           2
         ],
         "offsides": [
@@ -71,7 +71,7 @@
           2
         ],
         "corners": [
-          2,
+          4,
           0
         ],
         "possession": [
@@ -80,14 +80,14 @@
         ],
         "saves": [
           2,
-          9
+          10
         ],
         "shotsOutside": [
           4,
           5
         ],
         "shotsOff": [
-          6,
+          7,
           4
         ],
         "shotsBlocked": [
@@ -100,10 +100,10 @@
         ],
         "passesPct": [
           90,
-          73
+          72
         ],
         "shotsInside": [
-          11,
+          13,
           4
         ],
         "home": "ECU",
@@ -237,7 +237,7 @@
         "referee": "Ma Ning, China",
         "motm": {
           "player": "Eloy Room",
-          "rating": 9.3,
+          "rating": 8.9,
           "team": "CUR"
         }
       }
