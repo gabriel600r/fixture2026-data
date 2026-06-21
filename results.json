@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:30:14Z",
+  "updated": "2026-06-21T20:31:02Z",
   "live": [
     {
       "id": 39,
@@ -45,6 +45,12 @@
           "in": "D. Lukebakio",
           "minute": 58,
           "team": "BEL"
+        },
+        {
+          "out": "E. Hajsafi",
+          "in": "M. Mohammadi",
+          "minute": 66,
+          "team": "IRN"
         }
       ],
       "stats": {
@@ -247,9 +253,9 @@
         },
         "referee": "Dario Herrera, Argentina",
         "motm": {
-          "player": "Leandro Trossard",
-          "rating": 8.2,
-          "team": "BEL"
+          "player": "Alireza Beiranvand",
+          "rating": 8.9,
+          "team": "IRN"
         }
       }
     }
