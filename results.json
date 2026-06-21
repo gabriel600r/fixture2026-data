@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-21T00:03:10Z",
+  "updated": "2026-06-21T00:03:57Z",
   "live": [
     {
       "id": 28,
       "status": "1H",
-      "minute": 2,
+      "minute": 4,
       "home": 0,
       "away": 0,
       "stats": {
         "passesAccurate": [
-          0,
+          18,
           0
         ],
         "yellow": [
@@ -17,7 +17,7 @@
           0
         ],
         "passesTotal": [
-          0,
+          21,
           0
         ],
         "shotsTotal": [
@@ -41,7 +41,7 @@
           0
         ],
         "possession": [
-          0,
+          100,
           0
         ],
         "saves": [
@@ -65,7 +65,7 @@
           0
         ],
         "passesPct": [
-          0,
+          86,
           0
         ],
         "shotsInside": [
@@ -74,6 +74,133 @@
         ],
         "home": "ECU",
         "away": "CUR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-1-4-2",
+            "coach": "Sebastian Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Hernán Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Alan Franco",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Willian Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Piero Hincapié",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jordy Alcivar",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "John Yeboah",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pedro Vite",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Moisés Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Pervis Estupiñán",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Gonzalo Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "Enner Valencia",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Dick Advocaat",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Eloy Room",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Joshua Brenet",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jurien Gaari",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Armando Obispo",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Sherel Constancio Floranus",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Deveron Fonville",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Tahith Chong",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Livano Comenencia",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Juninho Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jürgen Locadia",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ma Ning, China"
       }
     }
   ],
