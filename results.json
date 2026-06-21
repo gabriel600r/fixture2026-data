@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:38:06Z",
+  "updated": "2026-06-21T20:38:54Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 0,
       "away": 0,
       "redCards": [
@@ -66,6 +66,12 @@
           "in": "M. Torabi",
           "minute": 66,
           "team": "IRN"
+        },
+        {
+          "out": "R. Lukaku",
+          "in": "A. Theate",
+          "minute": 73,
+          "team": "BEL"
         }
       ],
       "stats": {
