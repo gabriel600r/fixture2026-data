@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:34:14Z",
+  "updated": "2026-06-21T01:35:02Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -31,6 +31,12 @@
           "minute": 56,
           "team": "CUR",
           "color": "yellow"
+        },
+        {
+          "player": "J. Gaari",
+          "minute": 75,
+          "team": "CUR",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -49,19 +55,19 @@
       ],
       "stats": {
         "passesAccurate": [
-          457,
-          129
+          463,
+          135
         ],
         "yellow": [
           1,
           3
         ],
         "passesTotal": [
-          506,
-          181
+          512,
+          187
         ],
         "shotsTotal": [
-          21,
+          24,
           9
         ],
         "fouls": [
@@ -69,7 +75,7 @@
           8
         ],
         "shotsOn": [
-          12,
+          13,
           2
         ],
         "offsides": [
@@ -77,7 +83,7 @@
           2
         ],
         "corners": [
-          4,
+          5,
           0
         ],
         "possession": [
@@ -86,18 +92,18 @@
         ],
         "saves": [
           2,
-          12
+          13
         ],
         "shotsOutside": [
-          4,
+          5,
           5
         ],
         "shotsOff": [
-          8,
+          9,
           4
         ],
         "shotsBlocked": [
-          1,
+          2,
           3
         ],
         "red": [
@@ -106,10 +112,10 @@
         ],
         "passesPct": [
           90,
-          71
+          72
         ],
         "shotsInside": [
-          17,
+          19,
           4
         ],
         "home": "ECU",
