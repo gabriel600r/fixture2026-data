@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:22:18Z",
+  "updated": "2026-06-21T20:23:06Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -27,6 +27,18 @@
           "in": "A. Jahanbakhsh",
           "minute": 46,
           "team": "IRN"
+        },
+        {
+          "out": "T. Meunier",
+          "in": "T. Castagne",
+          "minute": 57,
+          "team": "BEL"
+        },
+        {
+          "out": "N. Raskin",
+          "in": "H. Vanaken",
+          "minute": 58,
+          "team": "BEL"
         }
       ],
       "stats": {
