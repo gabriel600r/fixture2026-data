@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:47:36Z",
+  "updated": "2026-06-21T20:48:24Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 0,
       "redCards": [
@@ -76,7 +76,7 @@
         {
           "out": "S. Ghoddos",
           "in": "S. Moghanlou",
-          "minute": 78,
+          "minute": 79,
           "team": "IRN"
         }
       ],
