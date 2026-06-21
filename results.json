@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:24:40Z",
+  "updated": "2026-06-21T17:25:27Z",
   "live": [
     {
       "id": 45,
@@ -75,8 +75,26 @@
         {
           "out": "A. Al Amri",
           "in": "A. Hejji",
+          "minute": 60,
+          "team": "KSA"
+        },
+        {
+          "out": "F. Al Buraikan",
+          "in": "M. Abu Al Shamat",
           "minute": 61,
           "team": "KSA"
+        },
+        {
+          "out": "D. Olmo",
+          "in": "M. Merino",
+          "minute": 62,
+          "team": "ESP"
+        },
+        {
+          "out": "A. Baena",
+          "in": "N. Williams",
+          "minute": 62,
+          "team": "ESP"
         }
       ],
       "stats": {
