@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:23:06Z",
+  "updated": "2026-06-21T20:23:53Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -31,12 +31,18 @@
         {
           "out": "T. Meunier",
           "in": "T. Castagne",
-          "minute": 57,
+          "minute": 58,
           "team": "BEL"
         },
         {
           "out": "N. Raskin",
           "in": "H. Vanaken",
+          "minute": 58,
+          "team": "BEL"
+        },
+        {
+          "out": "A. Saelemaekers",
+          "in": "D. Lukebakio",
           "minute": 58,
           "team": "BEL"
         }
@@ -47,8 +53,8 @@
           4
         ],
         "passesAccurate": [
-          358,
-          62
+          365,
+          63
         ],
         "shotsOn": [
           4,
@@ -71,8 +77,8 @@
           4
         ],
         "passesTotal": [
-          418,
-          108
+          427,
+          110
         ],
         "possession": [
           80,
@@ -95,7 +101,7 @@
           2
         ],
         "passesPct": [
-          86,
+          85,
           57
         ],
         "fouls": [
