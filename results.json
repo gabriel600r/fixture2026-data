@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T22:50:28Z",
+  "updated": "2026-06-21T22:51:15Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
       "minute": 45,
-      "home": 1,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -33,7 +33,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsInside": [
           5,
