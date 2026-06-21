@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:33:21Z",
+  "updated": "2026-06-21T19:34:08Z",
   "live": [
     {
       "id": 39,
@@ -12,6 +12,12 @@
           "player": "R. Lukaku",
           "minute": 3,
           "team": "BEL",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Ezatolahi",
+          "minute": 33,
+          "team": "IRN",
           "color": "yellow"
         }
       ],
