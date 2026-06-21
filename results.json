@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-21T22:21:24Z",
+  "updated": "2026-06-21T22:22:11Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "K. Lenini",
           "minute": 21,
           "team": "CPV"
         }
