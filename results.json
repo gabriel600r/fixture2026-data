@@ -1,20 +1,28 @@
 {
-  "updated": "2026-06-21T22:05:38Z",
+  "updated": "2026-06-21T22:06:25Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
-      "minute": 5,
+      "minute": 6,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "S. Lopes Cabral",
+          "minute": 5,
+          "team": "CPV",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsInside": [
           0,
           0
         ],
         "passesAccurate": [
-          15,
-          10
+          16,
+          12
         ],
         "shotsOn": [
           0,
@@ -37,12 +45,12 @@
           0
         ],
         "passesTotal": [
-          20,
-          14
+          21,
+          17
         ],
         "possession": [
-          59,
-          41
+          55,
+          45
         ],
         "shotsOff": [
           0,
@@ -61,12 +69,12 @@
           0
         ],
         "passesPct": [
-          75,
+          76,
           71
         ],
         "fouls": [
           2,
-          0
+          1
         ],
         "yellow": [
           0,
