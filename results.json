@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T17:11:19Z",
+  "updated": "2026-06-21T17:12:06Z",
   "live": [
     {
       "id": 45,
       "status": "2H",
-      "minute": 48,
-      "home": 3,
+      "minute": 49,
+      "home": 4,
       "away": 0,
       "goals": [
         {
@@ -25,6 +25,11 @@
           "minute": 24,
           "team": "ESP",
           "assist": "D. Olmo"
+        },
+        {
+          "player": null,
+          "minute": 49,
+          "team": "ESP"
         }
       ],
       "cardEvents": [
