@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:43:37Z",
+  "updated": "2026-06-21T20:44:24Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 0,
       "redCards": [
@@ -72,6 +72,12 @@
           "in": "A. Theate",
           "minute": 73,
           "team": "BEL"
+        },
+        {
+          "out": "S. Ghoddos",
+          "in": "S. Moghanlou",
+          "minute": 78,
+          "team": "IRN"
         }
       ],
       "stats": {
