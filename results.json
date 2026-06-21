@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T05:49:00Z",
+  "updated": "2026-06-21T05:49:47Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 0,
       "away": 4,
       "goals": [
@@ -85,16 +85,16 @@
       ],
       "stats": {
         "passesAccurate": [
-          259,
-          460
+          264,
+          461
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          320,
-          515
+          327,
+          516
         ],
         "shotsTotal": [
           2,
@@ -284,7 +284,7 @@
         "referee": "Istvan Kovacs, Romania",
         "motm": {
           "player": "Ayase Ueda",
-          "rating": 9.3,
+          "rating": 9.7,
           "team": "JPN"
         }
       }
