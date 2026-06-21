@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T16:25:01Z",
+  "updated": "2026-06-21T16:25:48Z",
   "live": [
     {
       "id": 45,
       "status": "1H",
-      "minute": 24,
+      "minute": 25,
       "home": 3,
       "away": 0,
       "goals": [
@@ -29,15 +29,15 @@
       ],
       "stats": {
         "shotsInside": [
-          3,
+          5,
           0
         ],
         "passesAccurate": [
-          137,
-          38
+          138,
+          40
         ],
         "shotsOn": [
-          2,
+          3,
           0
         ],
         "shotsBlocked": [
@@ -49,7 +49,7 @@
           0
         ],
         "shotsTotal": [
-          8,
+          10,
           0
         ],
         "saves": [
@@ -57,19 +57,19 @@
           1
         ],
         "passesTotal": [
-          149,
-          57
+          151,
+          60
         ],
         "possession": [
           73,
           27
         ],
         "shotsOff": [
-          5,
+          6,
           0
         ],
         "corners": [
-          2,
+          3,
           0
         ],
         "shotsOutside": [
@@ -81,7 +81,7 @@
           0
         ],
         "passesPct": [
-          92,
+          91,
           67
         ],
         "fouls": [
@@ -103,7 +103,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Luis de la Fuente",
             "xi": [
               {
@@ -132,8 +132,8 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Pedri",
+                "n": 10,
+                "name": "Dani Olmo",
                 "pos": "M"
               },
               {
@@ -142,29 +142,29 @@
                 "pos": "M"
               },
               {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
                 "n": 19,
                 "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 21,
                 "name": "Mikel Oyarzabal",
                 "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Alex Baena",
+                "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "5-3-2",
+            "formation": "5-4-1",
             "coach": "Georgios Donis",
             "xi": [
               {
@@ -178,8 +178,8 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Hassan Altambakti",
+                "n": 4,
+                "name": "Abdulelah Al-Amri",
                 "pos": "D"
               },
               {
@@ -188,8 +188,8 @@
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Abdulelah Al-Amri",
+                "n": 5,
+                "name": "Hassan Altambakti",
                 "pos": "D"
               },
               {
@@ -198,8 +198,8 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Nasser Al-Dawsari",
+                "n": 7,
+                "name": "Musab Al Juwayr",
                 "pos": "M"
               },
               {
@@ -208,18 +208,18 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Musab Al Juwayr",
+                "n": 6,
+                "name": "Nasser Al-Dawsari",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Salem Al-Dawsari",
                 "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Firas Al-Buraikan",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Salem Al-Dawsari",
                 "pos": "F"
               }
             ]
