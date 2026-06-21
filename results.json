@@ -1,309 +1,6 @@
 {
-  "updated": "2026-06-21T01:55:27Z",
-  "live": [
-    {
-      "id": 28,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 0,
-      "cardEvents": [
-        {
-          "player": "J. Alcivar",
-          "minute": 38,
-          "team": "ECU",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Bacuna",
-          "minute": 39,
-          "team": "CUR",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Bacuna",
-          "minute": 53,
-          "team": "CUR",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Comenencia",
-          "minute": 56,
-          "team": "CUR",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Gaari",
-          "minute": 75,
-          "team": "CUR",
-          "color": "yellow"
-        },
-        {
-          "player": "G. Kastaneer",
-          "minute": 90,
-          "team": "CUR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "J. Alcivar",
-          "in": "K. Rodriguez",
-          "minute": 46,
-          "team": "ECU"
-        },
-        {
-          "out": "P. Estupinan",
-          "in": "N. Angulo",
-          "minute": 70,
-          "team": "ECU"
-        },
-        {
-          "out": "J. Bacuna",
-          "in": "K. Gorre",
-          "minute": 75,
-          "team": "CUR"
-        },
-        {
-          "out": "D. Fonville",
-          "in": "R. van Eijma",
-          "minute": 76,
-          "team": "CUR"
-        },
-        {
-          "out": "T. Chong",
-          "in": "J. Margaritha",
-          "minute": 76,
-          "team": "CUR"
-        },
-        {
-          "out": "A. Franco",
-          "in": "A. Preciado",
-          "minute": 83,
-          "team": "ECU"
-        },
-        {
-          "out": "J. Locadia",
-          "in": "G. Kastaneer",
-          "minute": 83,
-          "team": "CUR"
-        },
-        {
-          "out": "L. Comenencia",
-          "in": "G. Roemeratoe",
-          "minute": 84,
-          "team": "CUR"
-        },
-        {
-          "out": "J. Yeboah",
-          "in": "J. Caicedo",
-          "minute": 89,
-          "team": "ECU"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "passesAccurate": [
-          571,
-          154
-        ],
-        "yellow": [
-          1,
-          5
-        ],
-        "passesTotal": [
-          633,
-          220
-        ],
-        "shotsTotal": [
-          28,
-          10
-        ],
-        "fouls": [
-          7,
-          10
-        ],
-        "shotsOn": [
-          15,
-          3
-        ],
-        "offsides": [
-          1,
-          2
-        ],
-        "corners": [
-          8,
-          0
-        ],
-        "possession": [
-          75,
-          25
-        ],
-        "saves": [
-          3,
-          15
-        ],
-        "shotsOutside": [
-          6,
-          6
-        ],
-        "shotsOff": [
-          10,
-          4
-        ],
-        "shotsBlocked": [
-          3,
-          3
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          90,
-          70
-        ],
-        "shotsInside": [
-          22,
-          4
-        ],
-        "home": "ECU",
-        "away": "CUR"
-      },
-      "extras": {
-        "lineups": {
-          "home": {
-            "formation": "3-1-4-2",
-            "coach": "Sebastian Beccacece",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Hernán Galíndez",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "Alan Franco",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Willian Pacho",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Piero Hincapié",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Jordy Alcivar",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "John Yeboah",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Pedro Vite",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Moisés Caicedo",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Pervis Estupiñán",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Gonzalo Plata",
-                "pos": "F"
-              },
-              {
-                "n": 13,
-                "name": "Enner Valencia",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-4-1",
-            "coach": "Dick Advocaat",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Eloy Room",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "Joshua Brenet",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Jurien Gaari",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Armando Obispo",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Sherel Constancio Floranus",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Deveron Fonville",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Tahith Chong",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Livano Comenencia",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Leandro Bacuna",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Juninho Bacuna",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Jürgen Locadia",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Ma Ning, China",
-        "motm": {
-          "player": "Eloy Room",
-          "rating": 10.0,
-          "team": "CUR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-21T01:56:13Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -6173,6 +5870,305 @@
       }
     },
     {
+      "id": 28,
+      "home": 0,
+      "away": 0,
+      "cardEvents": [
+        {
+          "player": "J. Alcivar",
+          "minute": 38,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Bacuna",
+          "minute": 39,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Bacuna",
+          "minute": 53,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Comenencia",
+          "minute": 56,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Gaari",
+          "minute": 75,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Kastaneer",
+          "minute": 90,
+          "team": "CUR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Alcivar",
+          "in": "K. Rodriguez",
+          "minute": 46,
+          "team": "ECU"
+        },
+        {
+          "out": "P. Estupinan",
+          "in": "N. Angulo",
+          "minute": 70,
+          "team": "ECU"
+        },
+        {
+          "out": "J. Bacuna",
+          "in": "K. Gorre",
+          "minute": 75,
+          "team": "CUR"
+        },
+        {
+          "out": "D. Fonville",
+          "in": "R. van Eijma",
+          "minute": 76,
+          "team": "CUR"
+        },
+        {
+          "out": "T. Chong",
+          "in": "J. Margaritha",
+          "minute": 76,
+          "team": "CUR"
+        },
+        {
+          "out": "A. Franco",
+          "in": "A. Preciado",
+          "minute": 83,
+          "team": "ECU"
+        },
+        {
+          "out": "J. Locadia",
+          "in": "G. Kastaneer",
+          "minute": 83,
+          "team": "CUR"
+        },
+        {
+          "out": "L. Comenencia",
+          "in": "G. Roemeratoe",
+          "minute": 84,
+          "team": "CUR"
+        },
+        {
+          "out": "J. Yeboah",
+          "in": "J. Caicedo",
+          "minute": 89,
+          "team": "ECU"
+        }
+      ],
+      "stats": {
+        "passesAccurate": [
+          571,
+          154
+        ],
+        "yellow": [
+          1,
+          5
+        ],
+        "passesTotal": [
+          633,
+          220
+        ],
+        "shotsTotal": [
+          28,
+          10
+        ],
+        "fouls": [
+          7,
+          10
+        ],
+        "shotsOn": [
+          15,
+          3
+        ],
+        "offsides": [
+          1,
+          2
+        ],
+        "corners": [
+          8,
+          0
+        ],
+        "possession": [
+          75,
+          25
+        ],
+        "saves": [
+          3,
+          15
+        ],
+        "shotsOutside": [
+          6,
+          6
+        ],
+        "shotsOff": [
+          10,
+          4
+        ],
+        "shotsBlocked": [
+          3,
+          3
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          90,
+          70
+        ],
+        "shotsInside": [
+          22,
+          4
+        ],
+        "home": "ECU",
+        "away": "CUR"
+      },
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-1-4-2",
+            "coach": "Sebastian Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Hernán Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Alan Franco",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Willian Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Piero Hincapié",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jordy Alcivar",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "John Yeboah",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pedro Vite",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Moisés Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Pervis Estupiñán",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Gonzalo Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "Enner Valencia",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-4-1",
+            "coach": "Dick Advocaat",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Eloy Room",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Joshua Brenet",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jurien Gaari",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Armando Obispo",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Sherel Constancio Floranus",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Deveron Fonville",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Tahith Chong",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Livano Comenencia",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Juninho Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jürgen Locadia",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ma Ning, China",
+        "motm": {
+          "player": "Eloy Room",
+          "rating": 10.0,
+          "team": "CUR"
+        }
+      }
+    },
+    {
       "id": 31,
       "home": 2,
       "away": 2,
@@ -11646,6 +11642,20 @@
       "form": "LD"
     },
     {
+      "code": "ECU",
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "loses": 1,
+      "gf": 0,
+      "ga": 1,
+      "cleanSheets": 1,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "0-1",
+      "form": "LD"
+    },
+    {
       "code": "RSA",
       "played": 2,
       "wins": 0,
@@ -11688,18 +11698,18 @@
       "form": "DL"
     },
     {
-      "code": "ECU",
-      "played": 1,
+      "code": "CUR",
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
-      "gf": 0,
-      "ga": 1,
-      "cleanSheets": 0,
+      "gf": 1,
+      "ga": 7,
+      "cleanSheets": 1,
       "failedToScore": 1,
       "biggestWin": "",
-      "biggestLose": "0-1",
-      "form": "L"
+      "biggestLose": "1-7",
+      "form": "LD"
     },
     {
       "code": "PAN",
@@ -11839,20 +11849,6 @@
       "failedToScore": 0,
       "biggestWin": "",
       "biggestLose": "1-5",
-      "form": "L"
-    },
-    {
-      "code": "CUR",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "loses": 1,
-      "gf": 1,
-      "ga": 7,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-7",
       "form": "L"
     }
   ],
