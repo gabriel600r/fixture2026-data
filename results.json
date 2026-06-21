@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-21T20:32:36Z",
+  "updated": "2026-06-21T20:33:23Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 0,
       "redCards": [
-        "N. Ngoy (BEL) 67'"
+        "N. Ngoy (BEL) 66'"
       ],
       "cardEvents": [
         {
@@ -25,7 +25,7 @@
         },
         {
           "player": "N. Ngoy",
-          "minute": 67,
+          "minute": 66,
           "team": "BEL",
           "color": "red"
         }
