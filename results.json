@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:33:23Z",
+  "updated": "2026-06-21T20:34:10Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 0,
       "redCards": [
@@ -71,10 +71,10 @@
       "stats": {
         "shotsInside": [
           16,
-          4
+          5
         ],
         "passesAccurate": [
-          426,
+          432,
           76
         ],
         "shotsOn": [
@@ -86,28 +86,28 @@
           0
         ],
         "red": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
           17,
-          4
+          5
         ],
         "saves": [
           2,
           6
         ],
         "passesTotal": [
-          493,
+          499,
           128
         ],
         "possession": [
-          79,
-          21
+          80,
+          20
         ],
         "shotsOff": [
           5,
-          2
+          3
         ],
         "corners": [
           4,
@@ -122,11 +122,11 @@
           2
         ],
         "passesPct": [
-          86,
+          87,
           59
         ],
         "fouls": [
-          6,
+          7,
           7
         ],
         "yellow": [
@@ -269,7 +269,7 @@
         "referee": "Dario Herrera, Argentina",
         "motm": {
           "player": "Alireza Beiranvand",
-          "rating": 8.9,
+          "rating": 9.2,
           "team": "IRN"
         }
       }
