@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:52:18Z",
+  "updated": "2026-06-21T01:53:06Z",
   "live": [
     {
       "id": 28,
@@ -101,27 +101,27 @@
           "team": "ECU"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesAccurate": [
-          556,
-          152
+          565,
+          153
         ],
         "yellow": [
           1,
           4
         ],
         "passesTotal": [
-          615,
-          214
+          626,
+          217
         ],
         "shotsTotal": [
-          28,
+          29,
           10
         ],
         "fouls": [
           7,
-          9
+          10
         ],
         "shotsOn": [
           15,
@@ -132,7 +132,7 @@
           2
         ],
         "corners": [
-          7,
+          8,
           0
         ],
         "possession": [
@@ -144,11 +144,11 @@
           15
         ],
         "shotsOutside": [
-          6,
+          7,
           6
         ],
         "shotsOff": [
-          10,
+          11,
           4
         ],
         "shotsBlocked": [
