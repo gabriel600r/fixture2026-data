@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:58:13Z",
+  "updated": "2026-06-21T23:59:00Z",
   "live": [
     {
       "id": 46,
@@ -100,15 +100,15 @@
           "team": "URU"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsInside": [
           8,
           1
         ],
         "passesAccurate": [
-          409,
-          187
+          411,
+          190
         ],
         "shotsOn": [
           2,
@@ -123,7 +123,7 @@
           0
         ],
         "shotsTotal": [
-          15,
+          16,
           7
         ],
         "saves": [
@@ -131,15 +131,15 @@
           0
         ],
         "passesTotal": [
-          491,
-          251
+          494,
+          256
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOff": [
-          6,
+          7,
           4
         ],
         "corners": [
@@ -147,7 +147,7 @@
           3
         ],
         "shotsOutside": [
-          7,
+          8,
           6
         ],
         "offsides": [
@@ -156,7 +156,7 @@
         ],
         "passesPct": [
           83,
-          75
+          74
         ],
         "fouls": [
           8,
