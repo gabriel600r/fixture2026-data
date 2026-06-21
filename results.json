@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:38:04Z",
+  "updated": "2026-06-21T19:38:51Z",
   "live": [
     {
       "id": 39,
@@ -27,7 +27,7 @@
           2
         ],
         "passesAccurate": [
-          163,
+          178,
           41
         ],
         "shotsOn": [
@@ -51,12 +51,12 @@
           2
         ],
         "passesTotal": [
-          187,
+          203,
           65
         ],
         "possession": [
-          74,
-          26
+          76,
+          24
         ],
         "shotsOff": [
           3,
@@ -75,16 +75,16 @@
           2
         ],
         "passesPct": [
-          87,
+          88,
           63
         ],
         "fouls": [
           4,
-          0
+          1
         ],
         "yellow": [
           1,
-          0
+          1
         ],
         "home": "BEL",
         "away": "IRN"
