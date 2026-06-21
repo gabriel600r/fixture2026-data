@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:35:40Z",
+  "updated": "2026-06-21T17:36:27Z",
   "live": [
     {
       "id": 45,
@@ -99,7 +99,7 @@
         {
           "out": "Pedri",
           "in": "F. Ruiz",
-          "minute": 71,
+          "minute": 70,
           "team": "ESP"
         }
       ],
@@ -109,8 +109,8 @@
           0
         ],
         "passesAccurate": [
-          506,
-          174
+          511,
+          179
         ],
         "shotsOn": [
           8,
@@ -133,8 +133,8 @@
           5
         ],
         "passesTotal": [
-          551,
-          231
+          558,
+          238
         ],
         "possession": [
           71,
