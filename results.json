@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T05:22:19Z",
+  "updated": "2026-06-21T05:23:06Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 2,
       "goals": [
@@ -37,15 +37,15 @@
       ],
       "stats": {
         "passesAccurate": [
-          189,
-          366
+          198,
+          368
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          237,
+          247,
           410
         ],
         "shotsTotal": [
@@ -69,8 +69,8 @@
           3
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "saves": [
           1,
@@ -94,7 +94,7 @@
         ],
         "passesPct": [
           80,
-          89
+          90
         ],
         "shotsInside": [
           1,
@@ -235,8 +235,8 @@
         },
         "referee": "Istvan Kovacs, Romania",
         "motm": {
-          "player": "Keito Nakamura",
-          "rating": 7.6,
+          "player": "Ko Itakura",
+          "rating": 7.7,
           "team": "JPN"
         }
       }
