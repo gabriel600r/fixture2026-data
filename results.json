@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:36:09Z",
+  "updated": "2026-06-21T23:36:57Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 2,
       "away": 2,
       "goals": [
@@ -68,6 +68,18 @@
           "in": "H. Varela",
           "minute": 58,
           "team": "CPV"
+        },
+        {
+          "out": "M. Ugarte",
+          "in": "N. de la Cruz",
+          "minute": 70,
+          "team": "URU"
+        },
+        {
+          "out": "F. Vinas",
+          "in": "D. Nunez",
+          "minute": 70,
+          "team": "URU"
         }
       ],
       "stats": {
