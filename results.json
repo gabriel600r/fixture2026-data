@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:20:47Z",
+  "updated": "2026-06-21T19:21:34Z",
   "live": [
     {
       "id": 39,
@@ -17,19 +17,19 @@
       ],
       "stats": {
         "shotsInside": [
-          4,
+          5,
           2
         ],
         "passesAccurate": [
-          96,
-          34
+          122,
+          36
         ],
         "shotsOn": [
           1,
           1
         ],
         "shotsBlocked": [
-          2,
+          3,
           0
         ],
         "red": [
@@ -37,7 +37,7 @@
           0
         ],
         "shotsTotal": [
-          4,
+          5,
           2
         ],
         "saves": [
@@ -45,12 +45,12 @@
           1
         ],
         "passesTotal": [
-          108,
-          46
+          139,
+          52
         ],
         "possession": [
-          70,
-          30
+          73,
+          27
         ],
         "shotsOff": [
           1,
@@ -69,8 +69,8 @@
           1
         ],
         "passesPct": [
-          89,
-          74
+          88,
+          69
         ],
         "fouls": [
           3,
@@ -152,7 +152,7 @@
             ]
           },
           "away": {
-            "formation": "5-4-1",
+            "formation": "4-5-1",
             "coach": "Amir Ghalenoei",
             "xi": [
               {
@@ -181,11 +181,6 @@
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "Ehsan Hajsafi",
-                "pos": "D"
-              },
-              {
                 "n": 23,
                 "name": "Ramin Rezaeian",
                 "pos": "M"
@@ -193,6 +188,11 @@
               {
                 "n": 14,
                 "name": "Saman Ghoddos",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Ehsan Hajsafi",
                 "pos": "M"
               },
               {
