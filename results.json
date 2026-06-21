@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:40:53Z",
+  "updated": "2026-06-21T23:41:41Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 2,
       "away": 2,
       "goals": [
@@ -80,6 +80,12 @@
           "in": "D. Nunez",
           "minute": 70,
           "team": "URU"
+        },
+        {
+          "out": "K. Lenini",
+          "in": "L. Duarte",
+          "minute": 71,
+          "team": "CPV"
         }
       ],
       "stats": {
@@ -89,7 +95,7 @@
         ],
         "passesAccurate": [
           351,
-          150
+          154
         ],
         "shotsOn": [
           2,
@@ -112,12 +118,12 @@
           0
         ],
         "passesTotal": [
-          415,
-          202
+          417,
+          210
         ],
         "possession": [
-          68,
-          32
+          67,
+          33
         ],
         "shotsOff": [
           5,
@@ -136,8 +142,8 @@
           0
         ],
         "passesPct": [
-          85,
-          74
+          84,
+          73
         ],
         "fouls": [
           8,
