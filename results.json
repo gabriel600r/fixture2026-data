@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:36:36Z",
+  "updated": "2026-06-21T01:37:23Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -61,7 +61,7 @@
         {
           "out": "D. Fonville",
           "in": "R. van Eijma",
-          "minute": 75,
+          "minute": 76,
           "team": "CUR"
         },
         {
