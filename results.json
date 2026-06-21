@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:47:19Z",
+  "updated": "2026-06-21T22:48:06Z",
   "live": [
     {
       "id": 46,
@@ -33,22 +33,30 @@
           "color": "yellow"
         }
       ],
-      "extra": 2,
+      "subs": [
+        {
+          "out": "T. Arcanjo",
+          "in": "D. Duarte",
+          "minute": 45,
+          "team": "CPV"
+        }
+      ],
+      "extra": 3,
       "stats": {
         "shotsInside": [
-          4,
+          5,
           0
         ],
         "passesAccurate": [
-          184,
+          192,
           82
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "red": [
@@ -56,32 +64,32 @@
           0
         ],
         "shotsTotal": [
-          8,
-          1
+          10,
+          2
         ],
         "saves": [
           0,
           0
         ],
         "passesTotal": [
-          219,
-          113
+          229,
+          114
         ],
         "possession": [
-          66,
-          34
+          67,
+          33
         ],
         "shotsOff": [
           5,
-          0
+          1
         ],
         "corners": [
           4,
           1
         ],
         "shotsOutside": [
-          4,
-          1
+          5,
+          2
         ],
         "offsides": [
           2,
@@ -89,7 +97,7 @@
         ],
         "passesPct": [
           84,
-          73
+          72
         ],
         "fouls": [
           6,
