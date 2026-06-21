@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T04:32:12Z",
+  "updated": "2026-06-21T04:32:59Z",
   "live": [
     {
       "id": 34,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 0,
       "away": 2,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "A. Ueda",
           "minute": 31,
-          "team": "JPN"
+          "team": "JPN",
+          "assist": "K. Itakura"
         }
       ],
       "stats": {
