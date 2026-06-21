@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T16:30:29Z",
+  "updated": "2026-06-21T16:31:16Z",
   "live": [
     {
       "id": 45,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 3,
       "away": 0,
       "goals": [
@@ -27,14 +27,22 @@
           "assist": "D. Olmo"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "S. Al Dawsari",
+          "minute": 30,
+          "team": "KSA",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsInside": [
           7,
           0
         ],
         "passesAccurate": [
-          147,
-          44
+          159,
+          45
         ],
         "shotsOn": [
           4,
@@ -57,8 +65,8 @@
           1
         ],
         "passesTotal": [
-          162,
-          65
+          175,
+          68
         ],
         "possession": [
           73,
@@ -82,7 +90,7 @@
         ],
         "passesPct": [
           91,
-          68
+          66
         ],
         "fouls": [
           1,
