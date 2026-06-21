@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T19:41:12Z",
+  "updated": "2026-06-21T19:41:59Z",
   "live": [
     {
       "id": 39,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -52,7 +52,7 @@
         ],
         "passesTotal": [
           241,
-          69
+          68
         ],
         "possession": [
           78,
@@ -76,7 +76,7 @@
         ],
         "passesPct": [
           88,
-          61
+          62
         ],
         "fouls": [
           4,
