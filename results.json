@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-21T05:28:35Z",
+  "updated": "2026-06-21T05:29:22Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "D. Kamada",
@@ -19,6 +19,11 @@
           "minute": 31,
           "team": "JPN",
           "assist": "K. Itakura"
+        },
+        {
+          "player": "J. Ito",
+          "minute": 69,
+          "team": "JPN"
         }
       ],
       "subs": [
@@ -43,24 +48,24 @@
       ],
       "stats": {
         "passesAccurate": [
-          204,
-          395
+          213,
+          416
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          257,
-          440
+          268,
+          463
         ],
         "shotsTotal": [
           2,
-          7
+          8
         ],
         "fouls": [
           7,
-          10
+          11
         ],
         "shotsOn": [
           0,
@@ -84,7 +89,7 @@
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "shotsOff": [
           2,
@@ -92,7 +97,7 @@
         ],
         "shotsBlocked": [
           0,
-          1
+          2
         ],
         "red": [
           0,
@@ -242,7 +247,7 @@
         "referee": "Istvan Kovacs, Romania",
         "motm": {
           "player": "Ko Itakura",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "JPN"
         }
       }
