@@ -1,17 +1,22 @@
 {
-  "updated": "2026-06-21T22:44:11Z",
+  "updated": "2026-06-21T22:44:58Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
-      "minute": 44,
-      "home": 0,
+      "minute": 45,
+      "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "K. Lenini",
           "minute": 21,
           "team": "CPV"
+        },
+        {
+          "player": "M. Araujo",
+          "minute": 44,
+          "team": "URU"
         }
       ],
       "cardEvents": [
