@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T17:27:01Z",
+  "updated": "2026-06-21T17:27:48Z",
   "live": [
     {
       "id": 45,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 4,
       "away": 0,
       "goals": [
@@ -81,7 +81,7 @@
         {
           "out": "F. Al Buraikan",
           "in": "M. Abu Al Shamat",
-          "minute": 61,
+          "minute": 60,
           "team": "KSA"
         },
         {
