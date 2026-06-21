@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:47:12Z",
+  "updated": "2026-06-21T23:47:59Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 2,
       "away": 2,
       "goals": [
@@ -92,6 +92,12 @@
           "in": "Y. Semedo",
           "minute": 80,
           "team": "CPV"
+        },
+        {
+          "out": "M. Araujo",
+          "in": "B. Rodriguez",
+          "minute": 82,
+          "team": "URU"
         }
       ],
       "stats": {
