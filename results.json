@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T17:25:27Z",
+  "updated": "2026-06-21T17:26:14Z",
   "live": [
     {
       "id": 45,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 4,
       "away": 0,
       "goals": [
@@ -87,13 +87,13 @@
         {
           "out": "D. Olmo",
           "in": "M. Merino",
-          "minute": 62,
+          "minute": 61,
           "team": "ESP"
         },
         {
           "out": "A. Baena",
           "in": "N. Williams",
-          "minute": 62,
+          "minute": 61,
           "team": "ESP"
         }
       ],
@@ -103,7 +103,7 @@
           0
         ],
         "passesAccurate": [
-          462,
+          467,
           150
         ],
         "shotsOn": [
@@ -127,7 +127,7 @@
           5
         ],
         "passesTotal": [
-          504,
+          510,
           202
         ],
         "possession": [
@@ -160,7 +160,7 @@
         ],
         "yellow": [
           0,
-          1
+          2
         ],
         "home": "ESP",
         "away": "KSA"
