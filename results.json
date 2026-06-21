@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-21T04:30:39Z",
+  "updated": "2026-06-21T04:31:25Z",
   "live": [
     {
       "id": 34,
       "status": "1H",
       "minute": 31,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "D. Kamada",
           "minute": 4,
           "team": "JPN",
           "assist": "K. Nakamura"
+        },
+        {
+          "player": "A. Ueda",
+          "minute": 31,
+          "team": "JPN"
         }
       ],
       "stats": {
