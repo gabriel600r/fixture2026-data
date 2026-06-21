@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T04:46:16Z",
+  "updated": "2026-06-21T04:47:03Z",
   "live": [
     {
       "id": 34,
@@ -21,26 +21,26 @@
           "assist": "K. Itakura"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesAccurate": [
-          112,
-          222
+          117,
+          237
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          147,
-          249
+          153,
+          265
         ],
         "shotsTotal": [
           1,
           5
         ],
         "fouls": [
-          3,
+          4,
           7
         ],
         "shotsOn": [
@@ -56,8 +56,8 @@
           2
         ],
         "possession": [
-          37,
-          63
+          36,
+          64
         ],
         "saves": [
           1,
@@ -85,7 +85,7 @@
         ],
         "shotsInside": [
           0,
-          4
+          5
         ],
         "home": "TUN",
         "away": "JPN"
