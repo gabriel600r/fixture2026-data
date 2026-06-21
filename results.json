@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:48:23Z",
+  "updated": "2026-06-21T01:49:10Z",
   "live": [
     {
       "id": 28,
@@ -87,23 +87,29 @@
           "in": "G. Roemeratoe",
           "minute": 84,
           "team": "CUR"
+        },
+        {
+          "out": "J. Yeboah",
+          "in": "J. Caicedo",
+          "minute": 89,
+          "team": "ECU"
         }
       ],
       "stats": {
         "passesAccurate": [
-          515,
-          145
+          533,
+          148
         ],
         "yellow": [
           1,
           4
         ],
         "passesTotal": [
-          566,
-          204
+          590,
+          210
         ],
         "shotsTotal": [
-          27,
+          28,
           10
         ],
         "fouls": [
@@ -135,7 +141,7 @@
           6
         ],
         "shotsOff": [
-          9,
+          10,
           4
         ],
         "shotsBlocked": [
@@ -147,11 +153,11 @@
           0
         ],
         "passesPct": [
-          91,
-          71
+          90,
+          70
         ],
         "shotsInside": [
-          21,
+          22,
           4
         ],
         "home": "ECU",
