@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:48:06Z",
+  "updated": "2026-06-21T22:48:54Z",
   "live": [
     {
       "id": 46,
@@ -33,15 +33,7 @@
           "color": "yellow"
         }
       ],
-      "subs": [
-        {
-          "out": "T. Arcanjo",
-          "in": "D. Duarte",
-          "minute": 45,
-          "team": "CPV"
-        }
-      ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsInside": [
           5,
