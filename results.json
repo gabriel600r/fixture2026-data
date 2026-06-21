@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:32:40Z",
+  "updated": "2026-06-21T01:33:27Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 72,
+      "minute": 74,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -49,7 +49,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          453,
+          457,
           129
         ],
         "yellow": [
@@ -57,8 +57,8 @@
           3
         ],
         "passesTotal": [
-          502,
-          180
+          506,
+          181
         ],
         "shotsTotal": [
           21,
@@ -86,7 +86,7 @@
         ],
         "saves": [
           2,
-          11
+          12
         ],
         "shotsOutside": [
           4,
@@ -106,7 +106,7 @@
         ],
         "passesPct": [
           90,
-          72
+          71
         ],
         "shotsInside": [
           17,
@@ -243,7 +243,7 @@
         "referee": "Ma Ning, China",
         "motm": {
           "player": "Eloy Room",
-          "rating": 9.2,
+          "rating": 9.6,
           "team": "CUR"
         }
       }
