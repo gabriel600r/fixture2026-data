@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:43:40Z",
+  "updated": "2026-06-21T01:44:27Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -77,30 +77,30 @@
           "team": "ECU"
         },
         {
-          "out": "L. Comenencia",
-          "in": "G. Roemeratoe",
-          "minute": 84,
+          "out": "J. Locadia",
+          "in": "G. Kastaneer",
+          "minute": 83,
           "team": "CUR"
         },
         {
-          "out": "J. Locadia",
-          "in": "G. Kastaneer",
+          "out": "L. Comenencia",
+          "in": "G. Roemeratoe",
           "minute": 84,
           "team": "CUR"
         }
       ],
       "stats": {
         "passesAccurate": [
-          500,
-          144
+          507,
+          145
         ],
         "yellow": [
           1,
           4
         ],
         "passesTotal": [
-          551,
-          201
+          558,
+          203
         ],
         "shotsTotal": [
           27,
@@ -148,7 +148,7 @@
         ],
         "passesPct": [
           91,
-          72
+          71
         ],
         "shotsInside": [
           21,
