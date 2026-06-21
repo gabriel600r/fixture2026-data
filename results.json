@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:26:42Z",
+  "updated": "2026-06-21T23:27:29Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 2,
       "away": 2,
       "goals": [
@@ -25,7 +25,7 @@
           "assist": "M. Araujo"
         },
         {
-          "player": null,
+          "player": "H. Varela",
           "minute": 61,
           "team": "CPV"
         }
