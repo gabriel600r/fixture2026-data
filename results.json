@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:50:44Z",
+  "updated": "2026-06-21T01:51:31Z",
   "live": [
     {
       "id": 28,
@@ -95,18 +95,19 @@
           "team": "ECU"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesAccurate": [
-          533,
-          148
+          556,
+          152
         ],
         "yellow": [
           1,
           4
         ],
         "passesTotal": [
-          590,
-          210
+          615,
+          214
         ],
         "shotsTotal": [
           28,
@@ -129,8 +130,8 @@
           0
         ],
         "possession": [
-          74,
-          26
+          75,
+          25
         ],
         "saves": [
           3,
@@ -154,7 +155,7 @@
         ],
         "passesPct": [
           90,
-          70
+          71
         ],
         "shotsInside": [
           22,
