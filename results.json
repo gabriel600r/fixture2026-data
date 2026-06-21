@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-21T19:03:31Z",
+  "updated": "2026-06-21T19:04:18Z",
   "live": [
     {
       "id": 39,
       "status": "1H",
-      "minute": 3,
+      "minute": 5,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "R. Lukaku",
+          "minute": 3,
+          "team": "BEL",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsInside": [
           0,
