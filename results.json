@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:38:48Z",
+  "updated": "2026-06-21T05:39:35Z",
   "live": [
     {
       "id": 34,
@@ -56,6 +56,18 @@
           "out": "R. Doan",
           "in": "Y. Sugawara",
           "minute": 74,
+          "team": "JPN"
+        },
+        {
+          "out": "K. Nakamura",
+          "in": "Y. Suzuki",
+          "minute": 79,
+          "team": "JPN"
+        },
+        {
+          "out": "T. Tomiyasu",
+          "in": "A. Seko",
+          "minute": 79,
           "team": "JPN"
         }
       ],
