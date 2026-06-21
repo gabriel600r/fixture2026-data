@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:45:52Z",
+  "updated": "2026-06-21T05:46:39Z",
   "live": [
     {
       "id": 34,
@@ -79,7 +79,7 @@
         {
           "out": "A. Ueda",
           "in": "K. Goto",
-          "minute": 86,
+          "minute": 85,
           "team": "JPN"
         }
       ],
@@ -284,7 +284,7 @@
         "referee": "Istvan Kovacs, Romania",
         "motm": {
           "player": "Ayase Ueda",
-          "rating": 8.5,
+          "rating": 9.3,
           "team": "JPN"
         }
       }
