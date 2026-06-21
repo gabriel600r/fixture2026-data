@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:24:40Z",
+  "updated": "2026-06-21T05:25:27Z",
   "live": [
     {
       "id": 34,
@@ -32,6 +32,12 @@
           "out": "D. Bronn",
           "in": "M. Ben Hamida",
           "minute": 46,
+          "team": "TUN"
+        },
+        {
+          "out": "S. Tounekti",
+          "in": "F. Chaouat",
+          "minute": 65,
           "team": "TUN"
         }
       ],
