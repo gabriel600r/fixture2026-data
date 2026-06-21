@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:31:02Z",
+  "updated": "2026-06-21T20:31:49Z",
   "live": [
     {
       "id": 39,
       "status": "2H",
-      "minute": 65,
+      "minute": 67,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -49,6 +49,12 @@
         {
           "out": "E. Hajsafi",
           "in": "M. Mohammadi",
+          "minute": 66,
+          "team": "IRN"
+        },
+        {
+          "out": "M. Mohebi",
+          "in": "M. Torabi",
           "minute": 66,
           "team": "IRN"
         }
