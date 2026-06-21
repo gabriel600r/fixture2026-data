@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-21T22:20:37Z",
+  "updated": "2026-06-21T22:21:24Z",
   "live": [
     {
       "id": 46,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 21,
+          "team": "CPV"
+        }
+      ],
       "cardEvents": [
         {
           "player": "S. Lopes Cabral",
@@ -15,7 +22,7 @@
           "color": "yellow"
         },
         {
-          "player": "M. Ugarte",
+          "player": "R. Bentancur",
           "minute": 20,
           "team": "URU",
           "color": "yellow"
@@ -27,8 +34,8 @@
           0
         ],
         "passesAccurate": [
-          82,
-          35
+          84,
+          43
         ],
         "shotsOn": [
           0,
@@ -51,12 +58,12 @@
           0
         ],
         "passesTotal": [
-          102,
-          52
+          105,
+          63
         ],
         "possession": [
-          67,
-          33
+          63,
+          37
         ],
         "shotsOff": [
           1,
@@ -76,10 +83,10 @@
         ],
         "passesPct": [
           80,
-          67
+          68
         ],
         "fouls": [
-          2,
+          4,
           2
         ],
         "yellow": [
