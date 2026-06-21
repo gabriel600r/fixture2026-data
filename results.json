@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:59:00Z",
+  "updated": "2026-06-21T23:59:47Z",
   "live": [
     {
       "id": 46,
@@ -47,6 +47,12 @@
           "player": "M. Olivera",
           "minute": 58,
           "team": "URU",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Borges",
+          "minute": 90,
+          "team": "CPV",
           "color": "yellow"
         }
       ],
@@ -100,7 +106,7 @@
           "team": "URU"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsInside": [
           8,
