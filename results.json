@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:50:33Z",
+  "updated": "2026-06-21T05:51:21Z",
   "live": [
     {
       "id": 34,
@@ -81,6 +81,18 @@
           "in": "K. Goto",
           "minute": 84,
           "team": "JPN"
+        },
+        {
+          "out": "A. Abdi",
+          "in": "E. Achouri",
+          "minute": 90,
+          "team": "TUN"
+        },
+        {
+          "out": "E. Skhiri",
+          "in": "R. Khedira",
+          "minute": 90,
+          "team": "TUN"
         }
       ],
       "stats": {
