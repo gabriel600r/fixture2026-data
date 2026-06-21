@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-21T05:43:30Z",
+  "updated": "2026-06-21T05:44:17Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "D. Kamada",
@@ -25,6 +25,12 @@
           "minute": 69,
           "team": "JPN",
           "assist": "A. Ueda"
+        },
+        {
+          "player": "A. Ueda",
+          "minute": 84,
+          "team": "JPN",
+          "assist": "K. Sano"
         }
       ],
       "subs": [
@@ -73,16 +79,16 @@
       ],
       "stats": {
         "passesAccurate": [
-          239,
-          448
+          243,
+          456
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          299,
-          499
+          303,
+          508
         ],
         "shotsTotal": [
           2,
@@ -90,7 +96,7 @@
         ],
         "fouls": [
           7,
-          12
+          13
         ],
         "shotsOn": [
           0,
