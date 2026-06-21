@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T20:10:30Z",
+  "updated": "2026-06-21T20:11:18Z",
   "live": [
     {
       "id": 39,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -21,7 +21,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 9,
+      "subs": [
+        {
+          "out": "S. Hardani",
+          "in": "A. Jahanbakhsh",
+          "minute": 46,
+          "team": "IRN"
+        }
+      ],
       "stats": {
         "shotsInside": [
           11,
@@ -220,7 +227,12 @@
             ]
           }
         },
-        "referee": "Dario Herrera, Argentina"
+        "referee": "Dario Herrera, Argentina",
+        "motm": {
+          "player": "Alireza Beiranvand",
+          "rating": 7.9,
+          "team": "IRN"
+        }
       }
     }
   ],
