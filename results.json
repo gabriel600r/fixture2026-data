@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T16:21:06Z",
+  "updated": "2026-06-21T16:21:53Z",
   "live": [
     {
       "id": 45,
       "status": "1H",
-      "minute": 20,
-      "home": 1,
+      "minute": 21,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 10,
           "team": "ESP",
           "assist": "M. Oyarzabal"
+        },
+        {
+          "player": "M. Oyarzabal",
+          "minute": 21,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -21,11 +26,11 @@
           0
         ],
         "passesAccurate": [
-          124,
+          125,
           22
         ],
         "shotsOn": [
-          1,
+          2,
           0
         ],
         "shotsBlocked": [
@@ -37,20 +42,20 @@
           0
         ],
         "shotsTotal": [
-          7,
+          8,
           0
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          133,
-          35
+          134,
+          37
         ],
         "possession": [
-          80,
-          20
+          79,
+          21
         ],
         "shotsOff": [
           5,
@@ -61,7 +66,7 @@
           0
         ],
         "shotsOutside": [
-          4,
+          5,
           0
         ],
         "offsides": [
@@ -70,7 +75,7 @@
         ],
         "passesPct": [
           93,
-          63
+          59
         ],
         "fouls": [
           1,
