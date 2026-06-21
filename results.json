@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T17:54:31Z",
+  "updated": "2026-06-21T17:55:18Z",
   "live": [
     {
       "id": 45,
       "status": "2H",
       "minute": 90,
-      "home": 4,
+      "home": 5,
       "away": 0,
       "goals": [
         {
@@ -31,6 +31,12 @@
           "minute": 49,
           "team": "ESP",
           "og": true
+        },
+        {
+          "player": "F. Torres",
+          "minute": 90,
+          "team": "ESP",
+          "assist": "P. Porro"
         }
       ],
       "cardEvents": [
@@ -109,18 +115,18 @@
           "team": "KSA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsInside": [
-          12,
+          13,
           0
         ],
         "passesAccurate": [
-          604,
+          634,
           287
         ],
         "shotsOn": [
-          8,
+          9,
           1
         ],
         "shotsBlocked": [
@@ -132,7 +138,7 @@
           0
         ],
         "shotsTotal": [
-          21,
+          22,
           3
         ],
         "saves": [
@@ -140,7 +146,7 @@
           5
         ],
         "passesTotal": [
-          660,
+          690,
           356
         ],
         "possession": [
