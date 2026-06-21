@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T05:30:10Z",
+  "updated": "2026-06-21T05:30:57Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 3,
       "goals": [
@@ -49,20 +49,20 @@
       ],
       "stats": {
         "passesAccurate": [
-          213,
-          416
+          216,
+          429
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          268,
-          463
+          272,
+          477
         ],
         "shotsTotal": [
           2,
-          8
+          9
         ],
         "fouls": [
           7,
@@ -70,7 +70,7 @@
         ],
         "shotsOn": [
           0,
-          3
+          4
         ],
         "offsides": [
           0,
@@ -81,8 +81,8 @@
           4
         ],
         "possession": [
-          37,
-          63
+          36,
+          64
         ],
         "saves": [
           1,
@@ -110,7 +110,7 @@
         ],
         "shotsInside": [
           1,
-          5
+          6
         ],
         "home": "TUN",
         "away": "JPN"
