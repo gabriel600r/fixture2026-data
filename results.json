@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:16:07Z",
+  "updated": "2026-06-21T01:16:54Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,6 +23,12 @@
         {
           "player": "J. Bacuna",
           "minute": 53,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Comenencia",
+          "minute": 56,
           "team": "CUR",
           "color": "yellow"
         }
