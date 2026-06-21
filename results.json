@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:22:19Z",
+  "updated": "2026-06-21T17:23:06Z",
   "live": [
     {
       "id": 45,
@@ -37,6 +37,12 @@
         {
           "player": "S. Al Dawsari",
           "minute": 30,
+          "team": "KSA",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Kanno",
+          "minute": 60,
           "team": "KSA",
           "color": "yellow"
         }
