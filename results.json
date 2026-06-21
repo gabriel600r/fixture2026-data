@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:50:37Z",
+  "updated": "2026-06-21T19:51:24Z",
   "live": [
     {
       "id": 39,
@@ -159,7 +159,7 @@
             ]
           },
           "away": {
-            "formation": "4-5-1",
+            "formation": "5-4-1",
             "coach": "Amir Ghalenoei",
             "xi": [
               {
@@ -188,6 +188,11 @@
                 "pos": "D"
               },
               {
+                "n": 3,
+                "name": "Ehsan Hajsafi",
+                "pos": "D"
+              },
+              {
                 "n": 23,
                 "name": "Ramin Rezaeian",
                 "pos": "M"
@@ -195,11 +200,6 @@
               {
                 "n": 14,
                 "name": "Saman Ghoddos",
-                "pos": "M"
-              },
-              {
-                "n": 3,
-                "name": "Ehsan Hajsafi",
                 "pos": "M"
               },
               {
