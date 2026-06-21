@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:10:54Z",
+  "updated": "2026-06-21T23:11:41Z",
   "live": [
     {
       "id": 46,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 1,
       "goals": [
@@ -39,7 +39,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 9,
+      "subs": [
+        {
+          "out": "T. Arcanjo",
+          "in": "D. Duarte",
+          "minute": 46,
+          "team": "CPV"
+        }
+      ],
       "stats": {
         "shotsInside": [
           6,
@@ -238,7 +245,12 @@
             ]
           }
         },
-        "referee": "Espen Eskas, Norway"
+        "referee": "Espen Eskas, Norway",
+        "motm": {
+          "player": "Maximiliano Araújo",
+          "rating": 8.2,
+          "team": "URU"
+        }
       }
     }
   ],
