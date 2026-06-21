@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-21T05:52:08Z",
+  "updated": "2026-06-21T05:52:55Z",
   "live": [
     {
       "id": 34,
       "status": "2H",
-      "minute": 90,
+      "minute": 82,
       "home": 0,
-      "away": 4,
+      "away": 3,
       "goals": [
         {
           "player": "D. Kamada",
@@ -98,15 +98,15 @@
       "stats": {
         "passesAccurate": [
           264,
-          461
+          491
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          327,
-          516
+          328,
+          547
         ],
         "shotsTotal": [
           2,
@@ -129,8 +129,8 @@
           5
         ],
         "possession": [
-          39,
-          61
+          38,
+          62
         ],
         "saves": [
           1,
@@ -153,8 +153,8 @@
           0
         ],
         "passesPct": [
-          81,
-          89
+          80,
+          90
         ],
         "shotsInside": [
           1,
