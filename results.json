@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:57:53Z",
+  "updated": "2026-06-21T20:58:40Z",
   "live": [
     {
       "id": 39,
@@ -92,7 +92,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsInside": [
           19,
