@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T00:40:46Z",
+  "updated": "2026-06-21T00:41:33Z",
   "live": [
     {
       "id": 28,
@@ -23,24 +23,24 @@
       ],
       "stats": {
         "passesAccurate": [
-          239,
-          73
+          244,
+          75
         ],
         "yellow": [
-          0,
-          0
+          1,
+          1
         ],
         "passesTotal": [
-          270,
-          98
+          278,
+          102
         ],
         "shotsTotal": [
           7,
           4
         ],
         "fouls": [
-          3,
-          2
+          4,
+          3
         ],
         "shotsOn": [
           5,
@@ -79,7 +79,7 @@
           0
         ],
         "passesPct": [
-          89,
+          88,
           74
         ],
         "shotsInside": [
