@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T16:24:13Z",
+  "updated": "2026-06-21T16:25:01Z",
   "live": [
     {
       "id": 45,
       "status": "1H",
-      "minute": 23,
-      "home": 2,
+      "minute": 24,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -19,6 +19,12 @@
           "minute": 21,
           "team": "ESP",
           "assist": "A. Laporte"
+        },
+        {
+          "player": "M. Oyarzabal",
+          "minute": 24,
+          "team": "ESP",
+          "assist": "D. Olmo"
         }
       ],
       "stats": {
