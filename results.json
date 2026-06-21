@@ -1,20 +1,12 @@
 {
-  "updated": "2026-06-21T19:27:03Z",
+  "updated": "2026-06-21T19:27:50Z",
   "live": [
     {
       "id": 39,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "M. Taremi",
-          "minute": 25,
-          "team": "IRN",
-          "assist": "E. Hajsafi"
-        }
-      ],
+      "away": 0,
       "cardEvents": [
         {
           "player": "R. Lukaku",
