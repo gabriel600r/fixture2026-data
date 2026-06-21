@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:35:49Z",
+  "updated": "2026-06-21T01:36:36Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -62,6 +62,12 @@
           "out": "D. Fonville",
           "in": "R. van Eijma",
           "minute": 75,
+          "team": "CUR"
+        },
+        {
+          "out": "T. Chong",
+          "in": "J. Margaritha",
+          "minute": 76,
           "team": "CUR"
         }
       ],
@@ -261,7 +267,7 @@
         "referee": "Ma Ning, China",
         "motm": {
           "player": "Eloy Room",
-          "rating": 9.6,
+          "rating": 10.0,
           "team": "CUR"
         }
       }
