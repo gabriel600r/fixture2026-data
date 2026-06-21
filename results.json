@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:59:14Z",
+  "updated": "2026-06-21T18:00:12Z",
   "live": [
     {
       "id": 45,
@@ -109,7 +109,7 @@
           "team": "KSA"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsInside": [
           13,
