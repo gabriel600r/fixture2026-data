@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:31:49Z",
+  "updated": "2026-06-21T20:32:36Z",
   "live": [
     {
       "id": 39,
@@ -7,6 +7,9 @@
       "minute": 67,
       "home": 0,
       "away": 0,
+      "redCards": [
+        "N. Ngoy (BEL) 67'"
+      ],
       "cardEvents": [
         {
           "player": "R. Lukaku",
@@ -19,6 +22,12 @@
           "minute": 33,
           "team": "IRN",
           "color": "yellow"
+        },
+        {
+          "player": "N. Ngoy",
+          "minute": 67,
+          "team": "BEL",
+          "color": "red"
         }
       ],
       "subs": [
@@ -61,12 +70,12 @@
       ],
       "stats": {
         "shotsInside": [
-          15,
+          16,
           4
         ],
         "passesAccurate": [
-          410,
-          69
+          426,
+          76
         ],
         "shotsOn": [
           6,
@@ -81,7 +90,7 @@
           0
         ],
         "shotsTotal": [
-          16,
+          17,
           4
         ],
         "saves": [
@@ -89,20 +98,20 @@
           6
         ],
         "passesTotal": [
-          477,
-          118
+          493,
+          128
         ],
         "possession": [
-          80,
-          20
+          79,
+          21
         ],
         "shotsOff": [
-          4,
+          5,
           2
         ],
         "corners": [
           4,
-          1
+          2
         ],
         "shotsOutside": [
           1,
@@ -114,11 +123,11 @@
         ],
         "passesPct": [
           86,
-          58
+          59
         ],
         "fouls": [
           6,
-          6
+          7
         ],
         "yellow": [
           1,
