@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:51:31Z",
+  "updated": "2026-06-21T01:52:18Z",
   "live": [
     {
       "id": 28,
@@ -35,6 +35,12 @@
         {
           "player": "J. Gaari",
           "minute": 75,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Kastaneer",
+          "minute": 90,
           "team": "CUR",
           "color": "yellow"
         }
@@ -95,7 +101,7 @@
           "team": "ECU"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesAccurate": [
           556,
