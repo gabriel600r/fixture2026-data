@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T01:30:18Z",
+  "updated": "2026-06-21T01:31:06Z",
   "live": [
     {
       "id": 28,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -39,11 +39,17 @@
           "in": "K. Rodriguez",
           "minute": 46,
           "team": "ECU"
+        },
+        {
+          "out": "P. Estupinan",
+          "in": "N. Angulo",
+          "minute": 71,
+          "team": "ECU"
         }
       ],
       "stats": {
         "passesAccurate": [
-          454,
+          453,
           129
         ],
         "yellow": [
@@ -51,19 +57,19 @@
           3
         ],
         "passesTotal": [
-          503,
+          502,
           180
         ],
         "shotsTotal": [
-          19,
+          21,
           9
         ],
         "fouls": [
-          6,
+          7,
           8
         ],
         "shotsOn": [
-          11,
+          12,
           2
         ],
         "offsides": [
@@ -87,7 +93,7 @@
           5
         ],
         "shotsOff": [
-          7,
+          8,
           4
         ],
         "shotsBlocked": [
@@ -103,7 +109,7 @@
           72
         ],
         "shotsInside": [
-          15,
+          17,
           4
         ],
         "home": "ECU",
