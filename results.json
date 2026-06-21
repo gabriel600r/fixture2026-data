@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T00:37:38Z",
+  "updated": "2026-06-21T00:38:25Z",
   "live": [
     {
       "id": 28,
@@ -7,6 +7,14 @@
       "minute": 38,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "J. Alcivar",
+          "minute": 38,
+          "team": "ECU",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesAccurate": [
           209,
