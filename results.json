@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-21T23:25:54Z",
+  "updated": "2026-06-21T23:26:42Z",
   "live": [
     {
       "id": 46,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "K. Lenini",
@@ -23,6 +23,11 @@
           "minute": 45,
           "team": "URU",
           "assist": "M. Araujo"
+        },
+        {
+          "player": null,
+          "minute": 61,
+          "team": "CPV"
         }
       ],
       "cardEvents": [
@@ -80,7 +85,7 @@
         ],
         "shotsBlocked": [
           4,
-          0
+          1
         ],
         "red": [
           0,
@@ -88,7 +93,7 @@
         ],
         "shotsTotal": [
           11,
-          3
+          4
         ],
         "saves": [
           0,
@@ -96,7 +101,7 @@
         ],
         "passesTotal": [
           369,
-          196
+          197
         ],
         "possession": [
           66,
@@ -112,7 +117,7 @@
         ],
         "shotsOutside": [
           5,
-          3
+          4
         ],
         "offsides": [
           2,
@@ -124,10 +129,10 @@
         ],
         "fouls": [
           8,
-          2
+          3
         ],
         "yellow": [
-          1,
+          2,
           1
         ],
         "home": "URU",
@@ -266,7 +271,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Maximiliano Araújo",
-          "rating": 8.0,
+          "rating": 8.2,
           "team": "URU"
         }
       }
