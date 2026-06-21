@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:33:18Z",
+  "updated": "2026-06-21T17:34:06Z",
   "live": [
     {
       "id": 45,
@@ -94,6 +94,12 @@
           "out": "A. Baena",
           "in": "N. Williams",
           "minute": 61,
+          "team": "ESP"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 71,
           "team": "ESP"
         }
       ],
