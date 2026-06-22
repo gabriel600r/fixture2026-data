@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:46:05Z",
+  "updated": "2026-06-22T02:46:53Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 1,
       "away": 3,
       "goals": [
@@ -95,6 +95,24 @@
           "in": "H. Abdelmaguid",
           "minute": 85,
           "team": "EGY"
+        },
+        {
+          "out": "E. Ashour",
+          "in": "Zizo",
+          "minute": 86,
+          "team": "EGY"
+        },
+        {
+          "out": "T. Payne",
+          "in": "T. Bindon",
+          "minute": 86,
+          "team": "NZL"
+        },
+        {
+          "out": "E. Just",
+          "in": "F. De Vries",
+          "minute": 86,
+          "team": "NZL"
         }
       ],
       "stats": {
