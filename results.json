@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T21:20:52Z",
+  "updated": "2026-06-22T21:21:39Z",
   "live": [
     {
       "id": 51,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 1,
       "away": 0,
       "goals": [
@@ -25,7 +25,7 @@
       ],
       "stats": {
         "fouls": [
-          1,
+          2,
           1
         ],
         "shotsOff": [
@@ -41,8 +41,8 @@
           1
         ],
         "passesPct": [
-          89,
-          77
+          88,
+          79
         ],
         "shotsInside": [
           1,
@@ -53,8 +53,8 @@
           0
         ],
         "passesAccurate": [
-          114,
-          53
+          123,
+          64
         ],
         "shotsOutside": [
           4,
@@ -65,8 +65,8 @@
           0
         ],
         "passesTotal": [
-          128,
-          69
+          139,
+          81
         ],
         "shotsOn": [
           1,
@@ -81,8 +81,8 @@
           0
         ],
         "possession": [
-          66,
-          34
+          64,
+          36
         ],
         "saves": [
           0,
@@ -138,13 +138,13 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Michael Olise",
+                "n": 7,
+                "name": "Ousmane Dembélé",
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Ousmane Dembélé",
+                "n": 11,
+                "name": "Michael Olise",
                 "pos": "M"
               },
               {
@@ -160,7 +160,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Graham Arnold",
             "xi": [
               {
@@ -189,18 +189,13 @@
                 "pos": "D"
               },
               {
-                "n": 16,
-                "name": "Amir Al-Ammari",
-                "pos": "M"
-              },
-              {
                 "n": 24,
                 "name": "Zaid Ismail",
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Ibrahim Bayesh",
+                "n": 16,
+                "name": "Amir Al-Ammari",
                 "pos": "M"
               },
               {
@@ -211,11 +206,16 @@
               {
                 "n": 11,
                 "name": "Ahmed Qasem",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 18,
                 "name": "Aymen Hussein",
+                "pos": "F"
+              },
+              {
+                "n": 8,
+                "name": "Ibrahim Bayesh",
                 "pos": "F"
               }
             ]
