@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-22T03:01:57Z",
+  "updated": "2026-06-22T16:00:06Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 57,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Nahuel Molina",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Facundo Medina",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Thiago Almada",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Lautaro Martínez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kevin Danso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Wanner",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Gregoritsch",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Amin Mohamed Omar, Egypt"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
