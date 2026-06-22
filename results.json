@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T21:35:48Z",
+  "updated": "2026-06-22T21:36:35Z",
   "live": [
     {
       "id": 51,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 1,
       "away": 0,
       "goals": [
@@ -49,8 +49,8 @@
           1
         ],
         "passesPct": [
-          88,
-          79
+          89,
+          78
         ],
         "shotsInside": [
           1,
@@ -61,11 +61,11 @@
           0
         ],
         "passesAccurate": [
-          182,
-          100
+          200,
+          102
         ],
         "shotsOutside": [
-          4,
+          5,
           1
         ],
         "corners": [
@@ -73,24 +73,24 @@
           1
         ],
         "passesTotal": [
-          206,
-          127
+          225,
+          131
         ],
         "shotsOn": [
           1,
           0
         ],
         "shotsBlocked": [
-          2,
+          3,
           1
         ],
         "shotsTotal": [
-          5,
+          6,
           2
         ],
         "possession": [
-          62,
-          38
+          64,
+          36
         ],
         "saves": [
           0,
@@ -168,7 +168,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-1-4-1",
             "coach": "Graham Arnold",
             "xi": [
               {
@@ -197,13 +197,18 @@
                 "pos": "D"
               },
               {
-                "n": 24,
-                "name": "Zaid Ismail",
+                "n": 16,
+                "name": "Amir Al-Ammari",
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "Amir Al-Ammari",
+                "n": 11,
+                "name": "Ahmed Qasem",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Zaid Ismail",
                 "pos": "M"
               },
               {
@@ -212,18 +217,13 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Ahmed Qasem",
-                "pos": "F"
+                "n": 8,
+                "name": "Ibrahim Bayesh",
+                "pos": "M"
               },
               {
                 "n": 18,
                 "name": "Aymen Hussein",
-                "pos": "F"
-              },
-              {
-                "n": 8,
-                "name": "Ibrahim Bayesh",
                 "pos": "F"
               }
             ]
