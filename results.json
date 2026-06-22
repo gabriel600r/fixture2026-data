@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T17:41:59Z",
+  "updated": "2026-06-22T17:42:46Z",
   "live": [
     {
       "id": 57,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 1,
       "away": 0,
       "goals": [
@@ -18,7 +18,7 @@
       "cardEvents": [
         {
           "player": "S. Posch",
-          "minute": 41,
+          "minute": 40,
           "team": "AUT",
           "color": "yellow"
         }
