@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-22T21:06:39Z",
+  "updated": "2026-06-22T21:07:27Z",
   "live": [
     {
       "id": 51,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "A. Al Ammari",
+          "minute": 6,
+          "team": "IRQ",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "fouls": [
           1,
