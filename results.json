@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:59:29Z",
+  "updated": "2026-06-22T03:00:19Z",
   "live": [
     {
       "id": 40,
@@ -113,9 +113,15 @@
           "in": "Francis De Vries",
           "minute": 85,
           "team": "NZL"
+        },
+        {
+          "out": "Hossam Abdelmaguid",
+          "in": "Mohamed Abdelmoneim",
+          "minute": 99,
+          "team": "EGY"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "shotsOn": [
           5,
