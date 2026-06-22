@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T01:15:34Z",
+  "updated": "2026-06-22T01:16:21Z",
   "live": [
     {
       "id": 40,
@@ -11,20 +11,21 @@
         {
           "player": "F. Surman",
           "minute": 15,
-          "team": "NZL"
+          "team": "NZL",
+          "assist": "T. Payne"
         }
       ],
       "stats": {
         "shotsInside": [
-          0,
+          1,
           0
         ],
         "passesAccurate": [
-          69,
-          80
+          79,
+          87
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "shotsBlocked": [
@@ -36,16 +37,16 @@
           0
         ],
         "shotsTotal": [
-          1,
+          2,
           1
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          84,
-          88
+          94,
+          98
         ],
         "possession": [
           50,
@@ -68,12 +69,12 @@
           0
         ],
         "passesPct": [
-          82,
-          91
+          84,
+          89
         ],
         "fouls": [
           3,
-          0
+          1
         ],
         "yellow": [
           0,
