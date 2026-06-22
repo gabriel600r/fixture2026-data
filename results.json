@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:43:43Z",
+  "updated": "2026-06-22T02:44:30Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 3,
       "goals": [
@@ -29,7 +29,8 @@
         {
           "player": "Trezeguet",
           "minute": 82,
-          "team": "EGY"
+          "team": "EGY",
+          "assist": "M. Salah"
         }
       ],
       "cardEvents": [
@@ -93,15 +94,15 @@
       "stats": {
         "shotsInside": [
           5,
-          9
+          11
         ],
         "passesAccurate": [
-          273,
-          438
+          279,
+          439
         ],
         "shotsOn": [
           4,
-          5
+          6
         ],
         "shotsBlocked": [
           3,
@@ -113,15 +114,15 @@
         ],
         "shotsTotal": [
           9,
-          17
+          18
         ],
         "saves": [
           3,
           3
         ],
         "passesTotal": [
-          335,
-          490
+          344,
+          492
         ],
         "possession": [
           41,
@@ -133,11 +134,11 @@
         ],
         "corners": [
           2,
-          2
+          3
         ],
         "shotsOutside": [
           4,
-          8
+          7
         ],
         "offsides": [
           2,
@@ -149,7 +150,7 @@
         ],
         "fouls": [
           13,
-          7
+          8
         ],
         "yellow": [
           2,
