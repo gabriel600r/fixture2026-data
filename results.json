@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:54:17Z",
+  "updated": "2026-06-22T18:55:05Z",
   "live": [
     {
       "id": 57,
@@ -97,9 +97,10 @@
           "team": "AUT"
         }
       ],
+      "extra": 1,
       "stats": {
         "fouls": [
-          10,
+          11,
           11
         ],
         "shotsOff": [
@@ -115,7 +116,7 @@
           2
         ],
         "passesPct": [
-          90,
+          89,
           85
         ],
         "shotsInside": [
@@ -127,8 +128,8 @@
           0
         ],
         "passesAccurate": [
-          461,
-          375
+          466,
+          382
         ],
         "shotsOutside": [
           1,
@@ -139,8 +140,8 @@
           3
         ],
         "passesTotal": [
-          515,
-          439
+          522,
+          447
         ],
         "shotsOn": [
           2,
