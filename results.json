@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:09:04Z",
+  "updated": "2026-06-22T02:09:52Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 1,
       "away": 0,
       "goals": [
@@ -243,7 +243,7 @@
         },
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
-          "player": "Finn Surman",
+          "player": "Max Crocombe",
           "rating": 7.3,
           "team": "NZL"
         }
