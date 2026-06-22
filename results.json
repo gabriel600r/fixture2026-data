@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:45:36Z",
+  "updated": "2026-06-22T18:46:24Z",
   "live": [
     {
       "id": 57,
@@ -77,6 +77,18 @@
           "in": "P. Wimmer",
           "minute": 78,
           "team": "AUT"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Paredes",
+          "minute": 82,
+          "team": "ARG"
+        },
+        {
+          "out": "F. Medina",
+          "in": "N. Tagliafico",
+          "minute": 82,
+          "team": "ARG"
         }
       ],
       "stats": {
