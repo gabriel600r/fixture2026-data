@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:45:18Z",
+  "updated": "2026-06-22T02:46:05Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 3,
       "goals": [
@@ -88,6 +88,12 @@
           "out": "M. Ziko",
           "in": "H. Abdelkarim",
           "minute": 76,
+          "team": "EGY"
+        },
+        {
+          "out": "M. Salah",
+          "in": "H. Abdelmaguid",
+          "minute": 85,
           "team": "EGY"
         }
       ],
@@ -291,8 +297,8 @@
         },
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
-          "player": "Mostafa Ziko",
-          "rating": 8.0,
+          "player": "Mohamed Salah",
+          "rating": 8.5,
           "team": "EGY"
         }
       }
