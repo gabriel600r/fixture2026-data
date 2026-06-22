@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:05:08Z",
+  "updated": "2026-06-22T02:05:55Z",
   "live": [
     {
       "id": 40,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -43,7 +43,6 @@
           "team": "EGY"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsInside": [
           4,
@@ -242,7 +241,12 @@
             ]
           }
         },
-        "referee": "Omar Mohamed Al Ali, United Arab Emirates"
+        "referee": "Omar Mohamed Al Ali, United Arab Emirates",
+        "motm": {
+          "player": "Finn Surman",
+          "rating": 7.7,
+          "team": "NZL"
+        }
       }
     }
   ],
