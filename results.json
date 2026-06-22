@@ -1,18 +1,24 @@
 {
-  "updated": "2026-06-22T02:18:32Z",
+  "updated": "2026-06-22T02:19:20Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "F. Surman",
           "minute": 15,
           "team": "NZL",
           "assist": "T. Payne"
+        },
+        {
+          "player": "M. Ziko",
+          "minute": 58,
+          "team": "EGY",
+          "assist": "M. Hany"
         }
       ],
       "cardEvents": [
