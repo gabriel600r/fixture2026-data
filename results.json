@@ -1,321 +1,6 @@
 {
-  "updated": "2026-06-22T19:02:12Z",
-  "live": [
-    {
-      "id": 57,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 0,
-      "goals": [
-        {
-          "player": "L. Messi",
-          "minute": 38,
-          "team": "ARG",
-          "assist": "F. Medina"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 90,
-          "team": "ARG"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "S. Posch",
-          "minute": 40,
-          "team": "AUT",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Medina",
-          "minute": 76,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "K. Laimer",
-          "minute": 76,
-          "team": "AUT",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Paredes",
-          "minute": 90,
-          "team": "ARG",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "C. Romero",
-          "in": "N. Otamendi",
-          "minute": 57,
-          "team": "ARG"
-        },
-        {
-          "out": "T. Almada",
-          "in": "J. Alvarez",
-          "minute": 64,
-          "team": "ARG"
-        },
-        {
-          "out": "L. Martinez",
-          "in": "N. Gonzalez",
-          "minute": 65,
-          "team": "ARG"
-        },
-        {
-          "out": "D. Alaba",
-          "in": "M. Friedl",
-          "minute": 67,
-          "team": "AUT"
-        },
-        {
-          "out": "S. Posch",
-          "in": "A. Prass",
-          "minute": 68,
-          "team": "AUT"
-        },
-        {
-          "out": "P. Wanner",
-          "in": "M. Arnautovic",
-          "minute": 68,
-          "team": "AUT"
-        },
-        {
-          "out": "R. Schmid",
-          "in": "P. Wimmer",
-          "minute": 78,
-          "team": "AUT"
-        },
-        {
-          "out": "R. de Paul",
-          "in": "L. Paredes",
-          "minute": 82,
-          "team": "ARG"
-        },
-        {
-          "out": "F. Medina",
-          "in": "N. Tagliafico",
-          "minute": 82,
-          "team": "ARG"
-        },
-        {
-          "out": "M. Gregoritsch",
-          "in": "C. Chukwuemeka",
-          "minute": 85,
-          "team": "AUT"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "fouls": [
-          13,
-          12
-        ],
-        "shotsOff": [
-          3,
-          5
-        ],
-        "offsides": [
-          2,
-          0
-        ],
-        "yellow": [
-          2,
-          2
-        ],
-        "passesPct": [
-          90,
-          86
-        ],
-        "shotsInside": [
-          7,
-          4
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          491,
-          392
-        ],
-        "shotsOutside": [
-          1,
-          2
-        ],
-        "corners": [
-          1,
-          3
-        ],
-        "passesTotal": [
-          548,
-          457
-        ],
-        "shotsOn": [
-          2,
-          1
-        ],
-        "shotsBlocked": [
-          3,
-          0
-        ],
-        "shotsTotal": [
-          8,
-          6
-        ],
-        "possession": [
-          54,
-          46
-        ],
-        "saves": [
-          1,
-          1
-        ],
-        "home": "ARG",
-        "away": "AUT"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Lionel Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Emiliano Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Nahuel Molina",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Cristian Romero",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Lisandro Martínez",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Facundo Medina",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "Rodrigo De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Alexis Mac Allister",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Enzo Fernández",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Thiago Almada",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Lionel Messi",
-                "pos": "F"
-              },
-              {
-                "n": 22,
-                "name": "Lautaro Martínez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Ralf Rangnick",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alexander Schlager",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Stefan Posch",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kevin Danso",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "David Alaba",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Konrad Laimer",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Nicolas Seiwald",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Xaver Schlager",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Romano Schmid",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Paul Wanner",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Marcel Sabitzer",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Michael Gregoritsch",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Amin Mohamed Omar, Egypt",
-        "motm": {
-          "player": "David Alaba",
-          "rating": 7.9,
-          "team": "AUT"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-22T19:02:58Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -11319,6 +11004,317 @@
       }
     },
     {
+      "id": 57,
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {
+          "player": "L. Messi",
+          "minute": 38,
+          "team": "ARG",
+          "assist": "F. Medina"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 90,
+          "team": "ARG"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "S. Posch",
+          "minute": 40,
+          "team": "AUT",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Medina",
+          "minute": 76,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Laimer",
+          "minute": 76,
+          "team": "AUT",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Paredes",
+          "minute": 90,
+          "team": "ARG",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 57,
+          "team": "ARG"
+        },
+        {
+          "out": "T. Almada",
+          "in": "J. Alvarez",
+          "minute": 64,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "N. Gonzalez",
+          "minute": 65,
+          "team": "ARG"
+        },
+        {
+          "out": "D. Alaba",
+          "in": "M. Friedl",
+          "minute": 67,
+          "team": "AUT"
+        },
+        {
+          "out": "S. Posch",
+          "in": "A. Prass",
+          "minute": 68,
+          "team": "AUT"
+        },
+        {
+          "out": "P. Wanner",
+          "in": "M. Arnautovic",
+          "minute": 68,
+          "team": "AUT"
+        },
+        {
+          "out": "R. Schmid",
+          "in": "P. Wimmer",
+          "minute": 78,
+          "team": "AUT"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Paredes",
+          "minute": 82,
+          "team": "ARG"
+        },
+        {
+          "out": "F. Medina",
+          "in": "N. Tagliafico",
+          "minute": 82,
+          "team": "ARG"
+        },
+        {
+          "out": "M. Gregoritsch",
+          "in": "C. Chukwuemeka",
+          "minute": 85,
+          "team": "AUT"
+        }
+      ],
+      "stats": {
+        "fouls": [
+          13,
+          12
+        ],
+        "shotsOff": [
+          3,
+          5
+        ],
+        "offsides": [
+          2,
+          0
+        ],
+        "yellow": [
+          2,
+          2
+        ],
+        "passesPct": [
+          90,
+          86
+        ],
+        "shotsInside": [
+          7,
+          4
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          491,
+          392
+        ],
+        "shotsOutside": [
+          1,
+          2
+        ],
+        "corners": [
+          1,
+          3
+        ],
+        "passesTotal": [
+          548,
+          457
+        ],
+        "shotsOn": [
+          2,
+          1
+        ],
+        "shotsBlocked": [
+          3,
+          0
+        ],
+        "shotsTotal": [
+          8,
+          6
+        ],
+        "possession": [
+          54,
+          46
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "home": "ARG",
+        "away": "AUT"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Nahuel Molina",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Facundo Medina",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Thiago Almada",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Lautaro Martínez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kevin Danso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Wanner",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Gregoritsch",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Amin Mohamed Omar, Egypt",
+        "motm": {
+          "player": "David Alaba",
+          "rating": 7.9,
+          "team": "AUT"
+        }
+      }
+    },
+    {
       "id": 61,
       "home": 1,
       "away": 1,
@@ -12528,6 +12524,11 @@
   "stats": {
     "scorers": [
       {
+        "player": "L. Messi",
+        "team": "ARG",
+        "goals": 5
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -12536,11 +12537,6 @@
       {
         "player": "J. David",
         "team": "CAN",
-        "goals": 3
-      },
-      {
-        "player": "L. Messi",
-        "team": "ARG",
         "goals": 3
       },
       {
@@ -12840,15 +12836,15 @@
         "assists": 1
       },
       {
+        "player": "F. Medina",
+        "team": "ARG",
+        "assists": 1
+      },
+      {
         "player": "F. Nmecha",
         "team": "GER",
         "assists": 1,
         "goals": 1
-      },
-      {
-        "player": "F. Wirtz",
-        "team": "GER",
-        "assists": 1
       }
     ],
     "cards": [
@@ -13064,6 +13060,20 @@
       "form": "WW"
     },
     {
+      "code": "ARG",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "loses": 0,
+      "gf": 5,
+      "ga": 0,
+      "cleanSheets": 2,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WW"
+    },
+    {
       "code": "MEX",
       "played": 2,
       "wins": 2,
@@ -13204,35 +13214,7 @@
       "form": "W"
     },
     {
-      "code": "ARG",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 3,
-      "ga": 0,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "W"
-    },
-    {
       "code": "FRA",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 3,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "3-1",
-      "biggestLose": "",
-      "form": "W"
-    },
-    {
-      "code": "AUT",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -13355,6 +13337,20 @@
       "failedToScore": 0,
       "biggestWin": "5-1",
       "biggestLose": "1-5",
+      "form": "WL"
+    },
+    {
+      "code": "AUT",
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "loses": 1,
+      "gf": 3,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "3-1",
+      "biggestLose": "0-2",
       "form": "WL"
     },
     {
