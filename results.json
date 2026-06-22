@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-22T02:41:22Z",
+  "updated": "2026-06-22T02:42:09Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "F. Surman",
@@ -25,6 +25,11 @@
           "minute": 67,
           "team": "EGY",
           "assist": "M. Ziko"
+        },
+        {
+          "player": "Trezeguet",
+          "minute": 82,
+          "team": "EGY"
         }
       ],
       "cardEvents": [
