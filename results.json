@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:35:52Z",
+  "updated": "2026-06-22T02:36:39Z",
   "live": [
     {
       "id": 40,
@@ -59,6 +59,24 @@
           "in": "B. Old",
           "minute": 66,
           "team": "NZL"
+        },
+        {
+          "out": "S. Singh",
+          "in": "R. Thomas",
+          "minute": 76,
+          "team": "NZL"
+        },
+        {
+          "out": "L. Cacace",
+          "in": "J. Randall",
+          "minute": 76,
+          "team": "NZL"
+        },
+        {
+          "out": "O. Marmoush",
+          "in": "Trezeguet",
+          "minute": 76,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -261,8 +279,8 @@
         },
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
-          "player": "Mostafa Ziko",
-          "rating": 8.0,
+          "player": "Mohamed Salah",
+          "rating": 8.2,
           "team": "EGY"
         }
       }
