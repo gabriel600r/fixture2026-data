@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T21:25:35Z",
+  "updated": "2026-06-22T21:26:22Z",
   "live": [
     {
       "id": 51,
@@ -21,6 +21,14 @@
           "minute": 6,
           "team": "IRQ",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Hussein",
+          "in": "A. Al Hamadi",
+          "minute": 26,
+          "team": "IRQ"
         }
       ],
       "stats": {
