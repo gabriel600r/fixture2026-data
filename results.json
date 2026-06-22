@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:47:40Z",
+  "updated": "2026-06-22T02:48:27Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 1,
       "away": 3,
       "goals": [
@@ -316,7 +316,7 @@
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
           "player": "Mohamed Salah",
-          "rating": 8.5,
+          "rating": 8.7,
           "team": "EGY"
         }
       }
