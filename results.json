@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:28:55Z",
+  "updated": "2026-06-22T18:29:42Z",
   "live": [
     {
       "id": 57,
@@ -35,6 +35,12 @@
           "in": "J. Alvarez",
           "minute": 64,
           "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "N. Gonzalez",
+          "minute": 65,
+          "team": "ARG"
         }
       ],
       "stats": {
@@ -67,11 +73,11 @@
           0
         ],
         "passesAccurate": [
-          358,
+          391,
           246
         ],
         "shotsOutside": [
-          0,
+          1,
           2
         ],
         "corners": [
@@ -79,7 +85,7 @@
           2
         ],
         "passesTotal": [
-          400,
+          434,
           297
         ],
         "shotsOn": [
@@ -87,16 +93,16 @@
           1
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
-          3,
+          4,
           4
         ],
         "possession": [
-          57,
-          43
+          59,
+          41
         ],
         "saves": [
           1,
