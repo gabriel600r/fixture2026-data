@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:44:02Z",
+  "updated": "2026-06-22T18:44:49Z",
   "live": [
     {
       "id": 57,
@@ -75,7 +75,7 @@
         {
           "out": "R. Schmid",
           "in": "P. Wimmer",
-          "minute": 79,
+          "minute": 78,
           "team": "AUT"
         }
       ],
@@ -97,7 +97,7 @@
           2
         ],
         "passesPct": [
-          89,
+          90,
           84
         ],
         "shotsInside": [
@@ -109,8 +109,8 @@
           0
         ],
         "passesAccurate": [
-          430,
-          288
+          440,
+          300
         ],
         "shotsOutside": [
           1,
@@ -121,8 +121,8 @@
           2
         ],
         "passesTotal": [
-          481,
-          344
+          491,
+          358
         ],
         "shotsOn": [
           2,
@@ -137,8 +137,8 @@
           5
         ],
         "possession": [
-          58,
-          42
+          57,
+          43
         ],
         "saves": [
           1,
