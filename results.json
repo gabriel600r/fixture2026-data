@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T17:52:14Z",
+  "updated": "2026-06-22T17:53:01Z",
   "live": [
     {
       "id": 57,
@@ -23,7 +23,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "fouls": [
           8,
