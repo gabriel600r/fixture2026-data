@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T01:20:17Z",
+  "updated": "2026-06-22T01:21:04Z",
   "live": [
     {
       "id": 40,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 1,
       "away": 0,
       "goals": [
@@ -35,8 +35,8 @@
           0
         ],
         "passesAccurate": [
-          86,
-          97
+          91,
+          98
         ],
         "shotsOn": [
           2,
@@ -59,12 +59,12 @@
           1
         ],
         "passesTotal": [
-          102,
-          109
+          107,
+          111
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "shotsOff": [
           1,
@@ -83,16 +83,16 @@
           0
         ],
         "passesPct": [
-          84,
-          89
+          85,
+          88
         ],
         "fouls": [
           3,
-          1
+          2
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "home": "NZL",
         "away": "EGY"
