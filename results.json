@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T00:01:27Z",
+  "updated": "2026-06-22T00:02:15Z",
   "live": [
     {
       "id": 46,
@@ -106,7 +106,7 @@
           "team": "URU"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsInside": [
           8,
