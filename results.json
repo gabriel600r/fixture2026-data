@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T01:42:16Z",
+  "updated": "2026-06-22T01:43:03Z",
   "live": [
     {
       "id": 40,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 1,
       "away": 0,
       "goals": [
@@ -39,7 +39,7 @@
         {
           "out": "H. Fathy",
           "in": "R. Rabia",
-          "minute": 42,
+          "minute": 41,
           "team": "EGY"
         }
       ],
