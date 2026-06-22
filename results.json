@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:37:26Z",
+  "updated": "2026-06-22T02:38:13Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 2,
       "goals": [
@@ -75,6 +75,12 @@
         {
           "out": "O. Marmoush",
           "in": "Trezeguet",
+          "minute": 76,
+          "team": "EGY"
+        },
+        {
+          "out": "M. Ziko",
+          "in": "H. Abdelkarim",
           "minute": 76,
           "team": "EGY"
         }
