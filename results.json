@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-22T21:15:22Z",
+  "updated": "2026-06-22T21:16:09Z",
   "live": [
     {
       "id": 51,
       "status": "1H",
-      "minute": 14,
+      "minute": 16,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "K. Mbappe",
           "minute": 14,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "cardEvents": [
