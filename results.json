@@ -1,41 +1,46 @@
 {
-  "updated": "2026-06-22T02:27:59Z",
+  "updated": "2026-06-22T02:28:47Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 2,
       "goals": [
         {
-          "player": "Finn Surman",
+          "player": "F. Surman",
           "minute": 15,
           "team": "NZL",
-          "assist": "Tim Payne"
+          "assist": "T. Payne"
         },
         {
-          "player": "Mostafa Zico",
+          "player": "M. Ziko",
           "minute": 58,
           "team": "EGY",
-          "assist": "Mohamed Hany"
+          "assist": "M. Hany"
+        },
+        {
+          "player": "M. Salah",
+          "minute": 67,
+          "team": "EGY"
         }
       ],
       "cardEvents": [
         {
-          "player": "Mohanad Lashin",
+          "player": "M. Lasheen",
           "minute": 17,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "Sarpreet Singh",
+          "player": "S. Singh",
           "minute": 20,
           "team": "NZL",
           "color": "yellow"
         },
         {
-          "player": "Callum McCowatt",
+          "player": "C. McCowatt",
           "minute": 34,
           "team": "NZL",
           "color": "yellow"
@@ -43,30 +48,22 @@
       ],
       "subs": [
         {
-          "out": "Hamdy Fathy",
-          "in": "Ramy Rabia",
+          "out": "H. Fathy",
+          "in": "R. Rabia",
           "minute": 41,
           "team": "EGY"
         },
         {
-          "out": "Callum McCowatt",
-          "in": "Ben Old",
+          "out": "C. McCowatt",
+          "in": "B. Old",
           "minute": 66,
           "team": "NZL"
         }
       ],
       "stats": {
-        "shotsInside": [
-          5,
-          7
-        ],
-        "passesAccurate": [
-          247,
-          367
-        ],
         "shotsOn": [
           4,
-          3
+          4
         ],
         "shotsBlocked": [
           3,
@@ -78,15 +75,11 @@
         ],
         "shotsTotal": [
           9,
-          14
+          15
         ],
         "saves": [
           2,
           3
-        ],
-        "passesTotal": [
-          301,
-          407
         ],
         "possession": [
           42,
@@ -100,17 +93,9 @@
           2,
           2
         ],
-        "shotsOutside": [
-          4,
-          7
-        ],
         "offsides": [
           2,
           0
-        ],
-        "passesPct": [
-          82,
-          90
         ],
         "fouls": [
           12,
