@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T21:46:48Z",
+  "updated": "2026-06-22T21:47:35Z",
   "live": [
     {
       "id": 51,
@@ -31,10 +31,10 @@
           "team": "IRQ"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
-          4,
+          5,
           2
         ],
         "shotsOff": [
@@ -50,8 +50,8 @@
           1
         ],
         "passesPct": [
-          90,
-          79
+          89,
+          80
         ],
         "shotsInside": [
           1,
@@ -62,8 +62,8 @@
           0
         ],
         "passesAccurate": [
-          258,
-          153
+          260,
+          171
         ],
         "shotsOutside": [
           6,
@@ -74,8 +74,8 @@
           1
         ],
         "passesTotal": [
-          287,
-          193
+          291,
+          213
         ],
         "shotsOn": [
           1,
@@ -90,8 +90,8 @@
           2
         ],
         "possession": [
-          60,
-          40
+          58,
+          42
         ],
         "saves": [
           0,
