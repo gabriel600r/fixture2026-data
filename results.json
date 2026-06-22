@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:40:04Z",
+  "updated": "2026-06-22T18:40:51Z",
   "live": [
     {
       "id": 57,
@@ -19,6 +19,18 @@
         {
           "player": "S. Posch",
           "minute": 40,
+          "team": "AUT",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Medina",
+          "minute": 76,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Laimer",
+          "minute": 76,
           "team": "AUT",
           "color": "yellow"
         }
