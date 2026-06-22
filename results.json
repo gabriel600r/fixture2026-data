@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T21:02:41Z",
+  "updated": "2026-06-22T21:03:29Z",
   "live": [
     {
       "id": 51,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
       "stats": {
