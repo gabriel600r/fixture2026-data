@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T18:09:07Z",
+  "updated": "2026-06-22T18:09:55Z",
   "live": [
     {
       "id": 57,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -23,7 +23,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 7,
       "stats": {
         "fouls": [
           8,
@@ -222,7 +221,12 @@
             ]
           }
         },
-        "referee": "Amin Mohamed Omar, Egypt"
+        "referee": "Amin Mohamed Omar, Egypt",
+        "motm": {
+          "player": "David Alaba",
+          "rating": 7.7,
+          "team": "AUT"
+        }
       }
     }
   ],
