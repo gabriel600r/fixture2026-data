@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:55:52Z",
+  "updated": "2026-06-22T18:56:39Z",
   "live": [
     {
       "id": 57,
@@ -32,6 +32,12 @@
           "player": "K. Laimer",
           "minute": 76,
           "team": "AUT",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Paredes",
+          "minute": 90,
+          "team": "ARG",
           "color": "yellow"
         }
       ],
@@ -97,7 +103,7 @@
           "team": "AUT"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "fouls": [
           11,
