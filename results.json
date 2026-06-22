@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-22T18:58:14Z",
+  "updated": "2026-06-22T18:59:02Z",
   "live": [
     {
       "id": 57,
       "status": "2H",
       "minute": 90,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -103,7 +103,7 @@
           "team": "AUT"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "fouls": [
           11,
