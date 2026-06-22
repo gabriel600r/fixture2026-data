@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:12:14Z",
+  "updated": "2026-06-22T02:13:01Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 1,
       "away": 0,
       "goals": [
@@ -49,8 +49,8 @@
           4
         ],
         "passesAccurate": [
-          177,
-          282
+          186,
+          295
         ],
         "shotsOn": [
           3,
@@ -58,7 +58,7 @@
         ],
         "shotsBlocked": [
           2,
-          3
+          4
         ],
         "red": [
           0,
@@ -66,23 +66,23 @@
         ],
         "shotsTotal": [
           7,
-          9
+          11
         ],
         "saves": [
           2,
           2
         ],
         "passesTotal": [
-          222,
-          314
+          232,
+          330
         ],
         "possession": [
-          42,
-          58
+          41,
+          59
         ],
         "shotsOff": [
           2,
-          4
+          5
         ],
         "corners": [
           1,
@@ -90,7 +90,7 @@
         ],
         "shotsOutside": [
           3,
-          5
+          7
         ],
         "offsides": [
           2,
@@ -98,7 +98,7 @@
         ],
         "passesPct": [
           80,
-          90
+          89
         ],
         "fouls": [
           10,
@@ -244,7 +244,7 @@
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
           "player": "Max Crocombe",
-          "rating": 7.3,
+          "rating": 7.7,
           "team": "NZL"
         }
       }
