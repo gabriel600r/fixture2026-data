@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T02:29:34Z",
+  "updated": "2026-06-22T02:30:21Z",
   "live": [
     {
       "id": 40,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 2,
       "goals": [
@@ -261,8 +261,8 @@
         },
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
-          "player": "Mostafa Shobeir",
-          "rating": 7.9,
+          "player": "Mostafa Ziko",
+          "rating": 8.0,
           "team": "EGY"
         }
       }
