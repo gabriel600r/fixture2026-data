@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:28:47Z",
+  "updated": "2026-06-22T02:29:34Z",
   "live": [
     {
       "id": 40,
@@ -23,7 +23,8 @@
         {
           "player": "M. Salah",
           "minute": 67,
-          "team": "EGY"
+          "team": "EGY",
+          "assist": "M. Ziko"
         }
       ],
       "cardEvents": [
@@ -61,9 +62,17 @@
         }
       ],
       "stats": {
+        "shotsInside": [
+          5,
+          7
+        ],
+        "passesAccurate": [
+          247,
+          367
+        ],
         "shotsOn": [
           4,
-          4
+          3
         ],
         "shotsBlocked": [
           3,
@@ -75,11 +84,15 @@
         ],
         "shotsTotal": [
           9,
-          15
+          14
         ],
         "saves": [
           2,
           3
+        ],
+        "passesTotal": [
+          301,
+          407
         ],
         "possession": [
           42,
@@ -93,9 +106,17 @@
           2,
           2
         ],
+        "shotsOutside": [
+          4,
+          7
+        ],
         "offsides": [
           2,
           0
+        ],
+        "passesPct": [
+          82,
+          90
         ],
         "fouls": [
           12,
