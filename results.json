@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:05:55Z",
+  "updated": "2026-06-22T02:06:42Z",
   "live": [
     {
       "id": 40,
@@ -49,8 +49,8 @@
           3
         ],
         "passesAccurate": [
-          163,
-          237
+          168,
+          254
         ],
         "shotsOn": [
           3,
@@ -73,8 +73,8 @@
           2
         ],
         "passesTotal": [
-          199,
-          266
+          209,
+          285
         ],
         "possession": [
           43,
@@ -97,11 +97,11 @@
           0
         ],
         "passesPct": [
-          82,
+          80,
           89
         ],
         "fouls": [
-          8,
+          9,
           2
         ],
         "yellow": [
@@ -244,7 +244,7 @@
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
           "player": "Finn Surman",
-          "rating": 7.7,
+          "rating": 7.3,
           "team": "NZL"
         }
       }
