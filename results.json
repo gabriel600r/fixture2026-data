@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T22:27:53Z",
+  "updated": "2026-06-22T22:38:33Z",
   "live": [
     {
       "id": 51,
@@ -335,6 +335,14 @@
       "title_en": "What's new ⚽",
       "body_es": "📩 ¡Gracias por seguir disfrutando la app durante el Mundial! Del otro lado estoy monitoreando todo para darles la mejor experiencia. Muchas de estas mejoras nacen de su devolución —que está siendo fenomenal—, y eso es lo que me mueve. 🙌\n\nLo nuevo:\n🔁 Sustituciones del partido: quién entra y sale, y a qué minuto.\n🅰️ Asistencias: quién dio el pase en cada gol.\n🧑‍⚖️ Árbitro del partido, con su país y banderita.\n📊 Estadísticas más completas: top 30 en goleadores, asistencias y tarjetas.\n⏳ \"Próximo partido\": cuenta regresiva del que está por arrancar.\n✅ \"Finalizado\": los partidos jugados se marcan de un vistazo.\n📅 Más días hacia atrás en Hoy, y el día de la semana en cada fecha.\n🟢 Estado real de cada partido: se acabó el falso \"EN VIVO\" cuando se demora.\n🔔 La notificación en vivo ahora muestra el tiempo adicional (45+4).\n⏱️ El minuto del partido en vivo corre más fluido, sin saltos.\n🌙 Mejor legibilidad en modo oscuro.\n\n¡A seguir disfrutando el Mundial! ⚽\n\n🎬 Un agradecimiento especial: el video de la app en la ficha de Play Store lo hizo mi hija Mica. ¡Gracias, Mica! 💙",
       "body_en": "📩 Thanks for enjoying the app during the World Cup! Behind the scenes I keep an eye on everything to give you the best possible experience. Many of these improvements come from your feedback —which has been phenomenal—, and that's what keeps me going. 🙌\n\nWhat's new:\n🔁 Substitutions: who comes on and off, and when.\n🅰️ Assists: who set up each goal.\n🧑‍⚖️ Match referee, with country and flag.\n📊 Fuller stats: top 30 scorers, assists and cards.\n⏳ \"Up next\": a countdown for the match about to kick off.\n✅ \"Final\": played matches are marked at a glance.\n📅 More past days on Today, and the weekday on each date.\n🟢 Real match status: no more fake \"LIVE\" when a match is delayed.\n🔔 The live score notification now shows added time (45+4).\n⏱️ The live match minute now ticks smoothly, no jumps.\n🌙 Better dark-mode readability.\n\nEnjoy the World Cup! ⚽\n\n🎬 A special thank-you: the video on the app's Play Store page was made by my daughter, Mica. Thanks, Mica! 💙"
+    },
+    {
+      "id": 13,
+      "date": "22/06/2026",
+      "title_es": "Novedades ⚽",
+      "title_en": "What's new ⚽",
+      "body_es": "🔮 Tu predicción del Prode se ve en el detalle del partido, con los puntos.\n🌐 Ranking global: tu puesto entre todos (sin nombres).\n🏆 En \"Llaves\" te aviso cuándo se arman los cruces.\n☕ Tu insignia de café se actualiza en tus grupos.\n✉️ Agregué Contacto en el menú.\n🛠️ Un montón de mejoras de estabilidad y rendimiento.\n\n🙏 Mil disculpas por las actualizaciones seguidas. Es un Mundial complejo, con cierres y cruces nuevos, y como lo hago solo voy arreglando cosas en cada versión para mejorar tu experiencia.\n\n¡Gracias por bancarla en el Mundial! ⚽",
+      "body_en": "🔮 Your Prode prediction shows in the match detail, with points.\n🌐 Global ranking: your place among all players (no names).\n🏆 In \"Knockout\" I let you know when the matchups get set.\n☕ Your coffee badge updates across your groups.\n✉️ Added a Contact option in the menu.\n🛠️ Lots of stability and performance improvements.\n\n🙏 So sorry for the frequent updates. It's a complex World Cup with new knockout stages, and since I build this solo I keep fixing things in each version to improve your experience.\n\nThanks for supporting it during the World Cup! ⚽"
     }
   ],
   "results": [
