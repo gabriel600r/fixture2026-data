@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T18:28:07Z",
+  "updated": "2026-06-22T18:28:55Z",
   "live": [
     {
       "id": 57,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 0,
       "goals": [
@@ -28,6 +28,12 @@
           "out": "C. Romero",
           "in": "N. Otamendi",
           "minute": 57,
+          "team": "ARG"
+        },
+        {
+          "out": "T. Almada",
+          "in": "J. Alvarez",
+          "minute": 64,
           "team": "ARG"
         }
       ],
