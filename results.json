@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T01:17:09Z",
+  "updated": "2026-06-22T01:17:56Z",
   "live": [
     {
       "id": 40,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 15,
           "team": "NZL",
           "assist": "T. Payne"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Lasheen",
+          "minute": 17,
+          "team": "EGY",
+          "color": "yellow"
         }
       ],
       "stats": {
