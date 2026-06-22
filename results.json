@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:51:36Z",
+  "updated": "2026-06-22T02:52:24Z",
   "live": [
     {
       "id": 40,
@@ -115,7 +115,7 @@
           "team": "NZL"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsInside": [
           5,
