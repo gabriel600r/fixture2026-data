@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T03:00:19Z",
+  "updated": "2026-06-22T03:01:11Z",
   "live": [
     {
       "id": 40,
@@ -9,45 +9,45 @@
       "away": 3,
       "goals": [
         {
-          "player": "Finn Surman",
+          "player": "F. Surman",
           "minute": 15,
           "team": "NZL",
-          "assist": "Tim Payne"
+          "assist": "T. Payne"
         },
         {
-          "player": "Mostafa Zico",
+          "player": "M. Ziko",
           "minute": 58,
           "team": "EGY",
-          "assist": "Mohamed Hany"
+          "assist": "M. Hany"
         },
         {
-          "player": "Mohamed Salah",
+          "player": "M. Salah",
           "minute": 67,
           "team": "EGY",
-          "assist": "Mostafa Zico"
+          "assist": "M. Ziko"
         },
         {
-          "player": "Mahmoud Trezeguet",
+          "player": "Trezeguet",
           "minute": 82,
           "team": "EGY",
-          "assist": "Mohamed Salah"
+          "assist": "M. Salah"
         }
       ],
       "cardEvents": [
         {
-          "player": "Mohanad Lashin",
+          "player": "M. Lasheen",
           "minute": 17,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "Sarpreet Singh",
+          "player": "S. Singh",
           "minute": 20,
           "team": "NZL",
           "color": "yellow"
         },
         {
-          "player": "Callum McCowatt",
+          "player": "C. McCowatt",
           "minute": 34,
           "team": "NZL",
           "color": "yellow"
@@ -55,76 +55,84 @@
       ],
       "subs": [
         {
-          "out": "Hamdy Fathy",
-          "in": "Ramy Rabia",
+          "out": "H. Fathy",
+          "in": "R. Rabia",
           "minute": 41,
           "team": "EGY"
         },
         {
-          "out": "Callum McCowatt",
-          "in": "Ben Old",
+          "out": "C. McCowatt",
+          "in": "B. Old",
           "minute": 66,
           "team": "NZL"
         },
         {
-          "out": "Liberato Cacace",
-          "in": "Jesse Randall",
+          "out": "S. Singh",
+          "in": "R. Thomas",
           "minute": 76,
           "team": "NZL"
         },
         {
-          "out": "Sarpreet Singh",
-          "in": "Ryan Thomas",
+          "out": "L. Cacace",
+          "in": "J. Randall",
           "minute": 76,
           "team": "NZL"
         },
         {
-          "out": "Omar Marmoush",
-          "in": "Mahmoud Trezeguet",
+          "out": "O. Marmoush",
+          "in": "Trezeguet",
           "minute": 76,
           "team": "EGY"
         },
         {
-          "out": "Mostafa Zico",
-          "in": "Hamza Abdelkarim",
+          "out": "M. Ziko",
+          "in": "H. Abdelkarim",
           "minute": 76,
           "team": "EGY"
         },
         {
-          "out": "Emam Ashour",
-          "in": "Zizo Sayed",
+          "out": "E. Ashour",
+          "in": "Zizo",
           "minute": 85,
           "team": "EGY"
         },
         {
-          "out": "Mohamed Salah",
-          "in": "Hossam Abdelmaguid",
+          "out": "M. Salah",
+          "in": "H. Abdelmaguid",
           "minute": 85,
           "team": "EGY"
         },
         {
-          "out": "Tim Payne",
-          "in": "Tyler Bindon",
+          "out": "T. Payne",
+          "in": "T. Bindon",
           "minute": 85,
           "team": "NZL"
         },
         {
-          "out": "Elijah Just",
-          "in": "Francis De Vries",
+          "out": "E. Just",
+          "in": "F. De Vries",
           "minute": 85,
           "team": "NZL"
         },
         {
-          "out": "Hossam Abdelmaguid",
-          "in": "Mohamed Abdelmoneim",
-          "minute": 99,
+          "out": "H. Abdelmaguid",
+          "in": "M. Abdelmonem",
+          "minute": 90,
           "team": "EGY"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
-        "shotsOn": [
+        "shotsInside": [
           5,
+          12
+        ],
+        "passesAccurate": [
+          330,
+          449
+        ],
+        "shotsOn": [
+          4,
           7
         ],
         "shotsBlocked": [
@@ -136,16 +144,20 @@
           0
         ],
         "shotsTotal": [
-          11,
+          10,
           19
         ],
         "saves": [
           4,
           4
         ],
+        "passesTotal": [
+          412,
+          512
+        ],
         "possession": [
-          44,
-          56
+          45,
+          55
         ],
         "shotsOff": [
           3,
@@ -155,9 +167,17 @@
           4,
           3
         ],
+        "shotsOutside": [
+          5,
+          7
+        ],
         "offsides": [
           3,
           0
+        ],
+        "passesPct": [
+          80,
+          88
         ],
         "fouls": [
           14,
