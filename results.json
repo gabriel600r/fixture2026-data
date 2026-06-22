@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:53:11Z",
+  "updated": "2026-06-22T02:53:58Z",
   "live": [
     {
       "id": 40,
@@ -115,15 +115,15 @@
           "team": "NZL"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsInside": [
           5,
           11
         ],
         "passesAccurate": [
-          302,
-          442
+          322,
+          444
         ],
         "shotsOn": [
           4,
@@ -146,12 +146,12 @@
           3
         ],
         "passesTotal": [
-          374,
-          497
+          397,
+          503
         ],
         "possession": [
-          43,
-          57
+          44,
+          56
         ],
         "shotsOff": [
           2,
@@ -171,10 +171,10 @@
         ],
         "passesPct": [
           81,
-          89
+          88
         ],
         "fouls": [
-          13,
+          14,
           8
         ],
         "yellow": [
