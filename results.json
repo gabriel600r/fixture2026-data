@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-22T17:38:50Z",
+  "updated": "2026-06-22T17:39:37Z",
   "live": [
     {
       "id": 57,
       "status": "1H",
-      "minute": 38,
-      "home": 0,
+      "minute": 39,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "L. Messi",
+          "minute": 38,
+          "team": "ARG",
+          "assist": "F. Medina"
+        }
+      ],
       "stats": {
         "fouls": [
           5,
