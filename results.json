@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:46:53Z",
+  "updated": "2026-06-22T02:47:40Z",
   "live": [
     {
       "id": 40,
@@ -91,27 +91,27 @@
           "team": "EGY"
         },
         {
+          "out": "E. Ashour",
+          "in": "Zizo",
+          "minute": 85,
+          "team": "EGY"
+        },
+        {
           "out": "M. Salah",
           "in": "H. Abdelmaguid",
           "minute": 85,
           "team": "EGY"
         },
         {
-          "out": "E. Ashour",
-          "in": "Zizo",
-          "minute": 86,
-          "team": "EGY"
-        },
-        {
           "out": "T. Payne",
           "in": "T. Bindon",
-          "minute": 86,
+          "minute": 85,
           "team": "NZL"
         },
         {
           "out": "E. Just",
           "in": "F. De Vries",
-          "minute": 86,
+          "minute": 85,
           "team": "NZL"
         }
       ],
@@ -121,7 +121,7 @@
           11
         ],
         "passesAccurate": [
-          279,
+          288,
           439
         ],
         "shotsOn": [
@@ -145,12 +145,12 @@
           3
         ],
         "passesTotal": [
-          344,
+          353,
           492
         ],
         "possession": [
-          41,
-          59
+          42,
+          58
         ],
         "shotsOff": [
           2,
@@ -169,7 +169,7 @@
           0
         ],
         "passesPct": [
-          81,
+          82,
           89
         ],
         "fouls": [
