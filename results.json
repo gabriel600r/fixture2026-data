@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:59:02Z",
+  "updated": "2026-06-22T18:59:49Z",
   "live": [
     {
       "id": 57,
@@ -13,6 +13,11 @@
           "minute": 38,
           "team": "ARG",
           "assist": "F. Medina"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 90,
+          "team": "ARG"
         }
       ],
       "cardEvents": [
@@ -106,19 +111,19 @@
       "extra": 5,
       "stats": {
         "fouls": [
-          11,
+          13,
           12
         ],
         "shotsOff": [
           3,
-          4
+          5
         ],
         "offsides": [
           2,
           0
         ],
         "yellow": [
-          1,
+          2,
           2
         ],
         "passesPct": [
@@ -127,7 +132,7 @@
         ],
         "shotsInside": [
           7,
-          3
+          4
         ],
         "red": [
           0,
@@ -135,7 +140,7 @@
         ],
         "passesAccurate": [
           491,
-          389
+          392
         ],
         "shotsOutside": [
           1,
@@ -147,7 +152,7 @@
         ],
         "passesTotal": [
           548,
-          453
+          457
         ],
         "shotsOn": [
           2,
@@ -159,7 +164,7 @@
         ],
         "shotsTotal": [
           8,
-          5
+          6
         ],
         "possession": [
           54,
