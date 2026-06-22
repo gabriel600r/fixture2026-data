@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T00:05:26Z",
+  "updated": "2026-06-22T00:25:22Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -13,7 +13,132 @@
           "home": 10,
           "draw": 45,
           "away": 45
-        }
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": null,
+            "xi": [
+              {
+                "n": 1,
+                "name": "Max Crocombe",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Tim Payne",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Finn Surman",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Michael Boxall",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Liberato Cacace",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Joe Bell",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Marko Stamenić",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Callum McCowatt",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Sarpreet Singh",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Elijah Just",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Chris Wood",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Hossam Hassan",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mostafa Shobeir",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Mohamed Hany",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Yasser Ibrahim",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Hamdy Fathy",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ahmed Fatouh",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Mohanad Lasheen",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Omar Marmoush",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Omar Mohamed Al Ali, United Arab Emirates"
       }
     }
   ],
