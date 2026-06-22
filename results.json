@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:57:54Z",
+  "updated": "2026-06-22T02:58:42Z",
   "live": [
     {
       "id": 40,
@@ -9,45 +9,45 @@
       "away": 3,
       "goals": [
         {
-          "player": "F. Surman",
+          "player": "Finn Surman",
           "minute": 15,
           "team": "NZL",
-          "assist": "T. Payne"
+          "assist": "Tim Payne"
         },
         {
-          "player": "M. Ziko",
+          "player": "Mostafa Zico",
           "minute": 58,
           "team": "EGY",
-          "assist": "M. Hany"
+          "assist": "Mohamed Hany"
         },
         {
-          "player": "M. Salah",
+          "player": "Mohamed Salah",
           "minute": 67,
           "team": "EGY",
-          "assist": "M. Ziko"
+          "assist": "Mostafa Zico"
         },
         {
-          "player": "Trezeguet",
+          "player": "Mahmoud Trezeguet",
           "minute": 82,
           "team": "EGY",
-          "assist": "M. Salah"
+          "assist": "Mohamed Salah"
         }
       ],
       "cardEvents": [
         {
-          "player": "M. Lasheen",
+          "player": "Mohanad Lashin",
           "minute": 17,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "S. Singh",
+          "player": "Sarpreet Singh",
           "minute": 20,
           "team": "NZL",
           "color": "yellow"
         },
         {
-          "player": "C. McCowatt",
+          "player": "Callum McCowatt",
           "minute": 34,
           "team": "NZL",
           "color": "yellow"
@@ -55,67 +55,67 @@
       ],
       "subs": [
         {
-          "out": "H. Fathy",
-          "in": "R. Rabia",
+          "out": "Hamdy Fathy",
+          "in": "Ramy Rabia",
           "minute": 41,
           "team": "EGY"
         },
         {
-          "out": "C. McCowatt",
-          "in": "B. Old",
+          "out": "Callum McCowatt",
+          "in": "Ben Old",
           "minute": 66,
           "team": "NZL"
         },
         {
-          "out": "S. Singh",
-          "in": "R. Thomas",
+          "out": "Liberato Cacace",
+          "in": "Jesse Randall",
           "minute": 76,
           "team": "NZL"
         },
         {
-          "out": "L. Cacace",
-          "in": "J. Randall",
+          "out": "Sarpreet Singh",
+          "in": "Ryan Thomas",
           "minute": 76,
           "team": "NZL"
         },
         {
-          "out": "O. Marmoush",
-          "in": "Trezeguet",
+          "out": "Omar Marmoush",
+          "in": "Mahmoud Trezeguet",
           "minute": 76,
           "team": "EGY"
         },
         {
-          "out": "M. Ziko",
-          "in": "H. Abdelkarim",
+          "out": "Mostafa Zico",
+          "in": "Hamza Abdelkarim",
           "minute": 76,
           "team": "EGY"
         },
         {
-          "out": "E. Ashour",
-          "in": "Zizo",
+          "out": "Emam Ashour",
+          "in": "Zizo Sayed",
           "minute": 85,
           "team": "EGY"
         },
         {
-          "out": "M. Salah",
-          "in": "H. Abdelmaguid",
+          "out": "Mohamed Salah",
+          "in": "Hossam Abdelmaguid",
           "minute": 85,
           "team": "EGY"
         },
         {
-          "out": "T. Payne",
-          "in": "T. Bindon",
+          "out": "Tim Payne",
+          "in": "Tyler Bindon",
           "minute": 85,
           "team": "NZL"
         },
         {
-          "out": "E. Just",
-          "in": "F. De Vries",
+          "out": "Elijah Just",
+          "in": "Francis De Vries",
           "minute": 85,
           "team": "NZL"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsInside": [
           5,
