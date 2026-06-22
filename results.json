@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:20:54Z",
+  "updated": "2026-06-22T02:21:42Z",
   "live": [
     {
       "id": 40,
@@ -52,15 +52,15 @@
       "stats": {
         "shotsInside": [
           5,
-          6
+          7
         ],
         "passesAccurate": [
-          198,
-          343
+          199,
+          350
         ],
         "shotsOn": [
           4,
-          2
+          3
         ],
         "shotsBlocked": [
           2,
@@ -72,15 +72,15 @@
         ],
         "shotsTotal": [
           8,
-          13
+          14
         ],
         "saves": [
           2,
           3
         ],
         "passesTotal": [
-          247,
-          380
+          248,
+          387
         ],
         "possession": [
           39,
@@ -249,9 +249,9 @@
         },
         "referee": "Omar Mohamed Al Ali, United Arab Emirates",
         "motm": {
-          "player": "Max Crocombe",
-          "rating": 7.7,
-          "team": "NZL"
+          "player": "Mostafa Shobeir",
+          "rating": 7.9,
+          "team": "EGY"
         }
       }
     }
