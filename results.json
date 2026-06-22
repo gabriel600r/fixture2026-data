@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:32:05Z",
+  "updated": "2026-06-22T18:32:52Z",
   "live": [
     {
       "id": 57,
@@ -47,6 +47,18 @@
           "in": "M. Friedl",
           "minute": 67,
           "team": "AUT"
+        },
+        {
+          "out": "S. Posch",
+          "in": "A. Prass",
+          "minute": 68,
+          "team": "AUT"
+        },
+        {
+          "out": "P. Wanner",
+          "in": "M. Arnautovic",
+          "minute": 68,
+          "team": "AUT"
         }
       ],
       "stats": {
@@ -55,7 +67,7 @@
           8
         ],
         "shotsOff": [
-          1,
+          2,
           3
         ],
         "offsides": [
@@ -71,7 +83,7 @@
           83
         ],
         "shotsInside": [
-          3,
+          4,
           2
         ],
         "red": [
@@ -79,7 +91,7 @@
           0
         ],
         "passesAccurate": [
-          391,
+          397,
           246
         ],
         "shotsOutside": [
@@ -91,7 +103,7 @@
           2
         ],
         "passesTotal": [
-          434,
+          440,
           297
         ],
         "shotsOn": [
@@ -103,7 +115,7 @@
           0
         ],
         "shotsTotal": [
-          4,
+          5,
           4
         ],
         "possession": [
