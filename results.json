@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:21:00Z",
+  "updated": "2026-06-22T18:21:48Z",
   "live": [
     {
       "id": 57,
@@ -23,9 +23,17 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 57,
+          "team": "ARG"
+        }
+      ],
       "stats": {
         "fouls": [
-          9,
+          10,
           7
         ],
         "shotsOff": [
@@ -54,11 +62,11 @@
         ],
         "passesAccurate": [
           317,
-          192
+          201
         ],
         "shotsOutside": [
           0,
-          1
+          2
         ],
         "corners": [
           0,
@@ -66,11 +74,11 @@
         ],
         "passesTotal": [
           356,
-          234
+          246
         ],
         "shotsOn": [
           2,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
@@ -78,14 +86,14 @@
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "possession": [
-          60,
-          40
+          58,
+          42
         ],
         "saves": [
-          0,
+          1,
           1
         ],
         "home": "ARG",
