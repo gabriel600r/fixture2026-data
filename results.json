@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T01:47:45Z",
+  "updated": "2026-06-22T01:48:32Z",
   "live": [
     {
       "id": 40,
@@ -43,15 +43,15 @@
           "team": "EGY"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsInside": [
           4,
-          2
+          3
         ],
         "passesAccurate": [
-          161,
-          228
+          163,
+          237
         ],
         "shotsOn": [
           3,
@@ -67,23 +67,23 @@
         ],
         "shotsTotal": [
           7,
-          5
+          6
         ],
         "saves": [
           1,
           2
         ],
         "passesTotal": [
-          195,
-          256
+          199,
+          266
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "corners": [
           1,
@@ -98,7 +98,7 @@
           0
         ],
         "passesPct": [
-          83,
+          82,
           89
         ],
         "fouls": [
