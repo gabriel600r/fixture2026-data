@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-22T01:14:47Z",
+  "updated": "2026-06-22T01:15:34Z",
   "live": [
     {
       "id": 40,
       "status": "1H",
-      "minute": 15,
-      "home": 0,
+      "minute": 16,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "F. Surman",
+          "minute": 15,
+          "team": "NZL"
+        }
+      ],
       "stats": {
         "shotsInside": [
           0,
