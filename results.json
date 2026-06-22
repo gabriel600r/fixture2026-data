@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T01:46:58Z",
+  "updated": "2026-06-22T01:47:45Z",
   "live": [
     {
       "id": 40,
@@ -43,7 +43,7 @@
           "team": "EGY"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsInside": [
           4,
