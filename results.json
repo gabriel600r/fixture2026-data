@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T01:19:30Z",
+  "updated": "2026-06-22T01:20:17Z",
   "live": [
     {
       "id": 40,
@@ -20,6 +20,12 @@
           "player": "M. Lasheen",
           "minute": 17,
           "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Singh",
+          "minute": 20,
+          "team": "NZL",
           "color": "yellow"
         }
       ],
