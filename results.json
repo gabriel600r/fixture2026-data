@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:28:00Z",
+  "updated": "2026-06-23T21:28:47Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,7 +23,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          9,
+          11,
           1
         ],
         "yellow": [
@@ -35,16 +35,16 @@
           0
         ],
         "passesAccurate": [
-          429,
+          433,
           117
         ],
         "passesTotal": [
-          458,
-          143
+          463,
+          144
         ],
         "passesPct": [
           94,
-          82
+          81
         ],
         "possession": [
           76,
@@ -55,15 +55,15 @@
           1
         ],
         "shotsOff": [
-          2,
+          4,
           0
         ],
         "shotsOutside": [
-          1,
+          2,
           0
         ],
         "corners": [
-          3,
+          4,
           2
         ],
         "offsides": [
@@ -75,12 +75,12 @@
           0
         ],
         "shotsInside": [
-          8,
+          9,
           1
         ],
         "fouls": [
           9,
-          16
+          17
         ],
         "shotsBlocked": [
           6,
@@ -222,7 +222,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Marc Guéhi",
-          "rating": 7.9,
+          "rating": 7.6,
           "team": "ENG"
         }
       }
