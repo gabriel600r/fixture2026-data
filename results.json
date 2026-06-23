@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T04:49:57Z",
+  "updated": "2026-06-23T04:50:44Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 1,
       "away": 2,
       "goals": [
@@ -68,7 +68,7 @@
         {
           "out": "M. Tamari",
           "in": "A. Azaizeh",
-          "minute": 85,
+          "minute": 84,
           "team": "JOR"
         },
         {
@@ -92,12 +92,12 @@
       ],
       "stats": {
         "fouls": [
-          8,
+          9,
           6
         ],
         "passesAccurate": [
-          145,
-          517
+          148,
+          526
         ],
         "shotsTotal": [
           8,
@@ -120,12 +120,12 @@
           8
         ],
         "passesTotal": [
-          198,
-          580
+          204,
+          592
         ],
         "possession": [
-          25,
-          75
+          26,
+          74
         ],
         "yellow": [
           1,
@@ -291,7 +291,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "Ahmed Nadhir Benbouali",
-          "rating": 7.6,
+          "rating": 7.7,
           "team": "ALG"
         }
       }
