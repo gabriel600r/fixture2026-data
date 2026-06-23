@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T17:38:27Z",
+  "updated": "2026-06-23T17:39:14Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
       "minute": 39,
-      "home": 2,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -17,6 +17,11 @@
         {
           "player": "N. Mendes",
           "minute": 17,
+          "team": "POR"
+        },
+        {
+          "player": "C. Ronaldo",
+          "minute": 39,
           "team": "POR"
         }
       ],
