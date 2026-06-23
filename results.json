@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:48:41Z",
+  "updated": "2026-06-23T17:49:28Z",
   "live": [
     {
       "id": 63,
@@ -38,7 +38,7 @@
       "stats": {
         "shotsTotal": [
           8,
-          2
+          3
         ],
         "yellow": [
           0,
@@ -49,20 +49,20 @@
           1
         ],
         "passesAccurate": [
-          204,
-          106
+          236,
+          120
         ],
         "passesTotal": [
-          232,
-          137
+          267,
+          151
         ],
         "passesPct": [
           88,
-          77
+          79
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "saves": [
           1,
@@ -90,15 +90,15 @@
         ],
         "shotsInside": [
           5,
-          1
+          2
         ],
         "fouls": [
-          6,
+          8,
           7
         ],
         "shotsBlocked": [
           2,
-          0
+          1
         ],
         "home": "POR",
         "away": "UZB"
