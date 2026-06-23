@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:49:31Z",
+  "updated": "2026-06-23T00:50:18Z",
   "live": [
     {
       "id": 51,
@@ -286,8 +286,8 @@
     },
     {
       "id": 52,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 0,
       "goals": [
@@ -305,7 +305,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "fouls": [
           6,
