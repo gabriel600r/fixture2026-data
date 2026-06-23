@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:22:53Z",
+  "updated": "2026-06-23T00:23:42Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 3,
       "away": 0,
       "goals": [
@@ -23,7 +23,8 @@
         {
           "player": "Ousmane Dembélé",
           "minute": 66,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "Michael Olise"
         }
       ],
       "cardEvents": [
@@ -52,6 +53,18 @@
           "in": "Youssef Amyn",
           "minute": 60,
           "team": "IRQ"
+        },
+        {
+          "out": "Ousmane Dembélé",
+          "in": "Désiré Doue",
+          "minute": 68,
+          "team": "FRA"
+        },
+        {
+          "out": "Michael Olise",
+          "in": "Rayan Cherki",
+          "minute": 68,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -80,8 +93,8 @@
           1
         ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "red": [
           0,
@@ -235,7 +248,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "subs": [
