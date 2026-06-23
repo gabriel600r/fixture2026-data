@@ -1,15 +1,23 @@
 {
-  "updated": "2026-06-23T17:06:10Z",
+  "updated": "2026-06-23T17:06:57Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 6,
-      "home": 0,
+      "minute": 7,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "C. Ronaldo",
+          "minute": 6,
+          "team": "POR",
+          "assist": "J. Cancelo"
+        }
+      ],
       "stats": {
         "shotsTotal": [
-          1,
+          2,
           0
         ],
         "yellow": [
@@ -21,27 +29,27 @@
           0
         ],
         "passesAccurate": [
-          23,
-          1
+          43,
+          3
         ],
         "passesTotal": [
-          25,
-          2
+          46,
+          5
         ],
         "passesPct": [
-          92,
-          50
+          93,
+          60
         ],
         "possession": [
-          93,
-          7
+          91,
+          9
         ],
         "saves": [
           0,
           0
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
@@ -61,12 +69,12 @@
           0
         ],
         "shotsInside": [
-          1,
+          2,
           0
         ],
         "fouls": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           1,
