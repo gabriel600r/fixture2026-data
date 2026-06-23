@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:38:18Z",
+  "updated": "2026-06-23T00:39:06Z",
   "live": [
     {
       "id": 51,
@@ -77,6 +77,18 @@
           "in": "Marko Farji",
           "minute": 69,
           "team": "IRQ"
+        },
+        {
+          "out": "Bradley Barcola",
+          "in": "Maghnes Akliouche",
+          "minute": 83,
+          "team": "FRA"
+        },
+        {
+          "out": "Jules Koundé",
+          "in": "Malo Gusto",
+          "minute": 83,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -97,7 +109,7 @@
           0
         ],
         "corners": [
-          3,
+          4,
           2
         ],
         "yellow": [
@@ -107,6 +119,10 @@
         "saves": [
           0,
           1
+        ],
+        "offsides": [
+          1,
+          0
         ],
         "possession": [
           56,
@@ -256,7 +272,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 8.16,
+          "rating": 9.2,
           "team": "FRA"
         }
       }
@@ -264,7 +280,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 38,
+      "minute": 39,
       "home": 0,
       "away": 0,
       "subs": [
