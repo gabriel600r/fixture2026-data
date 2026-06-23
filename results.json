@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-23T21:35:06Z",
+  "updated": "2026-06-23T21:35:54Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Declan Rice",
+          "player": "D. Rice",
           "minute": 41,
           "team": "ENG",
           "color": "yellow"
         },
         {
-          "player": "Iñaki Williams",
+          "player": "I. Williams",
           "minute": 60,
           "team": "GHA",
           "color": "yellow"
@@ -23,26 +23,26 @@
       ],
       "subs": [
         {
-          "out": "Anthony Gordon",
-          "in": "Bukayo Saka",
-          "minute": 65,
-          "team": "ENG"
-        },
-        {
-          "out": "Djed Spence",
-          "in": "Nico O'Reilly",
+          "out": "A. Gordon",
+          "in": "B. Saka",
           "minute": 66,
           "team": "ENG"
         },
         {
-          "out": "Iñaki Williams",
-          "in": "Abdul Fatawu Issahaku",
+          "out": "D. Spence",
+          "in": "N. O'Reilly",
+          "minute": 66,
+          "team": "ENG"
+        },
+        {
+          "out": "I. Williams",
+          "in": "I. Fatawu",
           "minute": 66,
           "team": "GHA"
         },
         {
-          "out": "Jordan Ayew",
-          "in": "Prince Kwabena Adu",
+          "out": "J. Ayew",
+          "in": "P. Adu",
           "minute": 67,
           "team": "GHA"
         }
@@ -60,16 +60,32 @@
           2,
           0
         ],
-        "saves": [
-          0,
-          2
+        "passesAccurate": [
+          467,
+          120
+        ],
+        "passesTotal": [
+          500,
+          150
+        ],
+        "passesPct": [
+          93,
+          80
         ],
         "possession": [
           77,
           23
         ],
+        "saves": [
+          0,
+          2
+        ],
         "shotsOff": [
           6,
+          0
+        ],
+        "shotsOutside": [
+          4,
           0
         ],
         "corners": [
@@ -83,6 +99,10 @@
         "red": [
           0,
           0
+        ],
+        "shotsInside": [
+          10,
+          1
         ],
         "fouls": [
           9,
