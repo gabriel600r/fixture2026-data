@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T01:36:02Z",
+  "updated": "2026-06-23T01:36:49Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 3,
       "away": 1,
       "goals": [
@@ -84,7 +84,7 @@
       ],
       "stats": {
         "fouls": [
-          7,
+          8,
           2
         ],
         "passesAccurate": [
@@ -93,15 +93,15 @@
         ],
         "shotsTotal": [
           11,
-          9
+          10
         ],
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "shotsInside": [
           9,
-          5
+          6
         ],
         "shotsOn": [
           6,
@@ -112,7 +112,7 @@
           2
         ],
         "passesTotal": [
-          283,
+          284,
           373
         ],
         "possession": [
@@ -283,7 +283,7 @@
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.9,
+          "rating": 8.6,
           "team": "NOR"
         }
       }
