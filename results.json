@@ -1,24 +1,31 @@
 {
-  "updated": "2026-06-23T03:35:51Z",
+  "updated": "2026-06-23T03:36:38Z",
   "live": [
     {
       "id": 58,
       "status": "1H",
-      "minute": 34,
-      "home": 0,
+      "minute": 37,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "N. Al Rashdan",
+          "minute": 36,
+          "team": "JOR"
+        }
+      ],
       "stats": {
         "fouls": [
           1,
-          2
+          3
         ],
         "passesAccurate": [
           60,
-          217
+          222
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "shotsBlocked": [
           0,
@@ -26,19 +33,19 @@
         ],
         "shotsInside": [
           1,
-          1
+          2
         ],
         "shotsOn": [
           2,
-          1
+          2
         ],
         "corners": [
           0,
-          2
+          3
         ],
         "passesTotal": [
           78,
-          240
+          246
         ],
         "possession": [
           25,
@@ -53,7 +60,7 @@
           0
         ],
         "saves": [
-          1,
+          2,
           2
         ],
         "passesPct": [
