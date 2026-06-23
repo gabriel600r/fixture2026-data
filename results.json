@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T03:49:11Z",
+  "updated": "2026-06-23T03:49:58Z",
   "live": [
     {
       "id": 58,
@@ -9,41 +9,37 @@
       "away": 0,
       "goals": [
         {
-          "player": "N. Al Rashdan",
+          "player": "Nizar Al-Rashdan",
           "minute": 36,
           "team": "JOR",
-          "assist": "M. Tamari"
+          "assist": "Mousa Al-Tamari"
         }
       ],
       "cardEvents": [
         {
-          "player": "R. Zerrouki",
+          "player": "Ramiz Zerrouki",
           "minute": 44,
           "team": "ALG",
           "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "fouls": [
           2,
           5
         ],
-        "passesAccurate": [
-          93,
-          283
-        ],
         "shotsTotal": [
-          5,
+          6,
           4
         ],
         "shotsBlocked": [
           0,
           1
         ],
-        "shotsInside": [
+        "shotsOff": [
           3,
-          2
+          1
         ],
         "shotsOn": [
           3,
@@ -53,41 +49,25 @@
           0,
           3
         ],
-        "passesTotal": [
-          117,
-          318
-        ],
-        "possession": [
-          27,
-          73
-        ],
         "yellow": [
           0,
           1
-        ],
-        "offsides": [
-          1,
-          0
         ],
         "saves": [
           2,
           2
         ],
-        "passesPct": [
-          79,
-          89
+        "possession": [
+          26,
+          74
         ],
         "red": [
           0,
           0
         ],
-        "shotsOff": [
-          2,
-          1
-        ],
-        "shotsOutside": [
-          2,
-          2
+        "offsides": [
+          1,
+          0
         ],
         "home": "JOR",
         "away": "ALG"
