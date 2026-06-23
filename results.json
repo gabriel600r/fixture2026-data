@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:08:23Z",
+  "updated": "2026-06-23T00:09:11Z",
   "live": [
     {
       "id": 51,
@@ -204,7 +204,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 8.0,
+          "rating": 8.16,
           "team": "FRA"
         }
       }
@@ -212,7 +212,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "stats": {
