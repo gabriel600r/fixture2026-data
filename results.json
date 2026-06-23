@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:13:57Z",
+  "updated": "2026-06-23T01:14:44Z",
   "live": [
     {
       "id": 52,
@@ -38,6 +38,12 @@
           "in": "P. Berg",
           "minute": 46,
           "team": "NOR"
+        },
+        {
+          "out": "M. Diouf",
+          "in": "I. Jakobs",
+          "minute": 55,
+          "team": "SEN"
         }
       ],
       "stats": {
