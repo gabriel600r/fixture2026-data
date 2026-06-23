@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:39:06Z",
+  "updated": "2026-06-23T00:39:54Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 3,
       "away": 0,
       "goals": [
@@ -104,6 +104,10 @@
           4,
           1
         ],
+        "shotsOff": [
+          9,
+          3
+        ],
         "shotsOn": [
           4,
           0
@@ -120,21 +124,17 @@
           0,
           1
         ],
-        "offsides": [
-          1,
-          0
-        ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "red": [
           0,
           0
         ],
-        "shotsOff": [
-          9,
-          3
+        "offsides": [
+          1,
+          0
         ],
         "home": "FRA",
         "away": "IRQ"
@@ -280,7 +280,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "subs": [
@@ -293,27 +293,27 @@
       ],
       "stats": {
         "fouls": [
-          4,
+          5,
           1
         ],
         "passesAccurate": [
-          67,
-          101
+          140,
+          144
         ],
         "shotsTotal": [
-          3,
-          3
+          4,
+          4
         ],
         "shotsBlocked": [
           0,
           2
         ],
         "shotsInside": [
-          2,
+          3,
           2
         ],
         "shotsOn": [
-          1,
+          2,
           0
         ],
         "corners": [
@@ -321,12 +321,12 @@
           1
         ],
         "passesTotal": [
-          85,
-          116
+          164,
+          166
         ],
         "possession": [
-          43,
-          57
+          50,
+          50
         ],
         "yellow": [
           0,
@@ -338,10 +338,10 @@
         ],
         "saves": [
           0,
-          1
+          2
         ],
         "passesPct": [
-          79,
+          85,
           87
         ],
         "red": [
@@ -350,11 +350,11 @@
         ],
         "shotsOff": [
           2,
-          1
+          2
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "home": "NOR",
         "away": "SEN"
