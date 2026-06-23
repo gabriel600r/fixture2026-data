@@ -1,326 +1,6 @@
 {
-  "updated": "2026-06-23T19:00:30Z",
-  "live": [
-    {
-      "id": 63,
-      "status": "2H",
-      "minute": 90,
-      "home": 5,
-      "away": 0,
-      "goals": [
-        {
-          "player": "C. Ronaldo",
-          "minute": 6,
-          "team": "POR",
-          "assist": "J. Cancelo"
-        },
-        {
-          "player": "N. Mendes",
-          "minute": 17,
-          "team": "POR"
-        },
-        {
-          "player": "C. Ronaldo",
-          "minute": 39,
-          "team": "POR",
-          "assist": "B. Fernandes"
-        },
-        {
-          "player": "A. Nematov",
-          "minute": 60,
-          "team": "POR",
-          "og": true
-        },
-        {
-          "player": "R. Leao",
-          "minute": 87,
-          "team": "POR"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "O. Khamrobekov",
-          "minute": 14,
-          "team": "UZB",
-          "color": "yellow"
-        },
-        {
-          "player": "R. Veiga",
-          "minute": 68,
-          "team": "POR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "J. Cancelo",
-          "in": "N. Semedo",
-          "minute": 46,
-          "team": "POR"
-        },
-        {
-          "out": "P. Neto",
-          "in": "F. Conceicao",
-          "minute": 46,
-          "team": "POR"
-        },
-        {
-          "out": "S. Nasrullaev",
-          "in": "K. Alizhonov",
-          "minute": 46,
-          "team": "UZB"
-        },
-        {
-          "out": "O. Khamrobekov",
-          "in": "A. Mozgovoy",
-          "minute": 46,
-          "team": "UZB"
-        },
-        {
-          "out": "Joao Felix",
-          "in": "Trincao",
-          "minute": 64,
-          "team": "POR"
-        },
-        {
-          "out": "A. Fayzullaev",
-          "in": "I. Sergeev",
-          "minute": 73,
-          "team": "UZB"
-        },
-        {
-          "out": "J. Neves",
-          "in": "B. Silva",
-          "minute": 76,
-          "team": "POR"
-        },
-        {
-          "out": "Vitinha",
-          "in": "R. Leao",
-          "minute": 83,
-          "team": "POR"
-        },
-        {
-          "out": "B. Karimov",
-          "in": "R. Jiyanov",
-          "minute": 90,
-          "team": "UZB"
-        },
-        {
-          "out": "O. Shukurov",
-          "in": "S. Esanov",
-          "minute": 90,
-          "team": "UZB"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "shotsTotal": [
-          17,
-          7
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "shotsOn": [
-          9,
-          2
-        ],
-        "passesAccurate": [
-          555,
-          257
-        ],
-        "passesTotal": [
-          616,
-          319
-        ],
-        "passesPct": [
-          90,
-          81
-        ],
-        "possession": [
-          66,
-          34
-        ],
-        "saves": [
-          2,
-          4
-        ],
-        "shotsOff": [
-          5,
-          2
-        ],
-        "shotsOutside": [
-          5,
-          3
-        ],
-        "corners": [
-          3,
-          2
-        ],
-        "offsides": [
-          1,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          12,
-          4
-        ],
-        "fouls": [
-          13,
-          15
-        ],
-        "shotsBlocked": [
-          3,
-          3
-        ],
-        "home": "POR",
-        "away": "UZB"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Roberto Martinez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Diogo Costa",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "João Cancelo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Rúben Dias",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Renato Veiga",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nuno Mendes",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "João Neves",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Vitinha",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Pedro Neto",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Fernandes",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "João Félix",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Cristiano Ronaldo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-2-1",
-            "coach": "Fabio Cannavaro",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Abduvokhid Nematov",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Abdukodir Khusanov",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Abdulla Abdullaev",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Rustam Ashurmatov",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Bekhruz Karimov",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Odiljon Khamrobekov",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Otabek Shukurov",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Sherzod Nasrullaev",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Azizjon Ganiev",
-                "pos": "F"
-              },
-              {
-                "n": 22,
-                "name": "Abbosbek Fayzullaev",
-                "pos": "F"
-              },
-              {
-                "n": 14,
-                "name": "Eldor Shomurodov",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Jalal Jayed, Morocco",
-        "motm": {
-          "player": "Cristiano Ronaldo",
-          "rating": 8.7,
-          "team": "POR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-23T19:00:32Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -13274,6 +12954,322 @@
       }
     },
     {
+      "id": 63,
+      "home": 5,
+      "away": 0,
+      "goals": [
+        {
+          "player": "C. Ronaldo",
+          "minute": 6,
+          "team": "POR",
+          "assist": "J. Cancelo"
+        },
+        {
+          "player": "N. Mendes",
+          "minute": 17,
+          "team": "POR"
+        },
+        {
+          "player": "C. Ronaldo",
+          "minute": 39,
+          "team": "POR",
+          "assist": "B. Fernandes"
+        },
+        {
+          "player": "A. Nematov",
+          "minute": 60,
+          "team": "POR",
+          "og": true
+        },
+        {
+          "player": "R. Leao",
+          "minute": 87,
+          "team": "POR"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "O. Khamrobekov",
+          "minute": 14,
+          "team": "UZB",
+          "color": "yellow"
+        },
+        {
+          "player": "R. Veiga",
+          "minute": 68,
+          "team": "POR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Cancelo",
+          "in": "N. Semedo",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "S. Nasrullaev",
+          "in": "K. Alizhonov",
+          "minute": 46,
+          "team": "UZB"
+        },
+        {
+          "out": "O. Khamrobekov",
+          "in": "A. Mozgovoy",
+          "minute": 46,
+          "team": "UZB"
+        },
+        {
+          "out": "Joao Felix",
+          "in": "Trincao",
+          "minute": 64,
+          "team": "POR"
+        },
+        {
+          "out": "A. Fayzullaev",
+          "in": "I. Sergeev",
+          "minute": 73,
+          "team": "UZB"
+        },
+        {
+          "out": "J. Neves",
+          "in": "B. Silva",
+          "minute": 76,
+          "team": "POR"
+        },
+        {
+          "out": "Vitinha",
+          "in": "R. Leao",
+          "minute": 83,
+          "team": "POR"
+        },
+        {
+          "out": "B. Karimov",
+          "in": "R. Jiyanov",
+          "minute": 90,
+          "team": "UZB"
+        },
+        {
+          "out": "O. Shukurov",
+          "in": "S. Esanov",
+          "minute": 90,
+          "team": "UZB"
+        }
+      ],
+      "stats": {
+        "shotsTotal": [
+          17,
+          7
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "shotsOn": [
+          9,
+          2
+        ],
+        "passesAccurate": [
+          555,
+          257
+        ],
+        "passesTotal": [
+          616,
+          319
+        ],
+        "passesPct": [
+          90,
+          81
+        ],
+        "possession": [
+          66,
+          34
+        ],
+        "saves": [
+          2,
+          4
+        ],
+        "shotsOff": [
+          5,
+          2
+        ],
+        "shotsOutside": [
+          5,
+          3
+        ],
+        "corners": [
+          3,
+          2
+        ],
+        "offsides": [
+          1,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          12,
+          4
+        ],
+        "fouls": [
+          13,
+          15
+        ],
+        "shotsBlocked": [
+          3,
+          3
+        ],
+        "home": "POR",
+        "away": "UZB"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "João Félix",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Fabio Cannavaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Abduvokhid Nematov",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Abdukodir Khusanov",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Abdulla Abdullaev",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rustam Ashurmatov",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Bekhruz Karimov",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Odiljon Khamrobekov",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Otabek Shukurov",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Sherzod Nasrullaev",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Azizjon Ganiev",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Abbosbek Fayzullaev",
+                "pos": "F"
+              },
+              {
+                "n": 14,
+                "name": "Eldor Shomurodov",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jalal Jayed, Morocco",
+        "motm": {
+          "player": "Cristiano Ronaldo",
+          "rating": 8.7,
+          "team": "POR"
+        }
+      }
+    },
+    {
       "id": 67,
       "home": 4,
       "away": 2,
@@ -13936,6 +13932,11 @@
         "goals": 2
       },
       {
+        "player": "C. Ronaldo",
+        "team": "POR",
+        "goals": 2
+      },
+      {
         "player": "C. Summerville",
         "team": "NED",
         "goals": 2,
@@ -14032,11 +14033,6 @@
       {
         "player": "A. Canobbio",
         "team": "URU",
-        "goals": 1
-      },
-      {
-        "player": "A. Diallo",
-        "team": "CIV",
         "goals": 1
       }
     ],
@@ -14137,6 +14133,11 @@
         "goals": 1
       },
       {
+        "player": "B. Fernandes",
+        "team": "POR",
+        "assists": 1
+      },
+      {
         "player": "B. Saka",
         "team": "ENG",
         "assists": 1
@@ -14191,11 +14192,6 @@
       {
         "player": "E. Anderson",
         "team": "ENG",
-        "assists": 1
-      },
-      {
-        "player": "Erik Lira",
-        "team": "MEX",
         "assists": 1
       }
     ],
@@ -14478,6 +14474,20 @@
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "6-0",
+      "biggestLose": "",
+      "form": "DW"
+    },
+    {
+      "code": "POR",
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "loses": 0,
+      "gf": 6,
+      "ga": 1,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "5-0",
       "biggestLose": "",
       "form": "DW"
     },
@@ -14790,20 +14800,6 @@
       "form": "DD"
     },
     {
-      "code": "POR",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 1,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
-    },
-    {
       "code": "COD",
       "played": 1,
       "wins": 0,
@@ -14944,20 +14940,6 @@
       "form": "L"
     },
     {
-      "code": "UZB",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "loses": 1,
-      "gf": 1,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-3",
-      "form": "L"
-    },
-    {
       "code": "CRO",
       "played": 1,
       "wins": 0,
@@ -15039,6 +15021,20 @@
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "1-4",
+      "form": "LL"
+    },
+    {
+      "code": "UZB",
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "loses": 2,
+      "gf": 1,
+      "ga": 8,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-5",
       "form": "LL"
     },
     {
