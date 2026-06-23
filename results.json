@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:38:16Z",
+  "updated": "2026-06-23T21:39:03Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -47,9 +47,15 @@
           "team": "GHA"
         },
         {
+          "out": "J. Bellingham",
+          "in": "M. Rogers",
+          "minute": 73,
+          "team": "ENG"
+        },
+        {
           "out": "E. Anderson",
           "in": "E. Eze",
-          "minute": 73,
+          "minute": 74,
           "team": "ENG"
         }
       ],
@@ -72,11 +78,11 @@
         ],
         "passesTotal": [
           500,
-          150
+          151
         ],
         "passesPct": [
           93,
-          80
+          79
         ],
         "possession": [
           77,
@@ -112,7 +118,7 @@
         ],
         "fouls": [
           9,
-          19
+          20
         ],
         "shotsBlocked": [
           6,
