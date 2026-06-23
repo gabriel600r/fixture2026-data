@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:06:49Z",
+  "updated": "2026-06-23T01:07:36Z",
   "live": [
     {
       "id": 51,
@@ -287,13 +287,18 @@
     {
       "id": 52,
       "status": "2H",
-      "minute": 47,
-      "home": 1,
+      "minute": 48,
+      "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "M. Pedersen",
           "minute": 43,
+          "team": "NOR"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 48,
           "team": "NOR"
         }
       ],
