@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:38:26Z",
+  "updated": "2026-06-23T18:39:13Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 4,
       "away": 0,
       "goals": [
@@ -76,6 +76,12 @@
           "in": "Trincao",
           "minute": 64,
           "team": "POR"
+        },
+        {
+          "out": "A. Fayzullaev",
+          "in": "I. Sergeev",
+          "minute": 73,
+          "team": "UZB"
         }
       ],
       "stats": {
