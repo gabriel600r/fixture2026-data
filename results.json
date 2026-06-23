@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:12:22Z",
+  "updated": "2026-06-23T01:13:09Z",
   "live": [
     {
       "id": 51,
@@ -287,9 +287,9 @@
     {
       "id": 52,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 2,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "M. Pedersen",
@@ -303,7 +303,7 @@
           "assist": "M. Odegaard"
         },
         {
-          "player": null,
+          "player": "I. Sarr",
           "minute": 53,
           "team": "SEN"
         }
@@ -523,7 +523,7 @@
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 7.7,
+          "rating": 7.9,
           "team": "NOR"
         }
       }
