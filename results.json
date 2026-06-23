@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T17:40:03Z",
+  "updated": "2026-06-23T17:40:50Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 3,
       "away": 0,
       "goals": [
@@ -48,20 +48,20 @@
           1
         ],
         "passesAccurate": [
-          153,
+          162,
           69
         ],
         "passesTotal": [
-          176,
-          85
+          187,
+          86
         ],
         "passesPct": [
           87,
-          81
+          80
         ],
         "possession": [
-          68,
-          32
+          69,
+          31
         ],
         "saves": [
           1,
