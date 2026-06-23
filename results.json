@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:58:49Z",
+  "updated": "2026-06-23T21:59:36Z",
   "live": [
     {
       "id": 69,
@@ -9,13 +9,13 @@
       "away": 0,
       "cardEvents": [
         {
-          "player": "D. Rice",
+          "player": "Declan Rice",
           "minute": 41,
           "team": "ENG",
           "color": "yellow"
         },
         {
-          "player": "I. Williams",
+          "player": "Iñaki Williams",
           "minute": 60,
           "team": "GHA",
           "color": "yellow"
@@ -23,58 +23,58 @@
       ],
       "subs": [
         {
-          "out": "A. Gordon",
-          "in": "B. Saka",
+          "out": "Anthony Gordon",
+          "in": "Bukayo Saka",
+          "minute": 65,
+          "team": "ENG"
+        },
+        {
+          "out": "Djed Spence",
+          "in": "Nico O'Reilly",
           "minute": 66,
           "team": "ENG"
         },
         {
-          "out": "D. Spence",
-          "in": "N. O'Reilly",
-          "minute": 66,
-          "team": "ENG"
-        },
-        {
-          "out": "I. Williams",
-          "in": "I. Fatawu",
+          "out": "Iñaki Williams",
+          "in": "Abdul Fatawu Issahaku",
           "minute": 66,
           "team": "GHA"
         },
         {
-          "out": "J. Ayew",
-          "in": "P. Adu",
+          "out": "Jordan Ayew",
+          "in": "Prince Kwabena Adu",
           "minute": 67,
           "team": "GHA"
         },
         {
-          "out": "J. Bellingham",
-          "in": "M. Rogers",
+          "out": "Jude Bellingham",
+          "in": "Morgan Rogers",
           "minute": 73,
           "team": "ENG"
         },
         {
-          "out": "E. Anderson",
-          "in": "E. Eze",
+          "out": "Elliot Anderson",
+          "in": "Eberechi Eze",
           "minute": 74,
           "team": "ENG"
         },
         {
-          "out": "N. Madueke",
-          "in": "M. Rashford",
+          "out": "Noni Madueke",
+          "in": "Marcus Rashford",
           "minute": 83,
           "team": "ENG"
         },
         {
-          "out": "M. Senaya",
-          "in": "K. Peprah",
+          "out": "Marvin Senaya",
+          "in": "Kojo Peprah Oppong",
           "minute": 87,
           "team": "GHA"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsTotal": [
-          18,
+          19,
           2
         ],
         "yellow": [
@@ -82,39 +82,23 @@
           1
         ],
         "shotsOn": [
-          3,
+          4,
           1
-        ],
-        "passesAccurate": [
-          572,
-          128
-        ],
-        "passesTotal": [
-          616,
-          172
-        ],
-        "passesPct": [
-          93,
-          74
-        ],
-        "possession": [
-          78,
-          22
         ],
         "saves": [
           0,
           3
         ],
+        "possession": [
+          78,
+          22
+        ],
         "shotsOff": [
           9,
           0
         ],
-        "shotsOutside": [
-          5,
-          0
-        ],
         "corners": [
-          8,
+          9,
           2
         ],
         "offsides": [
@@ -125,12 +109,8 @@
           0,
           0
         ],
-        "shotsInside": [
-          13,
-          2
-        ],
         "fouls": [
-          13,
+          14,
           24
         ],
         "shotsBlocked": [
