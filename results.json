@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:57:18Z",
+  "updated": "2026-06-23T01:58:06Z",
   "live": [
     {
       "id": 52,
@@ -100,7 +100,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "fouls": [
           12,
@@ -302,7 +302,7 @@
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.6,
+          "rating": 8.7,
           "team": "NOR"
         }
       }
