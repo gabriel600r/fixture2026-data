@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:23:42Z",
+  "updated": "2026-06-23T00:24:30Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 3,
       "away": 0,
       "goals": [
@@ -65,6 +65,12 @@
           "in": "Rayan Cherki",
           "minute": 68,
           "team": "FRA"
+        },
+        {
+          "out": "Amir Al-Ammari",
+          "in": "Aimar Sher",
+          "minute": 68,
+          "team": "IRQ"
         }
       ],
       "stats": {
