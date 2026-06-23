@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-23T04:44:26Z",
+  "updated": "2026-06-23T04:45:13Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "N. Al Rashdan",
@@ -19,6 +19,11 @@
           "minute": 69,
           "team": "ALG",
           "assist": "R. Mahrez"
+        },
+        {
+          "player": "A. Gouiri",
+          "minute": 82,
+          "team": "ALG"
         }
       ],
       "cardEvents": [
