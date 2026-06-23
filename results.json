@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T17:39:14Z",
+  "updated": "2026-06-23T17:40:03Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 3,
       "away": 0,
       "goals": [
@@ -22,7 +22,8 @@
         {
           "player": "C. Ronaldo",
           "minute": 39,
-          "team": "POR"
+          "team": "POR",
+          "assist": "B. Fernandes"
         }
       ],
       "cardEvents": [
