@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:57:22Z",
+  "updated": "2026-06-23T18:58:09Z",
   "live": [
     {
       "id": 63,
@@ -113,7 +113,7 @@
           "team": "UZB"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsTotal": [
           16,
@@ -128,20 +128,20 @@
           2
         ],
         "passesAccurate": [
-          517,
-          231
+          536,
+          256
         ],
         "passesTotal": [
-          574,
-          288
+          596,
+          317
         ],
         "passesPct": [
           90,
-          80
+          81
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "saves": [
           2,
@@ -172,7 +172,7 @@
           4
         ],
         "fouls": [
-          12,
+          13,
           14
         ],
         "shotsBlocked": [
