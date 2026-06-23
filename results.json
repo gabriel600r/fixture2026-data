@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:13:10Z",
+  "updated": "2026-06-23T18:13:57Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 3,
       "away": 0,
       "goals": [
@@ -62,7 +62,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          9,
+          10,
           3
         ],
         "yellow": [
@@ -74,31 +74,31 @@
           1
         ],
         "passesAccurate": [
-          268,
-          133
+          279,
+          145
         ],
         "passesTotal": [
-          304,
-          170
+          318,
+          185
         ],
         "passesPct": [
           88,
           78
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "saves": [
           1,
           0
         ],
         "shotsOff": [
-          3,
+          4,
           1
         ],
         "shotsOutside": [
-          3,
+          4,
           1
         ],
         "corners": [
@@ -261,7 +261,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Cristiano Ronaldo",
-          "rating": 8.7,
+          "rating": 8.3,
           "team": "POR"
         }
       }
