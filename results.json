@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T18:23:25Z",
+  "updated": "2026-06-23T18:24:12Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 59,
-      "home": 3,
+      "minute": 60,
+      "home": 4,
       "away": 0,
       "goals": [
         {
@@ -24,6 +24,12 @@
           "minute": 39,
           "team": "POR",
           "assist": "B. Fernandes"
+        },
+        {
+          "player": "A. Khusanov",
+          "minute": 60,
+          "team": "POR",
+          "og": true
         }
       ],
       "cardEvents": [
@@ -63,7 +69,7 @@
       "stats": {
         "shotsTotal": [
           10,
-          4
+          5
         ],
         "yellow": [
           0,
@@ -74,20 +80,20 @@
           2
         ],
         "passesAccurate": [
-          318,
-          165
+          334,
+          167
         ],
         "passesTotal": [
-          361,
-          210
+          377,
+          212
         ],
         "passesPct": [
-          88,
+          89,
           79
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "saves": [
           2,
@@ -99,11 +105,11 @@
         ],
         "shotsOutside": [
           4,
-          1
+          2
         ],
         "corners": [
           1,
-          0
+          1
         ],
         "offsides": [
           0,
@@ -119,11 +125,11 @@
         ],
         "fouls": [
           9,
-          8
+          9
         ],
         "shotsBlocked": [
           2,
-          1
+          2
         ],
         "home": "POR",
         "away": "UZB"
