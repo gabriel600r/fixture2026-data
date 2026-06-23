@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-23T04:30:15Z",
+  "updated": "2026-06-23T04:31:03Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "N. Al Rashdan",
