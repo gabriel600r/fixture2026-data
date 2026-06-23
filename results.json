@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:56:34Z",
+  "updated": "2026-06-23T18:57:22Z",
   "live": [
     {
       "id": 63,
@@ -103,6 +103,12 @@
         {
           "out": "B. Karimov",
           "in": "R. Jiyanov",
+          "minute": 90,
+          "team": "UZB"
+        },
+        {
+          "out": "O. Shukurov",
+          "in": "S. Esanov",
           "minute": 90,
           "team": "UZB"
         }
