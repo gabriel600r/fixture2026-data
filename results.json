@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-23T01:51:48Z",
+  "updated": "2026-06-23T01:52:35Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
       "minute": 90,
       "home": 3,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "M. Pedersen",
@@ -30,6 +30,11 @@
           "minute": 58,
           "team": "NOR",
           "assist": "P. Berg"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 90,
+          "team": "SEN"
         }
       ],
       "subs": [
