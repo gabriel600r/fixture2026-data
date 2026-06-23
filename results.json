@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:34:59Z",
+  "updated": "2026-06-23T04:35:46Z",
   "live": [
     {
       "id": 58,
@@ -51,15 +51,15 @@
       ],
       "stats": {
         "fouls": [
-          6,
+          7,
           6
         ],
         "passesAccurate": [
-          130,
-          463
+          140,
+          486
         ],
         "shotsTotal": [
-          7,
+          8,
           11
         ],
         "shotsBlocked": [
@@ -67,11 +67,11 @@
           3
         ],
         "shotsInside": [
-          3,
+          4,
           7
         ],
         "shotsOn": [
-          3,
+          4,
           5
         ],
         "corners": [
@@ -79,12 +79,12 @@
           6
         ],
         "passesTotal": [
-          178,
-          521
+          189,
+          546
         ],
         "possession": [
-          25,
-          75
+          26,
+          74
         ],
         "yellow": [
           1,
@@ -96,10 +96,10 @@
         ],
         "saves": [
           4,
-          2
+          3
         ],
         "passesPct": [
-          73,
+          74,
           89
         ],
         "red": [
@@ -249,9 +249,9 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "Nizar Al-Rashdan",
-          "rating": 7.3,
-          "team": "JOR"
+          "player": "Ahmed Nadhir Benbouali",
+          "rating": 7.6,
+          "team": "ALG"
         }
       }
     }
