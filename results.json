@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:28:47Z",
+  "updated": "2026-06-23T21:29:35Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -19,6 +19,14 @@
           "minute": 60,
           "team": "GHA",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Gordon",
+          "in": "B. Saka",
+          "minute": 66,
+          "team": "ENG"
         }
       ],
       "stats": {
