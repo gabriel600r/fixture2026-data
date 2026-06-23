@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:46:20Z",
+  "updated": "2026-06-23T00:47:08Z",
   "live": [
     {
       "id": 51,
@@ -89,6 +89,12 @@
           "in": "Malo Gusto",
           "minute": 83,
           "team": "FRA"
+        },
+        {
+          "out": "Kylian Mbappé",
+          "in": "Marcus Thuram",
+          "minute": 91,
+          "team": "FRA"
         }
       ],
       "extra": 1,
@@ -98,7 +104,7 @@
           4
         ],
         "shotsTotal": [
-          18,
+          19,
           4
         ],
         "shotsBlocked": [
@@ -106,7 +112,7 @@
           1
         ],
         "shotsOff": [
-          9,
+          10,
           3
         ],
         "shotsOn": [
@@ -126,8 +132,8 @@
           2
         ],
         "possession": [
-          56,
-          44
+          55,
+          45
         ],
         "red": [
           0,
@@ -299,7 +305,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
           6,
@@ -307,7 +313,7 @@
         ],
         "passesAccurate": [
           179,
-          153
+          159
         ],
         "shotsTotal": [
           6,
@@ -331,11 +337,11 @@
         ],
         "passesTotal": [
           206,
-          178
+          184
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "yellow": [
           0,
