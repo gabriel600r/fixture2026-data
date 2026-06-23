@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-23T17:28:59Z",
+  "updated": "2026-06-23T17:29:47Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 2,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "C. Ronaldo",
@@ -18,6 +18,11 @@
           "player": "N. Mendes",
           "minute": 17,
           "team": "POR"
+        },
+        {
+          "player": "A. Ganiev",
+          "minute": 29,
+          "team": "UZB"
         }
       ],
       "cardEvents": [
@@ -42,20 +47,20 @@
           1
         ],
         "passesAccurate": [
-          127,
-          28
+          136,
+          48
         ],
         "passesTotal": [
-          140,
-          37
+          152,
+          59
         ],
         "passesPct": [
-          91,
-          76
+          89,
+          81
         ],
         "possession": [
-          80,
-          20
+          73,
+          27
         ],
         "saves": [
           1,
@@ -86,7 +91,7 @@
           1
         ],
         "fouls": [
-          1,
+          2,
           5
         ],
         "shotsBlocked": [
