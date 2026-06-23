@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T17:16:25Z",
+  "updated": "2026-06-23T17:17:12Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
       "minute": 17,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 6,
           "team": "POR",
           "assist": "J. Cancelo"
+        },
+        {
+          "player": null,
+          "minute": 17,
+          "team": "POR"
         }
       ],
       "cardEvents": [
@@ -30,27 +35,27 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsOn": [
           1,
           0
         ],
         "passesAccurate": [
-          75,
-          13
+          105,
+          14
         ],
         "passesTotal": [
-          81,
-          17
+          113,
+          21
         ],
         "passesPct": [
           93,
-          76
+          67
         ],
         "possession": [
-          84,
-          16
+          85,
+          15
         ],
         "saves": [
           0,
@@ -82,7 +87,7 @@
         ],
         "fouls": [
           0,
-          2
+          3
         ],
         "shotsBlocked": [
           2,
