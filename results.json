@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T01:16:19Z",
+  "updated": "2026-06-23T01:17:06Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 57,
-      "home": 2,
+      "minute": 58,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -24,6 +24,11 @@
           "minute": 53,
           "team": "SEN",
           "assist": "S. Mane"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 58,
+          "team": "NOR"
         }
       ],
       "subs": [
