@@ -1,12 +1,14 @@
 name: Fetch World Cup Results
 
 on:
-  schedule:
-    # Cada 15 minutos durante junio y julio (mundial: 11 jun - 19 jul 2026)
-    # Los partidos se juegan entre 13:00 UTC y 03:00 UTC del día siguiente
-    # Corremos de 12:00 a 04:00 UTC para cubrir todos los horarios
-    - cron: "*/15 12-23 * 6-7 *"
-    - cron: "*/15 0-4 * 6-7 *"
+  # schedule deshabilitado 2026-06-23: el droplet (161.35.113.228, fetch_live.py
+  # con API-Sports) es la unica fuente de verdad. Corria cada 15min y trataba de
+  # git push results.json -> 403 (token de Actions sin permiso de escritura) ->
+  # fallaba y mandaba emails de fallo. Si "funcionara" haria doble-push con data
+  # mas pobre y chocaria con el droplet. Queda solo manual (workflow_dispatch).
+  # schedule:
+  #   - cron: "*/15 12-23 * 6-7 *"
+  #   - cron: "*/15 0-4 * 6-7 *"
   workflow_dispatch: # Permite ejecutar manualmente
 
 jobs:
