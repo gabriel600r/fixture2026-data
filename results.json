@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-23T20:40:41Z",
+  "updated": "2026-06-23T20:41:29Z",
   "live": [
     {
       "id": 69,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "D. Rice",
+          "minute": 41,
+          "team": "ENG",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsTotal": [
           5,
@@ -21,20 +29,20 @@
           0
         ],
         "passesAccurate": [
-          264,
-          38
+          282,
+          42
         ],
         "passesTotal": [
-          275,
-          52
+          294,
+          57
         ],
         "passesPct": [
           96,
-          73
+          74
         ],
         "possession": [
-          85,
-          15
+          84,
+          16
         ],
         "saves": [
           0,
@@ -65,7 +73,7 @@
           0
         ],
         "fouls": [
-          5,
+          7,
           8
         ],
         "shotsBlocked": [
