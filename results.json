@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:53:06Z",
+  "updated": "2026-06-23T04:53:53Z",
   "live": [
     {
       "id": 58,
@@ -88,6 +88,12 @@
           "in": "Z. Belaid",
           "minute": 86,
           "team": "ALG"
+        },
+        {
+          "out": "A. Olwan",
+          "in": "Shararh",
+          "minute": 90,
+          "team": "JOR"
         }
       ],
       "extra": 1,
@@ -97,12 +103,12 @@
           6
         ],
         "passesAccurate": [
-          148,
-          526
+          157,
+          534
         ],
         "shotsTotal": [
           8,
-          16
+          17
         ],
         "shotsBlocked": [
           0,
@@ -110,19 +116,19 @@
         ],
         "shotsInside": [
           4,
-          10
+          11
         ],
         "shotsOn": [
           4,
-          7
+          8
         ],
         "corners": [
           1,
-          8
+          9
         ],
         "passesTotal": [
-          204,
-          592
+          217,
+          603
         ],
         "possession": [
           26,
@@ -137,11 +143,11 @@
           0
         ],
         "saves": [
-          5,
+          6,
           3
         ],
         "passesPct": [
-          73,
+          72,
           89
         ],
         "red": [
@@ -292,7 +298,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "Ahmed Nadhir Benbouali",
-          "rating": 7.7,
+          "rating": 7.3,
           "team": "ALG"
         }
       }
