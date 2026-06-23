@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:34:19Z",
+  "updated": "2026-06-23T21:35:06Z",
   "live": [
     {
       "id": 69,
@@ -9,13 +9,13 @@
       "away": 0,
       "cardEvents": [
         {
-          "player": "D. Rice",
+          "player": "Declan Rice",
           "minute": 41,
           "team": "ENG",
           "color": "yellow"
         },
         {
-          "player": "I. Williams",
+          "player": "Iñaki Williams",
           "minute": 60,
           "team": "GHA",
           "color": "yellow"
@@ -23,33 +23,33 @@
       ],
       "subs": [
         {
-          "out": "A. Gordon",
-          "in": "B. Saka",
+          "out": "Anthony Gordon",
+          "in": "Bukayo Saka",
+          "minute": 65,
+          "team": "ENG"
+        },
+        {
+          "out": "Djed Spence",
+          "in": "Nico O'Reilly",
           "minute": 66,
           "team": "ENG"
         },
         {
-          "out": "D. Spence",
-          "in": "N. O'Reilly",
-          "minute": 66,
-          "team": "ENG"
-        },
-        {
-          "out": "I. Williams",
-          "in": "I. Fatawu",
+          "out": "Iñaki Williams",
+          "in": "Abdul Fatawu Issahaku",
           "minute": 66,
           "team": "GHA"
         },
         {
-          "out": "J. Ayew",
-          "in": "P. Adu",
+          "out": "Jordan Ayew",
+          "in": "Prince Kwabena Adu",
           "minute": 67,
           "team": "GHA"
         }
       ],
       "stats": {
         "shotsTotal": [
-          12,
+          14,
           1
         ],
         "yellow": [
@@ -57,35 +57,19 @@
           1
         ],
         "shotsOn": [
-          1,
+          2,
           0
-        ],
-        "passesAccurate": [
-          444,
-          120
-        ],
-        "passesTotal": [
-          476,
-          149
-        ],
-        "passesPct": [
-          93,
-          81
-        ],
-        "possession": [
-          76,
-          24
         ],
         "saves": [
           0,
-          1
+          2
+        ],
+        "possession": [
+          77,
+          23
         ],
         "shotsOff": [
-          5,
-          0
-        ],
-        "shotsOutside": [
-          3,
+          6,
           0
         ],
         "corners": [
@@ -100,13 +84,9 @@
           0,
           0
         ],
-        "shotsInside": [
-          9,
-          1
-        ],
         "fouls": [
           9,
-          18
+          19
         ],
         "shotsBlocked": [
           6,
@@ -247,8 +227,8 @@
         },
         "referee": "Said Martinez, Honduras",
         "motm": {
-          "player": "Marc Guéhi",
-          "rating": 7.9,
+          "player": "D. Rice",
+          "rating": 7.2,
           "team": "ENG"
         }
       }
