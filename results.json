@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T01:17:06Z",
+  "updated": "2026-06-23T01:17:54Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 3,
       "away": 1,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "E. Haaland",
           "minute": 58,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "P. Berg"
         }
       ],
       "subs": [
@@ -63,12 +64,12 @@
           1
         ],
         "passesAccurate": [
-          208,
-          265
+          220,
+          274
         ],
         "shotsTotal": [
           9,
-          8
+          9
         ],
         "shotsBlocked": [
           1,
@@ -87,8 +88,8 @@
           1
         ],
         "passesTotal": [
-          247,
-          296
+          262,
+          307
         ],
         "possession": [
           46,
@@ -108,7 +109,7 @@
         ],
         "passesPct": [
           84,
-          90
+          89
         ],
         "red": [
           0,
@@ -116,11 +117,11 @@
         ],
         "shotsOff": [
           3,
-          3
+          4
         ],
         "shotsOutside": [
           2,
-          3
+          4
         ],
         "home": "NOR",
         "away": "SEN"
