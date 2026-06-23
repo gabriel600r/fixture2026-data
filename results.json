@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T04:26:19Z",
+  "updated": "2026-06-23T04:27:07Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 0,
       "goals": [
@@ -20,6 +20,12 @@
           "player": "R. Zerrouki",
           "minute": 44,
           "team": "ALG",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Abu Dahab",
+          "minute": 64,
+          "team": "JOR",
           "color": "yellow"
         }
       ],
