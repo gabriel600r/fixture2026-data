@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T01:21:03Z",
+  "updated": "2026-06-23T01:21:50Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 3,
       "away": 1,
       "goals": [
@@ -259,7 +259,7 @@
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 7.9,
+          "rating": 8.9,
           "team": "NOR"
         }
       }
