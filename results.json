@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-23T17:31:22Z",
+  "updated": "2026-06-23T17:32:10Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 2,
-      "away": 1,
+      "away": 0,
       "goals": [
         {
           "player": "C. Ronaldo",
@@ -18,11 +18,6 @@
           "player": "N. Mendes",
           "minute": 17,
           "team": "POR"
-        },
-        {
-          "player": "A. Ganiev",
-          "minute": 29,
-          "team": "UZB"
         }
       ],
       "cardEvents": [
