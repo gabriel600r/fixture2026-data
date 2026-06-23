@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:51:51Z",
+  "updated": "2026-06-23T18:52:38Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 5,
       "away": 0,
       "goals": [
@@ -302,7 +302,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Cristiano Ronaldo",
-          "rating": 8.3,
+          "rating": 8.7,
           "team": "POR"
         }
       }
