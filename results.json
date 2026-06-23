@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:43:55Z",
+  "updated": "2026-06-23T00:44:44Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 3,
       "away": 0,
       "goals": [
@@ -97,7 +97,7 @@
           4
         ],
         "shotsTotal": [
-          17,
+          18,
           4
         ],
         "shotsBlocked": [
@@ -109,7 +109,7 @@
           3
         ],
         "shotsOn": [
-          4,
+          5,
           0
         ],
         "corners": [
@@ -122,7 +122,7 @@
         ],
         "saves": [
           0,
-          1
+          2
         ],
         "possession": [
           56,
@@ -272,7 +272,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 9.2,
+          "rating": 9.27,
           "team": "FRA"
         }
       }
@@ -280,7 +280,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 1,
       "away": 0,
       "goals": [
