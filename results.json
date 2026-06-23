@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:49:10Z",
+  "updated": "2026-06-23T04:49:57Z",
   "live": [
     {
       "id": 58,
@@ -78,14 +78,14 @@
           "team": "JOR"
         },
         {
-          "out": "A. Gouiri",
-          "in": "Z. Belaid",
-          "minute": 86,
+          "out": "R. Ait-Nouri",
+          "in": "J. Hadjam",
+          "minute": 85,
           "team": "ALG"
         },
         {
-          "out": "R. Ait-Nouri",
-          "in": "J. Hadjam",
+          "out": "A. Gouiri",
+          "in": "Z. Belaid",
           "minute": 86,
           "team": "ALG"
         }
