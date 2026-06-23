@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T04:31:50Z",
+  "updated": "2026-06-23T04:32:37Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "N. Benbouali",
           "minute": 69,
-          "team": "ALG"
+          "team": "ALG",
+          "assist": "R. Mahrez"
         }
       ],
       "cardEvents": [
@@ -249,7 +250,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "Nizar Al-Rashdan",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "JOR"
         }
       }
