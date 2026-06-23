@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T18:51:04Z",
+  "updated": "2026-06-23T18:51:51Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 87,
-      "home": 4,
+      "minute": 88,
+      "home": 5,
       "away": 0,
       "goals": [
         {
@@ -30,6 +30,11 @@
           "minute": 60,
           "team": "POR",
           "og": true
+        },
+        {
+          "player": "R. Leao",
+          "minute": 87,
+          "team": "POR"
         }
       ],
       "cardEvents": [
