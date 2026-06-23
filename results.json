@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:58:01Z",
+  "updated": "2026-06-23T21:58:49Z",
   "live": [
     {
       "id": 69,
@@ -71,10 +71,10 @@
           "team": "GHA"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsTotal": [
-          17,
+          18,
           2
         ],
         "yellow": [
@@ -86,16 +86,16 @@
           1
         ],
         "passesAccurate": [
-          569,
+          572,
           128
         ],
         "passesTotal": [
-          612,
-          170
+          616,
+          172
         ],
         "passesPct": [
           93,
-          75
+          74
         ],
         "possession": [
           78,
@@ -106,7 +106,7 @@
           3
         ],
         "shotsOff": [
-          8,
+          9,
           0
         ],
         "shotsOutside": [
@@ -114,7 +114,7 @@
           0
         ],
         "corners": [
-          5,
+          8,
           2
         ],
         "offsides": [
@@ -126,7 +126,7 @@
           0
         ],
         "shotsInside": [
-          12,
+          13,
           2
         ],
         "fouls": [
