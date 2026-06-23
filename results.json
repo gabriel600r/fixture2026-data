@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:15:23Z",
+  "updated": "2026-06-23T21:16:10Z",
   "live": [
     {
       "id": 69,
@@ -18,7 +18,7 @@
       "stats": {
         "shotsTotal": [
           6,
-          0
+          1
         ],
         "yellow": [
           1,
@@ -29,20 +29,20 @@
           0
         ],
         "passesAccurate": [
-          349,
-          85
+          359,
+          102
         ],
         "passesTotal": [
-          372,
-          106
+          385,
+          124
         ],
         "passesPct": [
-          94,
-          80
+          93,
+          82
         ],
         "possession": [
-          78,
-          22
+          76,
+          24
         ],
         "saves": [
           0,
@@ -70,15 +70,15 @@
         ],
         "shotsInside": [
           5,
-          0
+          1
         ],
         "fouls": [
           9,
-          9
+          10
         ],
         "shotsBlocked": [
           4,
-          0
+          1
         ],
         "home": "ENG",
         "away": "GHA"
