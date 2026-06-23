@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T20:47:47Z",
+  "updated": "2026-06-23T20:48:34Z",
   "live": [
     {
       "id": 69,
@@ -30,11 +30,11 @@
           0
         ],
         "passesAccurate": [
-          292,
+          298,
           59
         ],
         "passesTotal": [
-          308,
+          314,
           77
         ],
         "passesPct": [
@@ -58,7 +58,7 @@
           0
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "offsides": [
