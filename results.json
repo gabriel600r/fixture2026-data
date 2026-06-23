@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:55:28Z",
+  "updated": "2026-06-23T04:56:15Z",
   "live": [
     {
       "id": 58,
@@ -90,14 +90,14 @@
           "team": "ALG"
         },
         {
-          "out": "A. Olwan",
-          "in": "Shararh",
+          "out": "H. Abu Dahab",
+          "in": "S. Obaid",
           "minute": 90,
           "team": "JOR"
         },
         {
-          "out": "H. Abu Dahab",
-          "in": "S. Obaid",
+          "out": "A. Olwan",
+          "in": "Shararh",
           "minute": 90,
           "team": "JOR"
         }
