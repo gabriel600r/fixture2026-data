@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:21:17Z",
+  "updated": "2026-06-23T00:22:05Z",
   "live": [
     {
       "id": 51,
@@ -19,6 +19,11 @@
           "minute": 54,
           "team": "FRA",
           "assist": "Ousmane Dembélé"
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "minute": 66,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
@@ -230,7 +235,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "subs": [
