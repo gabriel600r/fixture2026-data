@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:36:41Z",
+  "updated": "2026-06-23T21:37:29Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -45,6 +45,12 @@
           "in": "P. Adu",
           "minute": 67,
           "team": "GHA"
+        },
+        {
+          "out": "E. Anderson",
+          "in": "E. Eze",
+          "minute": 73,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -247,8 +253,8 @@
         },
         "referee": "Said Martinez, Honduras",
         "motm": {
-          "player": "D. Rice",
-          "rating": 7.2,
+          "player": "Marc Guéhi",
+          "rating": 7.9,
           "team": "ENG"
         }
       }
