@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-23T03:37:25Z",
+  "updated": "2026-06-23T03:38:12Z",
   "live": [
     {
       "id": 58,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "N. Al Rashdan",
           "minute": 36,
-          "team": "JOR"
+          "team": "JOR",
+          "assist": "M. Tamari"
         }
       ],
       "stats": {
