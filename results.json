@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:19:20Z",
+  "updated": "2026-06-23T21:20:07Z",
   "live": [
     {
       "id": 69,
@@ -29,20 +29,20 @@
           0
         ],
         "passesAccurate": [
-          371,
-          104
+          384,
+          111
         ],
         "passesTotal": [
-          399,
-          127
+          413,
+          135
         ],
         "passesPct": [
           93,
           82
         ],
         "possession": [
-          76,
-          24
+          75,
+          25
         ],
         "saves": [
           0,
@@ -58,7 +58,7 @@
         ],
         "corners": [
           3,
-          1
+          2
         ],
         "offsides": [
           1,
@@ -74,7 +74,7 @@
         ],
         "fouls": [
           9,
-          11
+          13
         ],
         "shotsBlocked": [
           4,
@@ -216,7 +216,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Marc Guéhi",
-          "rating": 7.3,
+          "rating": 7.7,
           "team": "ENG"
         }
       }
