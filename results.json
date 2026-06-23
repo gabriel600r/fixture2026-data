@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:40:01Z",
+  "updated": "2026-06-23T18:40:49Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 4,
       "away": 0,
       "goals": [
@@ -82,6 +82,12 @@
           "in": "I. Sergeev",
           "minute": 73,
           "team": "UZB"
+        },
+        {
+          "out": "J. Neves",
+          "in": "B. Silva",
+          "minute": 76,
+          "team": "POR"
         }
       ],
       "stats": {
