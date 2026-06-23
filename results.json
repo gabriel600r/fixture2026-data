@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:49:25Z",
+  "updated": "2026-06-23T01:50:13Z",
   "live": [
     {
       "id": 52,
@@ -94,25 +94,26 @@
           "team": "NOR"
         }
       ],
+      "extra": 1,
       "stats": {
         "fouls": [
-          9,
+          10,
           4
         ],
         "passesAccurate": [
-          266,
-          366
+          278,
+          374
         ],
         "shotsTotal": [
-          11,
+          12,
           12
         ],
         "shotsBlocked": [
-          2,
+          3,
           4
         ],
         "shotsInside": [
-          9,
+          10,
           7
         ],
         "shotsOn": [
@@ -124,8 +125,8 @@
           2
         ],
         "passesTotal": [
-          329,
-          420
+          344,
+          429
         ],
         "possession": [
           44,
