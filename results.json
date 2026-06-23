@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T01:21:50Z",
+  "updated": "2026-06-23T01:22:38Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 3,
       "away": 1,
       "goals": [
@@ -55,6 +55,12 @@
           "out": "P. Gueye",
           "in": "I. Mbaye",
           "minute": 54,
+          "team": "SEN"
+        },
+        {
+          "out": "E. Mendy",
+          "in": "M. Diaw",
+          "minute": 63,
           "team": "SEN"
         }
       ],
