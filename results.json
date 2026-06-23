@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:51:41Z",
+  "updated": "2026-06-23T21:52:28Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -63,11 +63,17 @@
           "in": "M. Rashford",
           "minute": 83,
           "team": "ENG"
+        },
+        {
+          "out": "M. Senaya",
+          "in": "K. Peprah",
+          "minute": 87,
+          "team": "GHA"
         }
       ],
       "stats": {
         "shotsTotal": [
-          14,
+          17,
           2
         ],
         "yellow": [
@@ -75,20 +81,20 @@
           1
         ],
         "shotsOn": [
-          2,
+          3,
           1
         ],
         "passesAccurate": [
-          523,
+          536,
           124
         ],
         "passesTotal": [
-          563,
-          161
+          577,
+          163
         ],
         "passesPct": [
           93,
-          77
+          76
         ],
         "possession": [
           78,
@@ -96,14 +102,14 @@
         ],
         "saves": [
           0,
-          2
+          3
         ],
         "shotsOff": [
-          6,
+          8,
           0
         ],
         "shotsOutside": [
-          4,
+          5,
           0
         ],
         "corners": [
@@ -119,7 +125,7 @@
           0
         ],
         "shotsInside": [
-          10,
+          12,
           2
         ],
         "fouls": [
@@ -266,7 +272,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Marc Guéhi",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "ENG"
         }
       }
