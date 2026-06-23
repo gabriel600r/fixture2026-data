@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:17:39Z",
+  "updated": "2026-06-23T04:18:26Z",
   "live": [
     {
       "id": 58,
@@ -43,12 +43,12 @@
           6
         ],
         "passesAccurate": [
-          103,
-          355
+          115,
+          384
         ],
         "shotsTotal": [
           6,
-          5
+          7
         ],
         "shotsBlocked": [
           0,
@@ -56,19 +56,19 @@
         ],
         "shotsInside": [
           3,
-          2
+          3
         ],
         "shotsOn": [
           3,
-          2
+          3
         ],
         "corners": [
           1,
           4
         ],
         "passesTotal": [
-          136,
-          401
+          149,
+          432
         ],
         "possession": [
           26,
@@ -83,11 +83,11 @@
           0
         ],
         "saves": [
-          2,
+          3,
           2
         ],
         "passesPct": [
-          76,
+          77,
           89
         ],
         "red": [
@@ -96,11 +96,11 @@
         ],
         "shotsOff": [
           3,
-          1
+          2
         ],
         "shotsOutside": [
           3,
-          3
+          4
         ],
         "home": "JOR",
         "away": "ALG"
