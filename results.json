@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T23:20:53Z",
+  "updated": "2026-06-23T23:21:40Z",
   "live": [
     {
       "id": 70,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -78,13 +78,18 @@
       "extras": {
         "lineups": {
           "home": {
-            "formation": "3-4-3",
+            "formation": "5-4-1",
             "coach": "Thomas Christiansen",
             "xi": [
               {
                 "n": 22,
                 "name": "Orlando Mosquera",
                 "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "Amir Murillo",
+                "pos": "D"
               },
               {
                 "n": 13,
@@ -102,8 +107,13 @@
                 "pos": "D"
               },
               {
-                "n": 23,
-                "name": "Amir Murillo",
+                "n": 2,
+                "name": "César Blackman",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Cristian Martínez",
                 "pos": "M"
               },
               {
@@ -117,23 +127,13 @@
                 "pos": "M"
               },
               {
-                "n": 2,
-                "name": "César Blackman",
+                "n": 7,
+                "name": "José Luis Rodríguez",
                 "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Cristian Martínez",
-                "pos": "F"
               },
               {
                 "n": 17,
                 "name": "José Fajardo",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "José Luis Rodríguez",
                 "pos": "F"
               }
             ]
