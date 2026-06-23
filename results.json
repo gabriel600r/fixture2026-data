@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:52:35Z",
+  "updated": "2026-06-23T01:53:22Z",
   "live": [
     {
       "id": 52,
@@ -34,7 +34,8 @@
         {
           "player": "I. Sarr",
           "minute": 90,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "N. Jackson"
         }
       ],
       "subs": [
@@ -99,7 +100,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "fouls": [
           11,
