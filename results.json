@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:31:03Z",
+  "updated": "2026-06-23T04:31:50Z",
   "live": [
     {
       "id": 58,
@@ -13,6 +13,11 @@
           "minute": 36,
           "team": "JOR",
           "assist": "M. Tamari"
+        },
+        {
+          "player": "N. Benbouali",
+          "minute": 69,
+          "team": "ALG"
         }
       ],
       "cardEvents": [
@@ -50,19 +55,19 @@
         ],
         "passesAccurate": [
           129,
-          446
+          463
         ],
         "shotsTotal": [
           7,
-          9
+          10
         ],
         "shotsBlocked": [
           0,
-          2
+          3
         ],
         "shotsInside": [
           3,
-          5
+          6
         ],
         "shotsOn": [
           3,
@@ -70,15 +75,15 @@
         ],
         "corners": [
           1,
-          4
+          5
         ],
         "passesTotal": [
-          175,
-          502
+          176,
+          521
         ],
         "possession": [
-          26,
-          74
+          25,
+          75
         ],
         "yellow": [
           1,
@@ -93,7 +98,7 @@
           2
         ],
         "passesPct": [
-          74,
+          73,
           89
         ],
         "red": [
