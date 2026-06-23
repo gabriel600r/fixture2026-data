@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:23:16Z",
+  "updated": "2026-06-23T21:24:03Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "D. Rice",
           "minute": 41,
           "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "I. Williams",
+          "minute": 60,
+          "team": "GHA",
           "color": "yellow"
         }
       ],
