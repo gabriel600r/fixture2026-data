@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T17:14:50Z",
+  "updated": "2026-06-23T17:15:37Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 1,
       "away": 0,
       "goals": [
@@ -15,9 +15,17 @@
           "assist": "J. Cancelo"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "O. Khamrobekov",
+          "minute": 14,
+          "team": "UZB",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsTotal": [
-          3,
+          4,
           0
         ],
         "yellow": [
@@ -29,11 +37,11 @@
           0
         ],
         "passesAccurate": [
-          63,
+          75,
           13
         ],
         "passesTotal": [
-          68,
+          81,
           17
         ],
         "passesPct": [
@@ -41,8 +49,8 @@
           76
         ],
         "possession": [
-          81,
-          19
+          84,
+          16
         ],
         "saves": [
           0,
@@ -53,7 +61,7 @@
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "corners": [
@@ -77,7 +85,7 @@
           2
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "home": "POR",
