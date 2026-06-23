@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T01:43:07Z",
+  "updated": "2026-06-23T01:43:55Z",
   "live": [
     {
       "id": 52,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 3,
       "away": 1,
       "goals": [
@@ -80,6 +80,18 @@
           "in": "P. M. Sarr",
           "minute": 72,
           "team": "SEN"
+        },
+        {
+          "out": "T. Heggem",
+          "in": "L. Ostigard",
+          "minute": 84,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 84,
+          "team": "NOR"
         }
       ],
       "stats": {
@@ -88,8 +100,8 @@
           3
         ],
         "passesAccurate": [
-          251,
-          350
+          257,
+          353
         ],
         "shotsTotal": [
           11,
@@ -112,8 +124,8 @@
           2
         ],
         "passesTotal": [
-          309,
-          398
+          318,
+          405
         ],
         "possession": [
           44,
@@ -125,7 +137,7 @@
         ],
         "offsides": [
           0,
-          3
+          4
         ],
         "saves": [
           2,
@@ -133,7 +145,7 @@
         ],
         "passesPct": [
           81,
-          88
+          87
         ],
         "red": [
           0,
