@@ -1,11 +1,147 @@
 {
-  "updated": "2026-06-23T13:42:44Z",
+  "updated": "2026-06-23T16:02:15Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 63,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "João Félix",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Fabio Cannavaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Abduvokhid Nematov",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Abdukodir Khusanov",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Abdulla Abdullaev",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rustam Ashurmatov",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Bekhruz Karimov",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Odiljon Khamrobekov",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Otabek Shukurov",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Sherzod Nasrullaev",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Abbosbek Fayzullaev",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Azizjon Ganiev",
+                "pos": "F"
+              },
+              {
+                "n": 14,
+                "name": "Eldor Shomurodov",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jalal Jayed, Morocco"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
