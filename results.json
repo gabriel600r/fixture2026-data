@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:09:59Z",
+  "updated": "2026-06-23T18:10:47Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 3,
       "away": 0,
       "goals": [
@@ -32,6 +32,32 @@
           "minute": 14,
           "team": "UZB",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Cancelo",
+          "in": "N. Semedo",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "S. Nasrullaev",
+          "in": "K. Alizhonov",
+          "minute": 46,
+          "team": "UZB"
+        },
+        {
+          "out": "O. Khamrobekov",
+          "in": "A. Mozgovoy",
+          "minute": 46,
+          "team": "UZB"
         }
       ],
       "stats": {
