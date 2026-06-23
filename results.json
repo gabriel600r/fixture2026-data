@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:00:59Z",
+  "updated": "2026-06-23T11:22:02Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -13430,6 +13430,11 @@
         "goals": 4
       },
       {
+        "player": "Kylian Mbappé",
+        "team": "FRA",
+        "goals": 4
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -13501,18 +13506,13 @@
         "goals": 2
       },
       {
+        "player": "Ismael Saibari",
+        "team": "MAR",
+        "goals": 2
+      },
+      {
         "player": "J. Manzambi",
         "team": "SUI",
-        "goals": 2
-      },
-      {
-        "player": "K. Mbappe",
-        "team": "FRA",
-        "goals": 2
-      },
-      {
-        "player": "Kylian Mbappé",
-        "team": "FRA",
         "goals": 2
       },
       {
@@ -13557,7 +13557,7 @@
         "penalties": 1
       },
       {
-        "player": "T. Mokoena",
+        "player": "Teboho Mokoena",
         "team": "RSA",
         "goals": 1,
         "penalties": 1
@@ -13591,6 +13591,16 @@
         "goals": 1
       },
       {
+        "player": "Michael Olise",
+        "team": "FRA",
+        "assists": 3
+      },
+      {
+        "player": "Brahim Díaz",
+        "team": "MAR",
+        "assists": 2
+      },
+      {
         "player": "Chris Wood",
         "team": "NZL",
         "assists": 2
@@ -13612,6 +13622,11 @@
         "assists": 2
       },
       {
+        "player": "Julio Enciso",
+        "team": "PAR",
+        "assists": 2
+      },
+      {
         "player": "M. Odegaard",
         "team": "NOR",
         "assists": 2
@@ -13621,11 +13636,6 @@
         "team": "EGY",
         "assists": 2,
         "goals": 1
-      },
-      {
-        "player": "Michael Olise",
-        "team": "FRA",
-        "assists": 2
       },
       {
         "player": "R. Gravenberch",
@@ -13664,11 +13674,6 @@
         "goals": 2
       },
       {
-        "player": "B. Diaz",
-        "team": "MAR",
-        "assists": 1
-      },
-      {
         "player": "B. Embolo",
         "team": "SUI",
         "assists": 1,
@@ -13682,11 +13687,6 @@
       {
         "player": "B. Thomas-Asante",
         "team": "GHA",
-        "assists": 1
-      },
-      {
-        "player": "Brahim Díaz",
-        "team": "MAR",
         "assists": 1
       },
       {
@@ -13744,6 +13744,12 @@
     ],
     "cards": [
       {
+        "player": "Miguel Almirón",
+        "team": "PAR",
+        "red": 1,
+        "yellow": 1
+      },
+      {
         "player": "A. O. Madibo",
         "team": "QAT",
         "red": 1,
@@ -13758,12 +13764,6 @@
       {
         "player": "H. Al Amin",
         "team": "QAT",
-        "red": 1,
-        "yellow": 0
-      },
-      {
-        "player": "M. Almiron",
-        "team": "PAR",
         "red": 1,
         "yellow": 0
       },
@@ -13794,6 +13794,12 @@
       {
         "player": "S. Lopes Cabral",
         "team": "CPV",
+        "red": 0,
+        "yellow": 2
+      },
+      {
+        "player": "Teboho Mokoena",
+        "team": "RSA",
         "red": 0,
         "yellow": 2
       },
@@ -13914,12 +13920,6 @@
       {
         "player": "C. Richards",
         "team": "USA",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Summerville",
-        "team": "NED",
         "red": 0,
         "yellow": 1
       }
