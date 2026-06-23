@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:54:13Z",
+  "updated": "2026-06-23T18:55:00Z",
   "live": [
     {
       "id": 63,
@@ -101,9 +101,10 @@
           "team": "POR"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsTotal": [
-          15,
+          16,
           7
         ],
         "yellow": [
@@ -111,16 +112,16 @@
           1
         ],
         "shotsOn": [
-          8,
+          9,
           2
         ],
         "passesAccurate": [
-          510,
-          232
+          517,
+          231
         ],
         "passesTotal": [
-          567,
-          289
+          574,
+          288
         ],
         "passesPct": [
           90,
@@ -155,12 +156,12 @@
           0
         ],
         "shotsInside": [
-          10,
+          11,
           4
         ],
         "fouls": [
           12,
-          13
+          14
         ],
         "shotsBlocked": [
           3,
