@@ -1,313 +1,6 @@
 {
-  "updated": "2026-06-23T02:00:31Z",
-  "live": [
-    {
-      "id": 52,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 2,
-      "goals": [
-        {
-          "player": "M. Pedersen",
-          "minute": 43,
-          "team": "NOR"
-        },
-        {
-          "player": "E. Haaland",
-          "minute": 48,
-          "team": "NOR",
-          "assist": "M. Odegaard"
-        },
-        {
-          "player": "I. Sarr",
-          "minute": 53,
-          "team": "SEN",
-          "assist": "S. Mane"
-        },
-        {
-          "player": "E. Haaland",
-          "minute": 58,
-          "team": "NOR",
-          "assist": "P. Berg"
-        },
-        {
-          "player": "I. Sarr",
-          "minute": 90,
-          "team": "SEN",
-          "assist": "N. Jackson"
-        }
-      ],
-      "subs": [
-        {
-          "out": "J. Ryerson",
-          "in": "M. Pedersen",
-          "minute": 13,
-          "team": "NOR"
-        },
-        {
-          "out": "F. Aursnes",
-          "in": "P. Berg",
-          "minute": 46,
-          "team": "NOR"
-        },
-        {
-          "out": "M. Diouf",
-          "in": "I. Jakobs",
-          "minute": 54,
-          "team": "SEN"
-        },
-        {
-          "out": "P. Gueye",
-          "in": "I. Mbaye",
-          "minute": 54,
-          "team": "SEN"
-        },
-        {
-          "out": "E. Mendy",
-          "in": "M. Diaw",
-          "minute": 63,
-          "team": "SEN"
-        },
-        {
-          "out": "L. Camara",
-          "in": "P. Ciss",
-          "minute": 63,
-          "team": "SEN"
-        },
-        {
-          "out": "A. Nusa",
-          "in": "A. Schjelderup",
-          "minute": 71,
-          "team": "NOR"
-        },
-        {
-          "out": "K. Koulibaly",
-          "in": "P. M. Sarr",
-          "minute": 72,
-          "team": "SEN"
-        },
-        {
-          "out": "T. Heggem",
-          "in": "L. Ostigard",
-          "minute": 84,
-          "team": "NOR"
-        },
-        {
-          "out": "A. Sorloth",
-          "in": "O. Bobb",
-          "minute": 84,
-          "team": "NOR"
-        }
-      ],
-      "extra": 11,
-      "stats": {
-        "fouls": [
-          13,
-          5
-        ],
-        "passesAccurate": [
-          283,
-          414
-        ],
-        "shotsTotal": [
-          13,
-          14
-        ],
-        "shotsBlocked": [
-          3,
-          5
-        ],
-        "shotsInside": [
-          11,
-          8
-        ],
-        "shotsOn": [
-          7,
-          4
-        ],
-        "corners": [
-          5,
-          3
-        ],
-        "passesTotal": [
-          351,
-          471
-        ],
-        "possession": [
-          43,
-          57
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "offsides": [
-          0,
-          4
-        ],
-        "saves": [
-          2,
-          3
-        ],
-        "passesPct": [
-          81,
-          88
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOff": [
-          3,
-          5
-        ],
-        "shotsOutside": [
-          2,
-          6
-        ],
-        "home": "NOR",
-        "away": "SEN"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Stale Solbakken",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Ørjan Nyland",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Julian Ryerson",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kristoffer Ajer",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Torbjørn Heggem",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "David Møller Wolfe",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Martin Ødegaard",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Sander Berge",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Fredrik Aursnes",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Alexander Sørloth",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Erling Haaland",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Antonio Nusa",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Bouna Thiaw Pape",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Edouard Mendy",
-                "pos": "G"
-              },
-              {
-                "n": 15,
-                "name": "Krépin Diatta",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kalidou Koulibaly",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Moussa Niakhaté",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "El Hadji Malick Diouf",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Idrissa Gana Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 26,
-                "name": "Pape Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Ismaïla Sarr",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Lamine Camara",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Sadio Mané",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Nicolas Jackson",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Wilton Pereira Sampaio, Brazil",
-        "motm": {
-          "player": "Erling Haaland",
-          "rating": 8.7,
-          "team": "NOR"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-23T02:01:18Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
@@ -11023,6 +10716,309 @@
       }
     },
     {
+      "id": 52,
+      "home": 3,
+      "away": 2,
+      "goals": [
+        {
+          "player": "M. Pedersen",
+          "minute": 43,
+          "team": "NOR"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 48,
+          "team": "NOR",
+          "assist": "M. Odegaard"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 53,
+          "team": "SEN",
+          "assist": "S. Mane"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 58,
+          "team": "NOR",
+          "assist": "P. Berg"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 90,
+          "team": "SEN",
+          "assist": "N. Jackson"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Ryerson",
+          "in": "M. Pedersen",
+          "minute": 13,
+          "team": "NOR"
+        },
+        {
+          "out": "F. Aursnes",
+          "in": "P. Berg",
+          "minute": 46,
+          "team": "NOR"
+        },
+        {
+          "out": "M. Diouf",
+          "in": "I. Jakobs",
+          "minute": 54,
+          "team": "SEN"
+        },
+        {
+          "out": "P. Gueye",
+          "in": "I. Mbaye",
+          "minute": 54,
+          "team": "SEN"
+        },
+        {
+          "out": "E. Mendy",
+          "in": "M. Diaw",
+          "minute": 63,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Camara",
+          "in": "P. Ciss",
+          "minute": 63,
+          "team": "SEN"
+        },
+        {
+          "out": "A. Nusa",
+          "in": "A. Schjelderup",
+          "minute": 71,
+          "team": "NOR"
+        },
+        {
+          "out": "K. Koulibaly",
+          "in": "P. M. Sarr",
+          "minute": 72,
+          "team": "SEN"
+        },
+        {
+          "out": "T. Heggem",
+          "in": "L. Ostigard",
+          "minute": 84,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 84,
+          "team": "NOR"
+        }
+      ],
+      "stats": {
+        "fouls": [
+          13,
+          5
+        ],
+        "passesAccurate": [
+          283,
+          414
+        ],
+        "shotsTotal": [
+          13,
+          14
+        ],
+        "shotsBlocked": [
+          3,
+          5
+        ],
+        "shotsInside": [
+          11,
+          8
+        ],
+        "shotsOn": [
+          7,
+          4
+        ],
+        "corners": [
+          5,
+          3
+        ],
+        "passesTotal": [
+          351,
+          471
+        ],
+        "possession": [
+          43,
+          57
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          4
+        ],
+        "saves": [
+          2,
+          3
+        ],
+        "passesPct": [
+          81,
+          88
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          3,
+          5
+        ],
+        "shotsOutside": [
+          2,
+          6
+        ],
+        "home": "NOR",
+        "away": "SEN"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Stale Solbakken",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ørjan Nyland",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Julian Ryerson",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kristoffer Ajer",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Torbjørn Heggem",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "David Møller Wolfe",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Martin Ødegaard",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Sander Berge",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Fredrik Aursnes",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Alexander Sørloth",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Erling Haaland",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "Antonio Nusa",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Bouna Thiaw Pape",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Edouard Mendy",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Krépin Diatta",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kalidou Koulibaly",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Moussa Niakhaté",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "El Hadji Malick Diouf",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Pape Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Ismaïla Sarr",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Lamine Camara",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Nicolas Jackson",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "Erling Haaland",
+          "rating": 8.7,
+          "team": "NOR"
+        }
+      }
+    },
+    {
       "id": 55,
       "home": 3,
       "away": 0,
@@ -13135,6 +13131,11 @@
         "goals": 5
       },
       {
+        "player": "E. Haaland",
+        "team": "NOR",
+        "goals": 4
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -13191,11 +13192,6 @@
         "goals": 2
       },
       {
-        "player": "E. Haaland",
-        "team": "NOR",
-        "goals": 2
-      },
-      {
         "player": "Elijah Just",
         "team": "NZL",
         "goals": 2
@@ -13203,6 +13199,11 @@
       {
         "player": "Folarin Balogun",
         "team": "USA",
+        "goals": 2
+      },
+      {
+        "player": "I. Sarr",
+        "team": "SEN",
         "goals": 2
       },
       {
@@ -13286,11 +13287,6 @@
         "player": "A. Elanga",
         "team": "SWE",
         "goals": 1
-      },
-      {
-        "player": "A. Fayzullaev",
-        "team": "UZB",
-        "goals": 1
       }
     ],
     "assists": [
@@ -13319,6 +13315,11 @@
       {
         "player": "J. Kimmich",
         "team": "GER",
+        "assists": 2
+      },
+      {
+        "player": "M. Odegaard",
+        "team": "NOR",
         "assists": 2
       },
       {
@@ -13444,11 +13445,6 @@
       {
         "player": "Erik Lira",
         "team": "MEX",
-        "assists": 1
-      },
-      {
-        "player": "F. Medina",
-        "team": "ARG",
         "assists": 1
       }
     ],
@@ -13693,6 +13689,20 @@
       "form": "WW"
     },
     {
+      "code": "NOR",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "loses": 0,
+      "gf": 7,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "WW"
+    },
+    {
       "code": "MEX",
       "played": 2,
       "wins": 2,
@@ -13817,20 +13827,6 @@
       "biggestWin": "1-0",
       "biggestLose": "",
       "form": "DW"
-    },
-    {
-      "code": "NOR",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 4,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "W"
     },
     {
       "code": "COL",
@@ -14183,20 +14179,6 @@
       "form": "L"
     },
     {
-      "code": "SEN",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "loses": 1,
-      "gf": 1,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-3",
-      "form": "L"
-    },
-    {
       "code": "JOR",
       "played": 1,
       "wins": 0,
@@ -14250,6 +14232,20 @@
       "failedToScore": 2,
       "biggestWin": "",
       "biggestLose": "0-2",
+      "form": "LL"
+    },
+    {
+      "code": "SEN",
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "loses": 2,
+      "gf": 3,
+      "ga": 6,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-3",
       "form": "LL"
     },
     {
