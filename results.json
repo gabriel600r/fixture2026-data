@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:43:07Z",
+  "updated": "2026-06-23T00:43:55Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 3,
       "away": 0,
       "goals": [
@@ -280,9 +280,16 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 43,
-      "home": 0,
+      "minute": 44,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "M. Pedersen",
+          "minute": 43,
+          "team": "NOR"
+        }
+      ],
       "subs": [
         {
           "out": "J. Ryerson",
