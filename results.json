@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T03:44:29Z",
+  "updated": "2026-06-23T03:45:16Z",
   "live": [
     {
       "id": 58,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 36,
           "team": "JOR",
           "assist": "M. Tamari"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Zerrouki",
+          "minute": 44,
+          "team": "ALG",
+          "color": "yellow"
         }
       ],
       "stats": {
