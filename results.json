@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23T00:09:59Z",
+  "updated": "2026-06-23T00:10:48Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 54,
-      "home": 1,
+      "minute": 55,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 14,
           "team": "FRA",
           "assist": "Michael Olise"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "minute": 54,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
@@ -212,7 +217,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "stats": {
@@ -221,16 +226,16 @@
           1
         ],
         "passesAccurate": [
-          22,
-          8
+          28,
+          12
         ],
         "shotsTotal": [
           2,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "shotsInside": [
           1,
@@ -245,12 +250,12 @@
           0
         ],
         "passesTotal": [
-          26,
-          9
+          34,
+          15
         ],
         "possession": [
-          75,
-          25
+          69,
+          31
         ],
         "yellow": [
           0,
@@ -265,8 +270,8 @@
           1
         ],
         "passesPct": [
-          85,
-          89
+          82,
+          80
         ],
         "red": [
           0,
@@ -278,7 +283,7 @@
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "home": "NOR",
         "away": "SEN"
