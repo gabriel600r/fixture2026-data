@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:24:51Z",
+  "updated": "2026-06-23T21:25:38Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -222,7 +222,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Marc Guéhi",
-          "rating": 7.7,
+          "rating": 7.9,
           "team": "ENG"
         }
       }
