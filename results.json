@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:29:35Z",
+  "updated": "2026-06-23T21:30:22Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -27,6 +27,24 @@
           "in": "B. Saka",
           "minute": 66,
           "team": "ENG"
+        },
+        {
+          "out": "D. Spence",
+          "in": "N. O'Reilly",
+          "minute": 66,
+          "team": "ENG"
+        },
+        {
+          "out": "I. Williams",
+          "in": "I. Fatawu",
+          "minute": 66,
+          "team": "GHA"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "P. Adu",
+          "minute": 67,
+          "team": "GHA"
         }
       ],
       "stats": {
