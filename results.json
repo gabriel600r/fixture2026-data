@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:53:53Z",
+  "updated": "2026-06-23T04:54:40Z",
   "live": [
     {
       "id": 58,
@@ -94,9 +94,15 @@
           "in": "Shararh",
           "minute": 90,
           "team": "JOR"
+        },
+        {
+          "out": "H. Abu Dahab",
+          "in": "S. Obaid",
+          "minute": 90,
+          "team": "JOR"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
           9,
