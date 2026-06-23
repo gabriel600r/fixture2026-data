@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T04:47:35Z",
+  "updated": "2026-06-23T04:48:23Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 2,
       "goals": [
@@ -63,6 +63,18 @@
           "out": "M. Al Mardi",
           "in": "O. Al Fakhouri",
           "minute": 76,
+          "team": "JOR"
+        },
+        {
+          "out": "A. Gouiri",
+          "in": "Z. Belaid",
+          "minute": 86,
+          "team": "ALG"
+        },
+        {
+          "out": "M. Tamari",
+          "in": "A. Azaizeh",
+          "minute": 86,
           "team": "JOR"
         }
       ],
