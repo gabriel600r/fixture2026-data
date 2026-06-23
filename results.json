@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:59:36Z",
+  "updated": "2026-06-23T22:00:24Z",
   "live": [
     {
       "id": 69,
@@ -263,7 +263,138 @@
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.34",
   "brackets": {},
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 70,
+      "extras": {
+        "lineups": {
+          "home": {
+            "formation": "3-4-3",
+            "coach": "Thomas Christiansen",
+            "xi": [
+              {
+                "n": 22,
+                "name": "Orlando Mosquera",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Jiovany Ramos",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "José Córdoba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Andrés Andrade",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Amir Murillo",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Carlos Harvey",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Yoel Bárcenas",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "César Blackman",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Cristian Martínez",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "José Fajardo",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "José Luis Rodríguez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Zlatko Dalic",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Dominik Livaković",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Josip Stanišić",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Josip Šutalo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Marin Pongračić",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Joško Gvardiol",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Luka Modrić",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Mateo Kovačić",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Marco Pašalić",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Martin Baturina",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Perišić",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Petar Musa",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Pierre Ghislain Atcho, Gabon"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
