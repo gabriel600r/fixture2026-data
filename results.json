@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:45:32Z",
+  "updated": "2026-06-23T00:46:20Z",
   "live": [
     {
       "id": 51,
@@ -91,6 +91,7 @@
           "team": "FRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "fouls": [
           8,
@@ -298,6 +299,7 @@
           "team": "NOR"
         }
       ],
+      "extra": 1,
       "stats": {
         "fouls": [
           6,
