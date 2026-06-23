@@ -1,24 +1,23 @@
 {
-  "updated": "2026-06-23T00:05:10Z",
+  "updated": "2026-06-23T00:05:58Z",
   "live": [
     {
       "id": 51,
+      "status": "2H",
+      "minute": 50,
       "home": 1,
       "away": 0,
-      "status": "HT",
-      "minute": null,
-      "extra": null,
       "goals": [
         {
-          "player": "K. Mbappe",
+          "player": "Kylian Mbappé",
           "minute": 14,
           "team": "FRA",
-          "assist": "M. Olise"
+          "assist": "Michael Olise"
         }
       ],
       "cardEvents": [
         {
-          "player": "A. Al Ammari",
+          "player": "Amir Al-Ammari",
           "minute": 6,
           "team": "IRQ",
           "color": "yellow"
@@ -26,8 +25,8 @@
       ],
       "subs": [
         {
-          "out": "A. Hussein",
-          "in": "A. Al Hamadi",
+          "out": "Aymen Hussein",
+          "in": "Ali Al-Hamadi",
           "minute": 26,
           "team": "IRQ"
         }
@@ -37,65 +36,37 @@
           5,
           2
         ],
-        "shotsOff": [
-          3,
-          1
-        ],
-        "offsides": [
-          0,
-          0
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "passesPct": [
-          89,
-          80
-        ],
-        "shotsInside": [
-          1,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          260,
-          171
-        ],
-        "shotsOutside": [
-          6,
-          1
-        ],
-        "corners": [
-          1,
-          1
-        ],
-        "passesTotal": [
-          291,
-          213
-        ],
-        "shotsOn": [
-          1,
-          0
+        "shotsTotal": [
+          7,
+          2
         ],
         "shotsBlocked": [
           3,
           1
         ],
-        "shotsTotal": [
-          7,
-          2
+        "shotsOn": [
+          1,
+          0
+        ],
+        "corners": [
+          1,
+          1
+        ],
+        "yellow": [
+          0,
+          1
         ],
         "possession": [
           58,
           42
         ],
-        "saves": [
+        "red": [
           0,
           0
+        ],
+        "shotsOff": [
+          3,
+          1
         ],
         "home": "FRA",
         "away": "IRQ"
@@ -230,13 +201,18 @@
             ]
           }
         },
-        "referee": "Drew Fischer, Canada"
+        "referee": "Drew Fischer, Canada",
+        "motm": {
+          "player": "Kylian Mbappé",
+          "rating": 8.0,
+          "team": "FRA"
+        }
       }
     },
     {
       "id": 52,
       "status": "1H",
-      "minute": 5,
+      "minute": 6,
       "home": 0,
       "away": 0,
       "stats": {
