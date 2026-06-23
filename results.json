@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:54:09Z",
+  "updated": "2026-06-23T01:54:57Z",
   "live": [
     {
       "id": 52,
@@ -100,43 +100,43 @@
           "team": "NOR"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "fouls": [
           11,
           4
         ],
         "passesAccurate": [
-          278,
-          374
+          282,
+          398
         ],
         "shotsTotal": [
           13,
-          12
+          14
         ],
         "shotsBlocked": [
           3,
-          4
+          5
         ],
         "shotsInside": [
           11,
-          7
+          8
         ],
         "shotsOn": [
           7,
-          3
+          4
         ],
         "corners": [
           5,
           2
         ],
         "passesTotal": [
-          344,
-          429
+          348,
+          453
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "yellow": [
           0,
@@ -152,7 +152,7 @@
         ],
         "passesPct": [
           81,
-          87
+          88
         ],
         "red": [
           0,
@@ -164,7 +164,7 @@
         ],
         "shotsOutside": [
           2,
-          5
+          6
         ],
         "home": "NOR",
         "away": "SEN"
@@ -302,7 +302,7 @@
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.9,
+          "rating": 8.6,
           "team": "NOR"
         }
       }
