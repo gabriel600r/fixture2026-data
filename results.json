@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:22:38Z",
+  "updated": "2026-06-23T01:23:25Z",
   "live": [
     {
       "id": 52,
@@ -60,6 +60,12 @@
         {
           "out": "E. Mendy",
           "in": "M. Diaw",
+          "minute": 63,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Camara",
+          "in": "P. Ciss",
           "minute": 63,
           "team": "SEN"
         }
