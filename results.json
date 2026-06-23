@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:14:50Z",
+  "updated": "2026-06-23T00:15:38Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 2,
       "away": 0,
       "goals": [
@@ -35,6 +35,18 @@
           "in": "Ali Al-Hamadi",
           "minute": 26,
           "team": "IRQ"
+        },
+        {
+          "out": "Zaid Tahseen",
+          "in": "Rebin Sulaka",
+          "minute": 60,
+          "team": "IRQ"
+        },
+        {
+          "out": "Zaid Ismael",
+          "in": "Youssef Amyn",
+          "minute": 60,
+          "team": "IRQ"
         }
       ],
       "stats": {
@@ -63,8 +75,8 @@
           1
         ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "red": [
           0,
@@ -218,7 +230,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "subs": [
