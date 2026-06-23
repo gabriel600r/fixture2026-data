@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T03:11:26Z",
+  "updated": "2026-06-23T03:12:13Z",
   "live": [
     {
       "id": 58,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "stats": {
@@ -127,13 +127,13 @@
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Mahmoud Al-Mardi",
+                "n": 9,
+                "name": "Ali Olwan",
                 "pos": "F"
               },
               {
-                "n": 9,
-                "name": "Ali Olwan",
+                "n": 13,
+                "name": "Mahmoud Al-Mardi",
                 "pos": "F"
               },
               {
