@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T03:20:54Z",
+  "updated": "2026-06-23T03:21:41Z",
   "live": [
     {
       "id": 58,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 0,
       "stats": {
@@ -13,8 +13,8 @@
           1
         ],
         "passesAccurate": [
-          26,
-          129
+          40,
+          164
         ],
         "shotsTotal": [
           2,
@@ -37,12 +37,12 @@
           1
         ],
         "passesTotal": [
-          39,
-          145
+          56,
+          182
         ],
         "possession": [
-          22,
-          78
+          24,
+          76
         ],
         "yellow": [
           0,
@@ -57,8 +57,8 @@
           1
         ],
         "passesPct": [
-          67,
-          89
+          71,
+          90
         ],
         "red": [
           0,
