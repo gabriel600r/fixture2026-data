@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T18:24:59Z",
+  "updated": "2026-06-23T18:25:47Z",
   "live": [
     {
       "id": 63,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 4,
       "away": 0,
       "goals": [
@@ -26,7 +26,7 @@
           "assist": "B. Fernandes"
         },
         {
-          "player": "A. Khusanov",
+          "player": "A. Nematov",
           "minute": 60,
           "team": "POR",
           "og": true
@@ -68,7 +68,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          10,
+          11,
           5
         ],
         "yellow": [
@@ -76,7 +76,7 @@
           1
         ],
         "shotsOn": [
-          4,
+          5,
           2
         ],
         "passesAccurate": [
@@ -97,7 +97,7 @@
         ],
         "saves": [
           2,
-          0
+          1
         ],
         "shotsOff": [
           4,
@@ -108,7 +108,7 @@
           2
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "offsides": [
@@ -120,7 +120,7 @@
           0
         ],
         "shotsInside": [
-          6,
+          7,
           3
         ],
         "fouls": [
@@ -267,7 +267,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Cristiano Ronaldo",
-          "rating": 8.3,
+          "rating": 8.6,
           "team": "POR"
         }
       }
