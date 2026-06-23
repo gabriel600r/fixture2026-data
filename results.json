@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:54:03Z",
+  "updated": "2026-06-23T21:54:51Z",
   "live": [
     {
       "id": 69,
@@ -71,6 +71,7 @@
           "team": "GHA"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsTotal": [
           17,
@@ -85,16 +86,16 @@
           1
         ],
         "passesAccurate": [
-          536,
-          124
+          553,
+          127
         ],
         "passesTotal": [
-          577,
-          163
+          596,
+          169
         ],
         "passesPct": [
           93,
-          76
+          75
         ],
         "possession": [
           78,
@@ -129,7 +130,7 @@
           2
         ],
         "fouls": [
-          12,
+          13,
           23
         ],
         "shotsBlocked": [
