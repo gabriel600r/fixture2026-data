@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T23:46:04Z",
+  "updated": "2026-06-23T23:46:51Z",
   "live": [
     {
       "id": 70,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsTotal": [
           1,
@@ -22,20 +22,20 @@
           0
         ],
         "passesAccurate": [
-          118,
-          211
+          129,
+          251
         ],
         "passesTotal": [
-          148,
-          242
+          163,
+          288
         ],
         "passesPct": [
-          80,
+          79,
           87
         ],
         "possession": [
-          38,
-          62
+          37,
+          63
         ],
         "saves": [
           0,
@@ -67,7 +67,7 @@
         ],
         "fouls": [
           8,
-          4
+          5
         ],
         "shotsBlocked": [
           1,
