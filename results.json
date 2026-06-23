@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:58:37Z",
+  "updated": "2026-06-23T04:59:24Z",
   "live": [
     {
       "id": 58,
@@ -102,15 +102,15 @@
           "team": "JOR"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "fouls": [
           10,
           6
         ],
         "passesAccurate": [
-          168,
-          546
+          178,
+          552
         ],
         "shotsTotal": [
           8,
@@ -133,12 +133,12 @@
           9
         ],
         "passesTotal": [
-          232,
-          620
+          246,
+          629
         ],
         "possession": [
-          27,
-          73
+          28,
+          72
         ],
         "yellow": [
           1,
