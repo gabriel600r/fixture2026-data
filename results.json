@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T20:23:21Z",
+  "updated": "2026-06-23T20:24:09Z",
   "live": [
     {
       "id": 69,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "stats": {
@@ -144,7 +144,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-1-4-1",
             "coach": "Carlos Queiroz",
             "xi": [
               {
@@ -173,13 +173,18 @@
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "Caleb Yirenkyi",
+                "n": 5,
+                "name": "Thomas Partey",
                 "pos": "M"
               },
               {
-                "n": 5,
-                "name": "Thomas Partey",
+                "n": 19,
+                "name": "Iñaki Williams",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Caleb Yirenkyi",
                 "pos": "M"
               },
               {
@@ -188,18 +193,13 @@
                 "pos": "M"
               },
               {
-                "n": 19,
-                "name": "Iñaki Williams",
-                "pos": "F"
+                "n": 11,
+                "name": "Antoine Semenyo",
+                "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Jordan Ayew",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Antoine Semenyo",
                 "pos": "F"
               }
             ]
