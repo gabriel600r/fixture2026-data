@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:10:48Z",
+  "updated": "2026-06-23T00:11:36Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 2,
       "away": 0,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "Kylian Mbappé",
           "minute": 54,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "Ousmane Dembélé"
         }
       ],
       "cardEvents": [
@@ -62,8 +63,8 @@
           1
         ],
         "possession": [
-          55,
-          45
+          56,
+          44
         ],
         "red": [
           0,
@@ -217,7 +218,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "stats": {
