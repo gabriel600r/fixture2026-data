@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T00:24:30Z",
+  "updated": "2026-06-23T00:25:19Z",
   "live": [
     {
       "id": 51,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 3,
       "away": 0,
       "goals": [
@@ -70,6 +70,12 @@
           "out": "Amir Al-Ammari",
           "in": "Aimar Sher",
           "minute": 68,
+          "team": "IRQ"
+        },
+        {
+          "out": "Ibrahim Bayesh",
+          "in": "Marko Farji",
+          "minute": 69,
           "team": "IRQ"
         }
       ],
@@ -254,7 +260,7 @@
     {
       "id": 52,
       "status": "1H",
-      "minute": 24,
+      "minute": 25,
       "home": 0,
       "away": 0,
       "subs": [
