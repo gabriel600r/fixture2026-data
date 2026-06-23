@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T20:48:34Z",
+  "updated": "2026-06-23T20:49:22Z",
   "live": [
     {
       "id": 69,
@@ -15,7 +15,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsTotal": [
           5,
