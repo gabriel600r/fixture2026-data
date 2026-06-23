@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T04:08:11Z",
+  "updated": "2026-06-23T04:08:59Z",
   "live": [
     {
       "id": 58,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 1,
       "away": 0,
       "goals": [
@@ -21,6 +21,20 @@
           "minute": 44,
           "team": "ALG",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "R. Zerrouki",
+          "in": "N. Bentaleb",
+          "minute": 46,
+          "team": "ALG"
+        },
+        {
+          "out": "H. Boudaoui",
+          "in": "N. Benbouali",
+          "minute": 46,
+          "team": "ALG"
         }
       ],
       "stats": {
