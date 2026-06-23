@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:47:08Z",
+  "updated": "2026-06-23T00:47:56Z",
   "live": [
     {
       "id": 51,
@@ -97,7 +97,7 @@
           "team": "FRA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
           8,
@@ -279,7 +279,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 9.27,
+          "rating": 8.52,
           "team": "FRA"
         }
       }
@@ -305,7 +305,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "fouls": [
           6,
