@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:04:27Z",
+  "updated": "2026-06-23T01:05:14Z",
   "live": [
     {
       "id": 51,
@@ -286,8 +286,8 @@
     },
     {
       "id": 52,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -303,9 +303,14 @@
           "in": "M. Pedersen",
           "minute": 13,
           "team": "NOR"
+        },
+        {
+          "out": "F. Aursnes",
+          "in": "P. Berg",
+          "minute": 46,
+          "team": "NOR"
         }
       ],
-      "extra": 5,
       "stats": {
         "fouls": [
           6,
@@ -504,7 +509,12 @@
             ]
           }
         },
-        "referee": "Wilton Pereira Sampaio, Brazil"
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "Marcus Pedersen",
+          "rating": 7.7,
+          "team": "NOR"
+        }
       }
     }
   ],
