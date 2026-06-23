@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T17:17:12Z",
+  "updated": "2026-06-23T17:17:59Z",
   "live": [
     {
       "id": 63,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 2,
       "away": 0,
       "goals": [
@@ -15,7 +15,7 @@
           "assist": "J. Cancelo"
         },
         {
-          "player": null,
+          "player": "N. Mendes",
           "minute": 17,
           "team": "POR"
         }
