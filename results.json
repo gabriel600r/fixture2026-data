@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T21:46:10Z",
+  "updated": "2026-06-23T21:46:57Z",
   "live": [
     {
       "id": 69,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -56,6 +56,12 @@
           "out": "E. Anderson",
           "in": "E. Eze",
           "minute": 74,
+          "team": "ENG"
+        },
+        {
+          "out": "N. Madueke",
+          "in": "M. Rashford",
+          "minute": 83,
           "team": "ENG"
         }
       ],
@@ -260,7 +266,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Marc Guéhi",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "ENG"
         }
       }
