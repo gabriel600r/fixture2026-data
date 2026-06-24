@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:34:56Z",
+  "updated": "2026-06-24T22:35:43Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 1,
       "goals": [
@@ -33,8 +33,8 @@
           0
         ],
         "possession": [
-          71,
-          29
+          70,
+          30
         ],
         "shotsOn": [
           3,
@@ -61,12 +61,12 @@
           84
         ],
         "offsides": [
-          2,
+          3,
           0
         ],
         "passesAccurate": [
-          177,
-          70
+          183,
+          75
         ],
         "yellow": [
           0,
@@ -77,8 +77,8 @@
           0
         ],
         "passesTotal": [
-          195,
-          83
+          201,
+          89
         ],
         "home": "MAR",
         "away": "HAI"
@@ -219,7 +219,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 1,
       "goals": [
@@ -244,12 +244,12 @@
           2
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "possession": [
-          50,
-          50
+          53,
+          47
         ],
         "shotsOn": [
           0,
@@ -273,14 +273,14 @@
         ],
         "passesPct": [
           87,
-          94
+          93
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          131,
+          153,
           143
         ],
         "yellow": [
@@ -292,8 +292,8 @@
           0
         ],
         "passesTotal": [
-          151,
-          152
+          175,
+          153
         ],
         "home": "SCO",
         "away": "BRA"
