@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:27:46Z",
+  "updated": "2026-06-24T23:28:34Z",
   "live": [
     {
       "id": 18,
@@ -241,7 +241,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 3,
       "goals": [
@@ -262,6 +262,14 @@
           "minute": 60,
           "team": "BRA",
           "assist": "Bruno Guimaraes"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Danilo",
+          "minute": 62,
+          "team": "BRA",
+          "color": "yellow"
         }
       ],
       "subs": [
