@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-24T00:12:57Z",
+  "updated": "2026-06-24T00:13:44Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Budimir",
+          "minute": 54,
+          "team": "CRO",
+          "assist": "J. Stanisic"
+        }
+      ],
       "subs": [
         {
           "out": "P. Musa",
