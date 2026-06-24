@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T02:10:51Z",
+  "updated": "2026-06-24T02:11:38Z",
   "live": [
     {
       "id": 64,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,20 +21,20 @@
           0
         ],
         "passesAccurate": [
-          42,
-          14
+          54,
+          15
         ],
         "passesTotal": [
-          46,
-          19
+          62,
+          24
         ],
         "passesPct": [
-          91,
-          74
+          87,
+          63
         ],
         "possession": [
-          71,
-          29
+          72,
+          28
         ],
         "saves": [
           0,
@@ -83,7 +83,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Nestor Lorenzo",
             "xi": [
               {
@@ -112,13 +112,13 @@
                 "pos": "D"
               },
               {
-                "n": 16,
-                "name": "Jefferson Lerma",
+                "n": 14,
+                "name": "Gustavo Puerta",
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Gustavo Puerta",
+                "n": 16,
+                "name": "Jefferson Lerma",
                 "pos": "M"
               },
               {
@@ -132,13 +132,13 @@
                 "pos": "F"
               },
               {
-                "n": 7,
-                "name": "Luis Díaz",
+                "n": 25,
+                "name": "Luis Javier Suárez",
                 "pos": "F"
               },
               {
-                "n": 25,
-                "name": "Luis Javier Suárez",
+                "n": 7,
+                "name": "Luis Díaz",
                 "pos": "F"
               }
             ]
