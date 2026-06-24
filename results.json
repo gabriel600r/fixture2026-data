@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:09:16Z",
+  "updated": "2026-06-24T23:10:06Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 2,
       "away": 2,
       "goals": [
@@ -38,11 +38,11 @@
           3
         ],
         "shotsTotal": [
-          11,
+          13,
           4
         ],
         "shotsInside": [
-          10,
+          11,
           2
         ],
         "corners": [
@@ -54,7 +54,7 @@
           33
         ],
         "shotsOn": [
-          5,
+          7,
           1
         ],
         "shotsBlocked": [
@@ -62,27 +62,27 @@
           0
         ],
         "shotsOutside": [
-          1,
+          2,
           2
         ],
         "fouls": [
           3,
-          8
+          9
         ],
         "saves": [
           0,
-          4
+          6
         ],
         "passesPct": [
-          90,
-          86
+          89,
+          84
         ],
         "offsides": [
           3,
           0
         ],
         "passesAccurate": [
-          253,
+          255,
           123
         ],
         "yellow": [
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          281,
-          143
+          285,
+          146
         ],
         "home": "MAR",
         "away": "HAI"
@@ -232,9 +232,9 @@
         },
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
-          "player": "Wilson Isidor",
-          "rating": 7.5,
-          "team": "HAI"
+          "player": "Achraf Hakimi",
+          "rating": 7.9,
+          "team": "MAR"
         }
       }
     },
