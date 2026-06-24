@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:40:43Z",
+  "updated": "2026-06-24T23:41:31Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 3,
       "away": 2,
       "goals": [
@@ -32,9 +32,10 @@
           "assist": "A. Hakimi"
         },
         {
-          "player": null,
+          "player": "S. Rahimi",
           "minute": 78,
-          "team": "MAR"
+          "team": "MAR",
+          "assist": "C. Riad"
         }
       ],
       "subs": [
@@ -87,8 +88,8 @@
           0
         ],
         "possession": [
-          71,
-          29
+          72,
+          28
         ],
         "shotsOn": [
           8,
@@ -119,8 +120,8 @@
           0
         ],
         "passesAccurate": [
-          416,
-          158
+          433,
+          159
         ],
         "yellow": [
           0,
@@ -131,8 +132,8 @@
           0
         ],
         "passesTotal": [
-          467,
-          197
+          487,
+          199
         ],
         "home": "MAR",
         "away": "HAI"
@@ -278,7 +279,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 75,
+      "minute": 77,
       "home": 0,
       "away": 3,
       "goals": [
@@ -331,15 +332,15 @@
       ],
       "stats": {
         "shotsOff": [
-          2,
+          4,
           6
         ],
         "shotsTotal": [
-          7,
+          9,
           16
         ],
         "shotsInside": [
-          3,
+          5,
           9
         ],
         "corners": [
@@ -379,8 +380,8 @@
           1
         ],
         "passesAccurate": [
-          399,
-          395
+          410,
+          414
         ],
         "yellow": [
           0,
@@ -391,8 +392,8 @@
           0
         ],
         "passesTotal": [
-          439,
-          430
+          450,
+          449
         ],
         "home": "SCO",
         "away": "BRA"
