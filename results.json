@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:45:06Z",
+  "updated": "2026-06-24T19:45:54Z",
   "live": [
     {
       "id": 11,
@@ -21,26 +21,27 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           1,
-          1
+          2
         ],
         "shotsTotal": [
           4,
-          4
+          5
         ],
         "shotsInside": [
           3,
-          3
+          4
         ],
         "corners": [
           1,
           1
         ],
         "possession": [
-          69,
-          31
+          68,
+          32
         ],
         "shotsOn": [
           2,
@@ -55,7 +56,7 @@
           1
         ],
         "fouls": [
-          9,
+          10,
           5
         ],
         "saves": [
@@ -71,8 +72,8 @@
           3
         ],
         "passesAccurate": [
-          206,
-          78
+          217,
+          86
         ],
         "yellow": [
           1,
@@ -83,8 +84,8 @@
           0
         ],
         "passesTotal": [
-          241,
-          102
+          254,
+          113
         ],
         "home": "SUI",
         "away": "CAN"
@@ -248,6 +249,7 @@
           "assist": "Edmilson Junior"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           3,
@@ -255,11 +257,11 @@
         ],
         "shotsTotal": [
           9,
-          0
+          1
         ],
         "shotsInside": [
           2,
-          0
+          1
         ],
         "corners": [
           3,
@@ -271,7 +273,7 @@
         ],
         "shotsOn": [
           3,
-          0
+          1
         ],
         "shotsBlocked": [
           3,
@@ -298,8 +300,8 @@
           2
         ],
         "passesAccurate": [
-          215,
-          132
+          225,
+          139
         ],
         "yellow": [
           0,
@@ -310,8 +312,8 @@
           0
         ],
         "passesTotal": [
-          239,
-          158
+          249,
+          165
         ],
         "home": "BIH",
         "away": "QAT"
