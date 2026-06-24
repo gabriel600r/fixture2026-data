@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:09:16Z",
+  "updated": "2026-06-24T22:10:07Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "stats": {
@@ -211,7 +211,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 1,
       "goals": [
@@ -228,31 +228,31 @@
         ],
         "shotsTotal": [
           0,
-          0
+          2
         ],
         "shotsInside": [
           0,
-          0
+          1
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          75,
-          25
+          63,
+          37
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "shotsOutside": [
           0,
-          0
+          1
         ],
         "fouls": [
           0,
@@ -263,16 +263,16 @@
           0
         ],
         "passesPct": [
-          89,
-          89
+          90,
+          95
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          49,
-          16
+          60,
+          38
         ],
         "yellow": [
           0,
@@ -283,8 +283,8 @@
           0
         ],
         "passesTotal": [
-          55,
-          18
+          67,
+          40
         ],
         "home": "SCO",
         "away": "BRA"
