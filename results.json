@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:32:41Z",
+  "updated": "2026-06-24T03:33:28Z",
   "live": [
     {
       "id": 64,
@@ -39,6 +39,12 @@
           "in": "J. Quintero",
           "minute": 58,
           "team": "COL"
+        },
+        {
+          "out": "A. Masuaku",
+          "in": "J. Kayembe",
+          "minute": 72,
+          "team": "COD"
         }
       ],
       "stats": {
