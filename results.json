@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:56:51Z",
+  "updated": "2026-06-24T20:57:39Z",
   "live": [
     {
       "id": 12,
@@ -109,7 +109,7 @@
           "team": "BIH"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           4,
