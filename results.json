@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:26:59Z",
+  "updated": "2026-06-24T20:27:47Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 2,
       "away": 0,
       "goals": [
@@ -264,7 +264,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 2,
       "away": 1,
       "goals": [
@@ -315,7 +315,7 @@
         {
           "out": "N. Katic",
           "in": "D. Hadzikadunic",
-          "minute": 64,
+          "minute": 63,
           "team": "BIH"
         },
         {
