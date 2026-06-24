@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:15:43Z",
+  "updated": "2026-06-24T23:16:32Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 2,
       "away": 2,
       "goals": [
@@ -46,7 +46,7 @@
           2
         ],
         "corners": [
-          3,
+          4,
           0
         ],
         "possession": [
@@ -67,14 +67,14 @@
         ],
         "fouls": [
           3,
-          10
+          11
         ],
         "saves": [
           0,
           6
         ],
         "passesPct": [
-          91,
+          90,
           83
         ],
         "offsides": [
@@ -82,8 +82,8 @@
           0
         ],
         "passesAccurate": [
-          316,
-          130
+          324,
+          133
         ],
         "yellow": [
           0,
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          348,
-          157
+          360,
+          160
         ],
         "home": "MAR",
         "away": "HAI"
@@ -272,11 +272,11 @@
           5
         ],
         "shotsTotal": [
-          4,
+          5,
           11
         ],
         "shotsInside": [
-          1,
+          2,
           6
         ],
         "corners": [
@@ -284,11 +284,11 @@
           3
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "shotsOn": [
-          0,
+          1,
           4
         ],
         "shotsBlocked": [
@@ -305,19 +305,19 @@
         ],
         "saves": [
           1,
-          0
+          1
         ],
         "passesPct": [
-          88,
-          93
+          89,
+          92
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          241,
-          274
+          279,
+          299
         ],
         "yellow": [
           0,
@@ -328,8 +328,8 @@
           0
         ],
         "passesTotal": [
-          273,
-          296
+          312,
+          326
         ],
         "home": "SCO",
         "away": "BRA"
