@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:41:31Z",
+  "updated": "2026-06-24T23:42:20Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 3,
       "away": 2,
       "goals": [
@@ -207,7 +207,7 @@
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "4-4-1-1",
             "coach": "Sebastien Migne",
             "xi": [
               {
@@ -327,6 +327,12 @@
           "out": "Lucas Paqueta",
           "in": "G. Martinelli",
           "minute": 66,
+          "team": "BRA"
+        },
+        {
+          "out": "M. Cunha",
+          "in": "Neymar",
+          "minute": 76,
           "team": "BRA"
         }
       ],
