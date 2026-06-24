@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:07:39Z",
+  "updated": "2026-06-24T22:08:28Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
       "stats": {
@@ -214,6 +214,13 @@
       "minute": 7,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 7,
+          "team": "BRA"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
