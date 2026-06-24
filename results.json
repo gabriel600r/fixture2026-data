@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:47:08Z",
+  "updated": "2026-06-24T23:47:56Z",
   "live": [
     {
       "id": 18,
@@ -317,7 +317,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 3,
       "goals": [
@@ -344,6 +344,12 @@
         {
           "player": "Danilo",
           "minute": 62,
+          "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "Fabinho",
+          "minute": 83,
           "team": "BRA",
           "color": "yellow"
         }
@@ -384,6 +390,18 @@
           "in": "R. Christie",
           "minute": 82,
           "team": "SCO"
+        },
+        {
+          "out": "Douglas Santos",
+          "in": "Alex Sandro",
+          "minute": 82,
+          "team": "BRA"
+        },
+        {
+          "out": "Rayan",
+          "in": "Endrick",
+          "minute": 82,
+          "team": "BRA"
         }
       ],
       "stats": {
