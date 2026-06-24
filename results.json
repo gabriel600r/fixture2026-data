@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T03:49:57Z",
+  "updated": "2026-06-24T03:50:44Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 0,
       "goals": [
@@ -75,7 +75,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          17,
+          18,
           4
         ],
         "yellow": [
@@ -87,16 +87,16 @@
           0
         ],
         "passesAccurate": [
-          461,
-          199
+          469,
+          200
         ],
         "passesTotal": [
-          521,
-          263
+          531,
+          265
         ],
         "passesPct": [
           88,
-          76
+          75
         ],
         "possession": [
           66,
@@ -111,11 +111,11 @@
           3
         ],
         "shotsOutside": [
-          6,
+          7,
           2
         ],
         "corners": [
-          4,
+          5,
           2
         ],
         "offsides": [
@@ -135,7 +135,7 @@
           14
         ],
         "shotsBlocked": [
-          5,
+          6,
           1
         ],
         "home": "COL",
@@ -274,7 +274,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Daniel Muñoz",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "COL"
         }
       }
