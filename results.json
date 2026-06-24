@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:19:46Z",
+  "updated": "2026-06-24T20:20:34Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 2,
       "away": 0,
       "goals": [
@@ -73,8 +73,8 @@
           1
         ],
         "possession": [
-          65,
-          35
+          63,
+          37
         ],
         "shotsOn": [
           4,
@@ -89,7 +89,7 @@
           1
         ],
         "fouls": [
-          13,
+          14,
           5
         ],
         "saves": [
@@ -98,15 +98,15 @@
         ],
         "passesPct": [
           86,
-          76
+          78
         ],
         "offsides": [
           1,
           3
         ],
         "passesAccurate": [
-          302,
-          141
+          304,
+          161
         ],
         "yellow": [
           1,
@@ -117,8 +117,8 @@
           0
         ],
         "passesTotal": [
-          350,
-          185
+          353,
+          206
         ],
         "home": "SUI",
         "away": "CAN"
@@ -264,7 +264,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 2,
       "away": 1,
       "goals": [
@@ -331,8 +331,8 @@
           1
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsOn": [
           3,
@@ -348,7 +348,7 @@
         ],
         "fouls": [
           7,
-          7
+          8
         ],
         "saves": [
           0,
@@ -363,7 +363,7 @@
           2
         ],
         "passesAccurate": [
-          322,
+          336,
           218
         ],
         "yellow": [
@@ -375,7 +375,7 @@
           0
         ],
         "passesTotal": [
-          362,
+          376,
           258
         ],
         "home": "BIH",
