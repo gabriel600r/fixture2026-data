@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:56:47Z",
+  "updated": "2026-06-24T23:57:35Z",
   "live": [
     {
       "id": 18,
@@ -145,8 +145,8 @@
           0
         ],
         "possession": [
-          71,
-          29
+          70,
+          30
         ],
         "shotsOn": [
           11,
@@ -161,8 +161,8 @@
           3
         ],
         "fouls": [
-          8,
-          17
+          9,
+          18
         ],
         "saves": [
           0,
@@ -170,15 +170,15 @@
         ],
         "passesPct": [
           89,
-          79
+          80
         ],
         "offsides": [
           5,
           0
         ],
         "passesAccurate": [
-          474,
-          182
+          477,
+          192
         ],
         "yellow": [
           0,
@@ -189,8 +189,8 @@
           0
         ],
         "passesTotal": [
-          533,
-          229
+          537,
+          240
         ],
         "home": "MAR",
         "away": "HAI"
@@ -327,8 +327,8 @@
         },
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
-          "player": "Bilal El Khannouss",
-          "rating": 8.9,
+          "player": "Soufiane Rahimi",
+          "rating": 8.2,
           "team": "MAR"
         }
       }
@@ -427,33 +427,45 @@
           "in": "Endrick",
           "minute": 82,
           "team": "BRA"
+        },
+        {
+          "out": "L. Shankland",
+          "in": "C. Adams",
+          "minute": 90,
+          "team": "SCO"
+        },
+        {
+          "out": "J. McGinn",
+          "in": "F. Curtis",
+          "minute": 90,
+          "team": "SCO"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           6,
           7
         ],
         "shotsTotal": [
-          12,
-          19
+          13,
+          20
         ],
         "shotsInside": [
-          8,
-          12
+          9,
+          13
         ],
         "corners": [
           6,
           6
         ],
         "possession": [
-          48,
-          52
+          47,
+          53
         ],
         "shotsOn": [
-          3,
-          8
+          4,
+          9
         ],
         "shotsBlocked": [
           3,
@@ -464,11 +476,11 @@
           7
         ],
         "fouls": [
-          8,
+          9,
           8
         ],
         "saves": [
-          4,
+          5,
           4
         ],
         "passesPct": [
@@ -481,10 +493,10 @@
         ],
         "passesAccurate": [
           445,
-          519
+          525
         ],
         "yellow": [
-          0,
+          1,
           2
         ],
         "red": [
@@ -493,7 +505,7 @@
         ],
         "passesTotal": [
           492,
-          558
+          564
         ],
         "home": "SCO",
         "away": "BRA"
@@ -631,7 +643,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 8.9,
+          "rating": 9.0,
           "team": "BRA"
         }
       }
