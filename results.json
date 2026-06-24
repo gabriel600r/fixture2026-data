@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:59:11Z",
+  "updated": "2026-06-24T23:59:59Z",
   "live": [
     {
       "id": 18,
@@ -126,7 +126,7 @@
           "team": "HAI"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsOff": [
           6,
@@ -368,7 +368,7 @@
         },
         {
           "player": "Fabinho",
-          "minute": 83,
+          "minute": 82,
           "team": "BRA",
           "color": "yellow"
         },
@@ -441,7 +441,7 @@
           "team": "SCO"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           6,
