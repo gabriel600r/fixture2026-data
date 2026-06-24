@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:06:52Z",
+  "updated": "2026-06-24T20:07:40Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 1,
       "away": 0,
       "goals": [
@@ -237,8 +237,8 @@
     },
     {
       "id": 12,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 1,
       "goals": [
@@ -261,7 +261,6 @@
           "assist": "Edmilson Junior"
         }
       ],
-      "extra": 6,
       "stats": {
         "shotsOff": [
           3,
@@ -460,7 +459,12 @@
             ]
           }
         },
-        "referee": "Jesús Valenzuela, Venezuela"
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Kerim Alajbegović",
+          "rating": 7.9,
+          "team": "BIH"
+        }
       }
     }
   ],
