@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:28:27Z",
+  "updated": "2026-06-24T22:29:15Z",
   "live": [
     {
       "id": 18,
@@ -9,10 +9,10 @@
       "away": 1,
       "goals": [
         {
-          "player": "L. Joseph",
+          "player": "Bono",
           "minute": 10,
           "team": "HAI",
-          "assist": "J. Duverne"
+          "og": true
         }
       ],
       "stats": {
@@ -219,7 +219,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 1,
       "goals": [
