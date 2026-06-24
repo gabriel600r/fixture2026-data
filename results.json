@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T03:41:19Z",
+  "updated": "2026-06-24T03:42:07Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 0,
       "goals": [
@@ -268,7 +268,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Daniel Muñoz",
-          "rating": 7.2,
+          "rating": 7.7,
           "team": "COL"
         }
       }
