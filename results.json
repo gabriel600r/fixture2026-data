@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:45:32Z",
+  "updated": "2026-06-24T23:46:20Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 3,
       "away": 2,
       "goals": [
@@ -87,6 +87,24 @@
           "out": "D. Jean Jacques",
           "in": "D. Simon",
           "minute": 80,
+          "team": "HAI"
+        },
+        {
+          "out": "A. Salah-Eddine",
+          "in": "N. Mazraoui",
+          "minute": 83,
+          "team": "MAR"
+        },
+        {
+          "out": "N. El Aynaoui",
+          "in": "S. El Mourabet",
+          "minute": 83,
+          "team": "MAR"
+        },
+        {
+          "out": "L. Joseph",
+          "in": "F. Pierrot",
+          "minute": 84,
           "team": "HAI"
         }
       ],
@@ -299,7 +317,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 0,
       "away": 3,
       "goals": [
