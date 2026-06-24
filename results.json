@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:48:28Z",
+  "updated": "2026-06-24T22:49:16Z",
   "live": [
     {
       "id": 18,
@@ -32,7 +32,7 @@
           "assist": "A. Hakimi"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           4,
@@ -248,7 +248,7 @@
           "assist": "Rayan"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           1,
