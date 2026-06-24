@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T03:38:12Z",
+  "updated": "2026-06-24T03:38:58Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 0,
       "goals": [
@@ -59,36 +59,42 @@
           "in": "C. Pickel",
           "minute": 72,
           "team": "COD"
+        },
+        {
+          "out": "J. Arias",
+          "in": "R. Rios",
+          "minute": 78,
+          "team": "COL"
         }
       ],
       "stats": {
         "shotsTotal": [
-          16,
-          3
+          17,
+          4
         ],
         "yellow": [
           1,
           0
         ],
         "shotsOn": [
-          7,
+          8,
           0
         ],
         "passesAccurate": [
-          429,
-          163
+          440,
+          173
         ],
         "passesTotal": [
-          481,
-          218
+          494,
+          232
         ],
         "passesPct": [
           89,
           75
         ],
         "possession": [
-          68,
-          32
+          67,
+          33
         ],
         "saves": [
           0,
@@ -107,7 +113,7 @@
           2
         ],
         "offsides": [
-          4,
+          5,
           0
         ],
         "red": [
@@ -115,8 +121,8 @@
           0
         ],
         "shotsInside": [
-          10,
-          1
+          11,
+          2
         ],
         "fouls": [
           7,
@@ -124,7 +130,7 @@
         ],
         "shotsBlocked": [
           5,
-          0
+          1
         ],
         "home": "COL",
         "away": "COD"
@@ -261,9 +267,9 @@
         },
         "referee": "Maurizio Mariani, Italy",
         "motm": {
-          "player": "Lionel Mpasi Nzau",
-          "rating": 7.6,
-          "team": "COD"
+          "player": "Daniel Muñoz",
+          "rating": 7.2,
+          "team": "COL"
         }
       }
     }
