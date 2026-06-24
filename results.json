@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:39:46Z",
+  "updated": "2026-06-24T00:40:33Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
       "away": 1,
       "goals": [
@@ -53,6 +53,12 @@
           "in": "C. Waterman",
           "minute": 77,
           "team": "PAN"
+        },
+        {
+          "out": "L. Modric",
+          "in": "M. Pasalic",
+          "minute": 81,
+          "team": "CRO"
         }
       ],
       "stats": {
