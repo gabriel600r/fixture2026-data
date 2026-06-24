@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T00:50:46Z",
+  "updated": "2026-06-24T00:51:33Z",
   "live": [
     {
       "id": 70,
@@ -20,6 +20,12 @@
           "player": "Y. Barcenas",
           "minute": 61,
           "team": "PAN",
+          "color": "yellow"
+        },
+        {
+          "player": "P. Sucic",
+          "minute": 90,
+          "team": "CRO",
           "color": "yellow"
         }
       ],
@@ -79,7 +85,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsTotal": [
           1,
