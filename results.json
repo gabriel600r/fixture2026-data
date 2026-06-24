@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:55:26Z",
+  "updated": "2026-06-24T03:56:13Z",
   "live": [
     {
       "id": 64,
@@ -19,6 +19,18 @@
         {
           "player": "J. Lucumi",
           "minute": 56,
+          "team": "COL",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Pickel",
+          "minute": 90,
+          "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Lerma",
+          "minute": 90,
           "team": "COL",
           "color": "yellow"
         }
@@ -73,7 +85,7 @@
           "team": "COD"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsTotal": [
           19,
