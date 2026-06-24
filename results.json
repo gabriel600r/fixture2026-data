@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:16:33Z",
+  "updated": "2026-06-24T20:17:21Z",
   "live": [
     {
       "id": 11,
@@ -15,9 +15,10 @@
           "assist": "J. Manzambi"
         },
         {
-          "player": "B. Embolo",
+          "player": "J. Manzambi",
           "minute": 57,
-          "team": "SUI"
+          "team": "SUI",
+          "assist": "B. Embolo"
         }
       ],
       "cardEvents": [
@@ -243,7 +244,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 2,
       "away": 1,
       "goals": [
@@ -329,15 +330,15 @@
         ],
         "passesPct": [
           89,
-          85
+          84
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          301,
-          207
+          322,
+          218
         ],
         "yellow": [
           0,
@@ -348,8 +349,8 @@
           0
         ],
         "passesTotal": [
-          338,
-          244
+          362,
+          258
         ],
         "home": "BIH",
         "away": "QAT"
