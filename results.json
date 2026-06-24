@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:32:40Z",
+  "updated": "2026-06-24T20:33:28Z",
   "live": [
     {
       "id": 11,
@@ -53,6 +53,18 @@
           "in": "T. Oluwaseyi",
           "minute": 58,
           "team": "CAN"
+        },
+        {
+          "out": "L. Jaquez",
+          "in": "S. Widmer",
+          "minute": 74,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Sow",
+          "in": "M. Aebischer",
+          "minute": 74,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -264,7 +276,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 1,
       "goals": [
@@ -340,11 +352,11 @@
         ],
         "corners": [
           4,
-          2
+          3
         ],
         "possession": [
-          59,
-          41
+          58,
+          42
         ],
         "shotsOn": [
           3,
@@ -368,15 +380,15 @@
         ],
         "passesPct": [
           88,
-          86
+          85
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          375,
-          261
+          374,
+          264
         ],
         "yellow": [
           0,
@@ -387,8 +399,8 @@
           0
         ],
         "passesTotal": [
-          427,
-          305
+          426,
+          310
         ],
         "home": "BIH",
         "away": "QAT"
