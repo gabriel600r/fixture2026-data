@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:57:00Z",
+  "updated": "2026-06-24T03:57:47Z",
   "live": [
     {
       "id": 64,
@@ -85,31 +85,31 @@
           "team": "COD"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsTotal": [
           19,
           8
         ],
         "yellow": [
-          1,
-          0
+          2,
+          1
         ],
         "shotsOn": [
           9,
           1
         ],
         "passesAccurate": [
-          471,
+          473,
           221
         ],
         "passesTotal": [
-          535,
-          291
+          538,
+          293
         ],
         "passesPct": [
           88,
-          76
+          75
         ],
         "possession": [
           64,
@@ -144,8 +144,8 @@
           4
         ],
         "fouls": [
-          11,
-          14
+          12,
+          16
         ],
         "shotsBlocked": [
           6,
