@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:08:28Z",
+  "updated": "2026-06-24T22:09:16Z",
   "live": [
     {
       "id": 18,
@@ -211,12 +211,12 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "Vinicius Junior",
           "minute": 7,
           "team": "BRA"
         }
