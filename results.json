@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-24T20:06:04Z",
+  "updated": "2026-06-24T20:06:52Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "R. Vargas",
           "minute": 46,
-          "team": "SUI"
+          "team": "SUI",
+          "assist": "J. Manzambi"
         }
       ],
       "cardEvents": [
@@ -34,11 +35,11 @@
           2
         ],
         "shotsTotal": [
-          4,
+          5,
           5
         ],
         "shotsInside": [
-          3,
+          4,
           4
         ],
         "corners": [
@@ -50,7 +51,7 @@
           30
         ],
         "shotsOn": [
-          2,
+          3,
           3
         ],
         "shotsBlocked": [
@@ -71,15 +72,15 @@
         ],
         "passesPct": [
           86,
-          76
+          75
         ],
         "offsides": [
           1,
           3
         ],
         "passesAccurate": [
-          251,
-          93
+          261,
+          94
         ],
         "yellow": [
           1,
@@ -90,8 +91,8 @@
           0
         ],
         "passesTotal": [
-          293,
-          123
+          303,
+          125
         ],
         "home": "SUI",
         "away": "CAN"
