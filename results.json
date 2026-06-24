@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T00:49:59Z",
+  "updated": "2026-06-24T00:50:46Z",
   "live": [
     {
       "id": 70,
@@ -69,6 +69,12 @@
         {
           "out": "Y. Barcenas",
           "in": "T. Rodriguez",
+          "minute": 90,
+          "team": "PAN"
+        },
+        {
+          "out": "C. Blackman",
+          "in": "E. Davis",
           "minute": 90,
           "team": "PAN"
         }
