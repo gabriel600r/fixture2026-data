@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:26:58Z",
+  "updated": "2026-06-24T23:27:46Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 64,
+      "minute": 66,
       "home": 2,
       "away": 2,
       "goals": [
@@ -66,8 +66,8 @@
           2
         ],
         "fouls": [
-          4,
-          11
+          5,
+          12
         ],
         "saves": [
           0,
@@ -75,15 +75,15 @@
         ],
         "passesPct": [
           90,
-          82
+          81
         ],
         "offsides": [
           4,
           0
         ],
         "passesAccurate": [
-          368,
-          147
+          382,
+          149
         ],
         "yellow": [
           0,
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          409,
-          180
+          426,
+          184
         ],
         "home": "MAR",
         "away": "HAI"
@@ -232,8 +232,8 @@
         },
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
-          "player": "Achraf Hakimi",
-          "rating": 7.9,
+          "player": "Bilal El Khannouss",
+          "rating": 8.7,
           "team": "MAR"
         }
       }
@@ -241,7 +241,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 3,
       "goals": [
@@ -275,15 +275,15 @@
       "stats": {
         "shotsOff": [
           2,
-          5
+          6
         ],
         "shotsTotal": [
           5,
-          13
+          16
         ],
         "shotsInside": [
           2,
-          7
+          9
         ],
         "corners": [
           3,
@@ -295,18 +295,18 @@
         ],
         "shotsOn": [
           1,
-          6
+          7
         ],
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "shotsOutside": [
           3,
-          6
+          7
         ],
         "fouls": [
-          6,
+          7,
           2
         ],
         "saves": [
@@ -322,8 +322,8 @@
           0
         ],
         "passesAccurate": [
-          340,
-          363
+          343,
+          375
         ],
         "yellow": [
           0,
@@ -334,8 +334,8 @@
           0
         ],
         "passesTotal": [
-          375,
-          396
+          379,
+          408
         ],
         "home": "SCO",
         "away": "BRA"
