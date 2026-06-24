@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:58:34Z",
+  "updated": "2026-06-24T13:00:02Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -110,6 +110,14 @@
       "title_en": "What's new v1.9.38 ⚽",
       "body_es": "🔮 Tu predicción del Prode se ve en el detalle del partido, con los puntos.\n🌐 Ranking global: tu puesto entre todos (sin nombres).\n🏆 En \"Llaves\" te aviso cuándo se arman los cruces.\n☕ Tu insignia de café se actualiza en tus grupos.\n✉️ Agregué Contacto en el menú.\n🛠️ Un montón de mejoras de estabilidad y rendimiento.\n\n🙏 Mil disculpas por las actualizaciones seguidas. Es un Mundial complejo, con cierres y cruces nuevos, y como lo hago solo voy arreglando cosas en cada versión para mejorar tu experiencia.\n\n¡Gracias por bancarla en el Mundial! ⚽",
       "body_en": "🔮 Your Prode prediction shows in the match detail, with points.\n🌐 Global ranking: your place among all players (no names).\n🏆 In \"Knockout\" I let you know when the matchups get set.\n☕ Your coffee badge updates across your groups.\n✉️ Added a Contact option in the menu.\n🛠️ Lots of stability and performance improvements.\n\n🙏 So sorry for the frequent updates. It's a complex World Cup with new knockout stages, and since I build this solo I keep fixing things in each version to improve your experience.\n\nThanks for supporting it during the World Cup! ⚽"
+    },
+    {
+      "id": 14,
+      "date": "24/06/2026",
+      "title_es": "¡Feliz cumple, Leo! 🎂🇦🇷",
+      "title_en": "Happy birthday, Leo! 🎂🇦🇷",
+      "body_es": "Hoy el 10 cumple 39. Gracias por tanto, Leo. De toda la gente que vive el Mundial por acá, ¡el mejor abrazo y feliz cumpleaños! 🇦🇷💙",
+      "body_en": "The GOAT turns 39 today. Thank you for everything, Leo — happy birthday from everyone following the World Cup here! 🇦🇷💙"
     }
   ],
   "results": [
