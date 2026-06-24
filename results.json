@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:23:40Z",
+  "updated": "2026-06-24T22:24:27Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 1,
       "goals": [
@@ -230,7 +230,7 @@
           "assist": "Rayan"
         },
         {
-          "player": null,
+          "player": "Vinicius Junior",
           "minute": 22,
           "team": "BRA"
         }
