@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:28:34Z",
+  "updated": "2026-06-24T23:29:22Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 2,
       "away": 2,
       "goals": [
@@ -30,6 +30,20 @@
           "minute": 45,
           "team": "MAR",
           "assist": "A. Hakimi"
+        }
+      ],
+      "subs": [
+        {
+          "out": "R. Providence",
+          "in": "D. Nazon",
+          "minute": 67,
+          "team": "HAI"
+        },
+        {
+          "out": "W. Isidor",
+          "in": "L. Deedson",
+          "minute": 67,
+          "team": "HAI"
         }
       ],
       "stats": {
