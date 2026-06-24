@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:29:52Z",
+  "updated": "2026-06-24T19:30:40Z",
   "live": [
     {
       "id": 11,
@@ -218,7 +218,8 @@
         {
           "player": "K. Alajbegovic",
           "minute": 29,
-          "team": "BIH"
+          "team": "BIH",
+          "assist": "I. Basic"
         }
       ],
       "stats": {
