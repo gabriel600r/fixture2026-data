@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:35:06Z",
+  "updated": "2026-06-24T20:35:54Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 2,
       "away": 1,
       "goals": [
@@ -21,9 +21,10 @@
           "assist": "B. Embolo"
         },
         {
-          "player": null,
+          "player": "P. David",
           "minute": 76,
-          "team": "CAN"
+          "team": "CAN",
+          "assist": "N. Saliba"
         }
       ],
       "cardEvents": [
@@ -74,7 +75,7 @@
         {
           "out": "T. Buchanan",
           "in": "P. David",
-          "minute": 76,
+          "minute": 75,
           "team": "CAN"
         }
       ],
@@ -85,11 +86,11 @@
         ],
         "shotsTotal": [
           6,
-          8
+          9
         ],
         "shotsInside": [
           5,
-          7
+          8
         ],
         "corners": [
           2,
@@ -101,7 +102,7 @@
         ],
         "shotsOn": [
           4,
-          3
+          4
         ],
         "shotsBlocked": [
           1,
@@ -128,8 +129,8 @@
           3
         ],
         "passesAccurate": [
-          322,
-          219
+          326,
+          229
         ],
         "yellow": [
           1,
@@ -140,8 +141,8 @@
           0
         ],
         "passesTotal": [
-          375,
-          272
+          381,
+          282
         ],
         "home": "SUI",
         "away": "CAN"
@@ -279,7 +280,7 @@
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
           "player": "Johan Manzambi",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "SUI"
         }
       }
@@ -287,7 +288,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 2,
       "away": 1,
       "goals": [
@@ -397,15 +398,15 @@
         ],
         "passesPct": [
           88,
-          85
+          84
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          374,
-          264
+          379,
+          266
         ],
         "yellow": [
           0,
@@ -416,8 +417,8 @@
           0
         ],
         "passesTotal": [
-          426,
-          310
+          431,
+          315
         ],
         "home": "BIH",
         "away": "QAT"
