@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:18:30Z",
+  "updated": "2026-06-24T03:19:17Z",
   "live": [
     {
       "id": 64,
@@ -7,12 +7,32 @@
       "minute": 56,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Jhon Lucumi",
+          "minute": 56,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
-          "out": "N. Mukau",
-          "in": "N. Sadiki",
-          "minute": 46,
+          "out": "Ngal'ayel Mukau",
+          "in": "Noah Sadiki",
+          "minute": 45,
           "team": "COD"
+        },
+        {
+          "out": "Cédric Bakambu",
+          "in": "Simon Banza",
+          "minute": 57,
+          "team": "COD"
+        },
+        {
+          "out": "Luis Suárez",
+          "in": "Jhon Cordoba",
+          "minute": 58,
+          "team": "COL"
         }
       ],
       "stats": {
