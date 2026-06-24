@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:10:54Z",
+  "updated": "2026-06-24T23:11:42Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 2,
       "away": 2,
       "goals": [
@@ -50,8 +50,8 @@
           0
         ],
         "possession": [
-          67,
-          33
+          68,
+          32
         ],
         "shotsOn": [
           7,
@@ -67,14 +67,14 @@
         ],
         "fouls": [
           3,
-          9
+          10
         ],
         "saves": [
           0,
           6
         ],
         "passesPct": [
-          89,
+          90,
           84
         ],
         "offsides": [
@@ -82,8 +82,8 @@
           0
         ],
         "passesAccurate": [
-          255,
-          123
+          278,
+          125
         ],
         "yellow": [
           0,
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          285,
-          146
+          308,
+          149
         ],
         "home": "MAR",
         "away": "HAI"
@@ -240,8 +240,8 @@
     },
     {
       "id": 17,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 47,
       "home": 0,
       "away": 2,
       "goals": [
@@ -266,23 +266,22 @@
           "team": "SCO"
         }
       ],
-      "extra": 7,
       "stats": {
         "shotsOff": [
           1,
-          4
+          5
         ],
         "shotsTotal": [
-          3,
-          9
+          4,
+          11
         ],
         "shotsInside": [
           1,
-          4
+          6
         ],
         "corners": [
           3,
-          2
+          3
         ],
         "possession": [
           48,
@@ -290,14 +289,14 @@
         ],
         "shotsOn": [
           0,
-          3
+          4
         ],
         "shotsBlocked": [
-          2,
+          3,
           2
         ],
         "shotsOutside": [
-          2,
+          3,
           5
         ],
         "fouls": [
@@ -305,11 +304,11 @@
           2
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "passesPct": [
-          89,
+          88,
           93
         ],
         "offsides": [
@@ -317,8 +316,8 @@
           0
         ],
         "passesAccurate": [
-          231,
-          267
+          232,
+          272
         ],
         "yellow": [
           0,
@@ -329,8 +328,8 @@
           0
         ],
         "passesTotal": [
-          261,
-          287
+          263,
+          293
         ],
         "home": "SCO",
         "away": "BRA"
@@ -465,7 +464,12 @@
             ]
           }
         },
-        "referee": "César Ramos Palazuelos, Mexico"
+        "referee": "César Ramos Palazuelos, Mexico",
+        "motm": {
+          "player": "Vinícius Júnior",
+          "rating": 9.2,
+          "team": "BRA"
+        }
       }
     }
   ],
