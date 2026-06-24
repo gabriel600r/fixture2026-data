@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T20:05:16Z",
+  "updated": "2026-06-24T20:06:04Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 46,
-      "home": 0,
+      "minute": 47,
+      "home": 1,
       "away": 0,
       "goals": [
         {
@@ -42,12 +42,12 @@
           4
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "possession": [
-          69,
-          31
+          70,
+          30
         ],
         "shotsOn": [
           2,
@@ -62,7 +62,7 @@
           1
         ],
         "fouls": [
-          10,
+          11,
           5
         ],
         "saves": [
@@ -70,7 +70,7 @@
           2
         ],
         "passesPct": [
-          85,
+          86,
           76
         ],
         "offsides": [
@@ -78,8 +78,8 @@
           3
         ],
         "passesAccurate": [
-          229,
-          88
+          251,
+          93
         ],
         "yellow": [
           1,
@@ -90,8 +90,8 @@
           0
         ],
         "passesTotal": [
-          268,
-          116
+          293,
+          123
         ],
         "home": "SUI",
         "away": "CAN"
