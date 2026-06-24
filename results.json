@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:33:53Z",
+  "updated": "2026-06-24T19:34:41Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -28,11 +28,11 @@
         ],
         "shotsTotal": [
           3,
-          1
+          2
         ],
         "shotsInside": [
           3,
-          1
+          2
         ],
         "corners": [
           1,
@@ -44,7 +44,7 @@
         ],
         "shotsOn": [
           2,
-          1
+          2
         ],
         "shotsBlocked": [
           1,
@@ -63,28 +63,28 @@
           2
         ],
         "passesPct": [
-          85,
-          71
+          86,
+          73
         ],
         "offsides": [
           1,
           2
         ],
         "passesAccurate": [
-          144,
-          50
+          152,
+          53
         ],
         "yellow": [
-          0,
-          0
+          1,
+          1
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          169,
-          70
+          177,
+          73
         ],
         "home": "SUI",
         "away": "CAN"
@@ -226,7 +226,7 @@
       "id": 12,
       "status": "1H",
       "minute": 34,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -234,6 +234,11 @@
           "minute": 29,
           "team": "BIH",
           "assist": "I. Basic"
+        },
+        {
+          "player": "E. Dzeko",
+          "minute": 34,
+          "team": "BIH"
         }
       ],
       "stats": {
@@ -254,8 +259,8 @@
           1
         ],
         "possession": [
-          59,
-          41
+          61,
+          39
         ],
         "shotsOn": [
           3,
@@ -278,7 +283,7 @@
           2
         ],
         "passesPct": [
-          89,
+          90,
           83
         ],
         "offsides": [
@@ -286,8 +291,8 @@
           2
         ],
         "passesAccurate": [
-          137,
-          96
+          162,
+          104
         ],
         "yellow": [
           0,
@@ -298,8 +303,8 @@
           0
         ],
         "passesTotal": [
-          154,
-          116
+          180,
+          125
         ],
         "home": "BIH",
         "away": "QAT"
