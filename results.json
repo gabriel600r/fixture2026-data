@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:30:57Z",
+  "updated": "2026-06-24T22:31:45Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 1,
       "goals": [
@@ -18,7 +18,7 @@
       "stats": {
         "shotsOff": [
           2,
-          1
+          2
         ],
         "shotsTotal": [
           4,
@@ -49,24 +49,24 @@
           1
         ],
         "fouls": [
-          2,
-          2
+          3,
+          3
         ],
         "saves": [
           0,
           1
         ],
         "passesPct": [
-          92,
-          86
+          91,
+          84
         ],
         "offsides": [
           2,
           0
         ],
         "passesAccurate": [
-          154,
-          64
+          166,
+          67
         ],
         "yellow": [
           0,
@@ -77,8 +77,8 @@
           0
         ],
         "passesTotal": [
-          167,
-          74
+          183,
+          80
         ],
         "home": "MAR",
         "away": "HAI"
@@ -219,7 +219,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 1,
       "goals": [
