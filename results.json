@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-24T22:42:53Z",
+  "updated": "2026-06-24T22:43:41Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Bono",
@@ -224,7 +224,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 1,
       "goals": [
