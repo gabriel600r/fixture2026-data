@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:55:10Z",
+  "updated": "2026-06-24T23:55:58Z",
   "live": [
     {
       "id": 18,
@@ -54,6 +54,12 @@
         {
           "player": "J. Placide",
           "minute": 79,
+          "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Casimir",
+          "minute": 90,
           "team": "HAI",
           "color": "yellow"
         }
@@ -120,18 +126,18 @@
           "team": "HAI"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           6,
           3
         ],
         "shotsTotal": [
-          20,
+          22,
           5
         ],
         "shotsInside": [
-          14,
+          15,
           2
         ],
         "corners": [
@@ -143,15 +149,15 @@
           29
         ],
         "shotsOn": [
-          10,
+          11,
           1
         ],
         "shotsBlocked": [
-          4,
+          5,
           1
         ],
         "shotsOutside": [
-          6,
+          7,
           3
         ],
         "fouls": [
@@ -171,7 +177,7 @@
           0
         ],
         "passesAccurate": [
-          471,
+          474,
           182
         ],
         "yellow": [
@@ -183,7 +189,7 @@
           0
         ],
         "passesTotal": [
-          530,
+          533,
           229
         ],
         "home": "MAR",
@@ -423,17 +429,18 @@
           "team": "BRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           6,
           7
         ],
         "shotsTotal": [
-          11,
+          12,
           19
         ],
         "shotsInside": [
-          7,
+          8,
           12
         ],
         "corners": [
@@ -449,7 +456,7 @@
           8
         ],
         "shotsBlocked": [
-          2,
+          3,
           4
         ],
         "shotsOutside": [
@@ -457,12 +464,12 @@
           7
         ],
         "fouls": [
-          7,
+          8,
           8
         ],
         "saves": [
           4,
-          3
+          4
         ],
         "passesPct": [
           90,
@@ -473,8 +480,8 @@
           1
         ],
         "passesAccurate": [
-          433,
-          490
+          445,
+          519
         ],
         "yellow": [
           0,
@@ -485,8 +492,8 @@
           0
         ],
         "passesTotal": [
-          480,
-          527
+          492,
+          558
         ],
         "home": "SCO",
         "away": "BRA"
