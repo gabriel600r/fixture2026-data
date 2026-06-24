@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:43:08Z",
+  "updated": "2026-06-24T20:43:56Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 2,
       "away": 1,
       "goals": [
@@ -89,6 +89,12 @@
           "in": "J. Shaffelburg",
           "minute": 83,
           "team": "CAN"
+        },
+        {
+          "out": "B. Embolo",
+          "in": "C. Itten",
+          "minute": 85,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -300,7 +306,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 3,
       "away": 1,
       "goals": [
@@ -324,7 +330,7 @@
         },
         {
           "player": "E. Mahmic",
-          "minute": 81,
+          "minute": 80,
           "team": "BIH"
         }
       ],
@@ -333,6 +339,12 @@
           "player": "A. Fathi",
           "minute": 78,
           "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Mahmic",
+          "minute": 81,
+          "team": "BIH",
           "color": "yellow"
         }
       ],
