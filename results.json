@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:07:40Z",
+  "updated": "2026-06-24T23:08:28Z",
   "live": [
     {
       "id": 18,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 2,
       "goals": [
@@ -32,7 +32,6 @@
           "assist": "A. Hakimi"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsOff": [
           5,
@@ -231,7 +230,12 @@
             ]
           }
         },
-        "referee": "Danny Makkelie, Netherlands"
+        "referee": "Danny Makkelie, Netherlands",
+        "motm": {
+          "player": "Wilson Isidor",
+          "rating": 7.5,
+          "team": "HAI"
+        }
       }
     },
     {
