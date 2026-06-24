@@ -1,298 +1,6 @@
 {
-  "updated": "2026-06-24T03:57:47Z",
-  "live": [
-    {
-      "id": 64,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "D. Munoz",
-          "minute": 76,
-          "team": "COL",
-          "assist": "J. Quintero"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Lucumi",
-          "minute": 56,
-          "team": "COL",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Pickel",
-          "minute": 90,
-          "team": "COD",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Lerma",
-          "minute": 90,
-          "team": "COL",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "N. Mukau",
-          "in": "N. Sadiki",
-          "minute": 46,
-          "team": "COD"
-        },
-        {
-          "out": "C. Bakambu",
-          "in": "S. Banza",
-          "minute": 57,
-          "team": "COD"
-        },
-        {
-          "out": "L. Suarez",
-          "in": "J. Cordoba",
-          "minute": 58,
-          "team": "COL"
-        },
-        {
-          "out": "J. Rodriguez",
-          "in": "J. Quintero",
-          "minute": 58,
-          "team": "COL"
-        },
-        {
-          "out": "A. Masuaku",
-          "in": "J. Kayembe",
-          "minute": 72,
-          "team": "COD"
-        },
-        {
-          "out": "E. Kayembe",
-          "in": "C. Pickel",
-          "minute": 72,
-          "team": "COD"
-        },
-        {
-          "out": "J. Arias",
-          "in": "R. Rios",
-          "minute": 77,
-          "team": "COL"
-        },
-        {
-          "out": "S. Moutoussamy",
-          "in": "N. Mbuku",
-          "minute": 82,
-          "team": "COD"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "shotsTotal": [
-          19,
-          8
-        ],
-        "yellow": [
-          2,
-          1
-        ],
-        "shotsOn": [
-          9,
-          1
-        ],
-        "passesAccurate": [
-          473,
-          221
-        ],
-        "passesTotal": [
-          538,
-          293
-        ],
-        "passesPct": [
-          88,
-          75
-        ],
-        "possession": [
-          64,
-          36
-        ],
-        "saves": [
-          1,
-          8
-        ],
-        "shotsOff": [
-          4,
-          5
-        ],
-        "shotsOutside": [
-          8,
-          4
-        ],
-        "corners": [
-          5,
-          4
-        ],
-        "offsides": [
-          7,
-          0
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          11,
-          4
-        ],
-        "fouls": [
-          12,
-          16
-        ],
-        "shotsBlocked": [
-          6,
-          2
-        ],
-        "home": "COL",
-        "away": "COD"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Nestor Lorenzo",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Camilo Vargas",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Daniel Muñoz",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Davinson Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Jhon Lucumí",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Johan Mojica",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Gustavo Puerta",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Jefferson Lerma",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Jhon Arias",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "James Rodríguez",
-                "pos": "F"
-              },
-              {
-                "n": 25,
-                "name": "Luis Javier Suárez",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Luis Díaz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "5-3-2",
-            "coach": "Sebastien Desabre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Lionel Mpasi Nzau",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Aaron Wan-Bissaka",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Chancel Mbemba",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Axel Tuanzebe",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Steve Kapuadi",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Arthur Masuaku",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Ngal'ayel Mukau",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Samuel Moutoussamy",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Edo Kayembe",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Cédric Bakambu",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Yoane Wissa",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Maurizio Mariani, Italy",
-        "motm": {
-          "player": "Daniel Muñoz",
-          "rating": 7.6,
-          "team": "COL"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-24T03:58:34Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -13426,6 +13134,294 @@
       }
     },
     {
+      "id": 64,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "D. Munoz",
+          "minute": 76,
+          "team": "COL",
+          "assist": "J. Quintero"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Lucumi",
+          "minute": 56,
+          "team": "COL",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Pickel",
+          "minute": 90,
+          "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Lerma",
+          "minute": 90,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Mukau",
+          "in": "N. Sadiki",
+          "minute": 46,
+          "team": "COD"
+        },
+        {
+          "out": "C. Bakambu",
+          "in": "S. Banza",
+          "minute": 57,
+          "team": "COD"
+        },
+        {
+          "out": "L. Suarez",
+          "in": "J. Cordoba",
+          "minute": 58,
+          "team": "COL"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "J. Quintero",
+          "minute": 58,
+          "team": "COL"
+        },
+        {
+          "out": "A. Masuaku",
+          "in": "J. Kayembe",
+          "minute": 72,
+          "team": "COD"
+        },
+        {
+          "out": "E. Kayembe",
+          "in": "C. Pickel",
+          "minute": 72,
+          "team": "COD"
+        },
+        {
+          "out": "J. Arias",
+          "in": "R. Rios",
+          "minute": 77,
+          "team": "COL"
+        },
+        {
+          "out": "S. Moutoussamy",
+          "in": "N. Mbuku",
+          "minute": 82,
+          "team": "COD"
+        }
+      ],
+      "stats": {
+        "shotsTotal": [
+          19,
+          8
+        ],
+        "yellow": [
+          2,
+          1
+        ],
+        "shotsOn": [
+          9,
+          1
+        ],
+        "passesAccurate": [
+          473,
+          221
+        ],
+        "passesTotal": [
+          538,
+          293
+        ],
+        "passesPct": [
+          88,
+          75
+        ],
+        "possession": [
+          64,
+          36
+        ],
+        "saves": [
+          1,
+          8
+        ],
+        "shotsOff": [
+          4,
+          5
+        ],
+        "shotsOutside": [
+          8,
+          4
+        ],
+        "corners": [
+          5,
+          4
+        ],
+        "offsides": [
+          7,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          11,
+          4
+        ],
+        "fouls": [
+          12,
+          16
+        ],
+        "shotsBlocked": [
+          6,
+          2
+        ],
+        "home": "COL",
+        "away": "COD"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Nestor Lorenzo",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Camilo Vargas",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Daniel Muñoz",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Davinson Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jhon Lucumí",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Johan Mojica",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Gustavo Puerta",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Jefferson Lerma",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jhon Arias",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "James Rodríguez",
+                "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "Luis Javier Suárez",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Luis Díaz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "5-3-2",
+            "coach": "Sebastien Desabre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Lionel Mpasi Nzau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Aaron Wan-Bissaka",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Chancel Mbemba",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Axel Tuanzebe",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Steve Kapuadi",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Arthur Masuaku",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ngal'ayel Mukau",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Samuel Moutoussamy",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Edo Kayembe",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Cédric Bakambu",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "Yoane Wissa",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Maurizio Mariani, Italy",
+        "motm": {
+          "player": "Daniel Muñoz",
+          "rating": 7.6,
+          "team": "COL"
+        }
+      }
+    },
+    {
       "id": 67,
       "home": 4,
       "away": 2,
@@ -14647,6 +14643,11 @@
         "goals": 2
       },
       {
+        "player": "D. Munoz",
+        "team": "COL",
+        "goals": 2
+      },
+      {
         "player": "Elijah Just",
         "team": "NZL",
         "goals": 2
@@ -14727,11 +14728,6 @@
       {
         "player": "A. Al Amri",
         "team": "KSA",
-        "goals": 1
-      },
-      {
-        "player": "A. Budimir",
-        "team": "CRO",
         "goals": 1
       }
     ],
@@ -15070,8 +15066,8 @@
         "yellow": 1
       },
       {
-        "player": "C. Richards",
-        "team": "USA",
+        "player": "C. Pickel",
+        "team": "COD",
         "red": 0,
         "yellow": 1
       }
@@ -15159,6 +15155,20 @@
       "cleanSheets": 2,
       "failedToScore": 0,
       "biggestWin": "2-0",
+      "biggestLose": "",
+      "form": "WW"
+    },
+    {
+      "code": "COL",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "loses": 0,
+      "gf": 4,
+      "ga": 1,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "3-1",
       "biggestLose": "",
       "form": "WW"
     },
@@ -15315,20 +15325,6 @@
       "biggestWin": "1-0",
       "biggestLose": "",
       "form": "WD"
-    },
-    {
-      "code": "COL",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "loses": 0,
-      "gf": 3,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "3-1",
-      "biggestLose": "",
-      "form": "W"
     },
     {
       "code": "KOR",
@@ -15513,20 +15509,6 @@
       "form": "DD"
     },
     {
-      "code": "COD",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "loses": 0,
-      "gf": 1,
-      "ga": 1,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "D"
-    },
-    {
       "code": "CZE",
       "played": 2,
       "wins": 0,
@@ -15553,6 +15535,20 @@
       "biggestWin": "",
       "biggestLose": "0-1",
       "form": "LD"
+    },
+    {
+      "code": "COD",
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "loses": 1,
+      "gf": 1,
+      "ga": 2,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-1",
+      "form": "DL"
     },
     {
       "code": "RSA",
