@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T02:39:08Z",
+  "updated": "2026-06-24T02:39:55Z",
   "live": [
     {
       "id": 64,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,20 +21,20 @@
           0
         ],
         "passesAccurate": [
-          216,
-          76
+          223,
+          77
         ],
         "passesTotal": [
-          236,
-          103
+          243,
+          104
         ],
         "passesPct": [
           92,
           74
         ],
         "possession": [
-          69,
-          31
+          70,
+          30
         ],
         "saves": [
           0,
@@ -66,7 +66,7 @@
         ],
         "fouls": [
           3,
-          3
+          4
         ],
         "shotsBlocked": [
           2,
