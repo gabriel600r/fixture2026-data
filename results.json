@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T23:51:09Z",
+  "updated": "2026-06-24T23:51:57Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 89,
-      "home": 3,
+      "minute": 90,
+      "home": 4,
       "away": 2,
       "goals": [
         {
@@ -36,6 +36,11 @@
           "minute": 78,
           "team": "MAR",
           "assist": "C. Riad"
+        },
+        {
+          "player": "G. Yassine",
+          "minute": 89,
+          "team": "MAR"
         }
       ],
       "cardEvents": [
@@ -323,7 +328,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 3,
       "goals": [
@@ -611,7 +616,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 9.2,
+          "rating": 8.9,
           "team": "BRA"
         }
       }
