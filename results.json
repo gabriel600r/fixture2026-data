@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:42:41Z",
+  "updated": "2026-06-24T19:43:29Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -225,9 +225,9 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 2,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "K. Alajbegovic",
@@ -240,6 +240,11 @@
           "minute": 34,
           "team": "BIH",
           "og": true
+        },
+        {
+          "player": "H. Al Haydos",
+          "minute": 42,
+          "team": "QAT"
         }
       ],
       "stats": {
@@ -285,15 +290,15 @@
         ],
         "passesPct": [
           90,
-          83
+          84
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          198,
-          124
+          215,
+          132
         ],
         "yellow": [
           0,
@@ -304,8 +309,8 @@
           0
         ],
         "passesTotal": [
-          221,
-          150
+          239,
+          158
         ],
         "home": "BIH",
         "away": "QAT"
