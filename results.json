@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:34:15Z",
+  "updated": "2026-06-24T23:35:06Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 2,
       "away": 2,
       "goals": [
@@ -52,15 +52,15 @@
           "team": "MAR"
         },
         {
-          "out": "A. El Kaabi",
-          "in": "G. Yassine",
-          "minute": 71,
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
+          "minute": 70,
           "team": "MAR"
         },
         {
-          "out": "I. Saibari",
-          "in": "S. Rahimi",
-          "minute": 71,
+          "out": "A. El Kaabi",
+          "in": "G. Yassine",
+          "minute": 70,
           "team": "MAR"
         }
       ],
@@ -273,7 +273,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 3,
       "goals": [
