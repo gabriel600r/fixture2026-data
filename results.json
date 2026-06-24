@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:46:22Z",
+  "updated": "2026-06-24T20:47:10Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 2,
       "away": 1,
       "goals": [
@@ -38,6 +38,12 @@
           "player": "G. Xhaka",
           "minute": 32,
           "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Millar",
+          "minute": 87,
+          "team": "CAN",
           "color": "yellow"
         }
       ],
@@ -138,14 +144,14 @@
         ],
         "fouls": [
           16,
-          10
+          11
         ],
         "saves": [
           3,
           2
         ],
         "passesPct": [
-          85,
+          84,
           80
         ],
         "offsides": [
@@ -153,8 +159,8 @@
           3
         ],
         "passesAccurate": [
-          335,
-          243
+          338,
+          246
         ],
         "yellow": [
           1,
@@ -165,8 +171,8 @@
           0
         ],
         "passesTotal": [
-          396,
-          303
+          402,
+          308
         ],
         "home": "SUI",
         "away": "CAN"
@@ -312,7 +318,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 3,
       "away": 1,
       "goals": [
