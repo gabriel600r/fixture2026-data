@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:38:19Z",
+  "updated": "2026-06-24T20:39:07Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 2,
       "away": 1,
       "goals": [
@@ -77,6 +77,12 @@
           "in": "P. David",
           "minute": 75,
           "team": "CAN"
+        },
+        {
+          "out": "R. Vargas",
+          "in": "D. Ndoye",
+          "minute": 80,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -94,11 +100,11 @@
         ],
         "corners": [
           2,
-          5
+          6
         ],
         "possession": [
-          57,
-          43
+          56,
+          44
         ],
         "shotsOn": [
           4,
@@ -113,7 +119,7 @@
           1
         ],
         "fouls": [
-          15,
+          16,
           8
         ],
         "saves": [
@@ -121,7 +127,7 @@
           2
         ],
         "passesPct": [
-          86,
+          85,
           81
         ],
         "offsides": [
@@ -129,8 +135,8 @@
           3
         ],
         "passesAccurate": [
-          326,
-          229
+          332,
+          236
         ],
         "yellow": [
           1,
@@ -141,8 +147,8 @@
           0
         ],
         "passesTotal": [
-          381,
-          282
+          389,
+          290
         ],
         "home": "SUI",
         "away": "CAN"
@@ -280,7 +286,7 @@
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
           "player": "Johan Manzambi",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "SUI"
         }
       }
@@ -288,7 +294,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 2,
       "away": 1,
       "goals": [
@@ -398,15 +404,15 @@
         ],
         "passesPct": [
           88,
-          84
+          85
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          379,
-          266
+          396,
+          279
         ],
         "yellow": [
           0,
@@ -417,8 +423,8 @@
           0
         ],
         "passesTotal": [
-          431,
-          315
+          450,
+          329
         ],
         "home": "BIH",
         "away": "QAT"
