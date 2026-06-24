@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:52:00Z",
+  "updated": "2026-06-24T20:52:48Z",
   "live": [
     {
       "id": 11,
@@ -113,23 +113,23 @@
       "stats": {
         "shotsOff": [
           1,
-          2
+          3
         ],
         "shotsTotal": [
           6,
-          9
+          10
         ],
         "shotsInside": [
           5,
-          8
+          9
         ],
         "corners": [
           2,
           7
         ],
         "possession": [
-          56,
-          44
+          55,
+          45
         ],
         "shotsOn": [
           4,
@@ -144,7 +144,7 @@
           1
         ],
         "fouls": [
-          18,
+          20,
           12
         ],
         "saves": [
@@ -153,7 +153,7 @@
         ],
         "passesPct": [
           84,
-          80
+          79
         ],
         "offsides": [
           1,
@@ -161,7 +161,7 @@
         ],
         "passesAccurate": [
           358,
-          253
+          261
         ],
         "yellow": [
           1,
@@ -172,8 +172,8 @@
           0
         ],
         "passesTotal": [
-          425,
-          318
+          428,
+          329
         ],
         "home": "SUI",
         "away": "CAN"
