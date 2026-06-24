@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:44:29Z",
+  "updated": "2026-06-24T22:45:16Z",
   "live": [
     {
       "id": 18,
@@ -22,7 +22,8 @@
         {
           "player": "W. Isidor",
           "minute": 43,
-          "team": "HAI"
+          "team": "HAI",
+          "assist": "J. Duverne"
         }
       ],
       "stats": {
@@ -229,7 +230,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 1,
       "goals": [
