@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T23:39:55Z",
+  "updated": "2026-06-24T23:40:43Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
       "minute": 78,
-      "home": 2,
+      "home": 3,
       "away": 2,
       "goals": [
         {
@@ -30,6 +30,11 @@
           "minute": 45,
           "team": "MAR",
           "assist": "A. Hakimi"
+        },
+        {
+          "player": null,
+          "minute": 78,
+          "team": "MAR"
         }
       ],
       "subs": [
