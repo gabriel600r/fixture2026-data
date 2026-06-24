@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:31:02Z",
+  "updated": "2026-06-24T23:31:51Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 2,
       "away": 2,
       "goals": [
@@ -255,7 +255,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 3,
       "goals": [
@@ -292,6 +292,18 @@
           "in": "K. Tierney",
           "minute": 46,
           "team": "SCO"
+        },
+        {
+          "out": "Casemiro",
+          "in": "Fabinho",
+          "minute": 65,
+          "team": "BRA"
+        },
+        {
+          "out": "Lucas Paqueta",
+          "in": "G. Martinelli",
+          "minute": 66,
+          "team": "BRA"
         }
       ],
       "stats": {
