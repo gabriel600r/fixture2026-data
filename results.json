@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:56:13Z",
+  "updated": "2026-06-24T03:57:00Z",
   "live": [
     {
       "id": 64,
@@ -85,7 +85,7 @@
           "team": "COD"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsTotal": [
           19,
@@ -287,7 +287,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Daniel Muñoz",
-          "rating": 7.9,
+          "rating": 7.6,
           "team": "COL"
         }
       }
