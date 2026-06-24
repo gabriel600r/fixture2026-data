@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:50:21Z",
+  "updated": "2026-06-24T23:51:09Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 3,
       "away": 2,
       "goals": [
@@ -41,6 +41,12 @@
       "cardEvents": [
         {
           "player": "D. Nazon",
+          "minute": 79,
+          "team": "HAI",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Placide",
           "minute": 79,
           "team": "HAI",
           "color": "yellow"
@@ -142,7 +148,7 @@
           3
         ],
         "fouls": [
-          7,
+          8,
           16
         ],
         "saves": [
@@ -158,8 +164,8 @@
           0
         ],
         "passesAccurate": [
-          456,
-          172
+          459,
+          178
         ],
         "yellow": [
           0,
@@ -170,8 +176,8 @@
           0
         ],
         "passesTotal": [
-          513,
-          215
+          516,
+          223
         ],
         "home": "MAR",
         "away": "HAI"
@@ -317,7 +323,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 3,
       "goals": [
@@ -406,24 +412,24 @@
       ],
       "stats": {
         "shotsOff": [
-          5,
-          6
+          6,
+          7
         ],
         "shotsTotal": [
-          10,
-          17
+          11,
+          18
         ],
         "shotsInside": [
-          6,
-          10
+          7,
+          11
         ],
         "corners": [
           6,
           4
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "shotsOn": [
           3,
@@ -439,7 +445,7 @@
         ],
         "fouls": [
           7,
-          7
+          8
         ],
         "saves": [
           4,
@@ -454,20 +460,20 @@
           1
         ],
         "passesAccurate": [
-          426,
-          460
+          433,
+          464
         ],
         "yellow": [
           0,
-          1
+          2
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          471,
-          497
+          480,
+          501
         ],
         "home": "SCO",
         "away": "BRA"
