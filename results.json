@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:19:15Z",
+  "updated": "2026-06-24T00:20:04Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 1,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 54,
           "team": "CRO",
           "assist": "J. Stanisic"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Y. Barcenas",
+          "minute": 61,
+          "team": "PAN",
+          "color": "yellow"
         }
       ],
       "subs": [
