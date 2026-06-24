@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:47:30Z",
+  "updated": "2026-06-24T19:48:17Z",
   "live": [
     {
       "id": 11,
@@ -21,7 +21,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           1,
@@ -249,7 +249,7 @@
           "assist": "Edmilson Junior"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           3,
