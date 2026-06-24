@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:33:27Z",
+  "updated": "2026-06-24T23:34:15Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 2,
       "away": 2,
       "goals": [
@@ -46,14 +46,14 @@
           "team": "HAI"
         },
         {
-          "out": "A. El Kaabi",
-          "in": "G. Yassine",
-          "minute": 71,
+          "out": "B. Diaz",
+          "in": "A. Ounahi",
+          "minute": 70,
           "team": "MAR"
         },
         {
-          "out": "B. Diaz",
-          "in": "A. Ounahi",
+          "out": "A. El Kaabi",
+          "in": "G. Yassine",
           "minute": 71,
           "team": "MAR"
         },
