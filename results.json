@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-24T03:37:24Z",
+  "updated": "2026-06-24T03:38:12Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "D. Munoz",
           "minute": 76,
-          "team": "COL"
+          "team": "COL",
+          "assist": "J. Quintero"
         }
       ],
       "cardEvents": [
