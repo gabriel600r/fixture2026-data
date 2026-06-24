@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:14:55Z",
+  "updated": "2026-06-24T23:15:43Z",
   "live": [
     {
       "id": 18,
@@ -241,7 +241,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 2,
       "goals": [
@@ -467,7 +467,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 9.2,
+          "rating": 9.0,
           "team": "BRA"
         }
       }
