@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-24T03:36:37Z",
+  "updated": "2026-06-24T03:37:24Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 75,
-      "home": 0,
+      "minute": 76,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "D. Munoz",
+          "minute": 76,
+          "team": "COL"
+        }
+      ],
       "cardEvents": [
         {
           "player": "J. Lucumi",
