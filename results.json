@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:23:45Z",
+  "updated": "2026-06-24T23:24:33Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 2,
       "away": 2,
       "goals": [
@@ -82,8 +82,8 @@
           0
         ],
         "passesAccurate": [
-          345,
-          142
+          358,
+          145
         ],
         "yellow": [
           0,
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          384,
-          173
+          398,
+          176
         ],
         "home": "MAR",
         "away": "HAI"
