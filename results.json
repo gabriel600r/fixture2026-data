@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:50:06Z",
+  "updated": "2026-06-24T22:50:54Z",
   "live": [
     {
       "id": 18,
@@ -32,7 +32,7 @@
           "assist": "A. Hakimi"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           4,
@@ -239,16 +239,22 @@
       "status": "1H",
       "minute": 45,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Vinicius Junior",
           "minute": 7,
           "team": "BRA",
           "assist": "Rayan"
+        },
+        {
+          "player": "Vinicius Junior",
+          "minute": 45,
+          "team": "BRA",
+          "assist": "Bruno Guimaraes"
         }
       ],
-      "extra": 3,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           1,
