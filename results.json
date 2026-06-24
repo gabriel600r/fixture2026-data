@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-24T22:10:55Z",
+  "updated": "2026-06-24T22:11:43Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "L. Joseph",
+          "minute": 10,
+          "team": "HAI"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
@@ -211,7 +218,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 1,
       "goals": [
