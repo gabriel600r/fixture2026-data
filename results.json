@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:42:07Z",
+  "updated": "2026-06-24T00:42:54Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 1,
       "goals": [
@@ -59,6 +59,12 @@
           "in": "M. Pasalic",
           "minute": 81,
           "team": "CRO"
+        },
+        {
+          "out": "J. Fajardo",
+          "in": "A. Londono",
+          "minute": 84,
+          "team": "PAN"
         }
       ],
       "stats": {
