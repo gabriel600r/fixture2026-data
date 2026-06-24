@@ -1,322 +1,6 @@
 {
-  "updated": "2026-06-24T20:58:26Z",
-  "live": [
-    {
-      "id": 12,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 1,
-      "goals": [
-        {
-          "player": "K. Alajbegovic",
-          "minute": 29,
-          "team": "BIH",
-          "assist": "I. Basic"
-        },
-        {
-          "player": "M. Abunada",
-          "minute": 34,
-          "team": "BIH",
-          "og": true
-        },
-        {
-          "player": "H. Al Haydos",
-          "minute": 42,
-          "team": "QAT",
-          "assist": "Edmilson Junior"
-        },
-        {
-          "player": "E. Mahmic",
-          "minute": 80,
-          "team": "BIH",
-          "assist": "D. Hadzikadunic"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Fathi",
-          "minute": 78,
-          "team": "QAT",
-          "color": "yellow"
-        },
-        {
-          "player": "E. Mahmic",
-          "minute": 82,
-          "team": "BIH",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "I. Sunjic",
-          "in": "B. Tahirovic",
-          "minute": 46,
-          "team": "BIH"
-        },
-        {
-          "out": "A. Malic",
-          "in": "A. Memic",
-          "minute": 46,
-          "team": "BIH"
-        },
-        {
-          "out": "J. Gaber",
-          "in": "A. Hatem",
-          "minute": 46,
-          "team": "QAT"
-        },
-        {
-          "out": "H. Al Haydos",
-          "in": "A. Al Ganehi",
-          "minute": 56,
-          "team": "QAT"
-        },
-        {
-          "out": "N. Katic",
-          "in": "D. Hadzikadunic",
-          "minute": 63,
-          "team": "BIH"
-        },
-        {
-          "out": "E. Dzeko",
-          "in": "E. Mahmic",
-          "minute": 64,
-          "team": "BIH"
-        },
-        {
-          "out": "K. Boudiaf",
-          "in": "A. Ali",
-          "minute": 72,
-          "team": "QAT"
-        },
-        {
-          "out": "Edmilson Junior",
-          "in": "A. Alaaeldin",
-          "minute": 79,
-          "team": "QAT"
-        },
-        {
-          "out": "A. Fathi",
-          "in": "M. Al Mannai",
-          "minute": 79,
-          "team": "QAT"
-        },
-        {
-          "out": "K. Alajbegovic",
-          "in": "D. Burnic",
-          "minute": 82,
-          "team": "BIH"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "shotsOff": [
-          4,
-          6
-        ],
-        "shotsTotal": [
-          14,
-          7
-        ],
-        "shotsInside": [
-          4,
-          4
-        ],
-        "corners": [
-          5,
-          4
-        ],
-        "possession": [
-          56,
-          44
-        ],
-        "shotsOn": [
-          5,
-          1
-        ],
-        "shotsBlocked": [
-          5,
-          0
-        ],
-        "shotsOutside": [
-          10,
-          3
-        ],
-        "fouls": [
-          8,
-          13
-        ],
-        "saves": [
-          0,
-          3
-        ],
-        "passesPct": [
-          88,
-          85
-        ],
-        "offsides": [
-          1,
-          3
-        ],
-        "passesAccurate": [
-          443,
-          345
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesTotal": [
-          506,
-          408
-        ],
-        "home": "BIH",
-        "away": "QAT"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Sergej Barbarez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Nikola Vasilj",
-                "pos": "G"
-              },
-              {
-                "n": 24,
-                "name": "Arjan Malić",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Nikola Katić",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Stjepan Radeljić",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Sead Kolašinac",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Esmir Bajraktarević",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Ivan Bašić",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Ivan Šunjić",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Kerim Alajbegović",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Ermedin Demirović",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Edin Džeko",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Julen Lopetegui",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Mahmud Abunada",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Pedro Miguel",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Boualem Khoukhi",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Issa Laye",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Sultan Al-Brake",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Jassem Gaber Abdulsallam",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Ahmed Fathi",
-                "pos": "M"
-              },
-              {
-                "n": 12,
-                "name": "Karim Boudiaf",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Edmilson Junior",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Akram Afif",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Hassan Al Haydos",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Jesús Valenzuela, Venezuela",
-        "motm": {
-          "player": "Kerim Alajbegović",
-          "rating": 8.0,
-          "team": "BIH"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-24T20:59:13Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -3217,6 +2901,318 @@
           "player": "Johan Manzambi",
           "rating": 8.2,
           "team": "SUI"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "home": 3,
+      "away": 1,
+      "goals": [
+        {
+          "player": "K. Alajbegovic",
+          "minute": 29,
+          "team": "BIH",
+          "assist": "I. Basic"
+        },
+        {
+          "player": "M. Abunada",
+          "minute": 34,
+          "team": "BIH",
+          "og": true
+        },
+        {
+          "player": "H. Al Haydos",
+          "minute": 42,
+          "team": "QAT",
+          "assist": "Edmilson Junior"
+        },
+        {
+          "player": "E. Mahmic",
+          "minute": 80,
+          "team": "BIH",
+          "assist": "D. Hadzikadunic"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Fathi",
+          "minute": 78,
+          "team": "QAT",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Mahmic",
+          "minute": 82,
+          "team": "BIH",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "I. Sunjic",
+          "in": "B. Tahirovic",
+          "minute": 46,
+          "team": "BIH"
+        },
+        {
+          "out": "A. Malic",
+          "in": "A. Memic",
+          "minute": 46,
+          "team": "BIH"
+        },
+        {
+          "out": "J. Gaber",
+          "in": "A. Hatem",
+          "minute": 46,
+          "team": "QAT"
+        },
+        {
+          "out": "H. Al Haydos",
+          "in": "A. Al Ganehi",
+          "minute": 56,
+          "team": "QAT"
+        },
+        {
+          "out": "N. Katic",
+          "in": "D. Hadzikadunic",
+          "minute": 63,
+          "team": "BIH"
+        },
+        {
+          "out": "E. Dzeko",
+          "in": "E. Mahmic",
+          "minute": 64,
+          "team": "BIH"
+        },
+        {
+          "out": "K. Boudiaf",
+          "in": "A. Ali",
+          "minute": 72,
+          "team": "QAT"
+        },
+        {
+          "out": "Edmilson Junior",
+          "in": "A. Alaaeldin",
+          "minute": 79,
+          "team": "QAT"
+        },
+        {
+          "out": "A. Fathi",
+          "in": "M. Al Mannai",
+          "minute": 79,
+          "team": "QAT"
+        },
+        {
+          "out": "K. Alajbegovic",
+          "in": "D. Burnic",
+          "minute": 82,
+          "team": "BIH"
+        }
+      ],
+      "stats": {
+        "shotsOff": [
+          4,
+          6
+        ],
+        "shotsTotal": [
+          14,
+          7
+        ],
+        "shotsInside": [
+          4,
+          4
+        ],
+        "corners": [
+          5,
+          4
+        ],
+        "possession": [
+          56,
+          44
+        ],
+        "shotsOn": [
+          5,
+          1
+        ],
+        "shotsBlocked": [
+          5,
+          0
+        ],
+        "shotsOutside": [
+          10,
+          3
+        ],
+        "fouls": [
+          8,
+          13
+        ],
+        "saves": [
+          0,
+          3
+        ],
+        "passesPct": [
+          88,
+          85
+        ],
+        "offsides": [
+          1,
+          3
+        ],
+        "passesAccurate": [
+          443,
+          345
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          506,
+          408
+        ],
+        "home": "BIH",
+        "away": "QAT"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Sergej Barbarez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Nikola Vasilj",
+                "pos": "G"
+              },
+              {
+                "n": 24,
+                "name": "Arjan Malić",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nikola Katić",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Stjepan Radeljić",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Sead Kolašinac",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Esmir Bajraktarević",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Ivan Bašić",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Šunjić",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Kerim Alajbegović",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Ermedin Demirović",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Edin Džeko",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Julen Lopetegui",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Mahmud Abunada",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Pedro Miguel",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Boualem Khoukhi",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Issa Laye",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Sultan Al-Brake",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jassem Gaber Abdulsallam",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ahmed Fathi",
+                "pos": "M"
+              },
+              {
+                "n": 12,
+                "name": "Karim Boudiaf",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Edmilson Junior",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Akram Afif",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Hassan Al Haydos",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Kerim Alajbegović",
+          "rating": 8.0,
+          "team": "BIH"
         }
       }
     },
@@ -15290,6 +15286,11 @@
         "goals": 2
       },
       {
+        "player": "E. Mahmic",
+        "team": "BIH",
+        "goals": 2
+      },
+      {
         "player": "Elijah Just",
         "team": "NZL",
         "goals": 2
@@ -15359,12 +15360,6 @@
       {
         "player": "M. Arnautovic",
         "team": "AUT",
-        "goals": 1,
-        "penalties": 1
-      },
-      {
-        "player": "Teboho Mokoena",
-        "team": "RSA",
         "goals": 1,
         "penalties": 1
       }
@@ -15514,6 +15509,11 @@
         "assists": 1
       },
       {
+        "player": "D. Hadzikadunic",
+        "team": "BIH",
+        "assists": 1
+      },
+      {
         "player": "D. Olmo",
         "team": "ESP",
         "assists": 1
@@ -15521,11 +15521,6 @@
       {
         "player": "D. Wolfe",
         "team": "NOR",
-        "assists": 1
-      },
-      {
-        "player": "Declan Rice",
-        "team": "ENG",
         "assists": 1
       }
     ],
@@ -15579,6 +15574,12 @@
         "yellow": 0
       },
       {
+        "player": "A. Fathi",
+        "team": "QAT",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "S. Lopes Cabral",
         "team": "CPV",
         "red": 0,
@@ -15605,12 +15606,6 @@
       {
         "player": "A. Dedic",
         "team": "BIH",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Fathi",
-        "team": "QAT",
         "red": 0,
         "yellow": 1
       },
@@ -15966,6 +15961,20 @@
       "form": "WD"
     },
     {
+      "code": "BIH",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 5,
+      "ga": 6,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "3-1",
+      "biggestLose": "1-4",
+      "form": "DLW"
+    },
+    {
       "code": "KOR",
       "played": 2,
       "wins": 1,
@@ -16218,20 +16227,6 @@
       "form": "DL"
     },
     {
-      "code": "BIH",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 2,
-      "ga": 5,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-4",
-      "form": "DL"
-    },
-    {
       "code": "KSA",
       "played": 2,
       "wins": 0,
@@ -16243,20 +16238,6 @@
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "0-4",
-      "form": "DL"
-    },
-    {
-      "code": "QAT",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 1,
-      "ga": 7,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "0-6",
       "form": "DL"
     },
     {
@@ -16272,6 +16253,20 @@
       "biggestWin": "",
       "biggestLose": "1-7",
       "form": "LD"
+    },
+    {
+      "code": "QAT",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "loses": 2,
+      "gf": 2,
+      "ga": 10,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-6",
+      "form": "DLL"
     },
     {
       "code": "PAN",
