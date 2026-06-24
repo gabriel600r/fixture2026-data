@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:32:39Z",
+  "updated": "2026-06-24T23:33:27Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 2,
       "goals": [
@@ -44,6 +44,24 @@
           "in": "L. Deedson",
           "minute": 67,
           "team": "HAI"
+        },
+        {
+          "out": "A. El Kaabi",
+          "in": "G. Yassine",
+          "minute": 71,
+          "team": "MAR"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "A. Ounahi",
+          "minute": 71,
+          "team": "MAR"
+        },
+        {
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
+          "minute": 71,
+          "team": "MAR"
         }
       ],
       "stats": {
@@ -255,7 +273,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 3,
       "goals": [
