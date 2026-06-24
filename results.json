@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:51:12Z",
+  "updated": "2026-06-24T20:52:00Z",
   "live": [
     {
       "id": 11,
@@ -109,7 +109,7 @@
           "team": "SUI"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           1,
@@ -319,7 +319,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 3,
       "away": 1,
       "goals": [
@@ -427,11 +427,11 @@
       "stats": {
         "shotsOff": [
           4,
-          5
+          6
         ],
         "shotsTotal": [
           14,
-          6
+          7
         ],
         "shotsInside": [
           4,
@@ -442,8 +442,8 @@
           3
         ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "shotsOn": [
           5,
@@ -455,11 +455,11 @@
         ],
         "shotsOutside": [
           10,
-          2
+          3
         ],
         "fouls": [
           8,
-          12
+          13
         ],
         "saves": [
           0,
@@ -474,8 +474,8 @@
           2
         ],
         "passesAccurate": [
-          420,
-          316
+          440,
+          321
         ],
         "yellow": [
           1,
@@ -486,8 +486,8 @@
           0
         ],
         "passesTotal": [
-          479,
-          374
+          500,
+          381
         ],
         "home": "BIH",
         "away": "QAT"
