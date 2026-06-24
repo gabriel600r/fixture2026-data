@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:04:05Z",
+  "updated": "2026-06-24T19:04:54Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 4,
+      "minute": 5,
       "home": 0,
       "away": 0,
       "stats": {
@@ -25,8 +25,8 @@
           0
         ],
         "possession": [
-          43,
-          57
+          61,
+          39
         ],
         "shotsOn": [
           0,
@@ -41,24 +41,24 @@
           0
         ],
         "fouls": [
-          0,
-          0
+          2,
+          1
         ],
         "saves": [
           0,
           0
         ],
         "passesPct": [
-          80,
-          75
+          85,
+          65
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          4,
-          6
+          23,
+          11
         ],
         "yellow": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesTotal": [
-          5,
-          8
+          27,
+          17
         ],
         "home": "SUI",
         "away": "CAN"
@@ -211,7 +211,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 4,
+      "minute": 5,
       "home": 0,
       "away": 0,
       "stats": {
@@ -220,7 +220,7 @@
           0
         ],
         "shotsTotal": [
-          0,
+          2,
           0
         ],
         "shotsInside": [
@@ -232,11 +232,11 @@
           0
         ],
         "possession": [
-          0,
-          0
+          82,
+          18
         ],
         "shotsOn": [
-          0,
+          2,
           0
         ],
         "shotsBlocked": [
@@ -244,7 +244,7 @@
           0
         ],
         "shotsOutside": [
-          0,
+          2,
           0
         ],
         "fouls": [
@@ -253,19 +253,19 @@
         ],
         "saves": [
           0,
-          0
+          2
         ],
         "passesPct": [
-          0,
-          0
+          80,
+          50
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          0,
-          0
+          20,
+          3
         ],
         "yellow": [
           0,
@@ -276,8 +276,8 @@
           0
         ],
         "passesTotal": [
-          0,
-          0
+          25,
+          6
         ],
         "home": "BIH",
         "away": "QAT"
