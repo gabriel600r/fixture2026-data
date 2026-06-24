@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:39:42Z",
+  "updated": "2026-06-24T22:40:30Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 1,
       "away": 1,
       "goals": [
@@ -13,6 +13,11 @@
           "minute": 10,
           "team": "HAI",
           "og": true
+        },
+        {
+          "player": "A. Hakimi",
+          "minute": 39,
+          "team": "MAR"
         }
       ],
       "stats": {
