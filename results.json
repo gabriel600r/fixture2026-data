@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:10:55Z",
+  "updated": "2026-06-24T20:11:43Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 1,
       "away": 0,
       "goals": [
@@ -299,8 +299,8 @@
           1
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsOn": [
           3,
@@ -315,7 +315,7 @@
           1
         ],
         "fouls": [
-          6,
+          7,
           6
         ],
         "saves": [
@@ -331,8 +331,8 @@
           2
         ],
         "passesAccurate": [
-          256,
-          179
+          276,
+          184
         ],
         "yellow": [
           0,
@@ -343,8 +343,8 @@
           0
         ],
         "passesTotal": [
-          289,
-          208
+          310,
+          214
         ],
         "home": "BIH",
         "away": "QAT"
