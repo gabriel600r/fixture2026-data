@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-24T20:04:28Z",
+  "updated": "2026-06-24T20:05:16Z",
   "live": [
     {
       "id": 11,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": "R. Vargas",
+          "minute": 46,
+          "team": "SUI"
+        }
+      ],
       "cardEvents": [
         {
           "player": "C. Larin",
@@ -21,7 +28,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
       "stats": {
         "shotsOff": [
           1,
@@ -220,7 +226,12 @@
             ]
           }
         },
-        "referee": "Ramon Abatti Abel, Brazil"
+        "referee": "Ramon Abatti Abel, Brazil",
+        "motm": {
+          "player": "Gregor Kobel",
+          "rating": 7.3,
+          "team": "SUI"
+        }
       }
     },
     {
