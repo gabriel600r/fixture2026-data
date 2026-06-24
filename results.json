@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:52:45Z",
+  "updated": "2026-06-24T23:53:34Z",
   "live": [
     {
       "id": 18,
@@ -126,7 +126,7 @@
           3
         ],
         "shotsTotal": [
-          19,
+          20,
           5
         ],
         "shotsInside": [
@@ -134,7 +134,7 @@
           2
         ],
         "corners": [
-          8,
+          9,
           0
         ],
         "possession": [
@@ -142,7 +142,7 @@
           29
         ],
         "shotsOn": [
-          9,
+          10,
           1
         ],
         "shotsBlocked": [
@@ -150,40 +150,40 @@
           1
         ],
         "shotsOutside": [
-          5,
+          6,
           3
         ],
         "fouls": [
           8,
-          16
+          17
         ],
         "saves": [
           0,
-          7
+          8
         ],
         "passesPct": [
           89,
-          80
+          79
         ],
         "offsides": [
           5,
           0
         ],
         "passesAccurate": [
-          459,
-          178
+          471,
+          182
         ],
         "yellow": [
           0,
-          1
+          2
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          516,
-          223
+          530,
+          229
         ],
         "home": "MAR",
         "away": "HAI"
@@ -329,7 +329,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 0,
       "away": 3,
       "goals": [
@@ -423,19 +423,19 @@
         ],
         "shotsTotal": [
           11,
-          18
+          19
         ],
         "shotsInside": [
           7,
-          11
+          12
         ],
         "corners": [
           6,
-          4
+          6
         ],
         "possession": [
-          50,
-          50
+          48,
+          52
         ],
         "shotsOn": [
           3,
@@ -443,7 +443,7 @@
         ],
         "shotsBlocked": [
           2,
-          3
+          4
         ],
         "shotsOutside": [
           4,
@@ -467,7 +467,7 @@
         ],
         "passesAccurate": [
           433,
-          464
+          490
         ],
         "yellow": [
           0,
@@ -479,7 +479,7 @@
         ],
         "passesTotal": [
           480,
-          501
+          527
         ],
         "home": "SCO",
         "away": "BRA"
