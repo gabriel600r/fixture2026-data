@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:35:50Z",
+  "updated": "2026-06-24T00:36:37Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 1,
       "goals": [
@@ -47,6 +47,12 @@
           "in": "P. Sucic",
           "minute": 72,
           "team": "CRO"
+        },
+        {
+          "out": "J. Ramos",
+          "in": "C. Waterman",
+          "minute": 77,
+          "team": "PAN"
         }
       ],
       "stats": {
