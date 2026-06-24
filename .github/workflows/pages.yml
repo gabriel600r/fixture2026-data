@@ -1,0 +1,35 @@
+name: Deploy Pages (site files only)
+# Solo re-publica Pages cuando cambian las paginas del sitio (HTML/md/.well-known),
+# NO en cada commit de results.json (el droplet commitea el feed muy seguido en
+# partidos -> antes eso disparaba un deploy de Pages por commit y fallaba por
+# concurrencia, mandando mails de error). El feed lo lee la app de raw.githubusercontent,
+# no de Pages, asi que Pages solo necesita re-publicarse cuando cambia el sitio.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.html'
+      - '**.md'
+      - '.well-known/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: deployment
+        uses: actions/deploy-pages@v4
