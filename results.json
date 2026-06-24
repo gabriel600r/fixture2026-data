@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:50:23Z",
+  "updated": "2026-06-24T20:51:12Z",
   "live": [
     {
       "id": 11,
@@ -109,7 +109,7 @@
           "team": "SUI"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           1,
@@ -319,7 +319,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 3,
       "away": 1,
       "goals": [
@@ -344,7 +344,8 @@
         {
           "player": "E. Mahmic",
           "minute": 80,
-          "team": "BIH"
+          "team": "BIH",
+          "assist": "D. Hadzikadunic"
         }
       ],
       "cardEvents": [
