@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:48:24Z",
+  "updated": "2026-06-24T00:49:12Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 0,
       "away": 1,
       "goals": [
@@ -64,6 +64,12 @@
           "out": "J. Fajardo",
           "in": "A. Londono",
           "minute": 83,
+          "team": "PAN"
+        },
+        {
+          "out": "Y. Barcenas",
+          "in": "T. Rodriguez",
+          "minute": 90,
           "team": "PAN"
         }
       ],
