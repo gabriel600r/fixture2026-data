@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:51:57Z",
+  "updated": "2026-06-24T23:52:45Z",
   "live": [
     {
       "id": 18,
@@ -119,6 +119,7 @@
           "team": "HAI"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           6,
@@ -328,7 +329,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 3,
       "goals": [
