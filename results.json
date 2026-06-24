@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:44:44Z",
+  "updated": "2026-06-24T20:45:33Z",
   "live": [
     {
       "id": 11,
@@ -91,14 +91,14 @@
           "team": "CAN"
         },
         {
-          "out": "B. Embolo",
-          "in": "C. Itten",
+          "out": "J. Manzambi",
+          "in": "C. Fassnacht",
           "minute": 85,
           "team": "SUI"
         },
         {
-          "out": "J. Manzambi",
-          "in": "C. Fassnacht",
+          "out": "B. Embolo",
+          "in": "C. Itten",
           "minute": 85,
           "team": "SUI"
         }
@@ -312,7 +312,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 3,
       "away": 1,
       "goals": [
