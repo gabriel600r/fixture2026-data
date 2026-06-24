@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:54:22Z",
+  "updated": "2026-06-24T23:55:10Z",
   "live": [
     {
       "id": 18,
@@ -120,7 +120,7 @@
           "team": "HAI"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           6,
@@ -322,7 +322,7 @@
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
           "player": "Bilal El Khannouss",
-          "rating": 9.0,
+          "rating": 8.9,
           "team": "MAR"
         }
       }
@@ -330,7 +330,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 0,
       "away": 3,
       "goals": [
@@ -364,6 +364,12 @@
           "player": "Fabinho",
           "minute": 83,
           "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "R. Christie",
+          "minute": 89,
+          "team": "SCO",
           "color": "yellow"
         }
       ],
