@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:53:34Z",
+  "updated": "2026-06-24T23:54:22Z",
   "live": [
     {
       "id": 18,
@@ -40,7 +40,8 @@
         {
           "player": "G. Yassine",
           "minute": 89,
-          "team": "MAR"
+          "team": "MAR",
+          "assist": "S. Rahimi"
         }
       ],
       "cardEvents": [
@@ -119,7 +120,7 @@
           "team": "HAI"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           6,
