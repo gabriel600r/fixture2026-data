@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:10:06Z",
+  "updated": "2026-06-24T23:10:54Z",
   "live": [
     {
       "id": 18,
@@ -256,6 +256,14 @@
           "minute": 45,
           "team": "BRA",
           "assist": "Bruno Guimaraes"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Robertson",
+          "in": "K. Tierney",
+          "minute": 46,
+          "team": "SCO"
         }
       ],
       "extra": 7,
