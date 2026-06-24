@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T00:30:19Z",
+  "updated": "2026-06-24T00:31:06Z",
   "live": [
     {
       "id": 70,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 1,
       "goals": [
@@ -34,6 +34,12 @@
           "out": "J. Gvardiol",
           "in": "A. Kramaric",
           "minute": 46,
+          "team": "CRO"
+        },
+        {
+          "out": "M. Pasalic",
+          "in": "L. Sucic",
+          "minute": 72,
           "team": "CRO"
         }
       ],
