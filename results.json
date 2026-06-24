@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:07:19Z",
+  "updated": "2026-06-24T19:08:07Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,12 +21,12 @@
           0
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "possession": [
-          61,
-          39
+          68,
+          32
         ],
         "shotsOn": [
           0,
@@ -49,7 +49,7 @@
           0
         ],
         "passesPct": [
-          85,
+          86,
           65
         ],
         "offsides": [
@@ -57,7 +57,7 @@
           0
         ],
         "passesAccurate": [
-          23,
+          32,
           11
         ],
         "yellow": [
@@ -69,7 +69,7 @@
           0
         ],
         "passesTotal": [
-          27,
+          37,
           17
         ],
         "home": "SUI",
@@ -211,7 +211,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
       "stats": {
