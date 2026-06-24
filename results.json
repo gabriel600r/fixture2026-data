@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-24T03:19:17Z",
+  "updated": "2026-06-24T03:20:05Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 56,
+      "minute": 59,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Jhon Lucumi",
+          "player": "J. Lucumi",
           "minute": 56,
           "team": "COL",
           "color": "yellow"
@@ -17,20 +17,26 @@
       ],
       "subs": [
         {
-          "out": "Ngal'ayel Mukau",
-          "in": "Noah Sadiki",
-          "minute": 45,
+          "out": "N. Mukau",
+          "in": "N. Sadiki",
+          "minute": 46,
           "team": "COD"
         },
         {
-          "out": "Cédric Bakambu",
-          "in": "Simon Banza",
+          "out": "C. Bakambu",
+          "in": "S. Banza",
           "minute": 57,
           "team": "COD"
         },
         {
-          "out": "Luis Suárez",
-          "in": "Jhon Cordoba",
+          "out": "L. Suarez",
+          "in": "J. Cordoba",
+          "minute": 58,
+          "team": "COL"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "J. Quintero",
           "minute": 58,
           "team": "COL"
         }
@@ -50,19 +56,19 @@
         ],
         "passesAccurate": [
           355,
-          144
+          149
         ],
         "passesTotal": [
-          395,
-          189
+          398,
+          196
         ],
         "passesPct": [
-          90,
+          89,
           76
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "saves": [
           0,
@@ -93,7 +99,7 @@
           1
         ],
         "fouls": [
-          5,
+          7,
           7
         ],
         "shotsBlocked": [
