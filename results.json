@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:30:13Z",
+  "updated": "2026-06-24T23:31:02Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 2,
       "away": 2,
       "goals": [
@@ -53,19 +53,19 @@
         ],
         "shotsTotal": [
           14,
-          4
+          5
         ],
         "shotsInside": [
           11,
           2
         ],
         "corners": [
-          5,
+          6,
           0
         ],
         "possession": [
-          70,
-          30
+          71,
+          29
         ],
         "shotsOn": [
           8,
@@ -73,14 +73,14 @@
         ],
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "shotsOutside": [
           3,
-          2
+          3
         ],
         "fouls": [
-          5,
+          6,
           12
         ],
         "saves": [
@@ -96,8 +96,8 @@
           0
         ],
         "passesAccurate": [
-          382,
-          149
+          392,
+          151
         ],
         "yellow": [
           0,
@@ -108,8 +108,8 @@
           0
         ],
         "passesTotal": [
-          426,
-          184
+          437,
+          187
         ],
         "home": "MAR",
         "away": "HAI"
@@ -247,7 +247,7 @@
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
           "player": "Bilal El Khannouss",
-          "rating": 8.7,
+          "rating": 8.9,
           "team": "MAR"
         }
       }
@@ -255,7 +255,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 3,
       "goals": [
@@ -329,7 +329,7 @@
         ],
         "fouls": [
           7,
-          2
+          3
         ],
         "saves": [
           3,
@@ -344,19 +344,19 @@
           0
         ],
         "passesAccurate": [
-          343,
+          355,
           375
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          379,
+          391,
           408
         ],
         "home": "SCO",
