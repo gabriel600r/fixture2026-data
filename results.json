@@ -1,13 +1,26 @@
 {
-  "updated": "2026-06-24T00:04:16Z",
+  "updated": "2026-06-24T00:05:03Z",
   "live": [
     {
       "id": 70,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
-      "extra": 3,
+      "subs": [
+        {
+          "out": "P. Musa",
+          "in": "A. Budimir",
+          "minute": 46,
+          "team": "CRO"
+        },
+        {
+          "out": "J. Gvardiol",
+          "in": "A. Kramaric",
+          "minute": 46,
+          "team": "CRO"
+        }
+      ],
       "stats": {
         "shotsTotal": [
           1,
@@ -201,7 +214,12 @@
             ]
           }
         },
-        "referee": "Pierre Ghislain Atcho, Gabon"
+        "referee": "Pierre Ghislain Atcho, Gabon",
+        "motm": {
+          "player": "Josip Šutalo",
+          "rating": 7.2,
+          "team": "CRO"
+        }
       }
     }
   ],
