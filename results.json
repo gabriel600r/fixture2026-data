@@ -1,321 +1,6 @@
 {
-  "updated": "2026-06-24T20:56:50Z",
+  "updated": "2026-06-24T20:56:51Z",
   "live": [
-    {
-      "id": 11,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 1,
-      "goals": [
-        {
-          "player": "R. Vargas",
-          "minute": 46,
-          "team": "SUI",
-          "assist": "J. Manzambi"
-        },
-        {
-          "player": "J. Manzambi",
-          "minute": 57,
-          "team": "SUI",
-          "assist": "B. Embolo"
-        },
-        {
-          "player": "P. David",
-          "minute": 76,
-          "team": "CAN",
-          "assist": "N. Saliba"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "C. Larin",
-          "minute": 32,
-          "team": "CAN",
-          "color": "yellow"
-        },
-        {
-          "player": "G. Xhaka",
-          "minute": 32,
-          "team": "SUI",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Millar",
-          "minute": 87,
-          "team": "CAN",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "M. Choiniere",
-          "in": "S. Eustaquio",
-          "minute": 58,
-          "team": "CAN"
-        },
-        {
-          "out": "A. Ahmed",
-          "in": "L. Millar",
-          "minute": 58,
-          "team": "CAN"
-        },
-        {
-          "out": "C. Larin",
-          "in": "T. Oluwaseyi",
-          "minute": 58,
-          "team": "CAN"
-        },
-        {
-          "out": "L. Jaquez",
-          "in": "S. Widmer",
-          "minute": 74,
-          "team": "SUI"
-        },
-        {
-          "out": "D. Sow",
-          "in": "M. Aebischer",
-          "minute": 74,
-          "team": "SUI"
-        },
-        {
-          "out": "T. Buchanan",
-          "in": "P. David",
-          "minute": 75,
-          "team": "CAN"
-        },
-        {
-          "out": "R. Vargas",
-          "in": "D. Ndoye",
-          "minute": 80,
-          "team": "SUI"
-        },
-        {
-          "out": "R. Laryea",
-          "in": "J. Shaffelburg",
-          "minute": 83,
-          "team": "CAN"
-        },
-        {
-          "out": "J. Manzambi",
-          "in": "C. Fassnacht",
-          "minute": 85,
-          "team": "SUI"
-        },
-        {
-          "out": "B. Embolo",
-          "in": "C. Itten",
-          "minute": 85,
-          "team": "SUI"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "shotsOff": [
-          1,
-          3
-        ],
-        "shotsTotal": [
-          6,
-          11
-        ],
-        "shotsInside": [
-          5,
-          10
-        ],
-        "corners": [
-          2,
-          7
-        ],
-        "possession": [
-          56,
-          44
-        ],
-        "shotsOn": [
-          4,
-          5
-        ],
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "shotsOutside": [
-          1,
-          1
-        ],
-        "fouls": [
-          19,
-          12
-        ],
-        "saves": [
-          4,
-          2
-        ],
-        "passesPct": [
-          83,
-          80
-        ],
-        "offsides": [
-          1,
-          3
-        ],
-        "passesAccurate": [
-          367,
-          264
-        ],
-        "yellow": [
-          1,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesTotal": [
-          440,
-          332
-        ],
-        "home": "SUI",
-        "away": "CAN"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Murat Yakin",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Gregor Kobel",
-                "pos": "G"
-              },
-              {
-                "n": 25,
-                "name": "Luca Jaquez",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Nico Elvedi",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Manuel Akanji",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Ricardo Rodríguez",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Remo Freuler",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Granit Xhaka",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Djibril Sow",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Johan Manzambi",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Rubén Vargas",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Breel Embolo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Jesse Marsch",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Maxime Crépeau",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Alistair Johnston",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Luc De Fougerolles",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Derek Cornelius",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Richie Laryea",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Tajon Buchanan",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Nathan-Dylan Saliba",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Mathieu Choinière",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Ali Ahmed",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jonathan David",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Cyle Larin",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Ramon Abatti Abel, Brazil",
-        "motm": {
-          "player": "Johan Manzambi",
-          "rating": 8.2,
-          "team": "SUI"
-        }
-      }
-    },
     {
       "id": 12,
       "status": "2H",
@@ -3220,6 +2905,318 @@
           "player": "Jonathan David",
           "rating": 9.0,
           "team": "CAN"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {
+          "player": "R. Vargas",
+          "minute": 46,
+          "team": "SUI",
+          "assist": "J. Manzambi"
+        },
+        {
+          "player": "J. Manzambi",
+          "minute": 57,
+          "team": "SUI",
+          "assist": "B. Embolo"
+        },
+        {
+          "player": "P. David",
+          "minute": 76,
+          "team": "CAN",
+          "assist": "N. Saliba"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "C. Larin",
+          "minute": 32,
+          "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Xhaka",
+          "minute": 32,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Millar",
+          "minute": 87,
+          "team": "CAN",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "M. Choiniere",
+          "in": "S. Eustaquio",
+          "minute": 58,
+          "team": "CAN"
+        },
+        {
+          "out": "A. Ahmed",
+          "in": "L. Millar",
+          "minute": 58,
+          "team": "CAN"
+        },
+        {
+          "out": "C. Larin",
+          "in": "T. Oluwaseyi",
+          "minute": 58,
+          "team": "CAN"
+        },
+        {
+          "out": "L. Jaquez",
+          "in": "S. Widmer",
+          "minute": 74,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Sow",
+          "in": "M. Aebischer",
+          "minute": 74,
+          "team": "SUI"
+        },
+        {
+          "out": "T. Buchanan",
+          "in": "P. David",
+          "minute": 75,
+          "team": "CAN"
+        },
+        {
+          "out": "R. Vargas",
+          "in": "D. Ndoye",
+          "minute": 80,
+          "team": "SUI"
+        },
+        {
+          "out": "R. Laryea",
+          "in": "J. Shaffelburg",
+          "minute": 83,
+          "team": "CAN"
+        },
+        {
+          "out": "J. Manzambi",
+          "in": "C. Fassnacht",
+          "minute": 85,
+          "team": "SUI"
+        },
+        {
+          "out": "B. Embolo",
+          "in": "C. Itten",
+          "minute": 85,
+          "team": "SUI"
+        }
+      ],
+      "stats": {
+        "shotsOff": [
+          1,
+          3
+        ],
+        "shotsTotal": [
+          6,
+          11
+        ],
+        "shotsInside": [
+          5,
+          10
+        ],
+        "corners": [
+          2,
+          7
+        ],
+        "possession": [
+          56,
+          44
+        ],
+        "shotsOn": [
+          4,
+          5
+        ],
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "shotsOutside": [
+          1,
+          1
+        ],
+        "fouls": [
+          19,
+          12
+        ],
+        "saves": [
+          4,
+          2
+        ],
+        "passesPct": [
+          83,
+          80
+        ],
+        "offsides": [
+          1,
+          3
+        ],
+        "passesAccurate": [
+          367,
+          264
+        ],
+        "yellow": [
+          1,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          440,
+          332
+        ],
+        "home": "SUI",
+        "away": "CAN"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Murat Yakin",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Gregor Kobel",
+                "pos": "G"
+              },
+              {
+                "n": 25,
+                "name": "Luca Jaquez",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Akanji",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ricardo Rodríguez",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Remo Freuler",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Granit Xhaka",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Djibril Sow",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Johan Manzambi",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Rubén Vargas",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Breel Embolo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Jesse Marsch",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Maxime Crépeau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Alistair Johnston",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Luc De Fougerolles",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Derek Cornelius",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Richie Laryea",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Tajon Buchanan",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Nathan-Dylan Saliba",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Mathieu Choinière",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ali Ahmed",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jonathan David",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Cyle Larin",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ramon Abatti Abel, Brazil",
+        "motm": {
+          "player": "Johan Manzambi",
+          "rating": 8.2,
+          "team": "SUI"
         }
       }
     },
@@ -15232,6 +15229,12 @@
         "goals": 3
       },
       {
+        "player": "J. Manzambi",
+        "team": "SUI",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "player": "H. Kane",
         "team": "ENG",
         "goals": 2,
@@ -15307,11 +15310,6 @@
         "goals": 2
       },
       {
-        "player": "J. Manzambi",
-        "team": "SUI",
-        "goals": 2
-      },
-      {
         "player": "M. Araujo",
         "team": "URU",
         "goals": 2,
@@ -15325,6 +15323,12 @@
       {
         "player": "M. Oyarzabal",
         "team": "ESP",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "player": "R. Vargas",
+        "team": "SUI",
         "goals": 2,
         "assists": 1
       },
@@ -15344,7 +15348,7 @@
         "team": "SUI",
         "goals": 1,
         "penalties": 1,
-        "assists": 1
+        "assists": 2
       },
       {
         "player": "G. Xhaka",
@@ -15363,11 +15367,6 @@
         "team": "RSA",
         "goals": 1,
         "penalties": 1
-      },
-      {
-        "player": "A. Al Amri",
-        "team": "KSA",
-        "goals": 1
       }
     ],
     "assists": [
@@ -15381,6 +15380,12 @@
         "player": "Michael Olise",
         "team": "FRA",
         "assists": 3
+      },
+      {
+        "player": "B. Embolo",
+        "team": "SUI",
+        "assists": 2,
+        "goals": 1
       },
       {
         "player": "Brahim Díaz",
@@ -15425,6 +15430,12 @@
         "goals": 1
       },
       {
+        "player": "N. Saliba",
+        "team": "CAN",
+        "assists": 2,
+        "goals": 1
+      },
+      {
         "player": "R. Gravenberch",
         "team": "NED",
         "assists": 2
@@ -15459,12 +15470,6 @@
         "team": "JPN",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "player": "B. Embolo",
-        "team": "SUI",
-        "assists": 1,
-        "goals": 1
       },
       {
         "player": "B. Fernandes",
@@ -15520,11 +15525,6 @@
       },
       {
         "player": "Declan Rice",
-        "team": "ENG",
-        "assists": 1
-      },
-      {
-        "player": "E. Anderson",
         "team": "ENG",
         "assists": 1
       }
@@ -15693,6 +15693,12 @@
         "yellow": 1
       },
       {
+        "player": "C. Larin",
+        "team": "CAN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "C. Mbemba",
         "team": "COD",
         "red": 0,
@@ -15703,16 +15709,24 @@
         "team": "NZL",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "C. Pickel",
-        "team": "COD",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
   "teamStats": [
+    {
+      "code": "SUI",
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "loses": 0,
+      "gf": 7,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "DWW"
+    },
     {
       "code": "GER",
       "played": 2,
@@ -15813,17 +15827,17 @@
     },
     {
       "code": "CAN",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 1,
-      "loses": 0,
-      "gf": 7,
-      "ga": 1,
+      "loses": 1,
+      "gf": 8,
+      "ga": 3,
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "6-0",
-      "biggestLose": "",
-      "form": "DW"
+      "biggestLose": "1-2",
+      "form": "DWL"
     },
     {
       "code": "POR",
@@ -15878,20 +15892,6 @@
       "cleanSheets": 2,
       "failedToScore": 1,
       "biggestWin": "4-0",
-      "biggestLose": "",
-      "form": "DW"
-    },
-    {
-      "code": "SUI",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 5,
-      "ga": 2,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
       "biggestLose": "",
       "form": "DW"
     },
