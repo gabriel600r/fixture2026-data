@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:57:35Z",
+  "updated": "2026-06-24T23:58:23Z",
   "live": [
     {
       "id": 18,
@@ -126,7 +126,7 @@
           "team": "HAI"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           6,
