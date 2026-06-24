@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:18:35Z",
+  "updated": "2026-06-24T19:19:23Z",
   "live": [
     {
       "id": 11,
@@ -13,11 +13,11 @@
           0
         ],
         "shotsTotal": [
-          2,
+          3,
           0
         ],
         "shotsInside": [
-          2,
+          3,
           0
         ],
         "corners": [
@@ -25,11 +25,11 @@
           0
         ],
         "possession": [
-          77,
-          23
+          76,
+          24
         ],
         "shotsOn": [
-          1,
+          2,
           0
         ],
         "shotsBlocked": [
@@ -41,24 +41,24 @@
           0
         ],
         "fouls": [
-          4,
+          5,
           3
         ],
         "saves": [
           0,
-          1
+          2
         ],
         "passesPct": [
-          86,
-          65
+          85,
+          61
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          92,
-          20
+          103,
+          22
         ],
         "yellow": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesTotal": [
-          107,
-          31
+          121,
+          36
         ],
         "home": "SUI",
         "away": "CAN"
@@ -211,16 +211,16 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
-          2,
+          3,
           0
         ],
         "shotsInside": [
@@ -232,8 +232,8 @@
           1
         ],
         "possession": [
-          61,
-          39
+          55,
+          45
         ],
         "shotsOn": [
           2,
@@ -244,28 +244,28 @@
           0
         ],
         "shotsOutside": [
-          2,
+          3,
           0
         ],
         "fouls": [
           3,
-          1
+          2
         ],
         "saves": [
           0,
           2
         ],
         "passesPct": [
-          82,
-          78
+          85,
+          82
         ],
         "offsides": [
           0,
           1
         ],
         "passesAccurate": [
-          63,
-          42
+          81,
+          68
         ],
         "yellow": [
           0,
@@ -276,8 +276,8 @@
           0
         ],
         "passesTotal": [
-          77,
-          54
+          95,
+          83
         ],
         "home": "BIH",
         "away": "QAT"
