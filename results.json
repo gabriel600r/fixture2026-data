@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:44:43Z",
+  "updated": "2026-06-24T23:45:32Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 3,
       "away": 2,
       "goals": [
@@ -36,6 +36,14 @@
           "minute": 78,
           "team": "MAR",
           "assist": "C. Riad"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "D. Nazon",
+          "minute": 79,
+          "team": "HAI",
+          "color": "yellow"
         }
       ],
       "subs": [
