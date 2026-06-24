@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:31:52Z",
+  "updated": "2026-06-24T20:32:40Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 2,
       "away": 0,
       "goals": [
@@ -70,11 +70,11 @@
         ],
         "corners": [
           2,
-          4
+          5
         ],
         "possession": [
-          58,
-          42
+          57,
+          43
         ],
         "shotsOn": [
           4,
@@ -90,7 +90,7 @@
         ],
         "fouls": [
           15,
-          7
+          8
         ],
         "saves": [
           3,
@@ -98,7 +98,7 @@
         ],
         "passesPct": [
           86,
-          80
+          81
         ],
         "offsides": [
           1,
@@ -106,7 +106,7 @@
         ],
         "passesAccurate": [
           322,
-          207
+          219
         ],
         "yellow": [
           1,
@@ -118,7 +118,7 @@
         ],
         "passesTotal": [
           375,
-          259
+          272
         ],
         "home": "SUI",
         "away": "CAN"
@@ -264,7 +264,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 2,
       "away": 1,
       "goals": [
@@ -340,11 +340,11 @@
         ],
         "corners": [
           4,
-          1
+          2
         ],
         "possession": [
-          60,
-          40
+          59,
+          41
         ],
         "shotsOn": [
           3,
@@ -368,7 +368,7 @@
         ],
         "passesPct": [
           88,
-          85
+          86
         ],
         "offsides": [
           0,
@@ -376,7 +376,7 @@
         ],
         "passesAccurate": [
           375,
-          243
+          261
         ],
         "yellow": [
           0,
@@ -387,8 +387,8 @@
           0
         ],
         "passesTotal": [
-          425,
-          287
+          427,
+          305
         ],
         "home": "BIH",
         "away": "QAT"
@@ -526,7 +526,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Kerim Alajbegović",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "BIH"
         }
       }
