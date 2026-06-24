@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:23:25Z",
+  "updated": "2026-06-24T19:24:13Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "stats": {
@@ -122,13 +122,13 @@
                 "pos": "M"
               },
               {
-                "n": 9,
-                "name": "Johan Manzambi",
+                "n": 15,
+                "name": "Djibril Sow",
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Djibril Sow",
+                "n": 9,
+                "name": "Johan Manzambi",
                 "pos": "M"
               },
               {
@@ -178,13 +178,13 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Mathieu Choinière",
+                "n": 25,
+                "name": "Nathan-Dylan Saliba",
                 "pos": "M"
               },
               {
-                "n": 25,
-                "name": "Nathan-Dylan Saliba",
+                "n": 6,
+                "name": "Mathieu Choinière",
                 "pos": "M"
               },
               {
@@ -211,7 +211,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "stats": {
@@ -324,13 +324,13 @@
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Ivan Šunjić",
+                "n": 13,
+                "name": "Ivan Bašić",
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Ivan Bašić",
+                "n": 14,
+                "name": "Ivan Šunjić",
                 "pos": "M"
               },
               {
@@ -395,8 +395,8 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Hassan Al Haydos",
+                "n": 8,
+                "name": "Edmilson Junior",
                 "pos": "F"
               },
               {
@@ -405,8 +405,8 @@
                 "pos": "F"
               },
               {
-                "n": 8,
-                "name": "Edmilson Junior",
+                "n": 10,
+                "name": "Hassan Al Haydos",
                 "pos": "F"
               }
             ]
