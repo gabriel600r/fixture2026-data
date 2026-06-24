@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:43:41Z",
+  "updated": "2026-06-24T03:44:28Z",
   "live": [
     {
       "id": 64,
@@ -87,16 +87,16 @@
           0
         ],
         "passesAccurate": [
-          450,
-          190
+          453,
+          193
         ],
         "passesTotal": [
-          506,
-          252
+          510,
+          255
         ],
         "passesPct": [
           89,
-          75
+          76
         ],
         "possession": [
           66,
@@ -119,7 +119,7 @@
           2
         ],
         "offsides": [
-          6,
+          7,
           0
         ],
         "red": [
@@ -132,7 +132,7 @@
         ],
         "fouls": [
           8,
-          12
+          13
         ],
         "shotsBlocked": [
           5,
@@ -274,7 +274,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Daniel Muñoz",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "COL"
         }
       }
