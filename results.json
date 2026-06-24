@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T22:46:04Z",
+  "updated": "2026-06-24T22:46:52Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
       "minute": 45,
-      "home": 1,
+      "home": 2,
       "away": 2,
       "goals": [
         {
@@ -24,8 +24,15 @@
           "minute": 43,
           "team": "HAI",
           "assist": "J. Duverne"
+        },
+        {
+          "player": "I. Saibari",
+          "minute": 45,
+          "team": "MAR",
+          "assist": "A. Hakimi"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           4,
@@ -33,7 +40,7 @@
         ],
         "shotsTotal": [
           9,
-          3
+          4
         ],
         "shotsInside": [
           8,
@@ -44,8 +51,8 @@
           0
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOn": [
           4,
@@ -57,7 +64,7 @@
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "fouls": [
           3,
@@ -77,7 +84,7 @@
         ],
         "passesAccurate": [
           222,
-          107
+          115
         ],
         "yellow": [
           0,
@@ -88,8 +95,8 @@
           0
         ],
         "passesTotal": [
-          246,
-          125
+          248,
+          133
         ],
         "home": "MAR",
         "away": "HAI"
@@ -241,14 +248,15 @@
           "assist": "Rayan"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
-          0,
-          3
+          1,
+          4
         ],
         "shotsTotal": [
           2,
-          6
+          7
         ],
         "shotsInside": [
           0,
@@ -259,20 +267,20 @@
           1
         ],
         "possession": [
-          52,
-          48
+          48,
+          52
         ],
         "shotsOn": [
           0,
           1
         ],
         "shotsBlocked": [
-          2,
+          1,
           2
         ],
         "shotsOutside": [
           2,
-          4
+          5
         ],
         "fouls": [
           2,
@@ -283,7 +291,7 @@
           0
         ],
         "passesPct": [
-          89,
+          87,
           93
         ],
         "offsides": [
@@ -291,8 +299,8 @@
           0
         ],
         "passesAccurate": [
-          195,
-          194
+          198,
+          236
         ],
         "yellow": [
           0,
@@ -303,8 +311,8 @@
           0
         ],
         "passesTotal": [
-          220,
-          209
+          227,
+          254
         ],
         "home": "SCO",
         "away": "BRA"
