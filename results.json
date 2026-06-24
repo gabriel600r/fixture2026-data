@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T03:23:14Z",
+  "updated": "2026-06-24T03:24:01Z",
   "live": [
     {
       "id": 64,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -55,20 +55,20 @@
           0
         ],
         "passesAccurate": [
-          362,
-          151
+          383,
+          152
         ],
         "passesTotal": [
-          406,
-          199
+          427,
+          201
         ],
         "passesPct": [
-          89,
+          90,
           76
         ],
         "possession": [
-          66,
-          34
+          67,
+          33
         ],
         "saves": [
           0,
@@ -242,7 +242,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Lionel Mpasi Nzau",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "COD"
         }
       }
