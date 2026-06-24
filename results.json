@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T19:37:53Z",
+  "updated": "2026-06-24T19:38:41Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 38,
+      "minute": 39,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,11 +23,11 @@
       ],
       "stats": {
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
-          3,
+          4,
           2
         ],
         "shotsInside": [
@@ -39,8 +39,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          73,
+          27
         ],
         "shotsOn": [
           2,
@@ -51,12 +51,12 @@
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "fouls": [
           8,
-          4
+          5
         ],
         "saves": [
           2,
@@ -71,7 +71,7 @@
           3
         ],
         "passesAccurate": [
-          191,
+          198,
           59
         ],
         "yellow": [
@@ -83,7 +83,7 @@
           0
         ],
         "passesTotal": [
-          220,
+          227,
           81
         ],
         "home": "SUI",
@@ -225,7 +225,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 38,
+      "minute": 39,
       "home": 2,
       "away": 0,
       "goals": [
@@ -260,8 +260,8 @@
           1
         ],
         "possession": [
-          61,
-          39
+          63,
+          37
         ],
         "shotsOn": [
           3,
@@ -277,7 +277,7 @@
         ],
         "fouls": [
           4,
-          4
+          5
         ],
         "saves": [
           0,
@@ -285,15 +285,15 @@
         ],
         "passesPct": [
           90,
-          83
+          81
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          164,
-          105
+          188,
+          109
         ],
         "yellow": [
           0,
@@ -304,8 +304,8 @@
           0
         ],
         "passesTotal": [
-          183,
-          127
+          209,
+          134
         ],
         "home": "BIH",
         "away": "QAT"
