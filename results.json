@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T03:52:18Z",
+  "updated": "2026-06-24T03:53:05Z",
   "live": [
     {
       "id": 64,
@@ -73,7 +73,7 @@
           "team": "COD"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsTotal": [
           19,
