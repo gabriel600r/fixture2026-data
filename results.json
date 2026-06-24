@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:07:40Z",
+  "updated": "2026-06-24T20:08:29Z",
   "live": [
     {
       "id": 11,
@@ -47,8 +47,8 @@
           1
         ],
         "possession": [
-          70,
-          30
+          68,
+          32
         ],
         "shotsOn": [
           3,
@@ -72,15 +72,15 @@
         ],
         "passesPct": [
           86,
-          75
+          76
         ],
         "offsides": [
           1,
           3
         ],
         "passesAccurate": [
-          261,
-          94
+          262,
+          107
         ],
         "yellow": [
           1,
@@ -91,8 +91,8 @@
           0
         ],
         "passesTotal": [
-          303,
-          125
+          306,
+          141
         ],
         "home": "SUI",
         "away": "CAN"
@@ -229,7 +229,7 @@
         },
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
-          "player": "Gregor Kobel",
+          "player": "Rubén Vargas",
           "rating": 7.3,
           "team": "SUI"
         }
@@ -261,26 +261,46 @@
           "assist": "Edmilson Junior"
         }
       ],
+      "subs": [
+        {
+          "out": "I. Sunjic",
+          "in": "B. Tahirovic",
+          "minute": 46,
+          "team": "BIH"
+        },
+        {
+          "out": "A. Malic",
+          "in": "A. Memic",
+          "minute": 46,
+          "team": "BIH"
+        },
+        {
+          "out": "J. Gaber",
+          "in": "A. Hatem",
+          "minute": 46,
+          "team": "QAT"
+        }
+      ],
       "stats": {
         "shotsOff": [
           3,
-          2
+          3
         ],
         "shotsTotal": [
           9,
-          3
+          4
         ],
         "shotsInside": [
           2,
-          2
+          3
         ],
         "corners": [
           4,
           1
         ],
         "possession": [
-          58,
-          42
+          59,
+          41
         ],
         "shotsOn": [
           3,
@@ -311,8 +331,8 @@
           2
         ],
         "passesAccurate": [
-          231,
-          168
+          256,
+          179
         ],
         "yellow": [
           0,
@@ -323,8 +343,8 @@
           0
         ],
         "passesTotal": [
-          260,
-          195
+          289,
+          208
         ],
         "home": "BIH",
         "away": "QAT"
