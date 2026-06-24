@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:31:51Z",
+  "updated": "2026-06-24T23:32:39Z",
   "live": [
     {
       "id": 18,
@@ -81,7 +81,7 @@
         ],
         "fouls": [
           6,
-          12
+          13
         ],
         "saves": [
           0,
@@ -89,15 +89,15 @@
         ],
         "passesPct": [
           90,
-          81
+          80
         ],
         "offsides": [
           4,
           0
         ],
         "passesAccurate": [
-          392,
-          151
+          397,
+          152
         ],
         "yellow": [
           0,
@@ -108,8 +108,8 @@
           0
         ],
         "passesTotal": [
-          437,
-          187
+          443,
+          189
         ],
         "home": "MAR",
         "away": "HAI"
@@ -255,7 +255,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 3,
       "goals": [
@@ -312,23 +312,23 @@
           6
         ],
         "shotsTotal": [
-          5,
+          7,
           16
         ],
         "shotsInside": [
-          2,
+          3,
           9
         ],
         "corners": [
-          3,
+          4,
           3
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "shotsOn": [
-          1,
+          3,
           7
         ],
         "shotsBlocked": [
@@ -336,7 +336,7 @@
           3
         ],
         "shotsOutside": [
-          3,
+          4,
           7
         ],
         "fouls": [
@@ -345,7 +345,7 @@
         ],
         "saves": [
           3,
-          1
+          3
         ],
         "passesPct": [
           91,
@@ -353,10 +353,10 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "passesAccurate": [
-          355,
+          367,
           375
         ],
         "yellow": [
@@ -368,8 +368,8 @@
           0
         ],
         "passesTotal": [
-          391,
-          408
+          405,
+          409
         ],
         "home": "SCO",
         "away": "BRA"
