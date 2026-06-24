@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:28:35Z",
+  "updated": "2026-06-24T20:29:24Z",
   "live": [
     {
       "id": 11,
@@ -62,19 +62,19 @@
         ],
         "shotsTotal": [
           6,
-          7
+          8
         ],
         "shotsInside": [
           5,
-          6
+          7
         ],
         "corners": [
           2,
-          3
+          4
         ],
         "possession": [
-          61,
-          39
+          58,
+          42
         ],
         "shotsOn": [
           4,
@@ -82,7 +82,7 @@
         ],
         "shotsBlocked": [
           1,
-          2
+          3
         ],
         "shotsOutside": [
           1,
@@ -105,8 +105,8 @@
           3
         ],
         "passesAccurate": [
-          320,
-          185
+          322,
+          207
         ],
         "yellow": [
           1,
@@ -117,8 +117,8 @@
           0
         ],
         "passesTotal": [
-          371,
-          232
+          375,
+          259
         ],
         "home": "SUI",
         "away": "CAN"
@@ -256,7 +256,7 @@
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
           "player": "Johan Manzambi",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "SUI"
         }
       }
@@ -264,7 +264,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 2,
       "away": 1,
       "goals": [
@@ -360,14 +360,14 @@
         ],
         "fouls": [
           7,
-          8
+          9
         ],
         "saves": [
           0,
           2
         ],
         "passesPct": [
-          89,
+          88,
           85
         ],
         "offsides": [
@@ -375,8 +375,8 @@
           2
         ],
         "passesAccurate": [
-          372,
-          241
+          375,
+          243
         ],
         "yellow": [
           0,
@@ -387,8 +387,8 @@
           0
         ],
         "passesTotal": [
-          419,
-          284
+          425,
+          287
         ],
         "home": "BIH",
         "away": "QAT"
