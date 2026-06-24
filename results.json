@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-24T19:43:29Z",
+  "updated": "2026-06-24T19:44:17Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "G. Xhaka",
-          "minute": 32,
-          "team": "SUI",
-          "color": "yellow"
-        },
-        {
           "player": "C. Larin",
           "minute": 32,
           "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Xhaka",
+          "minute": 32,
+          "team": "SUI",
           "color": "yellow"
         }
       ],
@@ -225,7 +225,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 2,
       "away": 1,
       "goals": [
@@ -244,7 +244,8 @@
         {
           "player": "H. Al Haydos",
           "minute": 42,
-          "team": "QAT"
+          "team": "QAT",
+          "assist": "Edmilson Junior"
         }
       ],
       "stats": {
