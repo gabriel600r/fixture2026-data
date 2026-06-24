@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:49:53Z",
+  "updated": "2026-06-24T19:50:41Z",
   "live": [
     {
       "id": 11,
@@ -253,23 +253,23 @@
       "stats": {
         "shotsOff": [
           3,
-          1
+          2
         ],
         "shotsTotal": [
           9,
-          2
+          3
         ],
         "shotsInside": [
           2,
-          1
+          2
         ],
         "corners": [
           4,
           1
         ],
         "possession": [
-          60,
-          40
+          58,
+          42
         ],
         "shotsOn": [
           3,
@@ -293,15 +293,15 @@
         ],
         "passesPct": [
           89,
-          84
+          86
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          225,
-          147
+          231,
+          168
         ],
         "yellow": [
           0,
@@ -312,8 +312,8 @@
           0
         ],
         "passesTotal": [
-          253,
-          174
+          260,
+          195
         ],
         "home": "BIH",
         "away": "QAT"
