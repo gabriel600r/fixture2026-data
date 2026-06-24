@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:27:39Z",
+  "updated": "2026-06-24T22:28:27Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 1,
       "goals": [
@@ -219,7 +219,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 26,
+      "minute": 27,
       "home": 0,
       "away": 1,
       "goals": [
@@ -237,11 +237,11 @@
         ],
         "shotsTotal": [
           0,
-          6
+          5
         ],
         "shotsInside": [
           0,
-          3
+          2
         ],
         "corners": [
           0,
@@ -253,7 +253,7 @@
         ],
         "shotsOn": [
           0,
-          2
+          1
         ],
         "shotsBlocked": [
           0,
@@ -265,14 +265,14 @@
         ],
         "fouls": [
           0,
-          0
+          1
         ],
         "saves": [
           0,
           0
         ],
         "passesPct": [
-          88,
+          87,
           94
         ],
         "offsides": [
@@ -292,7 +292,7 @@
           0
         ],
         "passesTotal": [
-          142,
+          143,
           152
         ],
         "home": "SCO",
