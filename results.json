@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:42:20Z",
+  "updated": "2026-06-24T23:43:08Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 3,
       "away": 2,
       "goals": [
@@ -68,6 +68,12 @@
           "in": "G. Yassine",
           "minute": 70,
           "team": "MAR"
+        },
+        {
+          "out": "J. Duverne",
+          "in": "C. Arcus",
+          "minute": 80,
+          "team": "HAI"
         }
       ],
       "stats": {
@@ -279,7 +285,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 3,
       "goals": [
@@ -537,7 +543,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 9.2,
+          "rating": 9.0,
           "team": "BRA"
         }
       }
