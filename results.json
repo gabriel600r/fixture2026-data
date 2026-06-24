@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:26:10Z",
+  "updated": "2026-06-24T23:26:58Z",
   "live": [
     {
       "id": 18,
@@ -38,7 +38,7 @@
           3
         ],
         "shotsTotal": [
-          13,
+          14,
           4
         ],
         "shotsInside": [
@@ -46,7 +46,7 @@
           2
         ],
         "corners": [
-          4,
+          5,
           0
         ],
         "possession": [
@@ -54,7 +54,7 @@
           30
         ],
         "shotsOn": [
-          7,
+          8,
           1
         ],
         "shotsBlocked": [
@@ -62,16 +62,16 @@
           0
         ],
         "shotsOutside": [
-          2,
+          3,
           2
         ],
         "fouls": [
-          3,
+          4,
           11
         ],
         "saves": [
           0,
-          6
+          7
         ],
         "passesPct": [
           90,
@@ -82,8 +82,8 @@
           0
         ],
         "passesAccurate": [
-          358,
-          145
+          368,
+          147
         ],
         "yellow": [
           0,
@@ -94,8 +94,8 @@
           0
         ],
         "passesTotal": [
-          398,
-          176
+          409,
+          180
         ],
         "home": "MAR",
         "away": "HAI"
@@ -241,7 +241,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 3,
       "goals": [
@@ -260,7 +260,8 @@
         {
           "player": "M. Cunha",
           "minute": 60,
-          "team": "BRA"
+          "team": "BRA",
+          "assist": "Bruno Guimaraes"
         }
       ],
       "subs": [
@@ -289,8 +290,8 @@
           3
         ],
         "possession": [
-          50,
-          50
+          49,
+          51
         ],
         "shotsOn": [
           1,
@@ -305,7 +306,7 @@
           6
         ],
         "fouls": [
-          5,
+          6,
           2
         ],
         "saves": [
@@ -313,7 +314,7 @@
           1
         ],
         "passesPct": [
-          90,
+          91,
           92
         ],
         "offsides": [
@@ -321,8 +322,8 @@
           0
         ],
         "passesAccurate": [
-          333,
-          341
+          340,
+          363
         ],
         "yellow": [
           0,
@@ -333,8 +334,8 @@
           0
         ],
         "passesTotal": [
-          368,
-          372
+          375,
+          396
         ],
         "home": "SCO",
         "away": "BRA"
