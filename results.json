@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:39:55Z",
+  "updated": "2026-06-24T20:40:43Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 2,
       "away": 1,
       "goals": [
@@ -120,7 +120,7 @@
         ],
         "fouls": [
           16,
-          8
+          9
         ],
         "saves": [
           3,
@@ -136,7 +136,7 @@
         ],
         "passesAccurate": [
           332,
-          236
+          237
         ],
         "yellow": [
           1,
@@ -147,8 +147,8 @@
           0
         ],
         "passesTotal": [
-          389,
-          290
+          390,
+          292
         ],
         "home": "SUI",
         "away": "CAN"
@@ -317,6 +317,14 @@
           "assist": "Edmilson Junior"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "A. Fathi",
+          "minute": 78,
+          "team": "QAT",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "I. Sunjic",
@@ -363,11 +371,11 @@
       ],
       "stats": {
         "shotsOff": [
-          3,
+          4,
           5
         ],
         "shotsTotal": [
-          9,
+          10,
           6
         ],
         "shotsInside": [
@@ -391,12 +399,12 @@
           0
         ],
         "shotsOutside": [
-          7,
+          8,
           2
         ],
         "fouls": [
           7,
-          9
+          10
         ],
         "saves": [
           0,
@@ -404,15 +412,15 @@
         ],
         "passesPct": [
           88,
-          85
+          84
         ],
         "offsides": [
-          0,
+          1,
           2
         ],
         "passesAccurate": [
-          396,
-          279
+          403,
+          284
         ],
         "yellow": [
           0,
@@ -423,8 +431,8 @@
           0
         ],
         "passesTotal": [
-          450,
-          329
+          458,
+          337
         ],
         "home": "BIH",
         "away": "QAT"
