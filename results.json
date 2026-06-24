@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:34:41Z",
+  "updated": "2026-06-24T19:35:29Z",
   "live": [
     {
       "id": 11,
@@ -225,7 +225,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 2,
       "away": 0,
       "goals": [
@@ -236,9 +236,10 @@
           "assist": "I. Basic"
         },
         {
-          "player": "E. Dzeko",
+          "player": "S. Al Brake",
           "minute": 34,
-          "team": "BIH"
+          "team": "BIH",
+          "og": true
         }
       ],
       "stats": {
