@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:43:56Z",
+  "updated": "2026-06-24T20:44:44Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 2,
       "away": 1,
       "goals": [
@@ -93,6 +93,12 @@
         {
           "out": "B. Embolo",
           "in": "C. Itten",
+          "minute": 85,
+          "team": "SUI"
+        },
+        {
+          "out": "J. Manzambi",
+          "in": "C. Fassnacht",
           "minute": 85,
           "team": "SUI"
         }
@@ -343,7 +349,7 @@
         },
         {
           "player": "E. Mahmic",
-          "minute": 81,
+          "minute": 82,
           "team": "BIH",
           "color": "yellow"
         }
@@ -402,6 +408,12 @@
           "in": "M. Al Mannai",
           "minute": 79,
           "team": "QAT"
+        },
+        {
+          "out": "K. Alajbegovic",
+          "in": "D. Burnic",
+          "minute": 82,
+          "team": "BIH"
         }
       ],
       "stats": {
@@ -410,15 +422,15 @@
           5
         ],
         "shotsTotal": [
-          10,
+          14,
           6
         ],
         "shotsInside": [
-          2,
+          4,
           4
         ],
         "corners": [
-          4,
+          5,
           3
         ],
         "possession": [
@@ -426,15 +438,15 @@
           42
         ],
         "shotsOn": [
-          3,
+          5,
           1
         ],
         "shotsBlocked": [
-          3,
+          5,
           0
         ],
         "shotsOutside": [
-          8,
+          10,
           2
         ],
         "fouls": [
@@ -443,7 +455,7 @@
         ],
         "saves": [
           0,
-          2
+          3
         ],
         "passesPct": [
           88,
@@ -454,7 +466,7 @@
           2
         ],
         "passesAccurate": [
-          409,
+          411,
           290
         ],
         "yellow": [
@@ -466,7 +478,7 @@
           0
         ],
         "passesTotal": [
-          466,
+          468,
           345
         ],
         "home": "BIH",
@@ -605,7 +617,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Kerim Alajbegović",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "BIH"
         }
       }
