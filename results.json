@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:47:56Z",
+  "updated": "2026-06-24T23:48:44Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 3,
       "away": 2,
       "goals": [
@@ -143,7 +143,7 @@
         ],
         "fouls": [
           7,
-          15
+          16
         ],
         "saves": [
           0,
@@ -158,7 +158,7 @@
           0
         ],
         "passesAccurate": [
-          445,
+          456,
           172
         ],
         "yellow": [
@@ -170,7 +170,7 @@
           0
         ],
         "passesTotal": [
-          499,
+          513,
           215
         ],
         "home": "MAR",
@@ -309,7 +309,7 @@
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
           "player": "Bilal El Khannouss",
-          "rating": 8.9,
+          "rating": 9.0,
           "team": "MAR"
         }
       }
@@ -317,7 +317,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 3,
       "goals": [
@@ -439,14 +439,14 @@
         ],
         "fouls": [
           7,
-          6
+          7
         ],
         "saves": [
           4,
           3
         ],
         "passesPct": [
-          91,
+          90,
           93
         ],
         "offsides": [
@@ -454,8 +454,8 @@
           1
         ],
         "passesAccurate": [
-          420,
-          453
+          426,
+          460
         ],
         "yellow": [
           0,
@@ -466,8 +466,8 @@
           0
         ],
         "passesTotal": [
-          463,
-          488
+          471,
+          497
         ],
         "home": "SCO",
         "away": "BRA"
@@ -605,7 +605,7 @@
         "referee": "César Ramos Palazuelos, Mexico",
         "motm": {
           "player": "Vinícius Júnior",
-          "rating": 9.0,
+          "rating": 9.2,
           "team": "BRA"
         }
       }
