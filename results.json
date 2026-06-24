@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T22:41:18Z",
+  "updated": "2026-06-24T22:42:05Z",
   "live": [
     {
       "id": 18,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 1,
       "away": 1,
       "goals": [
@@ -26,11 +26,11 @@
           3
         ],
         "shotsTotal": [
-          8,
+          9,
           3
         ],
         "shotsInside": [
-          7,
+          8,
           2
         ],
         "corners": [
@@ -42,7 +42,7 @@
           33
         ],
         "shotsOn": [
-          3,
+          4,
           1
         ],
         "shotsBlocked": [
@@ -59,19 +59,19 @@
         ],
         "saves": [
           0,
-          3
+          4
         ],
         "passesPct": [
           91,
-          85
+          86
         ],
         "offsides": [
           3,
           0
         ],
         "passesAccurate": [
-          202,
-          99
+          212,
+          103
         ],
         "yellow": [
           0,
@@ -82,8 +82,8 @@
           0
         ],
         "passesTotal": [
-          222,
-          116
+          234,
+          120
         ],
         "home": "MAR",
         "away": "HAI"
@@ -224,7 +224,7 @@
     {
       "id": 17,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 1,
       "goals": [
@@ -238,11 +238,11 @@
       "stats": {
         "shotsOff": [
           0,
-          2
+          3
         ],
         "shotsTotal": [
           2,
-          5
+          6
         ],
         "shotsInside": [
           0,
@@ -253,8 +253,8 @@
           1
         ],
         "possession": [
-          51,
-          49
+          53,
+          47
         ],
         "shotsOn": [
           0,
@@ -266,7 +266,7 @@
         ],
         "shotsOutside": [
           2,
-          3
+          4
         ],
         "fouls": [
           2,
@@ -277,7 +277,7 @@
           0
         ],
         "passesPct": [
-          88,
+          89,
           93
         ],
         "offsides": [
@@ -285,8 +285,8 @@
           0
         ],
         "passesAccurate": [
-          169,
-          172
+          188,
+          177
         ],
         "yellow": [
           0,
@@ -297,8 +297,8 @@
           0
         ],
         "passesTotal": [
-          191,
-          184
+          211,
+          191
         ],
         "home": "SCO",
         "away": "BRA"
