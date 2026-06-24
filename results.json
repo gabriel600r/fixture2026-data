@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:48:17Z",
+  "updated": "2026-06-24T19:49:05Z",
   "live": [
     {
       "id": 11,
@@ -21,7 +21,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           1,
@@ -40,8 +40,8 @@
           1
         ],
         "possession": [
-          68,
-          32
+          69,
+          31
         ],
         "shotsOn": [
           2,
@@ -72,8 +72,8 @@
           3
         ],
         "passesAccurate": [
-          217,
-          86
+          229,
+          88
         ],
         "yellow": [
           1,
@@ -84,8 +84,8 @@
           0
         ],
         "passesTotal": [
-          254,
-          113
+          268,
+          116
         ],
         "home": "SUI",
         "away": "CAN"
@@ -249,27 +249,27 @@
           "assist": "Edmilson Junior"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOff": [
           3,
-          0
+          1
         ],
         "shotsTotal": [
           9,
-          1
+          2
         ],
         "shotsInside": [
           2,
           1
         ],
         "corners": [
-          3,
+          4,
           1
         ],
         "possession": [
-          61,
-          39
+          60,
+          40
         ],
         "shotsOn": [
           3,
@@ -281,10 +281,10 @@
         ],
         "shotsOutside": [
           7,
-          0
+          1
         ],
         "fouls": [
-          5,
+          6,
           6
         ],
         "saves": [
@@ -292,7 +292,7 @@
           2
         ],
         "passesPct": [
-          90,
+          89,
           84
         ],
         "offsides": [
@@ -301,7 +301,7 @@
         ],
         "passesAccurate": [
           225,
-          139
+          147
         ],
         "yellow": [
           0,
@@ -312,8 +312,8 @@
           0
         ],
         "passesTotal": [
-          249,
-          165
+          253,
+          174
         ],
         "home": "BIH",
         "away": "QAT"
