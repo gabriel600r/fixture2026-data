@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:17:21Z",
+  "updated": "2026-06-24T20:18:09Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 2,
       "away": 0,
       "goals": [
@@ -35,17 +35,31 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "M. Choiniere",
+          "in": "S. Eustaquio",
+          "minute": 59,
+          "team": "CAN"
+        },
+        {
+          "out": "A. Ahmed",
+          "in": "L. Millar",
+          "minute": 59,
+          "team": "CAN"
+        }
+      ],
       "stats": {
         "shotsOff": [
           1,
           2
         ],
         "shotsTotal": [
-          5,
+          6,
           5
         ],
         "shotsInside": [
-          4,
+          5,
           4
         ],
         "corners": [
@@ -53,11 +67,11 @@
           1
         ],
         "possession": [
-          67,
-          33
+          65,
+          35
         ],
         "shotsOn": [
-          3,
+          4,
           3
         ],
         "shotsBlocked": [
@@ -78,15 +92,15 @@
         ],
         "passesPct": [
           86,
-          74
+          76
         ],
         "offsides": [
           1,
           3
         ],
         "passesAccurate": [
-          298,
-          127
+          302,
+          141
         ],
         "yellow": [
           1,
@@ -97,8 +111,8 @@
           0
         ],
         "passesTotal": [
-          346,
-          171
+          350,
+          185
         ],
         "home": "SUI",
         "away": "CAN"
@@ -235,8 +249,8 @@
         },
         "referee": "Ramon Abatti Abel, Brazil",
         "motm": {
-          "player": "Rubén Vargas",
-          "rating": 7.5,
+          "player": "Johan Manzambi",
+          "rating": 8.0,
           "team": "SUI"
         }
       }
@@ -244,7 +258,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 2,
       "away": 1,
       "goals": [
@@ -488,7 +502,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Kerim Alajbegović",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "BIH"
         }
       }
