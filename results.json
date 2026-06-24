@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T20:23:47Z",
+  "updated": "2026-06-24T20:24:35Z",
   "live": [
     {
       "id": 11,
       "status": "2H",
-      "minute": 64,
+      "minute": 66,
       "home": 2,
       "away": 0,
       "goals": [
@@ -73,8 +73,8 @@
           3
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "shotsOn": [
           4,
@@ -89,8 +89,8 @@
           1
         ],
         "fouls": [
-          14,
-          5
+          15,
+          7
         ],
         "saves": [
           3,
@@ -98,15 +98,15 @@
         ],
         "passesPct": [
           86,
-          78
+          79
         ],
         "offsides": [
           1,
           3
         ],
         "passesAccurate": [
-          304,
-          167
+          316,
+          178
         ],
         "yellow": [
           1,
@@ -117,8 +117,8 @@
           0
         ],
         "passesTotal": [
-          353,
-          213
+          366,
+          225
         ],
         "home": "SUI",
         "away": "CAN"
@@ -264,7 +264,7 @@
     {
       "id": 12,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 2,
       "away": 1,
       "goals": [
@@ -316,11 +316,11 @@
       "stats": {
         "shotsOff": [
           3,
-          4
+          5
         ],
         "shotsTotal": [
           9,
-          5
+          6
         ],
         "shotsInside": [
           2,
@@ -331,8 +331,8 @@
           1
         ],
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "shotsOn": [
           3,
@@ -344,7 +344,7 @@
         ],
         "shotsOutside": [
           7,
-          1
+          2
         ],
         "fouls": [
           7,
@@ -356,15 +356,15 @@
         ],
         "passesPct": [
           89,
-          84
+          85
         ],
         "offsides": [
           0,
           2
         ],
         "passesAccurate": [
-          343,
-          221
+          370,
+          233
         ],
         "yellow": [
           0,
@@ -375,8 +375,8 @@
           0
         ],
         "passesTotal": [
-          385,
-          262
+          417,
+          275
         ],
         "home": "BIH",
         "away": "QAT"
