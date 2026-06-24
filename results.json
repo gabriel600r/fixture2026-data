@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:46:20Z",
+  "updated": "2026-06-24T23:47:08Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 3,
       "away": 2,
       "goals": [
@@ -104,7 +104,7 @@
         {
           "out": "L. Joseph",
           "in": "F. Pierrot",
-          "minute": 84,
+          "minute": 83,
           "team": "HAI"
         }
       ],
@@ -126,8 +126,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          71,
+          29
         ],
         "shotsOn": [
           9,
@@ -158,20 +158,20 @@
           0
         ],
         "passesAccurate": [
-          433,
-          159
+          445,
+          172
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          487,
-          199
+          499,
+          215
         ],
         "home": "MAR",
         "away": "HAI"
@@ -317,7 +317,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
       "away": 3,
       "goals": [
@@ -372,6 +372,18 @@
           "in": "Neymar",
           "minute": 76,
           "team": "BRA"
+        },
+        {
+          "out": "N. Patterson",
+          "in": "A. Ralston",
+          "minute": 82,
+          "team": "SCO"
+        },
+        {
+          "out": "B. Gannon-Doak",
+          "in": "R. Christie",
+          "minute": 82,
+          "team": "SCO"
         }
       ],
       "stats": {
@@ -381,23 +393,23 @@
         ],
         "shotsTotal": [
           10,
-          16
+          17
         ],
         "shotsInside": [
           6,
-          9
+          10
         ],
         "corners": [
           6,
-          3
+          4
         ],
         "possession": [
-          50,
-          50
+          49,
+          51
         ],
         "shotsOn": [
           3,
-          7
+          8
         ],
         "shotsBlocked": [
           2,
@@ -409,23 +421,23 @@
         ],
         "fouls": [
           7,
-          5
+          6
         ],
         "saves": [
-          3,
+          4,
           3
         ],
         "passesPct": [
           91,
-          92
+          93
         ],
         "offsides": [
           0,
           1
         ],
         "passesAccurate": [
-          413,
-          434
+          420,
+          453
         ],
         "yellow": [
           0,
@@ -436,8 +448,8 @@
           0
         ],
         "passesTotal": [
-          454,
-          470
+          463,
+          488
         ],
         "home": "SCO",
         "away": "BRA"
