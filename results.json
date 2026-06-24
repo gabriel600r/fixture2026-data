@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:35:06Z",
+  "updated": "2026-06-24T23:35:54Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 2,
       "away": 2,
       "goals": [
@@ -273,7 +273,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 3,
       "goals": [
@@ -374,8 +374,8 @@
           1
         ],
         "passesAccurate": [
-          367,
-          375
+          388,
+          394
         ],
         "yellow": [
           0,
@@ -386,8 +386,8 @@
           0
         ],
         "passesTotal": [
-          405,
-          409
+          427,
+          430
         ],
         "home": "SCO",
         "away": "BRA"
