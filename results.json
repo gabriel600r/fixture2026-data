@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-24T19:31:29Z",
+  "updated": "2026-06-24T19:32:17Z",
   "live": [
     {
       "id": 11,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "G. Xhaka",
+          "minute": 32,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Larin",
+          "minute": 32,
+          "team": "CAN",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
@@ -211,7 +225,7 @@
     {
       "id": 12,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 1,
       "away": 0,
       "goals": [
