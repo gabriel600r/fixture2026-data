@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24T23:43:08Z",
+  "updated": "2026-06-24T23:43:55Z",
   "live": [
     {
       "id": 18,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 3,
       "away": 2,
       "goals": [
@@ -74,23 +74,29 @@
           "in": "C. Arcus",
           "minute": 80,
           "team": "HAI"
+        },
+        {
+          "out": "D. Jean Jacques",
+          "in": "D. Simon",
+          "minute": 80,
+          "team": "HAI"
         }
       ],
       "stats": {
         "shotsOff": [
-          5,
+          6,
           3
         ],
         "shotsTotal": [
-          16,
+          19,
           5
         ],
         "shotsInside": [
-          11,
+          14,
           2
         ],
         "corners": [
-          6,
+          8,
           0
         ],
         "possession": [
@@ -98,11 +104,11 @@
           28
         ],
         "shotsOn": [
-          8,
+          9,
           1
         ],
         "shotsBlocked": [
-          3,
+          4,
           1
         ],
         "shotsOutside": [
@@ -285,7 +291,7 @@
     {
       "id": 17,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 3,
       "goals": [
@@ -344,24 +350,24 @@
       ],
       "stats": {
         "shotsOff": [
-          4,
+          5,
           6
         ],
         "shotsTotal": [
-          9,
+          10,
           16
         ],
         "shotsInside": [
-          5,
+          6,
           9
         ],
         "corners": [
-          4,
+          6,
           3
         ],
         "possession": [
-          51,
-          49
+          50,
+          50
         ],
         "shotsOn": [
           3,
@@ -377,7 +383,7 @@
         ],
         "fouls": [
           7,
-          4
+          5
         ],
         "saves": [
           3,
@@ -392,8 +398,8 @@
           1
         ],
         "passesAccurate": [
-          410,
-          414
+          413,
+          434
         ],
         "yellow": [
           0,
@@ -404,8 +410,8 @@
           0
         ],
         "passesTotal": [
-          450,
-          449
+          454,
+          470
         ],
         "home": "SCO",
         "away": "BRA"
