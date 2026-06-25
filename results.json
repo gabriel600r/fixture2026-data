@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:41:44Z",
+  "updated": "2026-06-25T23:42:32Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -39,12 +39,12 @@
           1
         ],
         "shotsTotal": [
-          2,
+          3,
           1
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "shotsOff": [
           1,
@@ -59,11 +59,11 @@
           0
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "fouls": [
-          7,
+          8,
           4
         ],
         "offsides": [
@@ -72,7 +72,7 @@
         ],
         "saves": [
           1,
-          0
+          1
         ],
         "home": "JPN",
         "away": "SWE"
@@ -213,7 +213,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 2,
       "goals": [
@@ -244,8 +244,8 @@
           10
         ],
         "possession": [
-          32,
-          68
+          31,
+          69
         ],
         "shotsOff": [
           3,
