@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:09:22Z",
+  "updated": "2026-06-25T20:10:10Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 9,
+      "minute": 10,
       "home": 1,
       "away": 1,
       "goals": [
@@ -30,12 +30,12 @@
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           2
         ],
         "possession": [
-          38,
-          62
+          41,
+          59
         ],
         "shotsOff": [
           0,
@@ -50,7 +50,7 @@
           2
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "home": "ECU",
