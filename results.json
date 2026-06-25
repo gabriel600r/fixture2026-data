@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T01:31:58Z",
+  "updated": "2026-06-25T01:32:46Z",
   "live": [
     {
       "id": 6,
@@ -211,7 +211,7 @@
     {
       "id": 5,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 0,
       "stats": {
@@ -236,23 +236,23 @@
           0
         ],
         "passesTotal": [
-          119,
-          96
+          123,
+          99
         ],
         "saves": [
           0,
           0
         ],
         "shotsTotal": [
-          4,
+          5,
           0
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "shotsInside": [
-          3,
+          4,
           0
         ],
         "shotsOutside": [
@@ -264,8 +264,8 @@
           0
         ],
         "passesAccurate": [
-          101,
-          82
+          105,
+          85
         ],
         "corners": [
           0,
@@ -277,7 +277,7 @@
         ],
         "passesPct": [
           85,
-          85
+          86
         ],
         "home": "CZE",
         "away": "MEX"
