@@ -1,20 +1,52 @@
 {
-  "updated": "2026-06-25T20:06:59Z",
+  "updated": "2026-06-25T20:07:46Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "L. Sane",
+          "player": "Leroy Sané",
           "minute": 2,
           "team": "GER",
-          "assist": "F. Wirtz"
+          "assist": "Florian Wirtz"
         }
       ],
+      "stats": {
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          1
+        ],
+        "possession": [
+          17,
+          83
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "fouls": [
+          1,
+          0
+        ],
+        "shotsOn": [
+          0,
+          1
+        ],
+        "home": "ECU",
+        "away": "GER"
+      },
       "extras": {
         "pred": {
           "home": 10,
@@ -151,9 +183,48 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 7,
+          "team": "CIV"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          1,
+          0
+        ],
+        "possession": [
+          28,
+          72
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          1,
+          0
+        ],
+        "saves": [
+          0,
+          1
+        ],
+        "home": "CUR",
+        "away": "CIV"
+      },
       "extras": {
         "pred": {
           "home": 0,
