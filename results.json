@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:05:19Z",
+  "updated": "2026-06-25T02:06:07Z",
   "live": [
     {
       "id": 6,
@@ -211,11 +211,10 @@
     },
     {
       "id": 5,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
-      "extra": 4,
       "stats": {
         "shotsOn": [
           0,
@@ -414,7 +413,12 @@
             ]
           }
         },
-        "referee": "Yael Falcon Perez, Argentina"
+        "referee": "Yael Falcon Perez, Argentina",
+        "motm": {
+          "player": "Tomáš Holeš",
+          "rating": 6.9,
+          "team": "CZE"
+        }
       }
     }
   ],
