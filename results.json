@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:45:35Z",
+  "updated": "2026-06-25T02:46:23Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 0,
       "goals": [
@@ -93,7 +93,7 @@
           1
         ],
         "fouls": [
-          6,
+          7,
           8
         ],
         "red": [
@@ -101,8 +101,8 @@
           0
         ],
         "passesTotal": [
-          302,
-          594
+          305,
+          630
         ],
         "saves": [
           1,
@@ -129,20 +129,20 @@
           0
         ],
         "passesAccurate": [
-          257,
-          538
+          258,
+          569
         ],
         "corners": [
           4,
           3
         ],
         "possession": [
-          34,
-          66
+          32,
+          68
         ],
         "passesPct": [
           85,
-          91
+          90
         ],
         "home": "RSA",
         "away": "KOR"
@@ -288,7 +288,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 2,
       "goals": [
@@ -378,15 +378,15 @@
         ],
         "fouls": [
           9,
-          11
+          12
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          341,
-          315
+          348,
+          321
         ],
         "saves": [
           1,
@@ -413,8 +413,8 @@
           0
         ],
         "passesAccurate": [
-          284,
-          266
+          291,
+          271
         ],
         "corners": [
           5,
@@ -425,7 +425,7 @@
           47
         ],
         "passesPct": [
-          83,
+          84,
           84
         ],
         "home": "CZE",
