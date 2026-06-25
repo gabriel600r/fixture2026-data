@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T01:21:31Z",
+  "updated": "2026-06-25T01:22:19Z",
   "live": [
     {
       "id": 6,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -29,8 +29,8 @@
           0
         ],
         "passesTotal": [
-          77,
-          114
+          96,
+          138
         ],
         "saves": [
           0,
@@ -57,8 +57,8 @@
           0
         ],
         "passesAccurate": [
-          66,
-          99
+          81,
+          121
         ],
         "corners": [
           2,
@@ -69,8 +69,8 @@
           59
         ],
         "passesPct": [
-          86,
-          87
+          84,
+          88
         ],
         "home": "RSA",
         "away": "KOR"
@@ -211,7 +211,7 @@
     {
       "id": 5,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
