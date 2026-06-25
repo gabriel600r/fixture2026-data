@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:38:22Z",
+  "updated": "2026-06-25T02:39:10Z",
   "live": [
     {
       "id": 6,
@@ -276,7 +276,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 2,
       "goals": [
@@ -341,6 +341,12 @@
         {
           "out": "R. Rangel",
           "in": "G. Ochoa",
+          "minute": 78,
+          "team": "MEX"
+        },
+        {
+          "out": "M. Chavez Garcia",
+          "in": "J. Gallardo",
           "minute": 78,
           "team": "MEX"
         }
