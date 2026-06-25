@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:53:27Z",
+  "updated": "2026-06-25T21:54:15Z",
   "live": [
     {
       "id": 29,
@@ -115,7 +115,7 @@
           "team": "ECU"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           2,
@@ -127,15 +127,15 @@
         ],
         "shotsTotal": [
           7,
-          9
+          10
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "shotsOff": [
           2,
-          1
+          2
         ],
         "corners": [
           3,
@@ -404,7 +404,7 @@
           "team": "CUR"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           1,
@@ -415,15 +415,15 @@
           1
         ],
         "shotsTotal": [
-          10,
+          11,
           7
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "shotsOff": [
-          6,
+          7,
           3
         ],
         "corners": [
