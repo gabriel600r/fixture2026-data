@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:29:18Z",
+  "updated": "2026-06-25T21:30:12Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 1,
       "goals": [
@@ -264,7 +264,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 2,
       "goals": [
@@ -303,14 +303,14 @@
           "team": "CUR"
         },
         {
-          "out": "Nicolas Pépé",
-          "in": "Sepe Elye Wahi",
+          "out": "Ange-Yoan Bonny",
+          "in": "Oumar Diakité",
           "minute": 67,
           "team": "CIV"
         },
         {
-          "out": "Ange-Yoan Bonny",
-          "in": "Oumar Diakité",
+          "out": "Nicolas Pépé",
+          "in": "Sepe Elye Wahi",
           "minute": 67,
           "team": "CIV"
         },
