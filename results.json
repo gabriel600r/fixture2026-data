@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:16:39Z",
+  "updated": "2026-06-25T02:17:27Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 0,
       "subs": [
@@ -236,7 +236,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 1,
       "goals": [
@@ -245,6 +245,14 @@
           "minute": 55,
           "team": "MEX",
           "assist": "L. Romo"
+        }
+      ],
+      "subs": [
+        {
+          "out": "D. Visinsky",
+          "in": "L. Provod",
+          "minute": 56,
+          "team": "CZE"
         }
       ],
       "stats": {
