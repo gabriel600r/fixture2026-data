@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:07:39Z",
+  "updated": "2026-06-25T21:08:27Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 1,
       "away": 1,
       "goals": [
@@ -228,7 +228,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 1,
       "goals": [
@@ -256,6 +256,10 @@
         }
       ],
       "stats": {
+        "shotsBlocked": [
+          0,
+          0
+        ],
         "yellow": [
           0,
           1
@@ -265,8 +269,8 @@
           4
         ],
         "possession": [
-          30,
-          70
+          31,
+          69
         ],
         "shotsOff": [
           3,
