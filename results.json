@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:06:51Z",
+  "updated": "2026-06-25T21:07:39Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 1,
       "away": 1,
       "goals": [
@@ -77,7 +77,7 @@
           2
         ],
         "fouls": [
-          9,
+          10,
           3
         ],
         "saves": [
@@ -227,8 +227,8 @@
     },
     {
       "id": 30,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -425,7 +425,12 @@
             ]
           }
         },
-        "referee": "Glenn Nyberg, Sweden"
+        "referee": "Glenn Nyberg, Sweden",
+        "motm": {
+          "player": "N. Pépé",
+          "rating": 7.56,
+          "team": "CIV"
+        }
       }
     }
   ],
