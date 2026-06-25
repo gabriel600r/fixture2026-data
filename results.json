@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:50:30Z",
+  "updated": "2026-06-25T23:51:18Z",
   "live": [
     {
       "id": 35,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -29,11 +29,10 @@
           "team": "JPN"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "yellow": [
           0,
@@ -41,11 +40,11 @@
         ],
         "shotsTotal": [
           4,
-          1
+          2
         ],
         "possession": [
-          57,
-          43
+          55,
+          45
         ],
         "shotsOff": [
           1,
