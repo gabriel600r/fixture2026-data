@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T01:23:55Z",
+  "updated": "2026-06-25T01:24:44Z",
   "live": [
     {
       "id": 6,
@@ -9,7 +9,7 @@
       "away": 0,
       "stats": {
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "shotsOff": [
@@ -29,27 +29,27 @@
           0
         ],
         "passesTotal": [
-          96,
-          138
+          102,
+          161
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
-          2,
+          4,
           3
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "shotsInside": [
-          1,
+          2,
           3
         ],
         "shotsOutside": [
-          1,
+          2,
           0
         ],
         "offsides": [
@@ -57,19 +57,19 @@
           0
         ],
         "passesAccurate": [
-          81,
-          121
+          85,
+          142
         ],
         "corners": [
-          2,
+          3,
           1
         ],
         "possession": [
-          41,
-          59
+          39,
+          61
         ],
         "passesPct": [
-          84,
+          83,
           88
         ],
         "home": "RSA",
@@ -228,7 +228,7 @@
           0
         ],
         "fouls": [
-          2,
+          3,
           4
         ],
         "red": [
@@ -236,8 +236,8 @@
           0
         ],
         "passesTotal": [
-          84,
-          85
+          114,
+          90
         ],
         "saves": [
           0,
@@ -264,20 +264,20 @@
           0
         ],
         "passesAccurate": [
-          71,
-          75
+          98,
+          77
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          50,
-          50
+          56,
+          44
         ],
         "passesPct": [
-          85,
-          88
+          86,
+          86
         ],
         "home": "CZE",
         "away": "MEX"
