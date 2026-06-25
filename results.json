@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:04:27Z",
+  "updated": "2026-06-25T21:05:14Z",
   "live": [
     {
       "id": 29,
@@ -33,6 +33,14 @@
           "minute": 44,
           "team": "GER",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Aleksandar Pavlović",
+          "in": "Angelo Stiller",
+          "minute": 45,
+          "team": "GER"
         }
       ],
       "stats": {
@@ -235,10 +243,6 @@
         }
       ],
       "stats": {
-        "shotsBlocked": [
-          0,
-          0
-        ],
         "yellow": [
           0,
           1
