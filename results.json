@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:55:15Z",
+  "updated": "2026-06-25T02:56:03Z",
   "live": [
     {
       "id": 6,
@@ -79,7 +79,7 @@
           "team": "RSA"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOn": [
           4,
@@ -308,7 +308,8 @@
         {
           "player": "A. Fidalgo",
           "minute": 90,
-          "team": "MEX"
+          "team": "MEX",
+          "assist": "R. Alvarado"
         }
       ],
       "cardEvents": [
@@ -381,7 +382,7 @@
           "team": "CZE"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOn": [
           1,
