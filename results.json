@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:51:04Z",
+  "updated": "2026-06-25T21:51:52Z",
   "live": [
     {
       "id": 29,
@@ -115,13 +115,14 @@
           "team": "ECU"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           2,
           5
         ],
         "yellow": [
-          2,
+          3,
           1
         ],
         "shotsTotal": [
@@ -129,8 +130,8 @@
           9
         ],
         "possession": [
-          41,
-          59
+          40,
+          60
         ],
         "shotsOff": [
           2,
@@ -149,8 +150,12 @@
           3
         ],
         "fouls": [
-          14,
+          15,
           9
+        ],
+        "offsides": [
+          0,
+          0
         ],
         "saves": [
           2,
@@ -385,8 +390,21 @@
           "in": "Jean Michaël Seri",
           "minute": 77,
           "team": "CIV"
+        },
+        {
+          "out": "Joshua Brenet",
+          "in": "Shurandy Sambo",
+          "minute": 90,
+          "team": "CUR"
+        },
+        {
+          "out": "Jürgen Locadia",
+          "in": "Brandley Kuwas",
+          "minute": 90,
+          "team": "CUR"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           1,
