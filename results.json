@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:06:39Z",
+  "updated": "2026-06-25T23:07:26Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
@@ -12,9 +12,13 @@
           0,
           0
         ],
+        "shotsTotal": [
+          0,
+          1
+        ],
         "possession": [
-          25,
-          75
+          24,
+          76
         ],
         "shotsOff": [
           0,
@@ -34,6 +38,10 @@
         ],
         "shotsOn": [
           0,
+          1
+        ],
+        "saves": [
+          1,
           0
         ],
         "home": "JPN",
@@ -175,15 +183,20 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Ellyes Skhiri",
           "minute": 3,
           "team": "NED",
           "og": true
+        },
+        {
+          "player": "Brian Brobbey",
+          "minute": 7,
+          "team": "NED"
         }
       ],
       "stats": {
@@ -196,8 +209,8 @@
           0
         ],
         "possession": [
-          6,
-          94
+          29,
+          71
         ],
         "shotsOff": [
           1,
@@ -205,6 +218,10 @@
         ],
         "red": [
           0,
+          0
+        ],
+        "fouls": [
+          1,
           0
         ],
         "shotsOn": [
