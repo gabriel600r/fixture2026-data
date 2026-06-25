@@ -1,308 +1,6 @@
 {
-  "updated": "2026-06-25T21:59:04Z",
-  "live": [
-    {
-      "id": 29,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Leroy Sané",
-          "minute": 2,
-          "team": "GER",
-          "assist": "Florian Wirtz"
-        },
-        {
-          "player": "Nilson Angulo",
-          "minute": 9,
-          "team": "ECU",
-          "assist": "Pedro Vite"
-        },
-        {
-          "player": "Gonzalo Plata",
-          "minute": 77,
-          "team": "ECU",
-          "assist": "Kevin Rodriguez"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Piero Hincapié",
-          "minute": 43,
-          "team": "ECU",
-          "color": "yellow"
-        },
-        {
-          "player": "Aleksandar Pavlović",
-          "minute": 44,
-          "team": "GER",
-          "color": "yellow"
-        },
-        {
-          "player": "Alan Franco",
-          "minute": 50,
-          "team": "ECU",
-          "color": "yellow"
-        },
-        {
-          "player": "Gonzalo Plata",
-          "minute": 89,
-          "team": "ECU",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Aleksandar Pavlović",
-          "in": "Angelo Stiller",
-          "minute": 45,
-          "team": "GER"
-        },
-        {
-          "out": "Kai Havertz",
-          "in": "Deniz Undav",
-          "minute": 60,
-          "team": "GER"
-        },
-        {
-          "out": "Joshua Kimmich",
-          "in": "Malick Thiaw",
-          "minute": 60,
-          "team": "GER"
-        },
-        {
-          "out": "Enner Valencia",
-          "in": "Kevin Rodriguez",
-          "minute": 64,
-          "team": "ECU"
-        },
-        {
-          "out": "Alan Franco",
-          "in": "Angelo Preciado",
-          "minute": 64,
-          "team": "ECU"
-        },
-        {
-          "out": "Felix Nmecha",
-          "in": "Maximilian Beier",
-          "minute": 64,
-          "team": "GER"
-        },
-        {
-          "out": "Piero Hincapié",
-          "in": "Pervis Estupinan",
-          "minute": 71,
-          "team": "ECU"
-        },
-        {
-          "out": "Florian Wirtz",
-          "in": "Pascal Groß",
-          "minute": 73,
-          "team": "GER"
-        },
-        {
-          "out": "John Yeboah",
-          "in": "Felix Torres",
-          "minute": 85,
-          "team": "ECU"
-        },
-        {
-          "out": "Nilson Angulo",
-          "in": "Jordy Caicedo",
-          "minute": 85,
-          "team": "ECU"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "shotsBlocked": [
-          2,
-          5
-        ],
-        "yellow": [
-          3,
-          1
-        ],
-        "shotsTotal": [
-          7,
-          11
-        ],
-        "possession": [
-          39,
-          61
-        ],
-        "shotsOff": [
-          2,
-          3
-        ],
-        "corners": [
-          3,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          3,
-          3
-        ],
-        "fouls": [
-          15,
-          10
-        ],
-        "offsides": [
-          0,
-          0
-        ],
-        "saves": [
-          2,
-          1
-        ],
-        "home": "ECU",
-        "away": "GER"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "S. Beccacece",
-            "xi": [
-              {
-                "n": 1,
-                "name": "H. Galíndez",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "A. Franco",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "J. Ordoñez",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "W. Pacho",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "P. Hincapié",
-                "pos": "D"
-              },
-              {
-                "n": 9,
-                "name": "J. Yeboah",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "M. Caicedo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "P. Vite",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "N. Angulo",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "G. Plata",
-                "pos": "F"
-              },
-              {
-                "n": 13,
-                "name": "E. Valencia",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "J. Nagelsmann",
-            "xi": [
-              {
-                "n": 1,
-                "name": "M. Neuer",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "J. Kimmich",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "J. Tah",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "A. Rüdiger",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "D. Raum",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "F. Nmecha",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "A. Pavlović",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "L. Sané",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "J. Musiala",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "F. Wirtz",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "K. Havertz",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Tori Penso, USA",
-        "motm": {
-          "player": "N. Angulo",
-          "rating": 8.2,
-          "team": "ECU"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-25T21:59:50Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -8359,6 +8057,304 @@
           "player": "Eloy Room",
           "rating": 10.0,
           "team": "CUR"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Leroy Sané",
+          "minute": 2,
+          "team": "GER",
+          "assist": "Florian Wirtz"
+        },
+        {
+          "player": "Nilson Angulo",
+          "minute": 9,
+          "team": "ECU",
+          "assist": "Pedro Vite"
+        },
+        {
+          "player": "Gonzalo Plata",
+          "minute": 77,
+          "team": "ECU",
+          "assist": "Kevin Rodriguez"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Piero Hincapié",
+          "minute": 43,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "Aleksandar Pavlović",
+          "minute": 44,
+          "team": "GER",
+          "color": "yellow"
+        },
+        {
+          "player": "Alan Franco",
+          "minute": 50,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "Gonzalo Plata",
+          "minute": 89,
+          "team": "ECU",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Aleksandar Pavlović",
+          "in": "Angelo Stiller",
+          "minute": 45,
+          "team": "GER"
+        },
+        {
+          "out": "Kai Havertz",
+          "in": "Deniz Undav",
+          "minute": 60,
+          "team": "GER"
+        },
+        {
+          "out": "Joshua Kimmich",
+          "in": "Malick Thiaw",
+          "minute": 60,
+          "team": "GER"
+        },
+        {
+          "out": "Enner Valencia",
+          "in": "Kevin Rodriguez",
+          "minute": 64,
+          "team": "ECU"
+        },
+        {
+          "out": "Alan Franco",
+          "in": "Angelo Preciado",
+          "minute": 64,
+          "team": "ECU"
+        },
+        {
+          "out": "Felix Nmecha",
+          "in": "Maximilian Beier",
+          "minute": 64,
+          "team": "GER"
+        },
+        {
+          "out": "Piero Hincapié",
+          "in": "Pervis Estupinan",
+          "minute": 71,
+          "team": "ECU"
+        },
+        {
+          "out": "Florian Wirtz",
+          "in": "Pascal Groß",
+          "minute": 73,
+          "team": "GER"
+        },
+        {
+          "out": "John Yeboah",
+          "in": "Felix Torres",
+          "minute": 85,
+          "team": "ECU"
+        },
+        {
+          "out": "Nilson Angulo",
+          "in": "Jordy Caicedo",
+          "minute": 85,
+          "team": "ECU"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          2,
+          5
+        ],
+        "yellow": [
+          3,
+          1
+        ],
+        "shotsTotal": [
+          7,
+          11
+        ],
+        "possession": [
+          39,
+          61
+        ],
+        "shotsOff": [
+          2,
+          3
+        ],
+        "corners": [
+          3,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          3,
+          3
+        ],
+        "fouls": [
+          15,
+          10
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "saves": [
+          2,
+          1
+        ],
+        "home": "ECU",
+        "away": "GER"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "S. Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "H. Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "A. Franco",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "J. Ordoñez",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "W. Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "P. Hincapié",
+                "pos": "D"
+              },
+              {
+                "n": 9,
+                "name": "J. Yeboah",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "M. Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "P. Vite",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "N. Angulo",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "G. Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "E. Valencia",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "J. Nagelsmann",
+            "xi": [
+              {
+                "n": 1,
+                "name": "M. Neuer",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "J. Kimmich",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "J. Tah",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "A. Rüdiger",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "D. Raum",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "F. Nmecha",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "A. Pavlović",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "L. Sané",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "J. Musiala",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "F. Wirtz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "K. Havertz",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Tori Penso, USA",
+        "motm": {
+          "player": "N. Angulo",
+          "rating": 8.2,
+          "team": "ECU"
         }
       }
     },
@@ -17247,6 +17243,11 @@
         "goals": 3
       },
       {
+        "player": "Florian Wirtz",
+        "team": "GER",
+        "assists": 2
+      },
+      {
         "player": "J. Kimmich",
         "team": "GER",
         "assists": 2
@@ -17356,11 +17357,6 @@
         "team": "NED",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "player": "Christian Pulisic",
-        "team": "USA",
-        "assists": 1
       }
     ],
     "cards": [
@@ -17503,6 +17499,18 @@
         "yellow": 1
       },
       {
+        "player": "Alan Franco",
+        "team": "ECU",
+        "red": 0,
+        "yellow": 1
+      },
+      {
+        "player": "Aleksandar Pavlović",
+        "team": "GER",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Alex Arce",
         "team": "PAR",
         "red": 0,
@@ -17529,18 +17537,6 @@
       {
         "player": "C. Arcus",
         "team": "HAI",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Blackman",
-        "team": "PAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Harvey",
-        "team": "PAN",
         "red": 0,
         "yellow": 1
       }
@@ -17605,17 +17601,17 @@
     },
     {
       "code": "GER",
-      "played": 2,
+      "played": 3,
       "wins": 2,
       "draws": 0,
-      "loses": 0,
-      "gf": 9,
-      "ga": 2,
+      "loses": 1,
+      "gf": 10,
+      "ga": 4,
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "7-1",
-      "biggestLose": "",
-      "form": "WW"
+      "biggestLose": "1-2",
+      "form": "WWL"
     },
     {
       "code": "USA",
@@ -17814,6 +17810,20 @@
       "form": "WD"
     },
     {
+      "code": "ECU",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 2,
+      "ga": 2,
+      "cleanSheets": 1,
+      "failedToScore": 2,
+      "biggestWin": "2-1",
+      "biggestLose": "0-1",
+      "form": "LDW"
+    },
+    {
       "code": "RSA",
       "played": 3,
       "wins": 1,
@@ -18008,20 +18018,6 @@
       "biggestWin": "",
       "biggestLose": "",
       "form": "DD"
-    },
-    {
-      "code": "ECU",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 0,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 2,
-      "biggestWin": "",
-      "biggestLose": "0-1",
-      "form": "LD"
     },
     {
       "code": "COD",
