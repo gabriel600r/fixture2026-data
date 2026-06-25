@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:15:41Z",
+  "updated": "2026-06-25T21:16:29Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 1,
       "goals": [
@@ -84,7 +84,7 @@
         ],
         "fouls": [
           9,
-          5
+          6
         ],
         "saves": [
           1,
@@ -225,16 +225,16 @@
         },
         "referee": "Tori Penso, USA",
         "motm": {
-          "player": "L. Sané",
-          "rating": 8.03,
-          "team": "GER"
+          "player": "N. Angulo",
+          "rating": 8.02,
+          "team": "ECU"
         }
       }
     },
     {
       "id": 30,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 1,
       "goals": [
@@ -264,7 +264,7 @@
       "stats": {
         "shotsBlocked": [
           1,
-          1
+          2
         ],
         "yellow": [
           0,
@@ -272,11 +272,11 @@
         ],
         "shotsTotal": [
           5,
-          5
+          6
         ],
         "possession": [
-          33,
-          67
+          32,
+          68
         ],
         "shotsOff": [
           3,
@@ -442,7 +442,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "N. Pépé",
-          "rating": 7.61,
+          "rating": 7.79,
           "team": "CIV"
         }
       }
