@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:36:32Z",
+  "updated": "2026-06-25T20:37:20Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 36,
+      "minute": 37,
       "home": 1,
       "away": 1,
       "goals": [
@@ -210,6 +210,14 @@
           "minute": 7,
           "team": "CIV",
           "assist": "Yan Diomande"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Nicolas Pépé",
+          "minute": 36,
+          "team": "CIV",
+          "color": "yellow"
         }
       ],
       "stats": {
