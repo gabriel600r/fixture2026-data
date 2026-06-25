@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-25T20:02:10Z",
+  "updated": "2026-06-25T20:02:58Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "L. Sane",
+          "minute": 2,
+          "team": "GER",
+          "assist": "F. Wirtz"
+        }
+      ],
       "extras": {
         "pred": {
           "home": 10,
@@ -143,7 +151,7 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
       "extras": {
