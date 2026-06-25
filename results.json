@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:10:53Z",
+  "updated": "2026-06-25T21:11:41Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 1,
       "away": 1,
       "goals": [
@@ -33,6 +33,12 @@
           "minute": 44,
           "team": "GER",
           "color": "yellow"
+        },
+        {
+          "player": "Alan Franco",
+          "minute": 50,
+          "team": "ECU",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -49,7 +55,7 @@
           4
         ],
         "yellow": [
-          1,
+          2,
           1
         ],
         "shotsTotal": [
@@ -269,8 +275,8 @@
           4
         ],
         "possession": [
-          32,
-          68
+          34,
+          66
         ],
         "shotsOff": [
           3,
@@ -289,7 +295,7 @@
           1
         ],
         "fouls": [
-          7,
+          8,
           4
         ],
         "offsides": [
