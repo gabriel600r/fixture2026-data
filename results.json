@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:21:48Z",
+  "updated": "2026-06-25T23:22:36Z",
   "live": [
     {
       "id": 35,
@@ -191,7 +191,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 2,
       "goals": [
@@ -219,11 +219,11 @@
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "possession": [
-          34,
-          66
+          32,
+          68
         ],
         "shotsOff": [
           2,
@@ -239,14 +239,14 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "fouls": [
           3,
           0
         ],
         "saves": [
-          0,
+          1,
           1
         ],
         "home": "TUN",
