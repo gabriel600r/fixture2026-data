@@ -1,42 +1,12 @@
 {
-  "updated": "2026-06-25T22:30:56Z",
-  "live": [],
-  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
-  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
-  "min_version": "1.9.38",
-  "brackets": {
-    "73": {
-      "home": "RSA",
-      "away": "CAN"
-    },
-    "85": {
-      "home": "SUI",
-      "away": "TBD"
-    },
-    "75": {
-      "home": "TBD",
-      "away": "MAR"
-    },
-    "76": {
-      "home": "BRA",
-      "away": "TBD"
-    },
-    "79": {
-      "home": "MEX",
-      "away": "TBD"
-    },
-    "74": {
-      "home": "GER",
-      "away": "TBD"
-    },
-    "78": {
-      "home": "CIV",
-      "away": "TBD"
-    }
-  },
-  "prematch": [
+  "updated": "2026-06-25T23:01:03Z",
+  "live": [
     {
       "id": 35,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "pred": {
           "home": 45,
@@ -169,7 +139,42 @@
         },
         "referee": "I. Barton"
       }
+    }
+  ],
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.38",
+  "brackets": {
+    "73": {
+      "home": "RSA",
+      "away": "CAN"
     },
+    "85": {
+      "home": "SUI",
+      "away": "TBD"
+    },
+    "75": {
+      "home": "TBD",
+      "away": "MAR"
+    },
+    "76": {
+      "home": "BRA",
+      "away": "TBD"
+    },
+    "79": {
+      "home": "MEX",
+      "away": "TBD"
+    },
+    "74": {
+      "home": "GER",
+      "away": "TBD"
+    },
+    "78": {
+      "home": "CIV",
+      "away": "TBD"
+    }
+  },
+  "prematch": [
     {
       "id": 36,
       "extras": {
