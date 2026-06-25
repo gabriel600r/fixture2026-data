@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:55:04Z",
+  "updated": "2026-06-25T21:55:52Z",
   "live": [
     {
       "id": 29,
@@ -115,7 +115,7 @@
           "team": "ECU"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           2,
@@ -152,10 +152,6 @@
         "fouls": [
           15,
           9
-        ],
-        "offsides": [
-          0,
-          0
         ],
         "saves": [
           2,
@@ -404,7 +400,7 @@
           "team": "CUR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           1,
