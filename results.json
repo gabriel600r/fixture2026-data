@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:43:42Z",
+  "updated": "2026-06-25T20:44:29Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 1,
       "away": 1,
       "goals": [
@@ -21,6 +21,20 @@
           "assist": "Pedro Vite"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "Piero Hincapié",
+          "minute": 43,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "Aleksandar Pavlović",
+          "minute": 44,
+          "team": "GER",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           1,
@@ -35,8 +49,8 @@
           6
         ],
         "possession": [
-          38,
-          62
+          37,
+          63
         ],
         "shotsOff": [
           0,
@@ -55,7 +69,7 @@
           2
         ],
         "fouls": [
-          8,
+          9,
           2
         ],
         "saves": [
@@ -201,7 +215,7 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 1,
       "goals": [
@@ -230,8 +244,8 @@
           4
         ],
         "possession": [
-          27,
-          73
+          26,
+          74
         ],
         "shotsOff": [
           2,
@@ -239,7 +253,7 @@
         ],
         "corners": [
           1,
-          1
+          2
         ],
         "red": [
           0,
