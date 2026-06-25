@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:11:47Z",
+  "updated": "2026-06-25T02:12:35Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
       "away": 0,
       "subs": [
@@ -49,8 +49,8 @@
           0
         ],
         "passesTotal": [
-          203,
-          306
+          224,
+          343
         ],
         "saves": [
           0,
@@ -77,16 +77,16 @@
           0
         ],
         "passesAccurate": [
-          172,
-          270
+          190,
+          303
         ],
         "corners": [
           4,
           2
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "passesPct": [
           85,
@@ -236,7 +236,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
       "away": 0,
       "stats": {
@@ -261,8 +261,8 @@
           0
         ],
         "passesTotal": [
-          206,
-          235
+          222,
+          254
         ],
         "saves": [
           1,
@@ -289,8 +289,8 @@
           0
         ],
         "passesAccurate": [
-          167,
-          203
+          179,
+          220
         ],
         "corners": [
           0,
@@ -302,7 +302,7 @@
         ],
         "passesPct": [
           81,
-          86
+          87
         ],
         "home": "CZE",
         "away": "MEX"
@@ -440,7 +440,7 @@
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
           "player": "Israel Reyes",
-          "rating": 7.0,
+          "rating": 7.2,
           "team": "MEX"
         }
       }
