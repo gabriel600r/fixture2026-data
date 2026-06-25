@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:25:31Z",
+  "updated": "2026-06-25T02:26:19Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 0,
       "goals": [
@@ -43,7 +43,7 @@
       ],
       "stats": {
         "shotsOn": [
-          3,
+          4,
           2
         ],
         "shotsOff": [
@@ -63,15 +63,15 @@
           0
         ],
         "passesTotal": [
-          281,
-          448
+          285,
+          460
         ],
         "saves": [
           1,
           3
         ],
         "shotsTotal": [
-          12,
+          13,
           5
         ],
         "shotsBlocked": [
@@ -79,7 +79,7 @@
           0
         ],
         "shotsInside": [
-          4,
+          5,
           4
         ],
         "shotsOutside": [
@@ -91,8 +91,8 @@
           0
         ],
         "passesAccurate": [
-          243,
-          402
+          247,
+          413
         ],
         "corners": [
           4,
@@ -103,7 +103,7 @@
           62
         ],
         "passesPct": [
-          86,
+          87,
           90
         ],
         "home": "RSA",
@@ -250,7 +250,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 2,
       "goals": [
@@ -310,7 +310,7 @@
       "stats": {
         "shotsOn": [
           1,
-          2
+          3
         ],
         "shotsOff": [
           4,
@@ -329,7 +329,7 @@
           0
         ],
         "passesTotal": [
-          277,
+          282,
           290
         ],
         "saves": [
@@ -338,7 +338,7 @@
         ],
         "shotsTotal": [
           9,
-          7
+          8
         ],
         "shotsBlocked": [
           4,
@@ -346,7 +346,7 @@
         ],
         "shotsInside": [
           5,
-          5
+          6
         ],
         "shotsOutside": [
           4,
@@ -357,7 +357,7 @@
           0
         ],
         "passesAccurate": [
-          227,
+          232,
           249
         ],
         "corners": [
@@ -365,8 +365,8 @@
           0
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "passesPct": [
           82,
