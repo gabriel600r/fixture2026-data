@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T20:48:28Z",
+  "updated": "2026-06-25T20:49:16Z",
   "live": [
     {
       "id": 29,
@@ -35,7 +35,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           1,
@@ -50,8 +50,8 @@
           6
         ],
         "possession": [
-          39,
-          61
+          37,
+          63
         ],
         "shotsOff": [
           0,
@@ -243,7 +243,7 @@
         ],
         "shotsTotal": [
           4,
-          4
+          5
         ],
         "possession": [
           28,
@@ -251,11 +251,11 @@
         ],
         "shotsOff": [
           3,
-          3
+          4
         ],
         "corners": [
           1,
-          3
+          2
         ],
         "red": [
           0,
@@ -267,7 +267,7 @@
         ],
         "fouls": [
           7,
-          3
+          4
         ],
         "saves": [
           0,
