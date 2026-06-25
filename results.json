@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:37:20Z",
+  "updated": "2026-06-25T20:38:08Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 1,
       "goals": [
@@ -201,7 +201,7 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 36,
+      "minute": 37,
       "home": 0,
       "away": 1,
       "goals": [
@@ -215,7 +215,7 @@
       "cardEvents": [
         {
           "player": "Nicolas Pépé",
-          "minute": 36,
+          "minute": 35,
           "team": "CIV",
           "color": "yellow"
         }
@@ -223,15 +223,15 @@
       "stats": {
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           2,
           4
         ],
         "possession": [
-          25,
-          75
+          26,
+          74
         ],
         "shotsOff": [
           1,
@@ -251,7 +251,7 @@
         ],
         "fouls": [
           6,
-          1
+          2
         ],
         "saves": [
           0,
