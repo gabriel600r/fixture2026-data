@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:46:16Z",
+  "updated": "2026-06-25T21:47:04Z",
   "live": [
     {
       "id": 29,
@@ -95,6 +95,12 @@
           "in": "Pascal Groß",
           "minute": 73,
           "team": "GER"
+        },
+        {
+          "out": "John Yeboah",
+          "in": "Felix Torres",
+          "minute": 85,
+          "team": "ECU"
         },
         {
           "out": "Nilson Angulo",
@@ -292,7 +298,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 2,
       "goals": [
