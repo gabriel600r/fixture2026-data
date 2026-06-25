@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-25T23:31:22Z",
+  "updated": "2026-06-25T23:32:09Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Isak Hien",
+          "minute": 32,
+          "team": "SWE",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           1,
@@ -42,7 +50,7 @@
         ],
         "fouls": [
           5,
-          1
+          2
         ],
         "offsides": [
           1,
@@ -191,7 +199,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 0,
       "away": 2,
       "goals": [
@@ -211,7 +219,7 @@
       "stats": {
         "shotsBlocked": [
           0,
-          2
+          3
         ],
         "yellow": [
           0,
@@ -219,19 +227,19 @@
         ],
         "shotsTotal": [
           3,
-          6
+          8
         ],
         "possession": [
-          33,
-          67
+          32,
+          68
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "corners": [
           1,
-          2
+          3
         ],
         "red": [
           0,
@@ -242,7 +250,7 @@
           2
         ],
         "fouls": [
-          3,
+          4,
           2
         ],
         "saves": [
