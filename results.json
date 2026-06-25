@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:10:05Z",
+  "updated": "2026-06-25T21:10:53Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 1,
       "away": 1,
       "goals": [
@@ -78,7 +78,7 @@
         ],
         "fouls": [
           9,
-          4
+          5
         ],
         "saves": [
           1,
@@ -220,7 +220,7 @@
         "referee": "Tori Penso, USA",
         "motm": {
           "player": "L. Sané",
-          "rating": 8.05,
+          "rating": 8.03,
           "team": "GER"
         }
       }
@@ -228,7 +228,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 0,
       "away": 1,
       "goals": [
@@ -269,8 +269,8 @@
           4
         ],
         "possession": [
-          31,
-          69
+          32,
+          68
         ],
         "shotsOff": [
           3,
@@ -436,7 +436,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "N. Pépé",
-          "rating": 7.56,
+          "rating": 7.61,
           "team": "CIV"
         }
       }
