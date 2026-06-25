@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:06:56Z",
+  "updated": "2026-06-25T02:07:45Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 0,
       "subs": [
@@ -17,6 +17,12 @@
         {
           "out": "Paik Seung-Ho",
           "in": "Kim Jin-Gyu",
+          "minute": 46,
+          "team": "KOR"
+        },
+        {
+          "out": "Lee Tae-Seok",
+          "in": "J. Castrop",
           "minute": 46,
           "team": "KOR"
         }
