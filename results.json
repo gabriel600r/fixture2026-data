@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:47:18Z",
+  "updated": "2026-06-25T23:48:06Z",
   "live": [
     {
       "id": 35,
@@ -29,7 +29,7 @@
           "team": "JPN"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           1,
@@ -64,16 +64,16 @@
           1
         ],
         "fouls": [
-          9,
+          10,
           6
         ],
         "offsides": [
           1,
-          0
+          1
         ],
         "saves": [
           1,
-          1
+          2
         ],
         "home": "JPN",
         "away": "SWE"
