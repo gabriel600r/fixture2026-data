@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:25:18Z",
+  "updated": "2026-06-25T21:26:06Z",
   "live": [
     {
       "id": 29,
@@ -65,6 +65,18 @@
           "in": "Kevin Rodriguez",
           "minute": 64,
           "team": "ECU"
+        },
+        {
+          "out": "Alan Franco",
+          "in": "Angelo Preciado",
+          "minute": 64,
+          "team": "ECU"
+        },
+        {
+          "out": "Felix Nmecha",
+          "in": "Maximilian Beier",
+          "minute": 64,
+          "team": "GER"
         }
       ],
       "stats": {
@@ -252,7 +264,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 0,
       "away": 2,
       "goals": [
