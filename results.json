@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:39:04Z",
+  "updated": "2026-06-25T21:39:52Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 2,
       "away": 1,
       "goals": [
@@ -22,8 +22,9 @@
         },
         {
           "player": "Gonzalo Plata",
-          "minute": 78,
-          "team": "ECU"
+          "minute": 77,
+          "team": "ECU",
+          "assist": "Kevin Rodriguez"
         }
       ],
       "cardEvents": [
@@ -106,7 +107,7 @@
           1
         ],
         "shotsTotal": [
-          7,
+          8,
           9
         ],
         "possession": [
@@ -126,7 +127,7 @@
           0
         ],
         "shotsOn": [
-          2,
+          3,
           3
         ],
         "fouls": [
@@ -281,7 +282,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 2,
       "goals": [
@@ -397,7 +398,7 @@
         ],
         "fouls": [
           11,
-          4
+          5
         ],
         "offsides": [
           1,
