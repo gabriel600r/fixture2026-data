@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:28:30Z",
+  "updated": "2026-06-25T21:29:18Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 1,
       "goals": [
@@ -264,7 +264,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 2,
       "goals": [
@@ -301,6 +301,24 @@
           "in": "Jeremy Antonisse",
           "minute": 61,
           "team": "CUR"
+        },
+        {
+          "out": "Nicolas Pépé",
+          "in": "Sepe Elye Wahi",
+          "minute": 67,
+          "team": "CIV"
+        },
+        {
+          "out": "Ange-Yoan Bonny",
+          "in": "Oumar Diakité",
+          "minute": 67,
+          "team": "CIV"
+        },
+        {
+          "out": "Yan Diomande",
+          "in": "Bazoumana Touré",
+          "minute": 67,
+          "team": "CIV"
         }
       ],
       "stats": {
@@ -317,8 +335,8 @@
           6
         ],
         "possession": [
-          36,
-          64
+          35,
+          65
         ],
         "shotsOff": [
           4,
