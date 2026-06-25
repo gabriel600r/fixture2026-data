@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:18:15Z",
+  "updated": "2026-06-25T02:19:03Z",
   "live": [
     {
       "id": 6,
@@ -41,7 +41,7 @@
           0
         ],
         "fouls": [
-          2,
+          3,
           4
         ],
         "red": [
@@ -49,8 +49,8 @@
           0
         ],
         "passesTotal": [
-          245,
-          374
+          247,
+          391
         ],
         "saves": [
           0,
@@ -77,19 +77,19 @@
           0
         ],
         "passesAccurate": [
-          210,
-          332
+          211,
+          349
         ],
         "corners": [
           4,
           2
         ],
         "possession": [
-          39,
-          61
+          38,
+          62
         ],
         "passesPct": [
-          86,
+          85,
           89
         ],
         "home": "RSA",
@@ -227,16 +227,16 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Young-woo Seol",
-          "rating": 7.3,
-          "team": "KOR"
+          "player": "Aubrey Modiba",
+          "rating": 7.2,
+          "team": "RSA"
         }
       }
     },
     {
       "id": 5,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 1,
       "goals": [
@@ -258,7 +258,7 @@
       "stats": {
         "shotsOn": [
           1,
-          1
+          2
         ],
         "shotsOff": [
           4,
@@ -269,7 +269,7 @@
           0
         ],
         "fouls": [
-          5,
+          6,
           9
         ],
         "red": [
@@ -277,27 +277,27 @@
           0
         ],
         "passesTotal": [
-          232,
-          278
+          239,
+          283
         ],
         "saves": [
           1,
           1
         ],
         "shotsTotal": [
-          7,
-          6
+          8,
+          7
         ],
         "shotsBlocked": [
-          2,
+          3,
           2
         ],
         "shotsInside": [
           5,
-          4
+          5
         ],
         "shotsOutside": [
-          2,
+          3,
           2
         ],
         "offsides": [
@@ -305,8 +305,8 @@
           0
         ],
         "passesAccurate": [
-          185,
-          241
+          191,
+          246
         ],
         "corners": [
           1,
@@ -455,9 +455,9 @@
         },
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
-          "player": "Tomáš Holeš",
-          "rating": 7.2,
-          "team": "CZE"
+          "player": "Mateo Chávez",
+          "rating": 7.9,
+          "team": "MEX"
         }
       }
     }
