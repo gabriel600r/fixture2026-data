@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:59:02Z",
+  "updated": "2026-06-25T21:59:04Z",
   "live": [
     {
       "id": 29,
@@ -299,295 +299,6 @@
           "player": "N. Angulo",
           "rating": 8.2,
           "team": "ECU"
-        }
-      }
-    },
-    {
-      "id": 30,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 2,
-      "goals": [
-        {
-          "player": "Nicolas Pépé",
-          "minute": 7,
-          "team": "CIV",
-          "assist": "Yan Diomande"
-        },
-        {
-          "player": "Nicolas Pépé",
-          "minute": 64,
-          "team": "CIV",
-          "assist": "Ibrahim Sangaré"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Nicolas Pépé",
-          "minute": 35,
-          "team": "CIV",
-          "color": "yellow"
-        },
-        {
-          "player": "Juninho Bacuna",
-          "minute": 75,
-          "team": "CUR",
-          "color": "yellow"
-        },
-        {
-          "player": "Gervane Kastaneer",
-          "minute": 83,
-          "team": "CUR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Amad Diallo",
-          "in": "Christ Inao Oulaï",
-          "minute": 45,
-          "team": "CIV"
-        },
-        {
-          "out": "Livano Comenencia",
-          "in": "Jeremy Antonisse",
-          "minute": 61,
-          "team": "CUR"
-        },
-        {
-          "out": "Ange-Yoan Bonny",
-          "in": "Oumar Diakité",
-          "minute": 67,
-          "team": "CIV"
-        },
-        {
-          "out": "Nicolas Pépé",
-          "in": "Sepe Elye Wahi",
-          "minute": 67,
-          "team": "CIV"
-        },
-        {
-          "out": "Yan Diomande",
-          "in": "Bazoumana Touré",
-          "minute": 67,
-          "team": "CIV"
-        },
-        {
-          "out": "Jurien Gaari",
-          "in": "Gervane Kastaneer",
-          "minute": 77,
-          "team": "CUR"
-        },
-        {
-          "out": "Deveron Fonville",
-          "in": "Tyrese Noslin",
-          "minute": 77,
-          "team": "CUR"
-        },
-        {
-          "out": "Franck Kessié",
-          "in": "Jean Michaël Seri",
-          "minute": 77,
-          "team": "CIV"
-        },
-        {
-          "out": "Joshua Brenet",
-          "in": "Shurandy Sambo",
-          "minute": 90,
-          "team": "CUR"
-        },
-        {
-          "out": "Jürgen Locadia",
-          "in": "Brandley Kuwas",
-          "minute": 90,
-          "team": "CUR"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "shotsBlocked": [
-          2,
-          1
-        ],
-        "yellow": [
-          2,
-          1
-        ],
-        "shotsTotal": [
-          11,
-          7
-        ],
-        "possession": [
-          37,
-          63
-        ],
-        "shotsOff": [
-          7,
-          3
-        ],
-        "corners": [
-          4,
-          6
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          2,
-          3
-        ],
-        "fouls": [
-          11,
-          6
-        ],
-        "offsides": [
-          2,
-          1
-        ],
-        "saves": [
-          1,
-          2
-        ],
-        "home": "CUR",
-        "away": "CIV"
-      },
-      "extras": {
-        "pred": {
-          "home": 0,
-          "draw": 50,
-          "away": 50
-        },
-        "lineups": {
-          "home": {
-            "formation": "5-3-2",
-            "coach": "D. Advocaat",
-            "xi": [
-              {
-                "n": 1,
-                "name": "E. Room",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "J. Brenet",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "J. Gaari",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "A. Obispo",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "S. Floranus",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Deveron Fonville",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "T. Chong",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "L. Bacuna",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "L. Comenencia",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "J. Locadia",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "J. Bacuna",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "E. Faé",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Y. Fofana",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "G. Doué",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "O. Kossounou",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "O. Diomande",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "C. Operi",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "A. Diallo",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "I. Sangaré",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "F. Kessié",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Y. Diomande",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "N. Pépé",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "A. Bonny",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Glenn Nyberg, Sweden",
-        "motm": {
-          "player": "N. Pépé",
-          "rating": 8.69,
-          "team": "CIV"
         }
       }
     }
@@ -8648,6 +8359,292 @@
           "player": "Eloy Room",
           "rating": 10.0,
           "team": "CUR"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "home": 0,
+      "away": 2,
+      "goals": [
+        {
+          "player": "Nicolas Pépé",
+          "minute": 7,
+          "team": "CIV",
+          "assist": "Yan Diomande"
+        },
+        {
+          "player": "Nicolas Pépé",
+          "minute": 64,
+          "team": "CIV",
+          "assist": "Ibrahim Sangaré"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Nicolas Pépé",
+          "minute": 35,
+          "team": "CIV",
+          "color": "yellow"
+        },
+        {
+          "player": "Juninho Bacuna",
+          "minute": 75,
+          "team": "CUR",
+          "color": "yellow"
+        },
+        {
+          "player": "Gervane Kastaneer",
+          "minute": 83,
+          "team": "CUR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Amad Diallo",
+          "in": "Christ Inao Oulaï",
+          "minute": 45,
+          "team": "CIV"
+        },
+        {
+          "out": "Livano Comenencia",
+          "in": "Jeremy Antonisse",
+          "minute": 61,
+          "team": "CUR"
+        },
+        {
+          "out": "Ange-Yoan Bonny",
+          "in": "Oumar Diakité",
+          "minute": 67,
+          "team": "CIV"
+        },
+        {
+          "out": "Nicolas Pépé",
+          "in": "Sepe Elye Wahi",
+          "minute": 67,
+          "team": "CIV"
+        },
+        {
+          "out": "Yan Diomande",
+          "in": "Bazoumana Touré",
+          "minute": 67,
+          "team": "CIV"
+        },
+        {
+          "out": "Jurien Gaari",
+          "in": "Gervane Kastaneer",
+          "minute": 77,
+          "team": "CUR"
+        },
+        {
+          "out": "Deveron Fonville",
+          "in": "Tyrese Noslin",
+          "minute": 77,
+          "team": "CUR"
+        },
+        {
+          "out": "Franck Kessié",
+          "in": "Jean Michaël Seri",
+          "minute": 77,
+          "team": "CIV"
+        },
+        {
+          "out": "Joshua Brenet",
+          "in": "Shurandy Sambo",
+          "minute": 90,
+          "team": "CUR"
+        },
+        {
+          "out": "Jürgen Locadia",
+          "in": "Brandley Kuwas",
+          "minute": 90,
+          "team": "CUR"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          2,
+          1
+        ],
+        "yellow": [
+          2,
+          1
+        ],
+        "shotsTotal": [
+          11,
+          7
+        ],
+        "possession": [
+          37,
+          63
+        ],
+        "shotsOff": [
+          7,
+          3
+        ],
+        "corners": [
+          4,
+          6
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          2,
+          3
+        ],
+        "fouls": [
+          11,
+          6
+        ],
+        "offsides": [
+          2,
+          1
+        ],
+        "saves": [
+          1,
+          2
+        ],
+        "home": "CUR",
+        "away": "CIV"
+      },
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "5-3-2",
+            "coach": "D. Advocaat",
+            "xi": [
+              {
+                "n": 1,
+                "name": "E. Room",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "J. Brenet",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "J. Gaari",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "A. Obispo",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "S. Floranus",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Deveron Fonville",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "T. Chong",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "L. Bacuna",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "L. Comenencia",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "J. Locadia",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "J. Bacuna",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "E. Faé",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Y. Fofana",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "G. Doué",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "O. Kossounou",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "O. Diomande",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "C. Operi",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "A. Diallo",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "I. Sangaré",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "F. Kessié",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Y. Diomande",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "N. Pépé",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "A. Bonny",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Glenn Nyberg, Sweden",
+        "motm": {
+          "player": "N. Pépé",
+          "rating": 8.69,
+          "team": "CIV"
         }
       }
     },
@@ -17182,6 +17179,11 @@
         "assists": 1
       },
       {
+        "player": "Nicolas Pépé",
+        "team": "CIV",
+        "goals": 2
+      },
+      {
         "player": "R. Vargas",
         "team": "SUI",
         "goals": 2,
@@ -17198,12 +17200,6 @@
         "goals": 1,
         "penalties": 1,
         "assists": 2
-      },
-      {
-        "player": "G. Xhaka",
-        "team": "SUI",
-        "goals": 1,
-        "penalties": 1
       }
     ],
     "assists": [
@@ -17423,6 +17419,18 @@
         "yellow": 2
       },
       {
+        "player": "Gervane Kastaneer",
+        "team": "CUR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
+        "player": "Juninho Bacuna",
+        "team": "CUR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "S. Lopes Cabral",
         "team": "CPV",
         "red": 0,
@@ -17533,18 +17541,6 @@
       {
         "player": "C. Harvey",
         "team": "PAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Larin",
-        "team": "CAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Mbemba",
-        "team": "COD",
         "red": 0,
         "yellow": 1
       }
@@ -17690,6 +17686,20 @@
       "biggestWin": "3-1",
       "biggestLose": "",
       "form": "WW"
+    },
+    {
+      "code": "CIV",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "loses": 1,
+      "gf": 4,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 0,
+      "biggestWin": "2-0",
+      "biggestLose": "1-2",
+      "form": "WLW"
     },
     {
       "code": "CAN",
@@ -17843,20 +17853,6 @@
       "failedToScore": 1,
       "biggestWin": "2-0",
       "biggestLose": "0-2",
-      "form": "WL"
-    },
-    {
-      "code": "CIV",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 2,
-      "ga": 2,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "1-0",
-      "biggestLose": "1-2",
       "form": "WL"
     },
     {
@@ -18084,20 +18080,6 @@
       "form": "DL"
     },
     {
-      "code": "CUR",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 1,
-      "ga": 7,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "1-7",
-      "form": "LD"
-    },
-    {
       "code": "QAT",
       "played": 3,
       "wins": 0,
@@ -18110,6 +18092,20 @@
       "biggestWin": "",
       "biggestLose": "0-6",
       "form": "DLL"
+    },
+    {
+      "code": "CUR",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "loses": 2,
+      "gf": 1,
+      "ga": 9,
+      "cleanSheets": 1,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "1-7",
+      "form": "LDL"
     },
     {
       "code": "PAN",
