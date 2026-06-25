@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:36:56Z",
+  "updated": "2026-06-25T23:37:44Z",
   "live": [
     {
       "id": 35,
@@ -13,6 +13,14 @@
           "minute": 32,
           "team": "SWE",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Isak Hien",
+          "in": "Lucas Bergvall",
+          "minute": 37,
+          "team": "SWE"
         }
       ],
       "stats": {
@@ -199,7 +207,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 2,
       "goals": [
