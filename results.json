@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T00:01:06Z",
+  "updated": "2026-06-25T00:01:22Z",
   "live": [
     {
       "id": 18,
@@ -126,7 +126,7 @@
           "team": "HAI"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "shotsOff": [
           6,
@@ -161,11 +161,11 @@
           3
         ],
         "fouls": [
-          9,
+          10,
           18
         ],
         "saves": [
-          0,
+          1,
           8
         ],
         "passesPct": [
@@ -177,20 +177,20 @@
           0
         ],
         "passesAccurate": [
-          477,
-          192
+          478,
+          193
         ],
         "yellow": [
           0,
-          2
+          3
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          537,
-          240
+          540,
+          242
         ],
         "home": "MAR",
         "away": "HAI"
@@ -441,7 +441,7 @@
           "team": "SCO"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           6,
@@ -476,8 +476,8 @@
           7
         ],
         "fouls": [
-          9,
-          8
+          10,
+          9
         ],
         "saves": [
           5,
@@ -492,8 +492,8 @@
           1
         ],
         "passesAccurate": [
-          445,
-          525
+          447,
+          543
         ],
         "yellow": [
           1,
@@ -504,8 +504,8 @@
           0
         ],
         "passesTotal": [
-          492,
-          564
+          497,
+          585
         ],
         "home": "SCO",
         "away": "BRA"
