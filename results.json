@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:41:34Z",
+  "updated": "2026-06-25T02:42:22Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 0,
       "goals": [
@@ -75,7 +75,7 @@
         {
           "out": "R. Mofokeng",
           "in": "J. Adams",
-          "minute": 81,
+          "minute": 80,
           "team": "RSA"
         }
       ],
@@ -288,7 +288,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
       "away": 2,
       "goals": [
