@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T01:39:11Z",
+  "updated": "2026-06-25T01:40:00Z",
   "live": [
     {
       "id": 6,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "stats": {
@@ -211,7 +211,7 @@
     {
       "id": 5,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "stats": {
