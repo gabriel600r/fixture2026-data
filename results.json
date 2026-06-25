@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:33:45Z",
+  "updated": "2026-06-25T23:34:33Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -199,7 +199,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 2,
       "goals": [
