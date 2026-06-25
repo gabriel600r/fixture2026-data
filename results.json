@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:03:27Z",
+  "updated": "2026-06-25T23:04:15Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 3,
+      "minute": 4,
       "home": 0,
       "away": 0,
       "stats": {
@@ -171,14 +171,15 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 4,
+      "minute": 5,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "Ellyes Skhiri",
           "minute": 3,
-          "team": "NED"
+          "team": "NED",
+          "og": true
         }
       ],
       "stats": {
