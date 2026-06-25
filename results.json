@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:22:06Z",
+  "updated": "2026-06-25T21:22:54Z",
   "live": [
     {
       "id": 29,
@@ -75,8 +75,8 @@
           7
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "shotsOff": [
           1,
@@ -238,7 +238,7 @@
         "referee": "Tori Penso, USA",
         "motm": {
           "player": "N. Angulo",
-          "rating": 8.07,
+          "rating": 8.2,
           "team": "ECU"
         }
       }
@@ -246,7 +246,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 1,
       "goals": [
@@ -454,7 +454,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "N. Pépé",
-          "rating": 7.79,
+          "rating": 7.64,
           "team": "CIV"
         }
       }
