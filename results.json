@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-25T01:06:12Z",
+  "updated": "2026-06-25T01:07:00Z",
   "live": [
     {
       "id": 6,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
         "shotsOn": [
           0,
-          0
+          1
         ],
         "shotsOff": [
           0,
@@ -22,15 +22,15 @@
         ],
         "fouls": [
           0,
-          0
+          1
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          0,
-          16
+          15,
+          20
         ],
         "saves": [
           0,
@@ -38,7 +38,7 @@
         ],
         "shotsTotal": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
@@ -46,7 +46,7 @@
         ],
         "shotsInside": [
           0,
-          0
+          1
         ],
         "shotsOutside": [
           0,
@@ -57,20 +57,20 @@
           0
         ],
         "passesAccurate": [
-          0,
+          14,
           16
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "possession": [
-          0,
-          100
+          42,
+          58
         ],
         "passesPct": [
-          0,
-          100
+          93,
+          80
         ],
         "home": "RSA",
         "away": "KOR"
@@ -211,7 +211,7 @@
     {
       "id": 5,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
@@ -236,8 +236,8 @@
           0
         ],
         "passesTotal": [
-          5,
-          10
+          20,
+          36
         ],
         "saves": [
           0,
@@ -264,20 +264,20 @@
           0
         ],
         "passesAccurate": [
-          5,
-          10
+          18,
+          35
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          33,
-          67
+          35,
+          65
         ],
         "passesPct": [
-          100,
-          100
+          90,
+          97
         ],
         "home": "CZE",
         "away": "MEX"
