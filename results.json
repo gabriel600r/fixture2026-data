@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T01:15:07Z",
+  "updated": "2026-06-25T01:15:55Z",
   "live": [
     {
       "id": 6,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -29,8 +29,8 @@
           0
         ],
         "passesTotal": [
-          44,
-          65
+          46,
+          102
         ],
         "saves": [
           0,
@@ -57,20 +57,20 @@
           0
         ],
         "passesAccurate": [
-          37,
-          56
+          39,
+          90
         ],
         "corners": [
           2,
           1
         ],
         "possession": [
-          41,
-          59
+          31,
+          69
         ],
         "passesPct": [
-          84,
-          86
+          85,
+          88
         ],
         "home": "RSA",
         "away": "KOR"
@@ -220,7 +220,7 @@
           0
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "yellow": [
@@ -236,15 +236,15 @@
           0
         ],
         "passesTotal": [
-          41,
-          57
+          48,
+          69
         ],
         "saves": [
           0,
           0
         ],
         "shotsTotal": [
-          2,
+          3,
           0
         ],
         "shotsBlocked": [
@@ -252,7 +252,7 @@
           0
         ],
         "shotsInside": [
-          2,
+          3,
           0
         ],
         "shotsOutside": [
@@ -264,19 +264,19 @@
           0
         ],
         "passesAccurate": [
-          33,
-          50
+          37,
+          61
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "passesPct": [
-          80,
+          77,
           88
         ],
         "home": "CZE",
@@ -319,13 +319,13 @@
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Michal Sadílek",
+                "n": 12,
+                "name": "Lukáš Červ",
                 "pos": "M"
               },
               {
-                "n": 12,
-                "name": "Lukáš Červ",
+                "n": 18,
+                "name": "Michal Sadílek",
                 "pos": "M"
               },
               {
@@ -365,13 +365,13 @@
                 "pos": "D"
               },
               {
-                "n": 15,
-                "name": "Israel Reyes",
+                "n": 3,
+                "name": "César Montes",
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "César Montes",
+                "n": 15,
+                "name": "Israel Reyes",
                 "pos": "D"
               },
               {
