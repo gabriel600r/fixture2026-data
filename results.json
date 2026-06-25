@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:39:10Z",
+  "updated": "2026-06-25T02:39:58Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 0,
       "goals": [
@@ -20,6 +20,12 @@
           "player": "A. Modiba",
           "minute": 73,
           "team": "RSA",
+          "color": "yellow"
+        },
+        {
+          "player": "Cho Gue-Sung",
+          "minute": 79,
+          "team": "KOR",
           "color": "yellow"
         }
       ],
@@ -276,7 +282,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 0,
       "away": 2,
       "goals": [
