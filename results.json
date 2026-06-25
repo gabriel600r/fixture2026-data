@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T01:37:35Z",
+  "updated": "2026-06-25T01:38:23Z",
   "live": [
     {
       "id": 6,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,14 +14,14 @@
         ],
         "shotsOff": [
           1,
-          2
+          3
         ],
         "yellow": [
           0,
           0
         ],
         "fouls": [
-          1,
+          2,
           2
         ],
         "red": [
@@ -29,8 +29,8 @@
           0
         ],
         "passesTotal": [
-          127,
-          213
+          133,
+          237
         ],
         "saves": [
           0,
@@ -38,7 +38,7 @@
         ],
         "shotsTotal": [
           6,
-          3
+          4
         ],
         "shotsBlocked": [
           2,
@@ -50,27 +50,27 @@
         ],
         "shotsOutside": [
           3,
-          0
+          1
         ],
         "offsides": [
           1,
           0
         ],
         "passesAccurate": [
-          106,
-          186
+          111,
+          210
         ],
         "corners": [
           3,
           2
         ],
         "possession": [
-          37,
-          63
+          36,
+          64
         ],
         "passesPct": [
           83,
-          87
+          89
         ],
         "home": "RSA",
         "away": "KOR"
@@ -211,7 +211,7 @@
     {
       "id": 5,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 0,
       "stats": {
@@ -228,7 +228,7 @@
           0
         ],
         "fouls": [
-          3,
+          4,
           5
         ],
         "red": [
@@ -236,8 +236,8 @@
           0
         ],
         "passesTotal": [
-          127,
-          115
+          163,
+          157
         ],
         "saves": [
           0,
@@ -264,16 +264,16 @@
           0
         ],
         "passesAccurate": [
-          108,
-          99
+          138,
+          135
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          52,
-          48
+          51,
+          49
         ],
         "passesPct": [
           85,
