@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:48:00Z",
+  "updated": "2026-06-25T02:48:49Z",
   "live": [
     {
       "id": 6,
@@ -102,7 +102,7 @@
         ],
         "passesTotal": [
           305,
-          630
+          643
         ],
         "saves": [
           1,
@@ -130,11 +130,11 @@
         ],
         "passesAccurate": [
           258,
-          569
+          581
         ],
         "corners": [
           4,
-          3
+          4
         ],
         "possession": [
           32,
@@ -385,8 +385,8 @@
           0
         ],
         "passesTotal": [
-          348,
-          321
+          350,
+          337
         ],
         "saves": [
           1,
@@ -413,20 +413,20 @@
           0
         ],
         "passesAccurate": [
-          291,
-          271
+          293,
+          286
         ],
         "corners": [
           5,
           1
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "passesPct": [
           84,
-          84
+          85
         ],
         "home": "CZE",
         "away": "MEX"
