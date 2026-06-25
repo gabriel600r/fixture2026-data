@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:14:12Z",
+  "updated": "2026-06-25T02:15:02Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "subs": [
@@ -33,7 +33,7 @@
           1
         ],
         "shotsOff": [
-          4,
+          5,
           3
         ],
         "yellow": [
@@ -49,27 +49,27 @@
           0
         ],
         "passesTotal": [
-          224,
-          343
+          243,
+          364
         ],
         "saves": [
           0,
           3
         ],
         "shotsTotal": [
-          10,
+          12,
           4
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "shotsInside": [
-          3,
+          4,
           3
         ],
         "shotsOutside": [
-          7,
+          8,
           1
         ],
         "offsides": [
@@ -77,20 +77,20 @@
           0
         ],
         "passesAccurate": [
-          190,
-          303
+          209,
+          323
         ],
         "corners": [
           4,
           2
         ],
         "possession": [
-          39,
-          61
+          40,
+          60
         ],
         "passesPct": [
-          85,
-          88
+          86,
+          89
         ],
         "home": "RSA",
         "away": "KOR"
@@ -236,7 +236,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 0,
       "stats": {
@@ -261,8 +261,8 @@
           0
         ],
         "passesTotal": [
-          222,
-          254
+          226,
+          274
         ],
         "saves": [
           1,
@@ -270,39 +270,39 @@
         ],
         "shotsTotal": [
           7,
-          5
+          6
         ],
         "shotsBlocked": [
           2,
-          1
+          2
         ],
         "shotsInside": [
           5,
-          3
+          4
         ],
         "shotsOutside": [
           2,
           2
         ],
         "offsides": [
-          0,
+          1,
           0
         ],
         "passesAccurate": [
-          179,
-          220
+          182,
+          237
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          47,
-          53
+          45,
+          55
         ],
         "passesPct": [
           81,
-          87
+          86
         ],
         "home": "CZE",
         "away": "MEX"
