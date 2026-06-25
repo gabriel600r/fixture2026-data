@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:26:06Z",
+  "updated": "2026-06-25T21:26:54Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -93,8 +93,8 @@
           8
         ],
         "possession": [
-          40,
-          60
+          41,
+          59
         ],
         "shotsOff": [
           1,
@@ -114,7 +114,7 @@
         ],
         "fouls": [
           10,
-          7
+          8
         ],
         "saves": [
           1,
@@ -264,7 +264,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 2,
       "goals": [
@@ -277,7 +277,8 @@
         {
           "player": "Nicolas Pépé",
           "minute": 64,
-          "team": "CIV"
+          "team": "CIV",
+          "assist": "Ibrahim Sangaré"
         }
       ],
       "cardEvents": [
