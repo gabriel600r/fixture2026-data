@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:22:17Z",
+  "updated": "2026-06-25T02:23:06Z",
   "live": [
     {
       "id": 6,
@@ -25,6 +25,12 @@
           "in": "J. Castrop",
           "minute": 46,
           "team": "KOR"
+        },
+        {
+          "out": "O. Appollis",
+          "in": "T. Moremi",
+          "minute": 62,
+          "team": "RSA"
         }
       ],
       "stats": {
@@ -249,7 +255,8 @@
         {
           "player": "J. Quinones",
           "minute": 61,
-          "team": "MEX"
+          "team": "MEX",
+          "assist": "J. Sanchez"
         }
       ],
       "subs": [
