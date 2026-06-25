@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:52:51Z",
+  "updated": "2026-06-25T02:53:39Z",
   "live": [
     {
       "id": 6,
@@ -79,7 +79,7 @@
           "team": "RSA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOn": [
           4,
@@ -102,8 +102,8 @@
           0
         ],
         "passesTotal": [
-          311,
-          661
+          314,
+          680
         ],
         "saves": [
           1,
@@ -111,11 +111,11 @@
         ],
         "shotsTotal": [
           13,
-          6
+          7
         ],
         "shotsBlocked": [
           4,
-          0
+          1
         ],
         "shotsInside": [
           5,
@@ -123,26 +123,26 @@
         ],
         "shotsOutside": [
           8,
-          2
+          3
         ],
         "offsides": [
           3,
           0
         ],
         "passesAccurate": [
-          260,
-          596
+          261,
+          613
         ],
         "corners": [
           4,
           5
         ],
         "possession": [
-          32,
-          68
+          31,
+          69
         ],
         "passesPct": [
-          84,
+          83,
           90
         ],
         "home": "RSA",
@@ -376,7 +376,7 @@
           "team": "CZE"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOn": [
           1,
@@ -399,8 +399,8 @@
           0
         ],
         "passesTotal": [
-          354,
-          339
+          374,
+          372
         ],
         "saves": [
           1,
@@ -427,19 +427,19 @@
           0
         ],
         "passesAccurate": [
-          295,
-          287
+          313,
+          318
         ],
         "corners": [
           5,
           1
         ],
         "possession": [
-          52,
-          48
+          51,
+          49
         ],
         "passesPct": [
-          83,
+          84,
           85
         ],
         "home": "CZE",
