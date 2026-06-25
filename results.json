@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:01:22Z",
+  "updated": "2026-06-25T20:02:10Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
       "extras": {
@@ -139,36 +139,13 @@
         },
         "referee": "Tori Penso, USA"
       }
-    }
-  ],
-  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
-  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
-  "min_version": "1.9.38",
-  "brackets": {
-    "73": {
-      "home": "RSA",
-      "away": "CAN"
     },
-    "85": {
-      "home": "SUI",
-      "away": "TBD"
-    },
-    "75": {
-      "home": "TBD",
-      "away": "MAR"
-    },
-    "76": {
-      "home": "BRA",
-      "away": "TBD"
-    },
-    "79": {
-      "home": "MEX",
-      "away": "TBD"
-    }
-  },
-  "prematch": [
     {
       "id": 30,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "pred": {
           "home": 0,
@@ -303,6 +280,32 @@
       }
     }
   ],
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.38",
+  "brackets": {
+    "73": {
+      "home": "RSA",
+      "away": "CAN"
+    },
+    "85": {
+      "home": "SUI",
+      "away": "TBD"
+    },
+    "75": {
+      "home": "TBD",
+      "away": "MAR"
+    },
+    "76": {
+      "home": "BRA",
+      "away": "TBD"
+    },
+    "79": {
+      "home": "MEX",
+      "away": "TBD"
+    }
+  },
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
