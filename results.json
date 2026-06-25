@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-25T02:23:54Z",
+  "updated": "2026-06-25T02:24:42Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "T. Maseko",
+          "minute": 63,
+          "team": "RSA"
+        }
+      ],
       "subs": [
         {
           "out": "Hwang Hee-Chan",
@@ -233,9 +240,9 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Aubrey Modiba",
-          "rating": 7.2,
-          "team": "RSA"
+          "player": "Gi-Hyuk Lee",
+          "rating": 7.3,
+          "team": "KOR"
         }
       }
     },
@@ -257,6 +264,14 @@
           "minute": 61,
           "team": "MEX",
           "assist": "J. Sanchez"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "E. Alvarez",
+          "minute": 64,
+          "team": "MEX",
+          "color": "yellow"
         }
       ],
       "subs": [
