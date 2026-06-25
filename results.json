@@ -1,13 +1,26 @@
 {
-  "updated": "2026-06-25T02:06:07Z",
+  "updated": "2026-06-25T02:06:56Z",
   "live": [
     {
       "id": 6,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
-      "extra": 4,
+      "subs": [
+        {
+          "out": "Hwang Hee-Chan",
+          "in": "Son Heung-Min",
+          "minute": 46,
+          "team": "KOR"
+        },
+        {
+          "out": "Paik Seung-Ho",
+          "in": "Kim Jin-Gyu",
+          "minute": 46,
+          "team": "KOR"
+        }
+      ],
       "stats": {
         "shotsOn": [
           3,
@@ -206,13 +219,18 @@
             ]
           }
         },
-        "referee": "Facundo Raul Tello Figueroa, Argentina"
+        "referee": "Facundo Raul Tello Figueroa, Argentina",
+        "motm": {
+          "player": "Aubrey Modiba",
+          "rating": 7.2,
+          "team": "RSA"
+        }
       }
     },
     {
       "id": 5,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 0,
       "stats": {
@@ -222,14 +240,14 @@
         ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "yellow": [
           0,
           0
         ],
         "fouls": [
-          4,
+          5,
           7
         ],
         "red": [
@@ -237,8 +255,8 @@
           0
         ],
         "passesTotal": [
-          191,
-          212
+          200,
+          234
         ],
         "saves": [
           1,
@@ -246,7 +264,7 @@
         ],
         "shotsTotal": [
           6,
-          4
+          5
         ],
         "shotsBlocked": [
           2,
@@ -258,27 +276,27 @@
         ],
         "shotsOutside": [
           2,
-          1
+          2
         ],
         "offsides": [
           0,
           0
         ],
         "passesAccurate": [
-          158,
-          181
+          163,
+          203
         ],
         "corners": [
           0,
           0
         ],
         "possession": [
-          48,
-          52
+          46,
+          54
         ],
         "passesPct": [
-          83,
-          85
+          82,
+          87
         ],
         "home": "CZE",
         "away": "MEX"
@@ -415,9 +433,9 @@
         },
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
-          "player": "Tomáš Holeš",
-          "rating": 6.9,
-          "team": "CZE"
+          "player": "Israel Reyes",
+          "rating": 7.0,
+          "team": "MEX"
         }
       }
     }
