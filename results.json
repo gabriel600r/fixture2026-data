@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:07:45Z",
+  "updated": "2026-06-25T02:08:33Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "subs": [
@@ -33,7 +33,7 @@
           1
         ],
         "shotsOff": [
-          3,
+          4,
           3
         ],
         "yellow": [
@@ -49,15 +49,15 @@
           0
         ],
         "passesTotal": [
-          183,
-          301
+          200,
+          305
         ],
         "saves": [
           0,
           3
         ],
         "shotsTotal": [
-          9,
+          10,
           4
         ],
         "shotsBlocked": [
@@ -69,7 +69,7 @@
           3
         ],
         "shotsOutside": [
-          6,
+          7,
           1
         ],
         "offsides": [
@@ -77,20 +77,20 @@
           0
         ],
         "passesAccurate": [
-          155,
-          268
+          170,
+          269
         ],
         "corners": [
-          3,
+          4,
           2
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "passesPct": [
           85,
-          89
+          88
         ],
         "home": "RSA",
         "away": "KOR"
@@ -236,7 +236,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "stats": {
