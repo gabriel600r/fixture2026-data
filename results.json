@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-25T02:23:06Z",
+  "updated": "2026-06-25T02:23:54Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 62,
-      "home": 0,
+      "minute": 63,
+      "home": 1,
       "away": 0,
       "subs": [
         {
@@ -36,7 +36,7 @@
       "stats": {
         "shotsOn": [
           3,
-          1
+          2
         ],
         "shotsOff": [
           5,
@@ -55,16 +55,16 @@
           0
         ],
         "passesTotal": [
-          267,
-          423
+          281,
+          448
         ],
         "saves": [
-          0,
+          1,
           3
         ],
         "shotsTotal": [
           12,
-          4
+          5
         ],
         "shotsBlocked": [
           4,
@@ -72,7 +72,7 @@
         ],
         "shotsInside": [
           4,
-          3
+          4
         ],
         "shotsOutside": [
           8,
@@ -83,8 +83,8 @@
           0
         ],
         "passesAccurate": [
-          229,
-          379
+          243,
+          402
         ],
         "corners": [
           4,
@@ -242,7 +242,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 62,
+      "minute": 64,
       "home": 0,
       "away": 2,
       "goals": [
@@ -265,6 +265,18 @@
           "in": "L. Provod",
           "minute": 56,
           "team": "CZE"
+        },
+        {
+          "out": "G. Martinez",
+          "in": "S. Gimenez",
+          "minute": 63,
+          "team": "MEX"
+        },
+        {
+          "out": "L. Romo",
+          "in": "O. Vargas",
+          "minute": 63,
+          "team": "MEX"
         }
       ],
       "stats": {
