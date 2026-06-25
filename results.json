@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:52:40Z",
+  "updated": "2026-06-25T21:53:27Z",
   "live": [
     {
       "id": 29,
@@ -115,7 +115,7 @@
           "team": "ECU"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           2,
@@ -404,7 +404,7 @@
           "team": "CUR"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsBlocked": [
           1,
@@ -419,8 +419,8 @@
           7
         ],
         "possession": [
-          36,
-          64
+          37,
+          63
         ],
         "shotsOff": [
           6,
