@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:06:03Z",
+  "updated": "2026-06-25T21:06:51Z",
   "live": [
     {
       "id": 29,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -217,7 +217,12 @@
             ]
           }
         },
-        "referee": "Tori Penso, USA"
+        "referee": "Tori Penso, USA",
+        "motm": {
+          "player": "L. Sané",
+          "rating": 8.05,
+          "team": "GER"
+        }
       }
     },
     {
@@ -240,6 +245,14 @@
           "minute": 35,
           "team": "CIV",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Amad Diallo",
+          "in": "Christ Inao Oulaï",
+          "minute": 45,
+          "team": "CIV"
         }
       ],
       "stats": {
