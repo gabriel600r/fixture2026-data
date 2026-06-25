@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:53:39Z",
+  "updated": "2026-06-25T02:54:27Z",
   "live": [
     {
       "id": 6,
@@ -102,8 +102,8 @@
           0
         ],
         "passesTotal": [
-          314,
-          680
+          315,
+          705
         ],
         "saves": [
           1,
@@ -131,7 +131,7 @@
         ],
         "passesAccurate": [
           261,
-          613
+          637
         ],
         "corners": [
           4,
@@ -291,7 +291,7 @@
       "status": "2H",
       "minute": 90,
       "home": 0,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "M. Chavez Garcia",
@@ -304,6 +304,11 @@
           "minute": 61,
           "team": "MEX",
           "assist": "J. Sanchez"
+        },
+        {
+          "player": "A. Fidalgo",
+          "minute": 90,
+          "team": "MEX"
         }
       ],
       "cardEvents": [
@@ -376,7 +381,7 @@
           "team": "CZE"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOn": [
           1,
@@ -392,26 +397,26 @@
         ],
         "fouls": [
           9,
-          12
+          13
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          374,
-          372
+          381,
+          381
         ],
         "saves": [
           1,
           1
         ],
         "shotsTotal": [
-          11,
+          12,
           9
         ],
         "shotsBlocked": [
-          4,
+          5,
           2
         ],
         "shotsInside": [
@@ -419,7 +424,7 @@
           7
         ],
         "shotsOutside": [
-          6,
+          7,
           2
         ],
         "offsides": [
@@ -427,8 +432,8 @@
           0
         ],
         "passesAccurate": [
-          313,
-          318
+          318,
+          326
         ],
         "corners": [
           5,
@@ -439,8 +444,8 @@
           49
         ],
         "passesPct": [
-          84,
-          85
+          83,
+          86
         ],
         "home": "CZE",
         "away": "MEX"
