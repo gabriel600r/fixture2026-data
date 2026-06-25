@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:37:34Z",
+  "updated": "2026-06-25T02:38:22Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 0,
       "goals": [
@@ -81,7 +81,7 @@
           0
         ],
         "fouls": [
-          5,
+          6,
           6
         ],
         "red": [
@@ -89,8 +89,8 @@
           0
         ],
         "passesTotal": [
-          289,
-          545
+          294,
+          571
         ],
         "saves": [
           1,
@@ -117,12 +117,12 @@
           0
         ],
         "passesAccurate": [
-          249,
-          494
+          252,
+          516
         ],
         "corners": [
           4,
-          2
+          3
         ],
         "possession": [
           34,
@@ -130,7 +130,7 @@
         ],
         "passesPct": [
           86,
-          91
+          90
         ],
         "home": "RSA",
         "away": "KOR"
@@ -276,7 +276,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 2,
       "goals": [
@@ -337,6 +337,12 @@
           "in": "A. Fidalgo",
           "minute": 72,
           "team": "MEX"
+        },
+        {
+          "out": "R. Rangel",
+          "in": "G. Ochoa",
+          "minute": 78,
+          "team": "MEX"
         }
       ],
       "stats": {
@@ -346,14 +352,14 @@
         ],
         "shotsOff": [
           5,
-          3
+          4
         ],
         "yellow": [
           0,
           1
         ],
         "fouls": [
-          7,
+          8,
           11
         ],
         "red": [
@@ -361,8 +367,8 @@
           0
         ],
         "passesTotal": [
-          325,
-          300
+          328,
+          306
         ],
         "saves": [
           1,
@@ -370,7 +376,7 @@
         ],
         "shotsTotal": [
           10,
-          8
+          9
         ],
         "shotsBlocked": [
           4,
@@ -378,7 +384,7 @@
         ],
         "shotsInside": [
           5,
-          6
+          7
         ],
         "shotsOutside": [
           5,
@@ -389,11 +395,11 @@
           0
         ],
         "passesAccurate": [
-          273,
-          256
+          275,
+          260
         ],
         "corners": [
-          4,
+          5,
           0
         ],
         "possession": [
