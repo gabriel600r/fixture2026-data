@@ -1,595 +1,6 @@
 {
-  "updated": "2026-06-25T02:56:51Z",
-  "live": [
-    {
-      "id": 6,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "T. Maseko",
-          "minute": 63,
-          "team": "RSA",
-          "assist": "T. Moremi"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Modiba",
-          "minute": 73,
-          "team": "RSA",
-          "color": "yellow"
-        },
-        {
-          "player": "Cho Gue-Sung",
-          "minute": 79,
-          "team": "KOR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Hwang Hee-Chan",
-          "in": "Son Heung-Min",
-          "minute": 46,
-          "team": "KOR"
-        },
-        {
-          "out": "Paik Seung-Ho",
-          "in": "Kim Jin-Gyu",
-          "minute": 46,
-          "team": "KOR"
-        },
-        {
-          "out": "Lee Tae-Seok",
-          "in": "J. Castrop",
-          "minute": 46,
-          "team": "KOR"
-        },
-        {
-          "out": "O. Appollis",
-          "in": "T. Moremi",
-          "minute": 62,
-          "team": "RSA"
-        },
-        {
-          "out": "Kim Min-Jae",
-          "in": "Park Jin-Seob",
-          "minute": 66,
-          "team": "KOR"
-        },
-        {
-          "out": "Oh Hyeon-Gyu",
-          "in": "Cho Gue-Sung",
-          "minute": 74,
-          "team": "KOR"
-        },
-        {
-          "out": "T. Maseko",
-          "in": "I. Rayners",
-          "minute": 75,
-          "team": "RSA"
-        },
-        {
-          "out": "R. Mofokeng",
-          "in": "J. Adams",
-          "minute": 80,
-          "team": "RSA"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "shotsOn": [
-          4,
-          2
-        ],
-        "shotsOff": [
-          5,
-          4
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "fouls": [
-          7,
-          9
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesTotal": [
-          315,
-          705
-        ],
-        "saves": [
-          1,
-          3
-        ],
-        "shotsTotal": [
-          13,
-          7
-        ],
-        "shotsBlocked": [
-          4,
-          1
-        ],
-        "shotsInside": [
-          5,
-          4
-        ],
-        "shotsOutside": [
-          8,
-          3
-        ],
-        "offsides": [
-          3,
-          0
-        ],
-        "passesAccurate": [
-          261,
-          637
-        ],
-        "corners": [
-          4,
-          5
-        ],
-        "possession": [
-          31,
-          69
-        ],
-        "passesPct": [
-          83,
-          90
-        ],
-        "home": "RSA",
-        "away": "KOR"
-      },
-      "extras": {
-        "pred": {
-          "home": 0,
-          "draw": 50,
-          "away": 50
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Hugo Broos",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Ronwen Williams",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "Khuliso Mudau",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Ime Okon",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Mbekezeli Mbokazi",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Aubrey Modiba",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Thalente Mbatha",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Sphephelo Sithole",
-                "pos": "M"
-              },
-              {
-                "n": 12,
-                "name": "Thapelo Maseko",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Relebohile Mofokeng",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Oswin Appollis",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Evidence Makgopa",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-2-1",
-            "coach": "Myung-Bo Hong",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Kim Seung-gyu",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Han-Beom Lee",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Kim Min-jae",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Gi-Hyuk Lee",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Young-woo Seol",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Seung Ho Paik",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Hwang In-beom",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Lee Tae-seok",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Kang-in Lee",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Hwang Hee-chan",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "Hyeon-gyu Oh",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Facundo Raul Tello Figueroa, Argentina",
-        "motm": {
-          "player": "Thapelo Maseko",
-          "rating": 7.7,
-          "team": "RSA"
-        }
-      }
-    },
-    {
-      "id": 5,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 3,
-      "goals": [
-        {
-          "player": "M. Chavez Garcia",
-          "minute": 55,
-          "team": "MEX",
-          "assist": "L. Romo"
-        },
-        {
-          "player": "J. Quinones",
-          "minute": 61,
-          "team": "MEX",
-          "assist": "J. Sanchez"
-        },
-        {
-          "player": "A. Fidalgo",
-          "minute": 90,
-          "team": "MEX",
-          "assist": "R. Alvarado"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "E. Alvarez",
-          "minute": 64,
-          "team": "MEX",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "D. Visinsky",
-          "in": "L. Provod",
-          "minute": 56,
-          "team": "CZE"
-        },
-        {
-          "out": "G. Martinez",
-          "in": "S. Gimenez",
-          "minute": 63,
-          "team": "MEX"
-        },
-        {
-          "out": "L. Romo",
-          "in": "O. Vargas",
-          "minute": 63,
-          "team": "MEX"
-        },
-        {
-          "out": "A. Hlozek",
-          "in": "P. Schick",
-          "minute": 64,
-          "team": "CZE"
-        },
-        {
-          "out": "T. Holes",
-          "in": "T. Soucek",
-          "minute": 64,
-          "team": "CZE"
-        },
-        {
-          "out": "G. Mora",
-          "in": "A. Fidalgo",
-          "minute": 72,
-          "team": "MEX"
-        },
-        {
-          "out": "R. Rangel",
-          "in": "G. Ochoa",
-          "minute": 78,
-          "team": "MEX"
-        },
-        {
-          "out": "M. Chavez Garcia",
-          "in": "J. Gallardo",
-          "minute": 78,
-          "team": "MEX"
-        },
-        {
-          "out": "L. Cerv",
-          "in": "T. Chory",
-          "minute": 87,
-          "team": "CZE"
-        },
-        {
-          "out": "T. Soucek",
-          "in": "A. Sojka",
-          "minute": 87,
-          "team": "CZE"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "shotsOn": [
-          1,
-          3
-        ],
-        "shotsOff": [
-          6,
-          4
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "fouls": [
-          9,
-          13
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesTotal": [
-          381,
-          381
-        ],
-        "saves": [
-          1,
-          1
-        ],
-        "shotsTotal": [
-          12,
-          9
-        ],
-        "shotsBlocked": [
-          5,
-          2
-        ],
-        "shotsInside": [
-          5,
-          7
-        ],
-        "shotsOutside": [
-          7,
-          2
-        ],
-        "offsides": [
-          1,
-          0
-        ],
-        "passesAccurate": [
-          318,
-          326
-        ],
-        "corners": [
-          5,
-          1
-        ],
-        "possession": [
-          51,
-          49
-        ],
-        "passesPct": [
-          83,
-          86
-        ],
-        "home": "CZE",
-        "away": "MEX"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "3-4-2-1",
-            "coach": "Miroslav Koubek",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Matěj Kovář",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Tomáš Holeš",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Robin Hranáč",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "Ladislav Krejčí",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Vladimír Coufal",
-                "pos": "M"
-              },
-              {
-                "n": 12,
-                "name": "Lukáš Červ",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Michal Sadílek",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "David Douděra",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Pavel Šulc",
-                "pos": "F"
-              },
-              {
-                "n": 26,
-                "name": "Denis Višinský",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Adam Hložek",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Javier Aguirre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Raúl Rangel",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Jorge Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "César Montes",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Israel Reyes",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Mateo Chávez",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Gilberto Mora",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Edson Álvarez",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Luis Romo",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Roberto Alvarado",
-                "pos": "F"
-              },
-              {
-                "n": 22,
-                "name": "Guillermo Martínez",
-                "pos": "F"
-              },
-              {
-                "n": 16,
-                "name": "Julián Quiñones",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Yael Falcon Perez, Argentina",
-        "motm": {
-          "player": "Mateo Chávez",
-          "rating": 7.9,
-          "team": "MEX"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-25T02:57:38Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -1924,6 +1335,588 @@
           "player": "Luis Romo",
           "rating": 7.9,
           "team": "MEX"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "home": 0,
+      "away": 3,
+      "goals": [
+        {
+          "player": "M. Chavez Garcia",
+          "minute": 55,
+          "team": "MEX",
+          "assist": "L. Romo"
+        },
+        {
+          "player": "J. Quinones",
+          "minute": 61,
+          "team": "MEX",
+          "assist": "J. Sanchez"
+        },
+        {
+          "player": "A. Fidalgo",
+          "minute": 90,
+          "team": "MEX",
+          "assist": "R. Alvarado"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "E. Alvarez",
+          "minute": 64,
+          "team": "MEX",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "D. Visinsky",
+          "in": "L. Provod",
+          "minute": 56,
+          "team": "CZE"
+        },
+        {
+          "out": "G. Martinez",
+          "in": "S. Gimenez",
+          "minute": 63,
+          "team": "MEX"
+        },
+        {
+          "out": "L. Romo",
+          "in": "O. Vargas",
+          "minute": 63,
+          "team": "MEX"
+        },
+        {
+          "out": "A. Hlozek",
+          "in": "P. Schick",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "T. Holes",
+          "in": "T. Soucek",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "G. Mora",
+          "in": "A. Fidalgo",
+          "minute": 72,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Rangel",
+          "in": "G. Ochoa",
+          "minute": 78,
+          "team": "MEX"
+        },
+        {
+          "out": "M. Chavez Garcia",
+          "in": "J. Gallardo",
+          "minute": 78,
+          "team": "MEX"
+        },
+        {
+          "out": "L. Cerv",
+          "in": "T. Chory",
+          "minute": 87,
+          "team": "CZE"
+        },
+        {
+          "out": "T. Soucek",
+          "in": "A. Sojka",
+          "minute": 87,
+          "team": "CZE"
+        }
+      ],
+      "stats": {
+        "shotsOn": [
+          1,
+          3
+        ],
+        "shotsOff": [
+          6,
+          4
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "fouls": [
+          9,
+          13
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          381,
+          381
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "shotsTotal": [
+          12,
+          9
+        ],
+        "shotsBlocked": [
+          5,
+          2
+        ],
+        "shotsInside": [
+          5,
+          7
+        ],
+        "shotsOutside": [
+          7,
+          2
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "passesAccurate": [
+          318,
+          326
+        ],
+        "corners": [
+          5,
+          1
+        ],
+        "possession": [
+          51,
+          49
+        ],
+        "passesPct": [
+          83,
+          86
+        ],
+        "home": "CZE",
+        "away": "MEX"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Miroslav Koubek",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Matěj Kovář",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Tomáš Holeš",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Robin Hranáč",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Ladislav Krejčí",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Vladimír Coufal",
+                "pos": "M"
+              },
+              {
+                "n": 12,
+                "name": "Lukáš Červ",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Michal Sadílek",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "David Douděra",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pavel Šulc",
+                "pos": "F"
+              },
+              {
+                "n": 26,
+                "name": "Denis Višinský",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Adam Hložek",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Javier Aguirre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Raúl Rangel",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Jorge Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "César Montes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Israel Reyes",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Mateo Chávez",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Gilberto Mora",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Edson Álvarez",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Luis Romo",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Roberto Alvarado",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Guillermo Martínez",
+                "pos": "F"
+              },
+              {
+                "n": 16,
+                "name": "Julián Quiñones",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Yael Falcon Perez, Argentina",
+        "motm": {
+          "player": "Mateo Chávez",
+          "rating": 7.9,
+          "team": "MEX"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "T. Maseko",
+          "minute": 63,
+          "team": "RSA",
+          "assist": "T. Moremi"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Modiba",
+          "minute": 73,
+          "team": "RSA",
+          "color": "yellow"
+        },
+        {
+          "player": "Cho Gue-Sung",
+          "minute": 79,
+          "team": "KOR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Hwang Hee-Chan",
+          "in": "Son Heung-Min",
+          "minute": 46,
+          "team": "KOR"
+        },
+        {
+          "out": "Paik Seung-Ho",
+          "in": "Kim Jin-Gyu",
+          "minute": 46,
+          "team": "KOR"
+        },
+        {
+          "out": "Lee Tae-Seok",
+          "in": "J. Castrop",
+          "minute": 46,
+          "team": "KOR"
+        },
+        {
+          "out": "O. Appollis",
+          "in": "T. Moremi",
+          "minute": 62,
+          "team": "RSA"
+        },
+        {
+          "out": "Kim Min-Jae",
+          "in": "Park Jin-Seob",
+          "minute": 66,
+          "team": "KOR"
+        },
+        {
+          "out": "Oh Hyeon-Gyu",
+          "in": "Cho Gue-Sung",
+          "minute": 74,
+          "team": "KOR"
+        },
+        {
+          "out": "T. Maseko",
+          "in": "I. Rayners",
+          "minute": 75,
+          "team": "RSA"
+        },
+        {
+          "out": "R. Mofokeng",
+          "in": "J. Adams",
+          "minute": 80,
+          "team": "RSA"
+        }
+      ],
+      "stats": {
+        "shotsOn": [
+          4,
+          2
+        ],
+        "shotsOff": [
+          5,
+          4
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "fouls": [
+          7,
+          9
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          315,
+          705
+        ],
+        "saves": [
+          1,
+          3
+        ],
+        "shotsTotal": [
+          13,
+          7
+        ],
+        "shotsBlocked": [
+          4,
+          1
+        ],
+        "shotsInside": [
+          5,
+          4
+        ],
+        "shotsOutside": [
+          8,
+          3
+        ],
+        "offsides": [
+          3,
+          0
+        ],
+        "passesAccurate": [
+          261,
+          637
+        ],
+        "corners": [
+          4,
+          5
+        ],
+        "possession": [
+          31,
+          69
+        ],
+        "passesPct": [
+          83,
+          90
+        ],
+        "home": "RSA",
+        "away": "KOR"
+      },
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Hugo Broos",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ronwen Williams",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Khuliso Mudau",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ime Okon",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Mbekezeli Mbokazi",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Aubrey Modiba",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Thalente Mbatha",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Sphephelo Sithole",
+                "pos": "M"
+              },
+              {
+                "n": 12,
+                "name": "Thapelo Maseko",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Relebohile Mofokeng",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Oswin Appollis",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Evidence Makgopa",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-2-1",
+            "coach": "Myung-Bo Hong",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Kim Seung-gyu",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Han-Beom Lee",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Kim Min-jae",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Gi-Hyuk Lee",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Young-woo Seol",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Seung Ho Paik",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Hwang In-beom",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Lee Tae-seok",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Kang-in Lee",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Hwang Hee-chan",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Hyeon-gyu Oh",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Facundo Raul Tello Figueroa, Argentina",
+        "motm": {
+          "player": "Thapelo Maseko",
+          "rating": 7.7,
+          "team": "RSA"
         }
       }
     },
@@ -16577,6 +16570,11 @@
         "goals": 2
       },
       {
+        "player": "Julián Quiñones",
+        "team": "MEX",
+        "goals": 2
+      },
+      {
         "player": "M. Araujo",
         "team": "URU",
         "goals": 2,
@@ -16609,12 +16607,6 @@
       {
         "player": "G. Xhaka",
         "team": "SUI",
-        "goals": 1,
-        "penalties": 1
-      },
-      {
-        "player": "M. Arnautovic",
-        "team": "AUT",
         "goals": 1,
         "penalties": 1
       }
@@ -16696,6 +16688,11 @@
         "assists": 2
       },
       {
+        "player": "Roberto Alvarado",
+        "team": "MEX",
+        "assists": 2
+      },
+      {
         "player": "A. Al Ammari",
         "team": "IRQ",
         "assists": 1
@@ -16772,11 +16769,6 @@
       {
         "player": "Christian Pulisic",
         "team": "USA",
-        "assists": 1
-      },
-      {
-        "player": "D. Hadzikadunic",
-        "team": "BIH",
         "assists": 1
       }
     ],
@@ -16890,6 +16882,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Modiba",
+        "team": "RSA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Robertson",
         "team": "SCO",
         "red": 0,
@@ -16954,16 +16952,24 @@
         "team": "COD",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "C. McCowatt",
-        "team": "NZL",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
   "teamStats": [
+    {
+      "code": "MEX",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "loses": 0,
+      "gf": 6,
+      "ga": 0,
+      "cleanSheets": 3,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWW"
+    },
     {
       "code": "BRA",
       "played": 3,
@@ -17073,20 +17079,6 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "WW"
-    },
-    {
-      "code": "MEX",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 3,
-      "ga": 0,
-      "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "2-0",
       "biggestLose": "",
       "form": "WW"
     },
@@ -17217,6 +17209,20 @@
       "form": "WD"
     },
     {
+      "code": "RSA",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 2,
+      "ga": 3,
+      "cleanSheets": 1,
+      "failedToScore": 1,
+      "biggestWin": "1-0",
+      "biggestLose": "0-2",
+      "form": "LDW"
+    },
+    {
       "code": "BIH",
       "played": 3,
       "wins": 1,
@@ -17229,20 +17235,6 @@
       "biggestWin": "3-1",
       "biggestLose": "1-4",
       "form": "DLW"
-    },
-    {
-      "code": "KOR",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 2,
-      "ga": 2,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "2-1",
-      "biggestLose": "0-1",
-      "form": "WL"
     },
     {
       "code": "AUS",
@@ -17299,6 +17291,20 @@
       "biggestWin": "3-1",
       "biggestLose": "0-2",
       "form": "WL"
+    },
+    {
+      "code": "KOR",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "loses": 2,
+      "gf": 2,
+      "ga": 3,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "2-1",
+      "biggestLose": "0-1",
+      "form": "WLL"
     },
     {
       "code": "CRO",
@@ -17413,20 +17419,6 @@
       "form": "DD"
     },
     {
-      "code": "CZE",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 2,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-2",
-      "form": "LD"
-    },
-    {
       "code": "ECU",
       "played": 2,
       "wins": 0,
@@ -17455,20 +17447,6 @@
       "form": "DL"
     },
     {
-      "code": "RSA",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 1,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "0-2",
-      "form": "LD"
-    },
-    {
       "code": "NZL",
       "played": 2,
       "wins": 0,
@@ -17481,6 +17459,20 @@
       "biggestWin": "",
       "biggestLose": "1-3",
       "form": "DL"
+    },
+    {
+      "code": "CZE",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "loses": 2,
+      "gf": 2,
+      "ga": 6,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "",
+      "biggestLose": "0-3",
+      "form": "LDL"
     },
     {
       "code": "KSA",
