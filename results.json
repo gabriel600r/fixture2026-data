@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:34:16Z",
+  "updated": "2026-06-25T21:35:04Z",
   "live": [
     {
       "id": 29,
@@ -83,6 +83,12 @@
           "in": "Pervis Estupinan",
           "minute": 71,
           "team": "ECU"
+        },
+        {
+          "out": "Florian Wirtz",
+          "in": "Pascal Groß",
+          "minute": 73,
+          "team": "GER"
         }
       ],
       "stats": {
@@ -270,7 +276,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 0,
       "away": 2,
       "goals": [
