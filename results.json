@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:20:28Z",
+  "updated": "2026-06-25T21:21:17Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 1,
       "goals": [
@@ -47,6 +47,18 @@
           "in": "Angelo Stiller",
           "minute": 45,
           "team": "GER"
+        },
+        {
+          "out": "Kai Havertz",
+          "in": "Deniz Undav",
+          "minute": 60,
+          "team": "GER"
+        },
+        {
+          "out": "Joshua Kimmich",
+          "in": "Malick Thiaw",
+          "minute": 60,
+          "team": "GER"
         }
       ],
       "stats": {
@@ -63,8 +75,8 @@
           7
         ],
         "possession": [
-          39,
-          61
+          38,
+          62
         ],
         "shotsOff": [
           1,
@@ -234,7 +246,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 1,
       "goals": [
