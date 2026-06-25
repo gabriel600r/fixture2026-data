@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:26:19Z",
+  "updated": "2026-06-25T02:27:07Z",
   "live": [
     {
       "id": 6,
@@ -39,6 +39,12 @@
           "in": "T. Moremi",
           "minute": 62,
           "team": "RSA"
+        },
+        {
+          "out": "Kim Min-Jae",
+          "in": "Park Jin-Seob",
+          "minute": 66,
+          "team": "KOR"
         }
       ],
       "stats": {
@@ -250,7 +256,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 2,
       "goals": [
