@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:27:07Z",
+  "updated": "2026-06-25T02:27:55Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 1,
       "away": 0,
       "goals": [
@@ -70,7 +70,7 @@
         ],
         "passesTotal": [
           285,
-          460
+          473
         ],
         "saves": [
           1,
@@ -98,15 +98,15 @@
         ],
         "passesAccurate": [
           247,
-          413
+          426
         ],
         "corners": [
           4,
           2
         ],
         "possession": [
-          38,
-          62
+          37,
+          63
         ],
         "passesPct": [
           87,
@@ -247,16 +247,16 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Gi-Hyuk Lee",
+          "player": "Thapelo Maseko",
           "rating": 7.3,
-          "team": "KOR"
+          "team": "RSA"
         }
       }
     },
     {
       "id": 5,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 2,
       "goals": [
@@ -324,18 +324,18 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "fouls": [
           6,
-          10
+          11
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          282,
+          298,
           290
         ],
         "saves": [
@@ -363,19 +363,19 @@
           0
         ],
         "passesAccurate": [
-          232,
+          248,
           249
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "passesPct": [
-          82,
+          83,
           86
         ],
         "home": "CZE",
