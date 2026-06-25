@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:36:40Z",
+  "updated": "2026-06-25T21:37:28Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -101,15 +101,15 @@
           1
         ],
         "shotsTotal": [
-          6,
-          8
+          5,
+          9
         ],
         "possession": [
-          41,
-          59
+          42,
+          58
         ],
         "shotsOff": [
-          3,
+          2,
           1
         ],
         "corners": [
@@ -122,14 +122,14 @@
         ],
         "shotsOn": [
           2,
-          2
+          3
         ],
         "fouls": [
           11,
           8
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "home": "ECU",
@@ -276,7 +276,7 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 2,
       "goals": [
@@ -298,6 +298,12 @@
           "player": "Nicolas Pépé",
           "minute": 35,
           "team": "CIV",
+          "color": "yellow"
+        },
+        {
+          "player": "Juninho Bacuna",
+          "minute": 75,
+          "team": "CUR",
           "color": "yellow"
         }
       ],
