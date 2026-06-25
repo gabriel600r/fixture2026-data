@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:46:31Z",
+  "updated": "2026-06-25T23:47:18Z",
   "live": [
     {
       "id": 35,
@@ -29,7 +29,7 @@
           "team": "JPN"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsBlocked": [
           1,
@@ -40,19 +40,19 @@
           1
         ],
         "shotsTotal": [
-          3,
+          4,
           1
         ],
         "possession": [
-          55,
-          45
+          57,
+          43
         ],
         "shotsOff": [
           1,
           0
         ],
         "corners": [
-          0,
+          1,
           2
         ],
         "red": [
@@ -60,7 +60,7 @@
           0
         ],
         "shotsOn": [
-          1,
+          2,
           1
         ],
         "fouls": [
@@ -231,7 +231,7 @@
           "assist": "Virgil van Dijk"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           0,
