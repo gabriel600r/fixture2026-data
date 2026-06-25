@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T23:15:25Z",
+  "updated": "2026-06-25T23:16:13Z",
   "live": [
     {
       "id": 35,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,8 +17,8 @@
           1
         ],
         "possession": [
-          29,
-          71
+          52,
+          48
         ],
         "shotsOff": [
           0,
@@ -187,7 +187,7 @@
     {
       "id": 36,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 0,
       "away": 2,
       "goals": [
@@ -256,7 +256,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "5-3-2",
             "coach": "Hervé Renard",
             "xi": [
               {
@@ -270,13 +270,13 @@
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "M. Talbi",
-                "pos": "D"
+                "n": 13,
+                "name": "R. Khedira",
+                "pos": "M"
               },
               {
-                "n": 2,
-                "name": "A. Abdi",
+                "n": 3,
+                "name": "M. Talbi",
                 "pos": "D"
               },
               {
@@ -285,18 +285,13 @@
                 "pos": "D"
               },
               {
+                "n": 2,
+                "name": "A. Abdi",
+                "pos": "D"
+              },
+              {
                 "n": 17,
                 "name": "E. Skhiri",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "R. Khedira",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "A. Ben Slimane",
                 "pos": "M"
               },
               {
@@ -313,6 +308,11 @@
                 "n": 9,
                 "name": "H. Mastouri",
                 "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "A. Ben Slimane",
+                "pos": "M"
               }
             ]
           },
