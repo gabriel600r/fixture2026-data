@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T20:22:06Z",
+  "updated": "2026-06-25T20:22:54Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 1,
       "away": 1,
       "goals": [
@@ -35,24 +35,28 @@
           3
         ],
         "possession": [
-          34,
-          66
+          40,
+          60
         ],
         "shotsOff": [
           0,
           1
         ],
+        "corners": [
+          1,
+          0
+        ],
         "red": [
           0,
           0
         ],
-        "fouls": [
-          8,
-          2
-        ],
         "shotsOn": [
           1,
           1
+        ],
+        "fouls": [
+          8,
+          2
         ],
         "home": "ECU",
         "away": "GER"
@@ -193,7 +197,7 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 1,
       "goals": [
