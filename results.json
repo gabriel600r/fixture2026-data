@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T01:40:00Z",
+  "updated": "2026-06-25T01:40:48Z",
   "live": [
     {
       "id": 6,
@@ -221,7 +221,7 @@
         ],
         "shotsOff": [
           3,
-          0
+          1
         ],
         "yellow": [
           0,
@@ -236,8 +236,8 @@
           0
         ],
         "passesTotal": [
-          163,
-          157
+          162,
+          158
         ],
         "saves": [
           0,
@@ -245,7 +245,7 @@
         ],
         "shotsTotal": [
           5,
-          0
+          1
         ],
         "shotsBlocked": [
           2,
@@ -253,7 +253,7 @@
         ],
         "shotsInside": [
           4,
-          0
+          1
         ],
         "shotsOutside": [
           1,
@@ -277,7 +277,7 @@
         ],
         "passesPct": [
           85,
-          86
+          85
         ],
         "home": "CZE",
         "away": "MEX"
