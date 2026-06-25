@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:48:49Z",
+  "updated": "2026-06-25T02:49:37Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 86,
+      "minute": 89,
       "home": 1,
       "away": 0,
       "goals": [
@@ -86,7 +86,7 @@
         ],
         "shotsOff": [
           5,
-          3
+          4
         ],
         "yellow": [
           1,
@@ -94,15 +94,11 @@
         ],
         "fouls": [
           7,
-          8
+          9
         ],
         "red": [
           0,
           0
-        ],
-        "passesTotal": [
-          305,
-          643
         ],
         "saves": [
           1,
@@ -110,39 +106,23 @@
         ],
         "shotsTotal": [
           13,
-          5
+          7
         ],
         "shotsBlocked": [
           4,
-          0
-        ],
-        "shotsInside": [
-          5,
-          4
-        ],
-        "shotsOutside": [
-          8,
           1
         ],
         "offsides": [
           3,
           0
         ],
-        "passesAccurate": [
-          258,
-          581
-        ],
         "corners": [
           4,
-          4
+          5
         ],
         "possession": [
           32,
           68
-        ],
-        "passesPct": [
-          85,
-          90
         ],
         "home": "RSA",
         "away": "KOR"
@@ -288,7 +268,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 86,
+      "minute": 89,
       "home": 0,
       "away": 2,
       "goals": [
@@ -361,6 +341,18 @@
           "in": "J. Gallardo",
           "minute": 78,
           "team": "MEX"
+        },
+        {
+          "out": "L. Cerv",
+          "in": "T. Chory",
+          "minute": 87,
+          "team": "CZE"
+        },
+        {
+          "out": "T. Soucek",
+          "in": "A. Sojka",
+          "minute": 87,
+          "team": "CZE"
         }
       ],
       "stats": {
@@ -384,10 +376,6 @@
           0,
           0
         ],
-        "passesTotal": [
-          350,
-          337
-        ],
         "saves": [
           1,
           1
@@ -400,21 +388,9 @@
           4,
           2
         ],
-        "shotsInside": [
-          5,
-          7
-        ],
-        "shotsOutside": [
-          6,
-          2
-        ],
         "offsides": [
           1,
           0
-        ],
-        "passesAccurate": [
-          293,
-          286
         ],
         "corners": [
           5,
@@ -423,10 +399,6 @@
         "possession": [
           52,
           48
-        ],
-        "passesPct": [
-          84,
-          85
         ],
         "home": "CZE",
         "away": "MEX"
