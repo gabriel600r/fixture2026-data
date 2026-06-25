@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:30:20Z",
+  "updated": "2026-06-25T02:31:08Z",
   "live": [
     {
       "id": 6,
@@ -248,7 +248,7 @@
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
           "player": "Thapelo Maseko",
-          "rating": 7.3,
+          "rating": 7.7,
           "team": "RSA"
         }
       }
@@ -256,7 +256,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 2,
       "goals": [
