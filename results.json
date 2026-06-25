@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:40:46Z",
+  "updated": "2026-06-25T02:41:34Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 0,
       "goals": [
@@ -71,6 +71,12 @@
           "in": "I. Rayners",
           "minute": 75,
           "team": "RSA"
+        },
+        {
+          "out": "R. Mofokeng",
+          "in": "J. Adams",
+          "minute": 81,
+          "team": "RSA"
         }
       ],
       "stats": {
@@ -84,19 +90,19 @@
         ],
         "yellow": [
           1,
-          0
+          1
         ],
         "fouls": [
           6,
-          6
+          8
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          294,
-          571
+          302,
+          576
         ],
         "saves": [
           1,
@@ -123,8 +129,8 @@
           0
         ],
         "passesAccurate": [
-          252,
-          516
+          257,
+          520
         ],
         "corners": [
           4,
@@ -135,7 +141,7 @@
           66
         ],
         "passesPct": [
-          86,
+          85,
           90
         ],
         "home": "RSA",
@@ -282,7 +288,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 0,
       "away": 2,
       "goals": [
@@ -379,8 +385,8 @@
           0
         ],
         "passesTotal": [
-          328,
-          306
+          330,
+          309
         ],
         "saves": [
           1,
@@ -407,8 +413,8 @@
           0
         ],
         "passesAccurate": [
-          275,
-          260
+          276,
+          263
         ],
         "corners": [
           5,
