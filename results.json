@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:18:53Z",
+  "updated": "2026-06-25T21:19:40Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
       "away": 1,
       "goals": [
@@ -63,8 +63,8 @@
           7
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "shotsOff": [
           1,
@@ -83,7 +83,7 @@
           2
         ],
         "fouls": [
-          9,
+          10,
           6
         ],
         "saves": [
@@ -226,7 +226,7 @@
         "referee": "Tori Penso, USA",
         "motm": {
           "player": "N. Angulo",
-          "rating": 8.02,
+          "rating": 8.07,
           "team": "ECU"
         }
       }
@@ -275,8 +275,8 @@
           6
         ],
         "possession": [
-          33,
-          67
+          34,
+          66
         ],
         "shotsOff": [
           4,
