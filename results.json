@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-25T20:08:34Z",
+  "updated": "2026-06-25T20:09:22Z",
   "live": [
     {
       "id": 29,
       "status": "1H",
-      "minute": 8,
-      "home": 0,
+      "minute": 9,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 2,
           "team": "GER",
           "assist": "Florian Wirtz"
+        },
+        {
+          "player": "Nilson Angulo",
+          "minute": 9,
+          "team": "ECU"
         }
       ],
       "stats": {
@@ -29,8 +34,8 @@
           2
         ],
         "possession": [
-          19,
-          81
+          38,
+          62
         ],
         "shotsOff": [
           0,
@@ -42,7 +47,7 @@
         ],
         "fouls": [
           2,
-          1
+          2
         ],
         "shotsOn": [
           0,
@@ -187,14 +192,15 @@
     {
       "id": 30,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "Nicolas Pépé",
           "minute": 7,
-          "team": "CIV"
+          "team": "CIV",
+          "assist": "Yan Diomande"
         }
       ],
       "stats": {
@@ -204,11 +210,11 @@
         ],
         "shotsTotal": [
           1,
-          0
+          1
         ],
         "possession": [
-          28,
-          72
+          26,
+          74
         ],
         "shotsOff": [
           0,
@@ -218,9 +224,13 @@
           0,
           0
         ],
-        "shotsOn": [
+        "fouls": [
           1,
           0
+        ],
+        "shotsOn": [
+          1,
+          1
         ],
         "saves": [
           0,
