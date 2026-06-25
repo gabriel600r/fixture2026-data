@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T21:24:30Z",
+  "updated": "2026-06-25T21:25:18Z",
   "live": [
     {
       "id": 29,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 1,
       "goals": [
@@ -59,12 +59,18 @@
           "in": "Malick Thiaw",
           "minute": 60,
           "team": "GER"
+        },
+        {
+          "out": "Enner Valencia",
+          "in": "Kevin Rodriguez",
+          "minute": 64,
+          "team": "ECU"
         }
       ],
       "stats": {
         "shotsBlocked": [
           1,
-          4
+          5
         ],
         "yellow": [
           2,
@@ -72,7 +78,7 @@
         ],
         "shotsTotal": [
           4,
-          7
+          8
         ],
         "possession": [
           40,
@@ -246,15 +252,20 @@
     {
       "id": 30,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Nicolas Pépé",
           "minute": 7,
           "team": "CIV",
           "assist": "Yan Diomande"
+        },
+        {
+          "player": "Nicolas Pépé",
+          "minute": 64,
+          "team": "CIV"
         }
       ],
       "cardEvents": [
@@ -460,7 +471,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "N. Pépé",
-          "rating": 7.64,
+          "rating": 7.58,
           "team": "CIV"
         }
       }
