@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T22:00:38Z",
+  "updated": "2026-06-25T22:01:25Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -35,6 +35,130 @@
           "draw": 45,
           "away": 10
         },
+        "lineups": {
+          "home": {
+            "formation": "3-4-3",
+            "coach": "H. Moriyasu",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Z. Suzuki",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "A. Seko",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "K. Itakura",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "H. Ito",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Y. Sugawara",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "D. Kamada",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "A. Tanaka",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Keito Nakamura",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "R. Dōan",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "A. Ueda",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "D. Maeda",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-1-2",
+            "coach": "G. Potter",
+            "xi": [
+              {
+                "n": 1,
+                "name": "J. Widell Zetterström",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "G. Lagerbielke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "I. Hien",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "V. Lindelöf",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "A. Bernhardsson",
+                "pos": "F"
+              },
+              {
+                "n": 24,
+                "name": "E. Stroud",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Y. Ayari",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "G. Gudmundsson",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "A. Elanga",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "V. Gyökeres",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "A. Isak",
+                "pos": "F"
+              }
+            ]
+          }
+        },
         "referee": "I. Barton"
       }
     },
@@ -45,6 +169,130 @@
           "home": 0,
           "draw": 50,
           "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Hervé Renard",
+            "xi": [
+              {
+                "n": 16,
+                "name": "A. Dahmen",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Y. Valery",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "M. Talbi",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "A. Abdi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "A. Ben Hmida",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "E. Skhiri",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "R. Khedira",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "A. Ben Slimane",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "H. Mejbri",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismaël Gharbi",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "H. Mastouri",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "R. Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "B. Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "D. Dumfries",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "J. van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "V. van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "N. Aké",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "R. Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "F. de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "T. Reijnders",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "D. Malen",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "B. Brobbey",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "C. Gakpo",
+                "pos": "F"
+              }
+            ]
+          }
         },
         "referee": "K. I. Garcia Mendoza"
       }
