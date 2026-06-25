@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T02:21:29Z",
+  "updated": "2026-06-25T02:22:17Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "subs": [
@@ -236,15 +236,20 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "M. Chavez Garcia",
           "minute": 55,
           "team": "MEX",
           "assist": "L. Romo"
+        },
+        {
+          "player": "J. Quinones",
+          "minute": 61,
+          "team": "MEX"
         }
       ],
       "subs": [
@@ -277,19 +282,19 @@
           0
         ],
         "passesTotal": [
-          260,
-          288
+          277,
+          290
         ],
         "saves": [
           1,
           1
         ],
         "shotsTotal": [
-          8,
+          9,
           7
         ],
         "shotsBlocked": [
-          3,
+          4,
           2
         ],
         "shotsInside": [
@@ -297,7 +302,7 @@
           5
         ],
         "shotsOutside": [
-          3,
+          4,
           2
         ],
         "offsides": [
@@ -305,7 +310,7 @@
           0
         ],
         "passesAccurate": [
-          211,
+          227,
           249
         ],
         "corners": [
@@ -313,11 +318,11 @@
           0
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "passesPct": [
-          81,
+          82,
           86
         ],
         "home": "CZE",
