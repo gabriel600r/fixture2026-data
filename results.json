@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-25T02:24:42Z",
+  "updated": "2026-06-25T02:25:31Z",
   "live": [
     {
       "id": 6,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "T. Maseko",
           "minute": 63,
-          "team": "RSA"
+          "team": "RSA",
+          "assist": "T. Moremi"
         }
       ],
       "subs": [
@@ -249,7 +250,7 @@
     {
       "id": 5,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 0,
       "away": 2,
       "goals": [
@@ -292,6 +293,18 @@
           "in": "O. Vargas",
           "minute": 63,
           "team": "MEX"
+        },
+        {
+          "out": "A. Hlozek",
+          "in": "P. Schick",
+          "minute": 64,
+          "team": "CZE"
+        },
+        {
+          "out": "T. Holes",
+          "in": "T. Soucek",
+          "minute": 64,
+          "team": "CZE"
         }
       ],
       "stats": {
