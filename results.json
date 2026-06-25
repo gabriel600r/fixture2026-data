@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:48:06Z",
+  "updated": "2026-06-25T23:48:54Z",
   "live": [
     {
       "id": 35,
@@ -29,7 +29,7 @@
           "team": "JPN"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           1,
@@ -213,8 +213,8 @@
     },
     {
       "id": 36,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 2,
       "goals": [
@@ -231,7 +231,6 @@
           "assist": "Virgil van Dijk"
         }
       ],
-      "extra": 3,
       "stats": {
         "shotsBlocked": [
           0,
