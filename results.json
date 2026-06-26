@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:46:31Z",
+  "updated": "2026-06-26T03:47:19Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -38,6 +38,12 @@
           "out": "Gabriel Ávalos",
           "in": "Alex Arce",
           "minute": 67,
+          "team": "PAR"
+        },
+        {
+          "out": "Omar Alderete",
+          "in": "José Canale",
+          "minute": 84,
           "team": "PAR"
         }
       ],
@@ -286,11 +292,23 @@
           "in": "Alex Freeman",
           "minute": 77,
           "team": "USA"
+        },
+        {
+          "out": "Zeki Çelik",
+          "in": "Çağlar Söyüncü",
+          "minute": 84,
+          "team": "TUR"
+        },
+        {
+          "out": "Kenan Yıldız",
+          "in": "Can Yilmaz Uzun",
+          "minute": 84,
+          "team": "TUR"
         }
       ],
       "stats": {
         "shotsBlocked": [
-          2,
+          3,
           3
         ],
         "yellow": [
@@ -298,7 +316,7 @@
           1
         ],
         "shotsTotal": [
-          7,
+          8,
           16
         ],
         "possession": [
@@ -323,7 +341,7 @@
         ],
         "fouls": [
           12,
-          11
+          12
         ],
         "offsides": [
           2,
