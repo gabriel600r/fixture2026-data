@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:37:27Z",
+  "updated": "2026-06-26T00:38:15Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 1,
       "goals": [
@@ -26,6 +26,12 @@
           "player": "Isak Hien",
           "minute": 32,
           "team": "SWE",
+          "color": "yellow"
+        },
+        {
+          "player": "Shogo Taniguchi",
+          "minute": 77,
+          "team": "JPN",
           "color": "yellow"
         }
       ],
@@ -85,7 +91,7 @@
           1
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "shotsTotal": [
@@ -268,7 +274,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 3,
       "goals": [
@@ -358,7 +364,7 @@
         ],
         "shotsTotal": [
           8,
-          18
+          19
         ],
         "possession": [
           29,
@@ -378,10 +384,10 @@
         ],
         "shotsOn": [
           4,
-          6
+          7
         ],
         "fouls": [
-          8,
+          9,
           9
         ],
         "offsides": [
@@ -389,7 +395,7 @@
           1
         ],
         "saves": [
-          3,
+          4,
           3
         ],
         "home": "TUN",
