@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:07:50Z",
+  "updated": "2026-06-26T03:08:38Z",
   "live": [
     {
       "id": 24,
@@ -7,6 +7,14 @@
       "minute": null,
       "home": 0,
       "away": 0,
+      "subs": [
+        {
+          "out": "Alexandro Maidana",
+          "in": "Maurício Magalhães Prado",
+          "minute": 45,
+          "team": "PAR"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           0,
@@ -186,8 +194,8 @@
     },
     {
       "id": 23,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 2,
       "away": 1,
       "goals": [
@@ -396,7 +404,12 @@
             ]
           }
         },
-        "referee": "M. Ghorbal"
+        "referee": "M. Ghorbal",
+        "motm": {
+          "player": "A. Güler",
+          "rating": 7.43,
+          "team": "TUR"
+        }
       }
     }
   ],
