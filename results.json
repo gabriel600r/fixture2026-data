@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:32:01Z",
+  "updated": "2026-06-26T03:32:50Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -29,7 +29,7 @@
           "team": "AUS"
         },
         {
-          "out": "Julio Enciso",
+          "out": "Gabriel Ávalos",
           "in": "Alex Arce",
           "minute": 67,
           "team": "PAR"
@@ -220,7 +220,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 2,
       "away": 2,
       "goals": [
