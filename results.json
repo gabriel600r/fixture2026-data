@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:45:19Z",
+  "updated": "2026-06-26T20:46:08Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 3,
       "goals": [
@@ -91,7 +91,7 @@
           85
         ],
         "shotsTotal": [
-          8,
+          9,
           16
         ],
         "red": [
@@ -103,7 +103,7 @@
           2
         ],
         "shotsOutside": [
-          2,
+          3,
           7
         ],
         "shotsInside": [
@@ -115,12 +115,12 @@
           3
         ],
         "passesTotal": [
-          330,
-          415
+          370,
+          439
         ],
         "passesAccurate": [
-          269,
-          352
+          305,
+          375
         ],
         "shotsOff": [
           2,
@@ -135,12 +135,12 @@
           4
         ],
         "shotsBlocked": [
-          2,
+          3,
           3
         ],
         "possession": [
-          45,
-          55
+          46,
+          54
         ],
         "fouls": [
           8,
@@ -294,7 +294,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 4,
       "away": 0,
       "goals": [
@@ -404,11 +404,11 @@
       ],
       "stats": {
         "passesPct": [
-          86,
+          85,
           74
         ],
         "shotsTotal": [
-          17,
+          19,
           6
         ],
         "red": [
@@ -420,7 +420,7 @@
           0
         ],
         "shotsOutside": [
-          6,
+          8,
           5
         ],
         "shotsInside": [
@@ -432,15 +432,15 @@
           2
         ],
         "passesTotal": [
-          381,
-          224
+          391,
+          234
         ],
         "passesAccurate": [
-          328,
-          166
+          334,
+          173
         ],
         "shotsOff": [
-          10,
+          11,
           0
         ],
         "shotsOn": [
@@ -452,20 +452,20 @@
           3
         ],
         "shotsBlocked": [
-          1,
+          2,
           5
         ],
         "possession": [
-          64,
-          36
+          63,
+          37
         ],
         "fouls": [
           8,
-          7
+          8
         ],
         "yellow": [
           1,
-          0
+          1
         ],
         "home": "SEN",
         "away": "IRQ"
