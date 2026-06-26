@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:53:40Z",
+  "updated": "2026-06-26T19:54:28Z",
   "live": [
     {
       "id": 53,
@@ -282,10 +282,10 @@
           "team": "IRQ"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "passesPct": [
-          80,
+          81,
           76
         ],
         "shotsTotal": [
@@ -313,12 +313,12 @@
           1
         ],
         "passesTotal": [
-          184,
-          152
+          188,
+          154
         ],
         "passesAccurate": [
-          148,
-          116
+          152,
+          117
         ],
         "shotsOff": [
           6,
@@ -330,7 +330,7 @@
         ],
         "corners": [
           5,
-          2
+          3
         ],
         "shotsBlocked": [
           1,
