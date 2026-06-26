@@ -1,20 +1,27 @@
 {
-  "updated": "2026-06-26T19:07:40Z",
+  "updated": "2026-06-26T19:08:28Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "O. Dembele",
+          "minute": 7,
+          "team": "FRA"
+        }
+      ],
       "stats": {
         "passesPct": [
-          33,
-          94
+          45,
+          93
         ],
         "shotsTotal": [
           0,
-          1
+          2
         ],
         "red": [
           0,
@@ -30,19 +37,19 @@
         ],
         "shotsInside": [
           0,
-          1
+          2
         ],
         "saves": [
-          1,
+          2,
           0
         ],
         "passesTotal": [
-          6,
-          18
+          11,
+          40
         ],
         "passesAccurate": [
-          2,
-          17
+          5,
+          37
         ],
         "shotsOff": [
           0,
@@ -50,7 +57,7 @@
         ],
         "shotsOn": [
           0,
-          1
+          2
         ],
         "corners": [
           0,
@@ -61,8 +68,8 @@
           0
         ],
         "possession": [
-          25,
-          75
+          21,
+          79
         ],
         "fouls": [
           0,
