@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:22:55Z",
+  "updated": "2026-06-26T02:23:43Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "stats": {
@@ -183,7 +183,7 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 1,
       "away": 1,
       "goals": [
@@ -246,7 +246,7 @@
           5
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "saves": [
