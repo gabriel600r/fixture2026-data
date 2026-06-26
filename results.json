@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:52:56Z",
+  "updated": "2026-06-26T03:53:44Z",
   "live": [
     {
       "id": 24,
@@ -59,6 +59,7 @@
           "team": "AUS"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           1,
@@ -70,15 +71,15 @@
         ],
         "shotsTotal": [
           6,
-          10
+          11
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "shotsOff": [
           4,
-          3
+          4
         ],
         "corners": [
           1,
@@ -330,6 +331,7 @@
           "team": "TUR"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           2,
