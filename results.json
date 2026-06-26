@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-26T00:22:08Z",
+  "updated": "2026-06-26T00:22:56Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "Daizen Maeda",
           "minute": 56,
           "team": "JPN",
           "assist": "Ritsu Doan"
+        },
+        {
+          "player": "Anthony Elanga",
+          "minute": 62,
+          "team": "SWE"
         }
       ],
       "cardEvents": [
@@ -226,7 +231,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 1,
       "away": 3,
       "goals": [
@@ -251,7 +256,8 @@
         {
           "player": "Jan Paul van Hecke",
           "minute": 62,
-          "team": "NED"
+          "team": "NED",
+          "assist": "Tijjani Reijnders"
         }
       ],
       "stats": {
