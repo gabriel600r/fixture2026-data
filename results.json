@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:15:48Z",
+  "updated": "2026-06-26T19:16:36Z",
   "live": [
     {
       "id": 53,
@@ -239,12 +239,12 @@
         }
       ],
       "redCards": [
-        "R. Sulaka (Iraq) 10'"
+        "R. Sulaka (Iraq) 13'"
       ],
       "cardEvents": [
         {
           "player": "R. Sulaka",
-          "minute": 10,
+          "minute": 13,
           "team": "IRQ",
           "color": "red"
         }
