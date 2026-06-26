@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:27:06Z",
+  "updated": "2026-06-26T19:27:54Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 26,
+      "minute": 27,
       "home": 1,
       "away": 2,
       "goals": [
@@ -38,11 +38,11 @@
       "stats": {
         "passesPct": [
           71,
-          88
+          89
         ],
         "shotsTotal": [
           4,
-          8
+          11
         ],
         "red": [
           0,
@@ -54,11 +54,11 @@
         ],
         "shotsOutside": [
           2,
-          3
+          5
         ],
         "shotsInside": [
           2,
-          5
+          6
         ],
         "saves": [
           5,
@@ -66,15 +66,15 @@
         ],
         "passesTotal": [
           68,
-          147
+          158
         ],
         "passesAccurate": [
           48,
-          129
+          140
         ],
         "shotsOff": [
           1,
-          0
+          1
         ],
         "shotsOn": [
           2,
@@ -82,15 +82,15 @@
         ],
         "corners": [
           0,
-          2
+          3
         ],
         "shotsBlocked": [
           1,
-          1
+          3
         ],
         "possession": [
-          32,
-          68
+          30,
+          70
         ],
         "fouls": [
           3,
@@ -239,7 +239,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 25,
+      "minute": 26,
       "home": 1,
       "away": 0,
       "goals": [
@@ -278,7 +278,7 @@
       "stats": {
         "passesPct": [
           78,
-          75
+          80
         ],
         "shotsTotal": [
           6,
@@ -306,11 +306,11 @@
         ],
         "passesTotal": [
           46,
-          56
+          71
         ],
         "passesAccurate": [
           36,
-          42
+          57
         ],
         "shotsOff": [
           3,
@@ -329,8 +329,8 @@
           2
         ],
         "possession": [
-          46,
-          54
+          41,
+          59
         ],
         "fouls": [
           2,
