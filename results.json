@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:35:59Z",
+  "updated": "2026-06-26T19:36:47Z",
   "live": [
     {
       "id": 53,
@@ -44,11 +44,11 @@
       "stats": {
         "passesPct": [
           75,
-          87
+          88
         ],
         "shotsTotal": [
           4,
-          11
+          12
         ],
         "red": [
           0,
@@ -64,7 +64,7 @@
         ],
         "shotsInside": [
           2,
-          6
+          7
         ],
         "saves": [
           5,
@@ -72,11 +72,11 @@
         ],
         "passesTotal": [
           99,
-          182
+          197
         ],
         "passesAccurate": [
           74,
-          159
+          174
         ],
         "shotsOff": [
           1,
@@ -84,7 +84,7 @@
         ],
         "shotsOn": [
           2,
-          7
+          8
         ],
         "corners": [
           0,
@@ -95,8 +95,8 @@
           2
         ],
         "possession": [
-          35,
-          65
+          33,
+          67
         ],
         "fouls": [
           4,
@@ -245,7 +245,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 1,
       "away": 0,
       "goals": [
@@ -283,11 +283,11 @@
       ],
       "stats": {
         "passesPct": [
-          87,
-          79
+          84,
+          80
         ],
         "shotsTotal": [
-          6,
+          7,
           2
         ],
         "red": [
@@ -303,7 +303,7 @@
           2
         ],
         "shotsInside": [
-          3,
+          4,
           0
         ],
         "saves": [
@@ -311,15 +311,15 @@
           1
         ],
         "passesTotal": [
-          105,
-          85
+          115,
+          97
         ],
         "passesAccurate": [
-          91,
-          67
+          97,
+          78
         ],
         "shotsOff": [
-          3,
+          4,
           0
         ],
         "shotsOn": [
@@ -335,8 +335,8 @@
           2
         ],
         "possession": [
-          56,
-          44
+          55,
+          45
         ],
         "fouls": [
           3,
