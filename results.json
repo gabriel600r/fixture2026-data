@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-26T04:01:11Z",
+  "updated": "2026-06-26T04:01:58Z",
   "live": [
     {
       "id": 23,
       "status": "2H",
       "minute": 90,
-      "home": 2,
+      "home": 3,
       "away": 2,
       "goals": [
         {
@@ -30,6 +30,11 @@
           "player": "Sebastian Berhalter",
           "minute": 49,
           "team": "USA"
+        },
+        {
+          "player": "Kaan Ayhan",
+          "minute": 98,
+          "team": "TUR"
         }
       ],
       "cardEvents": [
@@ -102,7 +107,7 @@
           "team": "TUR"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "shotsBlocked": [
           2,
