@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:48:07Z",
+  "updated": "2026-06-26T03:48:55Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -235,16 +235,16 @@
         },
         "referee": "C. Turpin",
         "motm": {
-          "player": "J. Bos",
-          "rating": 7.2,
-          "team": "AUS"
+          "player": "O. Gill",
+          "rating": 7.57,
+          "team": "PAR"
         }
       }
     },
     {
       "id": 23,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 2,
       "away": 2,
       "goals": [
