@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:56:57Z",
+  "updated": "2026-06-26T03:57:45Z",
   "live": [
     {
       "id": 24,
@@ -71,7 +71,7 @@
           "team": "PAR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           1,
@@ -249,7 +249,7 @@
         "referee": "C. Turpin",
         "motm": {
           "player": "O. Gill",
-          "rating": 7.58,
+          "rating": 7.59,
           "team": "PAR"
         }
       }
@@ -355,7 +355,7 @@
           "team": "TUR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           2,
@@ -370,8 +370,8 @@
           17
         ],
         "possession": [
-          46,
-          54
+          47,
+          53
         ],
         "shotsOff": [
           3,
