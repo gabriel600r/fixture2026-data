@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:47:44Z",
+  "updated": "2026-06-26T20:48:33Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 1,
       "away": 3,
       "goals": [
@@ -83,12 +83,24 @@
           "in": "I. Konate",
           "minute": 76,
           "team": "FRA"
+        },
+        {
+          "out": "A. Schjelderup",
+          "in": "J. Hauge",
+          "minute": 83,
+          "team": "NOR"
+        },
+        {
+          "out": "O. Bobb",
+          "in": "A. Nusa",
+          "minute": 83,
+          "team": "NOR"
         }
       ],
       "stats": {
         "passesPct": [
-          82,
-          85
+          83,
+          86
         ],
         "shotsTotal": [
           9,
@@ -115,12 +127,12 @@
           3
         ],
         "passesTotal": [
-          370,
-          439
+          374,
+          461
         ],
         "passesAccurate": [
-          305,
-          375
+          309,
+          395
         ],
         "shotsOff": [
           2,
@@ -132,19 +144,19 @@
         ],
         "corners": [
           3,
-          4
+          5
         ],
         "shotsBlocked": [
           3,
           3
         ],
         "possession": [
-          46,
-          54
+          45,
+          55
         ],
         "fouls": [
           8,
-          9
+          10
         ],
         "yellow": [
           1,
@@ -294,7 +306,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 4,
       "away": 0,
       "goals": [
