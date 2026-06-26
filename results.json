@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:43:43Z",
+  "updated": "2026-06-26T20:44:31Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 3,
       "goals": [
@@ -294,7 +294,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 4,
       "away": 0,
       "goals": [
@@ -337,6 +337,12 @@
           "player": "A. Seck",
           "minute": 18,
           "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Al Ammari",
+          "minute": 76,
+          "team": "IRQ",
           "color": "yellow"
         }
       ],
