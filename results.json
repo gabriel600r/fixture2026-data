@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:25:10Z",
+  "updated": "2026-06-26T20:25:58Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 3,
       "goals": [
@@ -264,7 +264,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 2,
       "away": 0,
       "goals": [
@@ -310,6 +310,24 @@
           "in": "J. Hassan",
           "minute": 46,
           "team": "IRQ"
+        },
+        {
+          "out": "H. Diarra",
+          "in": "P. Gueye",
+          "minute": 57,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Mbaye",
+          "in": "I. Ndiaye",
+          "minute": 58,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Camara",
+          "in": "N. Jackson",
+          "minute": 58,
+          "team": "SEN"
         }
       ],
       "stats": {
