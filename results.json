@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:47:19Z",
+  "updated": "2026-06-26T03:48:07Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -45,6 +45,18 @@
           "in": "José Canale",
           "minute": 84,
           "team": "PAR"
+        },
+        {
+          "out": "Jackson Irvine",
+          "in": "Paul Okon-Engstler",
+          "minute": 84,
+          "team": "AUS"
+        },
+        {
+          "out": "Nestory Irankunda",
+          "in": "Tete Yengi",
+          "minute": 84,
+          "team": "AUS"
         }
       ],
       "stats": {
@@ -232,7 +244,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 2,
       "away": 2,
       "goals": [
