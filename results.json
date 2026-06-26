@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:56:09Z",
+  "updated": "2026-06-26T03:56:57Z",
   "live": [
     {
       "id": 24,
@@ -71,7 +71,7 @@
           "team": "PAR"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           1,
@@ -82,8 +82,8 @@
           1
         ],
         "shotsTotal": [
-          6,
-          11
+          7,
+          12
         ],
         "possession": [
           43,
@@ -102,16 +102,16 @@
           0
         ],
         "shotsOn": [
-          1,
-          4
+          2,
+          5
         ],
         "fouls": [
           8,
           6
         ],
         "saves": [
-          4,
-          1
+          5,
+          2
         ],
         "home": "PAR",
         "away": "AUS"
@@ -355,11 +355,11 @@
           "team": "TUR"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           2,
-          3
+          4
         ],
         "yellow": [
           0,
@@ -367,7 +367,7 @@
         ],
         "shotsTotal": [
           7,
-          16
+          17
         ],
         "possession": [
           46,
