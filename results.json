@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:59:53Z",
+  "updated": "2026-06-26T21:00:42Z",
   "live": [
     {
       "id": 53,
@@ -457,14 +457,14 @@
           "team": "SEN"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           88,
           71
         ],
         "shotsTotal": [
-          25,
+          27,
           6
         ],
         "red": [
@@ -476,31 +476,31 @@
           0
         ],
         "shotsOutside": [
-          10,
+          11,
           5
         ],
         "shotsInside": [
-          15,
+          16,
           1
         ],
         "saves": [
           1,
-          4
+          6
         ],
         "passesTotal": [
-          549,
-          251
+          553,
+          258
         ],
         "passesAccurate": [
-          483,
-          179
+          487,
+          183
         ],
         "shotsOff": [
           11,
           1
         ],
         "shotsOn": [
-          9,
+          11,
           1
         ],
         "corners": [
@@ -516,12 +516,12 @@
           31
         ],
         "fouls": [
-          9,
-          9
+          10,
+          10
         ],
         "yellow": [
           2,
-          1
+          2
         ],
         "home": "SEN",
         "away": "IRQ"
