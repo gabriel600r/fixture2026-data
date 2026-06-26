@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:49:21Z",
+  "updated": "2026-06-26T20:50:11Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 3,
       "goals": [
@@ -127,12 +127,12 @@
           3
         ],
         "passesTotal": [
-          374,
-          461
+          384,
+          476
         ],
         "passesAccurate": [
-          309,
-          395
+          317,
+          408
         ],
         "shotsOff": [
           2,
@@ -143,7 +143,7 @@
           8
         ],
         "corners": [
-          3,
+          4,
           5
         ],
         "shotsBlocked": [
@@ -306,8 +306,8 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 82,
-      "home": 4,
+      "minute": 83,
+      "home": 5,
       "away": 0,
       "goals": [
         {
@@ -355,6 +355,12 @@
           "player": "A. Al Ammari",
           "minute": 75,
           "team": "IRQ",
+          "color": "yellow"
+        },
+        {
+          "player": "P. Gueye",
+          "minute": 81,
+          "team": "SEN",
           "color": "yellow"
         }
       ],
@@ -423,10 +429,10 @@
       "stats": {
         "passesPct": [
           87,
-          74
+          73
         ],
         "shotsTotal": [
-          20,
+          22,
           6
         ],
         "red": [
@@ -442,19 +448,19 @@
           5
         ],
         "shotsInside": [
-          12,
+          14,
           1
         ],
         "saves": [
           1,
-          2
+          4
         ],
         "passesTotal": [
-          434,
-          235
+          447,
+          238
         ],
         "passesAccurate": [
-          376,
+          387,
           174
         ],
         "shotsOff": [
@@ -462,11 +468,11 @@
           0
         ],
         "shotsOn": [
-          6,
+          8,
           1
         ],
         "corners": [
-          9,
+          11,
           3
         ],
         "shotsBlocked": [
@@ -474,8 +480,8 @@
           5
         ],
         "possession": [
-          65,
-          35
+          66,
+          34
         ],
         "fouls": [
           8,
