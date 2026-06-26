@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:54:32Z",
+  "updated": "2026-06-26T03:55:20Z",
   "live": [
     {
       "id": 24,
@@ -57,6 +57,18 @@
           "in": "Tete Yengi",
           "minute": 84,
           "team": "AUS"
+        },
+        {
+          "out": "Diego Gomez",
+          "in": "Damian Bobadilla",
+          "minute": 92,
+          "team": "PAR"
+        },
+        {
+          "out": "Matías Galarza",
+          "in": "Junior Alonso",
+          "minute": 92,
+          "team": "PAR"
         }
       ],
       "extra": 2,
@@ -328,6 +340,18 @@
           "out": "Orkun Kökçü",
           "in": "Kaan Ayhan",
           "minute": 88,
+          "team": "TUR"
+        },
+        {
+          "out": "Oğuz Aydın",
+          "in": "Mert Müldür",
+          "minute": 92,
+          "team": "TUR"
+        },
+        {
+          "out": "Baris Alper Yilmaz",
+          "in": "İrfan Can Kahveci",
+          "minute": 92,
           "team": "TUR"
         }
       ],
