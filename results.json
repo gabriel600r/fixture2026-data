@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:11:04Z",
+  "updated": "2026-06-26T03:11:52Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -33,15 +33,15 @@
           1
         ],
         "shotsTotal": [
-          1,
+          2,
           6
         ],
         "possession": [
-          37,
-          63
+          38,
+          62
         ],
         "shotsOff": [
-          1,
+          2,
           2
         ],
         "corners": [
@@ -208,9 +208,9 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Auston Trusty",
@@ -229,6 +229,11 @@
           "minute": 31,
           "team": "TUR",
           "assist": "Eren Elmalı"
+        },
+        {
+          "player": "Sebastian Berhalter",
+          "minute": 49,
+          "team": "USA"
         }
       ],
       "cardEvents": [
@@ -250,19 +255,19 @@
         ],
         "shotsTotal": [
           4,
-          8
+          9
         ],
         "possession": [
-          42,
-          58
+          41,
+          59
         ],
         "shotsOff": [
           0,
-          2
+          3
         ],
         "corners": [
           2,
-          5
+          6
         ],
         "red": [
           0,
