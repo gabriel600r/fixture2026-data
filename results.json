@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:17:21Z",
+  "updated": "2026-06-26T00:18:09Z",
   "live": [
     {
       "id": 35,
@@ -11,7 +11,8 @@
         {
           "player": "Daizen Maeda",
           "minute": 56,
-          "team": "JPN"
+          "team": "JPN",
+          "assist": "Ritsu Doan"
         }
       ],
       "cardEvents": [
@@ -225,7 +226,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
       "away": 2,
       "goals": [
@@ -262,8 +263,8 @@
           13
         ],
         "possession": [
-          29,
-          71
+          28,
+          72
         ],
         "shotsOff": [
           3,
@@ -283,7 +284,7 @@
         ],
         "fouls": [
           5,
-          6
+          7
         ],
         "offsides": [
           1,
