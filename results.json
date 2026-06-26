@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:24:21Z",
+  "updated": "2026-06-26T20:25:10Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 3,
       "goals": [
@@ -57,7 +57,7 @@
       ],
       "stats": {
         "passesPct": [
-          79,
+          78,
           86
         ],
         "shotsTotal": [
@@ -85,11 +85,11 @@
           2
         ],
         "passesTotal": [
-          247,
-          344
+          250,
+          346
         ],
         "passesAccurate": [
-          195,
+          196,
           297
         ],
         "shotsOff": [
@@ -264,7 +264,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 2,
       "away": 0,
       "goals": [
@@ -277,7 +277,8 @@
         {
           "player": "I. Sarr",
           "minute": 56,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "L. Camara"
         }
       ],
       "redCards": [
@@ -314,10 +315,10 @@
       "stats": {
         "passesPct": [
           84,
-          72
+          73
         ],
         "shotsTotal": [
-          12,
+          13,
           5
         ],
         "red": [
@@ -333,27 +334,27 @@
           5
         ],
         "shotsInside": [
-          7,
+          8,
           0
         ],
         "saves": [
-          0,
-          1
+          1,
+          2
         ],
         "passesTotal": [
-          289,
-          177
+          308,
+          188
         ],
         "passesAccurate": [
-          243,
-          128
+          260,
+          138
         ],
         "shotsOff": [
           9,
           0
         ],
         "shotsOn": [
-          2,
+          3,
           1
         ],
         "corners": [
@@ -369,7 +370,7 @@
           37
         ],
         "fouls": [
-          5,
+          6,
           5
         ],
         "yellow": [
@@ -512,7 +513,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Habib Diarra",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "SEN"
         }
       }
