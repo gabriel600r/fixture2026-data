@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:38:53Z",
+  "updated": "2026-06-26T20:39:41Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 3,
       "goals": [
@@ -288,8 +288,8 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 71,
-      "home": 3,
+      "minute": 72,
+      "home": 4,
       "away": 0,
       "goals": [
         {
@@ -309,6 +309,11 @@
           "minute": 59,
           "team": "SEN",
           "assist": "I. Sarr"
+        },
+        {
+          "player": "P. Gueye",
+          "minute": 71,
+          "team": "SEN"
         }
       ],
       "redCards": [
