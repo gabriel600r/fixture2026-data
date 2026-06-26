@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:04:39Z",
+  "updated": "2026-06-26T21:10:02Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -31,7 +31,7 @@
     },
     "78": {
       "home": "CIV",
-      "away": "TBD"
+      "away": "NOR"
     },
     "81": {
       "home": "USA",
@@ -39,6 +39,10 @@
     },
     "88": {
       "home": "AUS",
+      "away": "TBD"
+    },
+    "77": {
+      "home": "FRA",
       "away": "TBD"
     }
   },
