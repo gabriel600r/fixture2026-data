@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-26T19:08:28Z",
+  "updated": "2026-06-26T19:09:16Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "O. Dembele",
           "minute": 7,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "K. Mbappe"
         }
       ],
       "stats": {
@@ -218,14 +219,15 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "H. Diarra",
           "minute": 4,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "A. Seck"
         }
       ],
       "stats": {
