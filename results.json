@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:31:47Z",
+  "updated": "2026-06-26T02:32:35Z",
   "live": [
     {
       "id": 24,
@@ -206,7 +206,8 @@
         {
           "player": "Orkun Kökçü",
           "minute": 31,
-          "team": "TUR"
+          "team": "TUR",
+          "assist": "Eren Elmalı"
         }
       ],
       "cardEvents": [
@@ -227,12 +228,12 @@
           1
         ],
         "shotsTotal": [
-          1,
+          2,
           6
         ],
         "possession": [
-          41,
-          59
+          42,
+          58
         ],
         "shotsOff": [
           0,
@@ -247,7 +248,7 @@
           0
         ],
         "shotsOn": [
-          1,
+          2,
           3
         ],
         "fouls": [
