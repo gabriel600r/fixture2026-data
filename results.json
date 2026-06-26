@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:35:04Z",
+  "updated": "2026-06-26T00:35:52Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 1,
       "away": 1,
       "goals": [
@@ -53,6 +53,18 @@
           "in": "Junya Ito",
           "minute": 67,
           "team": "JPN"
+        },
+        {
+          "out": "Alexander Bernhardsson",
+          "in": "Daniel Svensson",
+          "minute": 75,
+          "team": "SWE"
+        },
+        {
+          "out": "Elliot Stroud",
+          "in": "Ken Sema",
+          "minute": 75,
+          "team": "SWE"
         }
       ],
       "stats": {
@@ -244,7 +256,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 3,
       "goals": [
@@ -327,19 +339,19 @@
           0
         ],
         "shotsTotal": [
-          6,
+          7,
           18
         ],
         "possession": [
-          27,
-          73
+          28,
+          72
         ],
         "shotsOff": [
           3,
           7
         ],
         "corners": [
-          2,
+          3,
           5
         ],
         "red": [
@@ -347,7 +359,7 @@
           0
         ],
         "shotsOn": [
-          3,
+          4,
           6
         ],
         "fouls": [
