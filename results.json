@@ -1,349 +1,6 @@
 {
-  "updated": "2026-06-26T21:03:53Z",
-  "live": [
-    {
-      "id": 54,
-      "status": "2H",
-      "minute": 90,
-      "home": 5,
-      "away": 0,
-      "goals": [
-        {
-          "player": "H. Diarra",
-          "minute": 4,
-          "team": "SEN",
-          "assist": "A. Seck"
-        },
-        {
-          "player": "I. Sarr",
-          "minute": 56,
-          "team": "SEN",
-          "assist": "L. Camara"
-        },
-        {
-          "player": "P. Gueye",
-          "minute": 59,
-          "team": "SEN",
-          "assist": "I. Sarr"
-        },
-        {
-          "player": "P. Gueye",
-          "minute": 71,
-          "team": "SEN",
-          "assist": "I. Ndiaye"
-        },
-        {
-          "player": "I. Ndiaye",
-          "minute": 82,
-          "team": "SEN",
-          "assist": "P. Gueye"
-        }
-      ],
-      "redCards": [
-        "R. Sulaka (Iraq) 13'"
-      ],
-      "cardEvents": [
-        {
-          "player": "R. Sulaka",
-          "minute": 13,
-          "team": "IRQ",
-          "color": "red"
-        },
-        {
-          "player": "A. Seck",
-          "minute": 18,
-          "team": "SEN",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Al Ammari",
-          "minute": 75,
-          "team": "IRQ",
-          "color": "yellow"
-        },
-        {
-          "player": "P. Gueye",
-          "minute": 81,
-          "team": "SEN",
-          "color": "yellow"
-        },
-        {
-          "player": "M. Doski",
-          "minute": 90,
-          "team": "IRQ",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "A. Qasem",
-          "in": "M. Younis",
-          "minute": 16,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Basil",
-          "in": "J. Hassan",
-          "minute": 46,
-          "team": "IRQ"
-        },
-        {
-          "out": "H. Diarra",
-          "in": "P. Gueye",
-          "minute": 57,
-          "team": "SEN"
-        },
-        {
-          "out": "I. Mbaye",
-          "in": "I. Ndiaye",
-          "minute": 57,
-          "team": "SEN"
-        },
-        {
-          "out": "L. Camara",
-          "in": "N. Jackson",
-          "minute": 57,
-          "team": "SEN"
-        },
-        {
-          "out": "A. Jasim",
-          "in": "A. Al Reeshawee",
-          "minute": 58,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Al Hamadi",
-          "in": "A. Yousif",
-          "minute": 58,
-          "team": "IRQ"
-        },
-        {
-          "out": "A. Seck",
-          "in": "P. Ciss",
-          "minute": 58,
-          "team": "SEN"
-        },
-        {
-          "out": "Z. Iqbal",
-          "in": "K. Yakob",
-          "minute": 67,
-          "team": "IRQ"
-        },
-        {
-          "out": "I. Sarr",
-          "in": "A. Diao",
-          "minute": 81,
-          "team": "SEN"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "passesPct": [
-          88,
-          70
-        ],
-        "shotsTotal": [
-          27,
-          6
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "offsides": [
-          1,
-          0
-        ],
-        "shotsOutside": [
-          11,
-          5
-        ],
-        "shotsInside": [
-          16,
-          1
-        ],
-        "saves": [
-          1,
-          6
-        ],
-        "passesTotal": [
-          574,
-          262
-        ],
-        "passesAccurate": [
-          505,
-          183
-        ],
-        "shotsOff": [
-          11,
-          1
-        ],
-        "shotsOn": [
-          11,
-          1
-        ],
-        "corners": [
-          12,
-          3
-        ],
-        "shotsBlocked": [
-          5,
-          4
-        ],
-        "possession": [
-          69,
-          31
-        ],
-        "fouls": [
-          10,
-          11
-        ],
-        "yellow": [
-          2,
-          2
-        ],
-        "home": "SEN",
-        "away": "IRQ"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Bouna Thiaw Pape",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Mory Diaw",
-                "pos": "G"
-              },
-              {
-                "n": 15,
-                "name": "Krépin Diatta",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Abdoulaye Seck",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Moussa Niakhaté",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Ismail Jakobs",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Habib Diarra",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Idrissa Gana Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Lamine Camara",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Ibrahim Mbaye",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "Ismaïla Sarr",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Sadio Mané",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Graham Arnold",
-            "xi": [
-              {
-                "n": 22,
-                "name": "Ahmed Basil",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Frans Putros",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Rebin Sulaka",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Akam Hashem",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Merchas Doski",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Zidane Iqbal",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Amir Al-Ammari",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ahmed Qasem",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Ali Jasim",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Ibrahim Bayesh",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Ali Al-Hamadi",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Anthony Taylor, England",
-        "motm": {
-          "player": "Pape Gueye",
-          "rating": 9.6,
-          "team": "SEN"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-26T21:04:39Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -15257,6 +14914,345 @@
       }
     },
     {
+      "id": 54,
+      "home": 5,
+      "away": 0,
+      "goals": [
+        {
+          "player": "H. Diarra",
+          "minute": 4,
+          "team": "SEN",
+          "assist": "A. Seck"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 56,
+          "team": "SEN",
+          "assist": "L. Camara"
+        },
+        {
+          "player": "P. Gueye",
+          "minute": 59,
+          "team": "SEN",
+          "assist": "I. Sarr"
+        },
+        {
+          "player": "P. Gueye",
+          "minute": 71,
+          "team": "SEN",
+          "assist": "I. Ndiaye"
+        },
+        {
+          "player": "I. Ndiaye",
+          "minute": 82,
+          "team": "SEN",
+          "assist": "P. Gueye"
+        }
+      ],
+      "redCards": [
+        "R. Sulaka (Iraq) 13'"
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Sulaka",
+          "minute": 13,
+          "team": "IRQ",
+          "color": "red"
+        },
+        {
+          "player": "A. Seck",
+          "minute": 18,
+          "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Al Ammari",
+          "minute": 75,
+          "team": "IRQ",
+          "color": "yellow"
+        },
+        {
+          "player": "P. Gueye",
+          "minute": 81,
+          "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Doski",
+          "minute": 90,
+          "team": "IRQ",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Qasem",
+          "in": "M. Younis",
+          "minute": 16,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Basil",
+          "in": "J. Hassan",
+          "minute": 46,
+          "team": "IRQ"
+        },
+        {
+          "out": "H. Diarra",
+          "in": "P. Gueye",
+          "minute": 57,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Mbaye",
+          "in": "I. Ndiaye",
+          "minute": 57,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Camara",
+          "in": "N. Jackson",
+          "minute": 57,
+          "team": "SEN"
+        },
+        {
+          "out": "A. Jasim",
+          "in": "A. Al Reeshawee",
+          "minute": 58,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Al Hamadi",
+          "in": "A. Yousif",
+          "minute": 58,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Seck",
+          "in": "P. Ciss",
+          "minute": 58,
+          "team": "SEN"
+        },
+        {
+          "out": "Z. Iqbal",
+          "in": "K. Yakob",
+          "minute": 67,
+          "team": "IRQ"
+        },
+        {
+          "out": "I. Sarr",
+          "in": "A. Diao",
+          "minute": 81,
+          "team": "SEN"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          88,
+          70
+        ],
+        "shotsTotal": [
+          27,
+          6
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "shotsOutside": [
+          11,
+          5
+        ],
+        "shotsInside": [
+          16,
+          1
+        ],
+        "saves": [
+          1,
+          6
+        ],
+        "passesTotal": [
+          574,
+          262
+        ],
+        "passesAccurate": [
+          505,
+          183
+        ],
+        "shotsOff": [
+          11,
+          1
+        ],
+        "shotsOn": [
+          11,
+          1
+        ],
+        "corners": [
+          12,
+          3
+        ],
+        "shotsBlocked": [
+          5,
+          4
+        ],
+        "possession": [
+          69,
+          31
+        ],
+        "fouls": [
+          10,
+          11
+        ],
+        "yellow": [
+          2,
+          2
+        ],
+        "home": "SEN",
+        "away": "IRQ"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Bouna Thiaw Pape",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mory Diaw",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Krépin Diatta",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Abdoulaye Seck",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Moussa Niakhaté",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Ismail Jakobs",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Habib Diarra",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Lamine Camara",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ibrahim Mbaye",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Ismaïla Sarr",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Graham Arnold",
+            "xi": [
+              {
+                "n": 22,
+                "name": "Ahmed Basil",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Frans Putros",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Rebin Sulaka",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Akam Hashem",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Merchas Doski",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Zidane Iqbal",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Amir Al-Ammari",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ahmed Qasem",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Ali Jasim",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Ibrahim Bayesh",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Ali Al-Hamadi",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Anthony Taylor, England",
+        "motm": {
+          "player": "Pape Gueye",
+          "rating": 9.6,
+          "team": "SEN"
+        }
+      }
+    },
+    {
       "id": 55,
       "home": 3,
       "away": 0,
@@ -18855,6 +18851,12 @@
         "assists": 2
       },
       {
+        "player": "I. Sarr",
+        "team": "SEN",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "player": "Ismael Saibari",
         "team": "MAR",
         "goals": 3
@@ -18946,11 +18948,6 @@
         "goals": 2
       },
       {
-        "player": "I. Sarr",
-        "team": "SEN",
-        "goals": 2
-      },
-      {
         "player": "Julián Quiñones",
         "team": "MEX",
         "goals": 2
@@ -18973,8 +18970,8 @@
         "goals": 2
       },
       {
-        "player": "R. Vargas",
-        "team": "SUI",
+        "player": "P. Gueye",
+        "team": "SEN",
         "goals": 2,
         "assists": 1
       }
@@ -19032,6 +19029,12 @@
         "player": "Hannibal Mejbri",
         "team": "TUN",
         "assists": 2
+      },
+      {
+        "player": "I. Ndiaye",
+        "team": "SEN",
+        "assists": 2,
+        "goals": 1
       },
       {
         "player": "J. Kimmich",
@@ -19114,6 +19117,11 @@
         "assists": 1
       },
       {
+        "player": "A. Seck",
+        "team": "SEN",
+        "assists": 1
+      },
+      {
         "player": "A. Sojka",
         "team": "CZE",
         "assists": 1
@@ -19128,17 +19136,6 @@
         "team": "JPN",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "player": "B. Barcola",
-        "team": "FRA",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "player": "B. Fernandes",
-        "team": "POR",
-        "assists": 1
       }
     ],
     "cards": [
@@ -19169,6 +19166,12 @@
       {
         "player": "N. Ngoy",
         "team": "BEL",
+        "red": 1,
+        "yellow": 0
+      },
+      {
+        "player": "R. Sulaka",
+        "team": "IRQ",
         "red": 1,
         "yellow": 0
       },
@@ -19225,6 +19228,12 @@
         "team": "RSA",
         "red": 0,
         "yellow": 2
+      },
+      {
+        "player": "A. Al Ammari",
+        "team": "IRQ",
+        "red": 0,
+        "yellow": 1
       },
       {
         "player": "A. Al Amri",
@@ -19287,6 +19296,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Seck",
+        "team": "SEN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Tchouameni",
         "team": "FRA",
         "red": 0,
@@ -19301,24 +19316,6 @@
       {
         "player": "Aleksandar Pavlović",
         "team": "GER",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Alex Arce",
-        "team": "PAR",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Amir Al-Ammari",
-        "team": "IRQ",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "B. Silva",
-        "team": "POR",
         "red": 0,
         "yellow": 1
       }
@@ -19676,6 +19673,20 @@
       "form": "LWD"
     },
     {
+      "code": "SEN",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "loses": 2,
+      "gf": 8,
+      "ga": 6,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "5-0",
+      "biggestLose": "1-3",
+      "form": "LLW"
+    },
+    {
       "code": "AUT",
       "played": 2,
       "wins": 1,
@@ -19914,20 +19925,6 @@
       "form": "LL"
     },
     {
-      "code": "SEN",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "loses": 2,
-      "gf": 3,
-      "ga": 6,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-3",
-      "form": "LL"
-    },
-    {
       "code": "JOR",
       "played": 2,
       "wins": 0,
@@ -19956,20 +19953,6 @@
       "form": "LLL"
     },
     {
-      "code": "IRQ",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "loses": 2,
-      "gf": 1,
-      "ga": 7,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "1-4",
-      "form": "LL"
-    },
-    {
       "code": "UZB",
       "played": 2,
       "wins": 0,
@@ -19995,6 +19978,20 @@
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "1-5",
+      "form": "LLL"
+    },
+    {
+      "code": "IRQ",
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "loses": 3,
+      "gf": 1,
+      "ga": 12,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "0-5",
       "form": "LLL"
     }
   ],
