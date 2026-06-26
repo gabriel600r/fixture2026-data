@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:46:58Z",
+  "updated": "2026-06-26T02:47:46Z",
   "live": [
     {
       "id": 24,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           0,
@@ -22,8 +22,8 @@
           4
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "shotsOff": [
           1,
@@ -46,7 +46,7 @@
           3
         ],
         "saves": [
-          2,
+          3,
           0
         ],
         "home": "PAR",
@@ -219,7 +219,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           2,
