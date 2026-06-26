@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:43:03Z",
+  "updated": "2026-06-26T00:43:51Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 1,
       "goals": [
@@ -99,15 +99,15 @@
           8
         ],
         "possession": [
-          53,
-          47
+          54,
+          46
         ],
         "shotsOff": [
           2,
           2
         ],
         "corners": [
-          1,
+          2,
           7
         ],
         "red": [
@@ -274,7 +274,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 1,
       "away": 3,
       "goals": [
@@ -350,6 +350,12 @@
           "out": "Brian Brobbey",
           "in": "Memphis Depay",
           "minute": 77,
+          "team": "NED"
+        },
+        {
+          "out": "Cody Gakpo",
+          "in": "Noa Lang",
+          "minute": 84,
           "team": "NED"
         }
       ],
