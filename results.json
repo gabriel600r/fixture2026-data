@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:26:08Z",
+  "updated": "2026-06-26T00:26:56Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -232,7 +232,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 3,
       "goals": [
@@ -261,6 +261,14 @@
           "assist": "Tijjani Reijnders"
         }
       ],
+      "subs": [
+        {
+          "out": "Rani Khedira",
+          "in": "Mohamed Hadj Mahmoud",
+          "minute": 67,
+          "team": "TUN"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           0,
@@ -272,7 +280,7 @@
         ],
         "shotsTotal": [
           6,
-          15
+          17
         ],
         "possession": [
           28,
@@ -280,7 +288,7 @@
         ],
         "shotsOff": [
           3,
-          5
+          7
         ],
         "corners": [
           2,
