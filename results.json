@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-26T19:22:13Z",
+  "updated": "2026-06-26T19:23:03Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 21,
-      "home": 0,
+      "minute": 22,
+      "home": 1,
       "away": 2,
       "goals": [
         {
@@ -19,6 +19,11 @@
           "minute": 20,
           "team": "FRA",
           "assist": "K. Mbappe"
+        },
+        {
+          "player": "T. Aasgaard",
+          "minute": 21,
+          "team": "NOR"
         }
       ],
       "cardEvents": [
@@ -233,7 +238,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 1,
       "away": 0,
       "goals": [
