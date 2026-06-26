@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:22:56Z",
+  "updated": "2026-06-26T00:23:44Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "Anthony Elanga",
           "minute": 62,
-          "team": "SWE"
+          "team": "SWE",
+          "assist": "Viktor Gyökeres"
         }
       ],
       "cardEvents": [
@@ -53,7 +54,7 @@
         ],
         "shotsTotal": [
           7,
-          3
+          4
         ],
         "possession": [
           55,
@@ -73,7 +74,7 @@
         ],
         "shotsOn": [
           3,
-          1
+          2
         ],
         "fouls": [
           12,
@@ -263,7 +264,7 @@
       "stats": {
         "shotsBlocked": [
           0,
-          6
+          5
         ],
         "yellow": [
           0,
@@ -291,7 +292,7 @@
         ],
         "shotsOn": [
           2,
-          4
+          5
         ],
         "fouls": [
           6,
