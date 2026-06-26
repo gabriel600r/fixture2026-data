@@ -1,327 +1,6 @@
 {
-  "updated": "2026-06-26T21:00:42Z",
+  "updated": "2026-06-26T21:00:43Z",
   "live": [
-    {
-      "id": 53,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 4,
-      "goals": [
-        {
-          "player": "O. Dembele",
-          "minute": 7,
-          "team": "FRA",
-          "assist": "K. Mbappe"
-        },
-        {
-          "player": "O. Dembele",
-          "minute": 20,
-          "team": "FRA",
-          "assist": "K. Mbappe"
-        },
-        {
-          "player": "T. Aasgaard",
-          "minute": 21,
-          "team": "NOR",
-          "assist": "A. Schjelderup"
-        },
-        {
-          "player": "O. Dembele",
-          "minute": 32,
-          "team": "FRA",
-          "assist": "A. Tchouameni"
-        },
-        {
-          "player": "D. Doue",
-          "minute": 90,
-          "team": "FRA",
-          "assist": "B. Barcola"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "P. Berg",
-          "minute": 10,
-          "team": "NOR",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Tchouameni",
-          "minute": 74,
-          "team": "FRA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "F. Bjorkan",
-          "in": "M. Pedersen",
-          "minute": 46,
-          "team": "NOR"
-        },
-        {
-          "out": "K. Thorstvedt",
-          "in": "M. Thorsby",
-          "minute": 46,
-          "team": "NOR"
-        },
-        {
-          "out": "M. Olise",
-          "in": "R. Cherki",
-          "minute": 65,
-          "team": "FRA"
-        },
-        {
-          "out": "O. Dembele",
-          "in": "B. Barcola",
-          "minute": 65,
-          "team": "FRA"
-        },
-        {
-          "out": "H. Falchener",
-          "in": "S. Langas",
-          "minute": 66,
-          "team": "NOR"
-        },
-        {
-          "out": "D. Upamecano",
-          "in": "I. Konate",
-          "minute": 76,
-          "team": "FRA"
-        },
-        {
-          "out": "A. Schjelderup",
-          "in": "A. Nusa",
-          "minute": 83,
-          "team": "NOR"
-        },
-        {
-          "out": "O. Bobb",
-          "in": "J. Hauge",
-          "minute": 83,
-          "team": "NOR"
-        },
-        {
-          "out": "J. Kounde",
-          "in": "M. Gusto",
-          "minute": 87,
-          "team": "FRA"
-        },
-        {
-          "out": "K. Mbappe",
-          "in": "J. Mateta",
-          "minute": 87,
-          "team": "FRA"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "passesPct": [
-          82,
-          86
-        ],
-        "shotsTotal": [
-          10,
-          17
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          1,
-          2
-        ],
-        "shotsOutside": [
-          4,
-          8
-        ],
-        "shotsInside": [
-          6,
-          9
-        ],
-        "saves": [
-          5,
-          3
-        ],
-        "passesTotal": [
-          409,
-          545
-        ],
-        "passesAccurate": [
-          335,
-          470
-        ],
-        "shotsOff": [
-          3,
-          6
-        ],
-        "shotsOn": [
-          4,
-          8
-        ],
-        "corners": [
-          4,
-          5
-        ],
-        "shotsBlocked": [
-          3,
-          3
-        ],
-        "possession": [
-          43,
-          57
-        ],
-        "fouls": [
-          9,
-          10
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "home": "NOR",
-        "away": "FRA"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Stale Solbakken",
-            "xi": [
-              {
-                "n": 13,
-                "name": "Egil Selvik",
-                "pos": "G"
-              },
-              {
-                "n": 14,
-                "name": "Fredrik Aursnes",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Henrik Sælebakke Falchener",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Leo Østigård",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Fredrik André Bjørkan",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Kristian Thorstvedt",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Patrick Berg",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Thelo Aasgaard",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Oscar Bobb",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Jørgen Strand Larsen",
-                "pos": "F"
-              },
-              {
-                "n": 21,
-                "name": "Andreas Schjelderup",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Didier Deschamps",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Mike Maignan",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Jules Koundé",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Dayot Upamecano",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Maxence Lacroix",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Theo Hernández",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Aurélien Tchouaméni",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Manu Koné",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Ousmane Dembélé",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Michael Olise",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Désiré Doué",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Kylian Mbappé",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Michael Oliver, England",
-        "motm": {
-          "player": "Ousmane Dembélé",
-          "rating": 10.0,
-          "team": "FRA"
-        }
-      }
-    },
     {
       "id": 54,
       "status": "2H",
@@ -15260,6 +14939,324 @@
       }
     },
     {
+      "id": 53,
+      "home": 1,
+      "away": 4,
+      "goals": [
+        {
+          "player": "O. Dembele",
+          "minute": 7,
+          "team": "FRA",
+          "assist": "K. Mbappe"
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 20,
+          "team": "FRA",
+          "assist": "K. Mbappe"
+        },
+        {
+          "player": "T. Aasgaard",
+          "minute": 21,
+          "team": "NOR",
+          "assist": "A. Schjelderup"
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 32,
+          "team": "FRA",
+          "assist": "A. Tchouameni"
+        },
+        {
+          "player": "D. Doue",
+          "minute": 90,
+          "team": "FRA",
+          "assist": "B. Barcola"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "P. Berg",
+          "minute": 10,
+          "team": "NOR",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Tchouameni",
+          "minute": 74,
+          "team": "FRA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "F. Bjorkan",
+          "in": "M. Pedersen",
+          "minute": 46,
+          "team": "NOR"
+        },
+        {
+          "out": "K. Thorstvedt",
+          "in": "M. Thorsby",
+          "minute": 46,
+          "team": "NOR"
+        },
+        {
+          "out": "M. Olise",
+          "in": "R. Cherki",
+          "minute": 65,
+          "team": "FRA"
+        },
+        {
+          "out": "O. Dembele",
+          "in": "B. Barcola",
+          "minute": 65,
+          "team": "FRA"
+        },
+        {
+          "out": "H. Falchener",
+          "in": "S. Langas",
+          "minute": 66,
+          "team": "NOR"
+        },
+        {
+          "out": "D. Upamecano",
+          "in": "I. Konate",
+          "minute": 76,
+          "team": "FRA"
+        },
+        {
+          "out": "A. Schjelderup",
+          "in": "A. Nusa",
+          "minute": 83,
+          "team": "NOR"
+        },
+        {
+          "out": "O. Bobb",
+          "in": "J. Hauge",
+          "minute": 83,
+          "team": "NOR"
+        },
+        {
+          "out": "J. Kounde",
+          "in": "M. Gusto",
+          "minute": 87,
+          "team": "FRA"
+        },
+        {
+          "out": "K. Mbappe",
+          "in": "J. Mateta",
+          "minute": 87,
+          "team": "FRA"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          82,
+          86
+        ],
+        "shotsTotal": [
+          10,
+          17
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          1,
+          2
+        ],
+        "shotsOutside": [
+          4,
+          8
+        ],
+        "shotsInside": [
+          6,
+          9
+        ],
+        "saves": [
+          5,
+          3
+        ],
+        "passesTotal": [
+          409,
+          545
+        ],
+        "passesAccurate": [
+          335,
+          470
+        ],
+        "shotsOff": [
+          3,
+          6
+        ],
+        "shotsOn": [
+          4,
+          8
+        ],
+        "corners": [
+          4,
+          5
+        ],
+        "shotsBlocked": [
+          3,
+          3
+        ],
+        "possession": [
+          43,
+          57
+        ],
+        "fouls": [
+          9,
+          10
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "home": "NOR",
+        "away": "FRA"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Stale Solbakken",
+            "xi": [
+              {
+                "n": 13,
+                "name": "Egil Selvik",
+                "pos": "G"
+              },
+              {
+                "n": 14,
+                "name": "Fredrik Aursnes",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Henrik Sælebakke Falchener",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Leo Østigård",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Fredrik André Bjørkan",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Kristian Thorstvedt",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Patrick Berg",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Thelo Aasgaard",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Oscar Bobb",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Jørgen Strand Larsen",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Andreas Schjelderup",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Didier Deschamps",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Mike Maignan",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Jules Koundé",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Dayot Upamecano",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Maxence Lacroix",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Theo Hernández",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Aurélien Tchouaméni",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Manu Koné",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Ousmane Dembélé",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Olise",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Désiré Doué",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Kylian Mbappé",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Michael Oliver, England",
+        "motm": {
+          "player": "Ousmane Dembélé",
+          "rating": 10.0,
+          "team": "FRA"
+        }
+      }
+    },
+    {
       "id": 55,
       "home": 3,
       "away": 0,
@@ -18831,7 +18828,14 @@
       {
         "player": "Kylian Mbappé",
         "team": "FRA",
-        "goals": 4
+        "goals": 4,
+        "assists": 2
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "FRA",
+        "goals": 4,
+        "assists": 1
       },
       {
         "player": "Vinícius",
@@ -18973,11 +18977,6 @@
         "team": "SUI",
         "goals": 2,
         "assists": 1
-      },
-      {
-        "player": "Y. Ayari",
-        "team": "SWE",
-        "goals": 2
       }
     ],
     "assists": [
@@ -19045,6 +19044,12 @@
         "assists": 2
       },
       {
+        "player": "Kylian Mbappé",
+        "team": "FRA",
+        "assists": 2,
+        "goals": 4
+      },
+      {
         "player": "M. Odegaard",
         "team": "NOR",
         "assists": 2
@@ -19104,8 +19109,18 @@
         "assists": 1
       },
       {
+        "player": "A. Schjelderup",
+        "team": "NOR",
+        "assists": 1
+      },
+      {
         "player": "A. Sojka",
         "team": "CZE",
+        "assists": 1
+      },
+      {
+        "player": "A. Tchouameni",
+        "team": "FRA",
         "assists": 1
       },
       {
@@ -19115,31 +19130,15 @@
         "goals": 2
       },
       {
-        "player": "B. Fernandes",
-        "team": "POR",
-        "assists": 1
-      },
-      {
-        "player": "B. Saka",
-        "team": "ENG",
-        "assists": 1
-      },
-      {
-        "player": "B. Thomas-Asante",
-        "team": "GHA",
-        "assists": 1
-      },
-      {
-        "player": "Baris Alper Yilmaz",
-        "team": "TUR",
+        "player": "B. Barcola",
+        "team": "FRA",
         "assists": 1,
         "goals": 1
       },
       {
-        "player": "C. Gakpo",
-        "team": "NED",
-        "assists": 1,
-        "goals": 2
+        "player": "B. Fernandes",
+        "team": "POR",
+        "assists": 1
       }
     ],
     "cards": [
@@ -19288,6 +19287,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Tchouameni",
+        "team": "FRA",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "Alan Franco",
         "team": "ECU",
         "red": 0,
@@ -19316,16 +19321,24 @@
         "team": "POR",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "Brian Gutiérrez",
-        "team": "MEX",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
   "teamStats": [
+    {
+      "code": "FRA",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "loses": 0,
+      "gf": 10,
+      "ga": 2,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWW"
+    },
     {
       "code": "MEX",
       "played": 3,
@@ -19411,20 +19424,6 @@
       "form": "WWL"
     },
     {
-      "code": "FRA",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 6,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WW"
-    },
-    {
       "code": "ARG",
       "played": 2,
       "wins": 2,
@@ -19453,20 +19452,6 @@
       "form": "WWL"
     },
     {
-      "code": "NOR",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 7,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "WW"
-    },
-    {
       "code": "COL",
       "played": 2,
       "wins": 2,
@@ -19493,6 +19478,20 @@
       "biggestWin": "2-0",
       "biggestLose": "1-2",
       "form": "WLW"
+    },
+    {
+      "code": "NOR",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "loses": 1,
+      "gf": 8,
+      "ga": 7,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "1-4",
+      "form": "WWL"
     },
     {
       "code": "JPN",
