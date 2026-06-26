@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:20:46Z",
+  "updated": "2026-06-26T03:21:34Z",
   "live": [
     {
       "id": 24,
@@ -37,8 +37,8 @@
           6
         ],
         "possession": [
-          38,
-          62
+          40,
+          60
         ],
         "shotsOff": [
           3,
@@ -208,7 +208,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 2,
       "away": 2,
       "goals": [
