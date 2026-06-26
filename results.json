@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:33:13Z",
+  "updated": "2026-06-26T20:34:03Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 3,
       "goals": [
@@ -76,7 +76,7 @@
       "stats": {
         "passesPct": [
           79,
-          86
+          85
         ],
         "shotsTotal": [
           7,
@@ -100,22 +100,22 @@
         ],
         "saves": [
           5,
-          3
+          2
         ],
         "passesTotal": [
-          274,
-          394
+          277,
+          399
         ],
         "passesAccurate": [
-          217,
-          337
+          218,
+          340
         ],
         "shotsOff": [
           2,
           5
         ],
         "shotsOn": [
-          4,
+          3,
           8
         ],
         "corners": [
@@ -123,7 +123,7 @@
           4
         ],
         "shotsBlocked": [
-          1,
+          2,
           3
         ],
         "possession": [
@@ -131,7 +131,7 @@
           59
         ],
         "fouls": [
-          7,
+          8,
           8
         ],
         "yellow": [
@@ -282,7 +282,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 3,
       "away": 0,
       "goals": [
@@ -374,7 +374,7 @@
       ],
       "stats": {
         "passesPct": [
-          84,
+          85,
           73
         ],
         "shotsTotal": [
@@ -402,12 +402,12 @@
           2
         ],
         "passesTotal": [
-          317,
-          198
+          331,
+          200
         ],
         "passesAccurate": [
-          267,
-          144
+          281,
+          146
         ],
         "shotsOff": [
           10,
@@ -418,7 +418,7 @@
           1
         ],
         "corners": [
-          6,
+          9,
           3
         ],
         "shotsBlocked": [
@@ -426,8 +426,8 @@
           4
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "fouls": [
           7,
