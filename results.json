@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-26T03:09:26Z",
+  "updated": "2026-06-26T03:10:15Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Jackson Irvine",
+          "minute": 46,
+          "team": "AUS",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "Alexandro Maidana",
@@ -22,7 +30,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           1,
@@ -50,7 +58,7 @@
         ],
         "fouls": [
           5,
-          4
+          5
         ],
         "saves": [
           3,
