@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:22:22Z",
+  "updated": "2026-06-26T03:23:11Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -266,8 +266,8 @@
           9
         ],
         "possession": [
-          42,
-          58
+          43,
+          57
         ],
         "shotsOff": [
           0,
@@ -275,7 +275,7 @@
         ],
         "corners": [
           2,
-          6
+          7
         ],
         "red": [
           0,
