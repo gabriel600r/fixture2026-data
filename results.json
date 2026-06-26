@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:03:06Z",
+  "updated": "2026-06-26T21:03:53Z",
   "live": [
     {
       "id": 54,
@@ -136,11 +136,11 @@
           "team": "SEN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesPct": [
           88,
-          71
+          70
         ],
         "shotsTotal": [
           27,
@@ -167,11 +167,11 @@
           6
         ],
         "passesTotal": [
-          553,
-          258
+          574,
+          262
         ],
         "passesAccurate": [
-          487,
+          505,
           183
         ],
         "shotsOff": [
@@ -196,7 +196,7 @@
         ],
         "fouls": [
           10,
-          10
+          11
         ],
         "yellow": [
           2,
