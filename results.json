@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:06:04Z",
+  "updated": "2026-06-26T02:06:52Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,8 +17,8 @@
           1
         ],
         "possession": [
-          28,
-          72
+          26,
+          74
         ],
         "shotsOff": [
           0,
@@ -31,6 +31,10 @@
         "red": [
           0,
           0
+        ],
+        "fouls": [
+          0,
+          1
         ],
         "shotsOn": [
           0,
@@ -179,14 +183,15 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "Auston Trusty",
           "minute": 3,
-          "team": "USA"
+          "team": "USA",
+          "assist": "Sebastian Berhalter"
         }
       ],
       "stats": {
@@ -203,8 +208,8 @@
           3
         ],
         "possession": [
-          29,
-          71
+          37,
+          63
         ],
         "shotsOff": [
           0,
