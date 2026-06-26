@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:02:03Z",
+  "updated": "2026-06-26T02:02:51Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
       "stats": {
@@ -12,13 +12,13 @@
           0,
           0
         ],
-        "possession": [
-          52,
-          48
-        ],
         "yellow": [
           0,
           0
+        ],
+        "possession": [
+          46,
+          54
         ],
         "shotsTotal": [
           0,
@@ -179,25 +179,25 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
       "stats": {
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "yellow": [
           0,
           0
         ],
-        "possession": [
-          54,
-          46
-        ],
         "shotsTotal": [
           0,
-          0
+          1
+        ],
+        "possession": [
+          6,
+          94
         ],
         "shotsOff": [
           0,
@@ -205,7 +205,7 @@
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "red": [
           0,
