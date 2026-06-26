@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:13:29Z",
+  "updated": "2026-06-26T03:14:17Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -424,9 +424,9 @@
         },
         "referee": "M. Ghorbal",
         "motm": {
-          "player": "A. Güler",
-          "rating": 7.43,
-          "team": "TUR"
+          "player": "S. Berhalter",
+          "rating": 9.0,
+          "team": "USA"
         }
       }
     }
