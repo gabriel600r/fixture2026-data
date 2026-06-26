@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:13:21Z",
+  "updated": "2026-06-26T00:14:08Z",
   "live": [
     {
       "id": 35,
@@ -31,7 +31,7 @@
       ],
       "stats": {
         "shotsBlocked": [
-          1,
+          2,
           1
         ],
         "yellow": [
@@ -39,7 +39,7 @@
           1
         ],
         "shotsTotal": [
-          5,
+          6,
           3
         ],
         "possession": [
@@ -67,7 +67,7 @@
           7
         ],
         "offsides": [
-          2,
+          3,
           1
         ],
         "saves": [
@@ -218,7 +218,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 2,
       "goals": [
@@ -233,6 +233,11 @@
           "minute": 7,
           "team": "NED",
           "assist": "Virgil van Dijk"
+        },
+        {
+          "player": "Hazem Mastouri",
+          "minute": 54,
+          "team": "TUN"
         }
       ],
       "stats": {
@@ -245,12 +250,12 @@
           0
         ],
         "shotsTotal": [
-          4,
+          5,
           13
         ],
         "possession": [
-          29,
-          71
+          30,
+          70
         ],
         "shotsOff": [
           3,
@@ -265,7 +270,7 @@
           0
         ],
         "shotsOn": [
-          1,
+          2,
           3
         ],
         "fouls": [
