@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:31:02Z",
+  "updated": "2026-06-26T00:31:50Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 1,
       "goals": [
@@ -291,6 +291,24 @@
           "in": "Mortadha Ben Ouanes",
           "minute": 68,
           "team": "TUN"
+        },
+        {
+          "out": "Frenkie de Jong",
+          "in": "Teun Koopmeiners",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Tijjani Reijnders",
+          "in": "Justin Kluivert",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Donyell Malen",
+          "in": "Crysencio Summerville",
+          "minute": 72,
+          "team": "NED"
         }
       ],
       "stats": {
