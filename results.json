@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:35:39Z",
+  "updated": "2026-06-26T20:36:27Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 1,
       "away": 3,
       "goals": [
@@ -282,7 +282,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 3,
       "away": 0,
       "goals": [
@@ -370,12 +370,18 @@
           "in": "P. Ciss",
           "minute": 58,
           "team": "SEN"
+        },
+        {
+          "out": "Z. Iqbal",
+          "in": "K. Yakob",
+          "minute": 67,
+          "team": "IRQ"
         }
       ],
       "stats": {
         "passesPct": [
-          85,
-          73
+          86,
+          74
         ],
         "shotsTotal": [
           16,
@@ -402,12 +408,12 @@
           2
         ],
         "passesTotal": [
-          331,
-          200
+          359,
+          219
         ],
         "passesAccurate": [
-          281,
-          146
+          308,
+          163
         ],
         "shotsOff": [
           10,
@@ -572,8 +578,8 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Ismaïla Sarr",
-          "rating": 7.5,
+          "player": "Pape Gueye",
+          "rating": 7.7,
           "team": "SEN"
         }
       }
