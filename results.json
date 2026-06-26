@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:46:08Z",
+  "updated": "2026-06-26T20:46:56Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 3,
       "goals": [
@@ -294,7 +294,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 4,
       "away": 0,
       "goals": [
@@ -603,7 +603,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Pape Gueye",
-          "rating": 8.9,
+          "rating": 9.2,
           "team": "SEN"
         }
       }
