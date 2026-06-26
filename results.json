@@ -1,12 +1,48 @@
 {
-  "updated": "2026-06-26T02:01:13Z",
+  "updated": "2026-06-26T02:02:03Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
+      "stats": {
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "possession": [
+          52,
+          48
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "home": "PAR",
+        "away": "AUS"
+      },
       "extras": {
         "pred": {
           "home": 10,
@@ -143,7 +179,7 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
       "stats": {
