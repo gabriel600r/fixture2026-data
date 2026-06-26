@@ -1,177 +1,12 @@
 {
-  "updated": "2026-06-26T01:26:06Z",
-  "live": [],
-  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
-  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
-  "min_version": "1.9.38",
-  "brackets": {
-    "73": {
-      "home": "RSA",
-      "away": "CAN"
-    },
-    "85": {
-      "home": "SUI",
-      "away": "TBD"
-    },
-    "75": {
-      "home": "NED",
-      "away": "MAR"
-    },
-    "76": {
-      "home": "BRA",
-      "away": "JPN"
-    },
-    "79": {
-      "home": "MEX",
-      "away": "TBD"
-    },
-    "74": {
-      "home": "GER",
-      "away": "TBD"
-    },
-    "78": {
-      "home": "CIV",
-      "away": "TBD"
-    }
-  },
-  "prematch": [
-    {
-      "id": 23,
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "V. Montella",
-            "xi": [
-              {
-                "n": 23,
-                "name": "U. Çakır",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Z. Çelik",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "O. Kabak",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "A. Bardakcı",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "E. Elmalı",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "O. Kökçü",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "S. Özcan",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "O. Aydın",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "A. Güler",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "K. Yıldız",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "B. Yılmaz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-2-3",
-            "coach": "M. Pochettino",
-            "xi": [
-              {
-                "n": 1,
-                "name": "M. Turner",
-                "pos": "G"
-              },
-              {
-                "n": 23,
-                "name": "J. Scally",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "M. McKenzie",
-                "pos": "D"
-              },
-              {
-                "n": 12,
-                "name": "M. Robinson",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "A. Trusty",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "W. McKennie",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "S. Berhalter",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "G. Reyna",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "T. Weah",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "R. Pepi",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "B. Aaronson",
-                "pos": "M"
-              }
-            ]
-          }
-        },
-        "referee": "M. Ghorbal"
-      }
-    },
+  "updated": "2026-06-26T02:01:13Z",
+  "live": [
     {
       "id": 24,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "pred": {
           "home": 10,
@@ -304,8 +139,217 @@
         },
         "referee": "C. Turpin"
       }
+    },
+    {
+      "id": 23,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
+      "stats": {
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "possession": [
+          54,
+          46
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "home": "TUR",
+        "away": "USA"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "V. Montella",
+            "xi": [
+              {
+                "n": 23,
+                "name": "U. Çakır",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Z. Çelik",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "O. Kabak",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "A. Bardakcı",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "E. Elmalı",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "O. Kökçü",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "S. Özcan",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "O. Aydın",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "A. Güler",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "K. Yıldız",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "B. Yılmaz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-2-3",
+            "coach": "M. Pochettino",
+            "xi": [
+              {
+                "n": 1,
+                "name": "M. Turner",
+                "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "J. Scally",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "M. McKenzie",
+                "pos": "D"
+              },
+              {
+                "n": 12,
+                "name": "M. Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "A. Trusty",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "W. McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "S. Berhalter",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "G. Reyna",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "T. Weah",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "R. Pepi",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "B. Aaronson",
+                "pos": "M"
+              }
+            ]
+          }
+        },
+        "referee": "M. Ghorbal"
+      }
     }
   ],
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.38",
+  "brackets": {
+    "73": {
+      "home": "RSA",
+      "away": "CAN"
+    },
+    "85": {
+      "home": "SUI",
+      "away": "TBD"
+    },
+    "75": {
+      "home": "NED",
+      "away": "MAR"
+    },
+    "76": {
+      "home": "BRA",
+      "away": "JPN"
+    },
+    "79": {
+      "home": "MEX",
+      "away": "TBD"
+    },
+    "74": {
+      "home": "GER",
+      "away": "TBD"
+    },
+    "78": {
+      "home": "CIV",
+      "away": "TBD"
+    }
+  },
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
