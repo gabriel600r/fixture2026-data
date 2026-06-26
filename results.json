@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:26:56Z",
+  "updated": "2026-06-26T00:27:44Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 1,
       "away": 1,
       "goals": [
@@ -40,6 +40,18 @@
           "out": "Ko Itakura",
           "in": "Shogo Taniguchi",
           "minute": 39,
+          "team": "JPN"
+        },
+        {
+          "out": "Ayase Ueda",
+          "in": "Koki Ogawa",
+          "minute": 66,
+          "team": "JPN"
+        },
+        {
+          "out": "Ritsu Doan",
+          "in": "Junya Ito",
+          "minute": 67,
           "team": "JPN"
         }
       ],
@@ -78,7 +90,7 @@
         ],
         "fouls": [
           14,
-          7
+          8
         ],
         "offsides": [
           3,
@@ -266,6 +278,18 @@
           "out": "Rani Khedira",
           "in": "Mohamed Hadj Mahmoud",
           "minute": 67,
+          "team": "TUN"
+        },
+        {
+          "out": "Anis Ben Slimane",
+          "in": "Elias Achouri",
+          "minute": 68,
+          "team": "TUN"
+        },
+        {
+          "out": "Mohamed Amine Ben Hamida",
+          "in": "Mortadha Ben Ouanes",
+          "minute": 68,
           "team": "TUN"
         }
       ],
