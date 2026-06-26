@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:13:06Z",
+  "updated": "2026-06-26T20:13:54Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 1,
       "away": 3,
       "goals": [
@@ -57,7 +57,7 @@
       ],
       "stats": {
         "passesPct": [
-          76,
+          77,
           88
         ],
         "shotsTotal": [
@@ -85,12 +85,12 @@
           1
         ],
         "passesTotal": [
-          177,
-          306
+          205,
+          314
         ],
         "passesAccurate": [
-          134,
-          270
+          158,
+          275
         ],
         "shotsOff": [
           1,
@@ -109,12 +109,12 @@
           2
         ],
         "possession": [
-          37,
-          63
+          40,
+          60
         ],
         "fouls": [
           5,
-          6
+          7
         ],
         "yellow": [
           1,
@@ -263,8 +263,8 @@
     },
     {
       "id": 54,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -298,9 +298,14 @@
           "in": "M. Younis",
           "minute": 16,
           "team": "IRQ"
+        },
+        {
+          "out": "A. Basil",
+          "in": "J. Hassan",
+          "minute": 46,
+          "team": "IRQ"
         }
       ],
-      "extra": 10,
       "stats": {
         "passesPct": [
           81,
@@ -499,7 +504,12 @@
             ]
           }
         },
-        "referee": "Anthony Taylor, England"
+        "referee": "Anthony Taylor, England",
+        "motm": {
+          "player": "Habib Diarra",
+          "rating": 7.0,
+          "team": "SEN"
+        }
       }
     }
   ],
