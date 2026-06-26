@@ -1,259 +1,6 @@
 {
-  "updated": "2026-06-26T03:59:21Z",
+  "updated": "2026-06-26T03:59:22Z",
   "live": [
-    {
-      "id": 24,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 0,
-      "cardEvents": [
-        {
-          "player": "Jackson Irvine",
-          "minute": 46,
-          "team": "AUS",
-          "color": "yellow"
-        },
-        {
-          "player": "Diego Gomez",
-          "minute": 77,
-          "team": "PAR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Alexandro Maidana",
-          "in": "Maurício Magalhães Prado",
-          "minute": 45,
-          "team": "PAR"
-        },
-        {
-          "out": "Cristian Volpato",
-          "in": "Ajdin Hrustic",
-          "minute": 58,
-          "team": "AUS"
-        },
-        {
-          "out": "Gabriel Ávalos",
-          "in": "Alex Arce",
-          "minute": 67,
-          "team": "PAR"
-        },
-        {
-          "out": "Omar Alderete",
-          "in": "José Canale",
-          "minute": 84,
-          "team": "PAR"
-        },
-        {
-          "out": "Jackson Irvine",
-          "in": "Paul Okon-Engstler",
-          "minute": 84,
-          "team": "AUS"
-        },
-        {
-          "out": "Nestory Irankunda",
-          "in": "Tete Yengi",
-          "minute": 84,
-          "team": "AUS"
-        },
-        {
-          "out": "Diego Gomez",
-          "in": "Damian Bobadilla",
-          "minute": 92,
-          "team": "PAR"
-        },
-        {
-          "out": "Matías Galarza",
-          "in": "Junior Alonso",
-          "minute": 92,
-          "team": "PAR"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "shotsTotal": [
-          7,
-          12
-        ],
-        "possession": [
-          44,
-          56
-        ],
-        "shotsOff": [
-          4,
-          4
-        ],
-        "corners": [
-          1,
-          3
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          2,
-          5
-        ],
-        "fouls": [
-          9,
-          6
-        ],
-        "saves": [
-          5,
-          2
-        ],
-        "home": "PAR",
-        "away": "AUS"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "5-4-1",
-            "coach": "G. Alfaro",
-            "xi": [
-              {
-                "n": 12,
-                "name": "O. Gill",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "J. Cáceres",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "G. Velázquez",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "G. Gómez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "O. Alderete",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "A. Maidana",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "D. Gómez",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "A. Cubas",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "M. Galarza",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "J. Enciso",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "G. Ávalos",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "3-4-3",
-            "coach": "T. Popović",
-            "xi": [
-              {
-                "n": 18,
-                "name": "P. Beach",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "A. Circati",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "H. Souttar",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "L. Herrington",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "A. Behich",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "A. O&apos;Neill",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "J. Irvine",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "J. Bos",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "C. Metcalfe",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "N. Irankunda",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "C. Volpato",
-                "pos": "M"
-              }
-            ]
-          }
-        },
-        "referee": "C. Turpin",
-        "motm": {
-          "player": "O. Gill",
-          "rating": 7.59,
-          "team": "PAR"
-        }
-      }
-    },
     {
       "id": 23,
       "status": "2H",
@@ -7420,6 +7167,256 @@
           "player": "Abdülkerim Bardakcı",
           "rating": 8.0,
           "team": "TUR"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "home": 0,
+      "away": 0,
+      "cardEvents": [
+        {
+          "player": "Jackson Irvine",
+          "minute": 46,
+          "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "Diego Gomez",
+          "minute": 77,
+          "team": "PAR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Alexandro Maidana",
+          "in": "Maurício Magalhães Prado",
+          "minute": 45,
+          "team": "PAR"
+        },
+        {
+          "out": "Cristian Volpato",
+          "in": "Ajdin Hrustic",
+          "minute": 58,
+          "team": "AUS"
+        },
+        {
+          "out": "Gabriel Ávalos",
+          "in": "Alex Arce",
+          "minute": 67,
+          "team": "PAR"
+        },
+        {
+          "out": "Omar Alderete",
+          "in": "José Canale",
+          "minute": 84,
+          "team": "PAR"
+        },
+        {
+          "out": "Jackson Irvine",
+          "in": "Paul Okon-Engstler",
+          "minute": 84,
+          "team": "AUS"
+        },
+        {
+          "out": "Nestory Irankunda",
+          "in": "Tete Yengi",
+          "minute": 84,
+          "team": "AUS"
+        },
+        {
+          "out": "Diego Gomez",
+          "in": "Damian Bobadilla",
+          "minute": 92,
+          "team": "PAR"
+        },
+        {
+          "out": "Matías Galarza",
+          "in": "Junior Alonso",
+          "minute": 92,
+          "team": "PAR"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "shotsTotal": [
+          7,
+          12
+        ],
+        "possession": [
+          44,
+          56
+        ],
+        "shotsOff": [
+          4,
+          4
+        ],
+        "corners": [
+          1,
+          3
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          2,
+          5
+        ],
+        "fouls": [
+          9,
+          6
+        ],
+        "saves": [
+          5,
+          2
+        ],
+        "home": "PAR",
+        "away": "AUS"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "5-4-1",
+            "coach": "G. Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "O. Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "J. Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "G. Velázquez",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "G. Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "O. Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "A. Maidana",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "D. Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "A. Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "M. Galarza",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "J. Enciso",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "G. Ávalos",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-3",
+            "coach": "T. Popović",
+            "xi": [
+              {
+                "n": 18,
+                "name": "P. Beach",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "A. Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "H. Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "L. Herrington",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "A. Behich",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "A. O&apos;Neill",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "J. Irvine",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "J. Bos",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "C. Metcalfe",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "N. Irankunda",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "C. Volpato",
+                "pos": "M"
+              }
+            ]
+          }
+        },
+        "referee": "C. Turpin",
+        "motm": {
+          "player": "O. Gill",
+          "rating": 7.59,
+          "team": "PAR"
         }
       }
     },
@@ -18527,6 +18524,12 @@
         "yellow": 2
       },
       {
+        "player": "Diego Gomez",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Gervane Kastaneer",
         "team": "CUR",
         "red": 0,
@@ -18643,12 +18646,6 @@
       {
         "player": "Brian Gutiérrez",
         "team": "MEX",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "C. Arcus",
-        "team": "HAI",
         "red": 0,
         "yellow": 1
       }
@@ -18922,6 +18919,20 @@
       "form": "WD"
     },
     {
+      "code": "AUS",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 2,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 2,
+      "biggestWin": "2-0",
+      "biggestLose": "0-2",
+      "form": "WLD"
+    },
+    {
       "code": "ECU",
       "played": 3,
       "wins": 1,
@@ -18978,18 +18989,18 @@
       "form": "DLW"
     },
     {
-      "code": "AUS",
-      "played": 2,
+      "code": "PAR",
+      "played": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
       "gf": 2,
-      "ga": 2,
-      "cleanSheets": 1,
+      "ga": 4,
+      "cleanSheets": 2,
       "failedToScore": 1,
-      "biggestWin": "2-0",
-      "biggestLose": "0-2",
-      "form": "WL"
+      "biggestWin": "1-0",
+      "biggestLose": "1-4",
+      "form": "LWD"
     },
     {
       "code": "AUT",
@@ -19031,20 +19042,6 @@
       "failedToScore": 0,
       "biggestWin": "1-0",
       "biggestLose": "2-4",
-      "form": "LW"
-    },
-    {
-      "code": "PAR",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 2,
-      "ga": 4,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "1-0",
-      "biggestLose": "1-4",
       "form": "LW"
     },
     {
