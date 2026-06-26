@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:16:19Z",
+  "updated": "2026-06-26T20:17:07Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 1,
       "away": 3,
       "goals": [
@@ -264,7 +264,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 1,
       "away": 0,
       "goals": [
@@ -312,7 +312,7 @@
           75
         ],
         "shotsTotal": [
-          10,
+          11,
           4
         ],
         "red": [
@@ -324,7 +324,7 @@
           0
         ],
         "shotsOutside": [
-          4,
+          5,
           4
         ],
         "shotsInside": [
@@ -336,15 +336,15 @@
           1
         ],
         "passesTotal": [
-          218,
+          232,
           159
         ],
         "passesAccurate": [
-          180,
+          193,
           120
         ],
         "shotsOff": [
-          7,
+          8,
           0
         ],
         "shotsOn": [
@@ -360,8 +360,8 @@
           4
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "fouls": [
           5,
@@ -507,7 +507,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Habib Diarra",
-          "rating": 7.0,
+          "rating": 7.2,
           "team": "SEN"
         }
       }
