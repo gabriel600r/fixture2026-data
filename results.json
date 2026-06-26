@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:55:53Z",
+  "updated": "2026-06-26T20:56:41Z",
   "live": [
     {
       "id": 53,
@@ -109,7 +109,7 @@
           "team": "FRA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           82,
@@ -319,7 +319,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 5,
       "away": 0,
       "goals": [
@@ -447,11 +447,11 @@
       ],
       "stats": {
         "passesPct": [
-          87,
-          72
+          88,
+          71
         ],
         "shotsTotal": [
-          23,
+          24,
           6
         ],
         "red": [
@@ -467,7 +467,7 @@
           5
         ],
         "shotsInside": [
-          14,
+          15,
           1
         ],
         "saves": [
@@ -475,12 +475,12 @@
           4
         ],
         "passesTotal": [
-          502,
-          245
+          527,
+          249
         ],
         "passesAccurate": [
-          439,
-          176
+          462,
+          177
         ],
         "shotsOff": [
           11,
@@ -491,11 +491,11 @@
           1
         ],
         "corners": [
-          11,
+          12,
           3
         ],
         "shotsBlocked": [
-          3,
+          4,
           4
         ],
         "possession": [
@@ -504,7 +504,7 @@
         ],
         "fouls": [
           9,
-          8
+          9
         ],
         "yellow": [
           2,
@@ -646,7 +646,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Pape Gueye",
-          "rating": 9.7,
+          "rating": 9.6,
           "team": "SEN"
         }
       }
