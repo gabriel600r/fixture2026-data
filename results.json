@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:39:41Z",
+  "updated": "2026-06-26T20:40:29Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 3,
       "goals": [
@@ -77,6 +77,12 @@
           "in": "S. Langas",
           "minute": 66,
           "team": "NOR"
+        },
+        {
+          "out": "D. Upamecano",
+          "in": "I. Konate",
+          "minute": 76,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -288,7 +294,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 4,
       "away": 0,
       "goals": [
@@ -313,7 +319,8 @@
         {
           "player": "P. Gueye",
           "minute": 71,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "I. Ndiaye"
         }
       ],
       "redCards": [
@@ -395,7 +402,7 @@
           74
         ],
         "shotsTotal": [
-          16,
+          17,
           5
         ],
         "red": [
@@ -411,7 +418,7 @@
           5
         ],
         "shotsInside": [
-          10,
+          11,
           0
         ],
         "saves": [
@@ -419,11 +426,11 @@
           2
         ],
         "passesTotal": [
-          360,
-          219
+          372,
+          221
         ],
         "passesAccurate": [
-          309,
+          320,
           163
         ],
         "shotsOff": [
@@ -431,7 +438,7 @@
           0
         ],
         "shotsOn": [
-          5,
+          6,
           1
         ],
         "corners": [
@@ -443,12 +450,12 @@
           4
         ],
         "possession": [
-          63,
-          37
+          64,
+          36
         ],
         "fouls": [
           8,
-          5
+          6
         ],
         "yellow": [
           1,
@@ -589,8 +596,8 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Ismaïla Sarr",
-          "rating": 7.5,
+          "player": "Pape Gueye",
+          "rating": 8.2,
           "team": "SEN"
         }
       }
