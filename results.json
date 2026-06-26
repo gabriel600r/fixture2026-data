@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:55:05Z",
+  "updated": "2026-06-26T20:55:53Z",
   "live": [
     {
       "id": 53,
@@ -109,7 +109,7 @@
           "team": "FRA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesPct": [
           82,
@@ -319,7 +319,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 5,
       "away": 0,
       "goals": [
