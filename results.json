@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:25:58Z",
+  "updated": "2026-06-26T20:26:46Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 3,
       "goals": [
@@ -264,8 +264,8 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 58,
-      "home": 2,
+      "minute": 59,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -279,6 +279,11 @@
           "minute": 56,
           "team": "SEN",
           "assist": "L. Camara"
+        },
+        {
+          "player": null,
+          "minute": 59,
+          "team": "SEN"
         }
       ],
       "redCards": [
@@ -320,13 +325,31 @@
         {
           "out": "I. Mbaye",
           "in": "I. Ndiaye",
-          "minute": 58,
+          "minute": 57,
           "team": "SEN"
         },
         {
           "out": "L. Camara",
           "in": "N. Jackson",
+          "minute": 57,
+          "team": "SEN"
+        },
+        {
+          "out": "A. Jasim",
+          "in": "A. Al Reeshawee",
           "minute": 58,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Al Hamadi",
+          "in": "A. Yousif",
+          "minute": 58,
+          "team": "IRQ"
+        },
+        {
+          "out": "A. Seck",
+          "in": "P. Ciss",
+          "minute": 59,
           "team": "SEN"
         }
       ],
