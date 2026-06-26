@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:18:12Z",
+  "updated": "2026-06-26T19:19:01Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 0,
       "away": 1,
       "goals": [
@@ -25,11 +25,11 @@
       ],
       "stats": {
         "passesPct": [
-          70,
-          85
+          69,
+          88
         ],
         "shotsTotal": [
-          1,
+          2,
           6
         ],
         "red": [
@@ -38,14 +38,14 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsOutside": [
           1,
           2
         ],
         "shotsInside": [
-          0,
+          1,
           4
         ],
         "saves": [
@@ -53,15 +53,15 @@
           1
         ],
         "passesTotal": [
-          50,
-          82
+          52,
+          113
         ],
         "passesAccurate": [
-          35,
-          70
+          36,
+          99
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "shotsOn": [
@@ -77,8 +77,8 @@
           1
         ],
         "possession": [
-          38,
-          62
+          32,
+          68
         ],
         "fouls": [
           3,
@@ -227,7 +227,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 1,
       "away": 0,
       "goals": [
@@ -249,25 +249,33 @@
           "color": "red"
         }
       ],
+      "subs": [
+        {
+          "out": "A. Qasem",
+          "in": "M. Younis",
+          "minute": 16,
+          "team": "IRQ"
+        }
+      ],
       "stats": {
         "passesPct": [
-          76,
+          79,
           83
         ],
         "shotsTotal": [
-          3,
+          5,
           0
         ],
         "red": [
           0,
-          0
+          1
         ],
         "offsides": [
           0,
           0
         ],
         "shotsOutside": [
-          1,
+          3,
           0
         ],
         "shotsInside": [
@@ -276,22 +284,22 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          25,
+          28,
           46
         ],
         "passesAccurate": [
-          19,
+          22,
           38
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "shotsOn": [
-          1,
+          2,
           0
         ],
         "corners": [
@@ -303,8 +311,8 @@
           0
         ],
         "possession": [
-          38,
-          62
+          40,
+          60
         ],
         "fouls": [
           0,
@@ -312,7 +320,7 @@
         ],
         "yellow": [
           0,
-          1
+          0
         ],
         "home": "SEN",
         "away": "IRQ"
