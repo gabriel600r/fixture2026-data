@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T20:51:48Z",
+  "updated": "2026-06-26T20:52:37Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 1,
       "away": 3,
       "goals": [
@@ -318,7 +318,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 5,
       "away": 0,
       "goals": [
@@ -446,11 +446,11 @@
       ],
       "stats": {
         "passesPct": [
-          87,
-          73
+          86,
+          72
         ],
         "shotsTotal": [
-          22,
+          23,
           6
         ],
         "red": [
@@ -462,7 +462,7 @@
           0
         ],
         "shotsOutside": [
-          8,
+          9,
           5
         ],
         "shotsInside": [
@@ -474,19 +474,19 @@
           4
         ],
         "passesTotal": [
-          447,
-          238
+          463,
+          241
         ],
         "passesAccurate": [
-          387,
+          400,
           174
         ],
         "shotsOff": [
           11,
-          0
+          1
         ],
         "shotsOn": [
-          8,
+          9,
           1
         ],
         "corners": [
@@ -495,18 +495,18 @@
         ],
         "shotsBlocked": [
           3,
-          5
+          4
         ],
         "possession": [
           66,
           34
         ],
         "fouls": [
-          8,
+          9,
           8
         ],
         "yellow": [
-          1,
+          2,
           1
         ],
         "home": "SEN",
@@ -645,7 +645,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Pape Gueye",
-          "rating": 9.2,
+          "rating": 9.3,
           "team": "SEN"
         }
       }
