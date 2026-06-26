@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:48:33Z",
+  "updated": "2026-06-26T20:49:21Z",
   "live": [
     {
       "id": 53,
@@ -306,7 +306,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 4,
       "away": 0,
       "goals": [
@@ -412,6 +412,12 @@
           "in": "K. Yakob",
           "minute": 67,
           "team": "IRQ"
+        },
+        {
+          "out": "I. Sarr",
+          "in": "A. Diao",
+          "minute": 81,
+          "team": "SEN"
         }
       ],
       "stats": {
