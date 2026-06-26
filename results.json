@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:52:08Z",
+  "updated": "2026-06-26T03:52:56Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -244,7 +244,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 2,
       "goals": [
@@ -364,7 +364,7 @@
           7
         ],
         "fouls": [
-          12,
+          13,
           12
         ],
         "offsides": [
