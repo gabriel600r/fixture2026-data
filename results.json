@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:08:38Z",
+  "updated": "2026-06-26T03:09:26Z",
   "live": [
     {
       "id": 24,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "subs": [
@@ -189,13 +189,18 @@
             ]
           }
         },
-        "referee": "C. Turpin"
+        "referee": "C. Turpin",
+        "motm": {
+          "player": "O. Gill",
+          "rating": 7.44,
+          "team": "PAR"
+        }
       }
     },
     {
       "id": 23,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 2,
       "away": 1,
       "goals": [
