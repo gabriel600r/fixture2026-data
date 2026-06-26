@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:47:52Z",
+  "updated": "2026-06-26T00:48:40Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 1,
       "away": 1,
       "goals": [
@@ -89,6 +89,12 @@
           "in": "Tsuyoshi Watanabe",
           "minute": 75,
           "team": "JPN"
+        },
+        {
+          "out": "Victor Lindelöf",
+          "in": "Carl Starfelt",
+          "minute": 87,
+          "team": "SWE"
         }
       ],
       "stats": {
