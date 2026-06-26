@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:15:00Z",
+  "updated": "2026-06-26T19:15:48Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 14,
+      "minute": 15,
       "home": 0,
       "away": 1,
       "goals": [
@@ -227,7 +227,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 1,
       "away": 0,
       "goals": [
@@ -238,12 +238,15 @@
           "assist": "A. Seck"
         }
       ],
+      "redCards": [
+        "R. Sulaka (Iraq) 10'"
+      ],
       "cardEvents": [
         {
           "player": "R. Sulaka",
           "minute": 10,
           "team": "IRQ",
-          "color": "yellow"
+          "color": "red"
         }
       ],
       "stats": {
