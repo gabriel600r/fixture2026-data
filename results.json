@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:45:27Z",
+  "updated": "2026-06-26T00:46:15Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -32,6 +32,12 @@
           "player": "Shogo Taniguchi",
           "minute": 77,
           "team": "JPN",
+          "color": "yellow"
+        },
+        {
+          "player": "Viktor Gyökeres",
+          "minute": 85,
+          "team": "SWE",
           "color": "yellow"
         }
       ],
@@ -120,7 +126,7 @@
         ],
         "fouls": [
           18,
-          10
+          11
         ],
         "offsides": [
           3,
@@ -274,7 +280,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 1,
       "away": 3,
       "goals": [
@@ -382,7 +388,7 @@
         ],
         "corners": [
           3,
-          5
+          6
         ],
         "red": [
           0,
