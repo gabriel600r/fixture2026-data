@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:19:58Z",
+  "updated": "2026-06-26T03:20:46Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -208,7 +208,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 2,
       "away": 2,
       "goals": [
@@ -244,6 +244,14 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "Timothy Weah",
+          "in": "Christian Pulisic",
+          "minute": 58,
+          "team": "USA"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           2,
@@ -258,8 +266,8 @@
           9
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "shotsOff": [
           0,
@@ -279,11 +287,11 @@
         ],
         "fouls": [
           9,
-          9
+          10
         ],
         "offsides": [
           2,
-          3
+          4
         ],
         "saves": [
           3,
