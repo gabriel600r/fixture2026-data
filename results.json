@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:30:59Z",
+  "updated": "2026-06-26T02:31:47Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 0,
       "stats": {
@@ -187,8 +187,8 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 31,
-      "home": 1,
+      "minute": 32,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -202,6 +202,11 @@
           "minute": 10,
           "team": "TUR",
           "assist": "Baris Alper Yilmaz"
+        },
+        {
+          "player": "Orkun Kökçü",
+          "minute": 31,
+          "team": "TUR"
         }
       ],
       "cardEvents": [
@@ -223,15 +228,15 @@
         ],
         "shotsTotal": [
           1,
-          5
+          6
         ],
         "possession": [
-          40,
-          60
+          41,
+          59
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "corners": [
           0,
@@ -251,10 +256,10 @@
         ],
         "offsides": [
           1,
-          0
+          1
         ],
         "saves": [
-          3,
+          2,
           0
         ],
         "home": "TUR",
