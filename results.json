@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:10:07Z",
+  "updated": "2026-06-26T02:10:55Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,7 +14,7 @@
         ],
         "shotsTotal": [
           0,
-          1
+          2
         ],
         "possession": [
           22,
@@ -22,7 +22,7 @@
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "corners": [
           0,
@@ -32,11 +32,11 @@
           0,
           0
         ],
-        "fouls": [
+        "shotsOn": [
           0,
           1
         ],
-        "shotsOn": [
+        "fouls": [
           0,
           1
         ],
@@ -183,8 +183,8 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 10,
-      "home": 0,
+      "minute": 11,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -192,6 +192,11 @@
           "minute": 3,
           "team": "USA",
           "assist": "Sebastian Berhalter"
+        },
+        {
+          "player": "Arda Güler",
+          "minute": 10,
+          "team": "TUR"
         }
       ],
       "stats": {
@@ -208,8 +213,8 @@
           3
         ],
         "possession": [
-          40,
-          60
+          41,
+          59
         ],
         "shotsOff": [
           0,
@@ -229,7 +234,7 @@
         ],
         "fouls": [
           2,
-          1
+          2
         ],
         "saves": [
           1,
