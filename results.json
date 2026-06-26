@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:26:23Z",
+  "updated": "2026-06-26T03:27:11Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -205,9 +205,9 @@
         },
         "referee": "C. Turpin",
         "motm": {
-          "player": "O. Gill",
-          "rating": 7.38,
-          "team": "PAR"
+          "player": "J. Bos",
+          "rating": 7.2,
+          "team": "AUS"
         }
       }
     },
@@ -261,7 +261,7 @@
       "stats": {
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "yellow": [
           0,
@@ -269,7 +269,7 @@
         ],
         "shotsTotal": [
           4,
-          12
+          14
         ],
         "possession": [
           41,
@@ -289,7 +289,7 @@
         ],
         "shotsOn": [
           2,
-          6
+          7
         ],
         "fouls": [
           9,
@@ -300,7 +300,7 @@
           4
         ],
         "saves": [
-          4,
+          5,
           0
         ],
         "home": "TUR",
