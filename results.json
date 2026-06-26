@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:06:04Z",
+  "updated": "2026-06-26T19:06:52Z",
   "live": [
     {
       "id": 53,
@@ -211,9 +211,17 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 4,
-      "home": 0,
+      "minute": 5,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "A. Seck",
+          "minute": 4,
+          "team": "SEN",
+          "assist": "L. Camara"
+        }
+      ],
       "stats": {
         "passesPct": [
           0,
