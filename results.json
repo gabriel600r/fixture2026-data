@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:36:39Z",
+  "updated": "2026-06-26T00:37:27Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -113,7 +113,7 @@
           3
         ],
         "fouls": [
-          15,
+          17,
           10
         ],
         "offsides": [
@@ -268,7 +268,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 3,
       "goals": [
@@ -339,6 +339,12 @@
           "in": "Firas Chaouat",
           "minute": 75,
           "team": "TUN"
+        },
+        {
+          "out": "Brian Brobbey",
+          "in": "Memphis Depay",
+          "minute": 77,
+          "team": "NED"
         }
       ],
       "stats": {
@@ -351,15 +357,15 @@
           0
         ],
         "shotsTotal": [
-          7,
+          8,
           18
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "shotsOff": [
-          3,
+          4,
           7
         ],
         "corners": [
@@ -375,7 +381,7 @@
           6
         ],
         "fouls": [
-          7,
+          8,
           9
         ],
         "offsides": [
@@ -384,7 +390,7 @@
         ],
         "saves": [
           3,
-          2
+          3
         ],
         "home": "TUN",
         "away": "NED"
