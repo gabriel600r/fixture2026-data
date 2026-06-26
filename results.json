@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:52:37Z",
+  "updated": "2026-06-26T20:53:25Z",
   "live": [
     {
       "id": 53,
@@ -139,12 +139,12 @@
           3
         ],
         "passesTotal": [
-          384,
-          476
+          395,
+          485
         ],
         "passesAccurate": [
-          317,
-          408
+          326,
+          415
         ],
         "shotsOff": [
           2,
@@ -318,7 +318,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 5,
       "away": 0,
       "goals": [
