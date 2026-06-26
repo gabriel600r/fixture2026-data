@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:40:05Z",
+  "updated": "2026-06-26T03:40:53Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "Jackson Irvine",
           "minute": 46,
           "team": "AUS",
+          "color": "yellow"
+        },
+        {
+          "player": "Diego Gomez",
+          "minute": 77,
+          "team": "PAR",
           "color": "yellow"
         }
       ],
@@ -41,7 +47,7 @@
           3
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "shotsTotal": [
@@ -69,7 +75,7 @@
           3
         ],
         "fouls": [
-          7,
+          8,
           6
         ],
         "saves": [
@@ -220,7 +226,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 2,
       "away": 2,
       "goals": [
@@ -274,6 +280,12 @@
           "in": "Álex Zendejas",
           "minute": 77,
           "team": "USA"
+        },
+        {
+          "out": "Joe Scally",
+          "in": "Alex Freeman",
+          "minute": 77,
+          "team": "USA"
         }
       ],
       "stats": {
@@ -287,7 +299,7 @@
         ],
         "shotsTotal": [
           6,
-          15
+          16
         ],
         "possession": [
           42,
@@ -295,7 +307,7 @@
         ],
         "shotsOff": [
           2,
-          5
+          6
         ],
         "corners": [
           2,
