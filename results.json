@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-26T20:57:29Z",
+  "updated": "2026-06-26T20:58:17Z",
   "live": [
     {
       "id": 53,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "O. Dembele",
@@ -31,6 +31,11 @@
           "minute": 32,
           "team": "FRA",
           "assist": "A. Tchouameni"
+        },
+        {
+          "player": "D. Doue",
+          "minute": 90,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
@@ -109,7 +114,7 @@
           "team": "FRA"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           82,
@@ -380,6 +385,12 @@
           "player": "P. Gueye",
           "minute": 81,
           "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Doski",
+          "minute": 90,
+          "team": "IRQ",
           "color": "yellow"
         }
       ],
