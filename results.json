@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:55:03Z",
+  "updated": "2026-06-26T00:55:04Z",
   "live": [
     {
       "id": 35,
@@ -287,287 +287,6 @@
           "player": "A. Tanaka",
           "rating": 7.44,
           "team": "JPN"
-        }
-      }
-    },
-    {
-      "id": 36,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 3,
-      "goals": [
-        {
-          "player": "Ellyes Skhiri",
-          "minute": 3,
-          "team": "NED",
-          "og": true
-        },
-        {
-          "player": "Brian Brobbey",
-          "minute": 7,
-          "team": "NED",
-          "assist": "Virgil van Dijk"
-        },
-        {
-          "player": "Hazem Mastouri",
-          "minute": 54,
-          "team": "TUN",
-          "assist": "Hannibal Mejbri"
-        },
-        {
-          "player": "Jan Paul van Hecke",
-          "minute": 62,
-          "team": "NED",
-          "assist": "Tijjani Reijnders"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Rani Khedira",
-          "in": "Mohamed Hadj Mahmoud",
-          "minute": 67,
-          "team": "TUN"
-        },
-        {
-          "out": "Anis Ben Slimane",
-          "in": "Elias Achouri",
-          "minute": 68,
-          "team": "TUN"
-        },
-        {
-          "out": "Mohamed Amine Ben Hamida",
-          "in": "Mortadha Ben Ouanes",
-          "minute": 68,
-          "team": "TUN"
-        },
-        {
-          "out": "Frenkie de Jong",
-          "in": "Teun Koopmeiners",
-          "minute": 72,
-          "team": "NED"
-        },
-        {
-          "out": "Tijjani Reijnders",
-          "in": "Justin Kluivert",
-          "minute": 72,
-          "team": "NED"
-        },
-        {
-          "out": "Donyell Malen",
-          "in": "Crysencio Summerville",
-          "minute": 72,
-          "team": "NED"
-        },
-        {
-          "out": "Ismael Gharbi",
-          "in": "Firas Chaouat",
-          "minute": 75,
-          "team": "TUN"
-        },
-        {
-          "out": "Brian Brobbey",
-          "in": "Memphis Depay",
-          "minute": 77,
-          "team": "NED"
-        },
-        {
-          "out": "Cody Gakpo",
-          "in": "Noa Lang",
-          "minute": 84,
-          "team": "NED"
-        },
-        {
-          "out": "Hazem Mastouri",
-          "in": "Sebastian Tounekti",
-          "minute": 90,
-          "team": "TUN"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "shotsBlocked": [
-          1,
-          5
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "shotsTotal": [
-          10,
-          20
-        ],
-        "possession": [
-          28,
-          72
-        ],
-        "shotsOff": [
-          5,
-          8
-        ],
-        "corners": [
-          4,
-          6
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          4,
-          7
-        ],
-        "fouls": [
-          11,
-          10
-        ],
-        "offsides": [
-          2,
-          1
-        ],
-        "saves": [
-          4,
-          3
-        ],
-        "home": "TUN",
-        "away": "NED"
-      },
-      "extras": {
-        "pred": {
-          "home": 0,
-          "draw": 50,
-          "away": 50
-        },
-        "lineups": {
-          "home": {
-            "formation": "5-3-2",
-            "coach": "Hervé Renard",
-            "xi": [
-              {
-                "n": 16,
-                "name": "A. Dahmen",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "Y. Valery",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "R. Khedira",
-                "pos": "M"
-              },
-              {
-                "n": 3,
-                "name": "M. Talbi",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "A. Ben Hmida",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "A. Abdi",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "E. Skhiri",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "H. Mejbri",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ismaël Gharbi",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "H. Mastouri",
-                "pos": "F"
-              },
-              {
-                "n": 25,
-                "name": "A. Ben Slimane",
-                "pos": "M"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "R. Koeman",
-            "xi": [
-              {
-                "n": 1,
-                "name": "B. Verbruggen",
-                "pos": "G"
-              },
-              {
-                "n": 22,
-                "name": "D. Dumfries",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "J. van Hecke",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "V. van Dijk",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "N. Aké",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "R. Gravenberch",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "F. de Jong",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "T. Reijnders",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "D. Malen",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "B. Brobbey",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "C. Gakpo",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "K. I. Garcia Mendoza",
-        "motm": {
-          "player": "B. Brobbey",
-          "rating": 8.11,
-          "team": "NED"
         }
       }
     }
@@ -10480,6 +10199,284 @@
       }
     },
     {
+      "id": 36,
+      "home": 1,
+      "away": 3,
+      "goals": [
+        {
+          "player": "Ellyes Skhiri",
+          "minute": 3,
+          "team": "NED",
+          "og": true
+        },
+        {
+          "player": "Brian Brobbey",
+          "minute": 7,
+          "team": "NED",
+          "assist": "Virgil van Dijk"
+        },
+        {
+          "player": "Hazem Mastouri",
+          "minute": 54,
+          "team": "TUN",
+          "assist": "Hannibal Mejbri"
+        },
+        {
+          "player": "Jan Paul van Hecke",
+          "minute": 62,
+          "team": "NED",
+          "assist": "Tijjani Reijnders"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Rani Khedira",
+          "in": "Mohamed Hadj Mahmoud",
+          "minute": 67,
+          "team": "TUN"
+        },
+        {
+          "out": "Anis Ben Slimane",
+          "in": "Elias Achouri",
+          "minute": 68,
+          "team": "TUN"
+        },
+        {
+          "out": "Mohamed Amine Ben Hamida",
+          "in": "Mortadha Ben Ouanes",
+          "minute": 68,
+          "team": "TUN"
+        },
+        {
+          "out": "Frenkie de Jong",
+          "in": "Teun Koopmeiners",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Tijjani Reijnders",
+          "in": "Justin Kluivert",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Donyell Malen",
+          "in": "Crysencio Summerville",
+          "minute": 72,
+          "team": "NED"
+        },
+        {
+          "out": "Ismael Gharbi",
+          "in": "Firas Chaouat",
+          "minute": 75,
+          "team": "TUN"
+        },
+        {
+          "out": "Brian Brobbey",
+          "in": "Memphis Depay",
+          "minute": 77,
+          "team": "NED"
+        },
+        {
+          "out": "Cody Gakpo",
+          "in": "Noa Lang",
+          "minute": 84,
+          "team": "NED"
+        },
+        {
+          "out": "Hazem Mastouri",
+          "in": "Sebastian Tounekti",
+          "minute": 90,
+          "team": "TUN"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          1,
+          5
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          10,
+          20
+        ],
+        "possession": [
+          28,
+          72
+        ],
+        "shotsOff": [
+          5,
+          8
+        ],
+        "corners": [
+          4,
+          6
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          4,
+          7
+        ],
+        "fouls": [
+          11,
+          10
+        ],
+        "offsides": [
+          2,
+          1
+        ],
+        "saves": [
+          4,
+          3
+        ],
+        "home": "TUN",
+        "away": "NED"
+      },
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "5-3-2",
+            "coach": "Hervé Renard",
+            "xi": [
+              {
+                "n": 16,
+                "name": "A. Dahmen",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "Y. Valery",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "R. Khedira",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "M. Talbi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "A. Ben Hmida",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "A. Abdi",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "E. Skhiri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "H. Mejbri",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismaël Gharbi",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "H. Mastouri",
+                "pos": "F"
+              },
+              {
+                "n": 25,
+                "name": "A. Ben Slimane",
+                "pos": "M"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "R. Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "B. Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 22,
+                "name": "D. Dumfries",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "J. van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "V. van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "N. Aké",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "R. Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "F. de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "T. Reijnders",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "D. Malen",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "B. Brobbey",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "C. Gakpo",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "K. I. Garcia Mendoza",
+        "motm": {
+          "player": "B. Brobbey",
+          "rating": 8.11,
+          "team": "NED"
+        }
+      }
+    },
+    {
       "id": 37,
       "home": 1,
       "away": 1,
@@ -17635,6 +17632,11 @@
         "assists": 1
       },
       {
+        "player": "Brian Brobbey",
+        "team": "NED",
+        "goals": 3
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -17678,11 +17680,6 @@
         "team": "JPN",
         "goals": 2,
         "assists": 1
-      },
-      {
-        "player": "B. Brobbey",
-        "team": "NED",
-        "goals": 2
       },
       {
         "player": "C. Gakpo",
@@ -17827,6 +17824,11 @@
         "assists": 2
       },
       {
+        "player": "Hannibal Mejbri",
+        "team": "TUN",
+        "assists": 2
+      },
+      {
         "player": "J. Kimmich",
         "team": "GER",
         "assists": 2
@@ -17930,12 +17932,6 @@
         "player": "C. Riad",
         "team": "MAR",
         "assists": 1
-      },
-      {
-        "player": "C. Summerville",
-        "team": "NED",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "cards": [
@@ -18151,6 +18147,20 @@
       "form": "DWW"
     },
     {
+      "code": "NED",
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "loses": 0,
+      "gf": 10,
+      "ga": 4,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DWW"
+    },
+    {
       "code": "SUI",
       "played": 3,
       "wins": 2,
@@ -18301,20 +18311,6 @@
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "5-0",
-      "biggestLose": "",
-      "form": "DW"
-    },
-    {
-      "code": "NED",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 7,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "5-1",
       "biggestLose": "",
       "form": "DW"
     },
@@ -18782,17 +18778,17 @@
     },
     {
       "code": "TUN",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "loses": 2,
-      "gf": 1,
-      "ga": 9,
+      "loses": 3,
+      "gf": 2,
+      "ga": 12,
       "cleanSheets": 0,
       "failedToScore": 1,
       "biggestWin": "",
       "biggestLose": "1-5",
-      "form": "LL"
+      "form": "LLL"
     }
   ],
   "flags": {
