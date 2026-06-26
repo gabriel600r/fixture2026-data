@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:29:19Z",
+  "updated": "2026-06-26T02:30:11Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
       "away": 0,
       "stats": {
@@ -187,7 +187,7 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 1,
       "away": 1,
       "goals": [
@@ -226,8 +226,8 @@
           5
         ],
         "possession": [
-          41,
-          59
+          40,
+          60
         ],
         "shotsOff": [
           0,
@@ -235,7 +235,7 @@
         ],
         "corners": [
           0,
-          2
+          3
         ],
         "red": [
           0,
@@ -254,7 +254,7 @@
           0
         ],
         "saves": [
-          2,
+          3,
           0
         ],
         "home": "TUR",
