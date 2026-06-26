@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:27:34Z",
+  "updated": "2026-06-26T20:28:23Z",
   "live": [
     {
       "id": 53,
@@ -57,7 +57,7 @@
       ],
       "stats": {
         "passesPct": [
-          78,
+          79,
           86
         ],
         "shotsTotal": [
@@ -70,7 +70,7 @@
         ],
         "offsides": [
           0,
-          1
+          2
         ],
         "shotsOutside": [
           2,
@@ -85,12 +85,12 @@
           2
         ],
         "passesTotal": [
-          250,
-          346
+          267,
+          367
         ],
         "passesAccurate": [
-          196,
-          297
+          210,
+          316
         ],
         "shotsOff": [
           2,
@@ -109,11 +109,11 @@
           2
         ],
         "possession": [
-          42,
-          58
+          43,
+          57
         ],
         "fouls": [
-          5,
+          7,
           7
         ],
         "yellow": [
@@ -283,7 +283,8 @@
         {
           "player": "P. Gueye",
           "minute": 59,
-          "team": "SEN"
+          "team": "SEN",
+          "assist": "I. Sarr"
         }
       ],
       "redCards": [
