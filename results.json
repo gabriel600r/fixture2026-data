@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:03:39Z",
+  "updated": "2026-06-26T02:04:27Z",
   "live": [
     {
       "id": 24,
@@ -8,17 +8,25 @@
       "home": 0,
       "away": 0,
       "stats": {
-        "possession": [
-          49,
-          51
-        ],
         "yellow": [
           0,
           0
         ],
+        "shotsTotal": [
+          0,
+          1
+        ],
+        "possession": [
+          28,
+          72
+        ],
         "shotsOff": [
           0,
           0
+        ],
+        "corners": [
+          0,
+          1
         ],
         "red": [
           0,
@@ -26,6 +34,10 @@
         ],
         "shotsOn": [
           0,
+          1
+        ],
+        "saves": [
+          1,
           0
         ],
         "home": "PAR",
@@ -191,8 +203,8 @@
           3
         ],
         "possession": [
-          6,
-          94
+          26,
+          74
         ],
         "shotsOff": [
           0,
