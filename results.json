@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:39:15Z",
+  "updated": "2026-06-26T03:40:05Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -220,7 +220,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 2,
       "away": 2,
       "goals": [
@@ -261,6 +261,18 @@
           "out": "Timothy Weah",
           "in": "Christian Pulisic",
           "minute": 58,
+          "team": "USA"
+        },
+        {
+          "out": "Giovanni Reyna",
+          "in": "Sergiño Dest",
+          "minute": 76,
+          "team": "USA"
+        },
+        {
+          "out": "Brenden Aaronson",
+          "in": "Álex Zendejas",
+          "minute": 77,
           "team": "USA"
         }
       ],
