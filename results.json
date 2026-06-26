@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:35:11Z",
+  "updated": "2026-06-26T19:35:59Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 1,
       "away": 3,
       "goals": [
@@ -245,7 +245,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 1,
       "away": 0,
       "goals": [
@@ -357,7 +357,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Bouna Thiaw Pape",
             "xi": [
               {
@@ -386,18 +386,13 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Idrissa Gana Gueye",
-                "pos": "M"
-              },
-              {
                 "n": 21,
                 "name": "Habib Diarra",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Ibrahim Mbaye",
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
                 "pos": "M"
               },
               {
@@ -406,13 +401,18 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Sadio Mané",
-                "pos": "M"
+                "n": 20,
+                "name": "Ibrahim Mbaye",
+                "pos": "F"
               },
               {
                 "n": 18,
                 "name": "Ismaïla Sarr",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
                 "pos": "F"
               }
             ]
