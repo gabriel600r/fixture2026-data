@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:34:23Z",
+  "updated": "2026-06-26T19:35:11Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 1,
       "away": 3,
       "goals": [
@@ -29,7 +29,8 @@
         {
           "player": "O. Dembele",
           "minute": 32,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "A. Tchouameni"
         }
       ],
       "cardEvents": [
@@ -42,7 +43,7 @@
       ],
       "stats": {
         "passesPct": [
-          73,
+          75,
           87
         ],
         "shotsTotal": [
@@ -70,12 +71,12 @@
           1
         ],
         "passesTotal": [
-          80,
-          174
+          99,
+          182
         ],
         "passesAccurate": [
-          58,
-          152
+          74,
+          159
         ],
         "shotsOff": [
           1,
@@ -94,8 +95,8 @@
           2
         ],
         "possession": [
-          32,
-          68
+          35,
+          65
         ],
         "fouls": [
           4,
@@ -244,7 +245,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 1,
       "away": 0,
       "goals": [
