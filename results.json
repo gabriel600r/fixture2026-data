@@ -1,300 +1,6 @@
 {
-  "updated": "2026-06-26T04:01:58Z",
-  "live": [
-    {
-      "id": 23,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 2,
-      "goals": [
-        {
-          "player": "Auston Trusty",
-          "minute": 3,
-          "team": "USA",
-          "assist": "Sebastian Berhalter"
-        },
-        {
-          "player": "Arda Güler",
-          "minute": 10,
-          "team": "TUR",
-          "assist": "Baris Alper Yilmaz"
-        },
-        {
-          "player": "Baris Alper Yilmaz",
-          "minute": 31,
-          "team": "TUR",
-          "assist": "Orkun Kökçü"
-        },
-        {
-          "player": "Sebastian Berhalter",
-          "minute": 49,
-          "team": "USA"
-        },
-        {
-          "player": "Kaan Ayhan",
-          "minute": 98,
-          "team": "TUR"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Sebastian Berhalter",
-          "minute": 19,
-          "team": "USA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Timothy Weah",
-          "in": "Christian Pulisic",
-          "minute": 58,
-          "team": "USA"
-        },
-        {
-          "out": "Giovanni Reyna",
-          "in": "Sergiño Dest",
-          "minute": 76,
-          "team": "USA"
-        },
-        {
-          "out": "Brenden Aaronson",
-          "in": "Álex Zendejas",
-          "minute": 77,
-          "team": "USA"
-        },
-        {
-          "out": "Joe Scally",
-          "in": "Alex Freeman",
-          "minute": 77,
-          "team": "USA"
-        },
-        {
-          "out": "Zeki Çelik",
-          "in": "Çağlar Söyüncü",
-          "minute": 84,
-          "team": "TUR"
-        },
-        {
-          "out": "Kenan Yıldız",
-          "in": "Can Yilmaz Uzun",
-          "minute": 84,
-          "team": "TUR"
-        },
-        {
-          "out": "Weston McKennie",
-          "in": "Malik Tillman",
-          "minute": 86,
-          "team": "USA"
-        },
-        {
-          "out": "Orkun Kökçü",
-          "in": "Kaan Ayhan",
-          "minute": 88,
-          "team": "TUR"
-        },
-        {
-          "out": "Oğuz Aydın",
-          "in": "Mert Müldür",
-          "minute": 92,
-          "team": "TUR"
-        },
-        {
-          "out": "Baris Alper Yilmaz",
-          "in": "İrfan Can Kahveci",
-          "minute": 92,
-          "team": "TUR"
-        }
-      ],
-      "extra": 9,
-      "stats": {
-        "shotsBlocked": [
-          2,
-          5
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "shotsTotal": [
-          7,
-          18
-        ],
-        "possession": [
-          47,
-          53
-        ],
-        "shotsOff": [
-          3,
-          6
-        ],
-        "corners": [
-          2,
-          9
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          2,
-          7
-        ],
-        "fouls": [
-          13,
-          13
-        ],
-        "offsides": [
-          2,
-          5
-        ],
-        "saves": [
-          5,
-          0
-        ],
-        "home": "TUR",
-        "away": "USA"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "V. Montella",
-            "xi": [
-              {
-                "n": 23,
-                "name": "U. Çakır",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Z. Çelik",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "O. Kabak",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "A. Bardakcı",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "E. Elmalı",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "O. Kökçü",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "S. Özcan",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "O. Aydın",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "A. Güler",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "K. Yıldız",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "B. Yılmaz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-2-3",
-            "coach": "M. Pochettino",
-            "xi": [
-              {
-                "n": 1,
-                "name": "M. Turner",
-                "pos": "G"
-              },
-              {
-                "n": 23,
-                "name": "J. Scally",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "M. McKenzie",
-                "pos": "D"
-              },
-              {
-                "n": 12,
-                "name": "M. Robinson",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "A. Trusty",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "W. McKennie",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "S. Berhalter",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "G. Reyna",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "T. Weah",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "R. Pepi",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "B. Aaronson",
-                "pos": "M"
-              }
-            ]
-          }
-        },
-        "referee": "M. Ghorbal",
-        "motm": {
-          "player": "S. Berhalter",
-          "rating": 9.0,
-          "team": "USA"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-26T04:02:45Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -7172,6 +6878,296 @@
           "player": "Abdülkerim Bardakcı",
           "rating": 8.0,
           "team": "TUR"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "home": 3,
+      "away": 2,
+      "goals": [
+        {
+          "player": "Auston Trusty",
+          "minute": 3,
+          "team": "USA",
+          "assist": "Sebastian Berhalter"
+        },
+        {
+          "player": "Arda Güler",
+          "minute": 10,
+          "team": "TUR",
+          "assist": "Baris Alper Yilmaz"
+        },
+        {
+          "player": "Baris Alper Yilmaz",
+          "minute": 31,
+          "team": "TUR",
+          "assist": "Orkun Kökçü"
+        },
+        {
+          "player": "Sebastian Berhalter",
+          "minute": 49,
+          "team": "USA"
+        },
+        {
+          "player": "Kaan Ayhan",
+          "minute": 98,
+          "team": "TUR"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Sebastian Berhalter",
+          "minute": 19,
+          "team": "USA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Timothy Weah",
+          "in": "Christian Pulisic",
+          "minute": 58,
+          "team": "USA"
+        },
+        {
+          "out": "Giovanni Reyna",
+          "in": "Sergiño Dest",
+          "minute": 76,
+          "team": "USA"
+        },
+        {
+          "out": "Brenden Aaronson",
+          "in": "Álex Zendejas",
+          "minute": 77,
+          "team": "USA"
+        },
+        {
+          "out": "Joe Scally",
+          "in": "Alex Freeman",
+          "minute": 77,
+          "team": "USA"
+        },
+        {
+          "out": "Zeki Çelik",
+          "in": "Çağlar Söyüncü",
+          "minute": 84,
+          "team": "TUR"
+        },
+        {
+          "out": "Kenan Yıldız",
+          "in": "Can Yilmaz Uzun",
+          "minute": 84,
+          "team": "TUR"
+        },
+        {
+          "out": "Weston McKennie",
+          "in": "Malik Tillman",
+          "minute": 86,
+          "team": "USA"
+        },
+        {
+          "out": "Orkun Kökçü",
+          "in": "Kaan Ayhan",
+          "minute": 88,
+          "team": "TUR"
+        },
+        {
+          "out": "Oğuz Aydın",
+          "in": "Mert Müldür",
+          "minute": 92,
+          "team": "TUR"
+        },
+        {
+          "out": "Baris Alper Yilmaz",
+          "in": "İrfan Can Kahveci",
+          "minute": 92,
+          "team": "TUR"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          2,
+          5
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "shotsTotal": [
+          7,
+          18
+        ],
+        "possession": [
+          47,
+          53
+        ],
+        "shotsOff": [
+          3,
+          6
+        ],
+        "corners": [
+          2,
+          9
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          2,
+          7
+        ],
+        "fouls": [
+          13,
+          13
+        ],
+        "offsides": [
+          2,
+          5
+        ],
+        "saves": [
+          5,
+          0
+        ],
+        "home": "TUR",
+        "away": "USA"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "V. Montella",
+            "xi": [
+              {
+                "n": 23,
+                "name": "U. Çakır",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Z. Çelik",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "O. Kabak",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "A. Bardakcı",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "E. Elmalı",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "O. Kökçü",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "S. Özcan",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "O. Aydın",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "A. Güler",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "K. Yıldız",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "B. Yılmaz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-2-3",
+            "coach": "M. Pochettino",
+            "xi": [
+              {
+                "n": 1,
+                "name": "M. Turner",
+                "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "J. Scally",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "M. McKenzie",
+                "pos": "D"
+              },
+              {
+                "n": 12,
+                "name": "M. Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "A. Trusty",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "W. McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "S. Berhalter",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "G. Reyna",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "T. Weah",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "R. Pepi",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "B. Aaronson",
+                "pos": "M"
+              }
+            ]
+          }
+        },
+        "referee": "M. Ghorbal",
+        "motm": {
+          "player": "S. Berhalter",
+          "rating": 9.0,
+          "team": "USA"
         }
       }
     },
@@ -18462,15 +18458,16 @@
         "assists": 1
       },
       {
+        "player": "Baris Alper Yilmaz",
+        "team": "TUR",
+        "assists": 1,
+        "goals": 1
+      },
+      {
         "player": "C. Gakpo",
         "team": "NED",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "player": "C. Hernandez",
-        "team": "COL",
-        "assists": 1
       }
     ],
     "cards": [
@@ -18742,20 +18739,6 @@
       "form": "WWL"
     },
     {
-      "code": "USA",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 6,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "WW"
-    },
-    {
       "code": "FRA",
       "played": 2,
       "wins": 2,
@@ -18782,6 +18765,20 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "WW"
+    },
+    {
+      "code": "USA",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "loses": 1,
+      "gf": 8,
+      "ga": 4,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "2-3",
+      "form": "WWL"
     },
     {
       "code": "NOR",
@@ -19050,6 +19047,20 @@
       "form": "LW"
     },
     {
+      "code": "TUR",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "loses": 2,
+      "gf": 3,
+      "ga": 5,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "3-2",
+      "biggestLose": "0-2",
+      "form": "LLW"
+    },
+    {
       "code": "ALG",
       "played": 2,
       "wins": 1,
@@ -19229,20 +19240,6 @@
       "failedToScore": 2,
       "biggestWin": "",
       "biggestLose": "0-1",
-      "form": "LL"
-    },
-    {
-      "code": "TUR",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "loses": 2,
-      "gf": 0,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 2,
-      "biggestWin": "",
-      "biggestLose": "0-2",
       "form": "LL"
     },
     {
