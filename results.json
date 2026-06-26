@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:45:22Z",
+  "updated": "2026-06-26T02:46:10Z",
   "live": [
     {
       "id": 24,
@@ -7,6 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           0,
@@ -21,8 +22,8 @@
           4
         ],
         "possession": [
-          42,
-          58
+          40,
+          60
         ],
         "shotsOff": [
           1,
@@ -218,6 +219,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           2,
@@ -229,7 +231,7 @@
         ],
         "shotsTotal": [
           4,
-          6
+          7
         ],
         "possession": [
           42,
@@ -249,10 +251,10 @@
         ],
         "shotsOn": [
           2,
-          3
+          4
         ],
         "fouls": [
-          6,
+          7,
           7
         ],
         "offsides": [
@@ -260,7 +262,7 @@
           1
         ],
         "saves": [
-          2,
+          3,
           0
         ],
         "home": "TUR",
