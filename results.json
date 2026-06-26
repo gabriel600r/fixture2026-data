@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:48:40Z",
+  "updated": "2026-06-26T00:49:28Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 1,
       "away": 1,
       "goals": [
@@ -94,6 +94,12 @@
           "out": "Victor Lindelöf",
           "in": "Carl Starfelt",
           "minute": 87,
+          "team": "SWE"
+        },
+        {
+          "out": "Gabriel Gudmundsson",
+          "in": "Benjamin Nygren",
+          "minute": 88,
           "team": "SWE"
         }
       ],
@@ -286,7 +292,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 3,
       "goals": [
