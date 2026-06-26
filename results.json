@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:11:52Z",
+  "updated": "2026-06-26T03:12:40Z",
   "live": [
     {
       "id": 24,
@@ -33,7 +33,7 @@
           1
         ],
         "shotsTotal": [
-          2,
+          3,
           6
         ],
         "possession": [
@@ -41,7 +41,7 @@
           62
         ],
         "shotsOff": [
-          2,
+          3,
           2
         ],
         "corners": [
@@ -200,7 +200,7 @@
         "referee": "C. Turpin",
         "motm": {
           "player": "O. Gill",
-          "rating": 7.44,
+          "rating": 7.41,
           "team": "PAR"
         }
       }
@@ -208,7 +208,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 2,
       "away": 2,
       "goals": [
@@ -255,7 +255,7 @@
         ],
         "shotsTotal": [
           4,
-          9
+          10
         ],
         "possession": [
           41,
@@ -275,7 +275,7 @@
         ],
         "shotsOn": [
           2,
-          4
+          5
         ],
         "fouls": [
           7,
