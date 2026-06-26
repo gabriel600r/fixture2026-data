@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:20:32Z",
+  "updated": "2026-06-26T00:21:20Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 0,
       "goals": [
@@ -51,8 +51,8 @@
           3
         ],
         "possession": [
-          58,
-          42
+          56,
+          44
         ],
         "shotsOff": [
           2,
@@ -71,7 +71,7 @@
           1
         ],
         "fouls": [
-          11,
+          12,
           7
         ],
         "offsides": [
@@ -226,9 +226,9 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "Ellyes Skhiri",
@@ -247,6 +247,11 @@
           "minute": 54,
           "team": "TUN",
           "assist": "Hannibal Mejbri"
+        },
+        {
+          "player": "Jan Paul van Hecke",
+          "minute": 62,
+          "team": "NED"
         }
       ],
       "stats": {
@@ -272,7 +277,7 @@
         ],
         "corners": [
           2,
-          4
+          5
         ],
         "red": [
           0,
