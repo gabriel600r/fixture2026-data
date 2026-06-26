@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:24:47Z",
+  "updated": "2026-06-26T03:25:35Z",
   "live": [
     {
       "id": 24,
@@ -21,6 +21,12 @@
           "in": "Maurício Magalhães Prado",
           "minute": 45,
           "team": "PAR"
+        },
+        {
+          "out": "Cristian Volpato",
+          "in": "Ajdin Hrustic",
+          "minute": 58,
+          "team": "AUS"
         }
       ],
       "stats": {
@@ -58,7 +64,7 @@
         ],
         "fouls": [
           5,
-          5
+          6
         ],
         "saves": [
           3,
@@ -208,7 +214,7 @@
     {
       "id": 23,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 2,
       "away": 2,
       "goals": [
@@ -263,15 +269,15 @@
         ],
         "shotsTotal": [
           4,
-          9
+          11
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "shotsOff": [
           0,
-          2
+          3
         ],
         "corners": [
           2,
@@ -283,7 +289,7 @@
         ],
         "shotsOn": [
           2,
-          5
+          6
         ],
         "fouls": [
           9,
@@ -294,7 +300,7 @@
           4
         ],
         "saves": [
-          3,
+          4,
           0
         ],
         "home": "TUR",
