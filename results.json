@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:06:52Z",
+  "updated": "2026-06-26T19:07:40Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 5,
+      "minute": 6,
       "home": 0,
       "away": 0,
       "stats": {
@@ -211,24 +211,23 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 5,
+      "minute": 6,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "A. Seck",
+          "player": "H. Diarra",
           "minute": 4,
-          "team": "SEN",
-          "assist": "L. Camara"
+          "team": "SEN"
         }
       ],
       "stats": {
         "passesPct": [
-          0,
-          0
+          86,
+          73
         ],
         "shotsTotal": [
-          0,
+          1,
           0
         ],
         "red": [
@@ -240,7 +239,7 @@
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
@@ -252,12 +251,12 @@
           0
         ],
         "passesTotal": [
-          0,
-          0
+          7,
+          15
         ],
         "passesAccurate": [
-          0,
-          0
+          6,
+          11
         ],
         "shotsOff": [
           0,
@@ -268,16 +267,16 @@
           0
         ],
         "corners": [
-          0,
+          2,
           0
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "possession": [
-          0,
-          0
+          40,
+          60
         ],
         "fouls": [
           0,
