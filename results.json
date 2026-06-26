@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:39:11Z",
+  "updated": "2026-06-26T19:39:59Z",
   "live": [
     {
       "id": 53,
@@ -43,12 +43,12 @@
       ],
       "stats": {
         "passesPct": [
-          75,
-          88
+          78,
+          89
         ],
         "shotsTotal": [
           4,
-          12
+          13
         ],
         "red": [
           0,
@@ -60,7 +60,7 @@
         ],
         "shotsOutside": [
           2,
-          5
+          6
         ],
         "shotsInside": [
           2,
@@ -71,16 +71,16 @@
           1
         ],
         "passesTotal": [
-          99,
-          197
+          121,
+          203
         ],
         "passesAccurate": [
-          74,
-          174
+          94,
+          180
         ],
         "shotsOff": [
           1,
-          2
+          3
         ],
         "shotsOn": [
           2,
@@ -95,8 +95,8 @@
           2
         ],
         "possession": [
-          33,
-          67
+          37,
+          63
         ],
         "fouls": [
           4,
@@ -245,7 +245,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 0,
       "goals": [
@@ -283,8 +283,8 @@
       ],
       "stats": {
         "passesPct": [
-          84,
-          80
+          85,
+          79
         ],
         "shotsTotal": [
           7,
@@ -311,12 +311,12 @@
           1
         ],
         "passesTotal": [
-          115,
-          97
+          129,
+          102
         ],
         "passesAccurate": [
-          97,
-          78
+          110,
+          81
         ],
         "shotsOff": [
           4,
@@ -327,7 +327,7 @@
           0
         ],
         "corners": [
-          2,
+          3,
           1
         ],
         "shotsBlocked": [
@@ -335,11 +335,11 @@
           2
         ],
         "possession": [
-          55,
-          45
+          56,
+          44
         ],
         "fouls": [
-          3,
+          4,
           3
         ],
         "yellow": [
