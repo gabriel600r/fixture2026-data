@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:59:22Z",
+  "updated": "2026-06-26T04:00:18Z",
   "live": [
     {
       "id": 23,
@@ -102,7 +102,7 @@
           "team": "TUR"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsBlocked": [
           2,
