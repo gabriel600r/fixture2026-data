@@ -1,18 +1,23 @@
 {
-  "updated": "2026-06-26T19:20:37Z",
+  "updated": "2026-06-26T19:21:25Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "O. Dembele",
           "minute": 7,
           "team": "FRA",
           "assist": "K. Mbappe"
+        },
+        {
+          "player": null,
+          "minute": 20,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
@@ -25,12 +30,12 @@
       ],
       "stats": {
         "passesPct": [
-          69,
-          88
+          68,
+          89
         ],
         "shotsTotal": [
           2,
-          6
+          7
         ],
         "red": [
           0,
@@ -46,19 +51,19 @@
         ],
         "shotsInside": [
           1,
-          4
+          5
         ],
         "saves": [
-          4,
+          5,
           1
         ],
         "passesTotal": [
-          52,
-          113
+          53,
+          133
         ],
         "passesAccurate": [
           36,
-          99
+          119
         ],
         "shotsOff": [
           1,
@@ -66,7 +71,7 @@
         ],
         "shotsOn": [
           1,
-          5
+          6
         ],
         "corners": [
           0,
@@ -77,8 +82,8 @@
           1
         ],
         "possession": [
-          32,
-          68
+          29,
+          71
         ],
         "fouls": [
           3,
@@ -99,7 +104,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Stale Solbakken",
             "xi": [
               {
@@ -138,23 +143,23 @@
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Oscar Bobb",
-                "pos": "M"
-              },
-              {
                 "n": 19,
                 "name": "Thelo Aasgaard",
                 "pos": "M"
               },
               {
-                "n": 21,
-                "name": "Andreas Schjelderup",
-                "pos": "M"
+                "n": 22,
+                "name": "Oscar Bobb",
+                "pos": "F"
               },
               {
                 "n": 11,
                 "name": "Jørgen Strand Larsen",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Andreas Schjelderup",
                 "pos": "F"
               }
             ]
@@ -227,7 +232,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 1,
       "away": 0,
       "goals": [
@@ -247,6 +252,12 @@
           "minute": 13,
           "team": "IRQ",
           "color": "red"
+        },
+        {
+          "player": "A. Seck",
+          "minute": 18,
+          "team": "SEN",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -259,8 +270,8 @@
       ],
       "stats": {
         "passesPct": [
-          79,
-          83
+          76,
+          81
         ],
         "shotsTotal": [
           5,
@@ -287,12 +298,12 @@
           1
         ],
         "passesTotal": [
-          28,
-          46
+          29,
+          48
         ],
         "passesAccurate": [
           22,
-          38
+          39
         ],
         "shotsOff": [
           2,
@@ -394,7 +405,7 @@
             ]
           },
           "away": {
-            "formation": "4-1-4-1",
+            "formation": "4-2-3-1",
             "coach": "Graham Arnold",
             "xi": [
               {
@@ -408,13 +419,13 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Akam Hashem",
+                "n": 2,
+                "name": "Rebin Sulaka",
                 "pos": "D"
               },
               {
-                "n": 2,
-                "name": "Rebin Sulaka",
+                "n": 5,
+                "name": "Akam Hashem",
                 "pos": "D"
               },
               {
@@ -423,8 +434,18 @@
                 "pos": "D"
               },
               {
+                "n": 14,
+                "name": "Zidane Iqbal",
+                "pos": "M"
+              },
+              {
                 "n": 16,
                 "name": "Amir Al-Ammari",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ahmed Qasem",
                 "pos": "M"
               },
               {
@@ -435,16 +456,6 @@
               {
                 "n": 8,
                 "name": "Ibrahim Bayesh",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Zidane Iqbal",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ahmed Qasem",
                 "pos": "M"
               },
               {
