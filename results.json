@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T00:35:52Z",
+  "updated": "2026-06-26T00:36:39Z",
   "live": [
     {
       "id": 35,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 1,
       "goals": [
@@ -65,6 +65,18 @@
           "in": "Ken Sema",
           "minute": 75,
           "team": "SWE"
+        },
+        {
+          "out": "Keito Nakamura",
+          "in": "Yuto Nagatomo",
+          "minute": 75,
+          "team": "JPN"
+        },
+        {
+          "out": "Ayumu Seko",
+          "in": "Tsuyoshi Watanabe",
+          "minute": 75,
+          "team": "JPN"
         }
       ],
       "stats": {
