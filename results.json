@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:23:33Z",
+  "updated": "2026-06-26T20:24:21Z",
   "live": [
     {
       "id": 53,
@@ -265,7 +265,7 @@
       "id": 54,
       "status": "2H",
       "minute": 56,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -273,6 +273,11 @@
           "minute": 4,
           "team": "SEN",
           "assist": "A. Seck"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 56,
+          "team": "SEN"
         }
       ],
       "redCards": [
