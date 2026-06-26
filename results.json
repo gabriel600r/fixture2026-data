@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T19:11:47Z",
+  "updated": "2026-06-26T19:12:35Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 1,
       "goals": [
@@ -236,6 +236,14 @@
           "minute": 4,
           "team": "SEN",
           "assist": "A. Seck"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Sulaka",
+          "minute": 10,
+          "team": "IRQ",
+          "color": "yellow"
         }
       ],
       "stats": {
