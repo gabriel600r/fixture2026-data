@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T01:00:32Z",
+  "updated": "2026-06-26T01:25:19Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -53,6 +53,130 @@
           "home": 10,
           "draw": 45,
           "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "5-4-1",
+            "coach": "G. Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "O. Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "J. Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "G. Velázquez",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "G. Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "O. Alderete",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "A. Maidana",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "D. Gómez",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "A. Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "M. Galarza",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "J. Enciso",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "G. Ávalos",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-3",
+            "coach": "T. Popović",
+            "xi": [
+              {
+                "n": 18,
+                "name": "P. Beach",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "A. Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "H. Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "L. Herrington",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "A. Behich",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "A. O&apos;Neill",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "J. Irvine",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "J. Bos",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "C. Metcalfe",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "N. Irankunda",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "C. Volpato",
+                "pos": "M"
+              }
+            ]
+          }
         },
         "referee": "C. Turpin"
       }
