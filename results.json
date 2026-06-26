@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:34:14Z",
+  "updated": "2026-06-26T00:35:04Z",
   "live": [
     {
       "id": 35,
@@ -244,7 +244,7 @@
     {
       "id": 36,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 3,
       "goals": [
@@ -309,6 +309,12 @@
           "in": "Crysencio Summerville",
           "minute": 72,
           "team": "NED"
+        },
+        {
+          "out": "Ismael Gharbi",
+          "in": "Firas Chaouat",
+          "minute": 75,
+          "team": "TUN"
         }
       ],
       "stats": {
