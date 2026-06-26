@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:04:28Z",
+  "updated": "2026-06-26T00:05:16Z",
   "live": [
     {
       "id": 35,
@@ -212,8 +212,8 @@
     },
     {
       "id": 36,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 47,
       "home": 0,
       "away": 2,
       "goals": [
@@ -408,7 +408,12 @@
             ]
           }
         },
-        "referee": "K. I. Garcia Mendoza"
+        "referee": "K. I. Garcia Mendoza",
+        "motm": {
+          "player": "B. Brobbey",
+          "rating": 8.11,
+          "team": "NED"
+        }
       }
     }
   ],
