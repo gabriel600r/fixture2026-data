@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:50:32Z",
+  "updated": "2026-06-26T03:51:20Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -236,7 +236,7 @@
         "referee": "C. Turpin",
         "motm": {
           "player": "O. Gill",
-          "rating": 7.57,
+          "rating": 7.58,
           "team": "PAR"
         }
       }
@@ -322,11 +322,17 @@
           "in": "Malik Tillman",
           "minute": 86,
           "team": "USA"
+        },
+        {
+          "out": "Orkun Kökçü",
+          "in": "Kaan Ayhan",
+          "minute": 88,
+          "team": "TUR"
         }
       ],
       "stats": {
         "shotsBlocked": [
-          3,
+          2,
           3
         ],
         "yellow": [
@@ -334,7 +340,7 @@
           1
         ],
         "shotsTotal": [
-          8,
+          7,
           16
         ],
         "possession": [
@@ -363,7 +369,7 @@
         ],
         "offsides": [
           2,
-          4
+          5
         ],
         "saves": [
           5,
