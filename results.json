@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:54:14Z",
+  "updated": "2026-06-26T20:55:05Z",
   "live": [
     {
       "id": 53,
@@ -86,13 +86,13 @@
         },
         {
           "out": "A. Schjelderup",
-          "in": "J. Hauge",
+          "in": "A. Nusa",
           "minute": 83,
           "team": "NOR"
         },
         {
           "out": "O. Bobb",
-          "in": "A. Nusa",
+          "in": "J. Hauge",
           "minute": 83,
           "team": "NOR"
         },
@@ -109,13 +109,14 @@
           "team": "FRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
-          83,
-          86
+          82,
+          85
         ],
         "shotsTotal": [
-          9,
+          10,
           16
         ],
         "red": [
@@ -123,11 +124,11 @@
           0
         ],
         "offsides": [
-          0,
+          1,
           2
         ],
         "shotsOutside": [
-          3,
+          4,
           7
         ],
         "shotsInside": [
@@ -139,15 +140,15 @@
           3
         ],
         "passesTotal": [
-          395,
-          485
+          397,
+          505
         ],
         "passesAccurate": [
-          326,
-          415
+          327,
+          431
         ],
         "shotsOff": [
-          2,
+          3,
           5
         ],
         "shotsOn": [
@@ -163,8 +164,8 @@
           3
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "fouls": [
           8,
@@ -318,7 +319,7 @@
     {
       "id": 54,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 5,
       "away": 0,
       "goals": [
@@ -446,7 +447,7 @@
       ],
       "stats": {
         "passesPct": [
-          86,
+          87,
           72
         ],
         "shotsTotal": [
@@ -474,12 +475,12 @@
           4
         ],
         "passesTotal": [
-          463,
-          241
+          502,
+          245
         ],
         "passesAccurate": [
-          400,
-          174
+          439,
+          176
         ],
         "shotsOff": [
           11,
@@ -498,8 +499,8 @@
           4
         ],
         "possession": [
-          66,
-          34
+          68,
+          32
         ],
         "fouls": [
           9,
@@ -645,7 +646,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Pape Gueye",
-          "rating": 9.3,
+          "rating": 9.7,
           "team": "SEN"
         }
       }
