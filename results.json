@@ -19337,13 +19337,5 @@
   ],
   "flags": {
     "prode_merge_sync": true
-  },
-  "survey": {
-    "url": "https://forms.gle/zUSDRtwcBnj29rXSA",
-    "banner_es": "¿Querés que la app siga después del Mundial? Contanos 👉",
-    "banner_en": "Want the app to continue after the World Cup? Tell us 👉",
-    "menu_es": "Contanos / Encuesta",
-    "menu_en": "Tell us / Survey",
-    "url_en": "https://forms.gle/1SvXFkqEBQwLWd2C6"
   }
 }
