@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T03:30:24Z",
+  "updated": "2026-06-26T03:31:12Z",
   "live": [
     {
       "id": 24,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -27,6 +27,12 @@
           "in": "Ajdin Hrustic",
           "minute": 58,
           "team": "AUS"
+        },
+        {
+          "out": "Julio Enciso",
+          "in": "Alex Arce",
+          "minute": 67,
+          "team": "PAR"
         }
       ],
       "stats": {
@@ -43,8 +49,8 @@
           9
         ],
         "possession": [
-          39,
-          61
+          40,
+          60
         ],
         "shotsOff": [
           3,
@@ -231,10 +237,10 @@
           "assist": "Baris Alper Yilmaz"
         },
         {
-          "player": "Orkun Kökçü",
+          "player": "Baris Alper Yilmaz",
           "minute": 31,
           "team": "TUR",
-          "assist": "Eren Elmalı"
+          "assist": "Orkun Kökçü"
         },
         {
           "player": "Sebastian Berhalter",
@@ -292,7 +298,7 @@
           7
         ],
         "fouls": [
-          9,
+          10,
           10
         ],
         "offsides": [
