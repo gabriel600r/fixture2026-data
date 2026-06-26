@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T02:18:55Z",
+  "updated": "2026-06-26T02:19:43Z",
   "live": [
     {
       "id": 24,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,8 +17,8 @@
           2
         ],
         "possession": [
-          37,
-          63
+          35,
+          65
         ],
         "shotsOff": [
           0,
@@ -37,8 +37,8 @@
           1
         ],
         "fouls": [
-          1,
-          2
+          2,
+          3
         ],
         "saves": [
           1,
@@ -183,7 +183,7 @@
     {
       "id": 23,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 1,
       "away": 1,
       "goals": [
@@ -196,7 +196,16 @@
         {
           "player": "Arda Güler",
           "minute": 10,
-          "team": "TUR"
+          "team": "TUR",
+          "assist": "Baris Alper Yilmaz"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Sebastian Berhalter",
+          "minute": 19,
+          "team": "USA",
+          "color": "yellow"
         }
       ],
       "stats": {
@@ -206,15 +215,15 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           1,
           5
         ],
         "possession": [
-          44,
-          56
+          39,
+          61
         ],
         "shotsOff": [
           0,
