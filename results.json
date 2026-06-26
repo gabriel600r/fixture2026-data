@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-26T19:33:35Z",
+  "updated": "2026-06-26T19:34:23Z",
   "live": [
     {
       "id": 53,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "O. Dembele",
@@ -25,6 +25,11 @@
           "minute": 21,
           "team": "NOR",
           "assist": "A. Schjelderup"
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 32,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
@@ -239,7 +244,7 @@
     {
       "id": 54,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 1,
       "away": 0,
       "goals": [
@@ -277,8 +282,8 @@
       ],
       "stats": {
         "passesPct": [
-          82,
-          80
+          87,
+          79
         ],
         "shotsTotal": [
           6,
@@ -305,12 +310,12 @@
           1
         ],
         "passesTotal": [
-          57,
-          71
+          105,
+          85
         ],
         "passesAccurate": [
-          47,
-          57
+          91,
+          67
         ],
         "shotsOff": [
           3,
@@ -329,11 +334,11 @@
           2
         ],
         "possession": [
-          46,
-          54
+          56,
+          44
         ],
         "fouls": [
-          2,
+          3,
           3
         ],
         "yellow": [
