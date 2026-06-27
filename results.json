@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:34:27Z",
+  "updated": "2026-06-27T22:35:16Z",
   "live": [
     {
       "id": 71,
@@ -90,6 +90,10 @@
           0,
           0
         ],
+        "passesPct": [
+          73,
+          89
+        ],
         "fouls": [
           12,
           8
@@ -98,13 +102,25 @@
           0,
           2
         ],
+        "shotsInside": [
+          4,
+          10
+        ],
         "corners": [
           1,
           6
         ],
+        "passesTotal": [
+          190,
+          438
+        ],
+        "shotsOutside": [
+          2,
+          4
+        ],
         "possession": [
-          29,
-          71
+          31,
+          69
         ],
         "offsides": [
           1,
@@ -113,6 +129,10 @@
         "shotsOn": [
           2,
           5
+        ],
+        "passesAccurate": [
+          138,
+          388
         ],
         "shotsOff": [
           4,
@@ -253,8 +273,8 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "J. Bellingham",
-          "rating": 9.0,
+          "player": "Jude Bellingham",
+          "rating": 9.3,
           "team": "ENG"
         }
       }
@@ -262,7 +282,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 1,
       "goals": [
@@ -336,16 +356,32 @@
           0,
           0
         ],
+        "passesPct": [
+          92,
+          91
+        ],
         "fouls": [
-          5,
+          6,
           9
         ],
         "shotsBlocked": [
           1,
           1
         ],
+        "shotsInside": [
+          2,
+          1
+        ],
         "corners": [
           0,
+          2
+        ],
+        "passesTotal": [
+          436,
+          390
+        ],
+        "shotsOutside": [
+          3,
           2
         ],
         "possession": [
@@ -359,6 +395,10 @@
         "shotsOn": [
           2,
           0
+        ],
+        "passesAccurate": [
+          403,
+          355
         ],
         "shotsOff": [
           2,
@@ -499,8 +539,8 @@
         },
         "referee": "Drew Fischer, Canada",
         "motm": {
-          "player": "P. Sučić",
-          "rating": 8.2,
+          "player": "Petar Sučić",
+          "rating": 8.0,
           "team": "CRO"
         }
       }
