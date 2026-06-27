@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:35:18Z",
+  "updated": "2026-06-27T01:36:07Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -63,6 +63,18 @@
           "in": "A. Al Hamdan",
           "minute": 66,
           "team": "KSA"
+        },
+        {
+          "out": "J. Monteiro",
+          "in": "L. Duarte",
+          "minute": 72,
+          "team": "CPV"
+        },
+        {
+          "out": "R. Mendes",
+          "in": "G. Rodrigues",
+          "minute": 72,
+          "team": "CPV"
         }
       ],
       "stats": {
@@ -96,11 +108,11 @@
         ],
         "passesTotal": [
           369,
-          313
+          317
         ],
         "passesAccurate": [
           314,
-          248
+          251
         ],
         "shotsOff": [
           5,
@@ -274,7 +286,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 1,
       "goals": [
