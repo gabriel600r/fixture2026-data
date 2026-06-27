@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:56:17Z",
+  "updated": "2026-06-27T01:57:05Z",
   "live": [
     {
       "id": 47,
@@ -83,11 +83,11 @@
           "team": "KSA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           85,
-          80
+          81
         ],
         "shotsTotal": [
           15,
@@ -114,12 +114,12 @@
           2
         ],
         "passesTotal": [
-          422,
-          398
+          431,
+          421
         ],
         "passesAccurate": [
-          360,
-          317
+          367,
+          339
         ],
         "shotsOff": [
           8,
@@ -138,12 +138,12 @@
           3
         ],
         "possession": [
-          52,
-          48
+          51,
+          49
         ],
         "fouls": [
           10,
-          14
+          15
         ],
         "yellow": [
           1,
@@ -284,9 +284,9 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Abdulelah Al-Amri",
-          "rating": 7.7,
-          "team": "KSA"
+          "player": "Pico",
+          "rating": 7.3,
+          "team": "CPV"
         }
       }
     },
@@ -383,7 +383,7 @@
       "extra": 2,
       "stats": {
         "passesPct": [
-          76,
+          77,
           89
         ],
         "shotsTotal": [
@@ -411,11 +411,11 @@
           2
         ],
         "passesTotal": [
-          259,
+          283,
           612
         ],
         "passesAccurate": [
-          196,
+          218,
           545
         ],
         "shotsOff": [
@@ -435,11 +435,11 @@
           1
         ],
         "possession": [
-          30,
-          70
+          32,
+          68
         ],
         "fouls": [
-          11,
+          12,
           14
         ],
         "yellow": [
