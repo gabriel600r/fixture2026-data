@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:21:35Z",
+  "updated": "2026-06-27T01:22:24Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -65,11 +65,11 @@
           1
         ],
         "passesTotal": [
-          268,
-          259
+          282,
+          260
         ],
         "passesAccurate": [
-          224,
+          237,
           208
         ],
         "shotsOff": [
@@ -81,7 +81,7 @@
           1
         ],
         "corners": [
-          2,
+          3,
           1
         ],
         "shotsBlocked": [
@@ -89,12 +89,12 @@
           2
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "fouls": [
           7,
-          9
+          10
         ],
         "yellow": [
           1,
@@ -235,8 +235,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Ali Lajami",
-          "rating": 7.3,
+          "player": "Abdulelah Al-Amri",
+          "rating": 7.2,
           "team": "KSA"
         }
       }
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 1,
       "goals": [
@@ -291,7 +291,7 @@
       ],
       "stats": {
         "passesPct": [
-          76,
+          75,
           90
         ],
         "shotsTotal": [
@@ -319,12 +319,12 @@
           1
         ],
         "passesTotal": [
-          165,
-          415
+          170,
+          418
         ],
         "passesAccurate": [
-          125,
-          374
+          128,
+          376
         ],
         "shotsOff": [
           2,
@@ -347,8 +347,8 @@
           71
         ],
         "fouls": [
-          3,
-          9
+          4,
+          10
         ],
         "yellow": [
           1,
