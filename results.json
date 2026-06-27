@@ -1,19 +1,31 @@
 {
-  "updated": "2026-06-27T23:46:21Z",
+  "updated": "2026-06-27T23:48:56Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 13,
+      "minute": 17,
       "home": 0,
       "away": 0
     },
     {
       "id": 66,
       "status": "1H",
-      "minute": 13,
+      "minute": 16,
       "home": 0,
-      "away": 1
+      "away": 1,
+      "goals": [
+        {
+          "player": "E. Shomurodov",
+          "minute": 10,
+          "team": "UZB"
+        },
+        {
+          "player": "N. Mbuku",
+          "minute": 17,
+          "team": "COD"
+        }
+      ]
     }
   ],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
