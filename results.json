@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T03:22:41Z",
+  "updated": "2026-06-27T03:23:29Z",
   "live": [
     {
       "id": 41,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 1,
       "away": 1,
       "goals": [
@@ -43,12 +43,12 @@
       ],
       "stats": {
         "passesPct": [
-          88,
-          84
+          87,
+          81
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "red": [
           0,
@@ -64,23 +64,23 @@
         ],
         "shotsInside": [
           3,
-          3
+          4
         ],
         "saves": [
           2,
           0
         ],
         "passesTotal": [
-          89,
-          75
+          100,
+          78
         ],
         "passesAccurate": [
-          78,
+          87,
           63
         ],
         "shotsOff": [
           1,
-          0
+          1
         ],
         "shotsOn": [
           1,
@@ -95,15 +95,15 @@
           0
         ],
         "possession": [
-          54,
-          46
+          56,
+          44
         ],
         "fouls": [
-          2,
+          3,
           3
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "home": "EGY",
@@ -245,17 +245,17 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
         "passesPct": [
-          78,
-          89
+          75,
+          88
         ],
         "shotsTotal": [
           0,
-          6
+          7
         ],
         "red": [
           0,
@@ -271,19 +271,19 @@
         ],
         "shotsInside": [
           0,
-          4
+          5
         ],
         "saves": [
           2,
           0
         ],
         "passesTotal": [
-          51,
-          140
+          53,
+          154
         ],
         "passesAccurate": [
           40,
-          124
+          136
         ],
         "shotsOff": [
           0,
@@ -299,14 +299,14 @@
         ],
         "shotsBlocked": [
           0,
-          1
+          2
         ],
         "possession": [
-          26,
-          74
+          25,
+          75
         ],
         "fouls": [
-          0,
+          1,
           0
         ],
         "yellow": [
