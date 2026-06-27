@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:09:46Z",
+  "updated": "2026-06-27T00:10:34Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "S. Abdulhamid",
           "minute": 4,
           "team": "KSA",
+          "color": "yellow"
+        },
+        {
+          "player": "W. Pina",
+          "minute": 9,
+          "team": "CPV",
           "color": "yellow"
         }
       ],
@@ -219,7 +225,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 0,
       "stats": {
