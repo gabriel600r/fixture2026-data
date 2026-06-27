@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:48:16Z",
+  "updated": "2026-06-27T03:49:04Z",
   "live": [
     {
       "id": 41,
@@ -53,15 +53,15 @@
           "team": "EGY"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           88,
-          75
+          76
         ],
         "shotsTotal": [
           7,
-          5
+          6
         ],
         "red": [
           0,
@@ -77,23 +77,23 @@
         ],
         "shotsInside": [
           3,
-          5
+          6
         ],
         "saves": [
           2,
           1
         ],
         "passesTotal": [
-          244,
-          159
+          253,
+          169
         ],
         "passesAccurate": [
-          214,
-          120
+          222,
+          129
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "shotsOn": [
           2,
@@ -108,8 +108,8 @@
           0
         ],
         "possession": [
-          61,
-          39
+          60,
+          40
         ],
         "fouls": [
           6,
@@ -268,15 +268,15 @@
           "team": "BEL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
-          83,
-          89
+          84,
+          88
         ],
         "shotsTotal": [
           1,
-          12
+          13
         ],
         "red": [
           0,
@@ -288,7 +288,7 @@
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "shotsInside": [
           0,
@@ -299,12 +299,12 @@
           0
         ],
         "passesTotal": [
-          156,
-          257
+          171,
+          276
         ],
         "passesAccurate": [
-          129,
-          229
+          144,
+          243
         ],
         "shotsOff": [
           1,
@@ -320,11 +320,11 @@
         ],
         "shotsBlocked": [
           0,
-          4
+          5
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "fouls": [
           3,
