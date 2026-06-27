@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:26:09Z",
+  "updated": "2026-06-27T04:26:57Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 1,
       "goals": [
@@ -286,7 +286,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 0,
       "away": 2,
       "goals": [
@@ -334,6 +334,18 @@
           "in": "M. Fernandez-Pardo",
           "minute": 56,
           "team": "BEL"
+        },
+        {
+          "out": "T. Payne",
+          "in": "M. Boxall",
+          "minute": 64,
+          "team": "NZL"
+        },
+        {
+          "out": "J. Bell",
+          "in": "C. McCowatt",
+          "minute": 64,
+          "team": "NZL"
         }
       ],
       "stats": {
