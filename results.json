@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:29:21Z",
+  "updated": "2026-06-27T04:30:19Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -286,7 +286,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 3,
       "goals": [
@@ -303,7 +303,7 @@
         },
         {
           "player": "K. De Bruyne",
-          "minute": 67,
+          "minute": 66,
           "team": "BEL"
         }
       ],
