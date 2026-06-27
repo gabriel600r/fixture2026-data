@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:47:08Z",
+  "updated": "2026-06-27T04:47:56Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -125,12 +125,12 @@
           2
         ],
         "passesTotal": [
-          514,
-          280
+          523,
+          289
         ],
         "passesAccurate": [
-          455,
-          207
+          463,
+          214
         ],
         "shotsOff": [
           5,
@@ -149,8 +149,8 @@
           1
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "fouls": [
           9,
@@ -158,7 +158,7 @@
         ],
         "yellow": [
           2,
-          2
+          3
         ],
         "home": "EGY",
         "away": "IRN"
@@ -304,7 +304,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 3,
       "goals": [
@@ -392,15 +392,27 @@
           "in": "F. De Vries",
           "minute": 79,
           "team": "NZL"
+        },
+        {
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 85,
+          "team": "BEL"
+        },
+        {
+          "out": "Y. Tielemans",
+          "in": "N. Raskin",
+          "minute": 85,
+          "team": "BEL"
         }
       ],
       "stats": {
         "passesPct": [
           83,
-          87
+          88
         ],
         "shotsTotal": [
-          5,
+          6,
           30
         ],
         "red": [
@@ -416,7 +428,7 @@
           9
         ],
         "shotsInside": [
-          2,
+          3,
           21
         ],
         "saves": [
@@ -424,23 +436,23 @@
           1
         ],
         "passesTotal": [
-          347,
-          470
+          363,
+          481
         ],
         "passesAccurate": [
-          289,
-          411
+          303,
+          422
         ],
         "shotsOff": [
           3,
           11
         ],
         "shotsOn": [
-          1,
+          2,
           7
         ],
         "corners": [
-          4,
+          5,
           7
         ],
         "shotsBlocked": [
@@ -448,8 +460,8 @@
           12
         ],
         "possession": [
-          43,
-          57
+          44,
+          56
         ],
         "fouls": [
           9,
