@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:09:18Z",
+  "updated": "2026-06-27T04:10:09Z",
   "live": [
     {
       "id": 41,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -51,9 +51,14 @@
           "in": "Y. Ibrahim",
           "minute": 14,
           "team": "EGY"
+        },
+        {
+          "out": "A. Nemati",
+          "in": "S. Hardani",
+          "minute": 46,
+          "team": "IRN"
         }
       ],
-      "extra": 6,
       "stats": {
         "passesPct": [
           88,
@@ -252,13 +257,18 @@
             ]
           }
         },
-        "referee": "Szymon Marciniak, Poland"
+        "referee": "Szymon Marciniak, Poland",
+        "motm": {
+          "player": "Mahmoud Saber",
+          "rating": 7.3,
+          "team": "EGY"
+        }
       }
     },
     {
       "id": 42,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 1,
       "goals": [
@@ -292,7 +302,7 @@
       ],
       "stats": {
         "passesPct": [
-          84,
+          85,
           89
         ],
         "shotsTotal": [
@@ -320,12 +330,12 @@
           0
         ],
         "passesTotal": [
-          191,
-          317
+          201,
+          319
         ],
         "passesAccurate": [
-          161,
-          282
+          170,
+          283
         ],
         "shotsOff": [
           1,
@@ -344,12 +354,12 @@
           6
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "fouls": [
           4,
-          1
+          2
         ],
         "yellow": [
           0,
