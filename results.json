@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T21:32:06Z",
+  "updated": "2026-06-27T21:32:54Z",
   "live": [
     {
       "id": 71,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 0,
       "stats": {
@@ -25,8 +25,8 @@
           0
         ],
         "passesPct": [
-          75,
-          91
+          74,
+          90
         ],
         "fouls": [
           7,
@@ -45,8 +45,8 @@
           4
         ],
         "passesTotal": [
-          69,
-          169
+          72,
+          181
         ],
         "shotsOutside": [
           1,
@@ -65,8 +65,8 @@
           1
         ],
         "passesAccurate": [
-          52,
-          153
+          53,
+          163
         ],
         "shotsOff": [
           1,
@@ -211,9 +211,16 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 31,
-      "home": 0,
+      "minute": 32,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "P. Sucic",
+          "minute": 31,
+          "team": "CRO"
+        }
+      ],
       "stats": {
         "yellow": [
           0,
@@ -237,7 +244,7 @@
         ],
         "fouls": [
           1,
-          4
+          5
         ],
         "shotsBlocked": [
           0,
@@ -252,7 +259,7 @@
           0
         ],
         "passesTotal": [
-          156,
+          169,
           184
         ],
         "shotsOutside": [
@@ -260,8 +267,8 @@
           0
         ],
         "possession": [
-          46,
-          54
+          48,
+          52
         ],
         "offsides": [
           0,
@@ -272,7 +279,7 @@
           0
         ],
         "passesAccurate": [
-          147,
+          159,
           169
         ],
         "shotsOff": [
