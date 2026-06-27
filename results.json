@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:51:02Z",
+  "updated": "2026-06-27T22:51:52Z",
   "live": [
     {
       "id": 71,
@@ -103,15 +103,15 @@
           "team": "PAN"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "yellow": [
           2,
           1
         ],
         "shotsTotal": [
-          11,
-          15
+          12,
+          16
         ],
         "saves": [
           3,
@@ -123,7 +123,7 @@
         ],
         "passesPct": [
           75,
-          89
+          88
         ],
         "fouls": [
           14,
@@ -135,18 +135,18 @@
         ],
         "shotsInside": [
           8,
-          11
+          12
         ],
         "corners": [
           2,
           6
         ],
         "passesTotal": [
-          250,
-          519
+          254,
+          534
         ],
         "shotsOutside": [
-          3,
+          4,
           4
         ],
         "possession": [
@@ -159,14 +159,14 @@
         ],
         "shotsOn": [
           2,
-          5
+          6
         ],
         "passesAccurate": [
-          188,
-          461
+          190,
+          472
         ],
         "shotsOff": [
-          6,
+          7,
           8
         ],
         "home": "PAN",
@@ -400,6 +400,7 @@
           "team": "CRO"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           1,
