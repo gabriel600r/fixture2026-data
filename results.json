@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:09:28Z",
+  "updated": "2026-06-27T01:10:16Z",
   "live": [
     {
       "id": 47,
@@ -26,6 +26,12 @@
           "out": "H. Tambakti",
           "in": "A. Lajami",
           "minute": 33,
+          "team": "KSA"
+        },
+        {
+          "out": "A. Al Khaibari",
+          "in": "M. Al Juwayr",
+          "minute": 46,
           "team": "KSA"
         }
       ],
@@ -237,8 +243,8 @@
     },
     {
       "id": 48,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -255,9 +261,14 @@
           "in": "N. de la Cruz",
           "minute": 45,
           "team": "URU"
+        },
+        {
+          "out": "F. Muslera",
+          "in": "S. Rochet",
+          "minute": 46,
+          "team": "URU"
         }
       ],
-      "extra": 8,
       "stats": {
         "passesPct": [
           70,
@@ -456,7 +467,12 @@
             ]
           }
         },
-        "referee": "Ismail Elfath, USA"
+        "referee": "Ismail Elfath, USA",
+        "motm": {
+          "player": "Alex Baena",
+          "rating": 7.3,
+          "team": "ESP"
+        }
       }
     }
   ],
