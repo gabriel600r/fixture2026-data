@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T03:51:27Z",
+  "updated": "2026-06-27T03:52:15Z",
   "live": [
     {
       "id": 41,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 1,
       "goals": [
@@ -268,7 +268,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesPct": [
           85,
