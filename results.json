@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:57:32Z",
+  "updated": "2026-06-27T04:58:19Z",
   "live": [
     {
       "id": 41,
@@ -19,7 +19,7 @@
           "team": "IRN"
         },
         {
-          "player": null,
+          "player": "S. Khalilzadeh",
           "minute": 90,
           "team": "IRN"
         }
@@ -112,7 +112,7 @@
           "team": "IRN"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           88,
