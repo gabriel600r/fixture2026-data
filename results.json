@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-27T00:41:10Z",
+  "updated": "2026-06-27T00:41:58Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Saud Abdulhamid",
+          "player": "S. Abdulhamid",
           "minute": 4,
           "team": "KSA",
           "color": "yellow"
         },
         {
-          "player": "Wagner Pina",
+          "player": "W. Pina",
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
@@ -23,13 +23,17 @@
       ],
       "subs": [
         {
-          "out": "Hassan Al-Tambakti",
-          "in": "Ali Lajami",
+          "out": "H. Tambakti",
+          "in": "A. Lajami",
           "minute": 33,
           "team": "KSA"
         }
       ],
       "stats": {
+        "passesPct": [
+          83,
+          81
+        ],
         "shotsTotal": [
           2,
           1
@@ -37,6 +41,30 @@
         "red": [
           0,
           0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          2,
+          1
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          160,
+          137
+        ],
+        "passesAccurate": [
+          133,
+          111
         ],
         "shotsOff": [
           1,
@@ -205,10 +233,14 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 0,
       "stats": {
+        "passesPct": [
+          69,
+          90
+        ],
         "shotsTotal": [
           2,
           2
@@ -220,6 +252,26 @@
         "offsides": [
           1,
           1
+        ],
+        "shotsOutside": [
+          1,
+          0
+        ],
+        "shotsInside": [
+          1,
+          2
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          99,
+          277
+        ],
+        "passesAccurate": [
+          68,
+          248
         ],
         "shotsOff": [
           1,
