@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:28:31Z",
+  "updated": "2026-06-27T22:29:19Z",
   "live": [
     {
       "id": 71,
@@ -256,7 +256,7 @@
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.5,
+          "rating": 8.3,
           "team": "ENG"
         }
       }
@@ -264,7 +264,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 0,
       "goals": [
@@ -273,6 +273,14 @@
           "minute": 31,
           "team": "CRO",
           "assist": "M. Kovacic"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "I. Perisic",
+          "minute": 68,
+          "team": "CRO",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -496,7 +504,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Petar Sučić",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "CRO"
         }
       }
