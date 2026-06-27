@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:43:32Z",
+  "updated": "2026-06-27T22:44:21Z",
   "live": [
     {
       "id": 71,
@@ -300,8 +300,8 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 82,
-      "home": 1,
+      "minute": 83,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -315,6 +315,12 @@
           "minute": 73,
           "team": "GHA",
           "assist": "E. Nuamah"
+        },
+        {
+          "player": "N. Vlasic",
+          "minute": 83,
+          "team": "CRO",
+          "assist": "L. Modric"
         }
       ],
       "cardEvents": [
