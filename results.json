@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T04:59:09Z",
+  "updated": "2026-06-27T04:59:56Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 2,
+      "away": 1,
       "goals": [
         {
           "player": "M. Saber",
@@ -112,7 +112,7 @@
           "team": "IRN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesPct": [
           88,
