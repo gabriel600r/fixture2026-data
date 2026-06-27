@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:36:07Z",
+  "updated": "2026-06-27T01:36:55Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -65,15 +65,15 @@
           "team": "KSA"
         },
         {
-          "out": "J. Monteiro",
-          "in": "L. Duarte",
-          "minute": 72,
+          "out": "R. Mendes",
+          "in": "G. Rodrigues",
+          "minute": 71,
           "team": "CPV"
         },
         {
-          "out": "R. Mendes",
-          "in": "G. Rodrigues",
-          "minute": 72,
+          "out": "J. Monteiro",
+          "in": "L. Duarte",
+          "minute": 71,
           "team": "CPV"
         }
       ],
@@ -277,8 +277,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Abdulelah Al-Amri",
-          "rating": 7.3,
+          "player": "Ali Lajami",
+          "rating": 7.5,
           "team": "KSA"
         }
       }
@@ -286,7 +286,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 1,
       "goals": [
