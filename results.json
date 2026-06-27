@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T03:43:26Z",
+  "updated": "2026-06-27T03:44:14Z",
   "live": [
     {
       "id": 41,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 1,
       "away": 1,
       "goals": [
@@ -36,6 +36,12 @@
           "player": "Y. Ibrahim",
           "minute": 42,
           "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Nemati",
+          "minute": 43,
+          "team": "IRN",
           "color": "yellow"
         }
       ],
@@ -251,7 +257,7 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 1,
       "goals": [
