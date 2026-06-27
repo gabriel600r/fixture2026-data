@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:32:49Z",
+  "updated": "2026-06-27T22:33:38Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 2,
       "goals": [
@@ -262,7 +262,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 71,
+      "minute": 73,
       "home": 1,
       "away": 0,
       "goals": [
@@ -299,6 +299,18 @@
           "in": "I. Matanovic",
           "minute": 66,
           "team": "CRO"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "B. Thomas-Asante",
+          "minute": 71,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sulemana",
+          "in": "E. Nuamah",
+          "minute": 71,
+          "team": "GHA"
         }
       ],
       "stats": {
