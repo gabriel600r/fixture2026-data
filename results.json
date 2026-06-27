@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:59:07Z",
+  "updated": "2026-06-27T04:59:09Z",
   "live": [
     {
       "id": 41,
@@ -316,330 +316,6 @@
           "player": "Mahmoud Saber",
           "rating": 7.3,
           "team": "EGY"
-        }
-      }
-    },
-    {
-      "id": 42,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 5,
-      "goals": [
-        {
-          "player": "L. Trossard",
-          "minute": 28,
-          "team": "BEL"
-        },
-        {
-          "player": "L. Trossard",
-          "minute": 50,
-          "team": "BEL",
-          "assist": "H. Vanaken"
-        },
-        {
-          "player": "K. De Bruyne",
-          "minute": 66,
-          "team": "BEL"
-        },
-        {
-          "player": "E. Just",
-          "minute": 84,
-          "team": "NZL"
-        },
-        {
-          "player": "R. Lukaku",
-          "minute": 86,
-          "team": "BEL",
-          "assist": "N. Raskin"
-        },
-        {
-          "player": "A. Saelemaekers",
-          "minute": 90,
-          "team": "BEL",
-          "assist": "R. Lukaku"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Stamenic",
-          "minute": 46,
-          "team": "NZL",
-          "color": "yellow"
-        },
-        {
-          "player": "E. Just",
-          "minute": 56,
-          "team": "NZL",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "S. Singh",
-          "in": "J. Randall",
-          "minute": 46,
-          "team": "NZL"
-        },
-        {
-          "out": "R. Thomas",
-          "in": "B. Old",
-          "minute": 46,
-          "team": "NZL"
-        },
-        {
-          "out": "J. Doku",
-          "in": "M. Fernandez-Pardo",
-          "minute": 56,
-          "team": "BEL"
-        },
-        {
-          "out": "T. Payne",
-          "in": "M. Boxall",
-          "minute": 64,
-          "team": "NZL"
-        },
-        {
-          "out": "J. Bell",
-          "in": "C. McCowatt",
-          "minute": 64,
-          "team": "NZL"
-        },
-        {
-          "out": "L. Trossard",
-          "in": "A. Saelemaekers",
-          "minute": 72,
-          "team": "BEL"
-        },
-        {
-          "out": "K. De Bruyne",
-          "in": "A. Onana",
-          "minute": 72,
-          "team": "BEL"
-        },
-        {
-          "out": "L. Cacace",
-          "in": "F. De Vries",
-          "minute": 79,
-          "team": "NZL"
-        },
-        {
-          "out": "C. De Ketelaere",
-          "in": "R. Lukaku",
-          "minute": 85,
-          "team": "BEL"
-        },
-        {
-          "out": "Y. Tielemans",
-          "in": "N. Raskin",
-          "minute": 85,
-          "team": "BEL"
-        }
-      ],
-      "extra": 5,
-      "stats": {
-        "passesPct": [
-          84,
-          88
-        ],
-        "shotsTotal": [
-          6,
-          34
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          1,
-          1
-        ],
-        "shotsOutside": [
-          3,
-          12
-        ],
-        "shotsInside": [
-          3,
-          22
-        ],
-        "saves": [
-          5,
-          1
-        ],
-        "passesTotal": [
-          417,
-          521
-        ],
-        "passesAccurate": [
-          352,
-          459
-        ],
-        "shotsOff": [
-          3,
-          13
-        ],
-        "shotsOn": [
-          2,
-          9
-        ],
-        "corners": [
-          5,
-          8
-        ],
-        "shotsBlocked": [
-          1,
-          12
-        ],
-        "possession": [
-          45,
-          55
-        ],
-        "fouls": [
-          10,
-          7
-        ],
-        "yellow": [
-          2,
-          0
-        ],
-        "home": "NZL",
-        "away": "BEL"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": null,
-            "xi": [
-              {
-                "n": 1,
-                "name": "Max Crocombe",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Tim Payne",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Finn Surman",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Tyler Bindon",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Liberato Cacace",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Joe Bell",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Marko Stamenić",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Sarpreet Singh",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Ryan Thomas",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Elijah Just",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Chris Wood",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Rudi Garcia",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Thibaut Courtois",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "Timothy Castagne",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Brandon Mechele",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Arthur Theate",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Maxim De Cuyper",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Youri Tielemans",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Hans Vanaken",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Jérémy Doku",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kevin De Bruyne",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Leandro Trossard",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Charles De Ketelaere",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Adham Mohammad, Jordan",
-        "motm": {
-          "player": "Leandro Trossard",
-          "rating": 8.3,
-          "team": "BEL"
         }
       }
     }
@@ -12901,6 +12577,327 @@
       }
     },
     {
+      "id": 42,
+      "home": 1,
+      "away": 5,
+      "goals": [
+        {
+          "player": "L. Trossard",
+          "minute": 28,
+          "team": "BEL"
+        },
+        {
+          "player": "L. Trossard",
+          "minute": 50,
+          "team": "BEL",
+          "assist": "H. Vanaken"
+        },
+        {
+          "player": "K. De Bruyne",
+          "minute": 66,
+          "team": "BEL"
+        },
+        {
+          "player": "E. Just",
+          "minute": 84,
+          "team": "NZL"
+        },
+        {
+          "player": "R. Lukaku",
+          "minute": 86,
+          "team": "BEL",
+          "assist": "N. Raskin"
+        },
+        {
+          "player": "A. Saelemaekers",
+          "minute": 90,
+          "team": "BEL",
+          "assist": "R. Lukaku"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Stamenic",
+          "minute": 46,
+          "team": "NZL",
+          "color": "yellow"
+        },
+        {
+          "player": "E. Just",
+          "minute": 56,
+          "team": "NZL",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "S. Singh",
+          "in": "J. Randall",
+          "minute": 46,
+          "team": "NZL"
+        },
+        {
+          "out": "R. Thomas",
+          "in": "B. Old",
+          "minute": 46,
+          "team": "NZL"
+        },
+        {
+          "out": "J. Doku",
+          "in": "M. Fernandez-Pardo",
+          "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "T. Payne",
+          "in": "M. Boxall",
+          "minute": 64,
+          "team": "NZL"
+        },
+        {
+          "out": "J. Bell",
+          "in": "C. McCowatt",
+          "minute": 64,
+          "team": "NZL"
+        },
+        {
+          "out": "L. Trossard",
+          "in": "A. Saelemaekers",
+          "minute": 72,
+          "team": "BEL"
+        },
+        {
+          "out": "K. De Bruyne",
+          "in": "A. Onana",
+          "minute": 72,
+          "team": "BEL"
+        },
+        {
+          "out": "L. Cacace",
+          "in": "F. De Vries",
+          "minute": 79,
+          "team": "NZL"
+        },
+        {
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 85,
+          "team": "BEL"
+        },
+        {
+          "out": "Y. Tielemans",
+          "in": "N. Raskin",
+          "minute": 85,
+          "team": "BEL"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          84,
+          88
+        ],
+        "shotsTotal": [
+          6,
+          34
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          1,
+          1
+        ],
+        "shotsOutside": [
+          3,
+          12
+        ],
+        "shotsInside": [
+          3,
+          22
+        ],
+        "saves": [
+          5,
+          1
+        ],
+        "passesTotal": [
+          417,
+          521
+        ],
+        "passesAccurate": [
+          352,
+          459
+        ],
+        "shotsOff": [
+          3,
+          13
+        ],
+        "shotsOn": [
+          2,
+          9
+        ],
+        "corners": [
+          5,
+          8
+        ],
+        "shotsBlocked": [
+          1,
+          12
+        ],
+        "possession": [
+          45,
+          55
+        ],
+        "fouls": [
+          10,
+          7
+        ],
+        "yellow": [
+          2,
+          0
+        ],
+        "home": "NZL",
+        "away": "BEL"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": null,
+            "xi": [
+              {
+                "n": 1,
+                "name": "Max Crocombe",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Tim Payne",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Finn Surman",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Bindon",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Liberato Cacace",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Joe Bell",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Marko Stamenić",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Sarpreet Singh",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Ryan Thomas",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Elijah Just",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Chris Wood",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Rudi Garcia",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Thibaut Courtois",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Timothy Castagne",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Brandon Mechele",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Arthur Theate",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Maxim De Cuyper",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Youri Tielemans",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Hans Vanaken",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jérémy Doku",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kevin De Bruyne",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Trossard",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Charles De Ketelaere",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Adham Mohammad, Jordan",
+        "motm": {
+          "player": "Leandro Trossard",
+          "rating": 8.3,
+          "team": "BEL"
+        }
+      }
+    },
+    {
       "id": 43,
       "home": 0,
       "away": 0,
@@ -20113,6 +20110,11 @@
         "assists": 2
       },
       {
+        "player": "Elijah Just",
+        "team": "NZL",
+        "goals": 3
+      },
+      {
         "player": "I. Sarr",
         "team": "SEN",
         "goals": 3,
@@ -20200,11 +20202,6 @@
         "goals": 2
       },
       {
-        "player": "Elijah Just",
-        "team": "NZL",
-        "goals": 2
-      },
-      {
         "player": "Folarin Balogun",
         "team": "USA",
         "goals": 2
@@ -20212,6 +20209,11 @@
       {
         "player": "Julián Quiñones",
         "team": "MEX",
+        "goals": 2
+      },
+      {
+        "player": "L. Trossard",
+        "team": "BEL",
         "goals": 2
       },
       {
@@ -20230,12 +20232,6 @@
         "player": "Nicolas Pépé",
         "team": "CIV",
         "goals": 2
-      },
-      {
-        "player": "P. Gueye",
-        "team": "SEN",
-        "goals": 2,
-        "assists": 1
       }
     ],
     "assists": [
@@ -20781,6 +20777,20 @@
       "form": "DWD"
     },
     {
+      "code": "BEL",
+      "played": 3,
+      "wins": 1,
+      "draws": 2,
+      "loses": 0,
+      "gf": 6,
+      "ga": 2,
+      "cleanSheets": 1,
+      "failedToScore": 1,
+      "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DDW"
+    },
+    {
       "code": "CAN",
       "played": 3,
       "wins": 1,
@@ -21047,20 +21057,6 @@
       "form": "WLL"
     },
     {
-      "code": "BEL",
-      "played": 2,
-      "wins": 0,
-      "draws": 2,
-      "loses": 0,
-      "gf": 1,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "DD"
-    },
-    {
       "code": "IRN",
       "played": 2,
       "wins": 0,
@@ -21117,20 +21113,6 @@
       "form": "DL"
     },
     {
-      "code": "NZL",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 3,
-      "ga": 5,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-3",
-      "form": "DL"
-    },
-    {
       "code": "CZE",
       "played": 3,
       "wins": 0,
@@ -21143,6 +21125,20 @@
       "biggestWin": "",
       "biggestLose": "0-3",
       "form": "LDL"
+    },
+    {
+      "code": "NZL",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "loses": 2,
+      "gf": 4,
+      "ga": 10,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-5",
+      "form": "DLL"
     },
     {
       "code": "QAT",
