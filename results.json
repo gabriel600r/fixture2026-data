@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:05:58Z",
+  "updated": "2026-06-27T22:06:46Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "subs": [
@@ -34,10 +34,10 @@
         ],
         "passesPct": [
           70,
-          90
+          89
         ],
         "fouls": [
-          10,
+          11,
           3
         ],
         "shotsBlocked": [
@@ -53,16 +53,16 @@
           5
         ],
         "passesTotal": [
-          121,
-          321
+          122,
+          336
         ],
         "shotsOutside": [
           1,
           4
         ],
         "possession": [
-          28,
-          72
+          27,
+          73
         ],
         "offsides": [
           1,
@@ -73,8 +73,8 @@
           2
         ],
         "passesAccurate": [
-          85,
-          288
+          86,
+          300
         ],
         "shotsOff": [
           1,
@@ -215,7 +215,7 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "Elliot Anderson",
+          "player": "Marc Guéhi",
           "rating": 7.3,
           "team": "ENG"
         }
@@ -223,8 +223,8 @@
     },
     {
       "id": 72,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -235,7 +235,6 @@
           "assist": "M. Kovacic"
         }
       ],
-      "extra": 3,
       "stats": {
         "yellow": [
           0,
@@ -434,7 +433,12 @@
             ]
           }
         },
-        "referee": "Drew Fischer, Canada"
+        "referee": "Drew Fischer, Canada",
+        "motm": {
+          "player": "Petar Sučić",
+          "rating": 8.0,
+          "team": "CRO"
+        }
       }
     }
   ],
