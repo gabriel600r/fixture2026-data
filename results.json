@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:12:10Z",
+  "updated": "2026-06-27T00:12:58Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -97,7 +97,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-1-4-1",
             "coach": "Pedro Leitao Brito",
             "xi": [
               {
@@ -111,13 +111,13 @@
                 "pos": "D"
               },
               {
-                "n": 3,
-                "name": "Diney Borges",
+                "n": 4,
+                "name": "Pico",
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Pico",
+                "n": 3,
+                "name": "Diney Borges",
                 "pos": "D"
               },
               {
@@ -131,13 +131,13 @@
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Deroy Duarte",
+                "n": 20,
+                "name": "Ryan Mendes",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Ryan Mendes",
+                "n": 14,
+                "name": "Deroy Duarte",
                 "pos": "M"
               },
               {
@@ -167,8 +167,8 @@
                 "pos": "G"
               },
               {
-                "n": 13,
-                "name": "Nawaf Boushal",
+                "n": 12,
+                "name": "Saud Abdulhamid",
                 "pos": "D"
               },
               {
@@ -182,18 +182,28 @@
                 "pos": "D"
               },
               {
+                "n": 13,
+                "name": "Nawaf Boushal",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Sultan Mandash",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Abdullah Al-Khaibari",
+                "pos": "M"
+              },
+              {
                 "n": 6,
                 "name": "Nasser Al-Dawsari",
                 "pos": "M"
               },
               {
-                "n": 12,
-                "name": "Saud Abdulhamid",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Abdullah Al-Khaibari",
+                "n": 10,
+                "name": "Salem Al-Dawsari",
                 "pos": "M"
               },
               {
@@ -202,19 +212,9 @@
                 "pos": "F"
               },
               {
-                "n": 10,
-                "name": "Salem Al-Dawsari",
-                "pos": "M"
-              },
-              {
                 "n": 9,
                 "name": "Firas Al-Buraikan",
                 "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Sultan Mandash",
-                "pos": "M"
               }
             ]
           }
@@ -225,7 +225,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "stats": {
