@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T00:46:53Z",
+  "updated": "2026-06-27T00:47:40Z",
   "live": [
     {
       "id": 47,
@@ -29,13 +29,14 @@
           "team": "KSA"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
           84,
           80
         ],
         "shotsTotal": [
-          3,
+          4,
           1
         ],
         "red": [
@@ -47,7 +48,7 @@
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
@@ -59,15 +60,15 @@
           0
         ],
         "passesTotal": [
-          181,
-          142
+          193,
+          157
         ],
         "passesAccurate": [
-          152,
-          113
+          163,
+          126
         ],
         "shotsOff": [
-          2,
+          3,
           0
         ],
         "shotsOn": [
@@ -83,8 +84,8 @@
           1
         ],
         "possession": [
-          57,
-          43
+          56,
+          44
         ],
         "fouls": [
           5,
@@ -252,6 +253,7 @@
           "team": "URU"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
           67,
