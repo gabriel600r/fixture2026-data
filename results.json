@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:39:56Z",
+  "updated": "2026-06-27T04:40:44Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -86,10 +86,10 @@
       "stats": {
         "passesPct": [
           88,
-          73
+          74
         ],
         "shotsTotal": [
-          13,
+          14,
           8
         ],
         "red": [
@@ -105,7 +105,7 @@
           2
         ],
         "shotsInside": [
-          7,
+          8,
           6
         ],
         "saves": [
@@ -113,15 +113,15 @@
           2
         ],
         "passesTotal": [
-          470,
-          249
+          480,
+          267
         ],
         "passesAccurate": [
-          415,
-          183
+          422,
+          197
         ],
         "shotsOff": [
-          4,
+          5,
           5
         ],
         "shotsOn": [
@@ -137,12 +137,12 @@
           0
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "fouls": [
           9,
-          12
+          13
         ],
         "yellow": [
           2,
@@ -374,11 +374,11 @@
       "stats": {
         "passesPct": [
           83,
-          88
+          87
         ],
         "shotsTotal": [
-          3,
-          26
+          5,
+          28
         ],
         "red": [
           0,
@@ -390,26 +390,26 @@
         ],
         "shotsOutside": [
           3,
-          7
+          8
         ],
         "shotsInside": [
-          1,
-          19
+          2,
+          20
         ],
         "saves": [
           4,
           1
         ],
         "passesTotal": [
-          298,
-          431
+          336,
+          445
         ],
         "passesAccurate": [
-          246,
-          380
+          280,
+          388
         ],
         "shotsOff": [
-          2,
+          3,
           9
         ],
         "shotsOn": [
@@ -417,20 +417,20 @@
           7
         ],
         "corners": [
-          3,
+          4,
           7
         ],
         "shotsBlocked": [
           1,
-          10
+          12
         ],
         "possession": [
-          41,
-          59
+          43,
+          57
         ],
         "fouls": [
           8,
-          5
+          6
         ],
         "yellow": [
           2,
