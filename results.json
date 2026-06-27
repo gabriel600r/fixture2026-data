@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T21:19:58Z",
+  "updated": "2026-06-27T21:20:46Z",
   "live": [
     {
       "id": 71,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,7 +17,7 @@
           3
         ],
         "saves": [
-          2,
+          1,
           1
         ],
         "red": [
@@ -25,12 +25,12 @@
           0
         ],
         "passesPct": [
-          73,
-          90
+          71,
+          91
         ],
         "fouls": [
-          5,
-          2
+          6,
+          3
         ],
         "shotsBlocked": [
           0,
@@ -42,19 +42,19 @@
         ],
         "corners": [
           0,
-          3
+          4
         ],
         "passesTotal": [
-          48,
-          122
+          49,
+          137
         ],
         "shotsOutside": [
           1,
           1
         ],
         "possession": [
-          29,
-          71
+          27,
+          73
         ],
         "offsides": [
           0,
@@ -62,15 +62,15 @@
         ],
         "shotsOn": [
           1,
-          2
+          1
         ],
         "passesAccurate": [
           35,
-          110
+          124
         ],
         "shotsOff": [
           0,
-          1
+          2
         ],
         "home": "PAN",
         "away": "ENG"
@@ -211,7 +211,7 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 0,
       "away": 0,
       "stats": {
@@ -233,7 +233,7 @@
         ],
         "passesPct": [
           94,
-          91
+          92
         ],
         "fouls": [
           0,
@@ -253,15 +253,15 @@
         ],
         "passesTotal": [
           118,
-          119
+          141
         ],
         "shotsOutside": [
           1,
           0
         ],
         "possession": [
-          50,
-          50
+          46,
+          54
         ],
         "offsides": [
           0,
@@ -273,7 +273,7 @@
         ],
         "passesAccurate": [
           111,
-          108
+          130
         ],
         "shotsOff": [
           1,
