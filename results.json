@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:07:42Z",
+  "updated": "2026-06-27T04:08:30Z",
   "live": [
     {
       "id": 41,
@@ -257,8 +257,8 @@
     },
     {
       "id": 42,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -268,7 +268,20 @@
           "team": "BEL"
         }
       ],
-      "extra": 6,
+      "subs": [
+        {
+          "out": "S. Singh",
+          "in": "J. Randall",
+          "minute": 46,
+          "team": "NZL"
+        },
+        {
+          "out": "R. Thomas",
+          "in": "B. Old",
+          "minute": 46,
+          "team": "NZL"
+        }
+      ],
       "stats": {
         "passesPct": [
           84,
@@ -467,7 +480,12 @@
             ]
           }
         },
-        "referee": "Adham Mohammad, Jordan"
+        "referee": "Adham Mohammad, Jordan",
+        "motm": {
+          "player": "Leandro Trossard",
+          "rating": 7.3,
+          "team": "BEL"
+        }
       }
     }
   ],
