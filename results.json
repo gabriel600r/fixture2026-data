@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:49:50Z",
+  "updated": "2026-06-27T01:50:39Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -283,9 +283,9 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Diney Borges",
-          "rating": 7.27,
-          "team": "CPV"
+          "player": "Mohammed Al-Owais",
+          "rating": 7.5,
+          "team": "KSA"
         }
       }
     },
@@ -579,8 +579,8 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Álex Baena",
-          "rating": 7.98,
+          "player": "Alex Baena",
+          "rating": 7.3,
           "team": "ESP"
         }
       }
