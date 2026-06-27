@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:54:20Z",
+  "updated": "2026-06-27T04:55:08Z",
   "live": [
     {
       "id": 41,
@@ -95,10 +95,11 @@
           "team": "EGY"
         }
       ],
+      "extra": 1,
       "stats": {
         "passesPct": [
           88,
-          76
+          77
         ],
         "shotsTotal": [
           15,
@@ -126,11 +127,11 @@
         ],
         "passesTotal": [
           544,
-          330
+          348
         ],
         "passesAccurate": [
           478,
-          250
+          268
         ],
         "shotsOff": [
           6,
@@ -149,8 +150,8 @@
           1
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "fouls": [
           10,
@@ -415,12 +416,12 @@
       "extra": 2,
       "stats": {
         "passesPct": [
-          83,
+          84,
           88
         ],
         "shotsTotal": [
           6,
-          31
+          32
         ],
         "red": [
           0,
@@ -432,7 +433,7 @@
         ],
         "shotsOutside": [
           3,
-          9
+          10
         ],
         "shotsInside": [
           3,
@@ -443,16 +444,16 @@
           1
         ],
         "passesTotal": [
-          385,
-          500
+          397,
+          511
         ],
         "passesAccurate": [
-          321,
-          439
+          333,
+          449
         ],
         "shotsOff": [
           3,
-          11
+          12
         ],
         "shotsOn": [
           2,
@@ -471,7 +472,7 @@
           56
         ],
         "fouls": [
-          9,
+          10,
           7
         ],
         "yellow": [
