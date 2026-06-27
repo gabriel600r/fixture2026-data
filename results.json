@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:40:10Z",
+  "updated": "2026-06-27T01:40:58Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -107,12 +107,12 @@
           1
         ],
         "passesTotal": [
-          370,
-          321
+          373,
+          325
         ],
         "passesAccurate": [
-          314,
-          254
+          316,
+          258
         ],
         "shotsOff": [
           5,
@@ -359,6 +359,18 @@
           "in": "B. Rodriguez",
           "minute": 70,
           "team": "URU"
+        },
+        {
+          "out": "Lamine Yamal",
+          "in": "N. Williams",
+          "minute": 76,
+          "team": "ESP"
+        },
+        {
+          "out": "M. Oyarzabal",
+          "in": "F. Torres",
+          "minute": 76,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -391,12 +403,12 @@
           1
         ],
         "passesTotal": [
-          207,
-          491
+          216,
+          527
         ],
         "passesAccurate": [
-          155,
-          439
+          162,
+          471
         ],
         "shotsOff": [
           3,
@@ -415,12 +427,12 @@
           1
         ],
         "possession": [
-          30,
-          70
+          29,
+          71
         ],
         "fouls": [
           7,
-          10
+          11
         ],
         "yellow": [
           2,
