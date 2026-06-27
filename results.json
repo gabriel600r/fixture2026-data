@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T03:31:30Z",
+  "updated": "2026-06-27T03:32:17Z",
   "live": [
     {
       "id": 41,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 1,
       "away": 1,
       "goals": [
@@ -245,7 +245,7 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 1,
       "goals": [
@@ -257,12 +257,12 @@
       ],
       "stats": {
         "passesPct": [
-          75,
-          88
+          79,
+          87
         ],
         "shotsTotal": [
           0,
-          8
+          7
         ],
         "red": [
           0,
@@ -278,23 +278,23 @@
         ],
         "shotsInside": [
           0,
-          6
+          5
         ],
         "saves": [
           2,
           0
         ],
         "passesTotal": [
-          56,
-          162
+          72,
+          165
         ],
         "passesAccurate": [
-          42,
-          143
+          57,
+          144
         ],
         "shotsOff": [
           0,
-          3
+          2
         ],
         "shotsOn": [
           0,
@@ -309,8 +309,8 @@
           2
         ],
         "possession": [
-          25,
-          75
+          30,
+          70
         ],
         "fouls": [
           2,
@@ -360,13 +360,13 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Marko Stamenić",
+                "n": 6,
+                "name": "Joe Bell",
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Joe Bell",
+                "n": 8,
+                "name": "Marko Stamenić",
                 "pos": "M"
               },
               {
