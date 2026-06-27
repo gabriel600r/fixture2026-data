@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:46:05Z",
+  "updated": "2026-06-27T00:46:53Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -31,7 +31,7 @@
       ],
       "stats": {
         "passesPct": [
-          83,
+          84,
           80
         ],
         "shotsTotal": [
@@ -59,15 +59,15 @@
           0
         ],
         "passesTotal": [
-          160,
-          138
+          181,
+          142
         ],
         "passesAccurate": [
-          133,
-          111
+          152,
+          113
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "shotsOn": [
@@ -79,16 +79,16 @@
           0
         ],
         "shotsBlocked": [
-          2,
+          1,
           1
         ],
         "possession": [
-          55,
-          45
+          57,
+          43
         ],
         "fouls": [
           5,
-          6
+          7
         ],
         "yellow": [
           1,
@@ -244,14 +244,22 @@
           "assist": "M. Llorente"
         }
       ],
+      "subs": [
+        {
+          "out": "M. Ugarte",
+          "in": "N. de la Cruz",
+          "minute": 45,
+          "team": "URU"
+        }
+      ],
       "stats": {
         "passesPct": [
-          69,
-          90
+          67,
+          89
         ],
         "shotsTotal": [
           3,
-          2
+          3
         ],
         "red": [
           0,
@@ -267,19 +275,19 @@
         ],
         "shotsInside": [
           1,
-          2
+          3
         ],
         "saves": [
           0,
           0
         ],
         "passesTotal": [
-          99,
-          287
+          101,
+          297
         ],
         "passesAccurate": [
           68,
-          257
+          265
         ],
         "shotsOff": [
           2,
@@ -287,7 +295,7 @@
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "corners": [
           0,
@@ -298,8 +306,8 @@
           1
         ],
         "possession": [
-          26,
-          74
+          25,
+          75
         ],
         "fouls": [
           1,
