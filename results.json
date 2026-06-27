@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:24:00Z",
+  "updated": "2026-06-27T01:24:48Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -41,7 +41,7 @@
           80
         ],
         "shotsTotal": [
-          7,
+          8,
           4
         ],
         "red": [
@@ -53,7 +53,7 @@
           0
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "shotsInside": [
@@ -65,15 +65,15 @@
           1
         ],
         "passesTotal": [
-          282,
-          260
+          296,
+          272
         ],
         "passesAccurate": [
-          237,
-          208
+          250,
+          217
         ],
         "shotsOff": [
-          4,
+          5,
           1
         ],
         "shotsOn": [
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 1,
       "goals": [
@@ -293,6 +293,18 @@
           "in": "F. Vinas",
           "minute": 57,
           "team": "URU"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 60,
+          "team": "ESP"
+        },
+        {
+          "out": "M. Merino",
+          "in": "D. Olmo",
+          "minute": 60,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -325,12 +337,12 @@
           1
         ],
         "passesTotal": [
-          170,
-          418
+          172,
+          440
         ],
         "passesAccurate": [
-          128,
-          376
+          129,
+          394
         ],
         "shotsOff": [
           2,
@@ -342,22 +354,22 @@
         ],
         "corners": [
           0,
-          5
+          6
         ],
         "shotsBlocked": [
           1,
           1
         ],
         "possession": [
-          29,
-          71
+          28,
+          72
         ],
         "fouls": [
-          4,
+          6,
           10
         ],
         "yellow": [
-          1,
+          2,
           1
         ],
         "home": "URU",
@@ -496,7 +508,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Alex Baena",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "ESP"
         }
       }
