@@ -1,307 +1,6 @@
 {
-  "updated": "2026-06-27T02:00:28Z",
+  "updated": "2026-06-27T02:00:29Z",
   "live": [
-    {
-      "id": 47,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 0,
-      "cardEvents": [
-        {
-          "player": "S. Abdulhamid",
-          "minute": 4,
-          "team": "KSA",
-          "color": "yellow"
-        },
-        {
-          "player": "W. Pina",
-          "minute": 9,
-          "team": "CPV",
-          "color": "yellow"
-        },
-        {
-          "player": "N. Al Dawsari",
-          "minute": 67,
-          "team": "KSA",
-          "color": "yellow"
-        },
-        {
-          "player": "F. Al Buraikan",
-          "minute": 90,
-          "team": "KSA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "H. Tambakti",
-          "in": "A. Lajami",
-          "minute": 33,
-          "team": "KSA"
-        },
-        {
-          "out": "A. Al Khaibari",
-          "in": "M. Al Juwayr",
-          "minute": 46,
-          "team": "KSA"
-        },
-        {
-          "out": "D. Livramento",
-          "in": "N. Da Costa",
-          "minute": 61,
-          "team": "CPV"
-        },
-        {
-          "out": "W. Semedo",
-          "in": "H. Varela",
-          "minute": 61,
-          "team": "CPV"
-        },
-        {
-          "out": "S. Al Dawsari",
-          "in": "M. Abu Al Shamat",
-          "minute": 66,
-          "team": "KSA"
-        },
-        {
-          "out": "S. Mandash",
-          "in": "A. Al Hamdan",
-          "minute": 66,
-          "team": "KSA"
-        },
-        {
-          "out": "R. Mendes",
-          "in": "G. Rodrigues",
-          "minute": 71,
-          "team": "CPV"
-        },
-        {
-          "out": "J. Monteiro",
-          "in": "L. Duarte",
-          "minute": 71,
-          "team": "CPV"
-        },
-        {
-          "out": "N. Boushal",
-          "in": "M. Al Harbi",
-          "minute": 82,
-          "team": "KSA"
-        },
-        {
-          "out": "W. Pina",
-          "in": "S. Moreira",
-          "minute": 90,
-          "team": "CPV"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "passesPct": [
-          85,
-          81
-        ],
-        "shotsTotal": [
-          15,
-          7
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          1,
-          0
-        ],
-        "shotsOutside": [
-          6,
-          2
-        ],
-        "shotsInside": [
-          9,
-          5
-        ],
-        "saves": [
-          3,
-          2
-        ],
-        "passesTotal": [
-          438,
-          439
-        ],
-        "passesAccurate": [
-          373,
-          355
-        ],
-        "shotsOff": [
-          8,
-          1
-        ],
-        "shotsOn": [
-          2,
-          3
-        ],
-        "corners": [
-          4,
-          2
-        ],
-        "shotsBlocked": [
-          5,
-          3
-        ],
-        "possession": [
-          51,
-          49
-        ],
-        "fouls": [
-          10,
-          16
-        ],
-        "yellow": [
-          1,
-          3
-        ],
-        "home": "CPV",
-        "away": "KSA"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-4-1",
-            "coach": "Pedro Leitao Brito",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Vozinha",
-                "pos": "G"
-              },
-              {
-                "n": 24,
-                "name": "Wagner Pina",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Pico",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Diney Borges",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "João Paulo",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Kevin Lenini",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Ryan Mendes",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Deroy Duarte",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jamiro Monteiro",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Willy Semedo",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Dailon Rocha Livramento",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Georgios Donis",
-            "xi": [
-              {
-                "n": 21,
-                "name": "Mohammed Al-Owais",
-                "pos": "G"
-              },
-              {
-                "n": 12,
-                "name": "Saud Abdulhamid",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Abdulelah Al-Amri",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Hassan Tambakti",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Nawaf Boushal",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Sultan Mandash",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Abdullah Al-Khaibari",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Nasser Al-Dawsari",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Salem Al-Dawsari",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Mohamed Kanno",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Firas Al-Buraikan",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "François Letexier, France",
-        "motm": {
-          "player": "João Paulo",
-          "rating": 7.3,
-          "team": "CPV"
-        }
-      }
-    },
     {
       "id": 48,
       "status": "2H",
@@ -14074,6 +13773,304 @@
       }
     },
     {
+      "id": 47,
+      "home": 0,
+      "away": 0,
+      "cardEvents": [
+        {
+          "player": "S. Abdulhamid",
+          "minute": 4,
+          "team": "KSA",
+          "color": "yellow"
+        },
+        {
+          "player": "W. Pina",
+          "minute": 9,
+          "team": "CPV",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Al Dawsari",
+          "minute": 67,
+          "team": "KSA",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Al Buraikan",
+          "minute": 90,
+          "team": "KSA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "H. Tambakti",
+          "in": "A. Lajami",
+          "minute": 33,
+          "team": "KSA"
+        },
+        {
+          "out": "A. Al Khaibari",
+          "in": "M. Al Juwayr",
+          "minute": 46,
+          "team": "KSA"
+        },
+        {
+          "out": "D. Livramento",
+          "in": "N. Da Costa",
+          "minute": 61,
+          "team": "CPV"
+        },
+        {
+          "out": "W. Semedo",
+          "in": "H. Varela",
+          "minute": 61,
+          "team": "CPV"
+        },
+        {
+          "out": "S. Al Dawsari",
+          "in": "M. Abu Al Shamat",
+          "minute": 66,
+          "team": "KSA"
+        },
+        {
+          "out": "S. Mandash",
+          "in": "A. Al Hamdan",
+          "minute": 66,
+          "team": "KSA"
+        },
+        {
+          "out": "R. Mendes",
+          "in": "G. Rodrigues",
+          "minute": 71,
+          "team": "CPV"
+        },
+        {
+          "out": "J. Monteiro",
+          "in": "L. Duarte",
+          "minute": 71,
+          "team": "CPV"
+        },
+        {
+          "out": "N. Boushal",
+          "in": "M. Al Harbi",
+          "minute": 82,
+          "team": "KSA"
+        },
+        {
+          "out": "W. Pina",
+          "in": "S. Moreira",
+          "minute": 90,
+          "team": "CPV"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          85,
+          81
+        ],
+        "shotsTotal": [
+          15,
+          7
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "shotsOutside": [
+          6,
+          2
+        ],
+        "shotsInside": [
+          9,
+          5
+        ],
+        "saves": [
+          3,
+          2
+        ],
+        "passesTotal": [
+          438,
+          439
+        ],
+        "passesAccurate": [
+          373,
+          355
+        ],
+        "shotsOff": [
+          8,
+          1
+        ],
+        "shotsOn": [
+          2,
+          3
+        ],
+        "corners": [
+          4,
+          2
+        ],
+        "shotsBlocked": [
+          5,
+          3
+        ],
+        "possession": [
+          51,
+          49
+        ],
+        "fouls": [
+          10,
+          16
+        ],
+        "yellow": [
+          1,
+          3
+        ],
+        "home": "CPV",
+        "away": "KSA"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-4-1",
+            "coach": "Pedro Leitao Brito",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Vozinha",
+                "pos": "G"
+              },
+              {
+                "n": 24,
+                "name": "Wagner Pina",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Pico",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Diney Borges",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "João Paulo",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Kevin Lenini",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Ryan Mendes",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Deroy Duarte",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jamiro Monteiro",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Willy Semedo",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Dailon Rocha Livramento",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Georgios Donis",
+            "xi": [
+              {
+                "n": 21,
+                "name": "Mohammed Al-Owais",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Saud Abdulhamid",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Abdulelah Al-Amri",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Hassan Tambakti",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Nawaf Boushal",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Sultan Mandash",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Abdullah Al-Khaibari",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Nasser Al-Dawsari",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Salem Al-Dawsari",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Mohamed Kanno",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Firas Al-Buraikan",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "François Letexier, France",
+        "motm": {
+          "player": "João Paulo",
+          "rating": 7.3,
+          "team": "CPV"
+        }
+      }
+    },
+    {
       "id": 49,
       "home": 3,
       "away": 1,
@@ -20328,6 +20325,20 @@
       "form": "LLW"
     },
     {
+      "code": "CPV",
+      "played": 3,
+      "wins": 0,
+      "draws": 3,
+      "loses": 0,
+      "gf": 2,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "",
+      "form": "DDD"
+    },
+    {
       "code": "AUT",
       "played": 2,
       "wins": 1,
@@ -20440,20 +20451,6 @@
       "form": "DD"
     },
     {
-      "code": "CPV",
-      "played": 2,
-      "wins": 0,
-      "draws": 2,
-      "loses": 0,
-      "gf": 2,
-      "ga": 2,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "",
-      "form": "DD"
-    },
-    {
       "code": "URU",
       "played": 2,
       "wins": 0,
@@ -20466,6 +20463,20 @@
       "biggestWin": "",
       "biggestLose": "",
       "form": "DD"
+    },
+    {
+      "code": "KSA",
+      "played": 3,
+      "wins": 0,
+      "draws": 2,
+      "loses": 1,
+      "gf": 1,
+      "ga": 5,
+      "cleanSheets": 1,
+      "failedToScore": 2,
+      "biggestWin": "",
+      "biggestLose": "0-4",
+      "form": "DLD"
     },
     {
       "code": "COD",
@@ -20508,20 +20519,6 @@
       "biggestWin": "",
       "biggestLose": "0-3",
       "form": "LDL"
-    },
-    {
-      "code": "KSA",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "loses": 1,
-      "gf": 1,
-      "ga": 5,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "",
-      "biggestLose": "0-4",
-      "form": "DL"
     },
     {
       "code": "QAT",
