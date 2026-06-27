@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:41:47Z",
+  "updated": "2026-06-27T01:42:35Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -83,7 +83,7 @@
           79
         ],
         "shotsTotal": [
-          8,
+          10,
           5
         ],
         "red": [
@@ -99,32 +99,32 @@
           1
         ],
         "shotsInside": [
-          5,
+          7,
           4
         ],
         "saves": [
           2,
-          1
+          2
         ],
         "passesTotal": [
-          373,
-          325
+          375,
+          335
         ],
         "passesAccurate": [
-          316,
-          258
+          318,
+          266
         ],
         "shotsOff": [
-          5,
+          6,
           1
         ],
         "shotsOn": [
-          1,
+          2,
           2
         ],
         "corners": [
-          3,
-          1
+          4,
+          2
         ],
         "shotsBlocked": [
           2,
@@ -277,8 +277,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Ali Lajami",
-          "rating": 7.5,
+          "player": "Mohammed Al-Owais",
+          "rating": 7.6,
           "team": "KSA"
         }
       }
@@ -403,12 +403,12 @@
           1
         ],
         "passesTotal": [
-          216,
-          527
+          225,
+          547
         ],
         "passesAccurate": [
-          162,
-          471
+          169,
+          489
         ],
         "shotsOff": [
           3,
@@ -431,8 +431,8 @@
           71
         ],
         "fouls": [
-          7,
-          11
+          9,
+          13
         ],
         "yellow": [
           2,
