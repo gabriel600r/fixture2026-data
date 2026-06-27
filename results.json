@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-27T22:20:27Z",
+  "updated": "2026-06-27T22:21:15Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
       "minute": 62,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. Bellingham",
+          "minute": 62,
+          "team": "ENG"
+        }
+      ],
       "cardEvents": [
         {
           "player": "J. Fajardo",
@@ -36,10 +43,10 @@
         ],
         "shotsTotal": [
           4,
-          10
+          11
         ],
         "saves": [
-          2,
+          3,
           2
         ],
         "red": [
@@ -47,7 +54,7 @@
           0
         ],
         "passesPct": [
-          71,
+          70,
           89
         ],
         "fouls": [
@@ -60,15 +67,15 @@
         ],
         "shotsInside": [
           2,
-          6
+          7
         ],
         "corners": [
           1,
           5
         ],
         "passesTotal": [
-          150,
-          396
+          154,
+          409
         ],
         "shotsOutside": [
           2,
@@ -84,11 +91,11 @@
         ],
         "shotsOn": [
           2,
-          2
+          3
         ],
         "passesAccurate": [
-          106,
-          353
+          108,
+          363
         ],
         "shotsOff": [
           2,
@@ -229,16 +236,16 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "Marc Guéhi",
+          "player": "Orlando Mosquera",
           "rating": 7.3,
-          "team": "ENG"
+          "team": "PAN"
         }
       }
     },
     {
       "id": 72,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 1,
       "away": 0,
       "goals": [
@@ -270,7 +277,7 @@
         ],
         "shotsTotal": [
           5,
-          2
+          3
         ],
         "saves": [
           0,
@@ -281,8 +288,8 @@
           0
         ],
         "passesPct": [
-          92,
-          92
+          91,
+          91
         ],
         "fouls": [
           4,
@@ -290,7 +297,7 @@
         ],
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           2,
@@ -298,19 +305,19 @@
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          342,
-          333
+          347,
+          353
         ],
         "shotsOutside": [
           3,
-          1
+          2
         ],
         "possession": [
-          51,
-          49
+          49,
+          51
         ],
         "offsides": [
           0,
@@ -321,8 +328,8 @@
           0
         ],
         "passesAccurate": [
-          314,
-          305
+          317,
+          321
         ],
         "shotsOff": [
           2,
