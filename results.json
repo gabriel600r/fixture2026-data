@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:43:08Z",
+  "updated": "2026-06-27T04:43:56Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 1,
       "goals": [
@@ -41,6 +41,12 @@
         {
           "player": "A. Nemati",
           "minute": 43,
+          "team": "IRN",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Ezatolahi",
+          "minute": 80,
           "team": "IRN",
           "color": "yellow"
         }
@@ -96,7 +102,7 @@
         ],
         "shotsTotal": [
           14,
-          8
+          9
         ],
         "red": [
           0,
@@ -108,7 +114,7 @@
         ],
         "shotsOutside": [
           6,
-          2
+          3
         ],
         "shotsInside": [
           8,
@@ -119,12 +125,12 @@
           2
         ],
         "passesTotal": [
-          480,
-          267
+          504,
+          272
         ],
         "passesAccurate": [
-          422,
-          197
+          445,
+          200
         ],
         "shotsOff": [
           5,
@@ -140,11 +146,11 @@
         ],
         "shotsBlocked": [
           6,
-          0
+          1
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "fouls": [
           9,
@@ -298,7 +304,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 80,
+      "minute": 82,
       "home": 0,
       "away": 3,
       "goals": [
@@ -390,7 +396,7 @@
         ],
         "shotsTotal": [
           5,
-          28
+          29
         ],
         "red": [
           0,
@@ -402,7 +408,7 @@
         ],
         "shotsOutside": [
           3,
-          8
+          9
         ],
         "shotsInside": [
           2,
@@ -413,16 +419,16 @@
           1
         ],
         "passesTotal": [
-          336,
-          445
+          340,
+          454
         ],
         "passesAccurate": [
-          280,
-          388
+          283,
+          396
         ],
         "shotsOff": [
           3,
-          9
+          10
         ],
         "shotsOn": [
           1,
@@ -441,7 +447,7 @@
           57
         ],
         "fouls": [
-          8,
+          9,
           6
         ],
         "yellow": [
