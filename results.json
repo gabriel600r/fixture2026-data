@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:53:19Z",
+  "updated": "2026-06-27T00:54:07Z",
   "live": [
     {
       "id": 47,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -253,7 +253,7 @@
           "team": "URU"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "passesPct": [
           70,
