@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:22:24Z",
+  "updated": "2026-06-27T01:23:12Z",
   "live": [
     {
       "id": 47,
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 1,
       "goals": [
@@ -265,6 +265,12 @@
         {
           "player": "J. Sanabria",
           "minute": 54,
+          "team": "URU",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Varela",
+          "minute": 58,
           "team": "URU",
           "color": "yellow"
         }
