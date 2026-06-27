@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T23:35:00Z",
+  "updated": "2026-06-27T23:35:48Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 4,
+      "minute": 5,
       "home": 0,
       "away": 0,
       "stats": {
@@ -339,13 +339,13 @@
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Yoane Wissa",
+                "n": 17,
+                "name": "Cédric Bakambu",
                 "pos": "F"
               },
               {
-                "n": 17,
-                "name": "Cédric Bakambu",
+                "n": 20,
+                "name": "Yoane Wissa",
                 "pos": "F"
               }
             ]
