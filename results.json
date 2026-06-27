@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T04:56:44Z",
+  "updated": "2026-06-27T04:57:32Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "M. Saber",
@@ -16,6 +16,11 @@
         {
           "player": "R. Rezaeian",
           "minute": 14,
+          "team": "IRN"
+        },
+        {
+          "player": null,
+          "minute": 90,
           "team": "IRN"
         }
       ],
@@ -319,7 +324,7 @@
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 4,
+      "away": 5,
       "goals": [
         {
           "player": "L. Trossard",
@@ -347,6 +352,12 @@
           "minute": 86,
           "team": "BEL",
           "assist": "N. Raskin"
+        },
+        {
+          "player": "A. Saelemaekers",
+          "minute": 90,
+          "team": "BEL",
+          "assist": "R. Lukaku"
         }
       ],
       "cardEvents": [
@@ -425,7 +436,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesPct": [
           84,
