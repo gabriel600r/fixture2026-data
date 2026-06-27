@@ -1,315 +1,6 @@
 {
-  "updated": "2026-06-27T22:55:57Z",
+  "updated": "2026-06-27T22:55:58Z",
   "live": [
-    {
-      "id": 71,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 2,
-      "goals": [
-        {
-          "player": "J. Bellingham",
-          "minute": 62,
-          "team": "ENG",
-          "assist": "B. Saka"
-        },
-        {
-          "player": "H. Kane",
-          "minute": 67,
-          "team": "ENG",
-          "assist": "J. Bellingham"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Fajardo",
-          "minute": 53,
-          "team": "PAN",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Quansah",
-          "minute": 60,
-          "team": "ENG",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Andrade",
-          "minute": 84,
-          "team": "PAN",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "T. Rodriguez",
-          "in": "J. Fajardo",
-          "minute": 46,
-          "team": "PAN"
-        },
-        {
-          "out": "J. Quansah",
-          "in": "D. Spence",
-          "minute": 63,
-          "team": "ENG"
-        },
-        {
-          "out": "B. Saka",
-          "in": "N. Madueke",
-          "minute": 63,
-          "team": "ENG"
-        },
-        {
-          "out": "Y. Barcenas",
-          "in": "I. Diaz",
-          "minute": 71,
-          "team": "PAN"
-        },
-        {
-          "out": "J. Rodriguez",
-          "in": "A. Londono",
-          "minute": 71,
-          "team": "PAN"
-        },
-        {
-          "out": "J. Bellingham",
-          "in": "E. Eze",
-          "minute": 71,
-          "team": "ENG"
-        },
-        {
-          "out": "E. Anderson",
-          "in": "J. Henderson",
-          "minute": 84,
-          "team": "ENG"
-        },
-        {
-          "out": "H. Kane",
-          "in": "O. Watkins",
-          "minute": 84,
-          "team": "ENG"
-        },
-        {
-          "out": "C. Harvey",
-          "in": "A. Quintero",
-          "minute": 88,
-          "team": "PAN"
-        },
-        {
-          "out": "J. Gutierrez",
-          "in": "E. Davis",
-          "minute": 88,
-          "team": "PAN"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "yellow": [
-          2,
-          1
-        ],
-        "shotsTotal": [
-          12,
-          16
-        ],
-        "saves": [
-          4,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          75,
-          89
-        ],
-        "fouls": [
-          14,
-          11
-        ],
-        "shotsBlocked": [
-          3,
-          2
-        ],
-        "shotsInside": [
-          8,
-          12
-        ],
-        "corners": [
-          2,
-          6
-        ],
-        "passesTotal": [
-          260,
-          551
-        ],
-        "shotsOutside": [
-          4,
-          4
-        ],
-        "possession": [
-          33,
-          67
-        ],
-        "offsides": [
-          3,
-          4
-        ],
-        "shotsOn": [
-          2,
-          6
-        ],
-        "passesAccurate": [
-          195,
-          488
-        ],
-        "shotsOff": [
-          7,
-          8
-        ],
-        "home": "PAN",
-        "away": "ENG"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "5-4-1",
-            "coach": "Thomas Christiansen",
-            "xi": [
-              {
-                "n": 22,
-                "name": "Orlando Mosquera",
-                "pos": "G"
-              },
-              {
-                "n": 23,
-                "name": "Amir Murillo",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Fidel Escobar",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "José Córdoba",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Andrés Andrade",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Jorge Gutiérrez",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Cristian Martínez",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Yoel Bárcenas",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Carlos Harvey",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "José Luis Rodríguez",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Tomás Rodríguez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Thomas Tuchel",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Jordan Pickford",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Jarell Quansah",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Ezri Konsa",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Marc Guéhi",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nico O'Reilly",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Elliot Anderson",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jude Bellingham",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Bukayo Saka",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Morgan Rogers",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Marcus Rashford",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Harry Kane",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Abdulrahman Al-Jassim, Qatar",
-        "motm": {
-          "player": "Jude Bellingham",
-          "rating": 9.3,
-          "team": "ENG"
-        }
-      }
-    },
     {
       "id": 72,
       "status": "2H",
@@ -20951,6 +20642,312 @@
           "team": "CRO"
         }
       }
+    },
+    {
+      "id": 71,
+      "home": 0,
+      "away": 2,
+      "goals": [
+        {
+          "player": "J. Bellingham",
+          "minute": 62,
+          "team": "ENG",
+          "assist": "B. Saka"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 67,
+          "team": "ENG",
+          "assist": "J. Bellingham"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Fajardo",
+          "minute": 53,
+          "team": "PAN",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Quansah",
+          "minute": 60,
+          "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Andrade",
+          "minute": 84,
+          "team": "PAN",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "T. Rodriguez",
+          "in": "J. Fajardo",
+          "minute": 46,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Quansah",
+          "in": "D. Spence",
+          "minute": 63,
+          "team": "ENG"
+        },
+        {
+          "out": "B. Saka",
+          "in": "N. Madueke",
+          "minute": 63,
+          "team": "ENG"
+        },
+        {
+          "out": "Y. Barcenas",
+          "in": "I. Diaz",
+          "minute": 71,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "A. Londono",
+          "minute": 71,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Bellingham",
+          "in": "E. Eze",
+          "minute": 71,
+          "team": "ENG"
+        },
+        {
+          "out": "E. Anderson",
+          "in": "J. Henderson",
+          "minute": 84,
+          "team": "ENG"
+        },
+        {
+          "out": "H. Kane",
+          "in": "O. Watkins",
+          "minute": 84,
+          "team": "ENG"
+        },
+        {
+          "out": "C. Harvey",
+          "in": "A. Quintero",
+          "minute": 88,
+          "team": "PAN"
+        },
+        {
+          "out": "J. Gutierrez",
+          "in": "E. Davis",
+          "minute": 88,
+          "team": "PAN"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          2,
+          1
+        ],
+        "shotsTotal": [
+          12,
+          16
+        ],
+        "saves": [
+          4,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          75,
+          89
+        ],
+        "fouls": [
+          14,
+          11
+        ],
+        "shotsBlocked": [
+          3,
+          2
+        ],
+        "shotsInside": [
+          8,
+          12
+        ],
+        "corners": [
+          2,
+          6
+        ],
+        "passesTotal": [
+          260,
+          551
+        ],
+        "shotsOutside": [
+          4,
+          4
+        ],
+        "possession": [
+          33,
+          67
+        ],
+        "offsides": [
+          3,
+          4
+        ],
+        "shotsOn": [
+          2,
+          6
+        ],
+        "passesAccurate": [
+          195,
+          488
+        ],
+        "shotsOff": [
+          7,
+          8
+        ],
+        "home": "PAN",
+        "away": "ENG"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "5-4-1",
+            "coach": "Thomas Christiansen",
+            "xi": [
+              {
+                "n": 22,
+                "name": "Orlando Mosquera",
+                "pos": "G"
+              },
+              {
+                "n": 23,
+                "name": "Amir Murillo",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Fidel Escobar",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "José Córdoba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Andrés Andrade",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Jorge Gutiérrez",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Cristian Martínez",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Yoel Bárcenas",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Carlos Harvey",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "José Luis Rodríguez",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Tomás Rodríguez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Thomas Tuchel",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Jordan Pickford",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Jarell Quansah",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ezri Konsa",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Marc Guéhi",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nico O'Reilly",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Elliot Anderson",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jude Bellingham",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Bukayo Saka",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Morgan Rogers",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Marcus Rashford",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Harry Kane",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Abdulrahman Al-Jassim, Qatar",
+        "motm": {
+          "player": "Jude Bellingham",
+          "rating": 9.3,
+          "team": "ENG"
+        }
+      }
     }
   ],
   "stats": {
@@ -20982,6 +20979,12 @@
         "team": "BRA",
         "goals": 4,
         "assists": 1
+      },
+      {
+        "player": "H. Kane",
+        "team": "ENG",
+        "goals": 3,
+        "penalties": 1
       },
       {
         "player": "Brian Brobbey",
@@ -21025,12 +21028,6 @@
         "player": "M. Cunha",
         "team": "BRA",
         "goals": 3
-      },
-      {
-        "player": "H. Kane",
-        "team": "ENG",
-        "goals": 2,
-        "penalties": 1
       },
       {
         "player": "K. Havertz",
@@ -21092,6 +21089,12 @@
         "goals": 2
       },
       {
+        "player": "J. Bellingham",
+        "team": "ENG",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "player": "Julián Quiñones",
         "team": "MEX",
         "goals": 2
@@ -21112,11 +21115,6 @@
         "team": "ESP",
         "goals": 2,
         "assists": 1
-      },
-      {
-        "player": "Nicolas Pépé",
-        "team": "CIV",
-        "goals": 2
       }
     ],
     "assists": [
@@ -21141,6 +21139,11 @@
         "team": "SUI",
         "assists": 2,
         "goals": 1
+      },
+      {
+        "player": "B. Saka",
+        "team": "ENG",
+        "assists": 2
       },
       {
         "player": "Brahim Díaz",
@@ -21273,12 +21276,6 @@
         "player": "A. Tchouameni",
         "team": "FRA",
         "assists": 1
-      },
-      {
-        "player": "A. Ueda",
-        "team": "JPN",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "cards": [
@@ -21403,6 +21400,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Andrade",
+        "team": "PAN",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Baena",
         "team": "ESP",
         "red": 0,
@@ -21453,12 +21456,6 @@
       {
         "player": "A. Nemati",
         "team": "IRN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Robertson",
-        "team": "SCO",
         "red": 0,
         "yellow": 1
       }
@@ -21548,6 +21545,20 @@
       "biggestWin": "4-1",
       "biggestLose": "",
       "form": "DWW"
+    },
+    {
+      "code": "ENG",
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "loses": 0,
+      "gf": 6,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "4-2",
+      "biggestLose": "",
+      "form": "WDW"
     },
     {
       "code": "MAR",
@@ -21716,20 +21727,6 @@
       "biggestWin": "5-0",
       "biggestLose": "",
       "form": "DW"
-    },
-    {
-      "code": "ENG",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 4,
-      "ga": 2,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "4-2",
-      "biggestLose": "",
-      "form": "WD"
     },
     {
       "code": "GHA",
@@ -22054,20 +22051,6 @@
       "form": "LDL"
     },
     {
-      "code": "PAN",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "loses": 2,
-      "gf": 0,
-      "ga": 2,
-      "cleanSheets": 0,
-      "failedToScore": 2,
-      "biggestWin": "",
-      "biggestLose": "0-1",
-      "form": "LL"
-    },
-    {
       "code": "JOR",
       "played": 2,
       "wins": 0,
@@ -22080,6 +22063,20 @@
       "biggestWin": "",
       "biggestLose": "1-3",
       "form": "LL"
+    },
+    {
+      "code": "PAN",
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "loses": 3,
+      "gf": 0,
+      "ga": 4,
+      "cleanSheets": 0,
+      "failedToScore": 3,
+      "biggestWin": "",
+      "biggestLose": "0-2",
+      "form": "LLL"
     },
     {
       "code": "HAI",
