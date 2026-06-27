@@ -1,310 +1,6 @@
 {
-  "updated": "2026-06-27T22:58:24Z",
-  "live": [
-    {
-      "id": 72,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 1,
-      "goals": [
-        {
-          "player": "P. Sucic",
-          "minute": 31,
-          "team": "CRO",
-          "assist": "M. Kovacic"
-        },
-        {
-          "player": "D. Luckassen",
-          "minute": 73,
-          "team": "GHA",
-          "assist": "E. Nuamah"
-        },
-        {
-          "player": "N. Vlasic",
-          "minute": 83,
-          "team": "CRO",
-          "assist": "L. Modric"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "I. Perisic",
-          "minute": 68,
-          "team": "CRO",
-          "color": "yellow"
-        },
-        {
-          "player": "K. Peprah",
-          "minute": 90,
-          "team": "GHA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "J. Adjetey",
-          "in": "K. Peprah",
-          "minute": 46,
-          "team": "GHA"
-        },
-        {
-          "out": "E. Owusu",
-          "in": "I. Fatawu",
-          "minute": 46,
-          "team": "GHA"
-        },
-        {
-          "out": "A. Budimir",
-          "in": "I. Matanovic",
-          "minute": 66,
-          "team": "CRO"
-        },
-        {
-          "out": "J. Ayew",
-          "in": "B. Thomas-Asante",
-          "minute": 71,
-          "team": "GHA"
-        },
-        {
-          "out": "K. Sulemana",
-          "in": "E. Nuamah",
-          "minute": 71,
-          "team": "GHA"
-        },
-        {
-          "out": "M. Kovacic",
-          "in": "M. Pasalic",
-          "minute": 78,
-          "team": "CRO"
-        },
-        {
-          "out": "K. Sibo",
-          "in": "C. Yirenkyi",
-          "minute": 85,
-          "team": "GHA"
-        },
-        {
-          "out": "M. Baturina",
-          "in": "M. Pasalic",
-          "minute": 88,
-          "team": "CRO"
-        },
-        {
-          "out": "N. Vlasic",
-          "in": "J. Gvardiol",
-          "minute": 88,
-          "team": "CRO"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "yellow": [
-          1,
-          0
-        ],
-        "shotsTotal": [
-          8,
-          4
-        ],
-        "saves": [
-          0,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          92,
-          89
-        ],
-        "fouls": [
-          9,
-          12
-        ],
-        "shotsBlocked": [
-          2,
-          1
-        ],
-        "shotsInside": [
-          3,
-          2
-        ],
-        "corners": [
-          2,
-          2
-        ],
-        "passesTotal": [
-          507,
-          439
-        ],
-        "shotsOutside": [
-          5,
-          2
-        ],
-        "possession": [
-          53,
-          47
-        ],
-        "offsides": [
-          1,
-          2
-        ],
-        "shotsOn": [
-          4,
-          1
-        ],
-        "passesAccurate": [
-          465,
-          392
-        ],
-        "shotsOff": [
-          2,
-          2
-        ],
-        "home": "CRO",
-        "away": "GHA"
-      },
-      "extras": {
-        "pred": {
-          "home": 35,
-          "draw": 35,
-          "away": 30
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Zlatko Dalic",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Dominik Livaković",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Josip Stanišić",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Josip Šutalo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Marin Pongračić",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Ivan Perišić",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Luka Modrić",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Mateo Kovačić",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Petar Sučić",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Nikola Vlašić",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Martin Baturina",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ante Budimir",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-4-1",
-            "coach": "Carlos Queiroz",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Benjamin Asare",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Marvin Senaya",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Jonas Adjei Adjetey",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Derrick Luckassen",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Gideon Mensah",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Thomas Partey",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Antoine Semenyo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Elisha Owusu",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Kwasi Sibo",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Kamaldeen Sulemana",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Jordan Ayew",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Drew Fischer, Canada",
-        "motm": {
-          "player": "Petar Sučić",
-          "rating": 8.7,
-          "team": "CRO"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-27T22:59:12Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -20948,6 +20644,306 @@
           "team": "ENG"
         }
       }
+    },
+    {
+      "id": 72,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {
+          "player": "P. Sucic",
+          "minute": 31,
+          "team": "CRO",
+          "assist": "M. Kovacic"
+        },
+        {
+          "player": "D. Luckassen",
+          "minute": 73,
+          "team": "GHA",
+          "assist": "E. Nuamah"
+        },
+        {
+          "player": "N. Vlasic",
+          "minute": 83,
+          "team": "CRO",
+          "assist": "L. Modric"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "I. Perisic",
+          "minute": 68,
+          "team": "CRO",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Peprah",
+          "minute": 90,
+          "team": "GHA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Adjetey",
+          "in": "K. Peprah",
+          "minute": 46,
+          "team": "GHA"
+        },
+        {
+          "out": "E. Owusu",
+          "in": "I. Fatawu",
+          "minute": 46,
+          "team": "GHA"
+        },
+        {
+          "out": "A. Budimir",
+          "in": "I. Matanovic",
+          "minute": 66,
+          "team": "CRO"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "B. Thomas-Asante",
+          "minute": 71,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sulemana",
+          "in": "E. Nuamah",
+          "minute": 71,
+          "team": "GHA"
+        },
+        {
+          "out": "M. Kovacic",
+          "in": "M. Pasalic",
+          "minute": 78,
+          "team": "CRO"
+        },
+        {
+          "out": "K. Sibo",
+          "in": "C. Yirenkyi",
+          "minute": 85,
+          "team": "GHA"
+        },
+        {
+          "out": "M. Baturina",
+          "in": "M. Pasalic",
+          "minute": 88,
+          "team": "CRO"
+        },
+        {
+          "out": "N. Vlasic",
+          "in": "J. Gvardiol",
+          "minute": 88,
+          "team": "CRO"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          1,
+          0
+        ],
+        "shotsTotal": [
+          8,
+          4
+        ],
+        "saves": [
+          0,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          92,
+          89
+        ],
+        "fouls": [
+          9,
+          12
+        ],
+        "shotsBlocked": [
+          2,
+          1
+        ],
+        "shotsInside": [
+          3,
+          2
+        ],
+        "corners": [
+          2,
+          2
+        ],
+        "passesTotal": [
+          507,
+          439
+        ],
+        "shotsOutside": [
+          5,
+          2
+        ],
+        "possession": [
+          53,
+          47
+        ],
+        "offsides": [
+          1,
+          2
+        ],
+        "shotsOn": [
+          4,
+          1
+        ],
+        "passesAccurate": [
+          465,
+          392
+        ],
+        "shotsOff": [
+          2,
+          2
+        ],
+        "home": "CRO",
+        "away": "GHA"
+      },
+      "extras": {
+        "pred": {
+          "home": 35,
+          "draw": 35,
+          "away": 30
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Zlatko Dalic",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Dominik Livaković",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Josip Stanišić",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Josip Šutalo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Marin Pongračić",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Perišić",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Luka Modrić",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Mateo Kovačić",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Petar Sučić",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Nikola Vlašić",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Martin Baturina",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ante Budimir",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-4-1",
+            "coach": "Carlos Queiroz",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Benjamin Asare",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Marvin Senaya",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jonas Adjei Adjetey",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Derrick Luckassen",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Gideon Mensah",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Thomas Partey",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Antoine Semenyo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Elisha Owusu",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Kwasi Sibo",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Kamaldeen Sulemana",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jordan Ayew",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Drew Fischer, Canada",
+        "motm": {
+          "player": "Petar Sučić",
+          "rating": 8.7,
+          "team": "CRO"
+        }
+      }
     }
   ],
   "stats": {
@@ -21659,6 +21655,20 @@
       "form": "WWL"
     },
     {
+      "code": "CRO",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "loses": 1,
+      "gf": 5,
+      "ga": 5,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "1-0",
+      "biggestLose": "2-4",
+      "form": "LWW"
+    },
+    {
       "code": "JPN",
       "played": 3,
       "wins": 1,
@@ -21729,20 +21739,6 @@
       "form": "DW"
     },
     {
-      "code": "GHA",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 1,
-      "ga": 0,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "1-0",
-      "biggestLose": "",
-      "form": "WD"
-    },
-    {
       "code": "AUS",
       "played": 3,
       "wins": 1,
@@ -21783,6 +21779,20 @@
       "biggestWin": "5-1",
       "biggestLose": "1-5",
       "form": "WLD"
+    },
+    {
+      "code": "GHA",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 2,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "1-0",
+      "biggestLose": "1-2",
+      "form": "WDL"
     },
     {
       "code": "RSA",
@@ -21895,20 +21905,6 @@
       "biggestWin": "2-1",
       "biggestLose": "0-1",
       "form": "WLL"
-    },
-    {
-      "code": "CRO",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 3,
-      "ga": 4,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "1-0",
-      "biggestLose": "2-4",
-      "form": "LW"
     },
     {
       "code": "TUR",
