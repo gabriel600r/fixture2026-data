@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:16:25Z",
+  "updated": "2026-06-27T22:17:13Z",
   "live": [
     {
       "id": 71,
@@ -223,16 +223,16 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "Elliot Anderson",
+          "player": "José Córdoba",
           "rating": 7.5,
-          "team": "ENG"
+          "team": "PAN"
         }
       }
     },
     {
       "id": 72,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 0,
       "goals": [
