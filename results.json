@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:19:30Z",
+  "updated": "2026-06-27T03:20:18Z",
   "live": [
     {
       "id": 41,
@@ -17,6 +17,14 @@
           "player": "R. Rezaeian",
           "minute": 14,
           "team": "IRN"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "H. Kanaani",
+          "minute": 19,
+          "team": "IRN",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -231,7 +239,7 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
