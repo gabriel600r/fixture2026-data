@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:59:30Z",
+  "updated": "2026-06-27T02:00:23Z",
   "live": [
     {
       "id": 47,
@@ -660,7 +660,30 @@
       "away": "TBD"
     }
   },
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 41,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "referee": "Szymon Marciniak, Poland"
+      }
+    },
+    {
+      "id": 42,
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "referee": "A. Makhadmeh"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
