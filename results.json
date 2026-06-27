@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:26:54Z",
+  "updated": "2026-06-27T22:27:42Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 2,
       "goals": [
@@ -62,7 +62,7 @@
         ],
         "shotsTotal": [
           5,
-          12
+          14
         ],
         "saves": [
           3,
@@ -82,19 +82,19 @@
         ],
         "shotsBlocked": [
           0,
-          1
+          2
         ],
         "shotsInside": [
           3,
-          8
+          10
         ],
         "corners": [
           1,
           6
         ],
         "passesTotal": [
-          164,
-          415
+          167,
+          426
         ],
         "shotsOutside": [
           2,
@@ -110,11 +110,11 @@
         ],
         "shotsOn": [
           2,
-          4
+          5
         ],
         "passesAccurate": [
-          117,
-          368
+          118,
+          378
         ],
         "shotsOff": [
           3,
@@ -264,7 +264,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 1,
       "away": 0,
       "goals": [
@@ -287,6 +287,12 @@
           "in": "I. Fatawu",
           "minute": 46,
           "team": "GHA"
+        },
+        {
+          "out": "A. Budimir",
+          "in": "I. Matanovic",
+          "minute": 66,
+          "team": "CRO"
         }
       ],
       "stats": {
@@ -307,7 +313,7 @@
           0
         ],
         "passesPct": [
-          92,
+          93,
           91
         ],
         "fouls": [
@@ -327,16 +333,16 @@
           1
         ],
         "passesTotal": [
-          376,
-          362
+          430,
+          376
         ],
         "shotsOutside": [
           3,
           2
         ],
         "possession": [
-          51,
-          49
+          53,
+          47
         ],
         "offsides": [
           0,
@@ -347,8 +353,8 @@
           0
         ],
         "passesAccurate": [
-          346,
-          331
+          399,
+          342
         ],
         "shotsOff": [
           2,
