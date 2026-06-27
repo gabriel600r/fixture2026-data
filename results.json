@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:55:09Z",
+  "updated": "2026-06-27T22:55:57Z",
   "live": [
     {
       "id": 71,
@@ -342,6 +342,12 @@
           "minute": 68,
           "team": "CRO",
           "color": "yellow"
+        },
+        {
+          "player": "K. Peprah",
+          "minute": 90,
+          "team": "GHA",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -400,7 +406,7 @@
           "team": "CRO"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
