@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:18:08Z",
+  "updated": "2026-06-27T04:18:56Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 1,
       "goals": [
@@ -77,7 +77,7 @@
           74
         ],
         "shotsTotal": [
-          9,
+          11,
           7
         ],
         "red": [
@@ -93,7 +93,7 @@
           1
         ],
         "shotsInside": [
-          4,
+          6,
           6
         ],
         "saves": [
@@ -101,15 +101,15 @@
           2
         ],
         "passesTotal": [
-          338,
-          209
+          344,
+          211
         ],
         "passesAccurate": [
-          295,
-          155
+          300,
+          156
         ],
         "shotsOff": [
-          3,
+          4,
           4
         ],
         "shotsOn": [
@@ -117,11 +117,11 @@
           3
         ],
         "corners": [
-          4,
+          5,
           0
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "possession": [
@@ -130,7 +130,7 @@
         ],
         "fouls": [
           6,
-          8
+          9
         ],
         "yellow": [
           2,
@@ -280,7 +280,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 2,
       "goals": [
@@ -302,6 +302,12 @@
           "minute": 46,
           "team": "NZL",
           "color": "yellow"
+        },
+        {
+          "player": "E. Just",
+          "minute": 56,
+          "team": "NZL",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -316,15 +322,21 @@
           "in": "B. Old",
           "minute": 46,
           "team": "NZL"
+        },
+        {
+          "out": "J. Doku",
+          "in": "M. Fernandez-Pardo",
+          "minute": 56,
+          "team": "BEL"
         }
       ],
       "stats": {
         "passesPct": [
-          84,
-          89
+          82,
+          88
         ],
         "shotsTotal": [
-          1,
+          2,
           19
         ],
         "red": [
@@ -340,27 +352,27 @@
           4
         ],
         "shotsInside": [
-          0,
+          1,
           15
         ],
         "saves": [
           3,
-          0
+          1
         ],
         "passesTotal": [
-          221,
-          337
+          233,
+          359
         ],
         "passesAccurate": [
-          185,
-          299
+          192,
+          317
         ],
         "shotsOff": [
           1,
           7
         ],
         "shotsOn": [
-          0,
+          1,
           5
         ],
         "corners": [
@@ -368,7 +380,7 @@
           4
         ],
         "shotsBlocked": [
-          0,
+          1,
           7
         ],
         "possession": [
@@ -377,7 +389,7 @@
         ],
         "fouls": [
           5,
-          2
+          3
         ],
         "yellow": [
           1,
