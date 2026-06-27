@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:08:30Z",
+  "updated": "2026-06-27T04:09:18Z",
   "live": [
     {
       "id": 41,
@@ -258,7 +258,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 1,
       "goals": [
@@ -266,6 +266,14 @@
           "player": "L. Trossard",
           "minute": 28,
           "team": "BEL"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Stamenic",
+          "minute": 46,
+          "team": "NZL",
+          "color": "yellow"
         }
       ],
       "subs": [
