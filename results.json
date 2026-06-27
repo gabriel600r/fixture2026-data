@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:58:42Z",
+  "updated": "2026-06-27T01:59:30Z",
   "live": [
     {
       "id": 47,
@@ -95,7 +95,7 @@
           "team": "CPV"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesPct": [
           85,
@@ -316,6 +316,9 @@
           "assist": "M. Llorente"
         }
       ],
+      "redCards": [
+        "A. Canobbio (Uruguay) 90'"
+      ],
       "cardEvents": [
         {
           "player": "A. Baena",
@@ -340,6 +343,12 @@
           "minute": 90,
           "team": "URU",
           "color": "yellow"
+        },
+        {
+          "player": "A. Canobbio",
+          "minute": 90,
+          "team": "URU",
+          "color": "red"
         }
       ],
       "subs": [
@@ -398,7 +407,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesPct": [
           76,
