@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:17:34Z",
+  "updated": "2026-06-27T01:18:22Z",
   "live": [
     {
       "id": 47,
@@ -235,8 +235,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Mohammed Al-Owais",
-          "rating": 7.5,
+          "player": "Abdulelah Al-Amri",
+          "rating": 7.2,
           "team": "KSA"
         }
       }
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 1,
       "goals": [
