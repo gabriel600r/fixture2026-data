@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T03:17:06Z",
+  "updated": "2026-06-27T03:17:54Z",
   "live": [
     {
       "id": 41,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 1,
       "away": 1,
       "goals": [
@@ -17,6 +17,14 @@
           "player": "R. Rezaeian",
           "minute": 14,
           "team": "IRN"
+        }
+      ],
+      "subs": [
+        {
+          "out": "M. Abdelmonem",
+          "in": "Y. Ibrahim",
+          "minute": 17,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -223,7 +231,7 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 0,
       "away": 0,
       "stats": {
@@ -341,13 +349,13 @@
                 "pos": "M"
               },
               {
-                "n": 23,
-                "name": "Ryan Thomas",
+                "n": 10,
+                "name": "Sarpreet Singh",
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Sarpreet Singh",
+                "n": 23,
+                "name": "Ryan Thomas",
                 "pos": "M"
               },
               {
@@ -392,18 +400,18 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Hans Vanaken",
-                "pos": "M"
-              },
-              {
                 "n": 8,
                 "name": "Youri Tielemans",
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Leandro Trossard",
+                "n": 20,
+                "name": "Hans Vanaken",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jérémy Doku",
                 "pos": "M"
               },
               {
@@ -412,8 +420,8 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Jérémy Doku",
+                "n": 10,
+                "name": "Leandro Trossard",
                 "pos": "M"
               },
               {
