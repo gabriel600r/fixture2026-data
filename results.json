@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:45:13Z",
+  "updated": "2026-06-27T22:46:06Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 2,
       "goals": [
@@ -300,7 +300,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 2,
       "away": 1,
       "goals": [
@@ -367,6 +367,12 @@
           "in": "M. Pasalic",
           "minute": 78,
           "team": "CRO"
+        },
+        {
+          "out": "K. Sibo",
+          "in": "C. Yirenkyi",
+          "minute": 85,
+          "team": "GHA"
         }
       ],
       "stats": {
