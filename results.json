@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:19:39Z",
+  "updated": "2026-06-27T22:20:27Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "J. Fajardo",
           "minute": 53,
           "team": "PAN",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Quansah",
+          "minute": 61,
+          "team": "ENG",
           "color": "yellow"
         }
       ],
@@ -232,7 +238,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 1,
       "away": 0,
       "goals": [
