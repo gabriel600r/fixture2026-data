@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T21:15:58Z",
+  "updated": "2026-06-27T21:16:46Z",
   "live": [
     {
       "id": 71,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,10 +14,10 @@
         ],
         "shotsTotal": [
           1,
-          2
+          3
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "red": [
@@ -25,12 +25,12 @@
           0
         ],
         "passesPct": [
-          66,
-          88
+          70,
+          89
         ],
         "fouls": [
           3,
-          1
+          2
         ],
         "shotsBlocked": [
           0,
@@ -38,23 +38,23 @@
         ],
         "shotsInside": [
           0,
-          1
+          2
         ],
         "corners": [
           0,
           3
         ],
         "passesTotal": [
-          32,
-          82
+          40,
+          106
         ],
         "shotsOutside": [
           1,
           1
         ],
         "possession": [
-          29,
-          71
+          28,
+          72
         ],
         "offsides": [
           0,
@@ -62,11 +62,11 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "passesAccurate": [
-          21,
-          72
+          28,
+          94
         ],
         "shotsOff": [
           0,
@@ -211,7 +211,7 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -252,16 +252,16 @@
           0
         ],
         "passesTotal": [
-          64,
-          72
+          72,
+          97
         ],
         "shotsOutside": [
           0,
           0
         ],
         "possession": [
-          47,
-          53
+          43,
+          57
         ],
         "offsides": [
           0,
@@ -272,8 +272,8 @@
           0
         ],
         "passesAccurate": [
-          59,
-          67
+          66,
+          90
         ],
         "shotsOff": [
           0,
