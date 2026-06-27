@@ -1,12 +1,80 @@
 {
-  "updated": "2026-06-27T00:04:09Z",
+  "updated": "2026-06-27T00:04:57Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
+      "stats": {
+        "passesPct": [
+          100,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          1,
+          0
+        ],
+        "passesAccurate": [
+          1,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "possession": [
+          100,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "CPV",
+        "away": "KSA"
+      },
       "extras": {
         "pred": {
           "home": 50,
@@ -146,6 +214,74 @@
       "minute": 3,
       "home": 0,
       "away": 0,
+      "stats": {
+        "passesPct": [
+          80,
+          80
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          5,
+          10
+        ],
+        "passesAccurate": [
+          4,
+          8
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "possession": [
+          33,
+          67
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "home": "URU",
+        "away": "ESP"
+      },
       "extras": {
         "pred": {
           "home": 10,
