@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-27T22:11:36Z",
+  "updated": "2026-06-27T22:12:24Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "J. Fajardo",
+          "minute": 53,
+          "team": "PAN",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "T. Rodriguez",
@@ -53,8 +61,8 @@
           5
         ],
         "passesTotal": [
-          124,
-          349
+          126,
+          358
         ],
         "shotsOutside": [
           1,
@@ -73,8 +81,8 @@
           2
         ],
         "passesAccurate": [
-          88,
-          311
+          89,
+          319
         ],
         "shotsOff": [
           1,
@@ -224,7 +232,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 50,
+      "minute": 52,
       "home": 1,
       "away": 0,
       "goals": [
@@ -267,7 +275,7 @@
           0
         ],
         "passesPct": [
-          94,
+          93,
           92
         ],
         "fouls": [
@@ -287,16 +295,16 @@
           0
         ],
         "passesTotal": [
-          312,
-          279
+          317,
+          297
         ],
         "shotsOutside": [
           3,
           1
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "offsides": [
           0,
@@ -307,8 +315,8 @@
           0
         ],
         "passesAccurate": [
-          292,
-          258
+          295,
+          274
         ],
         "shotsOff": [
           2,
