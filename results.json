@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:19:11Z",
+  "updated": "2026-06-27T01:19:59Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -37,11 +37,11 @@
       ],
       "stats": {
         "passesPct": [
-          83,
-          81
+          84,
+          80
         ],
         "shotsTotal": [
-          6,
+          7,
           4
         ],
         "red": [
@@ -57,7 +57,7 @@
           1
         ],
         "shotsInside": [
-          4,
+          5,
           3
         ],
         "saves": [
@@ -65,12 +65,12 @@
           1
         ],
         "passesTotal": [
-          246,
-          240
+          268,
+          259
         ],
         "passesAccurate": [
-          205,
-          194
+          224,
+          208
         ],
         "shotsOff": [
           4,
@@ -85,16 +85,16 @@
           1
         ],
         "shotsBlocked": [
-          1,
+          2,
           2
         ],
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "fouls": [
           7,
-          8
+          9
         ],
         "yellow": [
           1,
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 0,
       "away": 1,
       "goals": [
@@ -285,7 +285,7 @@
       ],
       "stats": {
         "passesPct": [
-          75,
+          76,
           90
         ],
         "shotsTotal": [
@@ -313,12 +313,12 @@
           1
         ],
         "passesTotal": [
-          146,
-          382
+          165,
+          415
         ],
         "passesAccurate": [
-          109,
-          342
+          125,
+          374
         ],
         "shotsOff": [
           2,
@@ -337,15 +337,15 @@
           1
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "fouls": [
           3,
           9
         ],
         "yellow": [
-          0,
+          1,
           1
         ],
         "home": "URU",
