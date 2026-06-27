@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:54:19Z",
+  "updated": "2026-06-27T22:55:09Z",
   "live": [
     {
       "id": 71,
@@ -103,7 +103,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           2,
@@ -400,7 +400,7 @@
           "team": "CRO"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "yellow": [
           1,
@@ -602,7 +602,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Petar Sučić",
-          "rating": 7.9,
+          "rating": 8.7,
           "team": "CRO"
         }
       }
