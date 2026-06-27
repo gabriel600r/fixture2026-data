@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:16:18Z",
+  "updated": "2026-06-27T03:17:06Z",
   "live": [
     {
       "id": 41,
@@ -109,13 +109,13 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Mohamed Abdelmonem",
+                "n": 5,
+                "name": "Rami Rabia",
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Rami Rabia",
+                "n": 6,
+                "name": "Mohamed Abdelmonem",
                 "pos": "D"
               },
               {
@@ -124,23 +124,13 @@
                 "pos": "D"
               },
               {
-                "n": 21,
-                "name": "Mahmoud Saber",
-                "pos": "M"
-              },
-              {
                 "n": 17,
                 "name": "Mohanad Lasheen",
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Mostafa Ziko",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Mohamed Salah",
+                "n": 21,
+                "name": "Mahmoud Saber",
                 "pos": "M"
               },
               {
@@ -149,14 +139,24 @@
                 "pos": "M"
               },
               {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "M"
+              },
+              {
                 "n": 7,
                 "name": "Mahmoud Trézéguet",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
                 "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "5-3-2",
+            "formation": "5-4-1",
             "coach": "Amir Ghalenoei",
             "xi": [
               {
@@ -195,23 +195,23 @@
                 "pos": "M"
               },
               {
-                "n": 21,
-                "name": "Mohammad Ghorbani",
-                "pos": "M"
-              },
-              {
                 "n": 6,
                 "name": "Saeid Ezatolahi",
                 "pos": "M"
               },
               {
-                "n": 9,
-                "name": "Mehdi Taremi",
-                "pos": "F"
+                "n": 21,
+                "name": "Mohammad Ghorbani",
+                "pos": "M"
               },
               {
                 "n": 8,
                 "name": "Mohammad Mohebi",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Mehdi Taremi",
                 "pos": "F"
               }
             ]
@@ -223,7 +223,7 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
