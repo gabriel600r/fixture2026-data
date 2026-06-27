@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:10:16Z",
+  "updated": "2026-06-27T01:11:05Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -37,12 +37,12 @@
       ],
       "stats": {
         "passesPct": [
-          84,
-          80
+          82,
+          79
         ],
         "shotsTotal": [
           4,
-          2
+          3
         ],
         "red": [
           0,
@@ -54,7 +54,7 @@
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           3,
@@ -65,12 +65,12 @@
           0
         ],
         "passesTotal": [
-          200,
-          181
+          213,
+          195
         ],
         "passesAccurate": [
-          167,
-          145
+          174,
+          155
         ],
         "shotsOff": [
           3,
@@ -86,14 +86,14 @@
         ],
         "shotsBlocked": [
           1,
-          1
+          2
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "fouls": [
-          6,
+          7,
           7
         ],
         "yellow": [
@@ -244,7 +244,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 1,
       "goals": [
@@ -253,6 +253,14 @@
           "minute": 42,
           "team": "ESP",
           "assist": "M. Llorente"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Baena",
+          "minute": 47,
+          "team": "ESP",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -271,12 +279,12 @@
       ],
       "stats": {
         "passesPct": [
-          70,
+          71,
           89
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "red": [
           0,
@@ -288,7 +296,7 @@
         ],
         "shotsOutside": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           1,
@@ -296,19 +304,19 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          125,
-          350
+          128,
+          364
         ],
         "passesAccurate": [
-          88,
-          312
+          91,
+          325
         ],
         "shotsOff": [
           2,
-          1
+          2
         ],
         "shotsOn": [
           0,
