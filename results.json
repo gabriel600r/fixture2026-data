@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:20:32Z",
+  "updated": "2026-06-27T04:21:21Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 1,
       "away": 1,
       "goals": [
@@ -68,6 +68,12 @@
           "out": "M. Saber",
           "in": "M. Attia",
           "minute": 46,
+          "team": "EGY"
+        },
+        {
+          "out": "M. Salah",
+          "in": "Zizo",
+          "minute": 57,
           "team": "EGY"
         }
       ],
@@ -280,7 +286,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 2,
       "goals": [
