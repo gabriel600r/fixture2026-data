@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:55:08Z",
+  "updated": "2026-06-27T04:55:56Z",
   "live": [
     {
       "id": 41,
@@ -93,9 +93,15 @@
           "in": "H. Abdelkarim",
           "minute": 76,
           "team": "EGY"
+        },
+        {
+          "out": "M. Mohebi",
+          "in": "A. Jahanbakhsh",
+          "minute": 90,
+          "team": "IRN"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesPct": [
           88,
@@ -413,7 +419,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           84,
