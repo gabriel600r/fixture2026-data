@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T21:22:22Z",
+  "updated": "2026-06-27T21:23:10Z",
   "live": [
     {
       "id": 71,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "stats": {
@@ -211,7 +211,7 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -329,13 +329,13 @@
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Nikola Vlašić",
+                "n": 17,
+                "name": "Petar Sučić",
                 "pos": "M"
               },
               {
-                "n": 17,
-                "name": "Petar Sučić",
+                "n": 13,
+                "name": "Nikola Vlašić",
                 "pos": "M"
               },
               {
@@ -351,7 +351,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-1-4-1",
             "coach": "Carlos Queiroz",
             "xi": [
               {
@@ -385,6 +385,11 @@
                 "pos": "M"
               },
               {
+                "n": 11,
+                "name": "Antoine Semenyo",
+                "pos": "M"
+              },
+              {
                 "n": 15,
                 "name": "Elisha Owusu",
                 "pos": "M"
@@ -397,16 +402,11 @@
               {
                 "n": 22,
                 "name": "Kamaldeen Sulemana",
-                "pos": "F"
+                "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Jordan Ayew",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Antoine Semenyo",
                 "pos": "F"
               }
             ]
