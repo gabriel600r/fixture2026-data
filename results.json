@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:40:44Z",
+  "updated": "2026-06-27T04:41:32Z",
   "live": [
     {
       "id": 41,
@@ -81,6 +81,12 @@
           "in": "S. Moghanlou",
           "minute": 67,
           "team": "IRN"
+        },
+        {
+          "out": "M. Ziko",
+          "in": "H. Abdelkarim",
+          "minute": 76,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -292,7 +298,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 3,
       "goals": [
@@ -369,6 +375,12 @@
           "in": "A. Onana",
           "minute": 72,
           "team": "BEL"
+        },
+        {
+          "out": "L. Cacace",
+          "in": "F. De Vries",
+          "minute": 79,
+          "team": "NZL"
         }
       ],
       "stats": {
