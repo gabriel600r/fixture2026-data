@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-27T01:47:25Z",
+  "updated": "2026-06-27T01:48:14Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 81,
+      "minute": 85,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "S. Abdulhamid",
+          "player": "Saud Abdulhamid",
           "minute": 4,
           "team": "KSA",
           "color": "yellow"
         },
         {
-          "player": "W. Pina",
+          "player": "Wagner Pina",
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
         },
         {
-          "player": "N. Al Dawsari",
+          "player": "Nasser Al-Dawsari",
           "minute": 67,
           "team": "KSA",
           "color": "yellow"
@@ -29,52 +29,58 @@
       ],
       "subs": [
         {
-          "out": "H. Tambakti",
-          "in": "A. Lajami",
+          "out": "Hassan Al-Tambakti",
+          "in": "Ali Lajami",
           "minute": 33,
           "team": "KSA"
         },
         {
-          "out": "A. Al Khaibari",
-          "in": "M. Al Juwayr",
-          "minute": 46,
+          "out": "Abdullah Al-Khaibari",
+          "in": "Musab Al-Juwayr",
+          "minute": 45,
           "team": "KSA"
         },
         {
-          "out": "D. Livramento",
-          "in": "N. Da Costa",
+          "out": "Dailon Livramento",
+          "in": "Nuno Da Costa",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "W. Semedo",
-          "in": "H. Varela",
+          "out": "Willy Semedo",
+          "in": "Hélio Varela",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "S. Al Dawsari",
-          "in": "M. Abu Al Shamat",
+          "out": "Salem Al-Dawsari",
+          "in": "Mohammed Abu Al-Shamat",
           "minute": 66,
           "team": "KSA"
         },
         {
-          "out": "S. Mandash",
-          "in": "A. Al Hamdan",
+          "out": "Sultan Mandash",
+          "in": "Abdullah Al-Hamdan",
           "minute": 66,
           "team": "KSA"
         },
         {
-          "out": "R. Mendes",
-          "in": "G. Rodrigues",
+          "out": "Jamiro Monteiro",
+          "in": "Laros Duarte",
           "minute": 71,
           "team": "CPV"
         },
         {
-          "out": "J. Monteiro",
-          "in": "L. Duarte",
+          "out": "Ryan Mendes",
+          "in": "Garry Rodrigues",
           "minute": 71,
           "team": "CPV"
+        },
+        {
+          "out": "Nawaf Boushal",
+          "in": "Moteb Al-Harbi",
+          "minute": 82,
+          "team": "KSA"
         }
       ],
       "stats": {
@@ -286,32 +292,32 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 81,
+      "minute": 84,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "A. Baena",
+          "player": "Alejandro Baena Rodríguez",
           "minute": 42,
           "team": "ESP",
-          "assist": "M. Llorente"
+          "assist": "Marcos Llorente"
         }
       ],
       "cardEvents": [
         {
-          "player": "A. Baena",
+          "player": "Alejandro Baena Rodríguez",
           "minute": 46,
           "team": "ESP",
           "color": "yellow"
         },
         {
-          "player": "J. Sanabria",
+          "player": "Juan Sanabria",
           "minute": 54,
           "team": "URU",
           "color": "yellow"
         },
         {
-          "player": "G. Varela",
+          "player": "Guillermo Varela",
           "minute": 58,
           "team": "URU",
           "color": "yellow"
@@ -319,56 +325,56 @@
       ],
       "subs": [
         {
-          "out": "M. Ugarte",
-          "in": "N. de la Cruz",
+          "out": "Manuel Ugarte",
+          "in": "Nicolas De la Cruz",
           "minute": 45,
           "team": "URU"
         },
         {
-          "out": "F. Muslera",
-          "in": "S. Rochet",
-          "minute": 46,
+          "out": "Fernando Muslera",
+          "in": "Sergio Rochet",
+          "minute": 45,
           "team": "URU"
         },
         {
-          "out": "F. Valverde",
-          "in": "F. Vinas",
+          "out": "Federico Valverde",
+          "in": "Federico Viñas",
           "minute": 57,
           "team": "URU"
         },
         {
           "out": "Pedri",
-          "in": "F. Ruiz",
+          "in": "Fabián Ruiz",
           "minute": 60,
           "team": "ESP"
         },
         {
-          "out": "M. Merino",
-          "in": "D. Olmo",
+          "out": "Mikel Merino",
+          "in": "Daniel Olmo Carvajal",
           "minute": 60,
           "team": "ESP"
         },
         {
-          "out": "A. Baena",
-          "in": "Y. Pino",
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Yeremy Pino",
           "minute": 66,
           "team": "ESP"
         },
         {
-          "out": "J. Sanabria",
-          "in": "B. Rodriguez",
+          "out": "Juan Sanabria",
+          "in": "Brian Rodríguez",
           "minute": 70,
           "team": "URU"
         },
         {
           "out": "Lamine Yamal",
-          "in": "N. Williams",
+          "in": "Nico Williams",
           "minute": 76,
           "team": "ESP"
         },
         {
-          "out": "M. Oyarzabal",
-          "in": "F. Torres",
+          "out": "Mikel Oyarzabal",
+          "in": "Ferrán Torres",
           "minute": 76,
           "team": "ESP"
         }
