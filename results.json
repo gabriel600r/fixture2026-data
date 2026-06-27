@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:33:38Z",
+  "updated": "2026-06-27T22:34:27Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 2,
       "goals": [
@@ -79,7 +79,7 @@
           1
         ],
         "shotsTotal": [
-          5,
+          6,
           14
         ],
         "saves": [
@@ -115,7 +115,7 @@
           5
         ],
         "shotsOff": [
-          3,
+          4,
           7
         ],
         "home": "PAN",
@@ -264,13 +264,19 @@
       "status": "2H",
       "minute": 73,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "P. Sucic",
           "minute": 31,
           "team": "CRO",
           "assist": "M. Kovacic"
+        },
+        {
+          "player": "D. Luckassen",
+          "minute": 73,
+          "team": "GHA",
+          "assist": "E. Nuamah"
         }
       ],
       "cardEvents": [
