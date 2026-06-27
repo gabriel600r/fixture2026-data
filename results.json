@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T00:11:22Z",
+  "updated": "2026-06-27T00:12:10Z",
   "live": [
     {
       "id": 47,
@@ -225,7 +225,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "stats": {
@@ -304,7 +304,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-1-4-1",
             "coach": "Marcelo Bielsa",
             "xi": [
               {
@@ -333,11 +333,6 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Rodrigo Bentancur",
-                "pos": "M"
-              },
-              {
                 "n": 5,
                 "name": "Manuel Ugarte",
                 "pos": "M"
@@ -345,6 +340,11 @@
               {
                 "n": 14,
                 "name": "Agustín Canobbio",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Rodrigo Bentancur",
                 "pos": "M"
               },
               {
@@ -394,8 +394,8 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Pedri",
+                "n": 6,
+                "name": "Mikel Merino",
                 "pos": "M"
               },
               {
@@ -404,8 +404,8 @@
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Mikel Merino",
+                "n": 20,
+                "name": "Pedri",
                 "pos": "M"
               },
               {
