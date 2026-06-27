@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:34:30Z",
+  "updated": "2026-06-27T01:35:18Z",
   "live": [
     {
       "id": 47,
@@ -274,7 +274,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 1,
       "goals": [
@@ -341,6 +341,12 @@
           "in": "Y. Pino",
           "minute": 66,
           "team": "ESP"
+        },
+        {
+          "out": "J. Sanabria",
+          "in": "B. Rodriguez",
+          "minute": 70,
+          "team": "URU"
         }
       ],
       "stats": {
