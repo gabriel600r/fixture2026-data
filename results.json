@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:44:12Z",
+  "updated": "2026-06-27T01:45:00Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -79,11 +79,11 @@
       ],
       "stats": {
         "passesPct": [
-          85,
+          84,
           79
         ],
         "shotsTotal": [
-          10,
+          12,
           5
         ],
         "red": [
@@ -95,11 +95,11 @@
           0
         ],
         "shotsOutside": [
-          3,
+          4,
           1
         ],
         "shotsInside": [
-          7,
+          8,
           4
         ],
         "saves": [
@@ -107,12 +107,12 @@
           2
         ],
         "passesTotal": [
-          375,
-          335
+          387,
+          354
         ],
         "passesAccurate": [
-          318,
-          266
+          327,
+          279
         ],
         "shotsOff": [
           6,
@@ -127,16 +127,16 @@
           2
         ],
         "shotsBlocked": [
-          2,
+          4,
           2
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "fouls": [
-          9,
-          12
+          10,
+          13
         ],
         "yellow": [
           1,
@@ -278,7 +278,7 @@
         "referee": "François Letexier, France",
         "motm": {
           "player": "Mohammed Al-Owais",
-          "rating": 7.6,
+          "rating": 7.5,
           "team": "KSA"
         }
       }
@@ -286,7 +286,7 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 0,
       "away": 1,
       "goals": [
@@ -387,7 +387,7 @@
           0
         ],
         "offsides": [
-          3,
+          4,
           1
         ],
         "shotsOutside": [
@@ -403,12 +403,12 @@
           1
         ],
         "passesTotal": [
-          225,
-          547
+          230,
+          555
         ],
         "passesAccurate": [
-          169,
-          489
+          173,
+          496
         ],
         "shotsOff": [
           3,
@@ -427,8 +427,8 @@
           1
         ],
         "possession": [
-          29,
-          71
+          30,
+          70
         ],
         "fouls": [
           9,
