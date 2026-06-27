@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T23:41:26Z",
+  "updated": "2026-06-27T23:42:14Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
       "stats": {
@@ -211,14 +211,15 @@
     {
       "id": 66,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "E. Shomurodov",
           "minute": 10,
-          "team": "UZB"
+          "team": "UZB",
+          "assist": "A. Mozgovoy"
         }
       ],
       "stats": {
