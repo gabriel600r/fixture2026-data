@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:29:38Z",
+  "updated": "2026-06-27T01:30:28Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -45,6 +45,18 @@
           "in": "Hélio Varela",
           "minute": 61,
           "team": "CPV"
+        },
+        {
+          "out": "Salem Al-Dawsari",
+          "in": "Mohammed Abu Al-Shamat",
+          "minute": 66,
+          "team": "KSA"
+        },
+        {
+          "out": "Sultan Mandash",
+          "in": "Abdullah Al-Hamdan",
+          "minute": 66,
+          "team": "KSA"
         }
       ],
       "stats": {
@@ -77,12 +89,12 @@
           2
         ],
         "possession": [
-          53,
-          47
+          55,
+          45
         ],
         "fouls": [
           8,
-          10
+          11
         ],
         "yellow": [
           1,
@@ -223,16 +235,16 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Mohammed Al Owais",
-          "rating": 7.27,
-          "team": "KSA"
+          "player": "Pico",
+          "rating": 7.07,
+          "team": "CPV"
         }
       }
     },
     {
       "id": 48,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 1,
       "goals": [
@@ -333,7 +345,7 @@
           72
         ],
         "fouls": [
-          6,
+          7,
           10
         ],
         "yellow": [
@@ -476,7 +488,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Álex Baena",
-          "rating": 7.68,
+          "rating": 7.88,
           "team": "ESP"
         }
       }
