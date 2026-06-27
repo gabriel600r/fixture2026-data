@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:42:46Z",
+  "updated": "2026-06-27T00:43:37Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -32,10 +32,10 @@
       "stats": {
         "passesPct": [
           83,
-          81
+          80
         ],
         "shotsTotal": [
-          2,
+          3,
           1
         ],
         "red": [
@@ -51,7 +51,7 @@
           0
         ],
         "shotsInside": [
-          2,
+          3,
           1
         ],
         "saves": [
@@ -60,7 +60,7 @@
         ],
         "passesTotal": [
           160,
-          137
+          138
         ],
         "passesAccurate": [
           133,
@@ -75,16 +75,16 @@
           0
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "shotsBlocked": [
-          1,
+          2,
           1
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "fouls": [
           5,
@@ -235,7 +235,15 @@
       "status": "1H",
       "minute": 42,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Baena",
+          "minute": 42,
+          "team": "ESP",
+          "assist": "M. Llorente"
+        }
+      ],
       "stats": {
         "passesPct": [
           69,
