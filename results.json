@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T05:03:54Z",
+  "updated": "2026-06-27T05:10:01Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -39,7 +39,7 @@
     },
     "88": {
       "home": "AUS",
-      "away": "TBD"
+      "away": "EGY"
     },
     "77": {
       "home": "FRA",
@@ -52,6 +52,10 @@
     "86": {
       "home": "TBD",
       "away": "CPV"
+    },
+    "82": {
+      "home": "BEL",
+      "away": "TBD"
     }
   },
   "prematch": [],
