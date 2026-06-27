@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-27T01:32:06Z",
+  "updated": "2026-06-27T01:32:54Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Saud Abdulhamid",
+          "player": "S. Abdulhamid",
           "minute": 4,
           "team": "KSA",
           "color": "yellow"
         },
         {
-          "player": "Wagner Pina",
+          "player": "W. Pina",
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
         },
         {
-          "player": "Nasser Al-Dawsari",
+          "player": "N. Al Dawsari",
           "minute": 67,
           "team": "KSA",
           "color": "yellow"
@@ -29,54 +29,78 @@
       ],
       "subs": [
         {
-          "out": "Hassan Al-Tambakti",
-          "in": "Ali Lajami",
+          "out": "H. Tambakti",
+          "in": "A. Lajami",
           "minute": 33,
           "team": "KSA"
         },
         {
-          "out": "Abdullah Al-Khaibari",
-          "in": "Musab Al-Juwayr",
-          "minute": 45,
+          "out": "A. Al Khaibari",
+          "in": "M. Al Juwayr",
+          "minute": 46,
           "team": "KSA"
         },
         {
-          "out": "Dailon Livramento",
-          "in": "Nuno Da Costa",
+          "out": "D. Livramento",
+          "in": "N. Da Costa",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "Willy Semedo",
-          "in": "Hélio Varela",
+          "out": "W. Semedo",
+          "in": "H. Varela",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "Salem Al-Dawsari",
-          "in": "Mohammed Abu Al-Shamat",
+          "out": "S. Al Dawsari",
+          "in": "M. Abu Al Shamat",
           "minute": 66,
           "team": "KSA"
         },
         {
-          "out": "Sultan Mandash",
-          "in": "Abdullah Al-Hamdan",
+          "out": "S. Mandash",
+          "in": "A. Al Hamdan",
           "minute": 66,
           "team": "KSA"
         }
       ],
       "stats": {
+        "passesPct": [
+          85,
+          79
+        ],
         "shotsTotal": [
           8,
-          5
+          4
         ],
         "red": [
           0,
           0
         ],
-        "saves": [
-          2,
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          3,
           1
+        ],
+        "shotsInside": [
+          5,
+          3
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "passesTotal": [
+          353,
+          302
+        ],
+        "passesAccurate": [
+          300,
+          240
         ],
         "shotsOff": [
           5,
@@ -84,7 +108,7 @@
         ],
         "shotsOn": [
           1,
-          2
+          1
         ],
         "corners": [
           3,
@@ -100,11 +124,11 @@
         ],
         "fouls": [
           8,
-          12
+          10
         ],
         "yellow": [
           1,
-          2
+          1
         ],
         "home": "CPV",
         "away": "KSA"
@@ -241,16 +265,16 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Pico",
-          "rating": 7.07,
-          "team": "CPV"
+          "player": "Abdulelah Al-Amri",
+          "rating": 7.3,
+          "team": "KSA"
         }
       }
     },
     {
       "id": 48,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 1,
       "goals": [
@@ -320,6 +344,10 @@
         }
       ],
       "stats": {
+        "passesPct": [
+          74,
+          89
+        ],
         "shotsTotal": [
           4,
           5
@@ -332,9 +360,25 @@
           3,
           1
         ],
+        "shotsOutside": [
+          2,
+          1
+        ],
+        "shotsInside": [
+          2,
+          4
+        ],
         "saves": [
           0,
           1
+        ],
+        "passesTotal": [
+          192,
+          484
+        ],
+        "passesAccurate": [
+          142,
+          433
         ],
         "shotsOff": [
           3,
@@ -353,11 +397,11 @@
           1
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "fouls": [
-          7,
+          6,
           10
         ],
         "yellow": [
@@ -499,8 +543,8 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Álex Baena",
-          "rating": 7.88,
+          "player": "Alex Baena",
+          "rating": 7.2,
           "team": "ESP"
         }
       }
