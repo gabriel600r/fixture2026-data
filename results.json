@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:59:56Z",
+  "updated": "2026-06-27T05:00:45Z",
   "live": [
     {
       "id": 41,
@@ -16,11 +16,6 @@
         {
           "player": "R. Rezaeian",
           "minute": 14,
-          "team": "IRN"
-        },
-        {
-          "player": "S. Khalilzadeh",
-          "minute": 90,
           "team": "IRN"
         }
       ],
@@ -112,7 +107,7 @@
           "team": "IRN"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "passesPct": [
           88,
