@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:49:22Z",
+  "updated": "2026-06-27T22:50:12Z",
   "live": [
     {
       "id": 71,
@@ -103,6 +103,7 @@
           "team": "PAN"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           2,
@@ -312,7 +313,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 2,
       "away": 1,
       "goals": [
@@ -385,6 +386,12 @@
           "in": "C. Yirenkyi",
           "minute": 85,
           "team": "GHA"
+        },
+        {
+          "out": "M. Baturina",
+          "in": "M. Pasalic",
+          "minute": 89,
+          "team": "CRO"
         }
       ],
       "stats": {
