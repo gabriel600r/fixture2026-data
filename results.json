@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:55:56Z",
+  "updated": "2026-06-27T04:56:44Z",
   "live": [
     {
       "id": 41,
@@ -48,6 +48,12 @@
           "player": "S. Ezatolahi",
           "minute": 79,
           "team": "IRN",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Lasheen",
+          "minute": 90,
+          "team": "EGY",
           "color": "yellow"
         }
       ],
@@ -101,7 +107,7 @@
           "team": "IRN"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           88,
@@ -132,11 +138,11 @@
           2
         ],
         "passesTotal": [
-          544,
-          348
+          561,
+          350
         ],
         "passesAccurate": [
-          478,
+          493,
           268
         ],
         "shotsOff": [
@@ -149,19 +155,19 @@
         ],
         "corners": [
           8,
-          0
+          1
         ],
         "shotsBlocked": [
           6,
           1
         ],
         "possession": [
-          61,
-          39
+          62,
+          38
         ],
         "fouls": [
           10,
-          14
+          16
         ],
         "yellow": [
           2,
@@ -419,7 +425,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           84,
@@ -427,7 +433,7 @@
         ],
         "shotsTotal": [
           6,
-          32
+          34
         ],
         "red": [
           0,
@@ -439,43 +445,43 @@
         ],
         "shotsOutside": [
           3,
-          10
+          12
         ],
         "shotsInside": [
           3,
           22
         ],
         "saves": [
-          4,
+          5,
           1
         ],
         "passesTotal": [
-          397,
-          511
+          417,
+          521
         ],
         "passesAccurate": [
-          333,
-          449
+          352,
+          459
         ],
         "shotsOff": [
           3,
-          12
+          13
         ],
         "shotsOn": [
           2,
-          8
+          9
         ],
         "corners": [
           5,
-          7
+          8
         ],
         "shotsBlocked": [
           1,
           12
         ],
         "possession": [
-          44,
-          56
+          45,
+          55
         ],
         "fouls": [
           10,
