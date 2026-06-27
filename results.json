@@ -1,319 +1,6 @@
 {
-  "updated": "2026-06-27T02:02:07Z",
-  "live": [
-    {
-      "id": 48,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "A. Baena",
-          "minute": 42,
-          "team": "ESP",
-          "assist": "M. Llorente"
-        }
-      ],
-      "redCards": [
-        "A. Canobbio (Uruguay) 90'"
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Baena",
-          "minute": 46,
-          "team": "ESP",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Sanabria",
-          "minute": 54,
-          "team": "URU",
-          "color": "yellow"
-        },
-        {
-          "player": "G. Varela",
-          "minute": 58,
-          "team": "URU",
-          "color": "yellow"
-        },
-        {
-          "player": "N. de la Cruz",
-          "minute": 90,
-          "team": "URU",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Canobbio",
-          "minute": 90,
-          "team": "URU",
-          "color": "red"
-        }
-      ],
-      "subs": [
-        {
-          "out": "M. Ugarte",
-          "in": "N. de la Cruz",
-          "minute": 45,
-          "team": "URU"
-        },
-        {
-          "out": "F. Muslera",
-          "in": "S. Rochet",
-          "minute": 46,
-          "team": "URU"
-        },
-        {
-          "out": "F. Valverde",
-          "in": "F. Vinas",
-          "minute": 57,
-          "team": "URU"
-        },
-        {
-          "out": "Pedri",
-          "in": "F. Ruiz",
-          "minute": 60,
-          "team": "ESP"
-        },
-        {
-          "out": "M. Merino",
-          "in": "D. Olmo",
-          "minute": 60,
-          "team": "ESP"
-        },
-        {
-          "out": "A. Baena",
-          "in": "Y. Pino",
-          "minute": 66,
-          "team": "ESP"
-        },
-        {
-          "out": "J. Sanabria",
-          "in": "B. Rodriguez",
-          "minute": 70,
-          "team": "URU"
-        },
-        {
-          "out": "Lamine Yamal",
-          "in": "N. Williams",
-          "minute": 76,
-          "team": "ESP"
-        },
-        {
-          "out": "M. Oyarzabal",
-          "in": "F. Torres",
-          "minute": 76,
-          "team": "ESP"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "passesPct": [
-          76,
-          89
-        ],
-        "shotsTotal": [
-          5,
-          6
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          5,
-          2
-        ],
-        "shotsOutside": [
-          3,
-          1
-        ],
-        "shotsInside": [
-          2,
-          5
-        ],
-        "saves": [
-          0,
-          2
-        ],
-        "passesTotal": [
-          291,
-          618
-        ],
-        "passesAccurate": [
-          222,
-          549
-        ],
-        "shotsOff": [
-          3,
-          4
-        ],
-        "shotsOn": [
-          1,
-          1
-        ],
-        "corners": [
-          1,
-          6
-        ],
-        "shotsBlocked": [
-          1,
-          1
-        ],
-        "possession": [
-          33,
-          67
-        ],
-        "fouls": [
-          13,
-          14
-        ],
-        "yellow": [
-          3,
-          1
-        ],
-        "home": "URU",
-        "away": "ESP"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-4-1",
-            "coach": "Marcelo Bielsa",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Fernando Muslera",
-                "pos": "G"
-              },
-              {
-                "n": 13,
-                "name": "Guillermo Varela",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Sebastián Cáceres",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Mathías Olivera",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Juan Sanabria",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Manuel Ugarte",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Agustín Canobbio",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Rodrigo Bentancur",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Federico Valverde",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Maximiliano Araújo",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Darwin Núñez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Luis de la Fuente",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Unai Simón",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Marcos Llorente",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Pau Cubarsí",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Aymeric Laporte",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Marc Cucurella",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Pedri",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Rodri",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Mikel Merino",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Ismail Elfath, USA",
-        "motm": {
-          "player": "Alex Baena",
-          "rating": 7.2,
-          "team": "ESP"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-27T02:02:09Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -14195,6 +13882,315 @@
       }
     },
     {
+      "id": 48,
+      "home": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Baena",
+          "minute": 42,
+          "team": "ESP",
+          "assist": "M. Llorente"
+        }
+      ],
+      "redCards": [
+        "A. Canobbio (Uruguay) 90'"
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Baena",
+          "minute": 46,
+          "team": "ESP",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Sanabria",
+          "minute": 54,
+          "team": "URU",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Varela",
+          "minute": 58,
+          "team": "URU",
+          "color": "yellow"
+        },
+        {
+          "player": "N. de la Cruz",
+          "minute": 90,
+          "team": "URU",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Canobbio",
+          "minute": 90,
+          "team": "URU",
+          "color": "red"
+        }
+      ],
+      "subs": [
+        {
+          "out": "M. Ugarte",
+          "in": "N. de la Cruz",
+          "minute": 45,
+          "team": "URU"
+        },
+        {
+          "out": "F. Muslera",
+          "in": "S. Rochet",
+          "minute": 46,
+          "team": "URU"
+        },
+        {
+          "out": "F. Valverde",
+          "in": "F. Vinas",
+          "minute": 57,
+          "team": "URU"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 60,
+          "team": "ESP"
+        },
+        {
+          "out": "M. Merino",
+          "in": "D. Olmo",
+          "minute": 60,
+          "team": "ESP"
+        },
+        {
+          "out": "A. Baena",
+          "in": "Y. Pino",
+          "minute": 66,
+          "team": "ESP"
+        },
+        {
+          "out": "J. Sanabria",
+          "in": "B. Rodriguez",
+          "minute": 70,
+          "team": "URU"
+        },
+        {
+          "out": "Lamine Yamal",
+          "in": "N. Williams",
+          "minute": 76,
+          "team": "ESP"
+        },
+        {
+          "out": "M. Oyarzabal",
+          "in": "F. Torres",
+          "minute": 76,
+          "team": "ESP"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          76,
+          89
+        ],
+        "shotsTotal": [
+          5,
+          6
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          5,
+          2
+        ],
+        "shotsOutside": [
+          3,
+          1
+        ],
+        "shotsInside": [
+          2,
+          5
+        ],
+        "saves": [
+          0,
+          2
+        ],
+        "passesTotal": [
+          291,
+          618
+        ],
+        "passesAccurate": [
+          222,
+          549
+        ],
+        "shotsOff": [
+          3,
+          4
+        ],
+        "shotsOn": [
+          1,
+          1
+        ],
+        "corners": [
+          1,
+          6
+        ],
+        "shotsBlocked": [
+          1,
+          1
+        ],
+        "possession": [
+          33,
+          67
+        ],
+        "fouls": [
+          13,
+          14
+        ],
+        "yellow": [
+          3,
+          1
+        ],
+        "home": "URU",
+        "away": "ESP"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-4-1",
+            "coach": "Marcelo Bielsa",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Fernando Muslera",
+                "pos": "G"
+              },
+              {
+                "n": 13,
+                "name": "Guillermo Varela",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Sebastián Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Mathías Olivera",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Juan Sanabria",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Ugarte",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Agustín Canobbio",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Rodrigo Bentancur",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Federico Valverde",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Maximiliano Araújo",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Darwin Núñez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Marcos Llorente",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Mikel Merino",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Alex Baena",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ismail Elfath, USA",
+        "motm": {
+          "player": "Alex Baena",
+          "rating": 7.2,
+          "team": "ESP"
+        }
+      }
+    },
+    {
       "id": 49,
       "home": 3,
       "away": 1,
@@ -19908,6 +19904,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Canobbio",
+        "team": "URU",
+        "red": 1,
+        "yellow": 0
+      },
+      {
         "player": "A. O. Madibo",
         "team": "QAT",
         "red": 1,
@@ -20004,6 +20006,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Baena",
+        "team": "ESP",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Circati",
         "team": "AUS",
         "red": 0,
@@ -20068,18 +20076,6 @@
         "team": "FRA",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "Alan Franco",
-        "team": "ECU",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "Aleksandar Pavlović",
-        "team": "GER",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
@@ -20137,6 +20133,20 @@
       "cleanSheets": 0,
       "failedToScore": 0,
       "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DWW"
+    },
+    {
+      "code": "ESP",
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "loses": 0,
+      "gf": 5,
+      "ga": 0,
+      "cleanSheets": 3,
+      "failedToScore": 1,
+      "biggestWin": "4-0",
       "biggestLose": "",
       "form": "DWW"
     },
@@ -20291,20 +20301,6 @@
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "5-0",
-      "biggestLose": "",
-      "form": "DW"
-    },
-    {
-      "code": "ESP",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 4,
-      "ga": 0,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "4-0",
       "biggestLose": "",
       "form": "DW"
     },
@@ -20576,17 +20572,17 @@
     },
     {
       "code": "URU",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 2,
-      "loses": 0,
+      "loses": 1,
       "gf": 3,
-      "ga": 3,
+      "ga": 4,
       "cleanSheets": 0,
-      "failedToScore": 0,
+      "failedToScore": 1,
       "biggestWin": "",
-      "biggestLose": "",
-      "form": "DD"
+      "biggestLose": "0-1",
+      "form": "DDL"
     },
     {
       "code": "KSA",
