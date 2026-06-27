@@ -1,12 +1,80 @@
 {
-  "updated": "2026-06-27T23:31:47Z",
+  "updated": "2026-06-27T23:32:35Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 1,
+      "minute": 2,
       "home": 0,
       "away": 0,
+      "stats": {
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          100,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          1,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "possession": [
+          100,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          1,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "home": "COL",
+        "away": "POR"
+      },
       "extras": {
         "pred": {
           "home": 35,
@@ -139,76 +207,81 @@
         },
         "referee": "Alireza Faghani, Australia"
       }
-    }
-  ],
-  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
-  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
-  "min_version": "1.9.38",
-  "brackets": {
-    "73": {
-      "home": "RSA",
-      "away": "CAN"
     },
-    "85": {
-      "home": "SUI",
-      "away": "TBD"
-    },
-    "75": {
-      "home": "NED",
-      "away": "MAR"
-    },
-    "76": {
-      "home": "BRA",
-      "away": "JPN"
-    },
-    "79": {
-      "home": "MEX",
-      "away": "TBD"
-    },
-    "74": {
-      "home": "GER",
-      "away": "TBD"
-    },
-    "78": {
-      "home": "CIV",
-      "away": "NOR"
-    },
-    "81": {
-      "home": "USA",
-      "away": "TBD"
-    },
-    "88": {
-      "home": "AUS",
-      "away": "EGY"
-    },
-    "77": {
-      "home": "FRA",
-      "away": "TBD"
-    },
-    "84": {
-      "home": "ESP",
-      "away": "TBD"
-    },
-    "86": {
-      "home": "TBD",
-      "away": "CPV"
-    },
-    "82": {
-      "home": "BEL",
-      "away": "TBD"
-    },
-    "80": {
-      "home": "ENG",
-      "away": "TBD"
-    },
-    "83": {
-      "home": "TBD",
-      "away": "CRO"
-    }
-  },
-  "prematch": [
     {
       "id": 66,
+      "status": "1H",
+      "minute": 2,
+      "home": 0,
+      "away": 0,
+      "stats": {
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          0,
+          100
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          0,
+          1
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "possession": [
+          0,
+          100
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          0,
+          1
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "home": "COD",
+        "away": "UZB"
+      },
       "extras": {
         "pred": {
           "home": 45,
@@ -343,6 +416,72 @@
       }
     }
   ],
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.38",
+  "brackets": {
+    "73": {
+      "home": "RSA",
+      "away": "CAN"
+    },
+    "85": {
+      "home": "SUI",
+      "away": "TBD"
+    },
+    "75": {
+      "home": "NED",
+      "away": "MAR"
+    },
+    "76": {
+      "home": "BRA",
+      "away": "JPN"
+    },
+    "79": {
+      "home": "MEX",
+      "away": "TBD"
+    },
+    "74": {
+      "home": "GER",
+      "away": "TBD"
+    },
+    "78": {
+      "home": "CIV",
+      "away": "NOR"
+    },
+    "81": {
+      "home": "USA",
+      "away": "TBD"
+    },
+    "88": {
+      "home": "AUS",
+      "away": "EGY"
+    },
+    "77": {
+      "home": "FRA",
+      "away": "TBD"
+    },
+    "84": {
+      "home": "ESP",
+      "away": "TBD"
+    },
+    "86": {
+      "home": "TBD",
+      "away": "CPV"
+    },
+    "82": {
+      "home": "BEL",
+      "away": "TBD"
+    },
+    "80": {
+      "home": "ENG",
+      "away": "TBD"
+    },
+    "83": {
+      "home": "TBD",
+      "away": "CRO"
+    }
+  },
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
