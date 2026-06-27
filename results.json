@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:29:19Z",
+  "updated": "2026-06-27T22:30:14Z",
   "live": [
     {
       "id": 71,
@@ -567,7 +567,30 @@
       "away": "TBD"
     }
   },
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 65,
+      "extras": {
+        "pred": {
+          "home": 35,
+          "draw": 35,
+          "away": 30
+        },
+        "referee": "A. Faghani"
+      }
+    },
+    {
+      "id": 66,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "referee": "F. Zwayer"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
