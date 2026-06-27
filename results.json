@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:15:36Z",
+  "updated": "2026-06-27T22:16:25Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -25,12 +25,12 @@
       ],
       "stats": {
         "yellow": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
-          3,
-          9
+          4,
+          10
         ],
         "saves": [
           2,
@@ -41,12 +41,12 @@
           0
         ],
         "passesPct": [
-          70,
+          71,
           89
         ],
         "fouls": [
-          11,
-          3
+          12,
+          4
         ],
         "shotsBlocked": [
           0,
@@ -54,23 +54,23 @@
         ],
         "shotsInside": [
           2,
-          5
+          6
         ],
         "corners": [
           1,
           5
         ],
         "passesTotal": [
-          135,
-          374
+          148,
+          381
         ],
         "shotsOutside": [
-          1,
+          2,
           4
         ],
         "possession": [
-          27,
-          73
+          29,
+          71
         ],
         "offsides": [
           1,
@@ -81,12 +81,12 @@
           2
         ],
         "passesAccurate": [
-          95,
-          334
+          105,
+          339
         ],
         "shotsOff": [
-          1,
-          6
+          2,
+          7
         ],
         "home": "PAN",
         "away": "ENG"
@@ -232,7 +232,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 0,
       "goals": [
@@ -275,12 +275,12 @@
           0
         ],
         "passesPct": [
-          93,
-          92
+          92,
+          91
         ],
         "fouls": [
           3,
-          7
+          8
         ],
         "shotsBlocked": [
           1,
@@ -295,28 +295,28 @@
           0
         ],
         "passesTotal": [
-          318,
-          315
+          339,
+          318
         ],
         "shotsOutside": [
           3,
           1
         ],
         "possession": [
-          50,
-          50
+          52,
+          48
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsOn": [
           2,
           0
         ],
         "passesAccurate": [
-          295,
-          289
+          313,
+          290
         ],
         "shotsOff": [
           2,
