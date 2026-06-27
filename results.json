@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:18:03Z",
+  "updated": "2026-06-27T22:18:51Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -46,7 +46,7 @@
         ],
         "fouls": [
           12,
-          4
+          5
         ],
         "shotsBlocked": [
           0,
@@ -61,16 +61,16 @@
           5
         ],
         "passesTotal": [
-          148,
-          381
+          150,
+          396
         ],
         "shotsOutside": [
           2,
           4
         ],
         "possession": [
-          29,
-          71
+          28,
+          72
         ],
         "offsides": [
           1,
@@ -81,8 +81,8 @@
           2
         ],
         "passesAccurate": [
-          105,
-          339
+          106,
+          353
         ],
         "shotsOff": [
           2,
@@ -223,16 +223,16 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "José Córdoba",
-          "rating": 7.5,
-          "team": "PAN"
+          "player": "Marc Guéhi",
+          "rating": 7.3,
+          "team": "ENG"
         }
       }
     },
     {
       "id": 72,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 0,
       "goals": [
@@ -276,10 +276,10 @@
         ],
         "passesPct": [
           92,
-          91
+          92
         ],
         "fouls": [
-          3,
+          4,
           8
         ],
         "shotsBlocked": [
@@ -295,16 +295,16 @@
           0
         ],
         "passesTotal": [
-          339,
-          318
+          342,
+          333
         ],
         "shotsOutside": [
           3,
           1
         ],
         "possession": [
-          52,
-          48
+          51,
+          49
         ],
         "offsides": [
           0,
@@ -315,8 +315,8 @@
           0
         ],
         "passesAccurate": [
-          313,
-          290
+          314,
+          305
         ],
         "shotsOff": [
           2,
