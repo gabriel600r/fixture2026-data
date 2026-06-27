@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:50:12Z",
+  "updated": "2026-06-27T22:51:02Z",
   "live": [
     {
       "id": 71,
@@ -103,7 +103,7 @@
           "team": "PAN"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "yellow": [
           2,
@@ -313,7 +313,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 1,
       "goals": [
@@ -390,7 +390,13 @@
         {
           "out": "M. Baturina",
           "in": "M. Pasalic",
-          "minute": 89,
+          "minute": 88,
+          "team": "CRO"
+        },
+        {
+          "out": "N. Vlasic",
+          "in": "J. Gvardiol",
+          "minute": 88,
           "team": "CRO"
         }
       ],
