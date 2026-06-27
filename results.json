@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:23:42Z",
+  "updated": "2026-06-27T22:24:30Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 1,
       "goals": [
@@ -45,7 +45,7 @@
         {
           "out": "B. Saka",
           "in": "N. Madueke",
-          "minute": 64,
+          "minute": 63,
           "team": "ENG"
         }
       ],
@@ -258,7 +258,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 0,
       "goals": [
