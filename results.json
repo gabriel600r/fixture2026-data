@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:35:56Z",
+  "updated": "2026-06-27T04:36:44Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 1,
       "away": 1,
       "goals": [
@@ -89,7 +89,7 @@
           73
         ],
         "shotsTotal": [
-          12,
+          13,
           8
         ],
         "red": [
@@ -101,7 +101,7 @@
           1
         ],
         "shotsOutside": [
-          5,
+          6,
           2
         ],
         "shotsInside": [
@@ -113,11 +113,11 @@
           2
         ],
         "passesTotal": [
-          457,
+          458,
           249
         ],
         "passesAccurate": [
-          404,
+          405,
           183
         ],
         "shotsOff": [
@@ -133,7 +133,7 @@
           0
         ],
         "shotsBlocked": [
-          5,
+          6,
           0
         ],
         "possession": [
@@ -402,11 +402,11 @@
         ],
         "passesTotal": [
           296,
-          411
+          425
         ],
         "passesAccurate": [
           246,
-          360
+          374
         ],
         "shotsOff": [
           2,
@@ -425,11 +425,11 @@
           10
         ],
         "possession": [
-          42,
-          58
+          41,
+          59
         ],
         "fouls": [
-          7,
+          8,
           5
         ],
         "yellow": [
@@ -572,7 +572,7 @@
         "referee": "Adham Mohammad, Jordan",
         "motm": {
           "player": "Leandro Trossard",
-          "rating": 8.7,
+          "rating": 8.3,
           "team": "BEL"
         }
       }
