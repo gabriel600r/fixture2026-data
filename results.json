@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:57:05Z",
+  "updated": "2026-06-27T01:57:53Z",
   "live": [
     {
       "id": 47,
@@ -23,6 +23,12 @@
         {
           "player": "N. Al Dawsari",
           "minute": 67,
+          "team": "KSA",
+          "color": "yellow"
+        },
+        {
+          "player": "F. Al Buraikan",
+          "minute": 90,
           "team": "KSA",
           "color": "yellow"
         }
@@ -81,9 +87,15 @@
           "in": "M. Al Harbi",
           "minute": 82,
           "team": "KSA"
+        },
+        {
+          "out": "W. Pina",
+          "in": "S. Moreira",
+          "minute": 90,
+          "team": "CPV"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "passesPct": [
           85,
@@ -322,6 +334,12 @@
           "minute": 58,
           "team": "URU",
           "color": "yellow"
+        },
+        {
+          "player": "N. de la Cruz",
+          "minute": 90,
+          "team": "URU",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -380,7 +398,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           77,
