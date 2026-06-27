@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:28:33Z",
+  "updated": "2026-06-27T04:29:21Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 1,
       "goals": [
@@ -83,7 +83,7 @@
           74
         ],
         "shotsTotal": [
-          11,
+          12,
           8
         ],
         "red": [
@@ -99,7 +99,7 @@
           2
         ],
         "shotsInside": [
-          6,
+          7,
           6
         ],
         "saves": [
@@ -107,11 +107,11 @@
           2
         ],
         "passesTotal": [
-          408,
-          245
+          420,
+          246
         ],
         "passesAccurate": [
-          359,
+          370,
           181
         ],
         "shotsOff": [
@@ -123,20 +123,20 @@
           3
         ],
         "corners": [
-          5,
+          6,
           0
         ],
         "shotsBlocked": [
-          4,
+          5,
           0
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "fouls": [
           8,
-          10
+          11
         ],
         "yellow": [
           2,
@@ -286,9 +286,9 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "L. Trossard",
@@ -300,6 +300,11 @@
           "minute": 50,
           "team": "BEL",
           "assist": "H. Vanaken"
+        },
+        {
+          "player": "K. De Bruyne",
+          "minute": 67,
+          "team": "BEL"
         }
       ],
       "cardEvents": [
@@ -355,7 +360,7 @@
         ],
         "shotsTotal": [
           3,
-          23
+          24
         ],
         "red": [
           0,
@@ -371,30 +376,30 @@
         ],
         "shotsInside": [
           1,
-          17
+          18
         ],
         "saves": [
           4,
           1
         ],
         "passesTotal": [
-          277,
-          396
+          286,
+          401
         ],
         "passesAccurate": [
-          228,
-          345
+          235,
+          350
         ],
         "shotsOff": [
           2,
-          8
+          9
         ],
         "shotsOn": [
           1,
           6
         ],
         "corners": [
-          2,
+          3,
           7
         ],
         "shotsBlocked": [
@@ -402,8 +407,8 @@
           9
         ],
         "possession": [
-          41,
-          59
+          42,
+          58
         ],
         "fouls": [
           6,
