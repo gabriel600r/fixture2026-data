@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:44:44Z",
+  "updated": "2026-06-27T04:45:32Z",
   "live": [
     {
       "id": 41,
@@ -46,7 +46,7 @@
         },
         {
           "player": "S. Ezatolahi",
-          "minute": 80,
+          "minute": 79,
           "team": "IRN",
           "color": "yellow"
         }
@@ -97,7 +97,7 @@
       ],
       "stats": {
         "passesPct": [
-          88,
+          89,
           74
         ],
         "shotsTotal": [
@@ -125,12 +125,12 @@
           2
         ],
         "passesTotal": [
-          504,
-          272
+          514,
+          280
         ],
         "passesAccurate": [
-          445,
-          200
+          455,
+          207
         ],
         "shotsOff": [
           5,
@@ -154,7 +154,7 @@
         ],
         "fouls": [
           9,
-          13
+          14
         ],
         "yellow": [
           2,
@@ -304,7 +304,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 3,
       "goals": [
@@ -396,7 +396,7 @@
         ],
         "shotsTotal": [
           5,
-          29
+          30
         ],
         "red": [
           0,
@@ -412,23 +412,23 @@
         ],
         "shotsInside": [
           2,
-          20
+          21
         ],
         "saves": [
           4,
           1
         ],
         "passesTotal": [
-          340,
-          454
+          347,
+          470
         ],
         "passesAccurate": [
-          283,
-          396
+          289,
+          411
         ],
         "shotsOff": [
           3,
-          10
+          11
         ],
         "shotsOn": [
           1,
@@ -448,7 +448,7 @@
         ],
         "fouls": [
           9,
-          6
+          7
         ],
         "yellow": [
           2,
