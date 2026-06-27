@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:48:14Z",
+  "updated": "2026-06-27T01:49:02Z",
   "live": [
     {
       "id": 47,
@@ -9,19 +9,19 @@
       "away": 0,
       "cardEvents": [
         {
-          "player": "Saud Abdulhamid",
+          "player": "S. Abdulhamid",
           "minute": 4,
           "team": "KSA",
           "color": "yellow"
         },
         {
-          "player": "Wagner Pina",
+          "player": "W. Pina",
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
         },
         {
-          "player": "Nasser Al-Dawsari",
+          "player": "N. Al Dawsari",
           "minute": 67,
           "team": "KSA",
           "color": "yellow"
@@ -29,99 +29,75 @@
       ],
       "subs": [
         {
-          "out": "Hassan Al-Tambakti",
-          "in": "Ali Lajami",
+          "out": "H. Tambakti",
+          "in": "A. Lajami",
           "minute": 33,
           "team": "KSA"
         },
         {
-          "out": "Abdullah Al-Khaibari",
-          "in": "Musab Al-Juwayr",
-          "minute": 45,
+          "out": "A. Al Khaibari",
+          "in": "M. Al Juwayr",
+          "minute": 46,
           "team": "KSA"
         },
         {
-          "out": "Dailon Livramento",
-          "in": "Nuno Da Costa",
+          "out": "D. Livramento",
+          "in": "N. Da Costa",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "Willy Semedo",
-          "in": "Hélio Varela",
+          "out": "W. Semedo",
+          "in": "H. Varela",
           "minute": 61,
           "team": "CPV"
         },
         {
-          "out": "Salem Al-Dawsari",
-          "in": "Mohammed Abu Al-Shamat",
+          "out": "S. Al Dawsari",
+          "in": "M. Abu Al Shamat",
           "minute": 66,
           "team": "KSA"
         },
         {
-          "out": "Sultan Mandash",
-          "in": "Abdullah Al-Hamdan",
+          "out": "S. Mandash",
+          "in": "A. Al Hamdan",
           "minute": 66,
           "team": "KSA"
         },
         {
-          "out": "Jamiro Monteiro",
-          "in": "Laros Duarte",
+          "out": "R. Mendes",
+          "in": "G. Rodrigues",
           "minute": 71,
           "team": "CPV"
         },
         {
-          "out": "Ryan Mendes",
-          "in": "Garry Rodrigues",
+          "out": "J. Monteiro",
+          "in": "L. Duarte",
           "minute": 71,
           "team": "CPV"
         },
         {
-          "out": "Nawaf Boushal",
-          "in": "Moteb Al-Harbi",
+          "out": "N. Boushal",
+          "in": "M. Al Harbi",
           "minute": 82,
           "team": "KSA"
         }
       ],
       "stats": {
-        "passesPct": [
-          85,
-          79
-        ],
         "shotsTotal": [
-          12,
-          5
+          13,
+          6
         ],
         "red": [
           0,
           0
         ],
-        "offsides": [
-          0,
-          0
-        ],
-        "shotsOutside": [
-          4,
-          1
-        ],
-        "shotsInside": [
-          8,
-          4
-        ],
         "saves": [
           2,
           2
         ],
-        "passesTotal": [
-          394,
-          367
-        ],
-        "passesAccurate": [
-          333,
-          290
-        ],
         "shotsOff": [
-          6,
+          7,
           1
         ],
         "shotsOn": [
@@ -134,11 +110,11 @@
         ],
         "shotsBlocked": [
           4,
-          2
+          3
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "fouls": [
           10,
@@ -283,41 +259,41 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Mohammed Al-Owais",
-          "rating": 7.5,
-          "team": "KSA"
+          "player": "Diney Borges",
+          "rating": 7.27,
+          "team": "CPV"
         }
       }
     },
     {
       "id": 48,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Alejandro Baena Rodríguez",
+          "player": "A. Baena",
           "minute": 42,
           "team": "ESP",
-          "assist": "Marcos Llorente"
+          "assist": "M. Llorente"
         }
       ],
       "cardEvents": [
         {
-          "player": "Alejandro Baena Rodríguez",
+          "player": "A. Baena",
           "minute": 46,
           "team": "ESP",
           "color": "yellow"
         },
         {
-          "player": "Juan Sanabria",
+          "player": "J. Sanabria",
           "minute": 54,
           "team": "URU",
           "color": "yellow"
         },
         {
-          "player": "Guillermo Varela",
+          "player": "G. Varela",
           "minute": 58,
           "team": "URU",
           "color": "yellow"
@@ -325,65 +301,61 @@
       ],
       "subs": [
         {
-          "out": "Manuel Ugarte",
-          "in": "Nicolas De la Cruz",
+          "out": "M. Ugarte",
+          "in": "N. de la Cruz",
           "minute": 45,
           "team": "URU"
         },
         {
-          "out": "Fernando Muslera",
-          "in": "Sergio Rochet",
-          "minute": 45,
+          "out": "F. Muslera",
+          "in": "S. Rochet",
+          "minute": 46,
           "team": "URU"
         },
         {
-          "out": "Federico Valverde",
-          "in": "Federico Viñas",
+          "out": "F. Valverde",
+          "in": "F. Vinas",
           "minute": 57,
           "team": "URU"
         },
         {
           "out": "Pedri",
-          "in": "Fabián Ruiz",
+          "in": "F. Ruiz",
           "minute": 60,
           "team": "ESP"
         },
         {
-          "out": "Mikel Merino",
-          "in": "Daniel Olmo Carvajal",
+          "out": "M. Merino",
+          "in": "D. Olmo",
           "minute": 60,
           "team": "ESP"
         },
         {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Yeremy Pino",
+          "out": "A. Baena",
+          "in": "Y. Pino",
           "minute": 66,
           "team": "ESP"
         },
         {
-          "out": "Juan Sanabria",
-          "in": "Brian Rodríguez",
+          "out": "J. Sanabria",
+          "in": "B. Rodriguez",
           "minute": 70,
           "team": "URU"
         },
         {
           "out": "Lamine Yamal",
-          "in": "Nico Williams",
+          "in": "N. Williams",
           "minute": 76,
           "team": "ESP"
         },
         {
-          "out": "Mikel Oyarzabal",
-          "in": "Ferrán Torres",
+          "out": "M. Oyarzabal",
+          "in": "F. Torres",
           "minute": 76,
           "team": "ESP"
         }
       ],
       "stats": {
-        "passesPct": [
-          75,
-          89
-        ],
         "shotsTotal": [
           4,
           5
@@ -396,25 +368,9 @@
           4,
           1
         ],
-        "shotsOutside": [
-          2,
-          1
-        ],
-        "shotsInside": [
-          2,
-          4
-        ],
         "saves": [
           0,
           1
-        ],
-        "passesTotal": [
-          244,
-          568
-        ],
-        "passesAccurate": [
-          184,
-          507
         ],
         "shotsOff": [
           3,
@@ -425,7 +381,7 @@
           1
         ],
         "corners": [
-          0,
+          1,
           6
         ],
         "shotsBlocked": [
@@ -433,11 +389,11 @@
           1
         ],
         "possession": [
-          30,
-          70
+          31,
+          69
         ],
         "fouls": [
-          10,
+          11,
           14
         ],
         "yellow": [
@@ -579,8 +535,8 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Alex Baena",
-          "rating": 7.2,
+          "player": "Álex Baena",
+          "rating": 7.98,
           "team": "ESP"
         }
       }
