@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T05:00:45Z",
+  "updated": "2026-06-27T05:01:32Z",
   "live": [
     {
       "id": 41,
@@ -54,6 +54,12 @@
           "player": "M. Lasheen",
           "minute": 90,
           "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Khalilzadeh",
+          "minute": 90,
+          "team": "IRN",
           "color": "yellow"
         }
       ],
@@ -115,7 +121,7 @@
         ],
         "shotsTotal": [
           15,
-          11
+          10
         ],
         "red": [
           0,
@@ -131,7 +137,7 @@
         ],
         "shotsInside": [
           8,
-          8
+          7
         ],
         "saves": [
           3,
@@ -139,7 +145,7 @@
         ],
         "passesTotal": [
           579,
-          350
+          349
         ],
         "passesAccurate": [
           510,
@@ -151,7 +157,7 @@
         ],
         "shotsOn": [
           3,
-          5
+          4
         ],
         "corners": [
           8,
@@ -171,7 +177,7 @@
         ],
         "yellow": [
           3,
-          3
+          4
         ],
         "home": "EGY",
         "away": "IRN"
