@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:26:06Z",
+  "updated": "2026-06-27T22:26:54Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 2,
       "goals": [
@@ -13,6 +13,12 @@
           "minute": 62,
           "team": "ENG",
           "assist": "B. Saka"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 67,
+          "team": "ENG",
+          "assist": "J. Bellingham"
         }
       ],
       "cardEvents": [
@@ -250,7 +256,7 @@
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.0,
+          "rating": 8.5,
           "team": "ENG"
         }
       }
@@ -258,7 +264,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 0,
       "goals": [
