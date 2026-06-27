@@ -1,27 +1,32 @@
 {
-  "updated": "2026-06-27T03:13:55Z",
+  "updated": "2026-06-27T03:14:43Z",
   "live": [
     {
       "id": 41,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "M. Saber",
           "minute": 5,
           "team": "EGY"
+        },
+        {
+          "player": null,
+          "minute": 14,
+          "team": "IRN"
         }
       ],
       "stats": {
         "passesPct": [
-          89,
-          86
+          88,
+          87
         ],
         "shotsTotal": [
           2,
-          0
+          1
         ],
         "red": [
           0,
@@ -37,19 +42,19 @@
         ],
         "shotsInside": [
           2,
-          0
+          1
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "passesTotal": [
-          66,
-          51
+          67,
+          54
         ],
         "passesAccurate": [
           59,
-          44
+          47
         ],
         "shotsOff": [
           0,
@@ -57,7 +62,7 @@
         ],
         "shotsOn": [
           1,
-          0
+          1
         ],
         "corners": [
           0,
@@ -68,8 +73,8 @@
           0
         ],
         "possession": [
-          56,
-          44
+          55,
+          45
         ],
         "fouls": [
           2,
@@ -218,17 +223,17 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 0,
       "away": 0,
       "stats": {
         "passesPct": [
-          53,
+          56,
           87
         ],
         "shotsTotal": [
           0,
-          1
+          4
         ],
         "red": [
           0,
@@ -240,43 +245,43 @@
         ],
         "shotsOutside": [
           0,
-          1
+          2
         ],
         "shotsInside": [
           0,
-          0
+          2
         ],
         "saves": [
           0,
           0
         ],
         "passesTotal": [
-          15,
-          93
+          16,
+          111
         ],
         "passesAccurate": [
-          8,
-          81
+          9,
+          97
         ],
         "shotsOff": [
           0,
-          1
+          2
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "possession": [
-          14,
-          86
+          13,
+          87
         ],
         "fouls": [
           0,
