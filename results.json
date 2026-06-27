@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:39:24Z",
+  "updated": "2026-06-27T22:40:14Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 0,
       "away": 2,
       "goals": [
@@ -79,7 +79,7 @@
           1
         ],
         "shotsTotal": [
-          10,
+          11,
           14
         ],
         "saves": [
@@ -91,19 +91,19 @@
           0
         ],
         "passesPct": [
-          73,
-          89
+          75,
+          88
         ],
         "fouls": [
           12,
-          9
+          10
         ],
         "shotsBlocked": [
-          2,
+          3,
           2
         ],
         "shotsInside": [
-          7,
+          8,
           10
         ],
         "corners": [
@@ -111,19 +111,19 @@
           6
         ],
         "passesTotal": [
-          204,
-          445
+          219,
+          451
         ],
         "shotsOutside": [
           3,
           4
         ],
         "possession": [
-          32,
-          68
+          33,
+          67
         ],
         "offsides": [
-          1,
+          2,
           3
         ],
         "shotsOn": [
@@ -131,8 +131,8 @@
           5
         ],
         "passesAccurate": [
-          149,
-          394
+          164,
+          399
         ],
         "shotsOff": [
           6,
@@ -282,7 +282,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 1,
       "goals": [
@@ -337,6 +337,12 @@
           "in": "E. Nuamah",
           "minute": 71,
           "team": "GHA"
+        },
+        {
+          "out": "M. Kovacic",
+          "in": "M. Pasalic",
+          "minute": 78,
+          "team": "CRO"
         }
       ],
       "stats": {
