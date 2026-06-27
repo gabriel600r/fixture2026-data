@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T04:10:09Z",
+  "updated": "2026-06-27T04:10:57Z",
   "live": [
     {
       "id": 41,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 1,
       "away": 1,
       "goals": [
@@ -57,6 +57,18 @@
           "in": "S. Hardani",
           "minute": 46,
           "team": "IRN"
+        },
+        {
+          "out": "E. Ashour",
+          "in": "O. Marmoush",
+          "minute": 46,
+          "team": "EGY"
+        },
+        {
+          "out": "M. Saber",
+          "in": "M. Attia",
+          "minute": 46,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -268,7 +280,7 @@
     {
       "id": 42,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 1,
       "goals": [
