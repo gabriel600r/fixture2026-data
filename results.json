@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:48:17Z",
+  "updated": "2026-06-27T21:49:05Z",
   "live": [
     {
       "id": 71,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "yellow": [
           0,
@@ -46,8 +46,8 @@
           5
         ],
         "passesTotal": [
-          115,
-          304
+          118,
+          316
         ],
         "shotsOutside": [
           1,
@@ -59,15 +59,15 @@
         ],
         "offsides": [
           1,
-          2
+          3
         ],
         "shotsOn": [
           2,
           2
         ],
         "passesAccurate": [
-          84,
-          274
+          86,
+          284
         ],
         "shotsOff": [
           1,
@@ -223,7 +223,7 @@
           "assist": "M. Kovacic"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "yellow": [
           0,
@@ -243,11 +243,11 @@
         ],
         "passesPct": [
           94,
-          93
+          92
         ],
         "fouls": [
-          1,
-          6
+          2,
+          7
         ],
         "shotsBlocked": [
           1,
@@ -262,16 +262,16 @@
           0
         ],
         "passesTotal": [
-          260,
-          244
+          298,
+          257
         ],
         "shotsOutside": [
           3,
           0
         ],
         "possession": [
-          51,
-          49
+          54,
+          46
         ],
         "offsides": [
           0,
@@ -282,8 +282,8 @@
           0
         ],
         "passesAccurate": [
-          244,
-          226
+          280,
+          237
         ],
         "shotsOff": [
           2,
