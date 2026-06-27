@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:41:58Z",
+  "updated": "2026-06-27T00:42:46Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -233,7 +233,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 0,
       "stats": {
@@ -242,7 +242,7 @@
           90
         ],
         "shotsTotal": [
-          2,
+          3,
           2
         ],
         "red": [
@@ -254,7 +254,7 @@
           1
         ],
         "shotsOutside": [
-          1,
+          2,
           0
         ],
         "shotsInside": [
@@ -267,14 +267,14 @@
         ],
         "passesTotal": [
           99,
-          277
+          287
         ],
         "passesAccurate": [
           68,
-          248
+          257
         ],
         "shotsOff": [
-          1,
+          2,
           1
         ],
         "shotsOn": [
@@ -373,7 +373,7 @@
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-2-3-1",
             "coach": "Luis de la Fuente",
             "xi": [
               {
@@ -402,8 +402,8 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Mikel Merino",
+                "n": 20,
+                "name": "Pedri",
                 "pos": "M"
               },
               {
@@ -412,23 +412,23 @@
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Pedri",
+                "n": 19,
+                "name": "Lamine Yamal",
                 "pos": "M"
               },
               {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "F"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
+                "n": 6,
+                "name": "Mikel Merino",
+                "pos": "M"
               },
               {
                 "n": 15,
                 "name": "Alex Baena",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
                 "pos": "F"
               }
             ]
