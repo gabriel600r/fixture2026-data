@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-27T00:04:57Z",
+  "updated": "2026-06-27T00:05:45Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 3,
+      "minute": 4,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "S. Abdulhamid",
+          "minute": 4,
+          "team": "KSA",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesPct": [
           100,
@@ -211,7 +219,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 3,
+      "minute": 4,
       "home": 0,
       "away": 0,
       "stats": {
