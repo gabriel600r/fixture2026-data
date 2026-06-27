@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:58:19Z",
+  "updated": "2026-06-27T04:59:07Z",
   "live": [
     {
       "id": 41,
@@ -112,7 +112,7 @@
           "team": "IRN"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesPct": [
           88,
@@ -120,7 +120,7 @@
         ],
         "shotsTotal": [
           15,
-          9
+          11
         ],
         "red": [
           0,
@@ -136,18 +136,18 @@
         ],
         "shotsInside": [
           8,
-          6
+          8
         ],
         "saves": [
-          2,
+          3,
           2
         ],
         "passesTotal": [
-          561,
+          579,
           350
         ],
         "passesAccurate": [
-          493,
+          510,
           268
         ],
         "shotsOff": [
@@ -156,7 +156,7 @@
         ],
         "shotsOn": [
           3,
-          3
+          5
         ],
         "corners": [
           8,
@@ -171,11 +171,11 @@
           38
         ],
         "fouls": [
-          10,
+          11,
           16
         ],
         "yellow": [
-          2,
+          3,
           3
         ],
         "home": "EGY",
