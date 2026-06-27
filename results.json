@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T21:36:06Z",
+  "updated": "2026-06-27T21:36:54Z",
   "live": [
     {
       "id": 71,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,10 +14,10 @@
         ],
         "shotsTotal": [
           3,
-          5
+          6
         ],
         "saves": [
-          1,
+          2,
           2
         ],
         "red": [
@@ -25,8 +25,8 @@
           0
         ],
         "passesPct": [
-          74,
-          90
+          75,
+          91
         ],
         "fouls": [
           7,
@@ -45,28 +45,28 @@
           4
         ],
         "passesTotal": [
-          72,
-          181
+          96,
+          238
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "possession": [
           30,
           70
         ],
         "offsides": [
-          0,
+          1,
           0
         ],
         "shotsOn": [
           2,
-          1
+          2
         ],
         "passesAccurate": [
-          53,
-          163
+          72,
+          217
         ],
         "shotsOff": [
           1,
@@ -211,7 +211,7 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 1,
       "away": 0,
       "goals": [
@@ -241,11 +241,11 @@
         ],
         "passesPct": [
           94,
-          92
+          93
         ],
         "fouls": [
           1,
-          5
+          6
         ],
         "shotsBlocked": [
           0,
@@ -260,16 +260,16 @@
           0
         ],
         "passesTotal": [
-          177,
-          196
+          182,
+          217
         ],
         "shotsOutside": [
           2,
           0
         ],
         "possession": [
-          48,
-          52
+          46,
+          54
         ],
         "offsides": [
           0,
@@ -280,8 +280,8 @@
           0
         ],
         "passesAccurate": [
-          167,
-          180
+          171,
+          201
         ],
         "shotsOff": [
           2,
