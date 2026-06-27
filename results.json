@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:32:54Z",
+  "updated": "2026-06-27T01:33:42Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -72,7 +72,7 @@
         ],
         "shotsTotal": [
           8,
-          4
+          5
         ],
         "red": [
           0,
@@ -88,19 +88,19 @@
         ],
         "shotsInside": [
           5,
-          3
+          4
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "passesTotal": [
-          353,
-          302
+          369,
+          313
         ],
         "passesAccurate": [
-          300,
-          240
+          314,
+          248
         ],
         "shotsOff": [
           5,
@@ -108,7 +108,7 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "corners": [
           3,
@@ -124,11 +124,11 @@
         ],
         "fouls": [
           8,
-          10
+          12
         ],
         "yellow": [
           1,
-          1
+          2
         ],
         "home": "CPV",
         "away": "KSA"
@@ -345,8 +345,8 @@
       ],
       "stats": {
         "passesPct": [
-          74,
-          89
+          75,
+          90
         ],
         "shotsTotal": [
           4,
@@ -373,12 +373,12 @@
           1
         ],
         "passesTotal": [
-          192,
-          484
+          199,
+          488
         ],
         "passesAccurate": [
-          142,
-          433
+          149,
+          437
         ],
         "shotsOff": [
           3,
@@ -401,7 +401,7 @@
           71
         ],
         "fouls": [
-          6,
+          7,
           10
         ],
         "yellow": [
