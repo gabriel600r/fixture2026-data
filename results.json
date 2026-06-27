@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T22:25:18Z",
+  "updated": "2026-06-27T22:26:06Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "J. Bellingham",
@@ -55,7 +55,7 @@
           1
         ],
         "shotsTotal": [
-          4,
+          5,
           12
         ],
         "saves": [
@@ -67,19 +67,19 @@
           0
         ],
         "passesPct": [
-          70,
+          71,
           89
         ],
         "fouls": [
           12,
-          5
+          6
         ],
         "shotsBlocked": [
           0,
           1
         ],
         "shotsInside": [
-          2,
+          3,
           8
         ],
         "corners": [
@@ -87,16 +87,16 @@
           6
         ],
         "passesTotal": [
-          154,
-          409
+          164,
+          415
         ],
         "shotsOutside": [
           2,
           4
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "offsides": [
           1,
@@ -107,11 +107,11 @@
           4
         ],
         "passesAccurate": [
-          108,
-          363
+          117,
+          368
         ],
         "shotsOff": [
-          2,
+          3,
           7
         ],
         "home": "PAN",
@@ -258,7 +258,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 0,
       "goals": [
@@ -321,7 +321,7 @@
           1
         ],
         "passesTotal": [
-          360,
+          376,
           362
         ],
         "shotsOutside": [
@@ -329,8 +329,8 @@
           2
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "offsides": [
           0,
@@ -341,7 +341,7 @@
           0
         ],
         "passesAccurate": [
-          330,
+          346,
           331
         ],
         "shotsOff": [
