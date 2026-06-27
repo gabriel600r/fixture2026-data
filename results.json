@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:19:59Z",
+  "updated": "2026-06-27T01:20:47Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -235,8 +235,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Abdulelah Al-Amri",
-          "rating": 7.2,
+          "player": "Ali Lajami",
+          "rating": 7.3,
           "team": "KSA"
         }
       }
