@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:41:05Z",
+  "updated": "2026-06-27T22:41:54Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 2,
       "goals": [
@@ -91,8 +91,8 @@
           0
         ],
         "passesPct": [
-          75,
-          88
+          74,
+          89
         ],
         "fouls": [
           12,
@@ -111,28 +111,28 @@
           6
         ],
         "passesTotal": [
-          219,
-          451
+          231,
+          465
         ],
         "shotsOutside": [
           3,
           4
         ],
         "possession": [
-          33,
-          67
+          34,
+          66
         ],
         "offsides": [
           2,
-          3
+          4
         ],
         "shotsOn": [
           2,
           5
         ],
         "passesAccurate": [
-          164,
-          399
+          172,
+          413
         ],
         "shotsOff": [
           6,
@@ -282,7 +282,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 1,
       "goals": [
@@ -352,7 +352,7 @@
         ],
         "shotsTotal": [
           5,
-          3
+          4
         ],
         "saves": [
           0,
@@ -364,7 +364,7 @@
         ],
         "passesPct": [
           92,
-          91
+          90
         ],
         "fouls": [
           6,
@@ -376,35 +376,35 @@
         ],
         "shotsInside": [
           2,
-          1
+          2
         ],
         "corners": [
           0,
           2
         ],
         "passesTotal": [
-          436,
-          393
+          452,
+          397
         ],
         "shotsOutside": [
           3,
           2
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "offsides": [
           0,
-          2
+          1
         ],
         "shotsOn": [
           2,
           1
         ],
         "passesAccurate": [
-          403,
-          358
+          416,
+          359
         ],
         "shotsOff": [
           2,
