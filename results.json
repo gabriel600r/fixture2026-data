@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:43:25Z",
+  "updated": "2026-06-27T21:44:12Z",
   "live": [
     {
       "id": 71,
@@ -25,11 +25,11 @@
           0
         ],
         "passesPct": [
-          75,
+          73,
           91
         ],
         "fouls": [
-          7,
+          8,
           3
         ],
         "shotsBlocked": [
@@ -45,8 +45,8 @@
           4
         ],
         "passesTotal": [
-          106,
-          278
+          112,
+          292
         ],
         "shotsOutside": [
           1,
@@ -58,15 +58,15 @@
         ],
         "offsides": [
           1,
-          1
+          2
         ],
         "shotsOn": [
           2,
           2
         ],
         "passesAccurate": [
-          80,
-          254
+          82,
+          265
         ],
         "shotsOff": [
           1,
@@ -211,7 +211,7 @@
     {
       "id": 72,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 1,
       "away": 0,
       "goals": [
@@ -229,7 +229,7 @@
         ],
         "shotsTotal": [
           5,
-          0
+          1
         ],
         "saves": [
           0,
@@ -253,23 +253,23 @@
         ],
         "shotsInside": [
           2,
-          0
+          1
         ],
         "corners": [
           0,
           0
         ],
         "passesTotal": [
-          234,
-          221
+          253,
+          229
         ],
         "shotsOutside": [
           3,
           0
         ],
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "offsides": [
           0,
@@ -280,12 +280,12 @@
           0
         ],
         "passesAccurate": [
-          220,
-          204
+          239,
+          211
         ],
         "shotsOff": [
           2,
-          0
+          1
         ],
         "home": "CRO",
         "away": "GHA"
