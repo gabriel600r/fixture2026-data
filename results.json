@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T01:31:16Z",
+  "updated": "2026-06-27T01:32:06Z",
   "live": [
     {
       "id": 47,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -18,6 +18,12 @@
           "player": "Wagner Pina",
           "minute": 9,
           "team": "CPV",
+          "color": "yellow"
+        },
+        {
+          "player": "Nasser Al-Dawsari",
+          "minute": 67,
+          "team": "KSA",
           "color": "yellow"
         }
       ],
@@ -62,14 +68,14 @@
       "stats": {
         "shotsTotal": [
           8,
-          4
+          5
         ],
         "red": [
           0,
           0
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "shotsOff": [
@@ -78,7 +84,7 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "corners": [
           3,
@@ -94,11 +100,11 @@
         ],
         "fouls": [
           8,
-          11
+          12
         ],
         "yellow": [
           1,
-          1
+          2
         ],
         "home": "CPV",
         "away": "KSA"
@@ -244,32 +250,32 @@
     {
       "id": 48,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Alejandro Baena Rodríguez",
+          "player": "A. Baena",
           "minute": 42,
           "team": "ESP",
-          "assist": "Marcos Llorente"
+          "assist": "M. Llorente"
         }
       ],
       "cardEvents": [
         {
-          "player": "Alejandro Baena Rodríguez",
+          "player": "A. Baena",
           "minute": 46,
           "team": "ESP",
           "color": "yellow"
         },
         {
-          "player": "Juan Sanabria",
+          "player": "J. Sanabria",
           "minute": 54,
           "team": "URU",
           "color": "yellow"
         },
         {
-          "player": "Guillermo Varela",
+          "player": "G. Varela",
           "minute": 58,
           "team": "URU",
           "color": "yellow"
@@ -277,33 +283,39 @@
       ],
       "subs": [
         {
-          "out": "Manuel Ugarte",
-          "in": "Nicolas De la Cruz",
+          "out": "M. Ugarte",
+          "in": "N. de la Cruz",
           "minute": 45,
           "team": "URU"
         },
         {
-          "out": "Fernando Muslera",
-          "in": "Sergio Rochet",
-          "minute": 45,
+          "out": "F. Muslera",
+          "in": "S. Rochet",
+          "minute": 46,
           "team": "URU"
         },
         {
-          "out": "Federico Valverde",
-          "in": "Federico Viñas",
+          "out": "F. Valverde",
+          "in": "F. Vinas",
           "minute": 57,
           "team": "URU"
         },
         {
           "out": "Pedri",
-          "in": "Fabián Ruiz",
+          "in": "F. Ruiz",
           "minute": 60,
           "team": "ESP"
         },
         {
-          "out": "Mikel Merino",
-          "in": "Daniel Olmo Carvajal",
+          "out": "M. Merino",
+          "in": "D. Olmo",
           "minute": 60,
+          "team": "ESP"
+        },
+        {
+          "out": "A. Baena",
+          "in": "Y. Pino",
+          "minute": 66,
           "team": "ESP"
         }
       ],
