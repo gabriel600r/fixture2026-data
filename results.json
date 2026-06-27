@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T00:34:45Z",
+  "updated": "2026-06-27T00:35:33Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -19,6 +19,14 @@
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "H. Tambakti",
+          "in": "A. Lajami",
+          "minute": 33,
+          "team": "KSA"
         }
       ],
       "stats": {
