@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-27T00:40:22Z",
+  "updated": "2026-06-27T00:41:10Z",
   "live": [
     {
       "id": 47,
       "status": "1H",
-      "minute": 36,
+      "minute": 39,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "S. Abdulhamid",
+          "player": "Saud Abdulhamid",
           "minute": 4,
           "team": "KSA",
           "color": "yellow"
         },
         {
-          "player": "W. Pina",
+          "player": "Wagner Pina",
           "minute": 9,
           "team": "CPV",
           "color": "yellow"
@@ -23,8 +23,8 @@
       ],
       "subs": [
         {
-          "out": "H. Tambakti",
-          "in": "A. Lajami",
+          "out": "Hassan Al-Tambakti",
+          "in": "Ali Lajami",
           "minute": 33,
           "team": "KSA"
         }
@@ -205,7 +205,7 @@
     {
       "id": 48,
       "status": "1H",
-      "minute": 37,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "stats": {
