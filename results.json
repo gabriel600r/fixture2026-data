@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:28:18Z",
+  "updated": "2026-06-27T03:29:05Z",
   "live": [
     {
       "id": 41,
@@ -245,9 +245,16 @@
     {
       "id": 42,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 28,
+          "team": "BEL"
+        }
+      ],
       "stats": {
         "passesPct": [
           75,
