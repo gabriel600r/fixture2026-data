@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:25:36Z",
+  "updated": "2026-06-27T01:26:24Z",
   "live": [
     {
       "id": 47,
@@ -50,7 +50,7 @@
       "stats": {
         "passesPct": [
           84,
-          80
+          79
         ],
         "shotsTotal": [
           8,
@@ -77,12 +77,12 @@
           1
         ],
         "passesTotal": [
-          296,
-          272
+          320,
+          288
         ],
         "passesAccurate": [
-          250,
-          217
+          270,
+          228
         ],
         "shotsOff": [
           5,
@@ -248,7 +248,7 @@
         "referee": "François Letexier, France",
         "motm": {
           "player": "Abdulelah Al-Amri",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "KSA"
         }
       }
@@ -322,7 +322,7 @@
       "stats": {
         "passesPct": [
           75,
-          90
+          89
         ],
         "shotsTotal": [
           3,
@@ -349,12 +349,12 @@
           1
         ],
         "passesTotal": [
-          172,
-          440
+          181,
+          454
         ],
         "passesAccurate": [
-          129,
-          394
+          135,
+          405
         ],
         "shotsOff": [
           2,
@@ -373,8 +373,8 @@
           1
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "fouls": [
           6,
