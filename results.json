@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-27T22:21:15Z",
+  "updated": "2026-06-27T22:22:06Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "J. Bellingham",
           "minute": 62,
-          "team": "ENG"
+          "team": "ENG",
+          "assist": "B. Saka"
         }
       ],
       "cardEvents": [
@@ -23,7 +24,7 @@
         },
         {
           "player": "J. Quansah",
-          "minute": 61,
+          "minute": 60,
           "team": "ENG",
           "color": "yellow"
         }
@@ -245,7 +246,7 @@
     {
       "id": 72,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 0,
       "goals": [
