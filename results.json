@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T22:22:06Z",
+  "updated": "2026-06-27T22:22:54Z",
   "live": [
     {
       "id": 71,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 1,
       "goals": [
@@ -35,16 +35,28 @@
           "in": "J. Fajardo",
           "minute": 46,
           "team": "PAN"
+        },
+        {
+          "out": "J. Quansah",
+          "in": "D. Spence",
+          "minute": 63,
+          "team": "ENG"
+        },
+        {
+          "out": "B. Saka",
+          "in": "N. Madueke",
+          "minute": 64,
+          "team": "ENG"
         }
       ],
       "stats": {
         "yellow": [
           1,
-          0
+          1
         ],
         "shotsTotal": [
           4,
-          11
+          12
         ],
         "saves": [
           3,
@@ -68,11 +80,11 @@
         ],
         "shotsInside": [
           2,
-          7
+          8
         ],
         "corners": [
           1,
-          5
+          6
         ],
         "passesTotal": [
           154,
@@ -92,7 +104,7 @@
         ],
         "shotsOn": [
           2,
-          3
+          4
         ],
         "passesAccurate": [
           108,
@@ -237,16 +249,16 @@
         },
         "referee": "Abdulrahman Al-Jassim, Qatar",
         "motm": {
-          "player": "Orlando Mosquera",
-          "rating": 7.3,
-          "team": "PAN"
+          "player": "Jude Bellingham",
+          "rating": 8.0,
+          "team": "ENG"
         }
       }
     },
     {
       "id": 72,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 0,
       "goals": [
@@ -289,12 +301,12 @@
           0
         ],
         "passesPct": [
-          91,
+          92,
           91
         ],
         "fouls": [
           4,
-          8
+          9
         ],
         "shotsBlocked": [
           1,
@@ -309,16 +321,16 @@
           1
         ],
         "passesTotal": [
-          347,
-          353
+          360,
+          362
         ],
         "shotsOutside": [
           3,
           2
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "offsides": [
           0,
@@ -329,8 +341,8 @@
           0
         ],
         "passesAccurate": [
-          317,
-          321
+          330,
+          331
         ],
         "shotsOff": [
           2,
