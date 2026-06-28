@@ -1,13 +1,26 @@
 {
-  "updated": "2026-06-28T00:37:16Z",
+  "updated": "2026-06-28T00:38:06Z",
   "live": [
     {
       "id": 65,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
-      "extra": 4,
+      "subs": [
+        {
+          "out": "R. Neves",
+          "in": "J. Neves",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "J. Cancelo",
+          "in": "D. Dalot",
+          "minute": 46,
+          "team": "POR"
+        }
+      ],
       "stats": {
         "yellow": [
           0,
@@ -206,7 +219,12 @@
             ]
           }
         },
-        "referee": "Alireza Faghani, Australia"
+        "referee": "Alireza Faghani, Australia",
+        "motm": {
+          "player": "Camilo Vargas",
+          "rating": 7.3,
+          "team": "COL"
+        }
       }
     },
     {
