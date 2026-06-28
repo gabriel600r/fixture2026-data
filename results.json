@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:07:41Z",
+  "updated": "2026-06-28T03:08:29Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 1,
       "away": 1,
       "goals": [
@@ -28,6 +28,26 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "M. Arnautovic",
+          "in": "M. Gregoritsch",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "R. Schmid",
+          "in": "P. Wanner",
+          "minute": 46,
+          "team": "AUT"
+        }
+      ],
       "stats": {
         "yellow": [
           0,
@@ -35,7 +55,7 @@
         ],
         "shotsTotal": [
           7,
-          4
+          5
         ],
         "saves": [
           0,
@@ -46,36 +66,36 @@
           0
         ],
         "passesPct": [
-          89,
+          90,
           84
         ],
         "fouls": [
           1,
-          3
+          4
         ],
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           4,
-          2
+          3
         ],
         "corners": [
           0,
-          1
+          2
         ],
         "passesTotal": [
-          266,
-          209
+          296,
+          216
         ],
         "shotsOutside": [
           3,
           2
         ],
         "possession": [
-          56,
-          44
+          57,
+          43
         ],
         "offsides": [
           0,
@@ -86,8 +106,8 @@
           1
         ],
         "passesAccurate": [
-          237,
-          176
+          267,
+          182
         ],
         "shotsOff": [
           4,
@@ -228,16 +248,16 @@
         },
         "referee": "Ilgiz Tantashev, Uzbekistan",
         "motm": {
-          "player": "Rafik Belghali",
-          "rating": 7.9,
-          "team": "ALG"
+          "player": "Marko Arnautović",
+          "rating": 7.7,
+          "team": "AUT"
         }
       }
     },
     {
       "id": 60,
       "status": "2H",
-      "minute": 46,
+      "minute": 47,
       "home": 0,
       "away": 2,
       "goals": [
@@ -267,6 +287,12 @@
           "in": "M. Al Mardi",
           "minute": 46,
           "team": "JOR"
+        },
+        {
+          "out": "A. Azaizeh",
+          "in": "M. Tamari",
+          "minute": 46,
+          "team": "JOR"
         }
       ],
       "stats": {
@@ -276,10 +302,10 @@
         ],
         "shotsTotal": [
           3,
-          4
+          5
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "red": [
@@ -287,11 +313,11 @@
           0
         ],
         "passesPct": [
-          77,
-          91
+          79,
+          90
         ],
         "fouls": [
-          4,
+          5,
           5
         ],
         "shotsBlocked": [
@@ -300,35 +326,35 @@
         ],
         "shotsInside": [
           1,
-          3
+          4
         ],
         "corners": [
           1,
           2
         ],
         "passesTotal": [
-          129,
-          384
+          151,
+          390
         ],
         "shotsOutside": [
           2,
           1
         ],
         "possession": [
-          26,
-          74
+          28,
+          72
         ],
         "offsides": [
-          0,
-          1
+          1,
+          2
         ],
         "shotsOn": [
           0,
-          2
+          3
         ],
         "passesAccurate": [
-          99,
-          349
+          119,
+          352
         ],
         "shotsOff": [
           1,
@@ -470,7 +496,7 @@
         "referee": "Istvan Kovacs, Romania",
         "motm": {
           "player": "Giovani Lo Celso",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "ARG"
         }
       }
