@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:21:06Z",
+  "updated": "2026-06-28T01:21:56Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -73,7 +73,7 @@
       ],
       "stats": {
         "yellow": [
-          0,
+          1,
           0
         ],
         "shotsTotal": [
@@ -109,16 +109,16 @@
           2
         ],
         "passesTotal": [
-          482,
-          383
+          520,
+          403
         ],
         "shotsOutside": [
           9,
           8
         ],
         "possession": [
-          55,
-          45
+          56,
+          44
         ],
         "offsides": [
           2,
@@ -129,8 +129,8 @@
           2
         ],
         "passesAccurate": [
-          430,
-          352
+          464,
+          369
         ],
         "shotsOff": [
           9,
@@ -280,7 +280,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 2,
       "away": 1,
       "goals": [
@@ -414,7 +414,7 @@
           0
         ],
         "passesPct": [
-          82,
+          83,
           75
         ],
         "fouls": [
@@ -422,7 +422,7 @@
           14
         ],
         "shotsBlocked": [
-          2,
+          1,
           0
         ],
         "shotsInside": [
@@ -434,16 +434,16 @@
           3
         ],
         "passesTotal": [
-          439,
-          259
+          453,
+          281
         ],
         "shotsOutside": [
           5,
           1
         ],
         "possession": [
-          63,
-          37
+          62,
+          38
         ],
         "offsides": [
           3,
@@ -454,11 +454,11 @@
           1
         ],
         "passesAccurate": [
-          362,
-          194
+          376,
+          211
         ],
         "shotsOff": [
-          9,
+          10,
           2
         ],
         "home": "COD",
