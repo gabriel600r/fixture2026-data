@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:23:21Z",
+  "updated": "2026-06-28T02:24:09Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -219,7 +219,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 1,
       "goals": [
@@ -383,8 +383,8 @@
                 "pos": "G"
               },
               {
-                "n": 17,
-                "name": "Giuliano Simeone",
+                "n": 14,
+                "name": "Exequiel Palacios",
                 "pos": "D"
               },
               {
@@ -403,6 +403,11 @@
                 "pos": "D"
               },
               {
+                "n": 17,
+                "name": "Giuliano Simeone",
+                "pos": "M"
+              },
+              {
                 "n": 18,
                 "name": "Nico Paz",
                 "pos": "M"
@@ -413,23 +418,18 @@
                 "pos": "M"
               },
               {
-                "n": 14,
-                "name": "Exequiel Palacios",
-                "pos": "M"
-              },
-              {
                 "n": 11,
                 "name": "Giovani Lo Celso",
                 "pos": "M"
               },
               {
-                "n": 9,
-                "name": "Julián Alvarez",
+                "n": 22,
+                "name": "Lautaro Martínez",
                 "pos": "F"
               },
               {
-                "n": 22,
-                "name": "Lautaro Martínez",
+                "n": 9,
+                "name": "Julián Alvarez",
                 "pos": "F"
               }
             ]
