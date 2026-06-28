@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:47:46Z",
+  "updated": "2026-06-28T00:48:34Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 56,
+      "minute": 57,
       "home": 0,
       "away": 0,
       "subs": [
@@ -32,7 +32,7 @@
         ],
         "saves": [
           2,
-          3
+          4
         ],
         "red": [
           0,
@@ -59,16 +59,16 @@
           0
         ],
         "passesTotal": [
-          324,
-          255
+          359,
+          260
         ],
         "shotsOutside": [
           5,
           6
         ],
         "possession": [
-          55,
-          45
+          57,
+          43
         ],
         "offsides": [
           2,
@@ -79,8 +79,8 @@
           2
         ],
         "passesAccurate": [
-          289,
-          238
+          320,
+          242
         ],
         "shotsOff": [
           5,
@@ -222,7 +222,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Camilo Vargas",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "COL"
         }
       }
@@ -230,7 +230,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 1,
       "goals": [
@@ -281,7 +281,7 @@
           2
         ],
         "shotsTotal": [
-          6,
+          7,
           3
         ],
         "saves": [
@@ -293,8 +293,8 @@
           0
         ],
         "passesPct": [
-          83,
-          74
+          84,
+          73
         ],
         "fouls": [
           5,
@@ -305,7 +305,7 @@
           0
         ],
         "shotsInside": [
-          3,
+          4,
           2
         ],
         "corners": [
@@ -313,16 +313,16 @@
           3
         ],
         "passesTotal": [
-          294,
-          148
+          315,
+          153
         ],
         "shotsOutside": [
           3,
           1
         ],
         "possession": [
-          65,
-          35
+          67,
+          33
         ],
         "offsides": [
           2,
@@ -333,11 +333,11 @@
           1
         ],
         "passesAccurate": [
-          244,
-          109
+          264,
+          111
         ],
         "shotsOff": [
-          5,
+          6,
           2
         ],
         "home": "COD",
