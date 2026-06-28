@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:03:23Z",
+  "updated": "2026-06-28T01:04:12Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "subs": [
@@ -35,13 +35,13 @@
         {
           "out": "Joao Felix",
           "in": "R. Leao",
-          "minute": 71,
+          "minute": 70,
           "team": "POR"
         },
         {
           "out": "Vitinha",
           "in": "Samu Costa",
-          "minute": 71,
+          "minute": 70,
           "team": "POR"
         }
       ],
@@ -254,7 +254,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 1,
       "goals": [
