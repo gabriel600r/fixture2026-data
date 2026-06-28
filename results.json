@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:33:33Z",
+  "updated": "2026-06-28T03:34:21Z",
   "live": [
     {
       "id": 59,
@@ -68,7 +68,19 @@
         {
           "out": "J. Hadjam",
           "in": "R. Ait-Nouri",
-          "minute": 72,
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "A. Gouiri",
+          "in": "Z. Belaid",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "R. Belghali",
+          "in": "S. Chergui",
+          "minute": 71,
           "team": "ALG"
         }
       ],
