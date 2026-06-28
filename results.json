@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:56:06Z",
+  "updated": "2026-06-28T03:56:54Z",
   "live": [
     {
       "id": 59,
@@ -90,14 +90,14 @@
           "team": "ALG"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           0,
           1
         ],
         "shotsTotal": [
-          11,
+          12,
           8
         ],
         "saves": [
@@ -109,7 +109,7 @@
           0
         ],
         "passesPct": [
-          92,
+          94,
           88
         ],
         "fouls": [
@@ -121,7 +121,7 @@
           1
         ],
         "shotsInside": [
-          5,
+          6,
           4
         ],
         "corners": [
@@ -129,7 +129,7 @@
           3
         ],
         "passesTotal": [
-          596,
+          751,
           388
         ],
         "shotsOutside": [
@@ -137,19 +137,19 @@
           4
         ],
         "possession": [
-          60,
-          40
+          66,
+          34
         ],
         "offsides": [
           1,
           3
         ],
         "shotsOn": [
-          4,
+          5,
           2
         ],
         "passesAccurate": [
-          551,
+          705,
           340
         ],
         "shotsOff": [
@@ -292,7 +292,7 @@
         "referee": "Ilgiz Tantashev, Uzbekistan",
         "motm": {
           "player": "Riyad Mahrez",
-          "rating": 8.0,
+          "rating": 8.3,
           "team": "ALG"
         }
       }
@@ -337,6 +337,12 @@
         {
           "player": "Y. Al Arab",
           "minute": 64,
+          "team": "JOR",
+          "color": "yellow"
+        },
+        {
+          "player": "Shararh",
+          "minute": 90,
           "team": "JOR",
           "color": "yellow"
         }
@@ -403,7 +409,7 @@
           "team": "JOR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           2,
@@ -442,16 +448,16 @@
           6
         ],
         "passesTotal": [
-          266,
-          772
+          277,
+          780
         ],
         "shotsOutside": [
           3,
           6
         ],
         "possession": [
-          26,
-          74
+          27,
+          73
         ],
         "offsides": [
           1,
@@ -462,8 +468,8 @@
           4
         ],
         "passesAccurate": [
-          213,
-          711
+          221,
+          718
         ],
         "shotsOff": [
           2,
@@ -604,8 +610,8 @@
         },
         "referee": "Istvan Kovacs, Romania",
         "motm": {
-          "player": "Giovani Lo Celso",
-          "rating": 7.9,
+          "player": "Lionel Messi",
+          "rating": 8.5,
           "team": "ARG"
         }
       }
