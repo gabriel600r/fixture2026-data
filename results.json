@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T20:34:34Z",
+  "updated": "2026-06-28T20:35:21Z",
   "live": [
     {
       "id": 73,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -51,6 +51,12 @@
           "in": "J. Shaffelburg",
           "minute": 70,
           "team": "CAN"
+        },
+        {
+          "out": "T. Buchanan",
+          "in": "A. Davies",
+          "minute": 75,
+          "team": "CAN"
         }
       ],
       "stats": {
@@ -63,8 +69,8 @@
           0
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "saves": [
           4,
@@ -79,11 +85,11 @@
           5
         ],
         "passesTotal": [
-          386,
-          255
+          406,
+          260
         ],
         "passesPct": [
-          85,
+          84,
           77
         ],
         "shotsOutside": [
@@ -99,8 +105,8 @@
           4
         ],
         "passesAccurate": [
-          328,
-          196
+          341,
+          200
         ],
         "yellow": [
           0,
@@ -112,7 +118,7 @@
         ],
         "fouls": [
           7,
-          11
+          12
         ],
         "shotsInside": [
           1,
