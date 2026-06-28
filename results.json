@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:05:55Z",
+  "updated": "2026-06-28T01:06:44Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 0,
       "subs": [
@@ -63,7 +63,7 @@
           0
         ],
         "passesPct": [
-          89,
+          90,
           92
         ],
         "fouls": [
@@ -83,16 +83,16 @@
           0
         ],
         "passesTotal": [
-          420,
-          338
+          456,
+          339
         ],
         "shotsOutside": [
           8,
           7
         ],
         "possession": [
-          55,
-          45
+          57,
+          43
         ],
         "offsides": [
           2,
@@ -103,8 +103,8 @@
           2
         ],
         "passesAccurate": [
-          375,
-          312
+          409,
+          313
         ],
         "shotsOff": [
           8,
@@ -320,6 +320,30 @@
           "out": "D. Khamdamov",
           "in": "A. Ganiev",
           "minute": 59,
+          "team": "UZB"
+        },
+        {
+          "out": "B. Cipenga",
+          "in": "T. Bongonda",
+          "minute": 73,
+          "team": "COD"
+        },
+        {
+          "out": "S. Moutoussamy",
+          "in": "N. Mukau",
+          "minute": 73,
+          "team": "COD"
+        },
+        {
+          "out": "N. Mbuku",
+          "in": "M. Elia",
+          "minute": 73,
+          "team": "COD"
+        },
+        {
+          "out": "A. Fayzullaev",
+          "in": "O. Urunov",
+          "minute": 73,
           "team": "UZB"
         }
       ],
