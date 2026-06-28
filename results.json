@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:28:40Z",
+  "updated": "2026-06-28T03:29:28Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 2,
       "away": 2,
       "goals": [
@@ -73,7 +73,7 @@
         ],
         "shotsTotal": [
           11,
-          6
+          7
         ],
         "saves": [
           0,
@@ -84,11 +84,11 @@
           0
         ],
         "passesPct": [
-          91,
-          86
+          90,
+          87
         ],
         "fouls": [
-          1,
+          2,
           6
         ],
         "shotsBlocked": [
@@ -104,16 +104,16 @@
           2
         ],
         "passesTotal": [
-          447,
-          297
+          452,
+          321
         ],
         "shotsOutside": [
           6,
-          3
+          4
         ],
         "possession": [
-          60,
-          40
+          58,
+          42
         ],
         "offsides": [
           0,
@@ -124,12 +124,12 @@
           2
         ],
         "passesAccurate": [
-          407,
-          255
+          409,
+          279
         ],
         "shotsOff": [
           5,
-          3
+          4
         ],
         "home": "ALG",
         "away": "AUT"
@@ -275,7 +275,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 2,
       "goals": [
@@ -345,12 +345,12 @@
       ],
       "stats": {
         "yellow": [
-          1,
+          2,
           0
         ],
         "shotsTotal": [
           5,
-          7
+          8
         ],
         "saves": [
           1,
@@ -365,7 +365,7 @@
           91
         ],
         "fouls": [
-          6,
+          7,
           6
         ],
         "shotsBlocked": [
@@ -381,16 +381,16 @@
           3
         ],
         "passesTotal": [
-          208,
-          570
+          215,
+          575
         ],
         "shotsOutside": [
           3,
-          3
+          4
         ],
         "possession": [
-          27,
-          73
+          28,
+          72
         ],
         "offsides": [
           1,
@@ -401,12 +401,12 @@
           3
         ],
         "passesAccurate": [
-          166,
-          519
+          171,
+          523
         ],
         "shotsOff": [
           2,
-          4
+          5
         ],
         "home": "JOR",
         "away": "ARG"
