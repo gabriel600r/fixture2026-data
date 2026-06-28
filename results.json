@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T20:43:18Z",
+  "updated": "2026-06-28T20:44:05Z",
   "live": [
     {
       "id": 73,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -69,8 +69,8 @@
           0
         ],
         "possession": [
-          58,
-          42
+          57,
+          43
         ],
         "saves": [
           5,
@@ -85,8 +85,8 @@
           6
         ],
         "passesTotal": [
-          442,
-          306
+          446,
+          326
         ],
         "passesPct": [
           85,
@@ -105,8 +105,8 @@
           4
         ],
         "passesAccurate": [
-          376,
-          242
+          378,
+          259
         ],
         "yellow": [
           0,
@@ -118,7 +118,7 @@
         ],
         "fouls": [
           8,
-          13
+          14
         ],
         "shotsInside": [
           1,
@@ -260,7 +260,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Ronwen Williams",
-          "rating": 8.5,
+          "rating": 8.2,
           "team": "RSA"
         }
       }
