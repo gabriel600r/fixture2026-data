@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:00:54Z",
+  "updated": "2026-06-28T01:01:44Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 0,
       "subs": [
@@ -242,7 +242,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 1,
       "goals": [
@@ -251,6 +251,12 @@
           "minute": 10,
           "team": "UZB",
           "assist": "A. Mozgovoy"
+        },
+        {
+          "player": "Y. Wissa",
+          "minute": 68,
+          "team": "COD",
+          "pen": true
         }
       ],
       "cardEvents": [
