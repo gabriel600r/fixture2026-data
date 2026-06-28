@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:22:45Z",
+  "updated": "2026-06-28T01:23:34Z",
   "live": [
     {
       "id": 65,
@@ -71,13 +71,14 @@
           "team": "COL"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           1,
           0
         ],
         "shotsTotal": [
-          21,
+          22,
           12
         ],
         "saves": [
@@ -90,7 +91,7 @@
         ],
         "passesPct": [
           89,
-          92
+          91
         ],
         "fouls": [
           11,
@@ -101,7 +102,7 @@
           4
         ],
         "shotsInside": [
-          12,
+          13,
           4
         ],
         "corners": [
@@ -109,16 +110,16 @@
           2
         ],
         "passesTotal": [
-          520,
-          403
+          523,
+          431
         ],
         "shotsOutside": [
           9,
           8
         ],
         "possession": [
-          56,
-          44
+          54,
+          46
         ],
         "offsides": [
           2,
@@ -129,11 +130,11 @@
           2
         ],
         "passesAccurate": [
-          464,
-          369
+          467,
+          394
         ],
         "shotsOff": [
-          9,
+          10,
           6
         ],
         "home": "COL",
@@ -280,7 +281,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 1,
       "goals": [
@@ -402,7 +403,7 @@
           2
         ],
         "shotsTotal": [
-          14,
+          15,
           3
         ],
         "saves": [
@@ -434,16 +435,16 @@
           3
         ],
         "passesTotal": [
-          453,
-          281
+          459,
+          296
         ],
         "shotsOutside": [
-          5,
+          6,
           1
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "offsides": [
           3,
@@ -454,11 +455,11 @@
           1
         ],
         "passesAccurate": [
-          376,
-          211
+          379,
+          221
         ],
         "shotsOff": [
-          10,
+          11,
           2
         ],
         "home": "COD",
