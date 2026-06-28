@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:58:29Z",
+  "updated": "2026-06-28T03:58:30Z",
   "live": [
     {
       "id": 59,
@@ -312,325 +312,6 @@
           "player": "Riyad Mahrez",
           "rating": 9.3,
           "team": "ALG"
-        }
-      }
-    },
-    {
-      "id": 60,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 3,
-      "goals": [
-        {
-          "player": "G. Lo Celso",
-          "minute": 19,
-          "team": "ARG"
-        },
-        {
-          "player": "L. Martinez",
-          "minute": 31,
-          "team": "ARG",
-          "pen": true
-        },
-        {
-          "player": "M. Tamari",
-          "minute": 55,
-          "team": "JOR",
-          "assist": "E. Haddad"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 80,
-          "team": "ARG"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Abu Taha",
-          "minute": 17,
-          "team": "JOR",
-          "color": "yellow"
-        },
-        {
-          "player": "Y. Al Arab",
-          "minute": 64,
-          "team": "JOR",
-          "color": "yellow"
-        },
-        {
-          "player": "Shararh",
-          "minute": 90,
-          "team": "JOR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "O. Al Fakhouri",
-          "in": "M. Al Mardi",
-          "minute": 46,
-          "team": "JOR"
-        },
-        {
-          "out": "A. Azaizeh",
-          "in": "M. Tamari",
-          "minute": 46,
-          "team": "JOR"
-        },
-        {
-          "out": "G. Lo Celso",
-          "in": "T. Almada",
-          "minute": 60,
-          "team": "ARG"
-        },
-        {
-          "out": "L. Martinez",
-          "in": "L. Messi",
-          "minute": 60,
-          "team": "ARG"
-        },
-        {
-          "out": "N. Paz",
-          "in": "A. Mac Allister",
-          "minute": 61,
-          "team": "ARG"
-        },
-        {
-          "out": "G. Simeone",
-          "in": "V. Barco",
-          "minute": 71,
-          "team": "ARG"
-        },
-        {
-          "out": "N. Al Rashdan",
-          "in": "A. Jamous",
-          "minute": 76,
-          "team": "JOR"
-        },
-        {
-          "out": "J. Alvarez",
-          "in": "J. Lopez",
-          "minute": 82,
-          "team": "ARG"
-        },
-        {
-          "out": "H. Abu Dahab",
-          "in": "S. Obaid",
-          "minute": 90,
-          "team": "JOR"
-        },
-        {
-          "out": "A. Olwan",
-          "in": "Shararh",
-          "minute": 90,
-          "team": "JOR"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "yellow": [
-          2,
-          0
-        ],
-        "shotsTotal": [
-          5,
-          12
-        ],
-        "saves": [
-          1,
-          0
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          80,
-          92
-        ],
-        "fouls": [
-          11,
-          7
-        ],
-        "shotsBlocked": [
-          2,
-          1
-        ],
-        "shotsInside": [
-          2,
-          6
-        ],
-        "corners": [
-          1,
-          6
-        ],
-        "passesTotal": [
-          277,
-          780
-        ],
-        "shotsOutside": [
-          3,
-          6
-        ],
-        "possession": [
-          27,
-          73
-        ],
-        "offsides": [
-          1,
-          3
-        ],
-        "shotsOn": [
-          1,
-          4
-        ],
-        "passesAccurate": [
-          221,
-          718
-        ],
-        "shotsOff": [
-          2,
-          7
-        ],
-        "home": "JOR",
-        "away": "ARG"
-      },
-      "extras": {
-        "pred": {
-          "home": 0,
-          "draw": 50,
-          "away": 50
-        },
-        "lineups": {
-          "home": {
-            "formation": "3-4-2-1",
-            "coach": "Jamal Sellami",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Yazeed Abu Laila",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Abdallah Nasib",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Yazan Al-Arab",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Husam Ali Mohammad Abudahab",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Ehsan Haddad",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Nizar Al-Rashdan",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Noor Al-Rawabdeh",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Mohannad Abu Taha",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Ali Al Azaizeh",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Ali Olwan",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Odeh Fakhoury",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Lionel Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Emiliano Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 14,
-                "name": "Exequiel Palacios",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Nicolás Otamendi",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Marcos Senesi",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nicolás Tagliafico",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Giuliano Simeone",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Nico Paz",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Leandro Paredes",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Giovani Lo Celso",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Lautaro Martínez",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Julián Alvarez",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Istvan Kovacs, Romania",
-        "motm": {
-          "player": "Lionel Messi",
-          "rating": 8.5,
-          "team": "ARG"
         }
       }
     }
@@ -18362,6 +18043,322 @@
       }
     },
     {
+      "id": 60,
+      "home": 1,
+      "away": 3,
+      "goals": [
+        {
+          "player": "G. Lo Celso",
+          "minute": 19,
+          "team": "ARG"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 31,
+          "team": "ARG",
+          "pen": true
+        },
+        {
+          "player": "M. Tamari",
+          "minute": 55,
+          "team": "JOR",
+          "assist": "E. Haddad"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 80,
+          "team": "ARG"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Abu Taha",
+          "minute": 17,
+          "team": "JOR",
+          "color": "yellow"
+        },
+        {
+          "player": "Y. Al Arab",
+          "minute": 64,
+          "team": "JOR",
+          "color": "yellow"
+        },
+        {
+          "player": "Shararh",
+          "minute": 90,
+          "team": "JOR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "O. Al Fakhouri",
+          "in": "M. Al Mardi",
+          "minute": 46,
+          "team": "JOR"
+        },
+        {
+          "out": "A. Azaizeh",
+          "in": "M. Tamari",
+          "minute": 46,
+          "team": "JOR"
+        },
+        {
+          "out": "G. Lo Celso",
+          "in": "T. Almada",
+          "minute": 60,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "L. Messi",
+          "minute": 60,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Paz",
+          "in": "A. Mac Allister",
+          "minute": 61,
+          "team": "ARG"
+        },
+        {
+          "out": "G. Simeone",
+          "in": "V. Barco",
+          "minute": 71,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Al Rashdan",
+          "in": "A. Jamous",
+          "minute": 76,
+          "team": "JOR"
+        },
+        {
+          "out": "J. Alvarez",
+          "in": "J. Lopez",
+          "minute": 82,
+          "team": "ARG"
+        },
+        {
+          "out": "H. Abu Dahab",
+          "in": "S. Obaid",
+          "minute": 90,
+          "team": "JOR"
+        },
+        {
+          "out": "A. Olwan",
+          "in": "Shararh",
+          "minute": 90,
+          "team": "JOR"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          2,
+          0
+        ],
+        "shotsTotal": [
+          5,
+          12
+        ],
+        "saves": [
+          1,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          80,
+          92
+        ],
+        "fouls": [
+          11,
+          7
+        ],
+        "shotsBlocked": [
+          2,
+          1
+        ],
+        "shotsInside": [
+          2,
+          6
+        ],
+        "corners": [
+          1,
+          6
+        ],
+        "passesTotal": [
+          277,
+          780
+        ],
+        "shotsOutside": [
+          3,
+          6
+        ],
+        "possession": [
+          27,
+          73
+        ],
+        "offsides": [
+          1,
+          3
+        ],
+        "shotsOn": [
+          1,
+          4
+        ],
+        "passesAccurate": [
+          221,
+          718
+        ],
+        "shotsOff": [
+          2,
+          7
+        ],
+        "home": "JOR",
+        "away": "ARG"
+      },
+      "extras": {
+        "pred": {
+          "home": 0,
+          "draw": 50,
+          "away": 50
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Jamal Sellami",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yazeed Abu Laila",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Abdallah Nasib",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Yazan Al-Arab",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Husam Ali Mohammad Abudahab",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Ehsan Haddad",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Nizar Al-Rashdan",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Noor Al-Rawabdeh",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Mohannad Abu Taha",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Ali Al Azaizeh",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ali Olwan",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Odeh Fakhoury",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 14,
+                "name": "Exequiel Palacios",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Nicolás Otamendi",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Marcos Senesi",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nicolás Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Giuliano Simeone",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Nico Paz",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Leandro Paredes",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Giovani Lo Celso",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Lautaro Martínez",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Julián Alvarez",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Istvan Kovacs, Romania",
+        "motm": {
+          "player": "Lionel Messi",
+          "rating": 8.5,
+          "team": "ARG"
+        }
+      }
+    },
+    {
       "id": 61,
       "home": 1,
       "away": 1,
@@ -21935,7 +21932,7 @@
       {
         "player": "L. Messi",
         "team": "ARG",
-        "goals": 5
+        "goals": 6
       },
       {
         "player": "E. Haaland",
@@ -22457,6 +22454,20 @@
       "form": "WWW"
     },
     {
+      "code": "ARG",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "loses": 0,
+      "gf": 8,
+      "ga": 1,
+      "cleanSheets": 2,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWW"
+    },
+    {
       "code": "MEX",
       "played": 3,
       "wins": 3,
@@ -22581,20 +22592,6 @@
       "biggestWin": "7-1",
       "biggestLose": "1-2",
       "form": "WWL"
-    },
-    {
-      "code": "ARG",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 5,
-      "ga": 0,
-      "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WW"
     },
     {
       "code": "USA",
@@ -23031,20 +23028,6 @@
       "form": "LDL"
     },
     {
-      "code": "JOR",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "loses": 2,
-      "gf": 2,
-      "ga": 5,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "",
-      "biggestLose": "1-3",
-      "form": "LL"
-    },
-    {
       "code": "PAN",
       "played": 3,
       "wins": 0,
@@ -23056,6 +23039,20 @@
       "failedToScore": 3,
       "biggestWin": "",
       "biggestLose": "0-2",
+      "form": "LLL"
+    },
+    {
+      "code": "JOR",
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "loses": 3,
+      "gf": 3,
+      "ga": 8,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "",
+      "biggestLose": "1-3",
       "form": "LLL"
     },
     {
