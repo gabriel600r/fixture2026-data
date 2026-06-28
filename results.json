@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:18:43Z",
+  "updated": "2026-06-28T20:19:30Z",
   "live": [
     {
       "id": 73,
@@ -21,6 +21,18 @@
           "in": "T. Mbatha",
           "minute": 46,
           "team": "RSA"
+        },
+        {
+          "out": "N. Saliba",
+          "in": "N. Sigur",
+          "minute": 59,
+          "team": "CAN"
+        },
+        {
+          "out": "M. Bombito",
+          "in": "L. De Fougerolles",
+          "minute": 59,
+          "team": "CAN"
         }
       ],
       "stats": {
