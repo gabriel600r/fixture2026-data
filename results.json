@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:32:45Z",
+  "updated": "2026-06-28T03:33:33Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 2,
       "away": 2,
       "goals": [
@@ -64,6 +64,12 @@
           "in": "K. Danso",
           "minute": 62,
           "team": "AUT"
+        },
+        {
+          "out": "J. Hadjam",
+          "in": "R. Ait-Nouri",
+          "minute": 72,
+          "team": "ALG"
         }
       ],
       "stats": {
@@ -105,7 +111,7 @@
         ],
         "passesTotal": [
           453,
-          330
+          331
         ],
         "shotsOutside": [
           6,
@@ -275,7 +281,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 2,
       "goals": [
