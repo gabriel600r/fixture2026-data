@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-28T03:21:25Z",
+  "updated": "2026-06-28T03:22:13Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
       "minute": 60,
-      "home": 1,
+      "home": 2,
       "away": 2,
       "goals": [
         {
@@ -24,6 +24,11 @@
           "minute": 55,
           "team": "AUT",
           "assist": "K. Laimer"
+        },
+        {
+          "player": "R. Mahrez",
+          "minute": 60,
+          "team": "ALG"
         }
       ],
       "cardEvents": [
@@ -305,6 +310,18 @@
           "in": "M. Tamari",
           "minute": 46,
           "team": "JOR"
+        },
+        {
+          "out": "G. Lo Celso",
+          "in": "T. Almada",
+          "minute": 60,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "L. Messi",
+          "minute": 60,
+          "team": "ARG"
         }
       ],
       "stats": {
