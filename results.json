@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:06:53Z",
+  "updated": "2026-06-28T03:07:41Z",
   "live": [
     {
       "id": 59,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -28,7 +28,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
       "stats": {
         "yellow": [
           0,
@@ -227,13 +226,18 @@
             ]
           }
         },
-        "referee": "Ilgiz Tantashev, Uzbekistan"
+        "referee": "Ilgiz Tantashev, Uzbekistan",
+        "motm": {
+          "player": "Rafik Belghali",
+          "rating": 7.9,
+          "team": "ALG"
+        }
       }
     },
     {
       "id": 60,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 2,
       "goals": [
@@ -257,7 +261,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "subs": [
+        {
+          "out": "O. Al Fakhouri",
+          "in": "M. Al Mardi",
+          "minute": 46,
+          "team": "JOR"
+        }
+      ],
       "stats": {
         "yellow": [
           1,
@@ -456,7 +467,12 @@
             ]
           }
         },
-        "referee": "Istvan Kovacs, Romania"
+        "referee": "Istvan Kovacs, Romania",
+        "motm": {
+          "player": "Giovani Lo Celso",
+          "rating": 8.0,
+          "team": "ARG"
+        }
       }
     }
   ],
