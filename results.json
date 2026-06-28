@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:06:44Z",
+  "updated": "2026-06-28T01:07:33Z",
   "live": [
     {
       "id": 65,
@@ -254,7 +254,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 1,
       "goals": [
@@ -325,13 +325,13 @@
         {
           "out": "B. Cipenga",
           "in": "T. Bongonda",
-          "minute": 73,
+          "minute": 72,
           "team": "COD"
         },
         {
           "out": "S. Moutoussamy",
           "in": "N. Mukau",
-          "minute": 73,
+          "minute": 72,
           "team": "COD"
         },
         {
