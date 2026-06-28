@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:00:12Z",
+  "updated": "2026-06-28T04:10:01Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -11,7 +11,7 @@
     },
     "85": {
       "home": "SUI",
-      "away": "TBD"
+      "away": "ALG"
     },
     "75": {
       "home": "NED",
@@ -23,11 +23,11 @@
     },
     "79": {
       "home": "MEX",
-      "away": "TBD"
+      "away": "ECU"
     },
     "74": {
       "home": "GER",
-      "away": "TBD"
+      "away": "PAR"
     },
     "78": {
       "home": "CIV",
@@ -35,7 +35,7 @@
     },
     "81": {
       "home": "USA",
-      "away": "TBD"
+      "away": "BIH"
     },
     "88": {
       "home": "AUS",
@@ -43,23 +43,23 @@
     },
     "77": {
       "home": "FRA",
-      "away": "TBD"
+      "away": "SWE"
     },
     "84": {
       "home": "ESP",
-      "away": "TBD"
+      "away": "AUT"
     },
     "86": {
-      "home": "TBD",
+      "home": "ARG",
       "away": "CPV"
     },
     "82": {
       "home": "BEL",
-      "away": "TBD"
+      "away": "SEN"
     },
     "80": {
       "home": "ENG",
-      "away": "TBD"
+      "away": "COD"
     },
     "83": {
       "home": "POR",
@@ -67,7 +67,7 @@
     },
     "87": {
       "home": "COL",
-      "away": "TBD"
+      "away": "GHA"
     }
   },
   "prematch": [],
