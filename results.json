@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-28T19:48:30Z",
+  "updated": "2026-06-28T19:49:17Z",
   "live": [
     {
       "id": 73,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 0,
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsTotal": [
           3,
