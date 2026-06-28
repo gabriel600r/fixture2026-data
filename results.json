@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:41:36Z",
+  "updated": "2026-06-28T03:42:24Z",
   "live": [
     {
       "id": 59,
@@ -102,11 +102,11 @@
           0
         ],
         "passesPct": [
-          91,
-          87
+          92,
+          88
         ],
         "fouls": [
-          2,
+          3,
           6
         ],
         "shotsBlocked": [
@@ -122,16 +122,16 @@
           3
         ],
         "passesTotal": [
-          479,
-          331
+          537,
+          376
         ],
         "shotsOutside": [
           6,
           4
         ],
         "possession": [
-          59,
-          41
+          58,
+          42
         ],
         "offsides": [
           0,
@@ -142,8 +142,8 @@
           2
         ],
         "passesAccurate": [
-          436,
-          287
+          492,
+          329
         ],
         "shotsOff": [
           5,
@@ -295,7 +295,7 @@
       "status": "2H",
       "minute": 80,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "G. Lo Celso",
@@ -313,6 +313,11 @@
           "minute": 55,
           "team": "JOR",
           "assist": "E. Haddad"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 80,
+          "team": "ARG"
         }
       ],
       "cardEvents": [
@@ -380,7 +385,7 @@
         ],
         "shotsTotal": [
           5,
-          8
+          9
         ],
         "saves": [
           1,
@@ -395,7 +400,7 @@
           92
         ],
         "fouls": [
-          8,
+          9,
           7
         ],
         "shotsBlocked": [
@@ -411,12 +416,12 @@
           3
         ],
         "passesTotal": [
-          246,
-          679
+          248,
+          703
         ],
         "shotsOutside": [
           3,
-          4
+          5
         ],
         "possession": [
           27,
@@ -428,11 +433,11 @@
         ],
         "shotsOn": [
           1,
-          3
+          4
         ],
         "passesAccurate": [
-          198,
-          623
+          199,
+          645
         ],
         "shotsOff": [
           2,
