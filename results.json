@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:10:46Z",
+  "updated": "2026-06-28T00:11:34Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,10 +14,10 @@
         ],
         "shotsTotal": [
           7,
-          3
+          4
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "red": [
@@ -25,7 +25,7 @@
           0
         ],
         "passesPct": [
-          89,
+          88,
           93
         ],
         "fouls": [
@@ -34,7 +34,7 @@
         ],
         "shotsBlocked": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           6,
@@ -45,16 +45,16 @@
           0
         ],
         "passesTotal": [
-          192,
-          159
+          206,
+          175
         ],
         "shotsOutside": [
           1,
-          3
+          4
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "offsides": [
           2,
@@ -65,8 +65,8 @@
           1
         ],
         "passesAccurate": [
-          170,
-          148
+          181,
+          162
         ],
         "shotsOff": [
           4,
@@ -211,7 +211,7 @@
     {
       "id": 66,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 1,
       "goals": [
@@ -240,7 +240,7 @@
           1
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "red": [
@@ -249,7 +249,7 @@
         ],
         "passesPct": [
           82,
-          77
+          78
         ],
         "fouls": [
           4,
@@ -268,16 +268,16 @@
           2
         ],
         "passesTotal": [
-          162,
-          115
+          165,
+          121
         ],
         "shotsOutside": [
           1,
           0
         ],
         "possession": [
-          57,
-          43
+          56,
+          44
         ],
         "offsides": [
           1,
@@ -288,8 +288,8 @@
           1
         ],
         "passesAccurate": [
-          133,
-          89
+          135,
+          94
         ],
         "shotsOff": [
           2,
