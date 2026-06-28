@@ -1,289 +1,6 @@
 {
-  "updated": "2026-06-28T01:29:22Z",
+  "updated": "2026-06-28T01:29:23Z",
   "live": [
-    {
-      "id": 65,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 0,
-      "cardEvents": [
-        {
-          "player": "G. Puerta",
-          "minute": 86,
-          "team": "COL",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "R. Neves",
-          "in": "J. Neves",
-          "minute": 46,
-          "team": "POR"
-        },
-        {
-          "out": "J. Cancelo",
-          "in": "D. Dalot",
-          "minute": 46,
-          "team": "POR"
-        },
-        {
-          "out": "J. Lerma",
-          "in": "R. Rios",
-          "minute": 60,
-          "team": "COL"
-        },
-        {
-          "out": "J. Cordoba",
-          "in": "L. Suarez",
-          "minute": 60,
-          "team": "COL"
-        },
-        {
-          "out": "Joao Felix",
-          "in": "R. Leao",
-          "minute": 70,
-          "team": "POR"
-        },
-        {
-          "out": "Vitinha",
-          "in": "Samu Costa",
-          "minute": 70,
-          "team": "POR"
-        },
-        {
-          "out": "J. Arias",
-          "in": "K. Castano",
-          "minute": 76,
-          "team": "COL"
-        },
-        {
-          "out": "J. Rodriguez",
-          "in": "J. Quintero",
-          "minute": 76,
-          "team": "COL"
-        },
-        {
-          "out": "S. Arias",
-          "in": "D. Munoz",
-          "minute": 87,
-          "team": "COL"
-        },
-        {
-          "out": "N. Mendes",
-          "in": "M. Nunes",
-          "minute": 90,
-          "team": "POR"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "yellow": [
-          1,
-          0
-        ],
-        "shotsTotal": [
-          23,
-          13
-        ],
-        "saves": [
-          2,
-          6
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          89,
-          91
-        ],
-        "fouls": [
-          11,
-          6
-        ],
-        "shotsBlocked": [
-          6,
-          4
-        ],
-        "shotsInside": [
-          14,
-          5
-        ],
-        "corners": [
-          5,
-          2
-        ],
-        "passesTotal": [
-          539,
-          440
-        ],
-        "shotsOutside": [
-          9,
-          8
-        ],
-        "possession": [
-          55,
-          45
-        ],
-        "offsides": [
-          3,
-          2
-        ],
-        "shotsOn": [
-          6,
-          2
-        ],
-        "passesAccurate": [
-          480,
-          401
-        ],
-        "shotsOff": [
-          11,
-          7
-        ],
-        "home": "COL",
-        "away": "POR"
-      },
-      "extras": {
-        "pred": {
-          "home": 35,
-          "draw": 35,
-          "away": 30
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Nestor Lorenzo",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Camilo Vargas",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Santiago Arias",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Davinson Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Jhon Lucumí",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Deiver Machado",
-                "pos": "D"
-              },
-              {
-                "n": 11,
-                "name": "Jhon Arias",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Jefferson Lerma",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Gustavo Puerta",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "James Rodríguez",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Jhon Córdoba",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Luis Díaz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Roberto Martinez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Diogo Costa",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "João Cancelo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Rúben Dias",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Renato Veiga",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nuno Mendes",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Rúben Neves",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Vitinha",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Pedro Neto",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Fernandes",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "João Félix",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Cristiano Ronaldo",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Alireza Faghani, Australia",
-        "motm": {
-          "player": "James Rodríguez",
-          "rating": 8.2,
-          "team": "COL"
-        }
-      }
-    },
     {
       "id": 66,
       "status": "2H",
@@ -19822,6 +19539,286 @@
       }
     },
     {
+      "id": 65,
+      "home": 0,
+      "away": 0,
+      "cardEvents": [
+        {
+          "player": "G. Puerta",
+          "minute": 86,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "R. Neves",
+          "in": "J. Neves",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "J. Cancelo",
+          "in": "D. Dalot",
+          "minute": 46,
+          "team": "POR"
+        },
+        {
+          "out": "J. Lerma",
+          "in": "R. Rios",
+          "minute": 60,
+          "team": "COL"
+        },
+        {
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
+          "minute": 60,
+          "team": "COL"
+        },
+        {
+          "out": "Joao Felix",
+          "in": "R. Leao",
+          "minute": 70,
+          "team": "POR"
+        },
+        {
+          "out": "Vitinha",
+          "in": "Samu Costa",
+          "minute": 70,
+          "team": "POR"
+        },
+        {
+          "out": "J. Arias",
+          "in": "K. Castano",
+          "minute": 76,
+          "team": "COL"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "J. Quintero",
+          "minute": 76,
+          "team": "COL"
+        },
+        {
+          "out": "S. Arias",
+          "in": "D. Munoz",
+          "minute": 87,
+          "team": "COL"
+        },
+        {
+          "out": "N. Mendes",
+          "in": "M. Nunes",
+          "minute": 90,
+          "team": "POR"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          1,
+          0
+        ],
+        "shotsTotal": [
+          23,
+          13
+        ],
+        "saves": [
+          2,
+          6
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          89,
+          91
+        ],
+        "fouls": [
+          11,
+          6
+        ],
+        "shotsBlocked": [
+          6,
+          4
+        ],
+        "shotsInside": [
+          14,
+          5
+        ],
+        "corners": [
+          5,
+          2
+        ],
+        "passesTotal": [
+          539,
+          440
+        ],
+        "shotsOutside": [
+          9,
+          8
+        ],
+        "possession": [
+          55,
+          45
+        ],
+        "offsides": [
+          3,
+          2
+        ],
+        "shotsOn": [
+          6,
+          2
+        ],
+        "passesAccurate": [
+          480,
+          401
+        ],
+        "shotsOff": [
+          11,
+          7
+        ],
+        "home": "COL",
+        "away": "POR"
+      },
+      "extras": {
+        "pred": {
+          "home": 35,
+          "draw": 35,
+          "away": 30
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Nestor Lorenzo",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Camilo Vargas",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Santiago Arias",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Davinson Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jhon Lucumí",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Deiver Machado",
+                "pos": "D"
+              },
+              {
+                "n": 11,
+                "name": "Jhon Arias",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Jefferson Lerma",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Gustavo Puerta",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "James Rodríguez",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Jhon Córdoba",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Luis Díaz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Rúben Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "João Félix",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Alireza Faghani, Australia",
+        "motm": {
+          "player": "James Rodríguez",
+          "rating": 8.2,
+          "team": "COL"
+        }
+      }
+    },
+    {
       "id": 67,
       "home": 4,
       "away": 2,
@@ -22195,6 +22192,20 @@
       "form": "DWW"
     },
     {
+      "code": "COL",
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "loses": 0,
+      "gf": 4,
+      "ga": 1,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "3-1",
+      "biggestLose": "",
+      "form": "WWD"
+    },
+    {
       "code": "GER",
       "played": 3,
       "wins": 2,
@@ -22237,20 +22248,6 @@
       "form": "WWL"
     },
     {
-      "code": "COL",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "loses": 0,
-      "gf": 4,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "3-1",
-      "biggestLose": "",
-      "form": "WW"
-    },
-    {
       "code": "CIV",
       "played": 3,
       "wins": 2,
@@ -22291,6 +22288,20 @@
       "biggestWin": "1-0",
       "biggestLose": "2-4",
       "form": "LWW"
+    },
+    {
+      "code": "POR",
+      "played": 3,
+      "wins": 1,
+      "draws": 2,
+      "loses": 0,
+      "gf": 6,
+      "ga": 1,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "5-0",
+      "biggestLose": "",
+      "form": "DWD"
     },
     {
       "code": "JPN",
@@ -22347,20 +22358,6 @@
       "biggestWin": "6-0",
       "biggestLose": "1-2",
       "form": "DWL"
-    },
-    {
-      "code": "POR",
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "loses": 0,
-      "gf": 6,
-      "ga": 1,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "5-0",
-      "biggestLose": "",
-      "form": "DW"
     },
     {
       "code": "AUS",
