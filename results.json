@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:38:54Z",
+  "updated": "2026-06-28T00:39:42Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 0,
       "subs": [
@@ -27,7 +27,7 @@
           0
         ],
         "shotsTotal": [
-          13,
+          12,
           9
         ],
         "saves": [
@@ -47,11 +47,11 @@
           4
         ],
         "shotsBlocked": [
-          5,
+          4,
           3
         ],
         "shotsInside": [
-          8,
+          7,
           3
         ],
         "corners": [
@@ -59,16 +59,16 @@
           0
         ],
         "passesTotal": [
-          263,
-          208
+          264,
+          222
         ],
         "shotsOutside": [
           5,
           6
         ],
         "possession": [
-          55,
-          45
+          53,
+          47
         ],
         "offsides": [
           2,
@@ -80,7 +80,7 @@
         ],
         "passesAccurate": [
           234,
-          191
+          205
         ],
         "shotsOff": [
           5,
@@ -229,8 +229,8 @@
     },
     {
       "id": 66,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -261,7 +261,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 7,
       "stats": {
         "yellow": [
           2,
@@ -460,7 +459,12 @@
             ]
           }
         },
-        "referee": "Felix Zwayer, Germany"
+        "referee": "Felix Zwayer, Germany",
+        "motm": {
+          "player": "Eldor Shomurodov",
+          "rating": 7.5,
+          "team": "UZB"
+        }
       }
     }
   ],
