@@ -1,13 +1,20 @@
 {
-  "updated": "2026-06-28T20:05:13Z",
+  "updated": "2026-06-28T20:06:02Z",
   "live": [
     {
       "id": 73,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
-      "extra": 4,
+      "subs": [
+        {
+          "out": "R. Mofokeng",
+          "in": "T. Mbatha",
+          "minute": 46,
+          "team": "RSA"
+        }
+      ],
       "stats": {
         "shotsTotal": [
           3,
@@ -206,7 +213,12 @@
             ]
           }
         },
-        "referee": "Joao Pedro Pinheiro, Portugal"
+        "referee": "Joao Pedro Pinheiro, Portugal",
+        "motm": {
+          "player": "Ronwen Williams",
+          "rating": 7.9,
+          "team": "RSA"
+        }
       }
     }
   ],
