@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:50:26Z",
+  "updated": "2026-06-28T20:51:14Z",
   "live": [
     {
       "id": 73,
@@ -71,6 +71,7 @@
           "team": "RSA"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsTotal": [
           6,
