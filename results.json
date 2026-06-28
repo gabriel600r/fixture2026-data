@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:10:13Z",
+  "updated": "2026-06-28T01:11:05Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 0,
       "subs": [
@@ -258,7 +258,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "James Rodríguez",
-          "rating": 7.9,
+          "rating": 8.2,
           "team": "COL"
         }
       }
@@ -266,7 +266,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 1,
       "goals": [
