@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:45:40Z",
+  "updated": "2026-06-28T20:46:28Z",
   "live": [
     {
       "id": 73,
@@ -57,6 +57,12 @@
           "in": "A. Davies",
           "minute": 75,
           "team": "CAN"
+        },
+        {
+          "out": "E. Makgopa",
+          "in": "I. Rayners",
+          "minute": 86,
+          "team": "RSA"
         }
       ],
       "stats": {
