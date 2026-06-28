@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:20:22Z",
+  "updated": "2026-06-28T00:21:10Z",
   "live": [
     {
       "id": 65,
@@ -235,9 +235,15 @@
           "minute": 43,
           "team": "UZB",
           "color": "yellow"
+        },
+        {
+          "player": "N. Mbuku",
+          "minute": 45,
+          "team": "COD",
+          "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
