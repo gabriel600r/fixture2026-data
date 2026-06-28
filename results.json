@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:27:44Z",
+  "updated": "2026-06-28T01:28:34Z",
   "live": [
     {
       "id": 65,
@@ -77,7 +77,7 @@
           "team": "POR"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           1,
@@ -85,7 +85,7 @@
         ],
         "shotsTotal": [
           23,
-          12
+          13
         ],
         "saves": [
           2,
@@ -109,15 +109,15 @@
         ],
         "shotsInside": [
           14,
-          4
+          5
         ],
         "corners": [
           5,
           2
         ],
         "passesTotal": [
-          533,
-          431
+          539,
+          440
         ],
         "shotsOutside": [
           9,
@@ -136,12 +136,12 @@
           2
         ],
         "passesAccurate": [
-          477,
-          394
+          480,
+          401
         ],
         "shotsOff": [
           11,
-          6
+          7
         ],
         "home": "COL",
         "away": "POR"
@@ -409,7 +409,7 @@
           "team": "COD"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           3,
@@ -429,7 +429,7 @@
         ],
         "passesPct": [
           82,
-          75
+          76
         ],
         "fouls": [
           6,
@@ -448,8 +448,8 @@
           3
         ],
         "passesTotal": [
-          464,
-          319
+          465,
+          327
         ],
         "shotsOutside": [
           7,
@@ -468,8 +468,8 @@
           1
         ],
         "passesAccurate": [
-          382,
-          239
+          383,
+          247
         ],
         "shotsOff": [
           12,
@@ -611,7 +611,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Yoane Wissa",
-          "rating": 7.7,
+          "rating": 8.2,
           "team": "COD"
         }
       }
