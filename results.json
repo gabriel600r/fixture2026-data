@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:31:22Z",
+  "updated": "2026-06-28T02:32:10Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 1,
       "goals": [
@@ -227,7 +227,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 2,
       "goals": [
@@ -235,6 +235,12 @@
           "player": "G. Lo Celso",
           "minute": 19,
           "team": "ARG"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 31,
+          "team": "ARG",
+          "pen": true
         }
       ],
       "cardEvents": [
