@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:37:34Z",
+  "updated": "2026-06-28T03:38:22Z",
   "live": [
     {
       "id": 59,
@@ -365,6 +365,12 @@
           "in": "V. Barco",
           "minute": 71,
           "team": "ARG"
+        },
+        {
+          "out": "N. Al Rashdan",
+          "in": "A. Jamous",
+          "minute": 76,
+          "team": "JOR"
         }
       ],
       "stats": {
@@ -385,12 +391,12 @@
           0
         ],
         "passesPct": [
-          79,
-          91
+          80,
+          92
         ],
         "fouls": [
           8,
-          6
+          7
         ],
         "shotsBlocked": [
           2,
@@ -405,8 +411,8 @@
           3
         ],
         "passesTotal": [
-          219,
-          614
+          245,
+          668
         ],
         "shotsOutside": [
           3,
@@ -425,8 +431,8 @@
           3
         ],
         "passesAccurate": [
-          172,
-          560
+          197,
+          612
         ],
         "shotsOff": [
           2,
