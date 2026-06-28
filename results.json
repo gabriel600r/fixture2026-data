@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:01:44Z",
+  "updated": "2026-06-28T01:02:34Z",
   "live": [
     {
       "id": 65,
@@ -242,8 +242,8 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 68,
-      "home": 0,
+      "minute": 69,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -330,11 +330,11 @@
         ],
         "passesPct": [
           83,
-          74
+          75
         ],
         "fouls": [
           6,
-          12
+          13
         ],
         "shotsBlocked": [
           1,
@@ -349,8 +349,8 @@
           3
         ],
         "passesTotal": [
-          364,
-          192
+          381,
+          206
         ],
         "shotsOutside": [
           4,
@@ -369,8 +369,8 @@
           1
         ],
         "passesAccurate": [
-          303,
-          142
+          317,
+          155
         ],
         "shotsOff": [
           8,
@@ -512,7 +512,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Eldor Shomurodov",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "UZB"
         }
       }
