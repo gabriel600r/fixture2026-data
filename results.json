@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T20:46:28Z",
+  "updated": "2026-06-28T20:47:15Z",
   "live": [
     {
       "id": 73,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -61,6 +61,12 @@
         {
           "out": "E. Makgopa",
           "in": "I. Rayners",
+          "minute": 86,
+          "team": "RSA"
+        },
+        {
+          "out": "T. Maseko",
+          "in": "T. Moremi",
           "minute": 86,
           "team": "RSA"
         }
