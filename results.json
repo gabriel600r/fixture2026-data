@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:44:00Z",
+  "updated": "2026-06-28T03:44:48Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 2,
       "away": 2,
       "goals": [
@@ -293,7 +293,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 3,
       "goals": [
@@ -376,6 +376,12 @@
           "in": "A. Jamous",
           "minute": 76,
           "team": "JOR"
+        },
+        {
+          "out": "J. Alvarez",
+          "in": "J. Lopez",
+          "minute": 82,
+          "team": "ARG"
         }
       ],
       "stats": {
