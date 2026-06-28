@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:31:11Z",
+  "updated": "2026-06-28T01:32:00Z",
   "live": [
     {
       "id": 66,
@@ -126,7 +126,7 @@
           "team": "COD"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "yellow": [
           3,
