@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:33:45Z",
+  "updated": "2026-06-28T02:34:32Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,7 +29,7 @@
           1
         ],
         "shotsTotal": [
-          1,
+          2,
           2
         ],
         "saves": [
@@ -53,7 +53,7 @@
           0
         ],
         "shotsInside": [
-          0,
+          1,
           1
         ],
         "corners": [
@@ -61,16 +61,16 @@
           0
         ],
         "passesTotal": [
-          170,
-          142
+          186,
+          150
         ],
         "shotsOutside": [
           1,
           1
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "offsides": [
           0,
@@ -81,11 +81,11 @@
           1
         ],
         "passesAccurate": [
-          149,
-          122
+          163,
+          129
         ],
         "shotsOff": [
-          1,
+          2,
           1
         ],
         "home": "ALG",
@@ -227,7 +227,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 2,
       "goals": [
@@ -269,12 +269,12 @@
           0
         ],
         "passesPct": [
-          72,
-          93
+          74,
+          92
         ],
         "fouls": [
           2,
-          1
+          3
         ],
         "shotsBlocked": [
           0,
@@ -289,16 +289,16 @@
           2
         ],
         "passesTotal": [
-          58,
-          244
+          66,
+          249
         ],
         "shotsOutside": [
           0,
           1
         ],
         "possession": [
-          19,
-          81
+          21,
+          79
         ],
         "offsides": [
           0,
@@ -309,8 +309,8 @@
           2
         ],
         "passesAccurate": [
-          42,
-          226
+          49,
+          228
         ],
         "shotsOff": [
           0,
