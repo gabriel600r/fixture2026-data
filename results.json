@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:22:33Z",
+  "updated": "2026-06-28T02:23:21Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -191,13 +191,13 @@
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Romano Schmid",
+                "n": 20,
+                "name": "Konrad Laimer",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Konrad Laimer",
+                "n": 18,
+                "name": "Romano Schmid",
                 "pos": "M"
               },
               {
@@ -219,7 +219,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 1,
       "goals": [
