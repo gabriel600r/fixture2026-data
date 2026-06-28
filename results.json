@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:37:44Z",
+  "updated": "2026-06-28T02:38:32Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,11 +29,11 @@
           1
         ],
         "shotsTotal": [
-          2,
-          3
+          3,
+          2
         ],
         "saves": [
-          1,
+          0,
           0
         ],
         "red": [
@@ -41,7 +41,7 @@
           0
         ],
         "passesPct": [
-          88,
+          89,
           85
         ],
         "fouls": [
@@ -53,16 +53,16 @@
           0
         ],
         "shotsInside": [
-          1,
-          2
+          2,
+          1
         ],
         "corners": [
           0,
           0
         ],
         "passesTotal": [
-          192,
-          160
+          209,
+          177
         ],
         "shotsOutside": [
           1,
@@ -78,14 +78,14 @@
         ],
         "shotsOn": [
           0,
-          2
+          1
         ],
         "passesAccurate": [
-          169,
-          136
+          185,
+          151
         ],
         "shotsOff": [
-          2,
+          3,
           1
         ],
         "home": "ALG",
@@ -99,7 +99,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-3-3",
+            "formation": "4-2-3-1",
             "coach": "Vladimir Petkovic",
             "xi": [
               {
@@ -128,8 +128,8 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Houssem Aouar",
+                "n": 10,
+                "name": "Farès Chaïbi",
                 "pos": "M"
               },
               {
@@ -138,23 +138,23 @@
                 "pos": "M"
               },
               {
+                "n": 7,
+                "name": "Riyad Mahrez",
+                "pos": "M"
+              },
+              {
                 "n": 22,
                 "name": "Ibrahim Maza",
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Riyad Mahrez",
-                "pos": "F"
+                "n": 8,
+                "name": "Houssem Aouar",
+                "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Amine Gouiri",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Farès Chaïbi",
                 "pos": "F"
               }
             ]
@@ -227,7 +227,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 2,
       "goals": [
@@ -257,7 +257,7 @@
           0
         ],
         "shotsTotal": [
-          1,
+          2,
           4
         ],
         "saves": [
@@ -269,15 +269,15 @@
           0
         ],
         "passesPct": [
-          77,
-          91
+          78,
+          92
         ],
         "fouls": [
           2,
           4
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "shotsInside": [
@@ -285,20 +285,20 @@
           3
         ],
         "corners": [
-          0,
+          1,
           2
         ],
         "passesTotal": [
-          78,
-          253
+          94,
+          276
         ],
         "shotsOutside": [
-          1,
+          2,
           1
         ],
         "possession": [
-          24,
-          76
+          26,
+          74
         ],
         "offsides": [
           0,
@@ -309,8 +309,8 @@
           2
         ],
         "passesAccurate": [
-          60,
-          230
+          73,
+          253
         ],
         "shotsOff": [
           0,
