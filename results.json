@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-28T02:28:58Z",
+  "updated": "2026-06-28T02:29:45Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "M. Arnautovic",
           "minute": 28,
-          "team": "AUT"
+          "team": "AUT",
+          "assist": "D. Alaba"
         }
       ],
       "cardEvents": [
@@ -226,7 +227,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 1,
       "goals": [
@@ -251,10 +252,10 @@
         ],
         "shotsTotal": [
           0,
-          2
+          3
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "red": [
@@ -263,7 +264,7 @@
         ],
         "passesPct": [
           72,
-          92
+          93
         ],
         "fouls": [
           1,
@@ -275,23 +276,23 @@
         ],
         "shotsInside": [
           0,
-          1
+          2
         ],
         "corners": [
           0,
-          1
+          2
         ],
         "passesTotal": [
           58,
-          220
+          243
         ],
         "shotsOutside": [
           0,
           1
         ],
         "possession": [
-          21,
-          79
+          19,
+          81
         ],
         "offsides": [
           0,
@@ -303,11 +304,11 @@
         ],
         "passesAccurate": [
           42,
-          203
+          225
         ],
         "shotsOff": [
           0,
-          1
+          2
         ],
         "home": "JOR",
         "away": "ARG"
