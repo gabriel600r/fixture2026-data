@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:08:20Z",
+  "updated": "2026-06-28T01:09:10Z",
   "live": [
     {
       "id": 65,
@@ -763,7 +763,131 @@
           "draw": 50,
           "away": 50
         },
-        "referee": "I. Kovacs"
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Jamal Sellami",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yazeed Abu Laila",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Abdallah Nasib",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Yazan Al-Arab",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Husam Ali Mohammad Abudahab",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Ehsan Haddad",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Nizar Al-Rashdan",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Noor Al-Rawabdeh",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Mohannad Abu Taha",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Ali Al Azaizeh",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Ali Olwan",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Odeh Fakhoury",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Giuliano Simeone",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Nicolás Otamendi",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Marcos Senesi",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nicolás Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nico Paz",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Leandro Paredes",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Exequiel Palacios",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Giovani Lo Celso",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Julián Alvarez",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Lautaro Martínez",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Istvan Kovacs, Romania"
       }
     }
   ],
