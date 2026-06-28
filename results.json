@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:56:54Z",
+  "updated": "2026-06-28T03:57:42Z",
   "live": [
     {
       "id": 59,
@@ -88,9 +88,21 @@
           "in": "S. Chergui",
           "minute": 71,
           "team": "ALG"
+        },
+        {
+          "out": "H. Aouar",
+          "in": "F. Ghedjemis",
+          "minute": 90,
+          "team": "ALG"
+        },
+        {
+          "out": "P. Mwene",
+          "in": "S. Kalajdzic",
+          "minute": 90,
+          "team": "AUT"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           0,
@@ -409,7 +421,7 @@
           "team": "JOR"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "yellow": [
           2,
