@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:22:13Z",
+  "updated": "2026-06-28T03:23:02Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 2,
       "away": 2,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "R. Mahrez",
           "minute": 60,
-          "team": "ALG"
+          "team": "ALG",
+          "assist": "H. Aouar"
         }
       ],
       "cardEvents": [
@@ -77,12 +78,12 @@
           0
         ],
         "passesPct": [
-          90,
+          91,
           85
         ],
         "fouls": [
           1,
-          4
+          5
         ],
         "shotsBlocked": [
           1,
@@ -97,16 +98,16 @@
           2
         ],
         "passesTotal": [
-          385,
-          271
+          422,
+          272
         ],
         "shotsOutside": [
           5,
           3
         ],
         "possession": [
-          58,
-          42
+          60,
+          40
         ],
         "offsides": [
           0,
@@ -117,7 +118,7 @@
           2
         ],
         "passesAccurate": [
-          348,
+          384,
           231
         ],
         "shotsOff": [
@@ -259,16 +260,16 @@
         },
         "referee": "Ilgiz Tantashev, Uzbekistan",
         "motm": {
-          "player": "Marko Arnautović",
-          "rating": 7.7,
-          "team": "AUT"
+          "player": "Rafik Belghali",
+          "rating": 7.3,
+          "team": "ALG"
         }
       }
     },
     {
       "id": 60,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 2,
       "goals": [
@@ -322,6 +323,12 @@
           "in": "L. Messi",
           "minute": 60,
           "team": "ARG"
+        },
+        {
+          "out": "N. Paz",
+          "in": "A. Mac Allister",
+          "minute": 61,
+          "team": "ARG"
         }
       ],
       "stats": {
@@ -342,8 +349,8 @@
           0
         ],
         "passesPct": [
-          81,
-          90
+          80,
+          91
         ],
         "fouls": [
           6,
@@ -362,16 +369,16 @@
           2
         ],
         "passesTotal": [
-          199,
-          486
+          204,
+          502
         ],
         "shotsOutside": [
           3,
           2
         ],
         "possession": [
-          30,
-          70
+          29,
+          71
         ],
         "offsides": [
           1,
@@ -382,8 +389,8 @@
           3
         ],
         "passesAccurate": [
-          161,
-          439
+          164,
+          455
         ],
         "shotsOff": [
           2,
