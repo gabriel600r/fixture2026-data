@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:07:33Z",
+  "updated": "2026-06-28T01:08:20Z",
   "live": [
     {
       "id": 65,
@@ -628,7 +628,131 @@
           "draw": 45,
           "away": 45
         },
-        "referee": "I. Tantashev"
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Vladimir Petkovic",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Oussama Benbot",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Rafik Belghali",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Aïssa Mandi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ramy Bensebaini",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Jaouen Hadjam",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Houssem Aouar",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nabil Bentaleb",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Ibrahim Maza",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Riyad Mahrez",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Amine Gouiri",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Philipp Lienhart",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Phillipp Mwene",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Marko Arnautović",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ilgiz Tantashev, Uzbekistan"
       }
     },
     {
