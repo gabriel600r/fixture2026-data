@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:13:58Z",
+  "updated": "2026-06-28T00:14:46Z",
   "live": [
     {
       "id": 65,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 0,
       "stats": {
@@ -227,6 +227,12 @@
           "player": "N. Sadiki",
           "minute": 21,
           "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Khusanov",
+          "minute": 43,
+          "team": "UZB",
           "color": "yellow"
         }
       ],
