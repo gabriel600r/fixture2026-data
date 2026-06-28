@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:42:35Z",
+  "updated": "2026-06-28T02:43:22Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,8 +29,8 @@
           1
         ],
         "shotsTotal": [
-          3,
-          2
+          4,
+          3
         ],
         "saves": [
           0,
@@ -54,23 +54,23 @@
         ],
         "shotsInside": [
           2,
-          1
+          2
         ],
         "corners": [
           0,
           1
         ],
         "passesTotal": [
-          226,
-          182
+          225,
+          194
         ],
         "shotsOutside": [
-          1,
+          2,
           1
         ],
         "possession": [
-          55,
-          45
+          54,
+          46
         ],
         "offsides": [
           0,
@@ -81,12 +81,12 @@
           1
         ],
         "passesAccurate": [
-          201,
-          154
+          200,
+          164
         ],
         "shotsOff": [
-          3,
-          1
+          4,
+          2
         ],
         "home": "ALG",
         "away": "AUT"
@@ -227,7 +227,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 2,
       "goals": [
@@ -269,11 +269,11 @@
           0
         ],
         "passesPct": [
-          78,
-          91
+          77,
+          92
         ],
         "fouls": [
-          2,
+          3,
           4
         ],
         "shotsBlocked": [
@@ -289,16 +289,16 @@
           2
         ],
         "passesTotal": [
-          101,
-          281
+          104,
+          336
         ],
         "shotsOutside": [
           2,
           1
         ],
         "possession": [
-          27,
-          73
+          24,
+          76
         ],
         "offsides": [
           0,
@@ -309,8 +309,8 @@
           2
         ],
         "passesAccurate": [
-          79,
-          257
+          80,
+          308
         ],
         "shotsOff": [
           1,
