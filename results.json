@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:16:57Z",
+  "updated": "2026-06-28T01:17:47Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 0,
       "away": 0,
       "subs": [
@@ -285,8 +285,7 @@
         {
           "player": "F. Mayele",
           "minute": 78,
-          "team": "COD",
-          "assist": "M. Elia"
+          "team": "COD"
         }
       ],
       "cardEvents": [
