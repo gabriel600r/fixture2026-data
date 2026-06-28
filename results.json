@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:14:45Z",
+  "updated": "2026-06-28T20:15:32Z",
   "live": [
     {
       "id": 73,
@@ -7,6 +7,14 @@
       "minute": 55,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "N. Saliba",
+          "minute": 54,
+          "team": "CAN",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "R. Mofokeng",
