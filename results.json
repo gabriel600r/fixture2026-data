@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:49:45Z",
+  "updated": "2026-06-28T02:50:32Z",
   "live": [
     {
       "id": 59,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 1,
       "goals": [
@@ -257,7 +257,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
@@ -297,7 +297,7 @@
         ],
         "passesTotal": [
           129,
-          370
+          384
         ],
         "shotsOutside": [
           2,
@@ -317,7 +317,7 @@
         ],
         "passesAccurate": [
           99,
-          336
+          349
         ],
         "shotsOff": [
           1,
