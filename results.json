@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:52:38Z",
+  "updated": "2026-06-28T00:53:26Z",
   "live": [
     {
       "id": 65,
@@ -23,6 +23,12 @@
         {
           "out": "J. Lerma",
           "in": "R. Rios",
+          "minute": 60,
+          "team": "COL"
+        },
+        {
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
           "minute": 60,
           "team": "COL"
         }
@@ -65,28 +71,28 @@
           0
         ],
         "passesTotal": [
-          372,
-          295
+          382,
+          319
         ],
         "shotsOutside": [
           7,
           7
         ],
         "possession": [
-          55,
-          45
+          54,
+          46
         ],
         "offsides": [
           2,
-          1
+          2
         ],
         "shotsOn": [
           5,
           2
         ],
         "passesAccurate": [
-          332,
-          276
+          341,
+          299
         ],
         "shotsOff": [
           5,
@@ -236,7 +242,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 1,
       "goals": [
@@ -285,6 +291,12 @@
           "in": "O. Khamrobekov",
           "minute": 59,
           "team": "UZB"
+        },
+        {
+          "out": "D. Khamdamov",
+          "in": "A. Ganiev",
+          "minute": 59,
+          "team": "UZB"
         }
       ],
       "stats": {
@@ -293,7 +305,7 @@
           2
         ],
         "shotsTotal": [
-          7,
+          9,
           3
         ],
         "saves": [
@@ -305,7 +317,7 @@
           0
         ],
         "passesPct": [
-          83,
+          84,
           73
         ],
         "fouls": [
@@ -317,7 +329,7 @@
           0
         ],
         "shotsInside": [
-          4,
+          5,
           2
         ],
         "corners": [
@@ -325,11 +337,11 @@
           3
         ],
         "passesTotal": [
-          318,
-          158
+          336,
+          172
         ],
         "shotsOutside": [
-          3,
+          4,
           1
         ],
         "possession": [
@@ -337,7 +349,7 @@
           34
         ],
         "offsides": [
-          2,
+          3,
           1
         ],
         "shotsOn": [
@@ -345,11 +357,11 @@
           1
         ],
         "passesAccurate": [
-          265,
-          115
+          282,
+          126
         ],
         "shotsOff": [
-          6,
+          7,
           2
         ],
         "home": "COD",
