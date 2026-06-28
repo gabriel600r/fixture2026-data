@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-28T19:37:28Z",
+  "updated": "2026-06-28T19:38:15Z",
   "live": [
     {
       "id": 73,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 0,
       "stats": {
         "shotsTotal": [
           2,
-          3
+          4
         ],
         "shotsBlocked": [
           1,
@@ -30,11 +30,11 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "passesTotal": [
-          213,
-          135
+          222,
+          143
         ],
         "passesPct": [
           85,
@@ -49,12 +49,12 @@
           2
         ],
         "corners": [
-          0,
+          1,
           2
         ],
         "passesAccurate": [
-          181,
-          106
+          189,
+          113
         ],
         "yellow": [
           0,
@@ -70,7 +70,7 @@
         ],
         "shotsInside": [
           0,
-          2
+          3
         ],
         "home": "RSA",
         "away": "CAN"
