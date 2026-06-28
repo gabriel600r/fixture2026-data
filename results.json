@@ -1,16 +1,22 @@
 {
-  "updated": "2026-06-28T20:27:26Z",
+  "updated": "2026-06-28T20:28:14Z",
   "live": [
     {
       "id": 73,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
           "player": "N. Saliba",
           "minute": 54,
+          "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Sigur",
+          "minute": 67,
           "team": "CAN",
           "color": "yellow"
         }
