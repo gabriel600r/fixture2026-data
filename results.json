@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:45:21Z",
+  "updated": "2026-06-28T00:46:09Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "subs": [
@@ -230,7 +230,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 0,
       "away": 1,
       "goals": [
@@ -265,6 +265,14 @@
           "minute": 48,
           "team": "UZB",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Bakambu",
+          "in": "F. Mayele",
+          "minute": 51,
+          "team": "COD"
         }
       ],
       "stats": {
