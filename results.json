@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-28T20:51:14Z",
+  "updated": "2026-06-28T20:52:02Z",
   "live": [
     {
       "id": 73,
       "status": "2H",
       "minute": 90,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "S. Eustaquio",
+          "minute": 90,
+          "team": "CAN"
+        }
+      ],
       "cardEvents": [
         {
           "player": "N. Saliba",
@@ -71,7 +78,7 @@
           "team": "RSA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsTotal": [
           6,
@@ -98,8 +105,8 @@
           6
         ],
         "passesTotal": [
-          505,
-          353
+          517,
+          356
         ],
         "passesPct": [
           85,
@@ -118,8 +125,8 @@
           4
         ],
         "passesAccurate": [
-          429,
-          278
+          441,
+          281
         ],
         "yellow": [
           0,
@@ -130,8 +137,8 @@
           0
         ],
         "fouls": [
-          8,
-          15
+          9,
+          16
         ],
         "shotsInside": [
           1,
