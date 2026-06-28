@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:09:10Z",
+  "updated": "2026-06-28T01:09:13Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 75,
+      "minute": 77,
       "home": 0,
       "away": 0,
       "subs": [
@@ -43,6 +43,18 @@
           "in": "Samu Costa",
           "minute": 70,
           "team": "POR"
+        },
+        {
+          "out": "J. Arias",
+          "in": "K. Castano",
+          "minute": 76,
+          "team": "COL"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "J. Quintero",
+          "minute": 76,
+          "team": "COL"
         }
       ],
       "stats": {
@@ -254,7 +266,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 74,
+      "minute": 76,
       "home": 1,
       "away": 1,
       "goals": [
@@ -337,7 +349,7 @@
         {
           "out": "N. Mbuku",
           "in": "M. Elia",
-          "minute": 73,
+          "minute": 72,
           "team": "COD"
         },
         {
