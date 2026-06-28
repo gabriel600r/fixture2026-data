@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:15:34Z",
+  "updated": "2026-06-28T00:16:22Z",
   "live": [
     {
       "id": 65,
@@ -14,7 +14,7 @@
         ],
         "shotsTotal": [
           7,
-          7
+          8
         ],
         "saves": [
           2,
@@ -25,7 +25,7 @@
           0
         ],
         "passesPct": [
-          87,
+          88,
           93
         ],
         "fouls": [
@@ -38,23 +38,23 @@
         ],
         "shotsInside": [
           6,
-          2
+          3
         ],
         "corners": [
           1,
           0
         ],
         "passesTotal": [
-          211,
-          187
+          234,
+          190
         ],
         "shotsOutside": [
           1,
           5
         ],
         "possession": [
-          52,
-          48
+          54,
+          46
         ],
         "offsides": [
           2,
@@ -65,12 +65,12 @@
           2
         ],
         "passesAccurate": [
-          184,
-          174
+          206,
+          176
         ],
         "shotsOff": [
           4,
-          3
+          4
         ],
         "home": "COL",
         "away": "POR"
@@ -211,7 +211,7 @@
     {
       "id": 66,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 0,
       "away": 1,
       "goals": [
@@ -259,7 +259,7 @@
         ],
         "fouls": [
           4,
-          7
+          8
         ],
         "shotsBlocked": [
           0,
@@ -270,20 +270,20 @@
           1
         ],
         "corners": [
-          0,
+          1,
           3
         ],
         "passesTotal": [
-          181,
-          122
+          193,
+          125
         ],
         "shotsOutside": [
           1,
           0
         ],
         "possession": [
-          58,
-          42
+          59,
+          41
         ],
         "offsides": [
           1,
@@ -294,8 +294,8 @@
           1
         ],
         "passesAccurate": [
-          151,
-          94
+          161,
+          96
         ],
         "shotsOff": [
           2,
