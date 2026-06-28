@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:25:13Z",
+  "updated": "2026-06-28T01:26:05Z",
   "live": [
     {
       "id": 65,
@@ -69,16 +69,22 @@
           "in": "D. Munoz",
           "minute": 87,
           "team": "COL"
+        },
+        {
+          "out": "N. Mendes",
+          "in": "M. Nunes",
+          "minute": 90,
+          "team": "POR"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "yellow": [
           1,
           0
         ],
         "shotsTotal": [
-          22,
+          23,
           12
         ],
         "saves": [
@@ -102,15 +108,15 @@
           4
         ],
         "shotsInside": [
-          13,
+          14,
           4
         ],
         "corners": [
-          4,
+          5,
           2
         ],
         "passesTotal": [
-          523,
+          533,
           431
         ],
         "shotsOutside": [
@@ -118,11 +124,11 @@
           8
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "offsides": [
-          2,
+          3,
           2
         ],
         "shotsOn": [
@@ -130,11 +136,11 @@
           2
         ],
         "passesAccurate": [
-          467,
+          477,
           394
         ],
         "shotsOff": [
-          10,
+          11,
           6
         ],
         "home": "COL",
@@ -403,14 +409,14 @@
           "team": "COD"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "yellow": [
           3,
           2
         ],
         "shotsTotal": [
-          15,
+          17,
           3
         ],
         "saves": [
@@ -422,19 +428,19 @@
           0
         ],
         "passesPct": [
-          83,
+          82,
           75
         ],
         "fouls": [
           6,
-          14
+          15
         ],
         "shotsBlocked": [
           1,
           0
         ],
         "shotsInside": [
-          9,
+          10,
           2
         ],
         "corners": [
@@ -442,31 +448,31 @@
           3
         ],
         "passesTotal": [
-          459,
-          296
+          464,
+          319
         ],
         "shotsOutside": [
-          6,
+          7,
           1
         ],
         "possession": [
-          61,
-          39
+          59,
+          41
         ],
         "offsides": [
           3,
           1
         ],
         "shotsOn": [
-          3,
+          4,
           1
         ],
         "passesAccurate": [
-          379,
-          221
+          382,
+          239
         ],
         "shotsOff": [
-          11,
+          12,
           2
         ],
         "home": "COD",
