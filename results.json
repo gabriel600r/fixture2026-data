@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:11:05Z",
+  "updated": "2026-06-28T01:11:54Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 0,
       "away": 0,
       "subs": [
@@ -76,7 +76,7 @@
         ],
         "passesPct": [
           89,
-          92
+          93
         ],
         "fouls": [
           8,
@@ -95,8 +95,8 @@
           0
         ],
         "passesTotal": [
-          464,
-          357
+          466,
+          363
         ],
         "shotsOutside": [
           9,
@@ -115,8 +115,8 @@
           2
         ],
         "passesAccurate": [
-          415,
-          330
+          416,
+          336
         ],
         "shotsOff": [
           8,
@@ -267,7 +267,7 @@
       "id": 66,
       "status": "2H",
       "minute": 78,
-      "home": 1,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -281,6 +281,12 @@
           "minute": 68,
           "team": "COD",
           "pen": true
+        },
+        {
+          "player": "F. Mayele",
+          "minute": 78,
+          "team": "COD",
+          "assist": "M. Elia"
         }
       ],
       "cardEvents": [
@@ -365,7 +371,7 @@
           2
         ],
         "shotsTotal": [
-          11,
+          12,
           3
         ],
         "saves": [
@@ -378,7 +384,7 @@
         ],
         "passesPct": [
           83,
-          75
+          74
         ],
         "fouls": [
           6,
@@ -389,24 +395,24 @@
           0
         ],
         "shotsInside": [
-          7,
+          8,
           2
         ],
         "corners": [
-          1,
+          2,
           3
         ],
         "passesTotal": [
-          392,
-          214
+          413,
+          222
         ],
         "shotsOutside": [
           4,
           1
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "offsides": [
           3,
@@ -417,11 +423,11 @@
           1
         ],
         "passesAccurate": [
-          324,
-          160
+          342,
+          164
         ],
         "shotsOff": [
-          8,
+          9,
           2
         ],
         "home": "COD",
