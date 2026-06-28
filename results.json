@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:23:50Z",
+  "updated": "2026-06-28T03:24:38Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 2,
       "away": 2,
       "goals": [
@@ -58,6 +58,12 @@
           "in": "P. Wanner",
           "minute": 46,
           "team": "AUT"
+        },
+        {
+          "out": "D. Alaba",
+          "in": "K. Danso",
+          "minute": 62,
+          "team": "AUT"
         }
       ],
       "stats": {
@@ -66,7 +72,7 @@
           1
         ],
         "shotsTotal": [
-          9,
+          11,
           6
         ],
         "saves": [
@@ -83,14 +89,14 @@
         ],
         "fouls": [
           1,
-          5
+          6
         ],
         "shotsBlocked": [
-          1,
+          2,
           1
         ],
         "shotsInside": [
-          4,
+          5,
           3
         ],
         "corners": [
@@ -98,28 +104,28 @@
           2
         ],
         "passesTotal": [
-          422,
-          272
+          438,
+          282
         ],
         "shotsOutside": [
-          5,
+          6,
           3
         ],
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "offsides": [
           0,
           3
         ],
         "shotsOn": [
-          3,
+          4,
           2
         ],
         "passesAccurate": [
-          384,
-          231
+          399,
+          240
         ],
         "shotsOff": [
           5,
@@ -260,8 +266,8 @@
         },
         "referee": "Ilgiz Tantashev, Uzbekistan",
         "motm": {
-          "player": "Rafik Belghali",
-          "rating": 7.3,
+          "player": "Riyad Mahrez",
+          "rating": 7.9,
           "team": "ALG"
         }
       }
@@ -269,7 +275,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 2,
       "goals": [
