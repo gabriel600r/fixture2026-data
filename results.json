@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:19:26Z",
+  "updated": "2026-06-28T01:20:16Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -62,6 +62,12 @@
           "out": "J. Rodriguez",
           "in": "J. Quintero",
           "minute": 76,
+          "team": "COL"
+        },
+        {
+          "out": "S. Arias",
+          "in": "D. Munoz",
+          "minute": 87,
           "team": "COL"
         }
       ],
@@ -274,7 +280,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 2,
       "away": 1,
       "goals": [
