@@ -1,321 +1,6 @@
 {
-  "updated": "2026-06-28T03:59:18Z",
-  "live": [
-    {
-      "id": 59,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 3,
-      "goals": [
-        {
-          "player": "M. Arnautovic",
-          "minute": 28,
-          "team": "AUT",
-          "assist": "D. Alaba"
-        },
-        {
-          "player": "R. Belghali",
-          "minute": 45,
-          "team": "ALG"
-        },
-        {
-          "player": "M. Sabitzer",
-          "minute": 55,
-          "team": "AUT",
-          "assist": "K. Laimer"
-        },
-        {
-          "player": "R. Mahrez",
-          "minute": 60,
-          "team": "ALG",
-          "assist": "H. Aouar"
-        },
-        {
-          "player": "R. Mahrez",
-          "minute": 90,
-          "team": "ALG",
-          "assist": "H. Aouar"
-        },
-        {
-          "player": "S. Kalajdzic",
-          "minute": 90,
-          "team": "AUT",
-          "assist": "M. Gregoritsch"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Arnautovic",
-          "minute": 11,
-          "team": "AUT",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "M. Arnautovic",
-          "in": "M. Gregoritsch",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "X. Schlager",
-          "in": "F. Grillitsch",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "R. Schmid",
-          "in": "P. Wanner",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "D. Alaba",
-          "in": "K. Danso",
-          "minute": 62,
-          "team": "AUT"
-        },
-        {
-          "out": "J. Hadjam",
-          "in": "R. Ait-Nouri",
-          "minute": 71,
-          "team": "ALG"
-        },
-        {
-          "out": "A. Gouiri",
-          "in": "Z. Belaid",
-          "minute": 71,
-          "team": "ALG"
-        },
-        {
-          "out": "R. Belghali",
-          "in": "S. Chergui",
-          "minute": 71,
-          "team": "ALG"
-        },
-        {
-          "out": "H. Aouar",
-          "in": "F. Ghedjemis",
-          "minute": 90,
-          "team": "ALG"
-        },
-        {
-          "out": "P. Mwene",
-          "in": "S. Kalajdzic",
-          "minute": 90,
-          "team": "AUT"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "yellow": [
-          0,
-          1
-        ],
-        "shotsTotal": [
-          12,
-          9
-        ],
-        "saves": [
-          0,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          94,
-          87
-        ],
-        "fouls": [
-          3,
-          7
-        ],
-        "shotsBlocked": [
-          2,
-          1
-        ],
-        "shotsInside": [
-          6,
-          5
-        ],
-        "corners": [
-          0,
-          3
-        ],
-        "passesTotal": [
-          754,
-          396
-        ],
-        "shotsOutside": [
-          6,
-          4
-        ],
-        "possession": [
-          65,
-          35
-        ],
-        "offsides": [
-          1,
-          3
-        ],
-        "shotsOn": [
-          5,
-          2
-        ],
-        "passesAccurate": [
-          705,
-          344
-        ],
-        "shotsOff": [
-          5,
-          6
-        ],
-        "home": "ALG",
-        "away": "AUT"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Vladimir Petkovic",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Oussama Benbot",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "Rafik Belghali",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Aïssa Mandi",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Ramy Bensebaini",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Jaouen Hadjam",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Farès Chaïbi",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Nabil Bentaleb",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Riyad Mahrez",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Ibrahim Maza",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Houssem Aouar",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Amine Gouiri",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Ralf Rangnick",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alexander Schlager",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Stefan Posch",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Philipp Lienhart",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "David Alaba",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Phillipp Mwene",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Nicolas Seiwald",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Xaver Schlager",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Konrad Laimer",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Romano Schmid",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Marcel Sabitzer",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Marko Arnautović",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Ilgiz Tantashev, Uzbekistan",
-        "motm": {
-          "player": "Riyad Mahrez",
-          "rating": 9.3,
-          "team": "ALG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-28T04:00:12Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -18043,6 +17728,317 @@
       }
     },
     {
+      "id": 59,
+      "home": 3,
+      "away": 3,
+      "goals": [
+        {
+          "player": "M. Arnautovic",
+          "minute": 28,
+          "team": "AUT",
+          "assist": "D. Alaba"
+        },
+        {
+          "player": "R. Belghali",
+          "minute": 45,
+          "team": "ALG"
+        },
+        {
+          "player": "M. Sabitzer",
+          "minute": 55,
+          "team": "AUT",
+          "assist": "K. Laimer"
+        },
+        {
+          "player": "R. Mahrez",
+          "minute": 60,
+          "team": "ALG",
+          "assist": "H. Aouar"
+        },
+        {
+          "player": "R. Mahrez",
+          "minute": 90,
+          "team": "ALG",
+          "assist": "H. Aouar"
+        },
+        {
+          "player": "S. Kalajdzic",
+          "minute": 90,
+          "team": "AUT",
+          "assist": "M. Gregoritsch"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Arnautovic",
+          "minute": 11,
+          "team": "AUT",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "M. Arnautovic",
+          "in": "M. Gregoritsch",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "R. Schmid",
+          "in": "P. Wanner",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "D. Alaba",
+          "in": "K. Danso",
+          "minute": 62,
+          "team": "AUT"
+        },
+        {
+          "out": "J. Hadjam",
+          "in": "R. Ait-Nouri",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "A. Gouiri",
+          "in": "Z. Belaid",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "R. Belghali",
+          "in": "S. Chergui",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "H. Aouar",
+          "in": "F. Ghedjemis",
+          "minute": 90,
+          "team": "ALG"
+        },
+        {
+          "out": "P. Mwene",
+          "in": "S. Kalajdzic",
+          "minute": 90,
+          "team": "AUT"
+        }
+      ],
+      "stats": {
+        "yellow": [
+          0,
+          1
+        ],
+        "shotsTotal": [
+          12,
+          9
+        ],
+        "saves": [
+          0,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          94,
+          87
+        ],
+        "fouls": [
+          3,
+          7
+        ],
+        "shotsBlocked": [
+          2,
+          1
+        ],
+        "shotsInside": [
+          6,
+          5
+        ],
+        "corners": [
+          0,
+          3
+        ],
+        "passesTotal": [
+          754,
+          396
+        ],
+        "shotsOutside": [
+          6,
+          4
+        ],
+        "possession": [
+          65,
+          35
+        ],
+        "offsides": [
+          1,
+          3
+        ],
+        "shotsOn": [
+          5,
+          2
+        ],
+        "passesAccurate": [
+          705,
+          344
+        ],
+        "shotsOff": [
+          5,
+          6
+        ],
+        "home": "ALG",
+        "away": "AUT"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Vladimir Petkovic",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Oussama Benbot",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Rafik Belghali",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Aïssa Mandi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ramy Bensebaini",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Jaouen Hadjam",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nabil Bentaleb",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Riyad Mahrez",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Ibrahim Maza",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Houssem Aouar",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Amine Gouiri",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Philipp Lienhart",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Phillipp Mwene",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Marko Arnautović",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Ilgiz Tantashev, Uzbekistan",
+        "motm": {
+          "player": "Riyad Mahrez",
+          "rating": 9.3,
+          "team": "ALG"
+        }
+      }
+    },
+    {
       "id": 60,
       "home": 1,
       "away": 3,
@@ -22019,6 +22015,12 @@
         "penalties": 1
       },
       {
+        "player": "M. Arnautovic",
+        "team": "AUT",
+        "goals": 2,
+        "penalties": 1
+      },
+      {
         "player": "A. Ueda",
         "team": "JPN",
         "goals": 2,
@@ -22086,12 +22088,6 @@
         "player": "L. Trossard",
         "team": "BEL",
         "goals": 2
-      },
-      {
-        "player": "M. Araujo",
-        "team": "URU",
-        "goals": 2,
-        "assists": 1
       }
     ],
     "assists": [
@@ -22146,6 +22142,11 @@
       {
         "player": "Florian Wirtz",
         "team": "GER",
+        "assists": 2
+      },
+      {
+        "player": "H. Aouar",
+        "team": "ALG",
         "assists": 2
       },
       {
@@ -22247,11 +22248,6 @@
       {
         "player": "A. Seck",
         "team": "SEN",
-        "assists": 1
-      },
-      {
-        "player": "A. Sojka",
-        "team": "CZE",
         "assists": 1
       }
     ],
@@ -22776,6 +22772,20 @@
       "form": "WLD"
     },
     {
+      "code": "AUT",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 6,
+      "ga": 6,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "3-1",
+      "biggestLose": "0-2",
+      "form": "WLD"
+    },
+    {
       "code": "GHA",
       "played": 3,
       "wins": 1,
@@ -22832,6 +22842,20 @@
       "form": "LWD"
     },
     {
+      "code": "ALG",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "loses": 1,
+      "gf": 5,
+      "ga": 7,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "2-1",
+      "biggestLose": "0-3",
+      "form": "LWD"
+    },
+    {
       "code": "SEN",
       "played": 3,
       "wins": 1,
@@ -22874,20 +22898,6 @@
       "form": "DDD"
     },
     {
-      "code": "AUT",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 3,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "3-1",
-      "biggestLose": "0-2",
-      "form": "WL"
-    },
-    {
       "code": "KOR",
       "played": 3,
       "wins": 1,
@@ -22914,20 +22924,6 @@
       "biggestWin": "3-2",
       "biggestLose": "0-2",
       "form": "LLW"
-    },
-    {
-      "code": "ALG",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "loses": 1,
-      "gf": 2,
-      "ga": 4,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "2-1",
-      "biggestLose": "0-3",
-      "form": "LW"
     },
     {
       "code": "SCO",
