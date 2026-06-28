@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:33:13Z",
+  "updated": "2026-06-28T00:34:04Z",
   "live": [
     {
       "id": 65,
@@ -14,19 +14,19 @@
           0
         ],
         "shotsTotal": [
-          10,
-          8
+          13,
+          9
         ],
         "saves": [
           2,
-          2
+          3
         ],
         "red": [
           0,
           0
         ],
         "passesPct": [
-          88,
+          89,
           92
         ],
         "fouls": [
@@ -34,11 +34,11 @@
           4
         ],
         "shotsBlocked": [
-          4,
-          2
+          5,
+          3
         ],
         "shotsInside": [
-          7,
+          8,
           3
         ],
         "corners": [
@@ -46,31 +46,31 @@
           0
         ],
         "passesTotal": [
-          241,
-          199
+          263,
+          208
         ],
         "shotsOutside": [
-          3,
-          5
+          5,
+          6
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "offsides": [
           2,
           1
         ],
         "shotsOn": [
-          2,
+          3,
           2
         ],
         "passesAccurate": [
-          212,
-          184
+          234,
+          191
         ],
         "shotsOff": [
-          4,
+          5,
           4
         ],
         "home": "COL",
@@ -251,7 +251,7 @@
         ],
         "shotsTotal": [
           4,
-          1
+          2
         ],
         "saves": [
           1,
@@ -262,7 +262,7 @@
           0
         ],
         "passesPct": [
-          83,
+          84,
           74
         ],
         "fouls": [
@@ -282,16 +282,16 @@
           3
         ],
         "passesTotal": [
-          233,
-          137
+          253,
+          138
         ],
         "shotsOutside": [
           2,
-          0
+          1
         ],
         "possession": [
-          62,
-          38
+          64,
+          36
         ],
         "offsides": [
           2,
@@ -302,12 +302,12 @@
           1
         ],
         "passesAccurate": [
-          194,
+          212,
           102
         ],
         "shotsOff": [
           3,
-          0
+          1
         ],
         "home": "COD",
         "away": "UZB"
