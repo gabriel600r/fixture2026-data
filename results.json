@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:26:05Z",
+  "updated": "2026-06-28T01:26:55Z",
   "live": [
     {
       "id": 65,
@@ -77,7 +77,7 @@
           "team": "POR"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "yellow": [
           1,
@@ -409,7 +409,7 @@
           "team": "COD"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "yellow": [
           3,
@@ -610,9 +610,9 @@
         },
         "referee": "Felix Zwayer, Germany",
         "motm": {
-          "player": "Eldor Shomurodov",
-          "rating": 7.2,
-          "team": "UZB"
+          "player": "Yoane Wissa",
+          "rating": 7.7,
+          "team": "COD"
         }
       }
     }
