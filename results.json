@@ -203,6 +203,22 @@
       "title_en": "🎯 How the Prode scores in the knockouts",
       "body_es": "¡Arrancaron los dieciseisavos! 🏆 Ojo que en la fase final el Prode vale MÁS:\n\n✅ 5 puntos si acertás el marcador EXACTO.\n🤝 2 puntos si acertás quién pasa (el resultado).\n❌ 0 si no.\n\n(En la fase de grupos era 3 / 1 / 0.)\n\n⚽ Los PENALES no cuentan para el Prode: se puntúa el resultado de los 90'/120'. Si un partido termina empatado y se define por penales, vale el empate que vos pusiste.\n\n¡Cargá tus pronósticos de dieciseisavos y a sumar! 🙌",
       "body_en": "The Round of 32 is here! 🏆 Heads up — in the knockouts the Prode is worth MORE:\n\n✅ 5 points for the EXACT score.\n🤝 2 points for getting who advances (the result).\n❌ 0 otherwise.\n\n(In the group stage it was 3 / 1 / 0.)\n\n⚽ PENALTIES don't count for the Prode: scoring is on the 90'/120' result. If a match ends level and goes to penalties, your predicted draw still counts.\n\nLoad your Round of 32 picks and rack up points! 🙌"
+    },
+    {
+      "date": "28/06/2026",
+      "id": 17,
+      "title_es": "🎁 Tu Recuerdo del Mundial",
+      "title_en": "🎁 Your World Cup Keepsake",
+      "body_es": "¡Nuevo! Ya podés descargar tu \"Recuerdo del Mundial\" 📄\n\nEs un PDF con todo: los resultados de todos los partidos, las tablas de cada grupo, las llaves de la fase final y —si jugaste al Prode— TODAS tus predicciones, partido por partido, con tu puntaje.\n\nTu foto de recuerdo de este Mundial, lista para guardar o mandarle a tus amigos. 💚\n\n💡 La idea fue de Fede M., un usuario. ¡Gracias, Fede! 🙌\n\n📲 Lo encontrás en el menú lateral ➜ \"Descargar recuerdo del Mundial\". (Necesitás la última versión de la app.)\n\n¡Gracias por vivir el Mundial conmigo! ⚽",
+      "body_en": "New! You can now download your \"World Cup Keepsake\" 📄\n\nIt's a PDF with everything: every match result, each group's table, the knockout bracket and —if you played the Prode— ALL your predictions, match by match, with your score.\n\nYour snapshot of this World Cup, ready to keep or send to your friends. 💚\n\n💡 The idea came from Fede M., one of you. Thanks, Fede! 🙌\n\n📲 Find it in the side menu ➜ \"Download World Cup keepsake\". (You'll need the latest app version.)\n\nThanks for living the World Cup with me! ⚽"
+    },
+    {
+      "date": "28/06/2026",
+      "id": 18,
+      "title_es": "🧭 Llaves y Fechas, más cómodas",
+      "title_en": "🧭 Easier Knockout & Fixtures",
+      "body_es": "¡Mejoré la navegación para que encuentres todo más rápido! 🙌\n\n🏆 En Llaves: cada ronda ahora se pliega y despliega, y arriba tenés accesos rápidos (16avos, octavos, cuartos…) para saltar directo a la fase que quieras, sin scrollear hasta abajo.\n\n📅 En Fechas: cada día se pliega/despliega, los días ya jugados arrancan cerrados, y un botón \"Hoy\" te lleva al día de hoy al instante.\n\nActualizá a la última versión para tenerlo. ¡Gracias por bancarla! ⚽",
+      "body_en": "I made navigation easier so you find everything faster! 🙌\n\n🏆 In Knockout (Llaves): each round now collapses/expands, and quick chips up top (R32, R16, QF…) jump you straight to any stage without scrolling to the bottom.\n\n📅 In Fixtures (Fechas): each day collapses/expands, finished days start closed, and a \"Today\" button takes you to today instantly.\n\nUpdate to the latest version to get it. Thanks for the support! ⚽"
     }
   ],
   "results": [
@@ -23402,6 +23418,7 @@
     }
   ],
   "flags": {
-    "prode_merge_sync": true
+    "prode_merge_sync": true,
+    "souvenir_pdf": true
   }
 }
