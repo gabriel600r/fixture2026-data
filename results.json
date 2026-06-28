@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:55:06Z",
+  "updated": "2026-06-28T00:55:55Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 0,
       "subs": [
@@ -242,7 +242,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 1,
       "goals": [
@@ -276,6 +276,12 @@
           "player": "S. Nasrullaev",
           "minute": 48,
           "team": "UZB",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Moutoussamy",
+          "minute": 62,
+          "team": "COD",
           "color": "yellow"
         }
       ],
