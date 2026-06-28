@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T00:40:31Z",
+  "updated": "2026-06-28T00:41:19Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 0,
       "subs": [
@@ -39,11 +39,11 @@
           0
         ],
         "passesPct": [
-          89,
+          88,
           92
         ],
         "fouls": [
-          3,
+          4,
           4
         ],
         "shotsBlocked": [
@@ -59,16 +59,16 @@
           0
         ],
         "passesTotal": [
-          264,
-          222
+          280,
+          226
         ],
         "shotsOutside": [
           5,
           6
         ],
         "possession": [
-          53,
-          47
+          54,
+          46
         ],
         "offsides": [
           2,
@@ -79,8 +79,8 @@
           2
         ],
         "passesAccurate": [
-          234,
-          205
+          247,
+          209
         ],
         "shotsOff": [
           5,
@@ -230,7 +230,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 1,
       "goals": [
@@ -258,6 +258,12 @@
           "player": "N. Mbuku",
           "minute": 45,
           "team": "COD",
+          "color": "yellow"
+        },
+        {
+          "player": "S. Nasrullaev",
+          "minute": 48,
+          "team": "UZB",
           "color": "yellow"
         }
       ],
@@ -299,7 +305,7 @@
           3
         ],
         "passesTotal": [
-          253,
+          263,
           138
         ],
         "shotsOutside": [
@@ -319,7 +325,7 @@
           1
         ],
         "passesAccurate": [
-          212,
+          220,
           102
         ],
         "shotsOff": [
