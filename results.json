@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:48:03Z",
+  "updated": "2026-06-28T03:48:51Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 2,
       "away": 2,
       "goals": [
@@ -285,7 +285,7 @@
         "referee": "Ilgiz Tantashev, Uzbekistan",
         "motm": {
           "player": "Riyad Mahrez",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "ALG"
         }
       }
@@ -293,7 +293,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 1,
       "away": 3,
       "goals": [
