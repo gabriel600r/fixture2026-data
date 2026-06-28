@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-28T03:16:36Z",
+  "updated": "2026-06-28T03:17:24Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "M. Arnautovic",
@@ -257,8 +257,8 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 55,
-      "home": 0,
+      "minute": 56,
+      "home": 1,
       "away": 2,
       "goals": [
         {
@@ -271,6 +271,11 @@
           "minute": 31,
           "team": "ARG",
           "pen": true
+        },
+        {
+          "player": "M. Tamari",
+          "minute": 55,
+          "team": "JOR"
         }
       ],
       "cardEvents": [
