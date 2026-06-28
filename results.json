@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-28T02:44:58Z",
+  "updated": "2026-06-28T02:45:46Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 44,
-      "home": 0,
+      "minute": 45,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 28,
           "team": "AUT",
           "assist": "D. Alaba"
+        },
+        {
+          "player": "R. Belghali",
+          "minute": 45,
+          "team": "ALG"
         }
       ],
       "cardEvents": [
@@ -29,12 +34,12 @@
           1
         ],
         "shotsTotal": [
-          4,
-          3
+          6,
+          4
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "red": [
           0,
@@ -42,18 +47,18 @@
         ],
         "passesPct": [
           89,
-          85
+          84
         ],
         "fouls": [
           1,
-          2
+          3
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
-          2,
+          3,
           2
         ],
         "corners": [
@@ -61,32 +66,32 @@
           1
         ],
         "passesTotal": [
-          225,
-          194
+          260,
+          196
         ],
         "shotsOutside": [
-          2,
-          1
+          3,
+          2
         ],
         "possession": [
-          54,
-          46
+          57,
+          43
         ],
         "offsides": [
           0,
           3
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "passesAccurate": [
-          200,
-          164
+          232,
+          165
         ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "home": "ALG",
         "away": "AUT"
@@ -227,7 +232,7 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 0,
       "away": 2,
       "goals": [
@@ -269,12 +274,12 @@
           0
         ],
         "passesPct": [
-          77,
-          92
+          76,
+          91
         ],
         "fouls": [
           3,
-          4
+          5
         ],
         "shotsBlocked": [
           2,
@@ -289,16 +294,16 @@
           2
         ],
         "passesTotal": [
-          104,
-          336
+          114,
+          340
         ],
         "shotsOutside": [
           2,
           1
         ],
         "possession": [
-          24,
-          76
+          26,
+          74
         ],
         "offsides": [
           0,
@@ -309,8 +314,8 @@
           2
         ],
         "passesAccurate": [
-          80,
-          308
+          87,
+          309
         ],
         "shotsOff": [
           1,
