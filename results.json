@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:52:05Z",
+  "updated": "2026-06-28T03:52:54Z",
   "live": [
     {
       "id": 59,
@@ -84,6 +84,7 @@
           "team": "ALG"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           0,
@@ -396,6 +397,7 @@
           "team": "JOR"
         }
       ],
+      "extra": 1,
       "stats": {
         "yellow": [
           2,
@@ -403,7 +405,7 @@
         ],
         "shotsTotal": [
           5,
-          10
+          11
         ],
         "saves": [
           1,
@@ -418,24 +420,24 @@
           92
         ],
         "fouls": [
-          10,
+          11,
           7
         ],
         "shotsBlocked": [
           2,
-          0
+          1
         ],
         "shotsInside": [
           2,
-          4
+          5
         ],
         "corners": [
           1,
-          3
+          6
         ],
         "passesTotal": [
           266,
-          764
+          772
         ],
         "shotsOutside": [
           3,
@@ -455,7 +457,7 @@
         ],
         "passesAccurate": [
           213,
-          703
+          711
         ],
         "shotsOff": [
           2,
