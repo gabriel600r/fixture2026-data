@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:18:36Z",
+  "updated": "2026-06-28T01:19:26Z",
   "live": [
     {
       "id": 65,
@@ -7,6 +7,14 @@
       "minute": 87,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "G. Puerta",
+          "minute": 86,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "R. Neves",
@@ -266,7 +274,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 2,
       "away": 1,
       "goals": [
