@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:31:09Z",
+  "updated": "2026-06-28T03:31:57Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 2,
       "away": 2,
       "goals": [
@@ -73,7 +73,7 @@
         ],
         "shotsTotal": [
           11,
-          7
+          8
         ],
         "saves": [
           0,
@@ -84,7 +84,7 @@
           0
         ],
         "passesPct": [
-          90,
+          91,
           87
         ],
         "fouls": [
@@ -97,23 +97,23 @@
         ],
         "shotsInside": [
           5,
-          3
+          4
         ],
         "corners": [
           0,
-          2
+          3
         ],
         "passesTotal": [
-          452,
-          321
+          453,
+          330
         ],
         "shotsOutside": [
           6,
           4
         ],
         "possession": [
-          58,
-          42
+          57,
+          43
         ],
         "offsides": [
           0,
@@ -124,12 +124,12 @@
           2
         ],
         "passesAccurate": [
-          409,
-          279
+          410,
+          287
         ],
         "shotsOff": [
           5,
-          4
+          5
         ],
         "home": "ALG",
         "away": "AUT"
@@ -275,7 +275,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 2,
       "goals": [
@@ -361,11 +361,11 @@
           0
         ],
         "passesPct": [
-          80,
+          79,
           91
         ],
         "fouls": [
-          7,
+          8,
           6
         ],
         "shotsBlocked": [
@@ -381,16 +381,16 @@
           3
         ],
         "passesTotal": [
-          215,
-          575
+          218,
+          602
         ],
         "shotsOutside": [
           3,
           4
         ],
         "possession": [
-          28,
-          72
+          27,
+          73
         ],
         "offsides": [
           1,
@@ -401,8 +401,8 @@
           3
         ],
         "passesAccurate": [
-          171,
-          523
+          172,
+          548
         ],
         "shotsOff": [
           2,
