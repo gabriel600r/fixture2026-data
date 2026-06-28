@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:24:23Z",
+  "updated": "2026-06-28T01:25:13Z",
   "live": [
     {
       "id": 65,
@@ -71,7 +71,7 @@
           "team": "COL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "yellow": [
           1,
@@ -282,7 +282,7 @@
       "id": 66,
       "status": "2H",
       "minute": 90,
-      "home": 2,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -301,6 +301,12 @@
           "player": "F. Mayele",
           "minute": 78,
           "team": "COD"
+        },
+        {
+          "player": "Y. Wissa",
+          "minute": 90,
+          "team": "COD",
+          "assist": "M. Elia"
         }
       ],
       "cardEvents": [
