@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:30:34Z",
+  "updated": "2026-06-28T02:31:22Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 1,
       "goals": [
@@ -227,9 +227,9 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "G. Lo Celso",
