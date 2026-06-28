@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:15:47Z",
+  "updated": "2026-06-28T03:16:36Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 1,
       "goals": [
@@ -54,7 +54,7 @@
           1
         ],
         "shotsTotal": [
-          7,
+          8,
           5
         ],
         "saves": [
@@ -86,16 +86,16 @@
           2
         ],
         "passesTotal": [
-          323,
-          225
+          354,
+          250
         ],
         "shotsOutside": [
-          3,
+          4,
           2
         ],
         "possession": [
-          59,
-          41
+          58,
+          42
         ],
         "offsides": [
           0,
@@ -106,11 +106,11 @@
           1
         ],
         "passesAccurate": [
-          292,
-          190
+          319,
+          211
         ],
         "shotsOff": [
-          4,
+          5,
           3
         ],
         "home": "ALG",
@@ -257,7 +257,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 2,
       "goals": [
@@ -301,7 +301,7 @@
           0
         ],
         "shotsTotal": [
-          3,
+          4,
           5
         ],
         "saves": [
@@ -333,16 +333,16 @@
           2
         ],
         "passesTotal": [
-          165,
-          440
+          180,
+          449
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "possession": [
-          28,
-          72
+          29,
+          71
         ],
         "offsides": [
           1,
@@ -353,11 +353,11 @@
           3
         ],
         "passesAccurate": [
-          130,
-          398
+          143,
+          404
         ],
         "shotsOff": [
-          1,
+          2,
           2
         ],
         "home": "JOR",
