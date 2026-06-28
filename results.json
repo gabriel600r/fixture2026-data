@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:04:12Z",
+  "updated": "2026-06-28T01:05:05Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 0,
       "subs": [
@@ -64,7 +64,7 @@
         ],
         "passesPct": [
           89,
-          93
+          92
         ],
         "fouls": [
           6,
@@ -84,7 +84,7 @@
         ],
         "passesTotal": [
           420,
-          336
+          338
         ],
         "shotsOutside": [
           8,
@@ -246,7 +246,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "James Rodríguez",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "COL"
         }
       }
@@ -254,7 +254,7 @@
     {
       "id": 66,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 1,
       "goals": [
@@ -329,7 +329,7 @@
           2
         ],
         "shotsTotal": [
-          10,
+          11,
           3
         ],
         "saves": [
@@ -346,14 +346,14 @@
         ],
         "fouls": [
           6,
-          13
+          14
         ],
         "shotsBlocked": [
           1,
           0
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "corners": [
@@ -361,28 +361,28 @@
           3
         ],
         "passesTotal": [
-          381,
-          206
+          386,
+          214
         ],
         "shotsOutside": [
           4,
           1
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "offsides": [
           3,
           1
         ],
         "shotsOn": [
-          1,
+          2,
           1
         ],
         "passesAccurate": [
-          317,
-          155
+          319,
+          160
         ],
         "shotsOff": [
           8,
@@ -524,7 +524,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Eldor Shomurodov",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "UZB"
         }
       }
