@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T02:18:26Z",
+  "updated": "2026-06-28T02:19:13Z",
   "live": [
     {
       "id": 59,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -219,9 +219,16 @@
     {
       "id": 60,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 19,
+          "team": "ARG"
+        }
+      ],
       "cardEvents": [
         {
           "player": "M. Abu Taha",
