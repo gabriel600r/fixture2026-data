@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T03:31:57Z",
+  "updated": "2026-06-28T03:32:45Z",
   "live": [
     {
       "id": 59,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 2,
       "goals": [
@@ -275,7 +275,7 @@
     {
       "id": 60,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 2,
       "goals": [
@@ -340,6 +340,12 @@
           "out": "N. Paz",
           "in": "A. Mac Allister",
           "minute": 61,
+          "team": "ARG"
+        },
+        {
+          "out": "G. Simeone",
+          "in": "V. Barco",
+          "minute": 71,
           "team": "ARG"
         }
       ],
