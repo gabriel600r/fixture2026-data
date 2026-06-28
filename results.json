@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:00:47Z",
+  "updated": "2026-06-28T01:00:54Z",
   "live": [
     {
       "id": 65,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 0,
       "away": 0,
       "subs": [
@@ -233,8 +233,8 @@
         },
         "referee": "Alireza Faghani, Australia",
         "motm": {
-          "player": "Santiago Arias",
-          "rating": 7.5,
+          "player": "James Rodríguez",
+          "rating": 7.6,
           "team": "COL"
         }
       }
@@ -506,7 +506,7 @@
         "referee": "Felix Zwayer, Germany",
         "motm": {
           "player": "Eldor Shomurodov",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "UZB"
         }
       }
