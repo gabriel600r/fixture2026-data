@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:53:37Z",
+  "updated": "2026-06-28T20:54:24Z",
   "live": [
     {
       "id": 73,
@@ -78,11 +78,11 @@
           "team": "RSA"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsTotal": [
           6,
-          11
+          12
         ],
         "shotsBlocked": [
           1,
@@ -102,11 +102,11 @@
         ],
         "shotsOn": [
           1,
-          6
+          7
         ],
         "passesTotal": [
-          517,
-          356
+          530,
+          369
         ],
         "passesPct": [
           85,
@@ -114,7 +114,7 @@
         ],
         "shotsOutside": [
           5,
-          2
+          3
         ],
         "shotsOff": [
           4,
@@ -125,8 +125,8 @@
           4
         ],
         "passesAccurate": [
-          441,
-          281
+          452,
+          292
         ],
         "yellow": [
           0,
@@ -279,9 +279,9 @@
         },
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
-          "player": "Ronwen Williams",
-          "rating": 8.5,
-          "team": "RSA"
+          "player": "Stephen Eustaquio",
+          "rating": 8.6,
+          "team": "CAN"
         }
       }
     }
