@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T03:17:24Z",
+  "updated": "2026-06-28T03:18:12Z",
   "live": [
     {
       "id": 59,
@@ -18,6 +18,12 @@
           "player": "R. Belghali",
           "minute": 45,
           "team": "ALG"
+        },
+        {
+          "player": "M. Sabitzer",
+          "minute": 55,
+          "team": "AUT",
+          "assist": "K. Laimer"
         }
       ],
       "cardEvents": [
@@ -275,7 +281,8 @@
         {
           "player": "M. Tamari",
           "minute": 55,
-          "team": "JOR"
+          "team": "JOR",
+          "assist": "E. Haddad"
         }
       ],
       "cardEvents": [
