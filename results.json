@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-29T21:12:17Z",
+  "updated": "2026-06-29T21:13:04Z",
   "live": [
     {
       "id": 74,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "J. Enciso",
           "minute": 42,
           "team": "PAR"
         }
