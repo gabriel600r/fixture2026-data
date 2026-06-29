@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:52:51Z",
+  "updated": "2026-06-29T18:53:39Z",
   "live": [
     {
       "id": 76,
@@ -88,16 +88,22 @@
           "in": "S. Machino",
           "minute": 78,
           "team": "JPN"
+        },
+        {
+          "out": "Casemiro",
+          "in": "Fabinho",
+          "minute": 90,
+          "team": "BRA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesPct": [
           92,
           84
         ],
         "shotsInside": [
-          10,
+          11,
           2
         ],
         "saves": [
@@ -117,11 +123,11 @@
           3
         ],
         "passesAccurate": [
-          585,
-          247
+          601,
+          251
         ],
         "shotsTotal": [
-          16,
+          18,
           5
         ],
         "red": [
@@ -129,7 +135,7 @@
           0
         ],
         "shotsBlocked": [
-          5,
+          7,
           2
         ],
         "offsides": [
@@ -137,15 +143,15 @@
           0
         ],
         "passesTotal": [
-          635,
-          293
+          651,
+          298
         ],
         "corners": [
-          4,
+          5,
           2
         ],
         "shotsOutside": [
-          6,
+          7,
           3
         ],
         "shotsOff": [
@@ -154,7 +160,7 @@
         ],
         "fouls": [
           4,
-          9
+          11
         ],
         "home": "BRA",
         "away": "JPN"
@@ -292,7 +298,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Casemiro",
-          "rating": 8.0,
+          "rating": 8.2,
           "team": "BRA"
         }
       }
