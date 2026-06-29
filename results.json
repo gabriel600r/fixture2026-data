@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:48:38Z",
+  "updated": "2026-06-29T21:49:25Z",
   "live": [
     {
       "id": 74,
@@ -27,6 +27,12 @@
           "in": "L. Goretzka",
           "minute": 46,
           "team": "GER"
+        },
+        {
+          "out": "G. Avalos",
+          "in": "G. Caballero",
+          "minute": 56,
+          "team": "PAR"
         }
       ],
       "stats": {
