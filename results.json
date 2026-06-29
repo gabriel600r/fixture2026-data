@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T17:16:08Z",
+  "updated": "2026-06-29T17:16:56Z",
   "live": [
     {
       "id": 76,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,19 +23,19 @@
       ],
       "stats": {
         "passesPct": [
-          91,
-          83
+          92,
+          85
         ],
         "shotsInside": [
-          2,
+          3,
           0
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "possession": [
@@ -43,15 +43,15 @@
           29
         ],
         "yellow": [
-          0,
-          0
+          1,
+          1
         ],
         "passesAccurate": [
-          90,
-          33
+          111,
+          41
         ],
         "shotsTotal": [
-          2,
+          4,
           0
         ],
         "red": [
@@ -67,23 +67,23 @@
           0
         ],
         "passesTotal": [
-          99,
-          40
+          121,
+          48
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "fouls": [
-          0,
+          1,
           3
         ],
         "home": "BRA",
