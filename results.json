@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:29:39Z",
+  "updated": "2026-06-29T23:30:01Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -75,6 +75,10 @@
     },
     "91": {
       "home": "BRA",
+      "away": "TBD"
+    },
+    "89": {
+      "home": "PAR",
       "away": "TBD"
     }
   },
