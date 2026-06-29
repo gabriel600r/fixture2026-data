@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-29T20:45:23Z",
+  "updated": "2026-06-29T20:46:10Z",
   "live": [
     {
       "id": 74,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
         "passesPct": [
-          86,
-          64
+          88,
+          61
         ],
         "shotsInside": [
           1,
@@ -25,15 +25,15 @@
           1
         ],
         "possession": [
-          77,
-          23
+          79,
+          21
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          68,
+          83,
           14
         ],
         "shotsTotal": [
@@ -53,11 +53,11 @@
           0
         ],
         "passesTotal": [
-          79,
-          22
+          94,
+          23
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "shotsOutside": [
@@ -69,7 +69,7 @@
           0
         ],
         "fouls": [
-          2,
+          3,
           1
         ],
         "home": "GER",
