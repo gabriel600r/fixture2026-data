@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:12:16Z",
+  "updated": "2026-06-29T23:13:03Z",
   "live": [
     {
       "id": 74,
@@ -125,9 +125,15 @@
           "in": "Malick Thiaw",
           "minute": 110,
           "team": "GER"
+        },
+        {
+          "out": "Junior Alonso",
+          "in": "Fabián Balbuena",
+          "minute": 122,
+          "team": "PAR"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "saves": [
           2,
