@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:14:38Z",
+  "updated": "2026-06-29T23:15:26Z",
   "live": [
     {
       "id": 74,
@@ -151,8 +151,8 @@
           3
         ],
         "possession": [
-          76,
-          24
+          75,
+          25
         ],
         "yellow": [
           2,
@@ -160,7 +160,7 @@
         ],
         "passesAccurate": [
           719,
-          160
+          161
         ],
         "shotsTotal": [
           21,
@@ -179,8 +179,8 @@
           1
         ],
         "passesTotal": [
-          798,
-          255
+          799,
+          257
         ],
         "corners": [
           16,
@@ -333,9 +333,9 @@
         },
         "referee": "Jalal Jayed, Morocco",
         "motm": {
-          "player": "J. Enciso",
-          "rating": 7.99,
-          "team": "PAR"
+          "player": "Kai Havertz",
+          "rating": 8.0,
+          "team": "GER"
         }
       },
       "pen": {
