@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-29T22:48:35Z",
+  "updated": "2026-06-29T22:49:22Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 106,
-      "home": 2,
+      "minute": 107,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -97,7 +97,7 @@
           61
         ],
         "shotsInside": [
-          10,
+          9,
           6
         ],
         "saves": [
@@ -105,7 +105,7 @@
           3
         ],
         "shotsOn": [
-          4,
+          3,
           3
         ],
         "possession": [
@@ -121,7 +121,7 @@
           129
         ],
         "shotsTotal": [
-          18,
+          17,
           7
         ],
         "red": [
@@ -291,8 +291,8 @@
         },
         "referee": "Jalal Jayed, Morocco",
         "motm": {
-          "player": "Jonathan Tah",
-          "rating": 8.0,
+          "player": "Kai Havertz",
+          "rating": 7.6,
           "team": "GER"
         }
       }
