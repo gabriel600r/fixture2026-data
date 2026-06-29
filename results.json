@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:17:47Z",
+  "updated": "2026-06-29T21:18:34Z",
   "live": [
     {
       "id": 74,
@@ -15,11 +15,11 @@
           "assist": "M. Galarza"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesPct": [
           90,
-          62
+          61
         ],
         "shotsInside": [
           1,
@@ -27,22 +27,22 @@
         ],
         "saves": [
           1,
-          0
+          1
         ],
         "shotsOn": [
           0,
           2
         ],
         "possession": [
-          78,
-          22
+          79,
+          21
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          290,
+          297,
           54
         ],
         "shotsTotal": [
@@ -58,15 +58,15 @@
           1
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "passesTotal": [
-          322,
-          87
+          331,
+          89
         ],
         "corners": [
-          3,
+          5,
           2
         ],
         "shotsOutside": [
