@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:25:45Z",
+  "updated": "2026-06-29T22:26:32Z",
   "live": [
     {
       "id": 74,
@@ -67,15 +67,15 @@
           "team": "GER"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "saves": [
-          3,
+          2,
           3
         ],
         "shotsOn": [
           3,
-          4
+          3
         ],
         "possession": [
           75,
@@ -87,7 +87,7 @@
         ],
         "shotsTotal": [
           14,
-          6
+          7
         ],
         "red": [
           0,
@@ -95,7 +95,7 @@
         ],
         "shotsBlocked": [
           6,
-          1
+          2
         ],
         "offsides": [
           4,
@@ -103,11 +103,11 @@
         ],
         "corners": [
           10,
-          3
+          4
         ],
         "shotsOff": [
           5,
-          1
+          2
         ],
         "fouls": [
           13,
