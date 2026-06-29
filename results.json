@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T17:20:55Z",
+  "updated": "2026-06-29T17:21:42Z",
   "live": [
     {
       "id": 76,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -24,7 +24,7 @@
       "stats": {
         "passesPct": [
           92,
-          85
+          86
         ],
         "shotsInside": [
           3,
@@ -32,27 +32,27 @@
         ],
         "saves": [
           0,
-          1
+          0
         ],
         "shotsOn": [
-          1,
+          0,
           0
         ],
         "possession": [
-          71,
-          29
+          70,
+          30
         ],
         "yellow": [
           1,
           1
         ],
         "passesAccurate": [
-          111,
-          41
+          133,
+          51
         ],
         "shotsTotal": [
           4,
-          0
+          1
         ],
         "red": [
           0,
@@ -60,31 +60,31 @@
         ],
         "shotsBlocked": [
           2,
-          0
+          1
         ],
         "offsides": [
           0,
           0
         ],
         "passesTotal": [
-          121,
-          48
+          144,
+          59
         ],
         "corners": [
           2,
-          0
+          1
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "fouls": [
           1,
-          3
+          4
         ],
         "home": "BRA",
         "away": "JPN"
