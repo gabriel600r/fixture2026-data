@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-29T17:28:50Z",
+  "updated": "2026-06-29T17:29:37Z",
   "live": [
     {
       "id": 76,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "cardEvents": [
         {
           "player": "K. Sano",
