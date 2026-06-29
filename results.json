@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:20:24Z",
+  "updated": "2026-06-29T18:21:12Z",
   "live": [
     {
       "id": 76,
@@ -57,7 +57,7 @@
       "stats": {
         "passesPct": [
           92,
-          85
+          84
         ],
         "shotsInside": [
           8,
@@ -80,11 +80,11 @@
           2
         ],
         "passesAccurate": [
-          388,
-          181
+          390,
+          185
         ],
         "shotsTotal": [
-          12,
+          13,
           4
         ],
         "red": [
@@ -100,19 +100,19 @@
           0
         ],
         "passesTotal": [
-          420,
-          213
+          424,
+          219
         ],
         "corners": [
           2,
           2
         ],
         "shotsOutside": [
-          4,
+          5,
           3
         ],
         "shotsOff": [
-          3,
+          4,
           1
         ],
         "fouls": [
@@ -254,9 +254,9 @@
         },
         "referee": "Maurizio Mariani, Italy",
         "motm": {
-          "player": "Kaishu Sano",
-          "rating": 7.7,
-          "team": "JPN"
+          "player": "Casemiro",
+          "rating": 8.2,
+          "team": "BRA"
         }
       }
     }
