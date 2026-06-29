@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-29T21:11:30Z",
+  "updated": "2026-06-29T21:12:17Z",
   "live": [
     {
       "id": 74,
       "status": "1H",
       "minute": 42,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 42,
+          "team": "PAR"
+        }
+      ],
       "stats": {
         "passesPct": [
           90,
@@ -25,16 +32,16 @@
           1
         ],
         "possession": [
-          80,
-          20
+          79,
+          21
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          261,
-          46
+          265,
+          47
         ],
         "shotsTotal": [
           3,
@@ -53,11 +60,11 @@
           0
         ],
         "passesTotal": [
-          289,
-          74
+          294,
+          76
         ],
         "corners": [
-          2,
+          3,
           1
         ],
         "shotsOutside": [
@@ -69,7 +76,7 @@
           0
         ],
         "fouls": [
-          8,
+          9,
           2
         ],
         "home": "GER",
