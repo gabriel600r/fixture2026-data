@@ -1,17 +1,23 @@
 {
-  "updated": "2026-06-29T18:17:14Z",
+  "updated": "2026-06-29T18:18:02Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
       "minute": 56,
-      "home": 0,
+      "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "K. Sano",
           "minute": 29,
           "team": "JPN"
+        },
+        {
+          "player": "Casemiro",
+          "minute": 56,
+          "team": "BRA",
+          "assist": "Gabriel"
         }
       ],
       "cardEvents": [
