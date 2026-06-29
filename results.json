@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T21:55:44Z",
+  "updated": "2026-06-29T21:56:32Z",
   "live": [
     {
       "id": 74,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 1,
       "away": 1,
       "goals": [
@@ -39,6 +39,12 @@
           "in": "Mauricio",
           "minute": 57,
           "team": "PAR"
+        },
+        {
+          "out": "D. Undav",
+          "in": "J. Musiala",
+          "minute": 63,
+          "team": "GER"
         }
       ],
       "stats": {
@@ -67,7 +73,7 @@
           0
         ],
         "passesAccurate": [
-          403,
+          411,
           79
         ],
         "shotsTotal": [
@@ -87,8 +93,8 @@
           0
         ],
         "passesTotal": [
-          454,
-          131
+          462,
+          132
         ],
         "corners": [
           6,
@@ -103,8 +109,8 @@
           0
         ],
         "fouls": [
-          9,
-          2
+          10,
+          3
         ],
         "home": "GER",
         "away": "PAR"
