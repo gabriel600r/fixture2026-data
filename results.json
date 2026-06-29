@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:26:32Z",
+  "updated": "2026-06-29T22:27:19Z",
   "live": [
     {
       "id": 74,
@@ -67,7 +67,7 @@
           "team": "GER"
         }
       ],
-      "extra": 3,
+      "extra": 5,
       "stats": {
         "saves": [
           2,
@@ -111,7 +111,7 @@
         ],
         "fouls": [
           13,
-          6
+          7
         ],
         "home": "GER",
         "away": "PAR"
@@ -249,7 +249,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "J. Enciso",
-          "rating": 8.13,
+          "rating": 7.99,
           "team": "PAR"
         }
       }
