@@ -1,349 +1,6 @@
 {
-  "updated": "2026-06-29T23:28:53Z",
-  "live": [
-    {
-      "id": 74,
-      "status": "PEN",
-      "minute": null,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "J. Enciso",
-          "minute": 42,
-          "team": "PAR",
-          "assist": "M. Galarza"
-        },
-        {
-          "player": "K. Havertz",
-          "minute": 54,
-          "team": "GER",
-          "assist": "F. Wirtz"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Cubas",
-          "minute": 65,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "G. Alfaro",
-          "minute": 105,
-          "team": "PAR",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Nagelsmann",
-          "minute": 105,
-          "team": "GER",
-          "color": "yellow"
-        },
-        {
-          "player": "K. Havertz",
-          "minute": 106,
-          "team": "GER",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Musiala",
-          "minute": 115,
-          "team": "GER",
-          "color": "yellow"
-        },
-        {
-          "player": "M. Galarza",
-          "minute": 117,
-          "team": "PAR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "F. Nmecha",
-          "in": "L. Goretzka",
-          "minute": 46,
-          "team": "GER"
-        },
-        {
-          "out": "G. Avalos",
-          "in": "G. Caballero",
-          "minute": 55,
-          "team": "PAR"
-        },
-        {
-          "out": "J. Enciso",
-          "in": "Mauricio",
-          "minute": 57,
-          "team": "PAR"
-        },
-        {
-          "out": "D. Undav",
-          "in": "J. Musiala",
-          "minute": 63,
-          "team": "GER"
-        },
-        {
-          "out": "A. Pavlovic",
-          "in": "W. Anton",
-          "minute": 79,
-          "team": "GER"
-        },
-        {
-          "out": "L. Sane",
-          "in": "N. Woltemade",
-          "minute": 88,
-          "team": "GER"
-        },
-        {
-          "out": "M. Almiron",
-          "in": "G. Velazquez",
-          "minute": 91,
-          "team": "PAR"
-        },
-        {
-          "out": "J. Caceres",
-          "in": "B. Ojeda",
-          "minute": 99,
-          "team": "PAR"
-        },
-        {
-          "out": "D. Bobadilla",
-          "in": "A. Sanabria",
-          "minute": 99,
-          "team": "PAR"
-        },
-        {
-          "out": "F. Wirtz",
-          "in": "N. Amiri",
-          "minute": 110,
-          "team": "GER"
-        },
-        {
-          "out": "A. Rudiger",
-          "in": "M. Thiaw",
-          "minute": 110,
-          "team": "GER"
-        },
-        {
-          "out": "J. Alonso",
-          "in": "Fabian Balbuena",
-          "minute": 120,
-          "team": "PAR"
-        }
-      ],
-      "stats": {
-        "passesPct": [
-          90,
-          63
-        ],
-        "shotsInside": [
-          11,
-          6
-        ],
-        "saves": [
-          2,
-          6
-        ],
-        "shotsOn": [
-          6,
-          3
-        ],
-        "possession": [
-          75,
-          25
-        ],
-        "yellow": [
-          2,
-          2
-        ],
-        "passesAccurate": [
-          719,
-          161
-        ],
-        "shotsTotal": [
-          21,
-          7
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsBlocked": [
-          8,
-          2
-        ],
-        "offsides": [
-          4,
-          1
-        ],
-        "passesTotal": [
-          799,
-          257
-        ],
-        "corners": [
-          16,
-          6
-        ],
-        "shotsOutside": [
-          10,
-          1
-        ],
-        "shotsOff": [
-          7,
-          2
-        ],
-        "fouls": [
-          18,
-          12
-        ],
-        "home": "GER",
-        "away": "PAR"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-4-2",
-            "coach": "Julian Nagelsmann",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Manuel Neuer",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Joshua Kimmich",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Jonathan Tah",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Antonio Rüdiger",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Nathaniel Brown",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Leroy Sané",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Felix Nmecha",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Aleksandar Pavlović",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Florian Wirtz",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kai Havertz",
-                "pos": "F"
-              },
-              {
-                "n": 26,
-                "name": "Deniz Undav",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Gustavo Alfaro",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Orlando Gill",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "Juan Cáceres",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Gustavo Gómez",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "José Canale",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Junior Alonso",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Miguel Almirón",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Damián Bobadilla",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Andrés Cubas",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Matías Galarza",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Gabriel Ávalos",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "Julio Enciso",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Jalal Jayed, Morocco",
-        "motm": {
-          "player": "Julio Enciso",
-          "rating": 7.6,
-          "team": "PAR"
-        }
-      },
-      "pen": {
-        "home": 3,
-        "away": 4
-      }
-    }
-  ],
+  "updated": "2026-06-29T23:29:39Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -22571,6 +22228,346 @@
       }
     },
     {
+      "id": 74,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. Enciso",
+          "minute": 42,
+          "team": "PAR",
+          "assist": "M. Galarza"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 54,
+          "team": "GER",
+          "assist": "F. Wirtz"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Cubas",
+          "minute": 65,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Alfaro",
+          "minute": 105,
+          "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Nagelsmann",
+          "minute": 105,
+          "team": "GER",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 106,
+          "team": "GER",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Musiala",
+          "minute": 115,
+          "team": "GER",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Galarza",
+          "minute": 117,
+          "team": "PAR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "F. Nmecha",
+          "in": "L. Goretzka",
+          "minute": 46,
+          "team": "GER"
+        },
+        {
+          "out": "G. Avalos",
+          "in": "G. Caballero",
+          "minute": 55,
+          "team": "PAR"
+        },
+        {
+          "out": "J. Enciso",
+          "in": "Mauricio",
+          "minute": 57,
+          "team": "PAR"
+        },
+        {
+          "out": "D. Undav",
+          "in": "J. Musiala",
+          "minute": 63,
+          "team": "GER"
+        },
+        {
+          "out": "A. Pavlovic",
+          "in": "W. Anton",
+          "minute": 79,
+          "team": "GER"
+        },
+        {
+          "out": "L. Sane",
+          "in": "N. Woltemade",
+          "minute": 88,
+          "team": "GER"
+        },
+        {
+          "out": "M. Almiron",
+          "in": "G. Velazquez",
+          "minute": 91,
+          "team": "PAR"
+        },
+        {
+          "out": "J. Caceres",
+          "in": "B. Ojeda",
+          "minute": 99,
+          "team": "PAR"
+        },
+        {
+          "out": "D. Bobadilla",
+          "in": "A. Sanabria",
+          "minute": 99,
+          "team": "PAR"
+        },
+        {
+          "out": "F. Wirtz",
+          "in": "N. Amiri",
+          "minute": 110,
+          "team": "GER"
+        },
+        {
+          "out": "A. Rudiger",
+          "in": "M. Thiaw",
+          "minute": 110,
+          "team": "GER"
+        },
+        {
+          "out": "J. Alonso",
+          "in": "Fabian Balbuena",
+          "minute": 120,
+          "team": "PAR"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          90,
+          63
+        ],
+        "shotsInside": [
+          11,
+          6
+        ],
+        "saves": [
+          2,
+          6
+        ],
+        "shotsOn": [
+          6,
+          3
+        ],
+        "possession": [
+          75,
+          25
+        ],
+        "yellow": [
+          2,
+          2
+        ],
+        "passesAccurate": [
+          719,
+          161
+        ],
+        "shotsTotal": [
+          21,
+          7
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          8,
+          2
+        ],
+        "offsides": [
+          4,
+          1
+        ],
+        "passesTotal": [
+          799,
+          257
+        ],
+        "corners": [
+          16,
+          6
+        ],
+        "shotsOutside": [
+          10,
+          1
+        ],
+        "shotsOff": [
+          7,
+          2
+        ],
+        "fouls": [
+          18,
+          12
+        ],
+        "home": "GER",
+        "away": "PAR"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Julian Nagelsmann",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Manuel Neuer",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Joshua Kimmich",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Jonathan Tah",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Antonio Rüdiger",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Nathaniel Brown",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Leroy Sané",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Felix Nmecha",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Aleksandar Pavlović",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Florian Wirtz",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kai Havertz",
+                "pos": "F"
+              },
+              {
+                "n": 26,
+                "name": "Deniz Undav",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Gustavo Alfaro",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Orlando Gill",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "Juan Cáceres",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Gustavo Gómez",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "José Canale",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Junior Alonso",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Miguel Almirón",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Damián Bobadilla",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Matías Galarza",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Gabriel Ávalos",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jalal Jayed, Morocco",
+        "motm": {
+          "player": "Julio Enciso",
+          "rating": 7.6,
+          "team": "PAR"
+        }
+      },
+      "pen": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
       "id": 76,
       "home": 2,
       "away": 1,
@@ -22925,6 +22922,12 @@
         "penalties": 1
       },
       {
+        "player": "K. Havertz",
+        "team": "GER",
+        "goals": 3,
+        "penalties": 1
+      },
+      {
         "player": "Y. Wissa",
         "team": "COD",
         "goals": 3,
@@ -22972,12 +22975,6 @@
         "player": "M. Cunha",
         "team": "BRA",
         "goals": 3
-      },
-      {
-        "player": "K. Havertz",
-        "team": "GER",
-        "goals": 2,
-        "penalties": 1
       },
       {
         "player": "M. Arnautovic",
@@ -23068,6 +23065,11 @@
         "goals": 1
       },
       {
+        "player": "Florian Wirtz",
+        "team": "GER",
+        "assists": 3
+      },
+      {
         "player": "Michael Olise",
         "team": "FRA",
         "assists": 3
@@ -23105,11 +23107,6 @@
         "goals": 3
       },
       {
-        "player": "Florian Wirtz",
-        "team": "GER",
-        "assists": 2
-      },
-      {
         "player": "H. Aouar",
         "team": "ALG",
         "assists": 2
@@ -23133,7 +23130,8 @@
       {
         "player": "Julio Enciso",
         "team": "PAR",
-        "assists": 2
+        "assists": 2,
+        "goals": 1
       },
       {
         "player": "Kylian Mbappé",
@@ -23314,6 +23312,12 @@
         "yellow": 2
       },
       {
+        "player": "M. Galarza",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "M. Lasheen",
         "team": "EGY",
         "red": 0,
@@ -23368,6 +23372,12 @@
         "yellow": 1
       },
       {
+        "player": "A. Cubas",
+        "team": "PAR",
+        "red": 0,
+        "yellow": 1
+      },
+      {
         "player": "A. Dedic",
         "team": "BIH",
         "red": 0,
@@ -23382,18 +23392,6 @@
       {
         "player": "A. Hickey",
         "team": "SCO",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Johnston",
-        "team": "CAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Modiba",
-        "team": "RSA",
         "red": 0,
         "yellow": 1
       }
@@ -23469,6 +23467,20 @@
       "biggestWin": "6-0",
       "biggestLose": "1-2",
       "form": "DWLW"
+    },
+    {
+      "code": "GER",
+      "played": 4,
+      "wins": 2,
+      "draws": 1,
+      "loses": 1,
+      "gf": 11,
+      "ga": 5,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "7-1",
+      "biggestLose": "1-2",
+      "form": "WWLD"
     },
     {
       "code": "NED",
@@ -23553,20 +23565,6 @@
       "biggestWin": "3-1",
       "biggestLose": "",
       "form": "WWD"
-    },
-    {
-      "code": "GER",
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "loses": 1,
-      "gf": 10,
-      "ga": 4,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "7-1",
-      "biggestLose": "1-2",
-      "form": "WWL"
     },
     {
       "code": "USA",
@@ -23681,6 +23679,20 @@
       "form": "DWD"
     },
     {
+      "code": "PAR",
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "loses": 1,
+      "gf": 3,
+      "ga": 5,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "1-0",
+      "biggestLose": "1-4",
+      "form": "LWDD"
+    },
+    {
       "code": "COD",
       "played": 3,
       "wins": 1,
@@ -23791,20 +23803,6 @@
       "biggestWin": "1-0",
       "biggestLose": "0-2",
       "form": "LDWL"
-    },
-    {
-      "code": "PAR",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "loses": 1,
-      "gf": 2,
-      "ga": 4,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "1-0",
-      "biggestLose": "1-4",
-      "form": "LWD"
     },
     {
       "code": "ALG",
