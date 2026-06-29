@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:47:00Z",
+  "updated": "2026-06-29T22:47:48Z",
   "live": [
     {
       "id": 74,
@@ -97,7 +97,7 @@
           61
         ],
         "shotsInside": [
-          9,
+          10,
           6
         ],
         "saves": [
@@ -105,7 +105,7 @@
           3
         ],
         "shotsOn": [
-          3,
+          4,
           3
         ],
         "possession": [
@@ -117,11 +117,11 @@
           1
         ],
         "passesAccurate": [
-          655,
-          128
+          660,
+          129
         ],
         "shotsTotal": [
-          17,
+          18,
           7
         ],
         "red": [
@@ -137,11 +137,11 @@
           1
         ],
         "passesTotal": [
-          727,
-          209
+          732,
+          212
         ],
         "corners": [
-          12,
+          13,
           4
         ],
         "shotsOutside": [
@@ -291,8 +291,8 @@
         },
         "referee": "Jalal Jayed, Morocco",
         "motm": {
-          "player": "Kai Havertz",
-          "rating": 7.6,
+          "player": "Jonathan Tah",
+          "rating": 8.0,
           "team": "GER"
         }
       }
