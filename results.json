@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:55:39Z",
+  "updated": "2026-06-29T20:56:27Z",
   "live": [
     {
       "id": 74,
@@ -10,7 +10,7 @@
       "stats": {
         "passesPct": [
           90,
-          55
+          57
         ],
         "shotsInside": [
           1,
@@ -25,16 +25,16 @@
           1
         ],
         "possession": [
-          84,
-          16
+          83,
+          17
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          162,
-          18
+          169,
+          21
         ],
         "shotsTotal": [
           2,
@@ -53,8 +53,8 @@
           0
         ],
         "passesTotal": [
-          181,
-          33
+          188,
+          37
         ],
         "corners": [
           2,
@@ -69,7 +69,7 @@
           0
         ],
         "fouls": [
-          4,
+          5,
           2
         ],
         "home": "GER",
