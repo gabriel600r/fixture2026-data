@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:58:49Z",
+  "updated": "2026-06-29T22:59:36Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 95,
+      "minute": 110,
       "home": 1,
       "away": 1,
       "goals": [
@@ -304,7 +304,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Kai Havertz",
-          "rating": 8.0,
+          "rating": 7.9,
           "team": "GER"
         }
       }
