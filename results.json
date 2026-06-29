@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T21:58:06Z",
+  "updated": "2026-06-29T21:58:54Z",
   "live": [
     {
       "id": 74,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -19,6 +19,14 @@
           "minute": 54,
           "team": "GER",
           "assist": "F. Wirtz"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Cubas",
+          "minute": 65,
+          "team": "PAR",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -50,7 +58,7 @@
       "stats": {
         "passesPct": [
           89,
-          60
+          59
         ],
         "shotsInside": [
           4,
@@ -73,7 +81,7 @@
           0
         ],
         "passesAccurate": [
-          411,
+          420,
           79
         ],
         "shotsTotal": [
@@ -93,8 +101,8 @@
           0
         ],
         "passesTotal": [
-          462,
-          132
+          471,
+          133
         ],
         "corners": [
           6,
