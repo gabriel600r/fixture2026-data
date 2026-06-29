@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:28:19Z",
+  "updated": "2026-06-29T18:29:07Z",
   "live": [
     {
       "id": 76,
@@ -58,6 +58,18 @@
           "in": "G. Martinelli",
           "minute": 66,
           "team": "BRA"
+        },
+        {
+          "out": "R. Doan",
+          "in": "Y. Sugawara",
+          "minute": 66,
+          "team": "JPN"
+        },
+        {
+          "out": "K. Nakamura",
+          "in": "J. Suzuki",
+          "minute": 66,
+          "team": "JPN"
         }
       ],
       "stats": {
