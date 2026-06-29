@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:03:39Z",
+  "updated": "2026-06-29T22:04:27Z",
   "live": [
     {
       "id": 74,
@@ -62,7 +62,7 @@
         ],
         "shotsInside": [
           4,
-          5
+          7
         ],
         "saves": [
           3,
@@ -86,7 +86,7 @@
         ],
         "shotsTotal": [
           9,
-          5
+          7
         ],
         "red": [
           0,
@@ -94,7 +94,7 @@
         ],
         "shotsBlocked": [
           4,
-          1
+          2
         ],
         "offsides": [
           3,
@@ -106,7 +106,7 @@
         ],
         "corners": [
           8,
-          2
+          3
         ],
         "shotsOutside": [
           5,
@@ -114,11 +114,11 @@
         ],
         "shotsOff": [
           4,
-          0
+          1
         ],
         "fouls": [
           12,
-          4
+          5
         ],
         "home": "GER",
         "away": "PAR"
