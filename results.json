@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:36:47Z",
+  "updated": "2026-06-29T21:37:35Z",
   "live": [
     {
       "id": 74,
@@ -92,7 +92,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-4-2",
             "coach": "Julian Nagelsmann",
             "xi": [
               {
@@ -121,6 +121,11 @@
                 "pos": "D"
               },
               {
+                "n": 19,
+                "name": "Leroy Sané",
+                "pos": "M"
+              },
+              {
                 "n": 23,
                 "name": "Felix Nmecha",
                 "pos": "M"
@@ -128,16 +133,6 @@
               {
                 "n": 5,
                 "name": "Aleksandar Pavlović",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Leroy Sané",
-                "pos": "M"
-              },
-              {
-                "n": 26,
-                "name": "Deniz Undav",
                 "pos": "M"
               },
               {
@@ -149,11 +144,16 @@
                 "n": 7,
                 "name": "Kai Havertz",
                 "pos": "F"
+              },
+              {
+                "n": 26,
+                "name": "Deniz Undav",
+                "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "4-1-4-1",
+            "formation": "4-4-2",
             "coach": "Gustavo Alfaro",
             "xi": [
               {
@@ -182,11 +182,6 @@
                 "pos": "D"
               },
               {
-                "n": 14,
-                "name": "Andrés Cubas",
-                "pos": "M"
-              },
-              {
                 "n": 10,
                 "name": "Miguel Almirón",
                 "pos": "M"
@@ -197,18 +192,23 @@
                 "pos": "M"
               },
               {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
                 "n": 23,
                 "name": "Matías Galarza",
                 "pos": "M"
               },
               {
-                "n": 19,
-                "name": "Julio Enciso",
-                "pos": "M"
-              },
-              {
                 "n": 21,
                 "name": "Gabriel Ávalos",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Julio Enciso",
                 "pos": "F"
               }
             ]
