@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:13:51Z",
+  "updated": "2026-06-29T23:14:38Z",
   "live": [
     {
       "id": 74,
@@ -9,51 +9,51 @@
       "away": 1,
       "goals": [
         {
-          "player": "Julio Enciso",
+          "player": "J. Enciso",
           "minute": 42,
           "team": "PAR",
-          "assist": "Matías Galarza"
+          "assist": "M. Galarza"
         },
         {
-          "player": "Kai Havertz",
+          "player": "K. Havertz",
           "minute": 54,
           "team": "GER",
-          "assist": "Florian Wirtz"
+          "assist": "F. Wirtz"
         }
       ],
       "cardEvents": [
         {
-          "player": "Andrés Cubas",
+          "player": "A. Cubas",
           "minute": 65,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "Gustavo Julio Alfaro",
+          "player": "G. Alfaro",
           "minute": 105,
           "team": "PAR",
           "color": "yellow"
         },
         {
-          "player": "Julian Nagelsmann",
+          "player": "J. Nagelsmann",
+          "minute": 105,
+          "team": "GER",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Havertz",
           "minute": 106,
           "team": "GER",
           "color": "yellow"
         },
         {
-          "player": "Kai Havertz",
-          "minute": 106,
-          "team": "GER",
-          "color": "yellow"
-        },
-        {
-          "player": "Jamal Musiala",
+          "player": "J. Musiala",
           "minute": 115,
           "team": "GER",
           "color": "yellow"
         },
         {
-          "player": "Matías Galarza",
+          "player": "M. Galarza",
           "minute": 117,
           "team": "PAR",
           "color": "yellow"
@@ -61,79 +61,87 @@
       ],
       "subs": [
         {
-          "out": "Felix Nmecha",
-          "in": "Leon Goretzka",
-          "minute": 45,
+          "out": "F. Nmecha",
+          "in": "L. Goretzka",
+          "minute": 46,
           "team": "GER"
         },
         {
-          "out": "Gabriel Ávalos",
-          "in": "Gustavo Caballero",
+          "out": "G. Avalos",
+          "in": "G. Caballero",
           "minute": 55,
           "team": "PAR"
         },
         {
-          "out": "Julio Enciso",
-          "in": "Maurício Magalhães Prado",
+          "out": "J. Enciso",
+          "in": "Mauricio",
           "minute": 57,
           "team": "PAR"
         },
         {
-          "out": "Deniz Undav",
-          "in": "Jamal Musiala",
+          "out": "D. Undav",
+          "in": "J. Musiala",
           "minute": 63,
           "team": "GER"
         },
         {
-          "out": "Aleksandar Pavlović",
-          "in": "Waldemar Anton",
+          "out": "A. Pavlovic",
+          "in": "W. Anton",
           "minute": 79,
           "team": "GER"
         },
         {
-          "out": "Leroy Sané",
-          "in": "Nick Woltemade",
+          "out": "L. Sane",
+          "in": "N. Woltemade",
           "minute": 88,
           "team": "GER"
         },
         {
-          "out": "Miguel Almirón",
-          "in": "Gustavo Velázquez",
-          "minute": 90,
+          "out": "M. Almiron",
+          "in": "G. Velazquez",
+          "minute": 91,
           "team": "PAR"
         },
         {
-          "out": "Juan Caceres",
-          "in": "Braian Ojeda",
+          "out": "J. Caceres",
+          "in": "B. Ojeda",
           "minute": 99,
           "team": "PAR"
         },
         {
-          "out": "Damian Bobadilla",
-          "in": "Antonio Sanabria",
+          "out": "D. Bobadilla",
+          "in": "A. Sanabria",
           "minute": 99,
           "team": "PAR"
         },
         {
-          "out": "Florian Wirtz",
-          "in": "Nadiem Amiri",
+          "out": "F. Wirtz",
+          "in": "N. Amiri",
           "minute": 110,
           "team": "GER"
         },
         {
-          "out": "Antonio Rüdiger",
-          "in": "Malick Thiaw",
+          "out": "A. Rudiger",
+          "in": "M. Thiaw",
           "minute": 110,
           "team": "GER"
         },
         {
-          "out": "Junior Alonso",
-          "in": "Fabián Balbuena",
-          "minute": 122,
+          "out": "J. Alonso",
+          "in": "Fabian Balbuena",
+          "minute": 120,
           "team": "PAR"
         }
       ],
       "stats": {
+        "passesPct": [
+          90,
+          63
+        ],
+        "shotsInside": [
+          11,
+          6
+        ],
         "saves": [
           2,
           6
@@ -149,6 +157,10 @@
         "yellow": [
           2,
           2
+        ],
+        "passesAccurate": [
+          719,
+          160
         ],
         "shotsTotal": [
           21,
@@ -166,9 +178,17 @@
           4,
           1
         ],
+        "passesTotal": [
+          798,
+          255
+        ],
         "corners": [
           16,
           6
+        ],
+        "shotsOutside": [
+          10,
+          1
         ],
         "shotsOff": [
           7,
