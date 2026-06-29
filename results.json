@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:06:51Z",
+  "updated": "2026-06-29T18:07:39Z",
   "live": [
     {
       "id": 76,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -34,7 +34,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 5,
+      "subs": [
+        {
+          "out": "Lucas Paqueta",
+          "in": "Endrick",
+          "minute": 46,
+          "team": "BRA"
+        }
+      ],
       "stats": {
         "passesPct": [
           93,
@@ -233,7 +240,12 @@
             ]
           }
         },
-        "referee": "Maurizio Mariani, Italy"
+        "referee": "Maurizio Mariani, Italy",
+        "motm": {
+          "player": "Kaishu Sano",
+          "rating": 7.7,
+          "team": "JPN"
+        }
       }
     }
   ],
