@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-29T17:12:10Z",
+  "updated": "2026-06-29T17:12:58Z",
   "live": [
     {
       "id": 76,
       "status": "1H",
-      "minute": 12,
+      "minute": 13,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "K. Sano",
+          "minute": 12,
+          "team": "JPN",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesPct": [
           93,
