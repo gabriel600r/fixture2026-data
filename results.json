@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:34:39Z",
+  "updated": "2026-06-29T18:35:26Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 1,
       "goals": [
@@ -75,7 +75,7 @@
       "stats": {
         "passesPct": [
           92,
-          85
+          86
         ],
         "shotsInside": [
           9,
@@ -98,8 +98,8 @@
           2
         ],
         "passesAccurate": [
-          468,
-          212
+          483,
+          219
         ],
         "shotsTotal": [
           14,
@@ -118,8 +118,8 @@
           0
         ],
         "passesTotal": [
-          509,
-          248
+          526,
+          256
         ],
         "corners": [
           2,
@@ -134,7 +134,7 @@
           1
         ],
         "fouls": [
-          3,
+          4,
           8
         ],
         "home": "BRA",
