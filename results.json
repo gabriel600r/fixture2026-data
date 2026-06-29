@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:09:13Z",
+  "updated": "2026-06-29T18:10:07Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 0,
       "away": 1,
       "goals": [
@@ -31,6 +31,12 @@
           "player": "D. Kamada",
           "minute": 45,
           "team": "JPN",
+          "color": "yellow"
+        },
+        {
+          "player": "Danilo",
+          "minute": 48,
+          "team": "BRA",
           "color": "yellow"
         }
       ],
