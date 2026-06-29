@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T21:38:22Z",
+  "updated": "2026-06-29T21:39:09Z",
   "live": [
     {
       "id": 74,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -15,7 +15,14 @@
           "assist": "M. Galarza"
         }
       ],
-      "extra": 5,
+      "subs": [
+        {
+          "out": "F. Nmecha",
+          "in": "L. Goretzka",
+          "minute": 46,
+          "team": "GER"
+        }
+      ],
       "stats": {
         "passesPct": [
           90,
@@ -214,7 +221,12 @@
             ]
           }
         },
-        "referee": "Jalal Jayed, Morocco"
+        "referee": "Jalal Jayed, Morocco",
+        "motm": {
+          "player": "Julio Enciso",
+          "rating": 7.6,
+          "team": "PAR"
+        }
       }
     }
   ],
