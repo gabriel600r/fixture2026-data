@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T23:00:24Z",
+  "updated": "2026-06-29T23:01:11Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 110,
+      "minute": 111,
       "home": 1,
       "away": 1,
       "goals": [
@@ -101,6 +101,18 @@
           "in": "A. Sanabria",
           "minute": 99,
           "team": "PAR"
+        },
+        {
+          "out": "F. Wirtz",
+          "in": "N. Amiri",
+          "minute": 110,
+          "team": "GER"
+        },
+        {
+          "out": "A. Rudiger",
+          "in": "M. Thiaw",
+          "minute": 110,
+          "team": "GER"
         }
       ],
       "stats": {
