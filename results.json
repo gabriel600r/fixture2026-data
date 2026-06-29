@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:39:08Z",
+  "updated": "2026-06-29T22:39:55Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 100,
+      "minute": 98,
       "home": 1,
       "away": 1,
       "goals": [
@@ -79,7 +79,7 @@
           62
         ],
         "shotsInside": [
-          7,
+          8,
           6
         ],
         "saves": [
@@ -99,11 +99,11 @@
           1
         ],
         "passesAccurate": [
-          617,
-          126
+          634,
+          127
         ],
         "shotsTotal": [
-          14,
+          16,
           7
         ],
         "red": [
@@ -111,7 +111,7 @@
           0
         ],
         "shotsBlocked": [
-          6,
+          8,
           2
         ],
         "offsides": [
@@ -119,15 +119,15 @@
           1
         ],
         "passesTotal": [
-          685,
-          204
+          705,
+          206
         ],
         "corners": [
           10,
           4
         ],
         "shotsOutside": [
-          7,
+          8,
           1
         ],
         "shotsOff": [
@@ -136,7 +136,7 @@
         ],
         "fouls": [
           14,
-          7
+          8
         ],
         "home": "GER",
         "away": "PAR"
