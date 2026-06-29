@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:50:29Z",
+  "updated": "2026-06-29T18:51:16Z",
   "live": [
     {
       "id": 76,
@@ -116,11 +116,11 @@
           3
         ],
         "passesAccurate": [
-          582,
-          237
+          585,
+          247
         ],
         "shotsTotal": [
-          17,
+          16,
           5
         ],
         "red": [
@@ -128,7 +128,7 @@
           0
         ],
         "shotsBlocked": [
-          6,
+          5,
           2
         ],
         "offsides": [
@@ -136,15 +136,15 @@
           0
         ],
         "passesTotal": [
-          631,
-          282
+          635,
+          293
         ],
         "corners": [
           4,
           2
         ],
         "shotsOutside": [
-          7,
+          6,
           3
         ],
         "shotsOff": [
@@ -291,7 +291,7 @@
         "referee": "Maurizio Mariani, Italy",
         "motm": {
           "player": "Casemiro",
-          "rating": 8.2,
+          "rating": 8.0,
           "team": "BRA"
         }
       }
