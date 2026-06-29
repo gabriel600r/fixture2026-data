@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-29T21:47:02Z",
+  "updated": "2026-06-29T21:47:51Z",
   "live": [
     {
       "id": 74,
       "status": "2H",
-      "minute": 54,
-      "home": 0,
+      "minute": 55,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 42,
           "team": "PAR",
           "assist": "M. Galarza"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 54,
+          "team": "GER",
+          "assist": "F. Wirtz"
         }
       ],
       "subs": [
@@ -26,7 +32,7 @@
       "stats": {
         "passesPct": [
           89,
-          60
+          59
         ],
         "shotsInside": [
           2,
@@ -41,15 +47,15 @@
           3
         ],
         "possession": [
-          77,
-          23
+          78,
+          22
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          345,
+          371,
           70
         ],
         "shotsTotal": [
@@ -69,8 +75,8 @@
           0
         ],
         "passesTotal": [
-          388,
-          116
+          415,
+          118
         ],
         "corners": [
           6,
@@ -224,7 +230,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Julio Enciso",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "PAR"
         }
       }
