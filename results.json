@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-29T21:13:04Z",
+  "updated": "2026-06-29T21:13:51Z",
   "live": [
     {
       "id": 74,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "J. Enciso",
           "minute": 42,
-          "team": "PAR"
+          "team": "PAR",
+          "assist": "M. Galarza"
         }
       ],
       "stats": {
