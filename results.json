@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:09:11Z",
+  "updated": "2026-06-29T22:09:58Z",
   "live": [
     {
       "id": 74,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -57,12 +57,12 @@
       ],
       "stats": {
         "passesPct": [
-          89,
+          90,
           59
         ],
         "shotsInside": [
           4,
-          7
+          6
         ],
         "saves": [
           3,
@@ -81,12 +81,12 @@
           1
         ],
         "passesAccurate": [
-          436,
-          82
+          456,
+          87
         ],
         "shotsTotal": [
           9,
-          7
+          6
         ],
         "red": [
           0,
@@ -94,15 +94,15 @@
         ],
         "shotsBlocked": [
           4,
-          2
+          1
         ],
         "offsides": [
           3,
           0
         ],
         "passesTotal": [
-          488,
-          139
+          509,
+          147
         ],
         "corners": [
           8,
@@ -255,9 +255,9 @@
         },
         "referee": "Jalal Jayed, Morocco",
         "motm": {
-          "player": "Kai Havertz",
-          "rating": 7.7,
-          "team": "GER"
+          "player": "Julio Enciso",
+          "rating": 7.6,
+          "team": "PAR"
         }
       }
     }
