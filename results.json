@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:42:17Z",
+  "updated": "2026-06-29T22:43:04Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 100,
+      "minute": 101,
       "home": 1,
       "away": 1,
       "goals": [
@@ -70,6 +70,18 @@
           "out": "M. Almiron",
           "in": "G. Velazquez",
           "minute": 91,
+          "team": "PAR"
+        },
+        {
+          "out": "J. Caceres",
+          "in": "B. Ojeda",
+          "minute": 100,
+          "team": "PAR"
+        },
+        {
+          "out": "D. Bobadilla",
+          "in": "A. Sanabria",
+          "minute": 100,
           "team": "PAR"
         }
       ],
