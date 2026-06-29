@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T17:29:37Z",
+  "updated": "2026-06-29T17:30:25Z",
   "live": [
     {
       "id": 76,
@@ -7,6 +7,13 @@
       "minute": 30,
       "home": 0,
       "away": 1,
+      "goals": [
+        {
+          "player": "K. Sano",
+          "minute": 29,
+          "team": "JPN"
+        }
+      ],
       "cardEvents": [
         {
           "player": "K. Sano",
@@ -24,7 +31,7 @@
       "stats": {
         "passesPct": [
           93,
-          84
+          83
         ],
         "shotsInside": [
           3,
@@ -36,23 +43,23 @@
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "possession": [
-          72,
-          28
+          74,
+          26
         ],
         "yellow": [
           1,
           1
         ],
         "passesAccurate": [
-          178,
-          57
+          197,
+          59
         ],
         "shotsTotal": [
           4,
-          2
+          3
         ],
         "red": [
           0,
@@ -67,8 +74,8 @@
           0
         ],
         "passesTotal": [
-          191,
-          68
+          212,
+          71
         ],
         "corners": [
           2,
@@ -76,7 +83,7 @@
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "shotsOff": [
           2,
