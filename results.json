@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T19:01:35Z",
+  "updated": "2026-06-29T19:02:23Z",
   "live": [
     {
       "id": 76,
@@ -114,7 +114,7 @@
           "team": "BRA"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
         "passesPct": [
           92,
@@ -142,7 +142,7 @@
         ],
         "passesAccurate": [
           624,
-          256
+          258
         ],
         "shotsTotal": [
           19,
@@ -162,7 +162,7 @@
         ],
         "passesTotal": [
           676,
-          304
+          308
         ],
         "corners": [
           6,
@@ -178,7 +178,7 @@
         ],
         "fouls": [
           4,
-          11
+          12
         ],
         "home": "BRA",
         "away": "JPN"
