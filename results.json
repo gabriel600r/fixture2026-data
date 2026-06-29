@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T20:36:42Z",
+  "updated": "2026-06-29T20:37:29Z",
   "live": [
     {
       "id": 74,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
       "stats": {
@@ -127,9 +127,9 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Kai Havertz",
-                "pos": "F"
+                "n": 26,
+                "name": "Deniz Undav",
+                "pos": "M"
               },
               {
                 "n": 17,
@@ -137,14 +137,14 @@
                 "pos": "M"
               },
               {
-                "n": 26,
-                "name": "Deniz Undav",
-                "pos": "M"
+                "n": 7,
+                "name": "Kai Havertz",
+                "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "4-5-1",
+            "formation": "4-1-4-1",
             "coach": "Gustavo Alfaro",
             "xi": [
               {
@@ -173,6 +173,11 @@
                 "pos": "D"
               },
               {
+                "n": 14,
+                "name": "Andrés Cubas",
+                "pos": "M"
+              },
+              {
                 "n": 10,
                 "name": "Miguel Almirón",
                 "pos": "M"
@@ -180,11 +185,6 @@
               {
                 "n": 16,
                 "name": "Damián Bobadilla",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Andrés Cubas",
                 "pos": "M"
               },
               {
