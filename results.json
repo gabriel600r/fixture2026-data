@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-29T22:28:07Z",
+  "updated": "2026-06-29T22:28:54Z",
   "live": [
     {
       "id": 74,
-      "status": "2H",
-      "minute": 90,
+      "status": "1H",
+      "minute": null,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "Julio Enciso",
+          "player": "J. Enciso",
           "minute": 42,
           "team": "PAR",
-          "assist": "Matías Galarza"
+          "assist": "M. Galarza"
         },
         {
-          "player": "Kai Havertz",
+          "player": "K. Havertz",
           "minute": 54,
           "team": "GER",
-          "assist": "Florian Wirtz"
+          "assist": "F. Wirtz"
         }
       ],
       "cardEvents": [
         {
-          "player": "Andrés Cubas",
+          "player": "A. Cubas",
           "minute": 65,
           "team": "PAR",
           "color": "yellow"
@@ -31,43 +31,43 @@
       ],
       "subs": [
         {
-          "out": "Felix Nmecha",
-          "in": "Leon Goretzka",
-          "minute": 45,
+          "out": "F. Nmecha",
+          "in": "L. Goretzka",
+          "minute": 46,
           "team": "GER"
         },
         {
-          "out": "Gabriel Ávalos",
-          "in": "Gustavo Caballero",
+          "out": "G. Avalos",
+          "in": "G. Caballero",
           "minute": 55,
           "team": "PAR"
         },
         {
-          "out": "Julio Enciso",
-          "in": "Maurício Magalhães Prado",
+          "out": "J. Enciso",
+          "in": "Mauricio",
           "minute": 57,
           "team": "PAR"
         },
         {
-          "out": "Deniz Undav",
-          "in": "Jamal Musiala",
+          "out": "D. Undav",
+          "in": "J. Musiala",
           "minute": 63,
           "team": "GER"
         },
         {
-          "out": "Aleksandar Pavlović",
-          "in": "Waldemar Anton",
+          "out": "A. Pavlovic",
+          "in": "W. Anton",
           "minute": 79,
           "team": "GER"
         },
         {
-          "out": "Leroy Sané",
-          "in": "Nick Woltemade",
+          "out": "L. Sane",
+          "in": "N. Woltemade",
           "minute": 88,
           "team": "GER"
         }
       ],
-      "extra": 5,
+      "extra": 29,
       "stats": {
         "saves": [
           2,
@@ -78,8 +78,8 @@
           3
         ],
         "possession": [
-          75,
-          25
+          76,
+          24
         ],
         "yellow": [
           0,
@@ -110,7 +110,7 @@
           2
         ],
         "fouls": [
-          13,
+          14,
           7
         ],
         "home": "GER",
@@ -246,12 +246,7 @@
             ]
           }
         },
-        "referee": "Jalal Jayed, Morocco",
-        "motm": {
-          "player": "J. Enciso",
-          "rating": 7.99,
-          "team": "PAR"
-        }
+        "referee": "Jalal Jayed, Morocco"
       }
     }
   ],
