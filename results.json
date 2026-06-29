@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:39:24Z",
+  "updated": "2026-06-29T18:40:12Z",
   "live": [
     {
       "id": 76,
@@ -70,12 +70,24 @@
           "in": "J. Suzuki",
           "minute": 66,
           "team": "JPN"
+        },
+        {
+          "out": "D. Kamada",
+          "in": "A. Tanaka",
+          "minute": 78,
+          "team": "JPN"
+        },
+        {
+          "out": "J. Ito",
+          "in": "S. Machino",
+          "minute": 78,
+          "team": "JPN"
         }
       ],
       "stats": {
         "passesPct": [
           92,
-          86
+          85
         ],
         "shotsInside": [
           10,
@@ -90,19 +102,19 @@
           2
         ],
         "possession": [
-          68,
-          32
+          69,
+          31
         ],
         "yellow": [
           2,
           2
         ],
         "passesAccurate": [
-          504,
+          533,
           219
         ],
         "shotsTotal": [
-          15,
+          16,
           5
         ],
         "red": [
@@ -118,19 +130,19 @@
           0
         ],
         "passesTotal": [
-          547,
-          256
+          577,
+          257
         ],
         "corners": [
           3,
           2
         ],
         "shotsOutside": [
-          5,
+          6,
           3
         ],
         "shotsOff": [
-          4,
+          5,
           1
         ],
         "fouls": [
