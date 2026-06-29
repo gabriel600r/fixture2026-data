@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:59:11Z",
+  "updated": "2026-06-29T18:59:59Z",
   "live": [
     {
       "id": 76,
@@ -100,16 +100,28 @@
           "in": "Fabinho",
           "minute": 90,
           "team": "BRA"
+        },
+        {
+          "out": "D. Maeda",
+          "in": "K. Ogawa",
+          "minute": 90,
+          "team": "JPN"
+        },
+        {
+          "out": "Bruno Guimaraes",
+          "in": "Danilo Santos",
+          "minute": 90,
+          "team": "BRA"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "passesPct": [
           92,
           84
         ],
         "shotsInside": [
-          10,
+          12,
           2
         ],
         "saves": [
@@ -117,7 +129,7 @@
           4
         ],
         "shotsOn": [
-          6,
+          7,
           2
         ],
         "possession": [
@@ -129,11 +141,11 @@
           3
         ],
         "passesAccurate": [
-          602,
-          254
+          624,
+          256
         ],
         "shotsTotal": [
-          17,
+          19,
           5
         ],
         "red": [
@@ -149,11 +161,11 @@
           0
         ],
         "passesTotal": [
-          653,
-          301
+          676,
+          304
         ],
         "corners": [
-          5,
+          6,
           2
         ],
         "shotsOutside": [
@@ -161,7 +173,7 @@
           3
         ],
         "shotsOff": [
-          5,
+          6,
           1
         ],
         "fouls": [
