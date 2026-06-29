@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:26:45Z",
+  "updated": "2026-06-29T18:27:32Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -52,16 +52,22 @@
           "in": "Endrick",
           "minute": 46,
           "team": "BRA"
+        },
+        {
+          "out": "M. Cunha",
+          "in": "G. Martinelli",
+          "minute": 66,
+          "team": "BRA"
         }
       ],
       "stats": {
         "passesPct": [
-          91,
+          92,
           85
         ],
         "shotsInside": [
           9,
-          1
+          2
         ],
         "saves": [
           0,
@@ -69,7 +75,7 @@
         ],
         "shotsOn": [
           6,
-          1
+          2
         ],
         "possession": [
           65,
@@ -80,12 +86,12 @@
           2
         ],
         "passesAccurate": [
-          403,
-          202
+          420,
+          212
         ],
         "shotsTotal": [
           14,
-          4
+          5
         ],
         "red": [
           0,
@@ -100,8 +106,8 @@
           0
         ],
         "passesTotal": [
-          441,
-          238
+          459,
+          248
         ],
         "corners": [
           2,
