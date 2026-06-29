@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T21:43:05Z",
+  "updated": "2026-06-29T21:43:53Z",
   "live": [
     {
       "id": 74,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 1,
       "goals": [
@@ -26,7 +26,7 @@
       "stats": {
         "passesPct": [
           90,
-          59
+          62
         ],
         "shotsInside": [
           2,
@@ -41,16 +41,16 @@
           2
         ],
         "possession": [
-          79,
-          21
+          77,
+          23
         ],
         "yellow": [
           0,
           0
         ],
         "passesAccurate": [
-          308,
-          55
+          332,
+          68
         ],
         "shotsTotal": [
           5,
@@ -65,12 +65,12 @@
           1
         ],
         "offsides": [
-          2,
+          3,
           0
         ],
         "passesTotal": [
-          342,
-          93
+          369,
+          110
         ],
         "corners": [
           6,
@@ -224,7 +224,7 @@
         "referee": "Jalal Jayed, Morocco",
         "motm": {
           "player": "Julio Enciso",
-          "rating": 7.6,
+          "rating": 7.7,
           "team": "PAR"
         }
       }
