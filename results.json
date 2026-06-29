@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:46:31Z",
+  "updated": "2026-06-29T18:47:19Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -108,16 +108,16 @@
           2
         ],
         "possession": [
-          68,
-          32
+          69,
+          31
         ],
         "yellow": [
           2,
           2
         ],
         "passesAccurate": [
-          540,
-          230
+          580,
+          237
         ],
         "shotsTotal": [
           16,
@@ -136,8 +136,8 @@
           0
         ],
         "passesTotal": [
-          588,
-          273
+          628,
+          282
         ],
         "corners": [
           3,
@@ -153,7 +153,7 @@
         ],
         "fouls": [
           4,
-          8
+          9
         ],
         "home": "BRA",
         "away": "JPN"
