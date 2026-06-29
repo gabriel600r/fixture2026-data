@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:56:27Z",
+  "updated": "2026-06-29T22:57:14Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 114,
+      "minute": 94,
       "home": 1,
       "away": 1,
       "goals": [
@@ -38,6 +38,12 @@
           "player": "G. Alfaro",
           "minute": 105,
           "team": "PAR",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Havertz",
+          "minute": 106,
+          "team": "GER",
           "color": "yellow"
         }
       ],
