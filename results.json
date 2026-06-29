@@ -207,18 +207,10 @@
     {
       "date": "28/06/2026",
       "id": 17,
-      "title_es": "🎁 Tu Recuerdo del Mundial",
-      "title_en": "🎁 Your World Cup Keepsake",
-      "body_es": "¡Nuevo! Ya podés descargar tu \"Recuerdo del Mundial\" 📄\n\nEs un PDF con todo: los resultados de todos los partidos, las tablas de cada grupo, las llaves de la fase final y —si jugaste al Prode— TODAS tus predicciones, partido por partido, con tu puntaje.\n\nTu foto de recuerdo de este Mundial, lista para guardar o mandarle a tus amigos. 💚\n\n💡 La idea fue de Fede M., un usuario. ¡Gracias, Fede! 🙌\n\n📲 Lo encontrás en el menú lateral ➜ \"Descargar recuerdo del Mundial\". (Necesitás la última versión de la app.)\n\n¡Gracias por vivir el Mundial conmigo! ⚽",
-      "body_en": "New! You can now download your \"World Cup Keepsake\" 📄\n\nIt's a PDF with everything: every match result, each group's table, the knockout bracket and —if you played the Prode— ALL your predictions, match by match, with your score.\n\nYour snapshot of this World Cup, ready to keep or send to your friends. 💚\n\n💡 The idea came from Fede M., one of you. Thanks, Fede! 🙌\n\n📲 Find it in the side menu ➜ \"Download World Cup keepsake\". (You'll need the latest app version.)\n\nThanks for living the World Cup with me! ⚽"
-    },
-    {
-      "date": "28/06/2026",
-      "id": 18,
-      "title_es": "🧭 Llaves y Fechas, más cómodas",
-      "title_en": "🧭 Easier Knockout & Fixtures",
-      "body_es": "¡Mejoré la navegación para que encuentres todo más rápido! 🙌\n\n🏆 En Llaves: cada ronda ahora se pliega y despliega, y arriba tenés accesos rápidos (16avos, octavos, cuartos…) para saltar directo a la fase que quieras, sin scrollear hasta abajo.\n\n📅 En Fechas: cada día se pliega/despliega, los días ya jugados arrancan cerrados, y un botón \"Hoy\" te lleva al día de hoy al instante.\n\nActualizá a la última versión para tenerlo. ¡Gracias por bancarla! ⚽",
-      "body_en": "I made navigation easier so you find everything faster! 🙌\n\n🏆 In Knockout (Llaves): each round now collapses/expands, and quick chips up top (R32, R16, QF…) jump you straight to any stage without scrolling to the bottom.\n\n📅 In Fixtures (Fechas): each day collapses/expands, finished days start closed, and a \"Today\" button takes you to today instantly.\n\nUpdate to the latest version to get it. Thanks for the support! ⚽"
+      "title_es": "Novedades v1.9.39 ⚽",
+      "title_en": "What's new v1.9.39 ⚽",
+      "body_es": "🎁 ¡Nuevo! Descargá tu \"Recuerdo del Mundial\" en PDF: resultados, tablas, llaves y —si jugaste al Prode— todas tus predicciones con tu puntaje. (La idea fue de Fede M., un usuario. ¡Gracias, Fede! 🙌)\n🏆 Llaves renovada: cada ronda se pliega y despliega + accesos rápidos para saltar a cualquier fase.\n📅 Fechas más cómoda: días plegables, los ya jugados arrancan cerrados, y un botón \"Hoy\".\n🛠️ Varias mejoras de estabilidad y rendimiento.\n\n¡Gracias por vivir el Mundial conmigo! ⚽",
+      "body_en": "🎁 New! Download your \"World Cup Keepsake\" PDF: results, tables, bracket and —if you played the Prode— all your predictions with your score. (The idea came from Fede M., one of you. Thanks, Fede! 🙌)\n🏆 Revamped Knockout view: each round collapses and expands + quick jumps to any stage.\n📅 Friendlier Fixtures: collapsible days, finished ones start closed, and a \"Today\" button.\n🛠️ Various stability and performance improvements.\n\nThanks for living the World Cup with me! ⚽"
     }
   ],
   "results": [
