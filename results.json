@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:49:22Z",
+  "updated": "2026-06-29T22:50:09Z",
   "live": [
     {
       "id": 74,
       "status": "ET",
-      "minute": 107,
+      "minute": 108,
       "home": 1,
       "away": 1,
       "goals": [
@@ -19,12 +19,6 @@
           "minute": 54,
           "team": "GER",
           "assist": "F. Wirtz"
-        },
-        {
-          "player": "J. Tah",
-          "minute": 103,
-          "team": "GER",
-          "assist": "N. Brown"
         }
       ],
       "cardEvents": [
