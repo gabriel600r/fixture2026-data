@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:33:37Z",
+  "updated": "2026-06-29T22:34:24Z",
   "live": [
     {
       "id": 74,
-      "status": "1H",
-      "minute": null,
+      "status": "ET",
+      "minute": 96,
       "home": 1,
       "away": 1,
       "goals": [
@@ -65,9 +65,14 @@
           "in": "N. Woltemade",
           "minute": 88,
           "team": "GER"
+        },
+        {
+          "out": "M. Almiron",
+          "in": "G. Velazquez",
+          "minute": 91,
+          "team": "PAR"
         }
       ],
-      "extra": 29,
       "stats": {
         "passesPct": [
           90,
@@ -94,7 +99,7 @@
           1
         ],
         "passesAccurate": [
-          579,
+          580,
           126
         ],
         "shotsTotal": [
@@ -114,8 +119,8 @@
           1
         ],
         "passesTotal": [
-          644,
-          204
+          645,
+          203
         ],
         "corners": [
           10,
@@ -266,7 +271,12 @@
             ]
           }
         },
-        "referee": "Jalal Jayed, Morocco"
+        "referee": "Jalal Jayed, Morocco",
+        "motm": {
+          "player": "Kai Havertz",
+          "rating": 7.6,
+          "team": "GER"
+        }
       }
     }
   ],
