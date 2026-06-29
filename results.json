@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T22:55:40Z",
+  "updated": "2026-06-29T22:56:27Z",
   "live": [
     {
       "id": 74,
-      "status": "1H",
-      "minute": null,
+      "status": "ET",
+      "minute": 114,
       "home": 1,
       "away": 1,
       "goals": [
@@ -100,34 +100,34 @@
       "stats": {
         "passesPct": [
           90,
-          61
+          60
         ],
         "shotsInside": [
-          9,
+          10,
           6
         ],
         "saves": [
           2,
-          3
+          4
         ],
         "shotsOn": [
-          3,
+          4,
           3
         ],
         "possession": [
-          77,
-          23
+          78,
+          22
         ],
         "yellow": [
           0,
           1
         ],
         "passesAccurate": [
-          660,
-          129
+          678,
+          130
         ],
         "shotsTotal": [
-          17,
+          18,
           7
         ],
         "red": [
@@ -143,12 +143,12 @@
           1
         ],
         "passesTotal": [
-          733,
-          213
+          753,
+          215
         ],
         "corners": [
           13,
-          4
+          5
         ],
         "shotsOutside": [
           8,
@@ -160,7 +160,7 @@
         ],
         "fouls": [
           15,
-          8
+          9
         ],
         "home": "GER",
         "away": "PAR"
@@ -295,7 +295,12 @@
             ]
           }
         },
-        "referee": "Jalal Jayed, Morocco"
+        "referee": "Jalal Jayed, Morocco",
+        "motm": {
+          "player": "Kai Havertz",
+          "rating": 7.6,
+          "team": "GER"
+        }
       }
     }
   ],
