@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T18:44:57Z",
+  "updated": "2026-06-29T18:45:44Z",
   "live": [
     {
       "id": 76,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -43,6 +43,12 @@
           "player": "Danilo",
           "minute": 48,
           "team": "BRA",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Suzuki",
+          "minute": 84,
+          "team": "JPN",
           "color": "yellow"
         }
       ],
@@ -87,7 +93,7 @@
       "stats": {
         "passesPct": [
           92,
-          85
+          84
         ],
         "shotsInside": [
           10,
@@ -102,16 +108,16 @@
           2
         ],
         "possession": [
-          69,
-          31
+          68,
+          32
         ],
         "yellow": [
           2,
           2
         ],
         "passesAccurate": [
-          536,
-          220
+          540,
+          230
         ],
         "shotsTotal": [
           16,
@@ -130,8 +136,8 @@
           0
         ],
         "passesTotal": [
-          581,
-          259
+          588,
+          273
         ],
         "corners": [
           3,
