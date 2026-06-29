@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T17:44:37Z",
+  "updated": "2026-06-29T17:45:24Z",
   "live": [
     {
       "id": 76,
@@ -26,12 +26,18 @@
           "minute": 14,
           "team": "BRA",
           "color": "yellow"
+        },
+        {
+          "player": "D. Kamada",
+          "minute": 45,
+          "team": "JPN",
+          "color": "yellow"
         }
       ],
       "stats": {
         "passesPct": [
           93,
-          81
+          86
         ],
         "shotsInside": [
           3,
@@ -46,16 +52,16 @@
           1
         ],
         "possession": [
-          77,
-          23
+          68,
+          32
         ],
         "yellow": [
           1,
           1
         ],
         "passesAccurate": [
-          292,
-          73
+          306,
+          126
         ],
         "shotsTotal": [
           7,
@@ -74,8 +80,8 @@
           0
         ],
         "passesTotal": [
-          313,
-          90
+          328,
+          146
         ],
         "corners": [
           2,
