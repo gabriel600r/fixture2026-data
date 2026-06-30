@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:04:57Z",
+  "updated": "2026-06-30T17:05:44Z",
   "live": [
     {
       "id": 78,
@@ -13,12 +13,12 @@
           0
         ],
         "passesPct": [
-          50,
-          76
+          58,
+          79
         ],
         "passesTotal": [
-          6,
-          25
+          12,
+          39
         ],
         "red": [
           0,
@@ -34,15 +34,15 @@
         ],
         "shotsBlocked": [
           0,
-          0
+          1
         ],
         "possession": [
-          19,
-          81
+          23,
+          77
         ],
         "shotsInside": [
           0,
-          0
+          1
         ],
         "saves": [
           0,
@@ -53,8 +53,8 @@
           0
         ],
         "passesAccurate": [
-          3,
-          19
+          7,
+          31
         ],
         "corners": [
           0,
@@ -62,7 +62,7 @@
         ],
         "shotsTotal": [
           0,
-          0
+          1
         ],
         "yellow": [
           0,
@@ -70,7 +70,7 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "home": "CIV",
         "away": "NOR"
