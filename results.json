@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:43:53Z",
+  "updated": "2026-06-30T22:44:41Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 3,
       "away": 0,
       "goals": [
@@ -75,11 +75,17 @@
           "in": "J. Mateta",
           "minute": 85,
           "team": "FRA"
+        },
+        {
+          "out": "M. Olise",
+          "in": "R. Cherki",
+          "minute": 85,
+          "team": "FRA"
         }
       ],
       "stats": {
         "shotsOn": [
-          11,
+          12,
           1
         ],
         "passesPct": [
@@ -87,7 +93,7 @@
           77
         ],
         "passesTotal": [
-          500,
+          530,
           278
         ],
         "red": [
@@ -107,31 +113,31 @@
           0
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "shotsInside": [
-          14,
+          15,
           4
         ],
         "saves": [
           1,
-          8
+          9
         ],
         "fouls": [
           10,
           10
         ],
         "passesAccurate": [
-          439,
+          469,
           214
         ],
         "corners": [
-          8,
+          9,
           1
         ],
         "shotsTotal": [
-          23,
+          24,
           4
         ],
         "yellow": [
@@ -278,7 +284,7 @@
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 9.6,
+          "rating": 9.9,
           "team": "FRA"
         }
       }
