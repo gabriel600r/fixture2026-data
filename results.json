@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T01:44:03Z",
+  "updated": "2026-06-30T01:44:50Z",
   "live": [
     {
       "id": 75,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 0,
       "away": 0,
       "stats": {
@@ -41,7 +41,7 @@
           0
         ],
         "corners": [
-          3,
+          4,
           2
         ],
         "shotsOff": [
