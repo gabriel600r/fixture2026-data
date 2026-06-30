@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:24:10Z",
+  "updated": "2026-06-30T22:24:58Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 2,
       "away": 0,
       "goals": [
@@ -19,6 +19,20 @@
           "minute": 53,
           "team": "FRA",
           "assist": "M. Olise"
+        }
+      ],
+      "subs": [
+        {
+          "out": "E. Stroud",
+          "in": "T. Ali",
+          "minute": 66,
+          "team": "SWE"
+        },
+        {
+          "out": "L. Bergvall",
+          "in": "B. Zeneli",
+          "minute": 66,
+          "team": "SWE"
         }
       ],
       "stats": {
