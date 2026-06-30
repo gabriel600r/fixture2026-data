@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-30T03:44:21Z",
+  "updated": "2026-06-30T03:45:08Z",
   "live": [
     {
       "id": 75,
-      "status": "1H",
+      "status": "PEN",
       "minute": null,
       "home": 1,
       "away": 1,
@@ -295,7 +295,12 @@
             ]
           }
         },
-        "referee": "Wilton Pereira Sampaio, Brazil"
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "Bart Verbruggen",
+          "rating": 8.3,
+          "team": "NED"
+        }
       }
     }
   ],
