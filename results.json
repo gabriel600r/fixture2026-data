@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T22:11:32Z",
+  "updated": "2026-06-30T22:12:19Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
       "minute": 53,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 45,
           "team": "FRA",
           "assist": "O. Dembele"
+        },
+        {
+          "player": "B. Barcola",
+          "minute": 53,
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "stats": {
@@ -22,11 +28,11 @@
         ],
         "passesPct": [
           87,
-          67
+          65
         ],
         "passesTotal": [
-          317,
-          129
+          332,
+          133
         ],
         "red": [
           0,
@@ -61,7 +67,7 @@
           7
         ],
         "passesAccurate": [
-          277,
+          288,
           87
         ],
         "corners": [
@@ -77,7 +83,7 @@
           0
         ],
         "offsides": [
-          1,
+          2,
           1
         ],
         "home": "FRA",
