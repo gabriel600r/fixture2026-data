@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:48:37Z",
+  "updated": "2026-06-30T22:49:24Z",
   "live": [
     {
       "id": 77,
@@ -81,6 +81,12 @@
           "in": "R. Cherki",
           "minute": 85,
           "team": "FRA"
+        },
+        {
+          "out": "A. Isak",
+          "in": "G. Nilsson",
+          "minute": 89,
+          "team": "SWE"
         }
       ],
       "stats": {
