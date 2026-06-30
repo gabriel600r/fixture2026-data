@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:35:13Z",
+  "updated": "2026-06-30T22:36:00Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 3,
       "away": 0,
       "goals": [
@@ -43,13 +43,13 @@
         {
           "out": "J. Kounde",
           "in": "M. Gusto",
-          "minute": 76,
+          "minute": 75,
           "team": "FRA"
         },
         {
           "out": "O. Dembele",
           "in": "D. Doue",
-          "minute": 76,
+          "minute": 75,
           "team": "FRA"
         }
       ],
