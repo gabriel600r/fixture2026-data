@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:40:39Z",
+  "updated": "2026-06-30T17:41:26Z",
   "live": [
     {
       "id": 78,
@@ -11,7 +11,8 @@
         {
           "player": "A. Nusa",
           "minute": 39,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "M. Odegaard"
         }
       ],
       "stats": {
