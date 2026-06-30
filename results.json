@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T18:33:39Z",
+  "updated": "2026-06-30T18:34:26Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 74,
-      "home": 0,
+      "minute": 75,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 39,
           "team": "NOR",
           "assist": "M. Odegaard"
+        },
+        {
+          "player": "A. Diallo",
+          "minute": 74,
+          "team": "CIV"
         }
       ],
       "cardEvents": [
@@ -55,19 +60,19 @@
           3
         ],
         "passesPct": [
-          84,
+          85,
           85
         ],
         "passesTotal": [
-          315,
-          330
+          330,
+          340
         ],
         "red": [
           0,
           0
         ],
         "shotsOff": [
-          7,
+          8,
           1
         ],
         "shotsOutside": [
@@ -83,7 +88,7 @@
           50
         ],
         "shotsInside": [
-          7,
+          8,
           6
         ],
         "saves": [
@@ -95,15 +100,15 @@
           6
         ],
         "passesAccurate": [
-          266,
-          281
+          280,
+          289
         ],
         "corners": [
           12,
           3
         ],
         "shotsTotal": [
-          10,
+          11,
           7
         ],
         "yellow": [
