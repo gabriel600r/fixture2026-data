@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:36:48Z",
+  "updated": "2026-06-30T22:37:35Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 3,
       "away": 0,
       "goals": [
@@ -51,20 +51,26 @@
           "in": "D. Doue",
           "minute": 75,
           "team": "FRA"
+        },
+        {
+          "out": "L. Digne",
+          "in": "T. Hernandez",
+          "minute": 78,
+          "team": "FRA"
         }
       ],
       "stats": {
         "shotsOn": [
-          11,
+          10,
           1
         ],
         "passesPct": [
           87,
-          76
+          77
         ],
         "passesTotal": [
-          441,
-          250
+          464,
+          266
         ],
         "red": [
           0,
@@ -79,12 +85,12 @@
           0
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "possession": [
-          64,
-          36
+          63,
+          37
         ],
         "shotsInside": [
           13,
@@ -92,15 +98,15 @@
         ],
         "saves": [
           1,
-          8
+          7
         ],
         "fouls": [
           10,
-          8
+          9
         ],
         "passesAccurate": [
-          383,
-          190
+          405,
+          205
         ],
         "corners": [
           8,
