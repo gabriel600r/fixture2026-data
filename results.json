@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:04:25Z",
+  "updated": "2026-06-30T22:05:12Z",
   "live": [
     {
       "id": 77,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -25,8 +25,8 @@
           68
         ],
         "passesTotal": [
-          283,
-          112
+          284,
+          115
         ],
         "red": [
           0,
@@ -45,8 +45,8 @@
           0
         ],
         "possession": [
-          72,
-          28
+          71,
+          29
         ],
         "shotsInside": [
           8,
@@ -62,7 +62,7 @@
         ],
         "passesAccurate": [
           249,
-          76
+          78
         ],
         "corners": [
           6,
@@ -213,7 +213,12 @@
             ]
           }
         },
-        "referee": "Danny Makkelie, Netherlands"
+        "referee": "Danny Makkelie, Netherlands",
+        "motm": {
+          "player": "Kylian Mbappé",
+          "rating": 8.0,
+          "team": "FRA"
+        }
       }
     }
   ],
