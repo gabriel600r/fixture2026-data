@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:17:16Z",
+  "updated": "2026-06-30T02:18:04Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -25,8 +25,8 @@
           2
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "yellow": [
           0,
@@ -195,8 +195,8 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "A. Hakimi",
-          "rating": 7.33,
+          "player": "A. Ounahi",
+          "rating": 7.2,
           "team": "MAR"
         }
       }
