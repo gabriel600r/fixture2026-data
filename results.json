@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-30T02:52:52Z",
+  "updated": "2026-06-30T02:53:39Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "C. Gakpo",
@@ -86,6 +86,14 @@
       ],
       "extra": 1,
       "stats": {
+        "passesPct": [
+          81,
+          90
+        ],
+        "shotsInside": [
+          4,
+          5
+        ],
         "saves": [
           4,
           1
@@ -101,6 +109,10 @@
         "yellow": [
           0,
           1
+        ],
+        "passesAccurate": [
+          244,
+          506
         ],
         "shotsTotal": [
           6,
@@ -118,9 +130,17 @@
           3,
           0
         ],
+        "passesTotal": [
+          301,
+          561
+        ],
         "corners": [
           5,
           7
+        ],
+        "shotsOutside": [
+          2,
+          4
         ],
         "shotsOff": [
           1,
