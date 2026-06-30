@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T22:32:51Z",
+  "updated": "2026-06-30T22:33:38Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 74,
-      "home": 2,
+      "minute": 75,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -17,6 +17,12 @@
         {
           "player": "B. Barcola",
           "minute": 53,
+          "team": "FRA",
+          "assist": "M. Olise"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 74,
           "team": "FRA",
           "assist": "M. Olise"
         }
@@ -37,16 +43,16 @@
       ],
       "stats": {
         "shotsOn": [
-          9,
+          10,
           1
         ],
         "passesPct": [
           87,
-          75
+          76
         ],
         "passesTotal": [
-          432,
-          228
+          438,
+          249
         ],
         "red": [
           0,
@@ -65,31 +71,31 @@
           0
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "shotsInside": [
-          11,
+          12,
           4
         ],
         "saves": [
           1,
-          7
+          8
         ],
         "fouls": [
           10,
-          7
+          8
         ],
         "passesAccurate": [
-          376,
-          171
+          380,
+          190
         ],
         "corners": [
           8,
           1
         ],
         "shotsTotal": [
-          20,
+          21,
           4
         ],
         "yellow": [
