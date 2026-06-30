@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:46:13Z",
+  "updated": "2026-06-30T21:47:00Z",
   "live": [
     {
       "id": 77,
@@ -15,6 +15,7 @@
           "assist": "O. Dembele"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOn": [
           4,
