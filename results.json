@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T03:03:59Z",
+  "updated": "2026-06-30T03:04:46Z",
   "live": [
     {
       "id": 75,
-      "status": "1H",
-      "minute": null,
+      "status": "ET",
+      "minute": 96,
       "home": 1,
       "away": 1,
       "goals": [
@@ -85,7 +85,6 @@
           "team": "MAR"
         }
       ],
-      "extra": 1,
       "stats": {
         "passesPct": [
           80,
@@ -113,7 +112,7 @@
         ],
         "passesAccurate": [
           252,
-          527
+          537
         ],
         "shotsTotal": [
           6,
@@ -132,8 +131,8 @@
           0
         ],
         "passesTotal": [
-          315,
-          586
+          316,
+          596
         ],
         "corners": [
           5,
@@ -149,7 +148,7 @@
         ],
         "fouls": [
           12,
-          9
+          10
         ],
         "home": "NED",
         "away": "MAR"
@@ -284,7 +283,12 @@
             ]
           }
         },
-        "referee": "Wilton Pereira Sampaio, Brazil"
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "Issa Diop",
+          "rating": 7.3,
+          "team": "MAR"
+        }
       }
     }
   ],
