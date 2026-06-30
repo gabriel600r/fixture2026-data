@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T02:53:39Z",
+  "updated": "2026-06-30T02:54:27Z",
   "live": [
     {
       "id": 75,
@@ -17,7 +17,8 @@
         {
           "player": "I. Diop",
           "minute": 90,
-          "team": "MAR"
+          "team": "MAR",
+          "assist": "C. Talbi"
         }
       ],
       "cardEvents": [
@@ -92,7 +93,7 @@
         ],
         "shotsInside": [
           4,
-          5
+          6
         ],
         "saves": [
           4,
@@ -100,11 +101,11 @@
         ],
         "shotsOn": [
           2,
-          3
+          4
         ],
         "possession": [
-          35,
-          65
+          34,
+          66
         ],
         "yellow": [
           0,
@@ -112,11 +113,11 @@
         ],
         "passesAccurate": [
           244,
-          506
+          519
         ],
         "shotsTotal": [
           6,
-          9
+          10
         ],
         "red": [
           0,
@@ -132,7 +133,7 @@
         ],
         "passesTotal": [
           301,
-          561
+          575
         ],
         "corners": [
           5,
