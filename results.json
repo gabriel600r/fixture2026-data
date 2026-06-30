@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:22:02Z",
+  "updated": "2026-06-30T02:22:50Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -57,7 +57,7 @@
           4
         ],
         "fouls": [
-          7,
+          8,
           6
         ],
         "home": "NED",
