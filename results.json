@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:34:26Z",
+  "updated": "2026-06-30T18:35:14Z",
   "live": [
     {
       "id": 78,
@@ -17,7 +17,8 @@
         {
           "player": "A. Diallo",
           "minute": 74,
-          "team": "CIV"
+          "team": "CIV",
+          "assist": "N. Pepe"
         }
       ],
       "cardEvents": [
