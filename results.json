@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:52:05Z",
+  "updated": "2026-06-30T02:52:52Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 88,
+      "minute": 90,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,11 @@
           "minute": 72,
           "team": "NED",
           "assist": "C. Summerville"
+        },
+        {
+          "player": "I. Diop",
+          "minute": 90,
+          "team": "MAR"
         }
       ],
       "cardEvents": [
@@ -55,22 +60,22 @@
           "team": "MAR"
         },
         {
-          "out": "R. Gravenberch",
-          "in": "Q. Timber",
-          "minute": 87,
-          "team": "NED"
+          "out": "A. Ounahi",
+          "in": "A. Sbai",
+          "minute": 86,
+          "team": "MAR"
         },
         {
           "out": "M. van de Ven",
           "in": "J. Hato",
-          "minute": 87,
+          "minute": 86,
           "team": "NED"
         },
         {
-          "out": "A. Ounahi",
-          "in": "A. Sbai",
-          "minute": 87,
-          "team": "MAR"
+          "out": "R. Gravenberch",
+          "in": "Q. Timber",
+          "minute": 86,
+          "team": "NED"
         },
         {
           "out": "B. El Khannouss",
@@ -79,15 +84,8 @@
           "team": "MAR"
         }
       ],
+      "extra": 1,
       "stats": {
-        "passesPct": [
-          82,
-          90
-        ],
-        "shotsInside": [
-          4,
-          5
-        ],
         "saves": [
           4,
           1
@@ -103,10 +101,6 @@
         "yellow": [
           0,
           1
-        ],
-        "passesAccurate": [
-          239,
-          497
         ],
         "shotsTotal": [
           6,
@@ -124,17 +118,9 @@
           3,
           0
         ],
-        "passesTotal": [
-          293,
-          551
-        ],
         "corners": [
-          4,
+          5,
           7
-        ],
-        "shotsOutside": [
-          2,
-          4
         ],
         "shotsOff": [
           1,
