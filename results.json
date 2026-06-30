@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T03:27:41Z",
+  "updated": "2026-06-30T03:28:29Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 110,
+      "minute": 111,
       "home": 1,
       "away": 1,
       "goals": [
@@ -83,6 +83,12 @@
           "in": "C. Talbi",
           "minute": 87,
           "team": "MAR"
+        },
+        {
+          "out": "F. de Jong",
+          "in": "M. De Roon",
+          "minute": 110,
+          "team": "NED"
         }
       ],
       "stats": {
@@ -111,8 +117,8 @@
           1
         ],
         "passesAccurate": [
-          272,
-          700
+          273,
+          727
         ],
         "shotsTotal": [
           6,
@@ -131,8 +137,8 @@
           0
         ],
         "passesTotal": [
-          345,
-          770
+          346,
+          798
         ],
         "corners": [
           5,
@@ -148,7 +154,7 @@
         ],
         "fouls": [
           16,
-          13
+          14
         ],
         "home": "NED",
         "away": "MAR"
