@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:48:08Z",
+  "updated": "2026-06-30T02:48:56Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 1,
       "away": 0,
       "goals": [
@@ -52,6 +52,24 @@
           "out": "A. Bouaddi",
           "in": "S. El Mourabet",
           "minute": 79,
+          "team": "MAR"
+        },
+        {
+          "out": "R. Gravenberch",
+          "in": "Q. Timber",
+          "minute": 87,
+          "team": "NED"
+        },
+        {
+          "out": "M. van de Ven",
+          "in": "J. Hato",
+          "minute": 87,
+          "team": "NED"
+        },
+        {
+          "out": "A. Ounahi",
+          "in": "A. Sbai",
+          "minute": 87,
           "team": "MAR"
         }
       ],
