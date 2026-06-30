@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:29:41Z",
+  "updated": "2026-06-30T18:30:28Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 1,
       "goals": [
@@ -47,8 +47,8 @@
           85
         ],
         "passesTotal": [
-          314,
-          325
+          315,
+          328
         ],
         "red": [
           0,
@@ -83,8 +83,8 @@
           6
         ],
         "passesAccurate": [
-          265,
-          276
+          266,
+          279
         ],
         "corners": [
           12,
@@ -100,7 +100,7 @@
         ],
         "offsides": [
           1,
-          1
+          2
         ],
         "home": "CIV",
         "away": "NOR"
