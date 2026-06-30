@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:47:06Z",
+  "updated": "2026-06-30T18:47:53Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 1,
       "away": 2,
       "goals": [
@@ -23,7 +23,8 @@
         {
           "player": "E. Haaland",
           "minute": 86,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "P. Berg"
         }
       ],
       "cardEvents": [
@@ -64,12 +65,18 @@
           "in": "F. Aursnes",
           "minute": 83,
           "team": "NOR"
+        },
+        {
+          "out": "N. Pepe",
+          "in": "O. Diakite",
+          "minute": 87,
+          "team": "CIV"
         }
       ],
       "stats": {
         "shotsOn": [
           4,
-          3
+          4
         ],
         "passesPct": [
           85,
@@ -77,7 +84,7 @@
         ],
         "passesTotal": [
           364,
-          411
+          437
         ],
         "red": [
           0,
@@ -96,12 +103,12 @@
           3
         ],
         "possession": [
-          48,
-          52
+          47,
+          53
         ],
         "shotsInside": [
           9,
-          6
+          7
         ],
         "saves": [
           1,
@@ -113,7 +120,7 @@
         ],
         "passesAccurate": [
           309,
-          357
+          381
         ],
         "corners": [
           12,
@@ -121,7 +128,7 @@
         ],
         "shotsTotal": [
           12,
-          7
+          8
         ],
         "yellow": [
           0,
