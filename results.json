@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:28:07Z",
+  "updated": "2026-06-30T22:28:54Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 2,
       "away": 0,
       "goals": [
@@ -236,7 +236,7 @@
         "referee": "Danny Makkelie, Netherlands",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "FRA"
         }
       }
