@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T17:49:21Z",
+  "updated": "2026-06-30T17:50:08Z",
   "live": [
     {
       "id": 78,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 1,
       "goals": [
@@ -23,7 +23,6 @@
           "color": "yellow"
         }
       ],
-      "extra": 4,
       "stats": {
         "shotsOn": [
           1,
