@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T22:34:26Z",
+  "updated": "2026-06-30T22:35:13Z",
   "live": [
     {
       "id": 77,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 3,
       "away": 0,
       "goals": [
@@ -39,11 +39,23 @@
           "in": "B. Zeneli",
           "minute": 66,
           "team": "SWE"
+        },
+        {
+          "out": "J. Kounde",
+          "in": "M. Gusto",
+          "minute": 76,
+          "team": "FRA"
+        },
+        {
+          "out": "O. Dembele",
+          "in": "D. Doue",
+          "minute": 76,
+          "team": "FRA"
         }
       ],
       "stats": {
         "shotsOn": [
-          10,
+          11,
           1
         ],
         "passesPct": [
@@ -51,8 +63,8 @@
           76
         ],
         "passesTotal": [
-          438,
-          249
+          441,
+          250
         ],
         "red": [
           0,
@@ -75,7 +87,7 @@
           36
         ],
         "shotsInside": [
-          12,
+          13,
           4
         ],
         "saves": [
@@ -87,7 +99,7 @@
           8
         ],
         "passesAccurate": [
-          380,
+          383,
           190
         ],
         "corners": [
@@ -95,7 +107,7 @@
           1
         ],
         "shotsTotal": [
-          21,
+          22,
           4
         ],
         "yellow": [
