@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:21:01Z",
+  "updated": "2026-06-30T18:21:48Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 1,
       "goals": [
@@ -23,29 +23,43 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "C. Inao Oulai",
+          "in": "A. Diallo",
+          "minute": 60,
+          "team": "CIV"
+        },
+        {
+          "out": "A. Bonny",
+          "in": "E. Wahi",
+          "minute": 60,
+          "team": "CIV"
+        }
+      ],
       "stats": {
         "shotsOn": [
           3,
           2
         ],
         "passesPct": [
-          84,
+          85,
           86
         ],
         "passesTotal": [
-          264,
-          308
+          272,
+          312
         ],
         "red": [
           0,
           0
         ],
         "shotsOff": [
-          5,
+          6,
           1
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "shotsBlocked": [
@@ -66,18 +80,18 @@
         ],
         "fouls": [
           3,
-          5
+          6
         ],
         "passesAccurate": [
-          223,
-          265
+          230,
+          267
         ],
         "corners": [
-          10,
+          11,
           2
         ],
         "shotsTotal": [
-          8,
+          9,
           6
         ],
         "yellow": [
@@ -224,7 +238,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Antonio Nusa",
-          "rating": 7.2,
+          "rating": 7.5,
           "team": "NOR"
         }
       }
