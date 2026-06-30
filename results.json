@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T03:12:40Z",
+  "updated": "2026-06-30T03:13:27Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 99,
+      "minute": 100,
       "home": 1,
       "away": 1,
       "goals": [
@@ -265,9 +265,9 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "Issa Diop",
-          "rating": 7.3,
-          "team": "MAR"
+          "player": "C. Gakpo",
+          "rating": 7.54,
+          "team": "NED"
         }
       }
     }
