@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T01:18:01Z",
+  "updated": "2026-06-30T01:18:48Z",
   "live": [
     {
       "id": 75,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
@@ -173,13 +173,13 @@
                 "pos": "D"
               },
               {
-                "n": 24,
-                "name": "Neil El Aynaoui",
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
                 "pos": "M"
               },
               {
-                "n": 6,
-                "name": "Ayyoub Bouaddi",
+                "n": 24,
+                "name": "Neil El Aynaoui",
                 "pos": "M"
               },
               {
