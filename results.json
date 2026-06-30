@@ -1,313 +1,6 @@
 {
-  "updated": "2026-06-30T03:53:49Z",
-  "live": [
-    {
-      "id": 75,
-      "status": "PEN",
-      "minute": null,
-      "home": 1,
-      "away": 1,
-      "goals": [
-        {
-          "player": "C. Gakpo",
-          "minute": 72,
-          "team": "NED",
-          "assist": "C. Summerville"
-        },
-        {
-          "player": "I. Diop",
-          "minute": 90,
-          "team": "MAR",
-          "assist": "C. Talbi"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "I. Diop",
-          "minute": 47,
-          "team": "MAR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "N. Ake",
-          "in": "T. Koopmeiners",
-          "minute": 71,
-          "team": "NED"
-        },
-        {
-          "out": "B. Brobbey",
-          "in": "W. Weghorst",
-          "minute": 71,
-          "team": "NED"
-        },
-        {
-          "out": "C. Riad",
-          "in": "A. Salah-Eddine",
-          "minute": 75,
-          "team": "MAR"
-        },
-        {
-          "out": "B. Diaz",
-          "in": "G. Yassine",
-          "minute": 79,
-          "team": "MAR"
-        },
-        {
-          "out": "A. Bouaddi",
-          "in": "S. El Mourabet",
-          "minute": 79,
-          "team": "MAR"
-        },
-        {
-          "out": "A. Ounahi",
-          "in": "S. Rahimi",
-          "minute": 86,
-          "team": "MAR"
-        },
-        {
-          "out": "M. van de Ven",
-          "in": "J. Hato",
-          "minute": 86,
-          "team": "NED"
-        },
-        {
-          "out": "R. Gravenberch",
-          "in": "Q. Timber",
-          "minute": 86,
-          "team": "NED"
-        },
-        {
-          "out": "B. El Khannouss",
-          "in": "C. Talbi",
-          "minute": 87,
-          "team": "MAR"
-        },
-        {
-          "out": "F. de Jong",
-          "in": "M. De Roon",
-          "minute": 110,
-          "team": "NED"
-        },
-        {
-          "out": "C. Gakpo",
-          "in": "J. Kluivert",
-          "minute": 113,
-          "team": "NED"
-        }
-      ],
-      "stats": {
-        "passesPct": [
-          79,
-          91
-        ],
-        "shotsInside": [
-          4,
-          7
-        ],
-        "saves": [
-          5,
-          1
-        ],
-        "shotsOn": [
-          2,
-          5
-        ],
-        "possession": [
-          30,
-          70
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "passesAccurate": [
-          293,
-          800
-        ],
-        "shotsTotal": [
-          6,
-          11
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsBlocked": [
-          3,
-          2
-        ],
-        "offsides": [
-          3,
-          0
-        ],
-        "passesTotal": [
-          373,
-          878
-        ],
-        "corners": [
-          5,
-          8
-        ],
-        "shotsOutside": [
-          2,
-          4
-        ],
-        "shotsOff": [
-          1,
-          4
-        ],
-        "fouls": [
-          18,
-          15
-        ],
-        "home": "NED",
-        "away": "MAR"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "3-4-2-1",
-            "coach": "Ronald Koeman",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Bart Verbruggen",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Jan Paul van Hecke",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Virgil van Dijk",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Nathan Aké",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Denzel Dumfries",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Ryan Gravenberch",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Frenkie de Jong",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Micky van de Ven",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Crysencio Summerville",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Cody Gakpo",
-                "pos": "F"
-              },
-              {
-                "n": 19,
-                "name": "Brian Brobbey",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Mohamed Ouahbi",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Yassine Bounou",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Achraf Hakimi",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Issa Diop",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Chadi Riad",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Noussair Mazraoui",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Ayyoub Bouaddi",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Neil El Aynaoui",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Brahim Díaz",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Azzedine Ounahi",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Bilal El Khannouss",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ismael Saibari",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Wilton Pereira Sampaio, Brazil",
-        "motm": {
-          "player": "Bart Verbruggen",
-          "rating": 8.3,
-          "team": "NED"
-        }
-      },
-      "pen": {
-        "home": 2,
-        "away": 3
-      }
-    }
-  ],
+  "updated": "2026-06-30T03:54:36Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -22879,6 +22572,310 @@
       }
     },
     {
+      "id": 75,
+      "home": 1,
+      "away": 1,
+      "goals": [
+        {
+          "player": "C. Gakpo",
+          "minute": 72,
+          "team": "NED",
+          "assist": "C. Summerville"
+        },
+        {
+          "player": "I. Diop",
+          "minute": 90,
+          "team": "MAR",
+          "assist": "C. Talbi"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "I. Diop",
+          "minute": 47,
+          "team": "MAR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Ake",
+          "in": "T. Koopmeiners",
+          "minute": 71,
+          "team": "NED"
+        },
+        {
+          "out": "B. Brobbey",
+          "in": "W. Weghorst",
+          "minute": 71,
+          "team": "NED"
+        },
+        {
+          "out": "C. Riad",
+          "in": "A. Salah-Eddine",
+          "minute": 75,
+          "team": "MAR"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "G. Yassine",
+          "minute": 79,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Bouaddi",
+          "in": "S. El Mourabet",
+          "minute": 79,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Ounahi",
+          "in": "S. Rahimi",
+          "minute": 86,
+          "team": "MAR"
+        },
+        {
+          "out": "M. van de Ven",
+          "in": "J. Hato",
+          "minute": 86,
+          "team": "NED"
+        },
+        {
+          "out": "R. Gravenberch",
+          "in": "Q. Timber",
+          "minute": 86,
+          "team": "NED"
+        },
+        {
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
+          "minute": 87,
+          "team": "MAR"
+        },
+        {
+          "out": "F. de Jong",
+          "in": "M. De Roon",
+          "minute": 110,
+          "team": "NED"
+        },
+        {
+          "out": "C. Gakpo",
+          "in": "J. Kluivert",
+          "minute": 113,
+          "team": "NED"
+        }
+      ],
+      "stats": {
+        "passesPct": [
+          79,
+          91
+        ],
+        "shotsInside": [
+          4,
+          7
+        ],
+        "saves": [
+          5,
+          1
+        ],
+        "shotsOn": [
+          2,
+          5
+        ],
+        "possession": [
+          30,
+          70
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "passesAccurate": [
+          293,
+          800
+        ],
+        "shotsTotal": [
+          6,
+          11
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          3,
+          2
+        ],
+        "offsides": [
+          3,
+          0
+        ],
+        "passesTotal": [
+          373,
+          878
+        ],
+        "corners": [
+          5,
+          8
+        ],
+        "shotsOutside": [
+          2,
+          4
+        ],
+        "shotsOff": [
+          1,
+          4
+        ],
+        "fouls": [
+          18,
+          15
+        ],
+        "home": "NED",
+        "away": "MAR"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Ronald Koeman",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Bart Verbruggen",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Jan Paul van Hecke",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Virgil van Dijk",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Nathan Aké",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Denzel Dumfries",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Ryan Gravenberch",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Frenkie de Jong",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Micky van de Ven",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Crysencio Summerville",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Cody Gakpo",
+                "pos": "F"
+              },
+              {
+                "n": 19,
+                "name": "Brian Brobbey",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Mohamed Ouahbi",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yassine Bounou",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Achraf Hakimi",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Issa Diop",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Chadi Riad",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Noussair Mazraoui",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ayyoub Bouaddi",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Neil El Aynaoui",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Brahim Díaz",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Azzedine Ounahi",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Bilal El Khannouss",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ismael Saibari",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "Bart Verbruggen",
+          "rating": 8.3,
+          "team": "NED"
+        }
+      },
+      "pen": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
       "id": 76,
       "home": 2,
       "away": 1,
@@ -23250,6 +23247,12 @@
         "goals": 3
       },
       {
+        "player": "C. Gakpo",
+        "team": "NED",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -23305,12 +23308,6 @@
         "goals": 2
       },
       {
-        "player": "C. Gakpo",
-        "team": "NED",
-        "goals": 2,
-        "assists": 1
-      },
-      {
         "player": "C. Larin",
         "team": "CAN",
         "goals": 2
@@ -23324,7 +23321,7 @@
         "player": "C. Summerville",
         "team": "NED",
         "goals": 2,
-        "assists": 1
+        "assists": 2
       },
       {
         "player": "D. Kamada",
@@ -23400,6 +23397,12 @@
         "player": "Brahim Díaz",
         "team": "MAR",
         "assists": 2
+      },
+      {
+        "player": "C. Summerville",
+        "team": "NED",
+        "assists": 2,
+        "goals": 2
       },
       {
         "player": "Chris Wood",
@@ -23518,11 +23521,6 @@
         "player": "A. Schjelderup",
         "team": "NOR",
         "assists": 1
-      },
-      {
-        "player": "A. Seck",
-        "team": "SEN",
-        "assists": 1
       }
     ],
     "cards": [
@@ -23617,6 +23615,12 @@
         "yellow": 2
       },
       {
+        "player": "I. Diop",
+        "team": "MAR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Juninho Bacuna",
         "team": "CUR",
         "red": 0,
@@ -23699,12 +23703,6 @@
         "team": "EGY",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "A. Hickey",
-        "team": "SCO",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
@@ -23766,6 +23764,34 @@
       "form": "WWW"
     },
     {
+      "code": "NED",
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "loses": 0,
+      "gf": 11,
+      "ga": 5,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DWWD"
+    },
+    {
+      "code": "MAR",
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "loses": 0,
+      "gf": 7,
+      "ga": 4,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "4-2",
+      "biggestLose": "",
+      "form": "DWWD"
+    },
+    {
       "code": "CAN",
       "played": 4,
       "wins": 2,
@@ -23792,20 +23818,6 @@
       "biggestWin": "7-1",
       "biggestLose": "1-2",
       "form": "WWLD"
-    },
-    {
-      "code": "NED",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 10,
-      "ga": 4,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "5-1",
-      "biggestLose": "",
-      "form": "DWW"
     },
     {
       "code": "ESP",
@@ -23848,20 +23860,6 @@
       "biggestWin": "4-2",
       "biggestLose": "",
       "form": "WDW"
-    },
-    {
-      "code": "MAR",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 6,
-      "ga": 3,
-      "cleanSheets": 1,
-      "failedToScore": 0,
-      "biggestWin": "4-2",
-      "biggestLose": "",
-      "form": "DWW"
     },
     {
       "code": "COL",
