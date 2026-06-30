@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T03:04:46Z",
+  "updated": "2026-06-30T03:05:34Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 96,
+      "minute": 97,
       "home": 1,
       "away": 1,
       "goals": [
@@ -131,8 +131,8 @@
           0
         ],
         "passesTotal": [
-          316,
-          596
+          315,
+          597
         ],
         "corners": [
           5,
