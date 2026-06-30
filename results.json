@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T01:41:41Z",
+  "updated": "2026-06-30T01:42:28Z",
   "live": [
     {
       "id": 75,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 0,
       "stats": {
@@ -49,7 +49,7 @@
           1
         ],
         "fouls": [
-          3,
+          4,
           5
         ],
         "home": "NED",
