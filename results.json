@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:06:58Z",
+  "updated": "2026-06-30T02:07:46Z",
   "live": [
     {
       "id": 75,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "stats": {
@@ -185,7 +185,12 @@
             ]
           }
         },
-        "referee": "Wilton Pereira Sampaio, Brazil"
+        "referee": "Wilton Pereira Sampaio, Brazil",
+        "motm": {
+          "player": "B. Verbruggen",
+          "rating": 7.25,
+          "team": "NED"
+        }
       }
     }
   ],
