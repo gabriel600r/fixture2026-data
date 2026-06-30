@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:32:04Z",
+  "updated": "2026-06-30T18:32:52Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 1,
       "goals": [
@@ -45,7 +45,7 @@
         {
           "out": "A. Nusa",
           "in": "A. Schjelderup",
-          "minute": 72,
+          "minute": 71,
           "team": "NOR"
         }
       ],
@@ -60,7 +60,7 @@
         ],
         "passesTotal": [
           315,
-          328
+          330
         ],
         "red": [
           0,
@@ -68,7 +68,7 @@
         ],
         "shotsOff": [
           7,
-          2
+          1
         ],
         "shotsOutside": [
           3,
@@ -84,7 +84,7 @@
         ],
         "shotsInside": [
           7,
-          7
+          6
         ],
         "saves": [
           1,
@@ -96,7 +96,7 @@
         ],
         "passesAccurate": [
           266,
-          279
+          281
         ],
         "corners": [
           12,
@@ -104,7 +104,7 @@
         ],
         "shotsTotal": [
           10,
-          8
+          7
         ],
         "yellow": [
           0,
