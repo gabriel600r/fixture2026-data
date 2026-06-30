@@ -22577,7 +22577,81 @@
       "pen": {
         "home": 3,
         "away": 4
-      }
+      },
+      "penEvents": [
+        {
+          "player": "K. Havertz",
+          "team": "GER",
+          "scored": false,
+          "order": 1
+        },
+        {
+          "player": "Maurício",
+          "team": "PAR",
+          "scored": true,
+          "order": 2
+        },
+        {
+          "player": "J. Kimmich",
+          "team": "GER",
+          "scored": true,
+          "order": 3
+        },
+        {
+          "player": "G. Gómez",
+          "team": "PAR",
+          "scored": true,
+          "order": 4
+        },
+        {
+          "player": "J. Musiala",
+          "team": "GER",
+          "scored": true,
+          "order": 5
+        },
+        {
+          "player": "M. Galarza",
+          "team": "PAR",
+          "scored": true,
+          "order": 6
+        },
+        {
+          "player": "N. Woltemade",
+          "team": "GER",
+          "scored": false,
+          "order": 7
+        },
+        {
+          "player": "A. Sanabria",
+          "team": "PAR",
+          "scored": false,
+          "order": 8
+        },
+        {
+          "player": "N. Amiri",
+          "team": "GER",
+          "scored": true,
+          "order": 9
+        },
+        {
+          "player": "F. Balbuena",
+          "team": "PAR",
+          "scored": false,
+          "order": 10
+        },
+        {
+          "player": "J. Tah",
+          "team": "GER",
+          "scored": false,
+          "order": 11
+        },
+        {
+          "player": "J. Canale",
+          "team": "PAR",
+          "scored": true,
+          "order": 12
+        }
+      ]
     },
     {
       "id": 75,
@@ -22881,7 +22955,69 @@
       "pen": {
         "home": 2,
         "away": 3
-      }
+      },
+      "penEvents": [
+        {
+          "player": "T. Koopmeiners",
+          "team": "NED",
+          "scored": true,
+          "order": 1
+        },
+        {
+          "player": "N. El Aynaoui",
+          "team": "MAR",
+          "scored": false,
+          "order": 2
+        },
+        {
+          "player": "J. Kluivert",
+          "team": "NED",
+          "scored": false,
+          "order": 3
+        },
+        {
+          "player": "S. Rahimi",
+          "team": "MAR",
+          "scored": true,
+          "order": 4
+        },
+        {
+          "player": "W. Weghorst",
+          "team": "NED",
+          "scored": true,
+          "order": 5
+        },
+        {
+          "player": "C. Talbi",
+          "team": "MAR",
+          "scored": true,
+          "order": 6
+        },
+        {
+          "player": "Q. Timber",
+          "team": "NED",
+          "scored": false,
+          "order": 7
+        },
+        {
+          "player": "A. Hakimi",
+          "team": "MAR",
+          "scored": false,
+          "order": 8
+        },
+        {
+          "player": "C. Summerville",
+          "team": "NED",
+          "scored": false,
+          "order": 9
+        },
+        {
+          "player": "I. Saibari",
+          "team": "MAR",
+          "scored": true,
+          "order": 10
+        }
+      ]
     },
     {
       "id": 76,
