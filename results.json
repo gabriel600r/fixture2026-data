@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:18:38Z",
+  "updated": "2026-06-30T18:19:25Z",
   "live": [
     {
       "id": 78,
@@ -25,7 +25,7 @@
       ],
       "stats": {
         "shotsOn": [
-          2,
+          3,
           2
         ],
         "passesPct": [
@@ -33,8 +33,8 @@
           86
         ],
         "passesTotal": [
-          253,
-          304
+          264,
+          308
         ],
         "red": [
           0,
@@ -53,31 +53,31 @@
           3
         ],
         "possession": [
-          47,
-          53
+          48,
+          52
         ],
         "shotsInside": [
-          5,
+          6,
           5
         ],
         "saves": [
           1,
-          2
+          3
         ],
         "fouls": [
-          2,
+          3,
           5
         ],
         "passesAccurate": [
-          212,
-          261
+          223,
+          265
         ],
         "corners": [
           10,
           2
         ],
         "shotsTotal": [
-          7,
+          8,
           6
         ],
         "yellow": [
@@ -224,7 +224,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Antonio Nusa",
-          "rating": 7.5,
+          "rating": 7.2,
           "team": "NOR"
         }
       }
