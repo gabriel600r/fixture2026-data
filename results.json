@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:43:09Z",
+  "updated": "2026-06-30T18:43:56Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -71,8 +71,8 @@
           87
         ],
         "passesTotal": [
-          347,
-          387
+          356,
+          402
         ],
         "red": [
           0,
@@ -107,8 +107,8 @@
           6
         ],
         "passesAccurate": [
-          296,
-          335
+          302,
+          349
         ],
         "corners": [
           12,
@@ -262,7 +262,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Amad Diallo",
-          "rating": 9.0,
+          "rating": 9.2,
           "team": "CIV"
         }
       }
