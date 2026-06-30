@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:51:46Z",
+  "updated": "2026-06-30T22:52:33Z",
   "live": [
     {
       "id": 77,
@@ -89,7 +89,7 @@
           "team": "SWE"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOn": [
           12,
@@ -97,18 +97,18 @@
         ],
         "passesPct": [
           88,
-          78
+          79
         ],
         "passesTotal": [
-          540,
-          307
+          551,
+          343
         ],
         "red": [
           0,
           0
         ],
         "shotsOff": [
-          8,
+          9,
           4
         ],
         "shotsOutside": [
@@ -120,11 +120,11 @@
           0
         ],
         "possession": [
-          64,
-          36
+          62,
+          38
         ],
         "shotsInside": [
-          15,
+          16,
           5
         ],
         "saves": [
@@ -132,19 +132,19 @@
           9
         ],
         "fouls": [
-          12,
+          13,
           10
         ],
         "passesAccurate": [
-          476,
-          240
+          485,
+          271
         ],
         "corners": [
           9,
           1
         ],
         "shotsTotal": [
-          24,
+          25,
           6
         ],
         "yellow": [
