@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:33:08Z",
+  "updated": "2026-06-30T02:33:56Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -15,9 +15,23 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "Nathan Aké",
+          "in": "Teun Koopmeiners",
+          "minute": 71,
+          "team": "NED"
+        },
+        {
+          "out": "Brian Brobbey",
+          "in": "Wout Weghorst",
+          "minute": 71,
+          "team": "NED"
+        }
+      ],
       "stats": {
         "saves": [
-          3,
+          4,
           1
         ],
         "shotsOn": [
@@ -25,8 +39,8 @@
           3
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "yellow": [
           0,
