@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-30T17:39:04Z",
+  "updated": "2026-06-30T17:39:52Z",
   "live": [
     {
       "id": 78,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Nusa",
+          "minute": 39,
+          "team": "NOR"
+        }
+      ],
       "stats": {
         "shotsOn": [
           1,
