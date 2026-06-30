@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:25:13Z",
+  "updated": "2026-06-30T02:26:01Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -50,7 +50,7 @@
         ],
         "corners": [
           4,
-          5
+          6
         ],
         "shotsOff": [
           1,
@@ -195,9 +195,9 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "B. Verbruggen",
-          "rating": 7.47,
-          "team": "NED"
+          "player": "A. Ounahi",
+          "rating": 7.2,
+          "team": "MAR"
         }
       }
     }
