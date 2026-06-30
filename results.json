@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:53:26Z",
+  "updated": "2026-06-30T18:54:13Z",
   "live": [
     {
       "id": 78,
@@ -75,6 +75,12 @@
         {
           "out": "Y. Diomande",
           "in": "E. Guessand",
+          "minute": 90,
+          "team": "CIV"
+        },
+        {
+          "out": "G. Konan",
+          "in": "B. Toure",
           "minute": 90,
           "team": "CIV"
         }
