@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:40:44Z",
+  "updated": "2026-06-30T22:41:32Z",
   "live": [
     {
       "id": 77,
@@ -57,6 +57,18 @@
           "in": "T. Hernandez",
           "minute": 78,
           "team": "FRA"
+        },
+        {
+          "out": "D. Svensson",
+          "in": "M. Svanberg",
+          "minute": 82,
+          "team": "SWE"
+        },
+        {
+          "out": "Y. Ayari",
+          "in": "B. Nygren",
+          "minute": 82,
+          "team": "SWE"
         }
       ],
       "stats": {
@@ -65,12 +77,12 @@
           1
         ],
         "passesPct": [
-          87,
+          88,
           77
         ],
         "passesTotal": [
-          464,
-          266
+          489,
+          270
         ],
         "red": [
           0,
@@ -89,8 +101,8 @@
           0
         ],
         "possession": [
-          63,
-          37
+          64,
+          36
         ],
         "shotsInside": [
           13,
@@ -102,11 +114,11 @@
         ],
         "fouls": [
           10,
-          9
+          10
         ],
         "passesAccurate": [
-          405,
-          205
+          429,
+          208
         ],
         "corners": [
           8,
