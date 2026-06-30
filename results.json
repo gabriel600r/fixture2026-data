@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T03:45:08Z",
+  "updated": "2026-06-30T03:45:56Z",
   "live": [
     {
       "id": 75,
@@ -99,7 +99,7 @@
       ],
       "stats": {
         "passesPct": [
-          78,
+          79,
           91
         ],
         "shotsInside": [
@@ -115,16 +115,16 @@
           5
         ],
         "possession": [
-          29,
-          71
+          30,
+          70
         ],
         "yellow": [
           0,
           1
         ],
         "passesAccurate": [
-          277,
-          787
+          293,
+          800
         ],
         "shotsTotal": [
           6,
@@ -143,8 +143,8 @@
           0
         ],
         "passesTotal": [
-          353,
-          863
+          373,
+          878
         ],
         "corners": [
           5,
@@ -301,6 +301,10 @@
           "rating": 8.3,
           "team": "NED"
         }
+      },
+      "pen": {
+        "home": 1,
+        "away": 0
       }
     }
   ],
