@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:37:05Z",
+  "updated": "2026-06-30T02:37:53Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 0,
       "goals": [
@@ -35,12 +35,18 @@
           "in": "W. Weghorst",
           "minute": 71,
           "team": "NED"
+        },
+        {
+          "out": "C. Riad",
+          "in": "A. Salah-Eddine",
+          "minute": 75,
+          "team": "MAR"
         }
       ],
       "stats": {
         "passesPct": [
           84,
-          91
+          90
         ],
         "shotsInside": [
           4,
@@ -55,8 +61,8 @@
           3
         ],
         "possession": [
-          39,
-          61
+          38,
+          62
         ],
         "yellow": [
           0,
@@ -64,7 +70,7 @@
         ],
         "passesAccurate": [
           230,
-          395
+          406
         ],
         "shotsTotal": [
           6,
@@ -84,7 +90,7 @@
         ],
         "passesTotal": [
           275,
-          436
+          449
         ],
         "corners": [
           4,
@@ -237,8 +243,8 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "Bart Verbruggen",
-          "rating": 7.6,
+          "player": "Cody Gakpo",
+          "rating": 7.2,
           "team": "NED"
         }
       }
