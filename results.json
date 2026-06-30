@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:48:39Z",
+  "updated": "2026-06-30T21:49:26Z",
   "live": [
     {
       "id": 77,
@@ -15,19 +15,19 @@
           "assist": "O. Dembele"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOn": [
           6,
           1
         ],
         "passesPct": [
-          89,
-          63
+          88,
+          68
         ],
         "passesTotal": [
-          279,
-          95
+          283,
+          112
         ],
         "red": [
           0,
@@ -35,7 +35,7 @@
         ],
         "shotsOff": [
           7,
-          1
+          2
         ],
         "shotsOutside": [
           7,
@@ -46,12 +46,12 @@
           0
         ],
         "possession": [
-          75,
-          25
+          72,
+          28
         ],
         "shotsInside": [
           8,
-          2
+          3
         ],
         "saves": [
           1,
@@ -62,8 +62,8 @@
           6
         ],
         "passesAccurate": [
-          248,
-          60
+          249,
+          76
         ],
         "corners": [
           6,
@@ -71,7 +71,7 @@
         ],
         "shotsTotal": [
           15,
-          2
+          3
         ],
         "yellow": [
           0,
@@ -79,7 +79,7 @@
         ],
         "offsides": [
           1,
-          0
+          1
         ],
         "home": "FRA",
         "away": "SWE"
