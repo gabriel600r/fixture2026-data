@@ -1,298 +1,6 @@
 {
-  "updated": "2026-06-30T18:58:12Z",
-  "live": [
-    {
-      "id": 78,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 2,
-      "goals": [
-        {
-          "player": "A. Nusa",
-          "minute": 39,
-          "team": "NOR",
-          "assist": "M. Odegaard"
-        },
-        {
-          "player": "A. Diallo",
-          "minute": 74,
-          "team": "CIV",
-          "assist": "N. Pepe"
-        },
-        {
-          "player": "E. Haaland",
-          "minute": 86,
-          "team": "NOR",
-          "assist": "P. Berg"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Nusa",
-          "minute": 45,
-          "team": "NOR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "C. Inao Oulai",
-          "in": "A. Diallo",
-          "minute": 60,
-          "team": "CIV"
-        },
-        {
-          "out": "A. Bonny",
-          "in": "E. Wahi",
-          "minute": 60,
-          "team": "CIV"
-        },
-        {
-          "out": "A. Sorloth",
-          "in": "O. Bobb",
-          "minute": 71,
-          "team": "NOR"
-        },
-        {
-          "out": "A. Nusa",
-          "in": "A. Schjelderup",
-          "minute": 71,
-          "team": "NOR"
-        },
-        {
-          "out": "M. Pedersen",
-          "in": "F. Aursnes",
-          "minute": 83,
-          "team": "NOR"
-        },
-        {
-          "out": "N. Pepe",
-          "in": "O. Diakite",
-          "minute": 87,
-          "team": "CIV"
-        },
-        {
-          "out": "Y. Diomande",
-          "in": "E. Guessand",
-          "minute": 90,
-          "team": "CIV"
-        },
-        {
-          "out": "G. Konan",
-          "in": "B. Toure",
-          "minute": 90,
-          "team": "CIV"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "shotsOn": [
-          4,
-          4
-        ],
-        "passesPct": [
-          85,
-          88
-        ],
-        "passesTotal": [
-          390,
-          471
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOff": [
-          8,
-          2
-        ],
-        "shotsOutside": [
-          3,
-          1
-        ],
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "possession": [
-          46,
-          54
-        ],
-        "shotsInside": [
-          9,
-          8
-        ],
-        "saves": [
-          1,
-          3
-        ],
-        "fouls": [
-          6,
-          6
-        ],
-        "passesAccurate": [
-          332,
-          413
-        ],
-        "corners": [
-          12,
-          3
-        ],
-        "shotsTotal": [
-          12,
-          9
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "offsides": [
-          2,
-          2
-        ],
-        "home": "CIV",
-        "away": "NOR"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-4-1",
-            "coach": "Emerse Fae",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Yahia Fofana",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "Guéla Doué",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "Odilon Kossounou",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Emmanuel Agbadou",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Ghislain Konan",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Ibrahim Sangaré",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Nicolas Pépé",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Franck Kessié",
-                "pos": "M"
-              },
-              {
-                "n": 26,
-                "name": "Christ Inao Oulaï",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Yan Diomande",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Ange-Yoan Bonny",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Stale Solbakken",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Ørjan Nyland",
-                "pos": "G"
-              },
-              {
-                "n": 16,
-                "name": "Marcus Pedersen",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kristoffer Ajer",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Torbjørn Heggem",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "David Møller Wolfe",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Martin Ødegaard",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Sander Berge",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Patrick Berg",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Alexander Sørloth",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Erling Haaland",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Antonio Nusa",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Jesús Valenzuela, Venezuela",
-        "motm": {
-          "player": "Amad Diallo",
-          "rating": 9.2,
-          "team": "CIV"
-        }
-      }
-    }
-  ],
+  "updated": "2026-06-30T18:58:59Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -23627,6 +23335,294 @@
           "team": "BRA"
         }
       }
+    },
+    {
+      "id": 78,
+      "home": 1,
+      "away": 2,
+      "goals": [
+        {
+          "player": "A. Nusa",
+          "minute": 39,
+          "team": "NOR",
+          "assist": "M. Odegaard"
+        },
+        {
+          "player": "A. Diallo",
+          "minute": 74,
+          "team": "CIV",
+          "assist": "N. Pepe"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 86,
+          "team": "NOR",
+          "assist": "P. Berg"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Nusa",
+          "minute": 45,
+          "team": "NOR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Inao Oulai",
+          "in": "A. Diallo",
+          "minute": 60,
+          "team": "CIV"
+        },
+        {
+          "out": "A. Bonny",
+          "in": "E. Wahi",
+          "minute": 60,
+          "team": "CIV"
+        },
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 71,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Nusa",
+          "in": "A. Schjelderup",
+          "minute": 71,
+          "team": "NOR"
+        },
+        {
+          "out": "M. Pedersen",
+          "in": "F. Aursnes",
+          "minute": 83,
+          "team": "NOR"
+        },
+        {
+          "out": "N. Pepe",
+          "in": "O. Diakite",
+          "minute": 87,
+          "team": "CIV"
+        },
+        {
+          "out": "Y. Diomande",
+          "in": "E. Guessand",
+          "minute": 90,
+          "team": "CIV"
+        },
+        {
+          "out": "G. Konan",
+          "in": "B. Toure",
+          "minute": 90,
+          "team": "CIV"
+        }
+      ],
+      "stats": {
+        "shotsOn": [
+          4,
+          4
+        ],
+        "passesPct": [
+          85,
+          88
+        ],
+        "passesTotal": [
+          390,
+          471
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          8,
+          2
+        ],
+        "shotsOutside": [
+          3,
+          1
+        ],
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "possession": [
+          46,
+          54
+        ],
+        "shotsInside": [
+          9,
+          8
+        ],
+        "saves": [
+          1,
+          3
+        ],
+        "fouls": [
+          6,
+          6
+        ],
+        "passesAccurate": [
+          332,
+          413
+        ],
+        "corners": [
+          12,
+          3
+        ],
+        "shotsTotal": [
+          12,
+          9
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "offsides": [
+          2,
+          2
+        ],
+        "home": "CIV",
+        "away": "NOR"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-4-1",
+            "coach": "Emerse Fae",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Yahia Fofana",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Guéla Doué",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Odilon Kossounou",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Emmanuel Agbadou",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Ghislain Konan",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Ibrahim Sangaré",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nicolas Pépé",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Franck Kessié",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Christ Inao Oulaï",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Yan Diomande",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Ange-Yoan Bonny",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Stale Solbakken",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Ørjan Nyland",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Marcus Pedersen",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kristoffer Ajer",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Torbjørn Heggem",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "David Møller Wolfe",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Martin Ødegaard",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Sander Berge",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Patrick Berg",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Alexander Sørloth",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Erling Haaland",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "Antonio Nusa",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Amad Diallo",
+          "rating": 9.2,
+          "team": "CIV"
+        }
+      }
     }
   ],
   "stats": {
@@ -23639,7 +23635,7 @@
       {
         "player": "E. Haaland",
         "team": "NOR",
-        "goals": 4
+        "goals": 5
       },
       {
         "player": "Kylian Mbappé",
@@ -23733,6 +23729,11 @@
         "penalties": 1
       },
       {
+        "player": "A. Diallo",
+        "team": "CIV",
+        "goals": 2
+      },
+      {
         "player": "A. Ueda",
         "team": "JPN",
         "goals": 2,
@@ -23789,11 +23790,6 @@
         "player": "Julián Quiñones",
         "team": "MEX",
         "goals": 2
-      },
-      {
-        "player": "L. Trossard",
-        "team": "BEL",
-        "goals": 2
       }
     ],
     "assists": [
@@ -23811,6 +23807,11 @@
       {
         "player": "Florian Wirtz",
         "team": "GER",
+        "assists": 3
+      },
+      {
+        "player": "M. Odegaard",
+        "team": "NOR",
         "assists": 3
       },
       {
@@ -23890,11 +23891,6 @@
         "goals": 4
       },
       {
-        "player": "M. Odegaard",
-        "team": "NOR",
-        "assists": 2
-      },
-      {
         "player": "M. Salah",
         "team": "EGY",
         "assists": 2,
@@ -23905,6 +23901,11 @@
         "team": "CAN",
         "assists": 2,
         "goals": 1
+      },
+      {
+        "player": "P. Berg",
+        "team": "NOR",
+        "assists": 2
       },
       {
         "player": "R. Gravenberch",
@@ -23951,11 +23952,6 @@
       {
         "player": "A. Rabiot",
         "team": "FRA",
-        "assists": 1
-      },
-      {
-        "player": "A. Schjelderup",
-        "team": "NOR",
         "assists": 1
       }
     ],
@@ -24200,6 +24196,20 @@
       "form": "WWW"
     },
     {
+      "code": "NOR",
+      "played": 4,
+      "wins": 3,
+      "draws": 0,
+      "loses": 1,
+      "gf": 10,
+      "ga": 8,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "1-4",
+      "form": "WWLW"
+    },
+    {
       "code": "NED",
       "played": 4,
       "wins": 2,
@@ -24327,31 +24337,17 @@
     },
     {
       "code": "CIV",
-      "played": 3,
+      "played": 4,
       "wins": 2,
       "draws": 0,
-      "loses": 1,
-      "gf": 4,
-      "ga": 2,
+      "loses": 2,
+      "gf": 5,
+      "ga": 4,
       "cleanSheets": 2,
       "failedToScore": 0,
       "biggestWin": "2-0",
       "biggestLose": "1-2",
-      "form": "WLW"
-    },
-    {
-      "code": "NOR",
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "loses": 1,
-      "gf": 8,
-      "ga": 7,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "1-4",
-      "form": "WWL"
+      "form": "WLWL"
     },
     {
       "code": "CRO",
