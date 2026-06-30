@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:41:02Z",
+  "updated": "2026-06-30T02:41:49Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 0,
       "goals": [
@@ -41,12 +41,24 @@
           "in": "A. Salah-Eddine",
           "minute": 75,
           "team": "MAR"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "A. El Kaabi",
+          "minute": 79,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Bouaddi",
+          "in": "S. El Mourabet",
+          "minute": 79,
+          "team": "MAR"
         }
       ],
       "stats": {
         "passesPct": [
           84,
-          91
+          90
         ],
         "shotsInside": [
           4,
@@ -69,12 +81,12 @@
           1
         ],
         "passesAccurate": [
-          231,
-          443
+          233,
+          447
         ],
         "shotsTotal": [
           6,
-          8
+          9
         ],
         "red": [
           0,
@@ -82,30 +94,30 @@
         ],
         "shotsBlocked": [
           3,
-          1
+          2
         ],
         "offsides": [
           3,
           0
         ],
         "passesTotal": [
-          276,
-          486
+          278,
+          494
         ],
         "corners": [
           4,
-          6
+          7
         ],
         "shotsOutside": [
           2,
-          3
+          4
         ],
         "shotsOff": [
           1,
           4
         ],
         "fouls": [
-          9,
+          10,
           7
         ],
         "home": "NED",
