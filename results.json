@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-30T21:45:25Z",
+  "updated": "2026-06-30T21:46:13Z",
   "live": [
     {
       "id": 77,
       "status": "1H",
-      "minute": 44,
-      "home": 0,
+      "minute": 45,
+      "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "K. Mbappe",
           "minute": 45,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "O. Dembele"
         }
       ],
       "stats": {
@@ -20,27 +21,27 @@
           1
         ],
         "passesPct": [
-          89,
-          66
+          88,
+          63
         ],
         "passesTotal": [
-          252,
-          90
+          266,
+          94
         ],
         "red": [
           0,
           0
         ],
         "shotsOff": [
-          6,
+          7,
           1
         ],
         "shotsOutside": [
-          5,
+          6,
           0
         ],
         "shotsBlocked": [
-          1,
+          2,
           0
         ],
         "possession": [
@@ -48,7 +49,7 @@
           26
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "saves": [
@@ -60,15 +61,15 @@
           6
         ],
         "passesAccurate": [
-          224,
+          235,
           59
         ],
         "corners": [
-          4,
+          5,
           0
         ],
         "shotsTotal": [
-          11,
+          13,
           2
         ],
         "yellow": [
