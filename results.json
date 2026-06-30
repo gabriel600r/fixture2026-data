@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T02:08:33Z",
+  "updated": "2026-06-30T02:09:21Z",
   "live": [
     {
       "id": 75,
@@ -7,10 +7,18 @@
       "minute": 47,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "I. Diop",
+          "minute": 47,
+          "team": "MAR",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "passesPct": [
           86,
-          89
+          88
         ],
         "shotsInside": [
           2,
@@ -33,8 +41,8 @@
           0
         ],
         "passesAccurate": [
-          184,
-          195
+          191,
+          196
         ],
         "shotsTotal": [
           3,
@@ -53,8 +61,8 @@
           0
         ],
         "passesTotal": [
-          215,
-          219
+          223,
+          224
         ],
         "corners": [
           4,
@@ -65,12 +73,12 @@
           1
         ],
         "shotsOff": [
-          0,
+          1,
           2
         ],
         "fouls": [
           6,
-          5
+          6
         ],
         "home": "NED",
         "away": "MAR"
@@ -207,8 +215,8 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "B. Verbruggen",
-          "rating": 7.25,
+          "player": "Bart Verbruggen",
+          "rating": 7.7,
           "team": "NED"
         }
       }
