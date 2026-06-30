@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:41:49Z",
+  "updated": "2026-06-30T02:42:37Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 1,
       "away": 0,
       "goals": [
@@ -44,7 +44,7 @@
         },
         {
           "out": "B. Diaz",
-          "in": "A. El Kaabi",
+          "in": "G. Yassine",
           "minute": 79,
           "team": "MAR"
         },
