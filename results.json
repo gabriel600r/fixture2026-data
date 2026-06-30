@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:36:50Z",
+  "updated": "2026-06-30T18:37:38Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 1,
       "away": 1,
       "goals": [
@@ -255,9 +255,9 @@
         },
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
-          "player": "Antonio Nusa",
-          "rating": 7.2,
-          "team": "NOR"
+          "player": "Amad Diallo",
+          "rating": 9.0,
+          "team": "CIV"
         }
       }
     }
