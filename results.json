@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T02:48:56Z",
+  "updated": "2026-06-30T02:49:43Z",
   "live": [
     {
       "id": 75,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 1,
       "away": 0,
       "goals": [
@@ -69,6 +69,12 @@
         {
           "out": "A. Ounahi",
           "in": "A. Sbai",
+          "minute": 87,
+          "team": "MAR"
+        },
+        {
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
           "minute": 87,
           "team": "MAR"
         }
