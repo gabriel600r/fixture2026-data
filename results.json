@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T03:22:11Z",
+  "updated": "2026-06-30T03:22:58Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 120,
+      "minute": 94,
       "home": 1,
       "away": 1,
       "goals": [
@@ -148,7 +148,7 @@
         ],
         "fouls": [
           15,
-          12
+          13
         ],
         "home": "NED",
         "away": "MAR"
