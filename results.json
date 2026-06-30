@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-30T03:19:49Z",
+  "updated": "2026-06-30T03:20:36Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 106,
+      "minute": 120,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "Cody Gakpo",
+          "player": "C. Gakpo",
           "minute": 72,
           "team": "NED",
-          "assist": "Crysencio Summerville"
+          "assist": "C. Summerville"
         },
         {
-          "player": "Issa Diop",
-          "minute": 91,
+          "player": "I. Diop",
+          "minute": 90,
           "team": "MAR",
-          "assist": "Chemsdine Talbi"
+          "assist": "C. Talbi"
         }
       ],
       "cardEvents": [
         {
-          "player": "Issa Diop",
+          "player": "I. Diop",
           "minute": 47,
           "team": "MAR",
           "color": "yellow"
@@ -31,56 +31,56 @@
       ],
       "subs": [
         {
-          "out": "Nathan Aké",
-          "in": "Teun Koopmeiners",
+          "out": "N. Ake",
+          "in": "T. Koopmeiners",
           "minute": 71,
           "team": "NED"
         },
         {
-          "out": "Brian Brobbey",
-          "in": "Wout Weghorst",
+          "out": "B. Brobbey",
+          "in": "W. Weghorst",
           "minute": 71,
           "team": "NED"
         },
         {
-          "out": "Chadi Riad",
-          "in": "Anass Salah-Eddine",
+          "out": "C. Riad",
+          "in": "A. Salah-Eddine",
           "minute": 75,
           "team": "MAR"
         },
         {
-          "out": "Brahim Díaz",
-          "in": "Gessime Yassine",
+          "out": "B. Diaz",
+          "in": "G. Yassine",
           "minute": 79,
           "team": "MAR"
         },
         {
-          "out": "Ayyoub Bouaddi",
-          "in": "Samir El-Mourabet",
+          "out": "A. Bouaddi",
+          "in": "S. El Mourabet",
           "minute": 79,
           "team": "MAR"
         },
         {
-          "out": "Azzedine Ounahi",
-          "in": "Soufiane Rahimi",
+          "out": "A. Ounahi",
+          "in": "S. Rahimi",
           "minute": 86,
           "team": "MAR"
         },
         {
-          "out": "Micky van de Ven",
-          "in": "Jorrel Hato",
+          "out": "M. van de Ven",
+          "in": "J. Hato",
           "minute": 86,
           "team": "NED"
         },
         {
-          "out": "Ryan Gravenberch",
-          "in": "Quinten Timber",
+          "out": "R. Gravenberch",
+          "in": "Q. Timber",
           "minute": 86,
           "team": "NED"
         },
         {
-          "out": "Bilal El Khannouss",
-          "in": "Chemsdine Talbi",
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
           "minute": 87,
           "team": "MAR"
         }
