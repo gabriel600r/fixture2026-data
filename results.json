@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:42:22Z",
+  "updated": "2026-06-30T18:43:09Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 1,
       "away": 1,
       "goals": [
@@ -52,6 +52,12 @@
           "out": "A. Nusa",
           "in": "A. Schjelderup",
           "minute": 71,
+          "team": "NOR"
+        },
+        {
+          "out": "M. Pedersen",
+          "in": "F. Aursnes",
+          "minute": 83,
           "team": "NOR"
         }
       ],
