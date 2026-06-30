@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T17:17:38Z",
+  "updated": "2026-06-30T17:18:25Z",
   "live": [
     {
       "id": 78,
       "status": "1H",
-      "minute": 17,
+      "minute": 18,
       "home": 0,
       "away": 0,
       "stats": {
@@ -14,11 +14,11 @@
         ],
         "passesPct": [
           83,
-          83
+          84
         ],
         "passesTotal": [
-          88,
-          92
+          89,
+          102
         ],
         "red": [
           0,
@@ -37,8 +37,8 @@
           1
         ],
         "possession": [
-          50,
-          50
+          48,
+          52
         ],
         "shotsInside": [
           1,
@@ -53,11 +53,11 @@
           1
         ],
         "passesAccurate": [
-          73,
-          76
+          74,
+          86
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "shotsTotal": [
