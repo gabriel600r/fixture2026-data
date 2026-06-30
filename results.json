@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T03:20:36Z",
+  "updated": "2026-06-30T03:21:23Z",
   "live": [
     {
       "id": 75,
@@ -86,6 +86,14 @@
         }
       ],
       "stats": {
+        "passesPct": [
+          79,
+          91
+        ],
+        "shotsInside": [
+          4,
+          7
+        ],
         "saves": [
           5,
           1
@@ -101,6 +109,10 @@
         "yellow": [
           0,
           1
+        ],
+        "passesAccurate": [
+          272,
+          665
         ],
         "shotsTotal": [
           6,
@@ -118,9 +130,17 @@
           3,
           0
         ],
+        "passesTotal": [
+          344,
+          733
+        ],
         "corners": [
           5,
           8
+        ],
+        "shotsOutside": [
+          2,
+          4
         ],
         "shotsOff": [
           1,
@@ -128,7 +148,7 @@
         ],
         "fouls": [
           15,
-          13
+          12
         ],
         "home": "NED",
         "away": "MAR"
@@ -265,9 +285,9 @@
         },
         "referee": "Wilton Pereira Sampaio, Brazil",
         "motm": {
-          "player": "C. Gakpo",
-          "rating": 7.54,
-          "team": "NED"
+          "player": "Issa Diop",
+          "rating": 7.3,
+          "team": "MAR"
         }
       }
     }
