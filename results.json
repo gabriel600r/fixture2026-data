@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-30T03:30:09Z",
+  "updated": "2026-06-30T03:30:57Z",
   "live": [
     {
       "id": 75,
       "status": "ET",
-      "minute": 111,
+      "minute": 114,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "C. Gakpo",
+          "player": "Cody Gakpo",
           "minute": 72,
           "team": "NED",
-          "assist": "C. Summerville"
+          "assist": "Crysencio Summerville"
         },
         {
-          "player": "I. Diop",
-          "minute": 90,
+          "player": "Issa Diop",
+          "minute": 91,
           "team": "MAR",
-          "assist": "C. Talbi"
+          "assist": "Chemsdine Talbi"
         }
       ],
       "cardEvents": [
         {
-          "player": "I. Diop",
+          "player": "Issa Diop",
           "minute": 47,
           "team": "MAR",
           "color": "yellow"
@@ -31,75 +31,73 @@
       ],
       "subs": [
         {
-          "out": "N. Ake",
-          "in": "T. Koopmeiners",
+          "out": "Nathan Aké",
+          "in": "Teun Koopmeiners",
           "minute": 71,
           "team": "NED"
         },
         {
-          "out": "B. Brobbey",
-          "in": "W. Weghorst",
+          "out": "Brian Brobbey",
+          "in": "Wout Weghorst",
           "minute": 71,
           "team": "NED"
         },
         {
-          "out": "C. Riad",
-          "in": "A. Salah-Eddine",
+          "out": "Chadi Riad",
+          "in": "Anass Salah-Eddine",
           "minute": 75,
           "team": "MAR"
         },
         {
-          "out": "B. Diaz",
-          "in": "G. Yassine",
+          "out": "Brahim Díaz",
+          "in": "Gessime Yassine",
           "minute": 79,
           "team": "MAR"
         },
         {
-          "out": "A. Bouaddi",
-          "in": "S. El Mourabet",
+          "out": "Ayyoub Bouaddi",
+          "in": "Samir El-Mourabet",
           "minute": 79,
           "team": "MAR"
         },
         {
-          "out": "A. Ounahi",
-          "in": "S. Rahimi",
+          "out": "Azzedine Ounahi",
+          "in": "Soufiane Rahimi",
           "minute": 86,
           "team": "MAR"
         },
         {
-          "out": "M. van de Ven",
-          "in": "J. Hato",
+          "out": "Micky van de Ven",
+          "in": "Jorrel Hato",
           "minute": 86,
           "team": "NED"
         },
         {
-          "out": "R. Gravenberch",
-          "in": "Q. Timber",
+          "out": "Ryan Gravenberch",
+          "in": "Quinten Timber",
           "minute": 86,
           "team": "NED"
         },
         {
-          "out": "B. El Khannouss",
-          "in": "C. Talbi",
+          "out": "Bilal El Khannouss",
+          "in": "Chemsdine Talbi",
           "minute": 87,
           "team": "MAR"
         },
         {
-          "out": "F. de Jong",
-          "in": "M. De Roon",
+          "out": "Frenkie de Jong",
+          "in": "Marten de Roon",
           "minute": 110,
+          "team": "NED"
+        },
+        {
+          "out": "Cody Gakpo",
+          "in": "Justin Kluivert",
+          "minute": 113,
           "team": "NED"
         }
       ],
       "stats": {
-        "passesPct": [
-          79,
-          91
-        ],
-        "shotsInside": [
-          4,
-          7
-        ],
         "saves": [
           5,
           1
@@ -109,16 +107,12 @@
           5
         ],
         "possession": [
-          31,
-          69
+          30,
+          70
         ],
         "yellow": [
           0,
           1
-        ],
-        "passesAccurate": [
-          273,
-          727
         ],
         "shotsTotal": [
           6,
@@ -136,17 +130,9 @@
           3,
           0
         ],
-        "passesTotal": [
-          346,
-          798
-        ],
         "corners": [
           5,
           8
-        ],
-        "shotsOutside": [
-          2,
-          4
         ],
         "shotsOff": [
           1,
@@ -154,7 +140,7 @@
         ],
         "fouls": [
           16,
-          14
+          15
         ],
         "home": "NED",
         "away": "MAR"
