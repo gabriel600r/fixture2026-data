@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T18:05:12Z",
+  "updated": "2026-06-30T18:05:59Z",
   "live": [
     {
       "id": 78,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -221,7 +221,12 @@
             ]
           }
         },
-        "referee": "Jesús Valenzuela, Venezuela"
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Antonio Nusa",
+          "rating": 7.5,
+          "team": "NOR"
+        }
       }
     }
   ],
