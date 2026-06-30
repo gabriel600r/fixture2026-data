@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:52:38Z",
+  "updated": "2026-06-30T18:53:26Z",
   "live": [
     {
       "id": 78,
@@ -71,9 +71,15 @@
           "in": "O. Diakite",
           "minute": 87,
           "team": "CIV"
+        },
+        {
+          "out": "Y. Diomande",
+          "in": "E. Guessand",
+          "minute": 90,
+          "team": "CIV"
         }
       ],
-      "extra": 2,
+      "extra": 4,
       "stats": {
         "shotsOn": [
           4,
@@ -84,8 +90,8 @@
           88
         ],
         "passesTotal": [
-          374,
-          458
+          390,
+          469
         ],
         "red": [
           0,
@@ -104,8 +110,8 @@
           3
         ],
         "possession": [
-          46,
-          54
+          47,
+          53
         ],
         "shotsInside": [
           9,
@@ -120,8 +126,8 @@
           6
         ],
         "passesAccurate": [
-          318,
-          402
+          332,
+          411
         ],
         "corners": [
           12,
