@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-30T18:45:31Z",
+  "updated": "2026-06-30T18:46:19Z",
   "live": [
     {
       "id": 78,
       "status": "2H",
       "minute": 86,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "A. Nusa",
@@ -19,6 +19,11 @@
           "minute": 74,
           "team": "CIV",
           "assist": "N. Pepe"
+        },
+        {
+          "player": "E. Haaland",
+          "minute": 86,
+          "team": "NOR"
         }
       ],
       "cardEvents": [
