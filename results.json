@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T03:41:45Z",
+  "updated": "2026-07-01T03:42:32Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 2,
       "away": 0,
       "goals": [
@@ -77,6 +77,18 @@
           "in": "K. Paez",
           "minute": 79,
           "team": "ECU"
+        },
+        {
+          "out": "J. Quinones",
+          "in": "O. Pineda",
+          "minute": 80,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Alvarado",
+          "in": "I. Reyes",
+          "minute": 80,
+          "team": "MEX"
         }
       ],
       "stats": {
@@ -106,11 +118,11 @@
         ],
         "fouls": [
           8,
-          7
+          9
         ],
         "possession": [
-          45,
-          55
+          46,
+          54
         ],
         "shotsInside": [
           9,
@@ -121,7 +133,7 @@
           1
         ],
         "passesTotal": [
-          268,
+          282,
           330
         ],
         "shotsTotal": [
@@ -133,7 +145,7 @@
           0
         ],
         "passesAccurate": [
-          220,
+          231,
           280
         ],
         "shotsOutside": [
