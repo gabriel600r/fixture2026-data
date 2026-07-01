@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:52:34Z",
+  "updated": "2026-07-01T17:53:21Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 1,
       "goals": [
@@ -82,6 +82,12 @@
           "out": "A. Masuaku",
           "in": "J. Kayembe",
           "minute": 89,
+          "team": "COD"
+        },
+        {
+          "out": "S. Moutoussamy",
+          "in": "F. Mayele",
+          "minute": 90,
           "team": "COD"
         }
       ],
