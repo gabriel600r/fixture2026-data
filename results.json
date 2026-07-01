@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T03:20:26Z",
+  "updated": "2026-07-01T03:21:14Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 2,
       "away": 0,
       "goals": [
@@ -40,6 +40,18 @@
           "out": "J. Ordonez",
           "in": "A. Preciado",
           "minute": 46,
+          "team": "ECU"
+        },
+        {
+          "out": "G. Mora",
+          "in": "B. Gutierrez",
+          "minute": 59,
+          "team": "MEX"
+        },
+        {
+          "out": "E. Valencia",
+          "in": "K. Rodriguez",
+          "minute": 59,
           "team": "ECU"
         }
       ],
