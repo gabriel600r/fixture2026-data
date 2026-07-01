@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T23:00:34Z",
+  "updated": "2026-07-01T23:05:57Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -99,7 +99,131 @@
           "draw": 50,
           "away": 0
         },
-        "referee": "R. Claus"
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Mauricio Pochettino",
+            "xi": [
+              {
+                "n": 24,
+                "name": "Matthew Freese",
+                "pos": "G"
+              },
+              {
+                "n": 16,
+                "name": "Alexander Freeman",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Chris Richards",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Tim Ream",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Antonee Robinson",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Malik Tillman",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Tyler Adams",
+                "pos": "M"
+              },
+              {
+                "n": 2,
+                "name": "Sergiño Dest",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Weston McKennie",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Christian Pulišić",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Folarin Balogun",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "3-4-1-2",
+            "coach": "Sergej Barbarez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Nikola Vasilj",
+                "pos": "G"
+              },
+              {
+                "n": 18,
+                "name": "Nikola Katić",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Stjepan Radeljić",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Tarik Muharemović",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Amar Dedić",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Armin Gigović",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Šunjić",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Sead Kolašinac",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Kerim Alajbegović",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Edin Džeko",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Ermedin Demirović",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Raphael Claus, Brazil"
       }
     }
   ],
