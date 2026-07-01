@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:19:09Z",
+  "updated": "2026-07-01T16:19:56Z",
   "live": [
     {
       "id": 80,
@@ -13,6 +13,14 @@
           "minute": 7,
           "team": "COD",
           "assist": "C. Mbemba"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Bellingham",
+          "minute": 19,
+          "team": "ENG",
+          "color": "yellow"
         }
       ],
       "stats": {
