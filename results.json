@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:25:06Z",
+  "updated": "2026-07-01T21:25:53Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 2,
       "goals": [
@@ -37,6 +37,12 @@
           "out": "J. Doku",
           "in": "D. Lukebakio",
           "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "H. Vanaken",
+          "in": "D. Moreira",
+          "minute": 63,
           "team": "BEL"
         }
       ],
