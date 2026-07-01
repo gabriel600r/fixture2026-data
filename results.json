@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T20:21:56Z",
+  "updated": "2026-07-01T20:22:43Z",
   "live": [
     {
       "id": 82,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -112,13 +112,13 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Youri Tielemans",
+                "n": 20,
+                "name": "Hans Vanaken",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Hans Vanaken",
+                "n": 8,
+                "name": "Youri Tielemans",
                 "pos": "M"
               },
               {
