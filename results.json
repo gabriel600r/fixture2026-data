@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:59:52Z",
+  "updated": "2026-07-01T22:00:40Z",
   "live": [
     {
       "id": 82,
-      "status": "2H",
-      "minute": 90,
+      "status": "ET",
+      "minute": 105,
       "home": 2,
       "away": 2,
       "goals": [
@@ -102,7 +102,6 @@
           "team": "BEL"
         }
       ],
-      "extra": 8,
       "stats": {
         "fouls": [
           14,
@@ -114,15 +113,15 @@
         ],
         "shotsOff": [
           8,
-          7
+          8
         ],
         "passesTotal": [
-          518,
-          452
+          519,
+          465
         ],
         "shotsTotal": [
           16,
-          12
+          13
         ],
         "shotsBlocked": [
           4,
@@ -134,7 +133,7 @@
         ],
         "shotsOutside": [
           7,
-          3
+          4
         ],
         "corners": [
           4,
@@ -154,7 +153,7 @@
         ],
         "passesAccurate": [
           452,
-          387
+          400
         ],
         "shotsInside": [
           9,
