@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:58:17Z",
+  "updated": "2026-07-01T21:59:04Z",
   "live": [
     {
       "id": 82,
@@ -102,7 +102,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "fouls": [
           14,
@@ -113,15 +113,15 @@
           3
         ],
         "shotsOff": [
-          7,
+          8,
           7
         ],
         "passesTotal": [
-          513,
-          429
+          518,
+          452
         ],
         "shotsTotal": [
-          15,
+          16,
           12
         ],
         "shotsBlocked": [
@@ -133,7 +133,7 @@
           4
         ],
         "shotsOutside": [
-          6,
+          7,
           3
         ],
         "corners": [
@@ -141,7 +141,7 @@
           1
         ],
         "offsides": [
-          1,
+          2,
           2
         ],
         "yellow": [
@@ -153,20 +153,20 @@
           0
         ],
         "passesAccurate": [
-          448,
-          366
+          452,
+          387
         ],
         "shotsInside": [
           9,
           9
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "passesPct": [
           87,
-          85
+          86
         ],
         "home": "BEL",
         "away": "SEN"
