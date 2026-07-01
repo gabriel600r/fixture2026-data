@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:44:04Z",
+  "updated": "2026-07-01T21:44:51Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 2,
       "goals": [
@@ -285,7 +285,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Ismaïla Sarr",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "SEN"
         }
       }
