@@ -1,16 +1,21 @@
 {
-  "updated": "2026-07-01T21:13:14Z",
+  "updated": "2026-07-01T21:14:01Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "H. Diarra",
           "minute": 25,
+          "team": "SEN"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 51,
           "team": "SEN"
         }
       ],
