@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T20:14:49Z",
+  "updated": "2026-07-01T20:15:36Z",
   "live": [
     {
       "id": 82,
@@ -18,15 +18,15 @@
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "passesTotal": [
-          51,
-          82
+          58,
+          97
         ],
         "shotsTotal": [
           1,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
@@ -57,19 +57,19 @@
           0
         ],
         "passesAccurate": [
-          42,
-          71
+          48,
+          84
         ],
         "shotsInside": [
           1,
-          0
+          1
         ],
         "possession": [
-          38,
-          62
+          37,
+          63
         ],
         "passesPct": [
-          82,
+          83,
           87
         ],
         "home": "BEL",
