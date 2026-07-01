@@ -1,58 +1,70 @@
 {
-  "updated": "2026-07-01T03:36:14Z",
+  "updated": "2026-07-01T03:37:02Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "Julián Quiñones",
+          "player": "J. Quinones",
           "minute": 22,
           "team": "MEX",
-          "assist": "Roberto Alvarado"
+          "assist": "R. Alvarado"
         },
         {
-          "player": "Raúl Jiménez",
+          "player": "R. Jimenez",
           "minute": 31,
           "team": "MEX",
-          "assist": "Julián Quiñones"
+          "assist": "J. Quinones"
         }
       ],
       "cardEvents": [
         {
-          "player": "Alan Franco",
-          "minute": 46,
+          "player": "A. Franco",
+          "minute": 45,
           "team": "ECU",
           "color": "yellow"
         }
       ],
       "subs": [
         {
-          "out": "Joel Ordonez",
-          "in": "Angelo Preciado",
-          "minute": 45,
+          "out": "A. Franco",
+          "in": "Y. Medina",
+          "minute": 46,
           "team": "ECU"
         },
         {
-          "out": "Alan Franco",
-          "in": "Yaimar Medina",
-          "minute": 45,
+          "out": "J. Ordonez",
+          "in": "A. Preciado",
+          "minute": 46,
           "team": "ECU"
         },
         {
-          "out": "Gilberto Mora",
-          "in": "Brian Gutierrez",
+          "out": "G. Mora",
+          "in": "B. Gutierrez",
           "minute": 58,
           "team": "MEX"
         },
         {
-          "out": "Enner Valencia",
-          "in": "Kevin Rodriguez",
+          "out": "E. Valencia",
+          "in": "K. Rodriguez",
           "minute": 59,
           "team": "ECU"
+        },
+        {
+          "out": "L. Romo",
+          "in": "O. Vargas",
+          "minute": 74,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Jimenez",
+          "in": "S. Gimenez",
+          "minute": 74,
+          "team": "MEX"
         }
       ],
       "stats": {
@@ -81,8 +93,8 @@
           7
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "saves": [
           1,
