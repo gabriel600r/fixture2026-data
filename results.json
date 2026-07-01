@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:12:26Z",
+  "updated": "2026-07-01T21:13:14Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 1,
       "goals": [
@@ -223,7 +223,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Habib Diarra",
-          "rating": 7.5,
+          "rating": 7.3,
           "team": "SEN"
         }
       }
