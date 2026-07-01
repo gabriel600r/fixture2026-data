@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:56:44Z",
+  "updated": "2026-07-01T03:57:32Z",
   "live": [
     {
       "id": 79,
@@ -21,6 +21,9 @@
           "assist": "J. Quinones"
         }
       ],
+      "redCards": [
+        "P. Hincapie (Ecuador) 90'"
+      ],
       "cardEvents": [
         {
           "player": "A. Franco",
@@ -33,6 +36,12 @@
           "minute": 90,
           "team": "ECU",
           "color": "yellow"
+        },
+        {
+          "player": "P. Hincapie",
+          "minute": 90,
+          "team": "ECU",
+          "color": "red"
         }
       ],
       "subs": [
@@ -97,7 +106,7 @@
           "team": "MEX"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOn": [
           3,
@@ -125,14 +134,14 @@
         ],
         "fouls": [
           9,
-          11
+          12
         ],
         "possession": [
           43,
           57
         ],
         "shotsInside": [
-          9,
+          10,
           5
         ],
         "saves": [
@@ -140,11 +149,11 @@
           1
         ],
         "passesTotal": [
-          307,
-          390
+          310,
+          397
         ],
         "shotsTotal": [
-          14,
+          15,
           7
         ],
         "shotsBlocked": [
@@ -152,15 +161,15 @@
           1
         ],
         "passesAccurate": [
-          242,
-          330
+          245,
+          336
         ],
         "shotsOutside": [
           5,
           2
         ],
         "shotsOff": [
-          8,
+          9,
           5
         ],
         "home": "MEX",
