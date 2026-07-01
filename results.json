@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T02:09:12Z",
+  "updated": "2026-07-01T02:10:00Z",
   "live": [
     {
       "id": 79,
@@ -25,8 +25,8 @@
           0
         ],
         "passesPct": [
-          96,
-          70
+          97,
+          62
         ],
         "yellow": [
           0,
@@ -41,7 +41,7 @@
           18
         ],
         "shotsInside": [
-          0,
+          1,
           0
         ],
         "saves": [
@@ -49,11 +49,11 @@
           0
         ],
         "passesTotal": [
-          45,
-          10
+          59,
+          13
         ],
         "shotsTotal": [
-          1,
+          4,
           0
         ],
         "shotsBlocked": [
@@ -61,15 +61,15 @@
           0
         ],
         "passesAccurate": [
-          43,
-          7
+          57,
+          8
         ],
         "shotsOutside": [
-          1,
+          3,
           0
         ],
         "shotsOff": [
-          0,
+          3,
           0
         ],
         "home": "MEX",
