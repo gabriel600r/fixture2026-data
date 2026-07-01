@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-01T16:08:05Z",
+  "updated": "2026-07-01T16:08:52Z",
   "live": [
     {
       "id": 80,
       "status": "1H",
-      "minute": 8,
+      "minute": 9,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "B. Cipenga",
           "minute": 7,
-          "team": "COD"
+          "team": "COD",
+          "assist": "C. Mbemba"
         }
       ],
       "stats": {
