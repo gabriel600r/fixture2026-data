@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:56:31Z",
+  "updated": "2026-07-01T17:57:18Z",
   "live": [
     {
       "id": 80,
@@ -97,10 +97,10 @@
           "team": "ENG"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "fouls": [
-          8,
+          9,
           10
         ],
         "saves": [
@@ -108,15 +108,15 @@
           5
         ],
         "shotsOff": [
-          5,
+          6,
           2
         ],
         "passesTotal": [
-          494,
-          338
+          508,
+          350
         ],
         "shotsTotal": [
-          15,
+          16,
           6
         ],
         "shotsBlocked": [
@@ -128,7 +128,7 @@
           2
         ],
         "shotsOutside": [
-          2,
+          3,
           4
         ],
         "corners": [
@@ -148,19 +148,19 @@
           0
         ],
         "passesAccurate": [
-          451,
-          276
+          465,
+          287
         ],
         "shotsInside": [
           13,
           2
         ],
         "possession": [
-          61,
-          39
+          60,
+          40
         ],
         "passesPct": [
-          91,
+          92,
           82
         ],
         "home": "ENG",
