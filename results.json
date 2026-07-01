@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T03:29:09Z",
+  "updated": "2026-07-01T03:29:56Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 2,
       "away": 0,
       "goals": [
@@ -57,7 +57,7 @@
       ],
       "stats": {
         "shotsOn": [
-          2,
+          3,
           1
         ],
         "offsides": [
@@ -69,7 +69,7 @@
           0
         ],
         "corners": [
-          2,
+          3,
           6
         ],
         "yellow": [
@@ -86,10 +86,10 @@
         ],
         "saves": [
           1,
-          0
+          1
         ],
         "shotsTotal": [
-          12,
+          13,
           3
         ],
         "shotsBlocked": [
@@ -236,7 +236,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "J. Quiñones",
-          "rating": 8.78,
+          "rating": 8.77,
           "team": "MEX"
         }
       }
