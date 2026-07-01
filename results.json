@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T04:02:17Z",
+  "updated": "2026-07-01T09:40:52Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -231,6 +231,14 @@
       "title_en": "⏱️ Extra time & penalties: the first ones",
       "body_es": "¡Llegaron los primeros alargues y definiciones por penales del Mundial! ⚽\n\nComo es la primera vez que el torneo entra en tiempo suplementario y tandas de penales, estoy ajustando algunos detalles para que el desarrollo del alargue y de la tanda se vea perfecto: el minuto, los penales, quién pateó y quién erró.\n\nQuedate tranquilo/a: el RESULTADO de los partidos y tu PRODE están 100% correctos. Es solo CÓMO se muestra el alargue y los penales en vivo lo que estoy puliendo.\n\nTe pido un poco de paciencia 🙏 y que estés atento/a a un próximo update. ¡Gracias por bancar la app en la parte más linda del Mundial! 🏆",
       "body_en": "The first extra times and penalty shootouts of the World Cup are here! ⚽\n\nSince it's the first time the tournament reaches extra time and penalty shootouts, I'm fine-tuning some details so the extra time and the shootout display perfectly: the minute, the penalties, who scored and who missed.\n\nDon't worry: the match RESULTS and your PRODE are 100% correct. It's only HOW extra time and penalties show live that I'm polishing.\n\nI ask for a little patience 🙏 and stay tuned for an upcoming update. Thanks for sticking with the app in the best part of the World Cup! 🏆"
+    },
+    {
+      "id": 19,
+      "date": "01/07/2026",
+      "title_es": "Novedades v1.9.40 ⚽",
+      "title_en": "What's new v1.9.40 ⚽",
+      "body_es": "🥅 Penales: mirá el desarrollo de la tanda — quién pateó, quién metió y quién erró, en orden. Tocá el resultado del partido y desplegá la tanda. (No cuentan para el Prode: vale el resultado de 120'.)\n⏰ Aviso personalizable: elegí con cuánta anticipación te avisamos de los partidos (30 o 60 min antes), para cargar tus predicciones a tiempo.\n📣 Campanita: el aviso de novedades ahora salta siempre que hay algo nuevo.\n🛠️ Alargues y estabilidad: varios ajustes.\n\n¡Actualizá desde Play! ⚽",
+      "body_en": "🥅 Penalties: watch the shootout unfold — who took, scored and missed, in order. Tap the match result and expand the shootout. (They don't count for the Prode: the 120' result stands.)\n⏰ Custom reminder: pick how early we alert you before matches (30 or 60 min) so you can load your picks in time.\n📣 News bell: the news alert now lights up whenever there's something new.\n🛠️ Extra time & stability: several fixes.\n\nUpdate from Play! ⚽"
     }
   ],
   "results": [
