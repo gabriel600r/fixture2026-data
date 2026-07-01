@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:53:33Z",
+  "updated": "2026-07-01T21:54:20Z",
   "live": [
     {
       "id": 82,
@@ -43,6 +43,12 @@
           "player": "L. Camara",
           "minute": 67,
           "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "R. Garcia",
+          "minute": 90,
+          "team": "BEL",
           "color": "yellow"
         }
       ],
@@ -96,7 +102,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
           13,
