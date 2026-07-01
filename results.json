@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:07:40Z",
+  "updated": "2026-07-01T21:08:28Z",
   "live": [
     {
       "id": 82,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -12,6 +12,14 @@
           "player": "H. Diarra",
           "minute": 25,
           "team": "SEN"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 46,
+          "team": "BEL"
         }
       ],
       "stats": {
@@ -212,7 +220,12 @@
             ]
           }
         },
-        "referee": "Said Martinez, Honduras"
+        "referee": "Said Martinez, Honduras",
+        "motm": {
+          "player": "Habib Diarra",
+          "rating": 7.5,
+          "team": "SEN"
+        }
       }
     }
   ],
