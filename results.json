@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:09:21Z",
+  "updated": "2026-07-01T22:10:09Z",
   "live": [
     {
       "id": 82,
@@ -110,13 +110,13 @@
         {
           "out": "I. Jakobs",
           "in": "M. Diouf",
-          "minute": 94,
+          "minute": 93,
           "team": "SEN"
         }
       ],
       "stats": {
         "fouls": [
-          14,
+          15,
           10
         ],
         "saves": [
@@ -128,8 +128,8 @@
           8
         ],
         "passesTotal": [
-          527,
-          469
+          539,
+          487
         ],
         "shotsTotal": [
           16,
@@ -164,8 +164,8 @@
           0
         ],
         "passesAccurate": [
-          458,
-          403
+          469,
+          418
         ],
         "shotsInside": [
           9,
