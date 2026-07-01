@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T22:29:54Z",
+  "updated": "2026-07-01T22:30:41Z",
   "live": [
     {
       "id": 82,
       "status": "ET",
-      "minute": 112,
+      "minute": 113,
       "home": 2,
       "away": 2,
       "goals": [
@@ -140,8 +140,8 @@
           9
         ],
         "passesTotal": [
-          638,
-          584
+          651,
+          586
         ],
         "shotsTotal": [
           18,
@@ -176,7 +176,7 @@
           0
         ],
         "passesAccurate": [
-          555,
+          566,
           495
         ],
         "shotsInside": [
@@ -184,12 +184,12 @@
           10
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "passesPct": [
           87,
-          85
+          84
         ],
         "home": "BEL",
         "away": "SEN"
