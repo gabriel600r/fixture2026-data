@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T21:48:01Z",
+  "updated": "2026-07-01T21:48:49Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 86,
-      "home": 0,
+      "minute": 87,
+      "home": 1,
       "away": 2,
       "goals": [
         {
@@ -18,6 +18,11 @@
           "minute": 51,
           "team": "SEN",
           "assist": "M. Niakhate"
+        },
+        {
+          "player": "R. Lukaku",
+          "minute": 86,
+          "team": "BEL"
         }
       ],
       "cardEvents": [
@@ -94,15 +99,15 @@
           3
         ],
         "shotsOff": [
-          5,
+          7,
           6
         ],
         "passesTotal": [
-          467,
-          391
+          481,
+          408
         ],
         "shotsTotal": [
-          11,
+          13,
           11
         ],
         "shotsBlocked": [
@@ -114,7 +119,7 @@
           4
         ],
         "shotsOutside": [
-          5,
+          6,
           3
         ],
         "corners": [
@@ -123,7 +128,7 @@
         ],
         "offsides": [
           1,
-          1
+          2
         ],
         "yellow": [
           1,
@@ -134,11 +139,11 @@
           0
         ],
         "passesAccurate": [
-          410,
-          340
+          422,
+          353
         ],
         "shotsInside": [
-          6,
+          7,
           8
         ],
         "possession": [
