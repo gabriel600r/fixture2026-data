@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:48:24Z",
+  "updated": "2026-07-01T16:49:11Z",
   "live": [
     {
       "id": 80,
@@ -29,7 +29,7 @@
           "color": "yellow"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "fouls": [
           7,
@@ -37,18 +37,18 @@
         ],
         "saves": [
           0,
-          1
+          2
         ],
         "shotsOff": [
           1,
           2
         ],
         "passesTotal": [
-          240,
-          174
+          254,
+          178
         ],
         "shotsTotal": [
-          6,
+          7,
           3
         ],
         "shotsBlocked": [
@@ -56,7 +56,7 @@
           0
         ],
         "shotsOn": [
-          2,
+          3,
           1
         ],
         "shotsOutside": [
@@ -80,20 +80,20 @@
           0
         ],
         "passesAccurate": [
-          216,
-          149
+          230,
+          151
         ],
         "shotsInside": [
-          5,
+          6,
           2
         ],
         "possession": [
-          58,
-          42
+          59,
+          41
         ],
         "passesPct": [
-          90,
-          86
+          91,
+          85
         ],
         "home": "ENG",
         "away": "COD"
