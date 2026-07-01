@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:40:58Z",
+  "updated": "2026-07-01T03:41:45Z",
   "live": [
     {
       "id": 79,
@@ -65,6 +65,18 @@
           "in": "S. Gimenez",
           "minute": 74,
           "team": "MEX"
+        },
+        {
+          "out": "J. Yeboah",
+          "in": "J. Caicedo",
+          "minute": 79,
+          "team": "ECU"
+        },
+        {
+          "out": "N. Angulo",
+          "in": "K. Paez",
+          "minute": 79,
+          "team": "ECU"
         }
       ],
       "stats": {
