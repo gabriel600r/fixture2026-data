@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:08:14Z",
+  "updated": "2026-07-01T17:09:02Z",
   "live": [
     {
       "id": 80,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -227,7 +227,12 @@
             ]
           }
         },
-        "referee": "Adham Mohammad, Jordan"
+        "referee": "Adham Mohammad, Jordan",
+        "motm": {
+          "player": "Brian Cipenga",
+          "rating": 7.2,
+          "team": "COD"
+        }
       }
     }
   ],
