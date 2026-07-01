@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:34:35Z",
+  "updated": "2026-07-01T21:35:23Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 0,
       "away": 2,
       "goals": [
@@ -63,6 +63,12 @@
           "out": "P. Gueye",
           "in": "L. Camara",
           "minute": 66,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Ndiaye",
+          "in": "I. Mbaye",
+          "minute": 73,
           "team": "SEN"
         }
       ],
