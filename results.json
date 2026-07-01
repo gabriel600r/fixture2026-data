@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:34:22Z",
+  "updated": "2026-07-01T17:35:09Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 1,
       "goals": [
@@ -47,6 +47,12 @@
           "in": "M. Elia",
           "minute": 64,
           "team": "COD"
+        },
+        {
+          "out": "D. Spence",
+          "in": "E. Eze",
+          "minute": 70,
+          "team": "ENG"
         }
       ],
       "stats": {
