@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:37:02Z",
+  "updated": "2026-07-01T03:37:49Z",
   "live": [
     {
       "id": 79,
@@ -57,7 +57,7 @@
         {
           "out": "L. Romo",
           "in": "O. Vargas",
-          "minute": 74,
+          "minute": 73,
           "team": "MEX"
         },
         {
@@ -84,6 +84,10 @@
           3,
           7
         ],
+        "passesPct": [
+          82,
+          86
+        ],
         "yellow": [
           0,
           1
@@ -93,24 +97,40 @@
           7
         ],
         "possession": [
-          44,
-          56
+          45,
+          55
+        ],
+        "shotsInside": [
+          9,
+          3
         ],
         "saves": [
           1,
           1
         ],
+        "passesTotal": [
+          265,
+          326
+        ],
         "shotsTotal": [
           14,
-          3
+          4
         ],
         "shotsBlocked": [
           3,
           0
         ],
+        "passesAccurate": [
+          218,
+          279
+        ],
+        "shotsOutside": [
+          5,
+          1
+        ],
         "shotsOff": [
           8,
-          2
+          3
         ],
         "home": "MEX",
         "away": "ECU"
@@ -247,8 +267,8 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "J. Quiñones",
-          "rating": 8.77,
+          "player": "Julián Quiñones",
+          "rating": 8.2,
           "team": "MEX"
         }
       }
