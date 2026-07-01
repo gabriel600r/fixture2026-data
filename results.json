@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T17:37:31Z",
+  "updated": "2026-07-01T17:38:19Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
       "minute": 75,
-      "home": 0,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 7,
           "team": "COD",
           "assist": "C. Mbemba"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 75,
+          "team": "ENG",
+          "assist": "A. Gordon"
         }
       ],
       "cardEvents": [
