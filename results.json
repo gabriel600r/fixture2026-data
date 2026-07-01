@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T03:14:06Z",
+  "updated": "2026-07-01T03:14:54Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 2,
       "away": 0,
       "goals": [
@@ -62,19 +62,19 @@
         ],
         "passesPct": [
           84,
-          79
+          82
         ],
         "yellow": [
           0,
           1
         ],
         "fouls": [
-          5,
+          6,
           6
         ],
         "possession": [
-          56,
-          44
+          53,
+          47
         ],
         "shotsInside": [
           6,
@@ -85,28 +85,28 @@
           0
         ],
         "passesTotal": [
-          212,
-          160
+          220,
+          186
         ],
         "shotsTotal": [
           11,
-          2
+          3
         ],
         "shotsBlocked": [
           2,
           0
         ],
         "passesAccurate": [
-          179,
-          127
+          185,
+          152
         ],
         "shotsOutside": [
           5,
-          0
+          1
         ],
         "shotsOff": [
           7,
-          1
+          2
         ],
         "home": "MEX",
         "away": "ECU"
