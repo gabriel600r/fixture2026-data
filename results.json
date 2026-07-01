@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:40:57Z",
+  "updated": "2026-07-01T22:41:44Z",
   "live": [
     {
       "id": 82,
@@ -129,14 +129,14 @@
       "stats": {
         "fouls": [
           20,
-          11
+          12
         ],
         "saves": [
           3,
           3
         ],
         "shotsOff": [
-          10,
+          9,
           9
         ],
         "passesTotal": [
@@ -144,7 +144,7 @@
           601
         ],
         "shotsTotal": [
-          19,
+          18,
           15
         ],
         "shotsBlocked": [
@@ -180,7 +180,7 @@
           504
         ],
         "shotsInside": [
-          11,
+          10,
           10
         ],
         "possession": [
