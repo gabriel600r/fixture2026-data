@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:20:21Z",
+  "updated": "2026-07-01T21:21:08Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 2,
       "goals": [
@@ -43,7 +43,7 @@
       "stats": {
         "fouls": [
           8,
-          7
+          8
         ],
         "saves": [
           2,
@@ -54,8 +54,8 @@
           6
         ],
         "passesTotal": [
-          316,
-          302
+          333,
+          303
         ],
         "shotsTotal": [
           5,
@@ -90,7 +90,7 @@
           0
         ],
         "passesAccurate": [
-          276,
+          291,
           266
         ],
         "shotsInside": [
@@ -98,8 +98,8 @@
           8
         ],
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "passesPct": [
           87,
@@ -241,7 +241,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Ismaïla Sarr",
-          "rating": 7.5,
+          "rating": 7.3,
           "team": "SEN"
         }
       }
