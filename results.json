@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:22:01Z",
+  "updated": "2026-07-01T03:22:49Z",
   "live": [
     {
       "id": 79,
@@ -45,7 +45,7 @@
         {
           "out": "G. Mora",
           "in": "B. Gutierrez",
-          "minute": 59,
+          "minute": 58,
           "team": "MEX"
         },
         {
@@ -74,19 +74,19 @@
         ],
         "passesPct": [
           83,
-          86
+          85
         ],
         "yellow": [
           0,
           1
         ],
         "fouls": [
-          6,
-          6
+          7,
+          7
         ],
         "possession": [
-          47,
-          53
+          48,
+          52
         ],
         "shotsInside": [
           7,
@@ -97,8 +97,8 @@
           0
         ],
         "passesTotal": [
-          236,
-          257
+          245,
+          261
         ],
         "shotsTotal": [
           12,
@@ -109,8 +109,8 @@
           0
         ],
         "passesAccurate": [
-          197,
-          221
+          203,
+          223
         ],
         "shotsOutside": [
           5,
