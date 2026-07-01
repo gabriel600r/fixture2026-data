@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T02:47:12Z",
+  "updated": "2026-07-01T02:47:59Z",
   "live": [
     {
       "id": 79,
@@ -9,16 +9,24 @@
       "away": 0,
       "goals": [
         {
-          "player": "Julián Quiñones",
+          "player": "J. Quinones",
           "minute": 22,
           "team": "MEX",
-          "assist": "Roberto Alvarado"
+          "assist": "R. Alvarado"
         },
         {
-          "player": "Raúl Jiménez",
+          "player": "R. Jimenez",
           "minute": 31,
           "team": "MEX",
-          "assist": "Julián Quiñones"
+          "assist": "J. Quinones"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Franco",
+          "minute": 45,
+          "team": "ECU",
+          "color": "yellow"
         }
       ],
       "extra": 2,
@@ -37,11 +45,11 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "fouls": [
           4,
-          4
+          5
         ],
         "possession": [
           59,
