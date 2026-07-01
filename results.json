@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:36:13Z",
+  "updated": "2026-07-01T22:37:00Z",
   "live": [
     {
       "id": 82,
@@ -136,15 +136,15 @@
           3
         ],
         "shotsOff": [
-          9,
+          10,
           9
         ],
         "passesTotal": [
-          671,
-          596
+          692,
+          601
         ],
         "shotsTotal": [
-          18,
+          19,
           15
         ],
         "shotsBlocked": [
@@ -176,16 +176,16 @@
           0
         ],
         "passesAccurate": [
-          581,
-          502
+          601,
+          504
         ],
         "shotsInside": [
-          10,
+          11,
           10
         ],
         "possession": [
-          53,
-          47
+          54,
+          46
         ],
         "passesPct": [
           87,
@@ -327,7 +327,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Ismaïla Sarr",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "SEN"
         }
       }
