@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:25:53Z",
+  "updated": "2026-07-01T21:26:40Z",
   "live": [
     {
       "id": 82,
@@ -18,6 +18,14 @@
           "minute": 51,
           "team": "SEN",
           "assist": "M. Niakhate"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "B. Mechele",
+          "minute": 64,
+          "team": "BEL",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -49,7 +57,7 @@
       "stats": {
         "fouls": [
           9,
-          8
+          9
         ],
         "saves": [
           2,
@@ -60,15 +68,15 @@
           6
         ],
         "passesTotal": [
-          368,
-          331
+          379,
+          334
         ],
         "shotsTotal": [
-          8,
+          9,
           11
         ],
         "shotsBlocked": [
-          3,
+          4,
           1
         ],
         "shotsOn": [
@@ -96,16 +104,16 @@
           0
         ],
         "passesAccurate": [
-          324,
-          289
+          333,
+          291
         ],
         "shotsInside": [
-          4,
+          5,
           8
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "passesPct": [
           88,
