@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:55:09Z",
+  "updated": "2026-07-01T03:55:57Z",
   "live": [
     {
       "id": 79,
@@ -25,6 +25,12 @@
         {
           "player": "A. Franco",
           "minute": 45,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Paez",
+          "minute": 90,
           "team": "ECU",
           "color": "yellow"
         }
@@ -91,7 +97,7 @@
           "team": "MEX"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsOn": [
           3,
