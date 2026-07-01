@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:31:59Z",
+  "updated": "2026-07-01T17:32:47Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 1,
       "goals": [
@@ -51,7 +51,7 @@
       ],
       "stats": {
         "fouls": [
-          7,
+          8,
           8
         ],
         "saves": [
@@ -63,8 +63,8 @@
           2
         ],
         "passesTotal": [
-          399,
-          281
+          405,
+          282
         ],
         "shotsTotal": [
           10,
@@ -99,7 +99,7 @@
           0
         ],
         "passesAccurate": [
-          365,
+          370,
           233
         ],
         "shotsInside": [
