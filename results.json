@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:53:21Z",
+  "updated": "2026-07-01T17:54:09Z",
   "live": [
     {
       "id": 80,
@@ -87,10 +87,11 @@
         {
           "out": "S. Moutoussamy",
           "in": "F. Mayele",
-          "minute": 90,
+          "minute": 89,
           "team": "COD"
         }
       ],
+      "extra": 1,
       "stats": {
         "fouls": [
           8,
