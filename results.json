@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:27:50Z",
+  "updated": "2026-07-01T16:28:37Z",
   "live": [
     {
       "id": 80,
@@ -20,6 +20,12 @@
           "player": "J. Bellingham",
           "minute": 19,
           "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Sadiki",
+          "minute": 27,
+          "team": "COD",
           "color": "yellow"
         }
       ],
