@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T20:49:33Z",
+  "updated": "2026-07-01T20:50:20Z",
   "live": [
     {
       "id": 82,
@@ -14,7 +14,7 @@
           "team": "SEN"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "fouls": [
           6,
@@ -22,34 +22,34 @@
         ],
         "saves": [
           2,
-          2
+          3
         ],
         "shotsOff": [
           1,
-          3
+          4
         ],
         "passesTotal": [
-          232,
-          252
+          248,
+          258
         ],
         "shotsTotal": [
-          2,
-          6
+          3,
+          7
         ],
         "shotsBlocked": [
           0,
           0
         ],
         "shotsOn": [
-          1,
+          2,
           3
         ],
         "shotsOutside": [
-          1,
-          1
+          2,
+          2
         ],
         "corners": [
-          1,
+          2,
           1
         ],
         "offsides": [
@@ -65,20 +65,20 @@
           0
         ],
         "passesAccurate": [
-          203,
-          224
+          215,
+          226
         ],
         "shotsInside": [
           1,
           5
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "passesPct": [
-          88,
-          89
+          87,
+          88
         ],
         "home": "BEL",
         "away": "SEN"
