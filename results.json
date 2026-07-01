@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:36:57Z",
+  "updated": "2026-07-01T21:37:45Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 74,
+      "minute": 76,
       "home": 0,
       "away": 2,
       "goals": [
@@ -92,8 +92,8 @@
           6
         ],
         "passesTotal": [
-          430,
-          346
+          444,
+          347
         ],
         "shotsTotal": [
           9,
@@ -128,19 +128,19 @@
           0
         ],
         "passesAccurate": [
-          380,
-          299
+          393,
+          300
         ],
         "shotsInside": [
           5,
           8
         ],
         "possession": [
-          55,
-          45
+          56,
+          44
         ],
         "passesPct": [
-          88,
+          89,
           86
         ],
         "home": "BEL",
@@ -183,13 +183,13 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Hans Vanaken",
+                "n": 8,
+                "name": "Youri Tielemans",
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Youri Tielemans",
+                "n": 20,
+                "name": "Hans Vanaken",
                 "pos": "M"
               },
               {
