@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:54:22Z",
+  "updated": "2026-07-01T03:55:09Z",
   "live": [
     {
       "id": 79,
@@ -91,7 +91,7 @@
           "team": "MEX"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOn": [
           3,
@@ -127,26 +127,26 @@
         ],
         "shotsInside": [
           9,
-          3
+          5
         ],
         "saves": [
           1,
           1
         ],
         "passesTotal": [
-          302,
-          388
+          307,
+          390
         ],
         "shotsTotal": [
           14,
-          5
+          7
         ],
         "shotsBlocked": [
           3,
-          0
+          1
         ],
         "passesAccurate": [
-          240,
+          242,
           330
         ],
         "shotsOutside": [
@@ -155,7 +155,7 @@
         ],
         "shotsOff": [
           8,
-          4
+          5
         ],
         "home": "MEX",
         "away": "ECU"
