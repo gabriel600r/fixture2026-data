@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:43:19Z",
+  "updated": "2026-07-01T22:44:06Z",
   "live": [
     {
       "id": 82,
@@ -150,7 +150,7 @@
           601
         ],
         "shotsTotal": [
-          18,
+          19,
           15
         ],
         "shotsBlocked": [
@@ -158,7 +158,7 @@
           1
         ],
         "shotsOn": [
-          4,
+          5,
           5
         ],
         "shotsOutside": [
@@ -186,7 +186,7 @@
           504
         ],
         "shotsInside": [
-          10,
+          11,
           10
         ],
         "possession": [
