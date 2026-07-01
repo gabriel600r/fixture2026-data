@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:28:15Z",
+  "updated": "2026-07-01T21:29:03Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 2,
       "goals": [
@@ -52,6 +52,12 @@
           "in": "D. Moreira",
           "minute": 63,
           "team": "BEL"
+        },
+        {
+          "out": "P. Gueye",
+          "in": "L. Camara",
+          "minute": 66,
+          "team": "SEN"
         }
       ],
       "stats": {
