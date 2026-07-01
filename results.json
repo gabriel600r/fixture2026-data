@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T02:31:22Z",
+  "updated": "2026-07-01T02:32:10Z",
   "live": [
     {
       "id": 79,
       "status": "1H",
-      "minute": 31,
-      "home": 1,
+      "minute": 32,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 22,
           "team": "MEX",
           "assist": "R. Alvarado"
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 31,
+          "team": "MEX",
+          "assist": "J. Quinones"
         }
       ],
       "stats": {
