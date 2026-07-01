@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:36:10Z",
+  "updated": "2026-07-01T21:36:57Z",
   "live": [
     {
       "id": 82,
@@ -68,6 +68,12 @@
         {
           "out": "I. Ndiaye",
           "in": "I. Mbaye",
+          "minute": 73,
+          "team": "SEN"
+        },
+        {
+          "out": "H. Diarra",
+          "in": "P. M. Sarr",
           "minute": 73,
           "team": "SEN"
         }
