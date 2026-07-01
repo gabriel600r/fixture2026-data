@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T21:40:07Z",
+  "updated": "2026-07-01T21:40:55Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 2,
       "goals": [
@@ -76,6 +76,12 @@
           "in": "P. M. Sarr",
           "minute": 73,
           "team": "SEN"
+        },
+        {
+          "out": "M. De Cuyper",
+          "in": "T. Meunier",
+          "minute": 78,
+          "team": "BEL"
         }
       ],
       "stats": {
