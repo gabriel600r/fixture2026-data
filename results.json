@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-01T03:25:11Z",
+  "updated": "2026-07-01T03:25:59Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "J. Quinones",
+          "player": "Julián Quiñones",
           "minute": 22,
           "team": "MEX",
-          "assist": "R. Alvarado"
+          "assist": "Roberto Alvarado"
         },
         {
-          "player": "R. Jimenez",
+          "player": "Raúl Jiménez",
           "minute": 31,
           "team": "MEX",
-          "assist": "J. Quinones"
+          "assist": "Julián Quiñones"
         }
       ],
       "cardEvents": [
         {
-          "player": "A. Franco",
-          "minute": 45,
+          "player": "Alan Franco",
+          "minute": 46,
           "team": "ECU",
           "color": "yellow"
         }
       ],
       "subs": [
         {
-          "out": "A. Franco",
-          "in": "Y. Medina",
-          "minute": 46,
+          "out": "Joel Ordonez",
+          "in": "Angelo Preciado",
+          "minute": 45,
           "team": "ECU"
         },
         {
-          "out": "J. Ordonez",
-          "in": "A. Preciado",
-          "minute": 46,
+          "out": "Alan Franco",
+          "in": "Yaimar Medina",
+          "minute": 45,
           "team": "ECU"
         },
         {
-          "out": "G. Mora",
-          "in": "B. Gutierrez",
+          "out": "Gilberto Mora",
+          "in": "Brian Gutierrez",
           "minute": 58,
           "team": "MEX"
         },
         {
-          "out": "E. Valencia",
-          "in": "K. Rodriguez",
+          "out": "Enner Valencia",
+          "in": "Kevin Rodriguez",
           "minute": 59,
           "team": "ECU"
         }
@@ -70,35 +70,23 @@
         ],
         "corners": [
           1,
-          5
-        ],
-        "passesPct": [
-          83,
-          85
+          6
         ],
         "yellow": [
           0,
           1
         ],
         "fouls": [
-          7,
+          8,
           7
         ],
         "possession": [
-          48,
-          52
-        ],
-        "shotsInside": [
-          7,
-          2
+          47,
+          53
         ],
         "saves": [
           1,
           0
-        ],
-        "passesTotal": [
-          245,
-          261
         ],
         "shotsTotal": [
           12,
@@ -107,14 +95,6 @@
         "shotsBlocked": [
           3,
           0
-        ],
-        "passesAccurate": [
-          203,
-          223
-        ],
-        "shotsOutside": [
-          5,
-          1
         ],
         "shotsOff": [
           7,
@@ -255,8 +235,8 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "Julián Quiñones",
-          "rating": 8.2,
+          "player": "J. Quiñones",
+          "rating": 8.78,
           "team": "MEX"
         }
       }
