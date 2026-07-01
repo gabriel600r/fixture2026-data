@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:16:47Z",
+  "updated": "2026-07-01T16:17:34Z",
   "live": [
     {
       "id": 80,
@@ -29,8 +29,8 @@
           0
         ],
         "passesTotal": [
-          39,
-          71
+          63,
+          74
         ],
         "shotsTotal": [
           0,
@@ -49,7 +49,7 @@
           0
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "offsides": [
@@ -65,20 +65,20 @@
           0
         ],
         "passesAccurate": [
-          34,
-          65
+          56,
+          67
         ],
         "shotsInside": [
           0,
           1
         ],
         "possession": [
-          36,
-          64
+          47,
+          53
         ],
         "passesPct": [
-          87,
-          92
+          89,
+          91
         ],
         "home": "ENG",
         "away": "COD"
