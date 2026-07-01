@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T20:51:07Z",
+  "updated": "2026-07-01T20:51:55Z",
   "live": [
     {
       "id": 82,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 1,
       "goals": [
@@ -14,11 +14,10 @@
           "team": "SEN"
         }
       ],
-      "extra": 6,
       "stats": {
         "fouls": [
           6,
-          2
+          4
         ],
         "saves": [
           2,
@@ -29,7 +28,7 @@
           4
         ],
         "passesTotal": [
-          248,
+          266,
           258
         ],
         "shotsTotal": [
@@ -65,7 +64,7 @@
           0
         ],
         "passesAccurate": [
-          215,
+          232,
           226
         ],
         "shotsInside": [
@@ -73,8 +72,8 @@
           5
         ],
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "passesPct": [
           87,
