@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:25:10Z",
+  "updated": "2026-07-01T22:25:57Z",
   "live": [
     {
       "id": 82,
@@ -9,44 +9,44 @@
       "away": 2,
       "goals": [
         {
-          "player": "Habib Diarra",
+          "player": "H. Diarra",
           "minute": 25,
           "team": "SEN"
         },
         {
-          "player": "Ismaila Sarr",
+          "player": "I. Sarr",
           "minute": 51,
           "team": "SEN",
-          "assist": "Moussa Niakhaté"
+          "assist": "M. Niakhate"
         },
         {
-          "player": "Romelu Lukaku",
+          "player": "R. Lukaku",
           "minute": 86,
           "team": "BEL",
-          "assist": "Thomas Meunier"
+          "assist": "T. Meunier"
         },
         {
-          "player": "Youri Tielemans",
+          "player": "Y. Tielemans",
           "minute": 89,
           "team": "BEL",
-          "assist": "Leandro Trossard"
+          "assist": "L. Trossard"
         }
       ],
       "cardEvents": [
         {
-          "player": "Brandon Mechele",
+          "player": "B. Mechele",
           "minute": 64,
           "team": "BEL",
           "color": "yellow"
         },
         {
-          "player": "Lamine Camara",
+          "player": "L. Camara",
           "minute": 67,
           "team": "SEN",
           "color": "yellow"
         },
         {
-          "player": "Rudi Garcia",
+          "player": "R. Garcia",
           "minute": 90,
           "team": "BEL",
           "color": "yellow"
@@ -54,68 +54,68 @@
       ],
       "subs": [
         {
-          "out": "Charles De Ketelaere",
-          "in": "Romelu Lukaku",
-          "minute": 45,
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 46,
           "team": "BEL"
         },
         {
-          "out": "Jeremy Doku",
-          "in": "Dodi Lukebakio",
+          "out": "K. De Bruyne",
+          "in": "N. Raskin",
           "minute": 56,
           "team": "BEL"
         },
         {
-          "out": "Kevin De Bruyne",
-          "in": "Nicolas Raskin",
+          "out": "J. Doku",
+          "in": "D. Lukebakio",
           "minute": 56,
           "team": "BEL"
         },
         {
-          "out": "Hans Vanaken",
-          "in": "Diego Moreira",
+          "out": "H. Vanaken",
+          "in": "D. Moreira",
           "minute": 63,
           "team": "BEL"
         },
         {
-          "out": "Pape Gueye",
-          "in": "Lamine Camara",
+          "out": "P. Gueye",
+          "in": "L. Camara",
           "minute": 66,
           "team": "SEN"
         },
         {
-          "out": "Iliman Ndiaye",
-          "in": "Ibrahim Mbaye",
+          "out": "I. Ndiaye",
+          "in": "I. Mbaye",
           "minute": 73,
           "team": "SEN"
         },
         {
-          "out": "Habib Diarra",
-          "in": "Pape Matar Sarr",
+          "out": "H. Diarra",
+          "in": "P. M. Sarr",
           "minute": 73,
           "team": "SEN"
         },
         {
-          "out": "Maxim De Cuyper",
-          "in": "Thomas Meunier",
+          "out": "M. De Cuyper",
+          "in": "T. Meunier",
           "minute": 78,
           "team": "BEL"
         },
         {
-          "out": "Sadio Mané",
-          "in": "Nicolas Jackson",
+          "out": "S. Mane",
+          "in": "N. Jackson",
           "minute": 93,
           "team": "SEN"
         },
         {
-          "out": "Ismail Jakobs",
-          "in": "El Hadji Malick Diouf",
+          "out": "I. Jakobs",
+          "in": "M. Diouf",
           "minute": 93,
           "team": "SEN"
         },
         {
-          "out": "Idrissa Gueye",
-          "in": "Bara Sapoko Ndiaye",
+          "out": "I. Gueye",
+          "in": "B. Sapoko Ndiaye",
           "minute": 96,
           "team": "SEN"
         }
