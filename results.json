@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T20:34:33Z",
+  "updated": "2026-07-01T20:35:20Z",
   "live": [
     {
       "id": 82,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 0,
       "away": 1,
       "goals": [
@@ -28,7 +28,7 @@
           3
         ],
         "passesTotal": [
-          114,
+          134,
           209
         ],
         "shotsTotal": [
@@ -64,7 +64,7 @@
           0
         ],
         "passesAccurate": [
-          97,
+          116,
           188
         ],
         "shotsInside": [
@@ -72,11 +72,11 @@
           4
         ],
         "possession": [
-          35,
-          65
+          38,
+          62
         ],
         "passesPct": [
-          85,
+          87,
           90
         ],
         "home": "BEL",
