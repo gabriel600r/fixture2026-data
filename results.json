@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:35:56Z",
+  "updated": "2026-07-01T17:36:44Z",
   "live": [
     {
       "id": 80,
@@ -69,8 +69,8 @@
           2
         ],
         "passesTotal": [
-          405,
-          282
+          414,
+          283
         ],
         "shotsTotal": [
           10,
@@ -105,7 +105,7 @@
           0
         ],
         "passesAccurate": [
-          370,
+          378,
           233
         ],
         "shotsInside": [
@@ -118,7 +118,7 @@
         ],
         "passesPct": [
           91,
-          83
+          82
         ],
         "home": "ENG",
         "away": "COD"
