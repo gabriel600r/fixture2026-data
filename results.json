@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:20:25Z",
+  "updated": "2026-07-01T22:21:13Z",
   "live": [
     {
       "id": 82,
@@ -134,8 +134,8 @@
           8
         ],
         "passesTotal": [
-          610,
-          519
+          614,
+          546
         ],
         "shotsTotal": [
           16,
@@ -170,20 +170,20 @@
           0
         ],
         "passesAccurate": [
-          530,
-          438
+          534,
+          463
         ],
         "shotsInside": [
           9,
           9
         ],
         "possession": [
-          54,
-          46
+          53,
+          47
         ],
         "passesPct": [
           87,
-          84
+          85
         ],
         "home": "BEL",
         "away": "SEN"
