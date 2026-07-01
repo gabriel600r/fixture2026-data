@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:54:09Z",
+  "updated": "2026-07-01T17:54:56Z",
   "live": [
     {
       "id": 80,
@@ -89,9 +89,15 @@
           "in": "F. Mayele",
           "minute": 89,
           "team": "COD"
+        },
+        {
+          "out": "D. Rice",
+          "in": "J. Stones",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "fouls": [
           8,
@@ -106,8 +112,8 @@
           2
         ],
         "passesTotal": [
-          487,
-          330
+          494,
+          338
         ],
         "shotsTotal": [
           15,
@@ -142,8 +148,8 @@
           0
         ],
         "passesAccurate": [
-          446,
-          271
+          451,
+          276
         ],
         "shotsInside": [
           13,
@@ -154,7 +160,7 @@
           39
         ],
         "passesPct": [
-          92,
+          91,
           82
         ],
         "home": "ENG",
