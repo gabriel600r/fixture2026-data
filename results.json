@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:39:06Z",
+  "updated": "2026-07-01T17:39:54Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 1,
       "goals": [
@@ -59,12 +59,24 @@
           "in": "E. Eze",
           "minute": 70,
           "team": "ENG"
+        },
+        {
+          "out": "N. Mukau",
+          "in": "E. Kayembe",
+          "minute": 76,
+          "team": "COD"
+        },
+        {
+          "out": "B. Cipenga",
+          "in": "T. Bongonda",
+          "minute": 76,
+          "team": "COD"
         }
       ],
       "stats": {
         "fouls": [
           8,
-          8
+          9
         ],
         "saves": [
           0,
@@ -75,7 +87,7 @@
           2
         ],
         "passesTotal": [
-          414,
+          416,
           283
         ],
         "shotsTotal": [
@@ -95,7 +107,7 @@
           3
         ],
         "corners": [
-          4,
+          5,
           3
         ],
         "offsides": [
@@ -111,7 +123,7 @@
           0
         ],
         "passesAccurate": [
-          378,
+          380,
           233
         ],
         "shotsInside": [
@@ -119,8 +131,8 @@
           2
         ],
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "passesPct": [
           91,
@@ -262,7 +274,7 @@
         "referee": "Adham Mohammad, Jordan",
         "motm": {
           "player": "Brian Cipenga",
-          "rating": 7.3,
+          "rating": 7.2,
           "team": "COD"
         }
       }
