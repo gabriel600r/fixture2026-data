@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-01T20:25:06Z",
+  "updated": "2026-07-01T20:25:53Z",
   "live": [
     {
       "id": 82,
       "status": "1H",
       "minute": 25,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "H. Diarra",
+          "minute": 25,
+          "team": "SEN"
+        }
+      ],
       "stats": {
         "fouls": [
           4,
@@ -17,15 +24,15 @@
           1
         ],
         "shotsOff": [
-          2,
+          1,
           2
         ],
         "passesTotal": [
-          110,
-          160
+          111,
+          188
         ],
         "shotsTotal": [
-          3,
+          2,
           3
         ],
         "shotsBlocked": [
@@ -58,19 +65,19 @@
         ],
         "passesAccurate": [
           95,
-          140
+          168
         ],
         "shotsInside": [
-          2,
+          1,
           2
         ],
         "possession": [
-          40,
-          60
+          37,
+          63
         ],
         "passesPct": [
           86,
-          88
+          89
         ],
         "home": "BEL",
         "away": "SEN"
