@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-01T02:21:53Z",
+  "updated": "2026-07-01T02:22:40Z",
   "live": [
     {
       "id": 79,
       "status": "1H",
-      "minute": 21,
-      "home": 0,
+      "minute": 22,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 22,
+          "team": "MEX"
+        }
+      ],
       "stats": {
         "shotsOn": [
           0,
