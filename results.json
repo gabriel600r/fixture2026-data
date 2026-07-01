@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T17:40:41Z",
+  "updated": "2026-07-01T17:41:28Z",
   "live": [
     {
       "id": 80,
       "status": "2H",
-      "minute": 77,
+      "minute": 79,
       "home": 1,
       "away": 1,
       "goals": [
@@ -273,9 +273,9 @@
         },
         "referee": "Adham Mohammad, Jordan",
         "motm": {
-          "player": "Brian Cipenga",
+          "player": "Harry Kane",
           "rating": 7.2,
-          "team": "COD"
+          "team": "ENG"
         }
       }
     }
