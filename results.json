@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T21:51:11Z",
+  "updated": "2026-07-01T21:51:58Z",
   "live": [
     {
       "id": 82,
       "status": "2H",
-      "minute": 89,
-      "home": 1,
+      "minute": 90,
+      "home": 2,
       "away": 2,
       "goals": [
         {
@@ -24,6 +24,12 @@
           "minute": 86,
           "team": "BEL",
           "assist": "T. Meunier"
+        },
+        {
+          "player": "Y. Tielemans",
+          "minute": 89,
+          "team": "BEL",
+          "assist": "L. Trossard"
         }
       ],
       "cardEvents": [
