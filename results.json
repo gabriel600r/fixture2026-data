@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:55:55Z",
+  "updated": "2026-07-01T21:56:42Z",
   "live": [
     {
       "id": 82,
@@ -105,7 +105,7 @@
       "extra": 4,
       "stats": {
         "fouls": [
-          13,
+          14,
           10
         ],
         "saves": [
@@ -117,8 +117,8 @@
           7
         ],
         "passesTotal": [
-          508,
-          428
+          513,
+          429
         ],
         "shotsTotal": [
           15,
@@ -137,7 +137,7 @@
           3
         ],
         "corners": [
-          3,
+          4,
           1
         ],
         "offsides": [
@@ -153,7 +153,7 @@
           0
         ],
         "passesAccurate": [
-          445,
+          448,
           366
         ],
         "shotsInside": [
@@ -165,8 +165,8 @@
           46
         ],
         "passesPct": [
-          88,
-          86
+          87,
+          85
         ],
         "home": "BEL",
         "away": "SEN"
@@ -304,7 +304,7 @@
         "referee": "Said Martinez, Honduras",
         "motm": {
           "player": "Ismaïla Sarr",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "SEN"
         }
       }
