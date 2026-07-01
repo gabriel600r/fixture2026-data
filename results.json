@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-01T20:23:30Z",
+  "updated": "2026-07-01T20:24:18Z",
   "live": [
     {
       "id": 82,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 0,
       "stats": {
         "fouls": [
-          3,
+          4,
           0
         ],
         "saves": [
@@ -17,15 +17,15 @@
           1
         ],
         "shotsOff": [
-          1,
+          2,
           2
         ],
         "passesTotal": [
-          93,
-          143
+          110,
+          160
         ],
         "shotsTotal": [
-          2,
+          3,
           3
         ],
         "shotsBlocked": [
@@ -42,11 +42,11 @@
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "yellow": [
           0,
@@ -57,20 +57,20 @@
           0
         ],
         "passesAccurate": [
-          79,
-          125
+          95,
+          140
         ],
         "shotsInside": [
-          1,
+          2,
           2
         ],
         "possession": [
-          39,
-          61
+          40,
+          60
         ],
         "passesPct": [
-          85,
-          87
+          86,
+          88
         ],
         "home": "BEL",
         "away": "SEN"
