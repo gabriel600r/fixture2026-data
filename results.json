@@ -1,325 +1,6 @@
 {
-  "updated": "2026-07-01T04:01:29Z",
-  "live": [
-    {
-      "id": 79,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 0,
-      "goals": [
-        {
-          "player": "J. Quinones",
-          "minute": 22,
-          "team": "MEX",
-          "assist": "R. Alvarado"
-        },
-        {
-          "player": "R. Jimenez",
-          "minute": 31,
-          "team": "MEX",
-          "assist": "J. Quinones"
-        }
-      ],
-      "redCards": [
-        "P. Hincapie (Ecuador) 90'"
-      ],
-      "cardEvents": [
-        {
-          "player": "A. Franco",
-          "minute": 45,
-          "team": "ECU",
-          "color": "yellow"
-        },
-        {
-          "player": "K. Paez",
-          "minute": 90,
-          "team": "ECU",
-          "color": "yellow"
-        },
-        {
-          "player": "P. Hincapie",
-          "minute": 90,
-          "team": "ECU",
-          "color": "red"
-        },
-        {
-          "player": "M. Caicedo",
-          "minute": 90,
-          "team": "ECU",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "A. Franco",
-          "in": "Y. Medina",
-          "minute": 46,
-          "team": "ECU"
-        },
-        {
-          "out": "J. Ordonez",
-          "in": "A. Preciado",
-          "minute": 46,
-          "team": "ECU"
-        },
-        {
-          "out": "G. Mora",
-          "in": "B. Gutierrez",
-          "minute": 58,
-          "team": "MEX"
-        },
-        {
-          "out": "E. Valencia",
-          "in": "K. Rodriguez",
-          "minute": 59,
-          "team": "ECU"
-        },
-        {
-          "out": "L. Romo",
-          "in": "O. Vargas",
-          "minute": 73,
-          "team": "MEX"
-        },
-        {
-          "out": "R. Jimenez",
-          "in": "S. Gimenez",
-          "minute": 74,
-          "team": "MEX"
-        },
-        {
-          "out": "J. Yeboah",
-          "in": "J. Caicedo",
-          "minute": 79,
-          "team": "ECU"
-        },
-        {
-          "out": "N. Angulo",
-          "in": "K. Paez",
-          "minute": 79,
-          "team": "ECU"
-        },
-        {
-          "out": "J. Quinones",
-          "in": "O. Pineda",
-          "minute": 80,
-          "team": "MEX"
-        },
-        {
-          "out": "R. Alvarado",
-          "in": "I. Reyes",
-          "minute": 80,
-          "team": "MEX"
-        }
-      ],
-      "extra": 9,
-      "stats": {
-        "shotsOn": [
-          3,
-          1
-        ],
-        "offsides": [
-          0,
-          1
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "corners": [
-          3,
-          8
-        ],
-        "passesPct": [
-          78,
-          84
-        ],
-        "yellow": [
-          0,
-          2
-        ],
-        "fouls": [
-          10,
-          13
-        ],
-        "possession": [
-          43,
-          57
-        ],
-        "shotsInside": [
-          10,
-          5
-        ],
-        "saves": [
-          1,
-          1
-        ],
-        "passesTotal": [
-          314,
-          404
-        ],
-        "shotsTotal": [
-          15,
-          7
-        ],
-        "shotsBlocked": [
-          3,
-          1
-        ],
-        "passesAccurate": [
-          246,
-          339
-        ],
-        "shotsOutside": [
-          5,
-          2
-        ],
-        "shotsOff": [
-          9,
-          5
-        ],
-        "home": "MEX",
-        "away": "ECU"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Javier Aguirre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Raúl Rangel",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Jorge Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "César Montes",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Johan Vásquez",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Jesús Gallardo",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Gilberto Mora",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Erik Lira",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Luis Romo",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Roberto Alvarado",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Raúl Jiménez",
-                "pos": "F"
-              },
-              {
-                "n": 16,
-                "name": "Julián Quiñones",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Sebastian Beccacece",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Hernán Galíndez",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "Alan Franco",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Joel Ordóñez",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Willian Pacho",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Piero Hincapié",
-                "pos": "D"
-              },
-              {
-                "n": 9,
-                "name": "John Yeboah",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Moisés Caicedo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Pedro Vite",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Nilson Angulo",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Gonzalo Plata",
-                "pos": "F"
-              },
-              {
-                "n": 13,
-                "name": "Enner Valencia",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Slavko Vinčić, Slovenia",
-        "motm": {
-          "player": "Julián Quiñones",
-          "rating": 8.3,
-          "team": "MEX"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-01T04:02:15Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -24234,6 +23915,321 @@
           "team": "CIV"
         }
       }
+    },
+    {
+      "id": 79,
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {
+          "player": "J. Quinones",
+          "minute": 22,
+          "team": "MEX",
+          "assist": "R. Alvarado"
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 31,
+          "team": "MEX",
+          "assist": "J. Quinones"
+        }
+      ],
+      "redCards": [
+        "P. Hincapie (Ecuador) 90'"
+      ],
+      "cardEvents": [
+        {
+          "player": "A. Franco",
+          "minute": 45,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "K. Paez",
+          "minute": 90,
+          "team": "ECU",
+          "color": "yellow"
+        },
+        {
+          "player": "P. Hincapie",
+          "minute": 90,
+          "team": "ECU",
+          "color": "red"
+        },
+        {
+          "player": "M. Caicedo",
+          "minute": 90,
+          "team": "ECU",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Franco",
+          "in": "Y. Medina",
+          "minute": 46,
+          "team": "ECU"
+        },
+        {
+          "out": "J. Ordonez",
+          "in": "A. Preciado",
+          "minute": 46,
+          "team": "ECU"
+        },
+        {
+          "out": "G. Mora",
+          "in": "B. Gutierrez",
+          "minute": 58,
+          "team": "MEX"
+        },
+        {
+          "out": "E. Valencia",
+          "in": "K. Rodriguez",
+          "minute": 59,
+          "team": "ECU"
+        },
+        {
+          "out": "L. Romo",
+          "in": "O. Vargas",
+          "minute": 73,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Jimenez",
+          "in": "S. Gimenez",
+          "minute": 74,
+          "team": "MEX"
+        },
+        {
+          "out": "J. Yeboah",
+          "in": "J. Caicedo",
+          "minute": 79,
+          "team": "ECU"
+        },
+        {
+          "out": "N. Angulo",
+          "in": "K. Paez",
+          "minute": 79,
+          "team": "ECU"
+        },
+        {
+          "out": "J. Quinones",
+          "in": "O. Pineda",
+          "minute": 80,
+          "team": "MEX"
+        },
+        {
+          "out": "R. Alvarado",
+          "in": "I. Reyes",
+          "minute": 80,
+          "team": "MEX"
+        }
+      ],
+      "stats": {
+        "shotsOn": [
+          3,
+          1
+        ],
+        "offsides": [
+          0,
+          1
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "corners": [
+          3,
+          8
+        ],
+        "passesPct": [
+          78,
+          84
+        ],
+        "yellow": [
+          0,
+          2
+        ],
+        "fouls": [
+          10,
+          13
+        ],
+        "possession": [
+          43,
+          57
+        ],
+        "shotsInside": [
+          10,
+          5
+        ],
+        "saves": [
+          1,
+          1
+        ],
+        "passesTotal": [
+          314,
+          404
+        ],
+        "shotsTotal": [
+          15,
+          7
+        ],
+        "shotsBlocked": [
+          3,
+          1
+        ],
+        "passesAccurate": [
+          246,
+          339
+        ],
+        "shotsOutside": [
+          5,
+          2
+        ],
+        "shotsOff": [
+          9,
+          5
+        ],
+        "home": "MEX",
+        "away": "ECU"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Javier Aguirre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Raúl Rangel",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Jorge Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "César Montes",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Johan Vásquez",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Jesús Gallardo",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Gilberto Mora",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Erik Lira",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Luis Romo",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Roberto Alvarado",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Raúl Jiménez",
+                "pos": "F"
+              },
+              {
+                "n": 16,
+                "name": "Julián Quiñones",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Sebastian Beccacece",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Hernán Galíndez",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Alan Franco",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Joel Ordóñez",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Willian Pacho",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Piero Hincapié",
+                "pos": "D"
+              },
+              {
+                "n": 9,
+                "name": "John Yeboah",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Moisés Caicedo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Pedro Vite",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Nilson Angulo",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Gonzalo Plata",
+                "pos": "F"
+              },
+              {
+                "n": 13,
+                "name": "Enner Valencia",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Slavko Vinčić, Slovenia",
+        "motm": {
+          "player": "Julián Quiñones",
+          "rating": 8.3,
+          "team": "MEX"
+        }
+      }
     }
   ],
   "stats": {
@@ -24329,6 +24325,12 @@
         "assists": 1
       },
       {
+        "player": "Julián Quiñones",
+        "team": "MEX",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "player": "M. Cunha",
         "team": "BRA",
         "goals": 3
@@ -24396,12 +24398,6 @@
         "player": "Folarin Balogun",
         "team": "USA",
         "goals": 2
-      },
-      {
-        "player": "J. Bellingham",
-        "team": "ENG",
-        "goals": 2,
-        "assists": 1
       }
     ],
     "assists": [
@@ -24429,6 +24425,11 @@
       {
         "player": "M. Odegaard",
         "team": "NOR",
+        "assists": 3
+      },
+      {
+        "player": "Roberto Alvarado",
+        "team": "MEX",
         "assists": 3
       },
       {
@@ -24531,11 +24532,6 @@
         "assists": 2
       },
       {
-        "player": "Roberto Alvarado",
-        "team": "MEX",
-        "assists": 2
-      },
-      {
         "player": "Viktor Gyökeres",
         "team": "SWE",
         "assists": 2,
@@ -24572,6 +24568,12 @@
       {
         "player": "Miguel Almirón",
         "team": "PAR",
+        "red": 1,
+        "yellow": 1
+      },
+      {
+        "player": "Piero Hincapié",
+        "team": "ECU",
         "red": 1,
         "yellow": 1
       },
@@ -24638,6 +24640,12 @@
       {
         "player": "A. Khusanov",
         "team": "UZB",
+        "red": 0,
+        "yellow": 2
+      },
+      {
+        "player": "Alan Franco",
+        "team": "ECU",
         "red": 0,
         "yellow": 2
       },
@@ -24736,18 +24744,6 @@
         "team": "PAR",
         "red": 0,
         "yellow": 1
-      },
-      {
-        "player": "A. Dedic",
-        "team": "BIH",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Fatouh",
-        "team": "EGY",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
@@ -24761,6 +24757,20 @@
       "gf": 13,
       "ga": 2,
       "cleanSheets": 2,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWWW"
+    },
+    {
+      "code": "MEX",
+      "played": 4,
+      "wins": 4,
+      "draws": 0,
+      "loses": 0,
+      "gf": 8,
+      "ga": 0,
+      "cleanSheets": 4,
       "failedToScore": 0,
       "biggestWin": "3-0",
       "biggestLose": "",
@@ -24789,20 +24799,6 @@
       "gf": 8,
       "ga": 1,
       "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WWW"
-    },
-    {
-      "code": "MEX",
-      "played": 3,
-      "wins": 3,
-      "draws": 0,
-      "loses": 0,
-      "gf": 6,
-      "ga": 0,
-      "cleanSheets": 3,
       "failedToScore": 0,
       "biggestWin": "3-0",
       "biggestLose": "",
@@ -25075,20 +25071,6 @@
       "form": "WLD"
     },
     {
-      "code": "ECU",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "loses": 1,
-      "gf": 2,
-      "ga": 2,
-      "cleanSheets": 1,
-      "failedToScore": 2,
-      "biggestWin": "2-1",
-      "biggestLose": "0-1",
-      "form": "LDW"
-    },
-    {
       "code": "AUT",
       "played": 3,
       "wins": 1,
@@ -25141,6 +25123,20 @@
       "cleanSheets": 1,
       "failedToScore": 2,
       "biggestWin": "1-0",
+      "biggestLose": "0-2",
+      "form": "LDWL"
+    },
+    {
+      "code": "ECU",
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "loses": 2,
+      "gf": 2,
+      "ga": 4,
+      "cleanSheets": 1,
+      "failedToScore": 3,
+      "biggestWin": "2-1",
       "biggestLose": "0-2",
       "form": "LDWL"
     },
