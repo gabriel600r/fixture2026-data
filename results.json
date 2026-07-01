@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T03:39:23Z",
+  "updated": "2026-07-01T03:40:10Z",
   "live": [
     {
       "id": 79,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 2,
       "away": 0,
       "goals": [
@@ -268,7 +268,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "Julián Quiñones",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "MEX"
         }
       }
