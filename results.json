@@ -1,310 +1,6 @@
 {
-  "updated": "2026-07-01T18:00:36Z",
-  "live": [
-    {
-      "id": 80,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 1,
-      "goals": [
-        {
-          "player": "B. Cipenga",
-          "minute": 7,
-          "team": "COD",
-          "assist": "C. Mbemba"
-        },
-        {
-          "player": "H. Kane",
-          "minute": 75,
-          "team": "ENG",
-          "assist": "A. Gordon"
-        },
-        {
-          "player": "H. Kane",
-          "minute": 86,
-          "team": "ENG",
-          "assist": "A. Gordon"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Bellingham",
-          "minute": 19,
-          "team": "ENG",
-          "color": "yellow"
-        },
-        {
-          "player": "N. Sadiki",
-          "minute": 28,
-          "team": "COD",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "M. Rashford",
-          "in": "A. Gordon",
-          "minute": 61,
-          "team": "ENG"
-        },
-        {
-          "out": "N. Madueke",
-          "in": "B. Saka",
-          "minute": 61,
-          "team": "ENG"
-        },
-        {
-          "out": "N. Mbuku",
-          "in": "M. Elia",
-          "minute": 64,
-          "team": "COD"
-        },
-        {
-          "out": "D. Spence",
-          "in": "E. Eze",
-          "minute": 70,
-          "team": "ENG"
-        },
-        {
-          "out": "N. Mukau",
-          "in": "E. Kayembe",
-          "minute": 76,
-          "team": "COD"
-        },
-        {
-          "out": "B. Cipenga",
-          "in": "T. Bongonda",
-          "minute": 76,
-          "team": "COD"
-        },
-        {
-          "out": "A. Masuaku",
-          "in": "J. Kayembe",
-          "minute": 89,
-          "team": "COD"
-        },
-        {
-          "out": "S. Moutoussamy",
-          "in": "F. Mayele",
-          "minute": 89,
-          "team": "COD"
-        },
-        {
-          "out": "D. Rice",
-          "in": "J. Stones",
-          "minute": 90,
-          "team": "ENG"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "fouls": [
-          10,
-          12
-        ],
-        "saves": [
-          1,
-          5
-        ],
-        "shotsOff": [
-          6,
-          2
-        ],
-        "passesTotal": [
-          515,
-          365
-        ],
-        "shotsTotal": [
-          16,
-          6
-        ],
-        "shotsBlocked": [
-          3,
-          2
-        ],
-        "shotsOn": [
-          7,
-          2
-        ],
-        "shotsOutside": [
-          3,
-          4
-        ],
-        "corners": [
-          5,
-          3
-        ],
-        "offsides": [
-          0,
-          4
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          467,
-          299
-        ],
-        "shotsInside": [
-          13,
-          2
-        ],
-        "possession": [
-          60,
-          40
-        ],
-        "passesPct": [
-          91,
-          82
-        ],
-        "home": "ENG",
-        "away": "COD"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Thomas Tuchel",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Jordan Pickford",
-                "pos": "G"
-              },
-              {
-                "n": 25,
-                "name": "Djed Spence",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Ezri Konsa",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Marc Guéhi",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nico O'Reilly",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Elliot Anderson",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Declan Rice",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Noni Madueke",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jude Bellingham",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Marcus Rashford",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Harry Kane",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Sebastien Desabre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Lionel Mpasi Nzau",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Aaron Wan-Bissaka",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Chancel Mbemba",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Axel Tuanzebe",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Arthur Masuaku",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Ngal'ayel Mukau",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Samuel Moutoussamy",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Noah Sadiki",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Nathanaël Mbuku",
-                "pos": "F"
-              },
-              {
-                "n": 20,
-                "name": "Yoane Wissa",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Brian Cipenga",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Adham Mohammad, Jordan",
-        "motm": {
-          "player": "Harry Kane",
-          "rating": 8.5,
-          "team": "ENG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-01T18:01:24Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -24546,6 +24242,306 @@
           "team": "MEX"
         }
       }
+    },
+    {
+      "id": 80,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {
+          "player": "B. Cipenga",
+          "minute": 7,
+          "team": "COD",
+          "assist": "C. Mbemba"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 75,
+          "team": "ENG",
+          "assist": "A. Gordon"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 86,
+          "team": "ENG",
+          "assist": "A. Gordon"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Bellingham",
+          "minute": 19,
+          "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "N. Sadiki",
+          "minute": 28,
+          "team": "COD",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "M. Rashford",
+          "in": "A. Gordon",
+          "minute": 61,
+          "team": "ENG"
+        },
+        {
+          "out": "N. Madueke",
+          "in": "B. Saka",
+          "minute": 61,
+          "team": "ENG"
+        },
+        {
+          "out": "N. Mbuku",
+          "in": "M. Elia",
+          "minute": 64,
+          "team": "COD"
+        },
+        {
+          "out": "D. Spence",
+          "in": "E. Eze",
+          "minute": 70,
+          "team": "ENG"
+        },
+        {
+          "out": "N. Mukau",
+          "in": "E. Kayembe",
+          "minute": 76,
+          "team": "COD"
+        },
+        {
+          "out": "B. Cipenga",
+          "in": "T. Bongonda",
+          "minute": 76,
+          "team": "COD"
+        },
+        {
+          "out": "A. Masuaku",
+          "in": "J. Kayembe",
+          "minute": 89,
+          "team": "COD"
+        },
+        {
+          "out": "S. Moutoussamy",
+          "in": "F. Mayele",
+          "minute": 89,
+          "team": "COD"
+        },
+        {
+          "out": "D. Rice",
+          "in": "J. Stones",
+          "minute": 90,
+          "team": "ENG"
+        }
+      ],
+      "stats": {
+        "fouls": [
+          10,
+          12
+        ],
+        "saves": [
+          1,
+          5
+        ],
+        "shotsOff": [
+          6,
+          2
+        ],
+        "passesTotal": [
+          515,
+          365
+        ],
+        "shotsTotal": [
+          16,
+          6
+        ],
+        "shotsBlocked": [
+          3,
+          2
+        ],
+        "shotsOn": [
+          7,
+          2
+        ],
+        "shotsOutside": [
+          3,
+          4
+        ],
+        "corners": [
+          5,
+          3
+        ],
+        "offsides": [
+          0,
+          4
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          467,
+          299
+        ],
+        "shotsInside": [
+          13,
+          2
+        ],
+        "possession": [
+          60,
+          40
+        ],
+        "passesPct": [
+          91,
+          82
+        ],
+        "home": "ENG",
+        "away": "COD"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Thomas Tuchel",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Jordan Pickford",
+                "pos": "G"
+              },
+              {
+                "n": 25,
+                "name": "Djed Spence",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ezri Konsa",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Marc Guéhi",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nico O'Reilly",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Elliot Anderson",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Declan Rice",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Noni Madueke",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jude Bellingham",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Marcus Rashford",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Harry Kane",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Sebastien Desabre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Lionel Mpasi Nzau",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Aaron Wan-Bissaka",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Chancel Mbemba",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Axel Tuanzebe",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Arthur Masuaku",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ngal'ayel Mukau",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Samuel Moutoussamy",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Noah Sadiki",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Nathanaël Mbuku",
+                "pos": "F"
+              },
+              {
+                "n": 20,
+                "name": "Yoane Wissa",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Brian Cipenga",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Adham Mohammad, Jordan",
+        "motm": {
+          "player": "Harry Kane",
+          "rating": 8.5,
+          "team": "ENG"
+        }
+      }
     }
   ],
   "stats": {
@@ -24560,6 +24556,12 @@
         "player": "L. Messi",
         "team": "ARG",
         "goals": 6
+      },
+      {
+        "player": "H. Kane",
+        "team": "ENG",
+        "goals": 5,
+        "penalties": 1
       },
       {
         "player": "E. Haaland",
@@ -24577,12 +24579,6 @@
         "team": "BRA",
         "goals": 4,
         "assists": 1
-      },
-      {
-        "player": "H. Kane",
-        "team": "ENG",
-        "goals": 3,
-        "penalties": 1
       },
       {
         "player": "K. Havertz",
@@ -24749,6 +24745,11 @@
         "assists": 3
       },
       {
+        "player": "A. Gordon",
+        "team": "ENG",
+        "assists": 2
+      },
+      {
         "player": "B. Embolo",
         "team": "SUI",
         "assists": 2,
@@ -24872,11 +24873,6 @@
       {
         "player": "A. Masuaku",
         "team": "COD",
-        "assists": 1
-      },
-      {
-        "player": "A. Mozgovoy",
-        "team": "UZB",
         "assists": 1
       }
     ],
@@ -25008,6 +25004,12 @@
         "yellow": 2
       },
       {
+        "player": "N. Sadiki",
+        "team": "COD",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "S. Ezatolahi",
         "team": "IRN",
         "red": 0,
@@ -25052,12 +25054,6 @@
       {
         "player": "A. Circati",
         "team": "AUS",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Cubas",
-        "team": "PAR",
         "red": 0,
         "yellow": 1
       }
@@ -25105,6 +25101,20 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "DWWW"
+    },
+    {
+      "code": "ENG",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "loses": 0,
+      "gf": 8,
+      "ga": 3,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "4-2",
+      "biggestLose": "",
+      "form": "WDWW"
     },
     {
       "code": "ARG",
@@ -25217,20 +25227,6 @@
       "biggestWin": "4-1",
       "biggestLose": "",
       "form": "DWW"
-    },
-    {
-      "code": "ENG",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 6,
-      "ga": 2,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "4-2",
-      "biggestLose": "",
-      "form": "WDW"
     },
     {
       "code": "COL",
@@ -25359,20 +25355,6 @@
       "form": "LWDD"
     },
     {
-      "code": "COD",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "loses": 1,
-      "gf": 4,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "3-1",
-      "biggestLose": "0-1",
-      "form": "DLW"
-    },
-    {
       "code": "AUS",
       "played": 3,
       "wins": 1,
@@ -25399,6 +25381,20 @@
       "biggestWin": "3-1",
       "biggestLose": "0-2",
       "form": "WLD"
+    },
+    {
+      "code": "COD",
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "loses": 2,
+      "gf": 5,
+      "ga": 5,
+      "cleanSheets": 0,
+      "failedToScore": 1,
+      "biggestWin": "3-1",
+      "biggestLose": "0-1",
+      "form": "DLWL"
     },
     {
       "code": "GHA",
