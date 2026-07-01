@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:54:20Z",
+  "updated": "2026-07-01T21:55:08Z",
   "live": [
     {
       "id": 82,
@@ -102,7 +102,7 @@
           "team": "BEL"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "fouls": [
           13,
@@ -117,8 +117,8 @@
           7
         ],
         "passesTotal": [
-          506,
-          417
+          508,
+          428
         ],
         "shotsTotal": [
           15,
@@ -153,16 +153,16 @@
           0
         ],
         "passesAccurate": [
-          444,
-          358
+          445,
+          366
         ],
         "shotsInside": [
           9,
           9
         ],
         "possession": [
-          55,
-          45
+          54,
+          46
         ],
         "passesPct": [
           88,
