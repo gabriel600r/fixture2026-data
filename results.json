@@ -1,344 +1,6 @@
 {
-  "updated": "2026-07-01T22:49:38Z",
-  "live": [
-    {
-      "id": 82,
-      "status": "ET",
-      "minute": 120,
-      "home": 3,
-      "away": 2,
-      "goals": [
-        {
-          "player": "H. Diarra",
-          "minute": 25,
-          "team": "SEN"
-        },
-        {
-          "player": "I. Sarr",
-          "minute": 51,
-          "team": "SEN",
-          "assist": "M. Niakhate"
-        },
-        {
-          "player": "R. Lukaku",
-          "minute": 86,
-          "team": "BEL",
-          "assist": "T. Meunier"
-        },
-        {
-          "player": "Y. Tielemans",
-          "minute": 89,
-          "team": "BEL",
-          "assist": "L. Trossard"
-        },
-        {
-          "player": "Y. Tielemans",
-          "minute": 120,
-          "team": "BEL",
-          "pen": true
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "B. Mechele",
-          "minute": 64,
-          "team": "BEL",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Camara",
-          "minute": 67,
-          "team": "SEN",
-          "color": "yellow"
-        },
-        {
-          "player": "R. Garcia",
-          "minute": 90,
-          "team": "BEL",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "C. De Ketelaere",
-          "in": "R. Lukaku",
-          "minute": 46,
-          "team": "BEL"
-        },
-        {
-          "out": "K. De Bruyne",
-          "in": "N. Raskin",
-          "minute": 56,
-          "team": "BEL"
-        },
-        {
-          "out": "J. Doku",
-          "in": "D. Lukebakio",
-          "minute": 56,
-          "team": "BEL"
-        },
-        {
-          "out": "H. Vanaken",
-          "in": "D. Moreira",
-          "minute": 63,
-          "team": "BEL"
-        },
-        {
-          "out": "P. Gueye",
-          "in": "L. Camara",
-          "minute": 66,
-          "team": "SEN"
-        },
-        {
-          "out": "I. Ndiaye",
-          "in": "I. Mbaye",
-          "minute": 73,
-          "team": "SEN"
-        },
-        {
-          "out": "H. Diarra",
-          "in": "P. M. Sarr",
-          "minute": 73,
-          "team": "SEN"
-        },
-        {
-          "out": "M. De Cuyper",
-          "in": "T. Meunier",
-          "minute": 78,
-          "team": "BEL"
-        },
-        {
-          "out": "S. Mane",
-          "in": "N. Jackson",
-          "minute": 93,
-          "team": "SEN"
-        },
-        {
-          "out": "I. Jakobs",
-          "in": "M. Diouf",
-          "minute": 93,
-          "team": "SEN"
-        },
-        {
-          "out": "I. Gueye",
-          "in": "B. Sapoko Ndiaye",
-          "minute": 96,
-          "team": "SEN"
-        },
-        {
-          "out": "L. Trossard",
-          "in": "A. Onana",
-          "minute": 109,
-          "team": "BEL"
-        }
-      ],
-      "stats": {
-        "fouls": [
-          21,
-          12
-        ],
-        "saves": [
-          3,
-          3
-        ],
-        "shotsOff": [
-          9,
-          10
-        ],
-        "passesTotal": [
-          696,
-          631
-        ],
-        "shotsTotal": [
-          19,
-          16
-        ],
-        "shotsBlocked": [
-          5,
-          1
-        ],
-        "shotsOn": [
-          5,
-          5
-        ],
-        "shotsOutside": [
-          8,
-          6
-        ],
-        "corners": [
-          4,
-          2
-        ],
-        "offsides": [
-          2,
-          2
-        ],
-        "yellow": [
-          1,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          602,
-          530
-        ],
-        "shotsInside": [
-          11,
-          10
-        ],
-        "possession": [
-          53,
-          47
-        ],
-        "passesPct": [
-          86,
-          84
-        ],
-        "home": "BEL",
-        "away": "SEN"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Rudi Garcia",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Thibaut Courtois",
-                "pos": "G"
-              },
-              {
-                "n": 21,
-                "name": "Timothy Castagne",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Brandon Mechele",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Arthur Theate",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Maxim De Cuyper",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Youri Tielemans",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Hans Vanaken",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Leandro Trossard",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Kevin De Bruyne",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Jérémy Doku",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Charles De Ketelaere",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Bouna Thiaw Pape",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Mory Diaw",
-                "pos": "G"
-              },
-              {
-                "n": 15,
-                "name": "Krépin Diatta",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Pathé Ismaël Ciss",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Moussa Niakhaté",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Ismail Jakobs",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Habib Diarra",
-                "pos": "M"
-              },
-              {
-                "n": 5,
-                "name": "Idrissa Gana Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 26,
-                "name": "Pape Gueye",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Iliman Ndiaye",
-                "pos": "F"
-              },
-              {
-                "n": 18,
-                "name": "Ismaïla Sarr",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Sadio Mané",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Said Martinez, Honduras",
-        "motm": {
-          "player": "Youri Tielemans",
-          "rating": 8.3,
-          "team": "BEL"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-01T22:50:24Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -24880,6 +24542,341 @@
           "team": "ENG"
         }
       }
+    },
+    {
+      "id": 82,
+      "home": 3,
+      "away": 2,
+      "goals": [
+        {
+          "player": "H. Diarra",
+          "minute": 25,
+          "team": "SEN"
+        },
+        {
+          "player": "I. Sarr",
+          "minute": 51,
+          "team": "SEN",
+          "assist": "M. Niakhate"
+        },
+        {
+          "player": "R. Lukaku",
+          "minute": 86,
+          "team": "BEL",
+          "assist": "T. Meunier"
+        },
+        {
+          "player": "Y. Tielemans",
+          "minute": 89,
+          "team": "BEL",
+          "assist": "L. Trossard"
+        },
+        {
+          "player": "Y. Tielemans",
+          "minute": 120,
+          "team": "BEL",
+          "pen": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "B. Mechele",
+          "minute": 64,
+          "team": "BEL",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Camara",
+          "minute": 67,
+          "team": "SEN",
+          "color": "yellow"
+        },
+        {
+          "player": "R. Garcia",
+          "minute": 90,
+          "team": "BEL",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 46,
+          "team": "BEL"
+        },
+        {
+          "out": "K. De Bruyne",
+          "in": "N. Raskin",
+          "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "J. Doku",
+          "in": "D. Lukebakio",
+          "minute": 56,
+          "team": "BEL"
+        },
+        {
+          "out": "H. Vanaken",
+          "in": "D. Moreira",
+          "minute": 63,
+          "team": "BEL"
+        },
+        {
+          "out": "P. Gueye",
+          "in": "L. Camara",
+          "minute": 66,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Ndiaye",
+          "in": "I. Mbaye",
+          "minute": 73,
+          "team": "SEN"
+        },
+        {
+          "out": "H. Diarra",
+          "in": "P. M. Sarr",
+          "minute": 73,
+          "team": "SEN"
+        },
+        {
+          "out": "M. De Cuyper",
+          "in": "T. Meunier",
+          "minute": 78,
+          "team": "BEL"
+        },
+        {
+          "out": "S. Mane",
+          "in": "N. Jackson",
+          "minute": 93,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Jakobs",
+          "in": "M. Diouf",
+          "minute": 93,
+          "team": "SEN"
+        },
+        {
+          "out": "I. Gueye",
+          "in": "B. Sapoko Ndiaye",
+          "minute": 96,
+          "team": "SEN"
+        },
+        {
+          "out": "L. Trossard",
+          "in": "A. Onana",
+          "minute": 109,
+          "team": "BEL"
+        }
+      ],
+      "stats": {
+        "fouls": [
+          21,
+          12
+        ],
+        "saves": [
+          3,
+          3
+        ],
+        "shotsOff": [
+          9,
+          10
+        ],
+        "passesTotal": [
+          696,
+          631
+        ],
+        "shotsTotal": [
+          19,
+          16
+        ],
+        "shotsBlocked": [
+          5,
+          1
+        ],
+        "shotsOn": [
+          5,
+          5
+        ],
+        "shotsOutside": [
+          8,
+          6
+        ],
+        "corners": [
+          4,
+          2
+        ],
+        "offsides": [
+          2,
+          2
+        ],
+        "yellow": [
+          1,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          602,
+          530
+        ],
+        "shotsInside": [
+          11,
+          10
+        ],
+        "possession": [
+          53,
+          47
+        ],
+        "passesPct": [
+          86,
+          84
+        ],
+        "home": "BEL",
+        "away": "SEN"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Rudi Garcia",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Thibaut Courtois",
+                "pos": "G"
+              },
+              {
+                "n": 21,
+                "name": "Timothy Castagne",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Brandon Mechele",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Arthur Theate",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Maxim De Cuyper",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Youri Tielemans",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Hans Vanaken",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Leandro Trossard",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Kevin De Bruyne",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jérémy Doku",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Charles De Ketelaere",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Bouna Thiaw Pape",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mory Diaw",
+                "pos": "G"
+              },
+              {
+                "n": 15,
+                "name": "Krépin Diatta",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Pathé Ismaël Ciss",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Moussa Niakhaté",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Ismail Jakobs",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Habib Diarra",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Idrissa Gana Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 26,
+                "name": "Pape Gueye",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Iliman Ndiaye",
+                "pos": "F"
+              },
+              {
+                "n": 18,
+                "name": "Ismaïla Sarr",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Sadio Mané",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Said Martinez, Honduras",
+        "motm": {
+          "player": "Youri Tielemans",
+          "rating": 8.3,
+          "team": "BEL"
+        }
+      }
     }
   ],
   "stats": {
@@ -24905,6 +24902,12 @@
         "player": "E. Haaland",
         "team": "NOR",
         "goals": 5
+      },
+      {
+        "player": "I. Sarr",
+        "team": "SEN",
+        "goals": 4,
+        "assists": 1
       },
       {
         "player": "Ousmane Dembélé",
@@ -24953,12 +24956,6 @@
         "goals": 3
       },
       {
-        "player": "I. Sarr",
-        "team": "SEN",
-        "goals": 3,
-        "assists": 1
-      },
-      {
         "player": "Ismael Saibari",
         "team": "MAR",
         "goals": 3
@@ -24988,6 +24985,12 @@
       {
         "player": "M. Arnautovic",
         "team": "AUT",
+        "goals": 2,
+        "penalties": 1
+      },
+      {
+        "player": "Y. Tielemans",
+        "team": "BEL",
         "goals": 2,
         "penalties": 1
       },
@@ -25042,11 +25045,6 @@
       {
         "player": "E. Mahmic",
         "team": "BIH",
-        "goals": 2
-      },
-      {
-        "player": "Folarin Balogun",
-        "team": "USA",
         "goals": 2
       }
     ],
@@ -25497,6 +25495,20 @@
       "form": "DWWD"
     },
     {
+      "code": "BEL",
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "loses": 0,
+      "gf": 9,
+      "ga": 4,
+      "cleanSheets": 1,
+      "failedToScore": 1,
+      "biggestWin": "5-1",
+      "biggestLose": "",
+      "form": "DDWW"
+    },
+    {
       "code": "MAR",
       "played": 4,
       "wins": 2,
@@ -25635,20 +25647,6 @@
       "biggestWin": "5-0",
       "biggestLose": "",
       "form": "DWD"
-    },
-    {
-      "code": "BEL",
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "loses": 0,
-      "gf": 6,
-      "ga": 2,
-      "cleanSheets": 1,
-      "failedToScore": 1,
-      "biggestWin": "5-1",
-      "biggestLose": "",
-      "form": "DDW"
     },
     {
       "code": "JPN",
@@ -25820,17 +25818,17 @@
     },
     {
       "code": "SEN",
-      "played": 3,
+      "played": 4,
       "wins": 1,
       "draws": 0,
-      "loses": 2,
-      "gf": 8,
-      "ga": 6,
+      "loses": 3,
+      "gf": 10,
+      "ga": 9,
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "5-0",
       "biggestLose": "1-3",
-      "form": "LLW"
+      "form": "LLWL"
     },
     {
       "code": "IRN",
