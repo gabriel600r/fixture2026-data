@@ -1,34 +1,31 @@
 {
-  "updated": "2026-07-01T02:45:37Z",
+  "updated": "2026-07-01T02:46:24Z",
   "live": [
     {
       "id": 79,
       "status": "1H",
-      "minute": 43,
+      "minute": 45,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "J. Quinones",
+          "player": "Julián Quiñones",
           "minute": 22,
           "team": "MEX",
-          "assist": "R. Alvarado"
+          "assist": "Roberto Alvarado"
         },
         {
-          "player": "R. Jimenez",
+          "player": "Raúl Jiménez",
           "minute": 31,
           "team": "MEX",
-          "assist": "J. Quinones"
+          "assist": "Julián Quiñones"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOn": [
           2,
           1
-        ],
-        "offsides": [
-          0,
-          0
         ],
         "red": [
           0,
@@ -37,10 +34,6 @@
         "corners": [
           1,
           4
-        ],
-        "passesPct": [
-          88,
-          79
         ],
         "yellow": [
           0,
@@ -54,36 +47,20 @@
           59,
           41
         ],
-        "shotsInside": [
-          5,
-          3
-        ],
         "saves": [
           1,
           0
         ],
-        "passesTotal": [
-          179,
-          121
-        ],
         "shotsTotal": [
-          9,
+          10,
           3
         ],
         "shotsBlocked": [
           2,
           0
         ],
-        "passesAccurate": [
-          158,
-          96
-        ],
-        "shotsOutside": [
-          4,
-          0
-        ],
         "shotsOff": [
-          5,
+          6,
           2
         ],
         "home": "MEX",
