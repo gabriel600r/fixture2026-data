@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:52:20Z",
+  "updated": "2026-07-02T20:53:07Z",
   "live": [
     {
       "id": 84,
@@ -9,27 +9,27 @@
       "away": 0,
       "goals": [
         {
-          "player": "Mikel Oyarzabal",
+          "player": "M. Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "Marc Cucurella"
+          "assist": "M. Cucurella"
         },
         {
-          "player": "Pedro Porro",
+          "player": "P. Porro",
           "minute": 66,
           "team": "ESP",
-          "assist": "Alejandro Baena Rodríguez"
+          "assist": "A. Baena"
         },
         {
-          "player": "Mikel Oyarzabal",
+          "player": "M. Oyarzabal",
           "minute": 89,
           "team": "ESP",
-          "assist": "Marc Cucurella"
+          "assist": "M. Cucurella"
         }
       ],
       "cardEvents": [
         {
-          "player": "Stefan Posch",
+          "player": "S. Posch",
           "minute": 83,
           "team": "AUT",
           "color": "yellow"
@@ -37,50 +37,50 @@
       ],
       "subs": [
         {
-          "out": "Xaver Schlager",
-          "in": "Florian Grillitsch",
-          "minute": 45,
+          "out": "N. Seiwald",
+          "in": "C. Chukwuemeka",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Nicolas Seiwald",
-          "in": "Carney Chukwuemeka",
-          "minute": 45,
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Romano Schmid",
-          "in": "Sasa Kalajdzic",
+          "out": "M. Gregoritsch",
+          "in": "M. Arnautovic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "Michael Gregoritsch",
-          "in": "Marko Arnautović",
+          "out": "R. Schmid",
+          "in": "S. Kalajdzic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Ferrán Torres",
+          "out": "A. Baena",
+          "in": "F. Torres",
           "minute": 71,
           "team": "ESP"
         },
         {
-          "out": "Daniel Olmo Carvajal",
-          "in": "Mikel Merino",
+          "out": "D. Olmo",
+          "in": "M. Merino",
           "minute": 71,
           "team": "ESP"
         },
         {
           "out": "Lamine Yamal",
-          "in": "Pablo Martín Páez Gavira",
+          "in": "Gavi",
           "minute": 85,
           "team": "ESP"
         },
         {
-          "out": "Stefan Posch",
-          "in": "Alexander Prass",
+          "out": "S. Posch",
+          "in": "A. Prass",
           "minute": 85,
           "team": "AUT"
         }
