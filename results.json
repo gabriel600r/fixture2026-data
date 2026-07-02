@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T01:29:43Z",
+  "updated": "2026-07-02T01:30:31Z",
   "live": [
     {
       "id": 81,
@@ -12,6 +12,17 @@
           "player": "F. Balogun",
           "minute": 45,
           "team": "USA"
+        }
+      ],
+      "redCards": [
+        "F. Balogun (USA) 64'"
+      ],
+      "cardEvents": [
+        {
+          "player": "F. Balogun",
+          "minute": 64,
+          "team": "USA",
+          "color": "red"
         }
       ],
       "subs": [
