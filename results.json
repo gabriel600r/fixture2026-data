@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:00:35Z",
+  "updated": "2026-07-02T02:01:23Z",
   "live": [
     {
       "id": 81,
@@ -84,9 +84,15 @@
           "in": "R. Pepi",
           "minute": 88,
           "team": "USA"
+        },
+        {
+          "out": "W. McKennie",
+          "in": "G. Reyna",
+          "minute": 90,
+          "team": "USA"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           3,
