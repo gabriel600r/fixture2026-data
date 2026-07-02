@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-02T19:36:28Z",
+  "updated": "2026-07-02T19:37:15Z",
   "live": [
     {
       "id": 84,
       "status": "1H",
-      "minute": 36,
-      "home": 0,
+      "minute": 37,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "Mikel Oyarzabal",
+          "minute": 36,
+          "team": "ESP"
+        }
+      ],
       "stats": {
         "offsides": [
           1,
@@ -21,7 +28,7 @@
           38
         ],
         "shotsOn": [
-          3,
+          4,
           0
         ],
         "shotsOff": [
@@ -37,7 +44,7 @@
           0
         ],
         "shotsTotal": [
-          5,
+          6,
           1
         ],
         "red": [
