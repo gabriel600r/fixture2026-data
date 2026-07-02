@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T18:01:07Z",
+  "updated": "2026-07-02T18:20:22Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -98,6 +98,130 @@
           "home": 45,
           "draw": 45,
           "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-2-3",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí Paredes",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "R. Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "A. Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "S. Posch",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "K. Danso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "D. Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "K. Laimer",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "N. Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "X. Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "R. Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "P. Wanner",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "M. Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "M. Gregoritsch",
+                "pos": "F"
+              }
+            ]
+          }
         },
         "referee": "Glenn Nyberg, Sweden"
       }
