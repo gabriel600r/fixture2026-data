@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:55:31Z",
+  "updated": "2026-07-02T20:56:18Z",
   "live": [
     {
       "id": 84,
@@ -89,6 +89,12 @@
           "in": "F. Ruiz",
           "minute": 90,
           "team": "ESP"
+        },
+        {
+          "out": "A. Laporte",
+          "in": "M. Pubill",
+          "minute": 90,
+          "team": "ESP"
         }
       ],
       "extra": 1,
@@ -114,8 +120,8 @@
           0
         ],
         "passesAccurate": [
-          550,
-          267
+          555,
+          275
         ],
         "shotsOff": [
           5,
@@ -150,12 +156,12 @@
           1
         ],
         "passesTotal": [
-          606,
-          325
+          613,
+          334
         ],
         "fouls": [
           8,
-          13
+          14
         ],
         "home": "ESP",
         "away": "AUT"
