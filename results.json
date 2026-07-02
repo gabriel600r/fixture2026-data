@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:45:14Z",
+  "updated": "2026-07-02T20:46:02Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 2,
       "away": 0,
       "goals": [
@@ -19,6 +19,14 @@
           "minute": 66,
           "team": "ESP",
           "assist": "A. Baena"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "S. Posch",
+          "minute": 83,
+          "team": "AUT",
+          "color": "yellow"
         }
       ],
       "subs": [
