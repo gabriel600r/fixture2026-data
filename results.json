@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:21:29Z",
+  "updated": "2026-07-02T20:22:16Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 1,
       "away": 0,
       "goals": [
@@ -27,15 +27,21 @@
           "in": "F. Grillitsch",
           "minute": 46,
           "team": "AUT"
+        },
+        {
+          "out": "M. Gregoritsch",
+          "in": "M. Arnautovic",
+          "minute": 60,
+          "team": "AUT"
         }
       ],
       "stats": {
         "offsides": [
           1,
-          2
+          3
         ],
         "shotsInside": [
-          8,
+          9,
           1
         ],
         "corners": [
@@ -51,8 +57,8 @@
           0
         ],
         "passesAccurate": [
-          376,
-          166
+          389,
+          168
         ],
         "shotsOff": [
           4,
@@ -67,11 +73,11 @@
           0
         ],
         "shotsTotal": [
-          14,
+          16,
           2
         ],
         "shotsOutside": [
-          6,
+          7,
           1
         ],
         "red": [
@@ -79,16 +85,16 @@
           0
         ],
         "passesPct": [
-          91,
-          79
+          92,
+          78
         ],
         "shotsBlocked": [
-          3,
+          5,
           1
         ],
         "passesTotal": [
-          411,
-          211
+          425,
+          215
         ],
         "fouls": [
           5,
