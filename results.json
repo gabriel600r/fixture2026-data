@@ -1,310 +1,6 @@
 {
-  "updated": "2026-07-02T20:57:52Z",
-  "live": [
-    {
-      "id": 84,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 0,
-      "goals": [
-        {
-          "player": "M. Oyarzabal",
-          "minute": 36,
-          "team": "ESP",
-          "assist": "M. Cucurella"
-        },
-        {
-          "player": "P. Porro",
-          "minute": 66,
-          "team": "ESP",
-          "assist": "A. Baena"
-        },
-        {
-          "player": "M. Oyarzabal",
-          "minute": 89,
-          "team": "ESP",
-          "assist": "M. Cucurella"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "S. Posch",
-          "minute": 83,
-          "team": "AUT",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "N. Seiwald",
-          "in": "C. Chukwuemeka",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "X. Schlager",
-          "in": "F. Grillitsch",
-          "minute": 46,
-          "team": "AUT"
-        },
-        {
-          "out": "M. Gregoritsch",
-          "in": "M. Arnautovic",
-          "minute": 60,
-          "team": "AUT"
-        },
-        {
-          "out": "R. Schmid",
-          "in": "S. Kalajdzic",
-          "minute": 60,
-          "team": "AUT"
-        },
-        {
-          "out": "A. Baena",
-          "in": "F. Torres",
-          "minute": 71,
-          "team": "ESP"
-        },
-        {
-          "out": "D. Olmo",
-          "in": "M. Merino",
-          "minute": 71,
-          "team": "ESP"
-        },
-        {
-          "out": "Lamine Yamal",
-          "in": "Gavi",
-          "minute": 85,
-          "team": "ESP"
-        },
-        {
-          "out": "S. Posch",
-          "in": "A. Prass",
-          "minute": 85,
-          "team": "AUT"
-        },
-        {
-          "out": "Pedri",
-          "in": "F. Ruiz",
-          "minute": 90,
-          "team": "ESP"
-        },
-        {
-          "out": "A. Laporte",
-          "in": "M. Pubill",
-          "minute": 90,
-          "team": "ESP"
-        }
-      ],
-      "extra": 1,
-      "stats": {
-        "offsides": [
-          2,
-          5
-        ],
-        "shotsInside": [
-          14,
-          4
-        ],
-        "corners": [
-          9,
-          0
-        ],
-        "possession": [
-          65,
-          35
-        ],
-        "shotsOn": [
-          10,
-          0
-        ],
-        "passesAccurate": [
-          555,
-          275
-        ],
-        "shotsOff": [
-          5,
-          4
-        ],
-        "saves": [
-          0,
-          6
-        ],
-        "yellow": [
-          0,
-          1
-        ],
-        "shotsTotal": [
-          22,
-          5
-        ],
-        "shotsOutside": [
-          8,
-          1
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          91,
-          82
-        ],
-        "shotsBlocked": [
-          7,
-          1
-        ],
-        "passesTotal": [
-          613,
-          334
-        ],
-        "fouls": [
-          8,
-          14
-        ],
-        "home": "ESP",
-        "away": "AUT"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Luis de la Fuente",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Unai Simón",
-                "pos": "G"
-              },
-              {
-                "n": 12,
-                "name": "Pedro Porro",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Pau Cubarsí",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Aymeric Laporte",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Marc Cucurella",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Rodri",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Pedri",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Ralf Rangnick",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Alexander Schlager",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "Stefan Posch",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Kevin Danso",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "David Alaba",
-                "pos": "D"
-              },
-              {
-                "n": 20,
-                "name": "Konrad Laimer",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Nicolas Seiwald",
-                "pos": "M"
-              },
-              {
-                "n": 4,
-                "name": "Xaver Schlager",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Romano Schmid",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Paul Wanner",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Marcel Sabitzer",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Michael Gregoritsch",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Glenn Nyberg, Sweden",
-        "motm": {
-          "player": "Mikel Oyarzabal",
-          "rating": 9.3,
-          "team": "ESP"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-02T20:58:39Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -25480,6 +25176,306 @@
           "team": "BEL"
         }
       }
+    },
+    {
+      "id": 84,
+      "home": 3,
+      "away": 0,
+      "goals": [
+        {
+          "player": "M. Oyarzabal",
+          "minute": 36,
+          "team": "ESP",
+          "assist": "M. Cucurella"
+        },
+        {
+          "player": "P. Porro",
+          "minute": 66,
+          "team": "ESP",
+          "assist": "A. Baena"
+        },
+        {
+          "player": "M. Oyarzabal",
+          "minute": 89,
+          "team": "ESP",
+          "assist": "M. Cucurella"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "S. Posch",
+          "minute": 83,
+          "team": "AUT",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Seiwald",
+          "in": "C. Chukwuemeka",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
+          "team": "AUT"
+        },
+        {
+          "out": "M. Gregoritsch",
+          "in": "M. Arnautovic",
+          "minute": 60,
+          "team": "AUT"
+        },
+        {
+          "out": "R. Schmid",
+          "in": "S. Kalajdzic",
+          "minute": 60,
+          "team": "AUT"
+        },
+        {
+          "out": "A. Baena",
+          "in": "F. Torres",
+          "minute": 71,
+          "team": "ESP"
+        },
+        {
+          "out": "D. Olmo",
+          "in": "M. Merino",
+          "minute": 71,
+          "team": "ESP"
+        },
+        {
+          "out": "Lamine Yamal",
+          "in": "Gavi",
+          "minute": 85,
+          "team": "ESP"
+        },
+        {
+          "out": "S. Posch",
+          "in": "A. Prass",
+          "minute": 85,
+          "team": "AUT"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 90,
+          "team": "ESP"
+        },
+        {
+          "out": "A. Laporte",
+          "in": "M. Pubill",
+          "minute": 90,
+          "team": "ESP"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          2,
+          5
+        ],
+        "shotsInside": [
+          14,
+          4
+        ],
+        "corners": [
+          9,
+          0
+        ],
+        "possession": [
+          65,
+          35
+        ],
+        "shotsOn": [
+          10,
+          0
+        ],
+        "passesAccurate": [
+          555,
+          275
+        ],
+        "shotsOff": [
+          5,
+          4
+        ],
+        "saves": [
+          0,
+          6
+        ],
+        "yellow": [
+          0,
+          1
+        ],
+        "shotsTotal": [
+          22,
+          5
+        ],
+        "shotsOutside": [
+          8,
+          1
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          91,
+          82
+        ],
+        "shotsBlocked": [
+          7,
+          1
+        ],
+        "passesTotal": [
+          613,
+          334
+        ],
+        "fouls": [
+          8,
+          14
+        ],
+        "home": "ESP",
+        "away": "AUT"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Alex Baena",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Ralf Rangnick",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Alexander Schlager",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "Stefan Posch",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Kevin Danso",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "David Alaba",
+                "pos": "D"
+              },
+              {
+                "n": 20,
+                "name": "Konrad Laimer",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Nicolas Seiwald",
+                "pos": "M"
+              },
+              {
+                "n": 4,
+                "name": "Xaver Schlager",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Romano Schmid",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Paul Wanner",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Marcel Sabitzer",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Gregoritsch",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Glenn Nyberg, Sweden",
+        "motm": {
+          "player": "Mikel Oyarzabal",
+          "rating": 9.3,
+          "team": "ESP"
+        }
+      }
     }
   ],
   "stats": {
@@ -25509,6 +25505,12 @@
       {
         "player": "I. Sarr",
         "team": "SEN",
+        "goals": 4,
+        "assists": 1
+      },
+      {
+        "player": "M. Oyarzabal",
+        "team": "ESP",
         "goals": 4,
         "assists": 1
       },
@@ -25644,11 +25646,6 @@
         "player": "D. Kamada",
         "team": "JPN",
         "goals": 2
-      },
-      {
-        "player": "D. Munoz",
-        "team": "COL",
-        "goals": 2
       }
     ],
     "assists": [
@@ -25760,6 +25757,11 @@
         "goals": 6
       },
       {
+        "player": "M. Cucurella",
+        "team": "ESP",
+        "assists": 2
+      },
+      {
         "player": "M. Salah",
         "team": "EGY",
         "assists": 2,
@@ -25799,20 +25801,16 @@
         "assists": 1
       },
       {
-        "player": "A. Hakimi",
-        "team": "MAR",
+        "player": "A. Baena",
+        "team": "ESP",
         "assists": 1,
         "goals": 1
       },
       {
-        "player": "A. Laporte",
-        "team": "ESP",
-        "assists": 1
-      },
-      {
-        "player": "A. Masuaku",
-        "team": "COD",
-        "assists": 1
+        "player": "A. Hakimi",
+        "team": "MAR",
+        "assists": 1,
+        "goals": 1
       }
     ],
     "cards": [
@@ -25967,6 +25965,12 @@
         "yellow": 2
       },
       {
+        "player": "S. Posch",
+        "team": "AUT",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Teboho Mokoena",
         "team": "RSA",
         "red": 0,
@@ -25987,12 +25991,6 @@
       {
         "player": "A. Andrade",
         "team": "PAN",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Baena",
-        "team": "ESP",
         "red": 0,
         "yellow": 1
       }
@@ -26026,6 +26024,20 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "WWWW"
+    },
+    {
+      "code": "ESP",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "loses": 0,
+      "gf": 8,
+      "ga": 0,
+      "cleanSheets": 4,
+      "failedToScore": 1,
+      "biggestWin": "4-0",
+      "biggestLose": "",
+      "form": "DWWW"
     },
     {
       "code": "BRA",
@@ -26168,20 +26180,6 @@
       "form": "WWLD"
     },
     {
-      "code": "ESP",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 5,
-      "ga": 0,
-      "cleanSheets": 3,
-      "failedToScore": 1,
-      "biggestWin": "4-0",
-      "biggestLose": "",
-      "form": "DWW"
-    },
-    {
       "code": "SUI",
       "played": 3,
       "wins": 2,
@@ -26308,20 +26306,6 @@
       "form": "WLD"
     },
     {
-      "code": "AUT",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "loses": 1,
-      "gf": 6,
-      "ga": 6,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "3-1",
-      "biggestLose": "0-2",
-      "form": "WLD"
-    },
-    {
       "code": "COD",
       "played": 4,
       "wins": 1,
@@ -26417,6 +26401,20 @@
       "failedToScore": 1,
       "biggestWin": "5-1",
       "biggestLose": "1-5",
+      "form": "WLDL"
+    },
+    {
+      "code": "AUT",
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "loses": 2,
+      "gf": 6,
+      "ga": 9,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "3-1",
+      "biggestLose": "0-3",
       "form": "WLDL"
     },
     {
