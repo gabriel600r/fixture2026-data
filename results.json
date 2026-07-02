@@ -1,12 +1,80 @@
 {
-  "updated": "2026-07-02T00:02:07Z",
+  "updated": "2026-07-02T00:02:54Z",
   "live": [
     {
       "id": 81,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
       "away": 0,
+      "stats": {
+        "shotsOff": [
+          0,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsTotal": [
+          0,
+          0
+        ],
+        "offsides": [
+          0,
+          0
+        ],
+        "saves": [
+          0,
+          0
+        ],
+        "corners": [
+          0,
+          1
+        ],
+        "passesPct": [
+          0,
+          86
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          0
+        ],
+        "possession": [
+          0,
+          100
+        ],
+        "passesTotal": [
+          0,
+          7
+        ],
+        "passesAccurate": [
+          0,
+          6
+        ],
+        "shotsBlocked": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "fouls": [
+          0,
+          0
+        ],
+        "home": "USA",
+        "away": "BIH"
+      },
       "extras": {
         "pred": {
           "home": 50,
