@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-02T20:38:55Z",
+  "updated": "2026-07-02T20:39:42Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 75,
+      "minute": 78,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "M. Oyarzabal",
+          "player": "Mikel Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "M. Cucurella"
+          "assist": "Marc Cucurella"
         },
         {
-          "player": "P. Porro",
+          "player": "Pedro Porro",
           "minute": 66,
           "team": "ESP",
-          "assist": "A. Baena"
+          "assist": "Alejandro Baena Rodríguez"
         }
       ],
       "subs": [
         {
-          "out": "N. Seiwald",
-          "in": "C. Chukwuemeka",
-          "minute": 46,
+          "out": "Xaver Schlager",
+          "in": "Florian Grillitsch",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "X. Schlager",
-          "in": "F. Grillitsch",
-          "minute": 46,
+          "out": "Nicolas Seiwald",
+          "in": "Carney Chukwuemeka",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "M. Gregoritsch",
-          "in": "M. Arnautovic",
+          "out": "Romano Schmid",
+          "in": "Sasa Kalajdzic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "R. Schmid",
-          "in": "S. Kalajdzic",
+          "out": "Michael Gregoritsch",
+          "in": "Marko Arnautović",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "A. Baena",
-          "in": "F. Torres",
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Ferrán Torres",
           "minute": 71,
           "team": "ESP"
         },
         {
-          "out": "D. Olmo",
-          "in": "M. Merino",
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
           "minute": 71,
           "team": "ESP"
         }
