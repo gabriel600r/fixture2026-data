@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:12:00Z",
+  "updated": "2026-07-02T20:12:47Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 1,
       "away": 0,
       "goals": [
@@ -43,16 +43,16 @@
           0
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "shotsOn": [
           6,
           0
         ],
         "passesAccurate": [
-          290,
-          147
+          310,
+          149
         ],
         "shotsOff": [
           3,
@@ -87,12 +87,12 @@
           1
         ],
         "passesTotal": [
-          320,
-          185
+          341,
+          188
         ],
         "fouls": [
-          4,
-          6
+          5,
+          7
         ],
         "home": "ESP",
         "away": "AUT"
@@ -230,7 +230,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 8.07,
+          "rating": 7.6,
           "team": "ESP"
         }
       }
