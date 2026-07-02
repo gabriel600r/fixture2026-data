@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:17:07Z",
+  "updated": "2026-07-02T01:17:54Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 1,
       "away": 0,
       "goals": [
@@ -19,6 +19,18 @@
           "out": "A. Gigovic",
           "in": "E. Bajraktarevic",
           "minute": 51,
+          "team": "BIH"
+        },
+        {
+          "out": "I. Sunjic",
+          "in": "B. Tahirovic",
+          "minute": 51,
+          "team": "BIH"
+        },
+        {
+          "out": "E. Dzeko",
+          "in": "E. Mahmic",
+          "minute": 52,
           "team": "BIH"
         }
       ],
