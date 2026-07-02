@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T01:40:49Z",
+  "updated": "2026-07-02T01:41:37Z",
   "live": [
     {
       "id": 81,
@@ -42,6 +42,12 @@
           "out": "E. Dzeko",
           "in": "E. Mahmic",
           "minute": 51,
+          "team": "BIH"
+        },
+        {
+          "out": "S. Kolasinac",
+          "in": "H. Tabakovic",
+          "minute": 76,
           "team": "BIH"
         }
       ],
