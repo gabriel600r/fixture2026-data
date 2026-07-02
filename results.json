@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T00:21:09Z",
+  "updated": "2026-07-02T00:21:56Z",
   "live": [
     {
       "id": 81,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 0,
       "stats": {
@@ -33,8 +33,8 @@
           2
         ],
         "passesPct": [
-          90,
-          58
+          91,
+          57
         ],
         "shotsOn": [
           0,
@@ -45,15 +45,15 @@
           0
         ],
         "possession": [
-          77,
-          23
+          79,
+          21
         ],
         "passesTotal": [
-          125,
-          36
+          141,
+          37
         ],
         "passesAccurate": [
-          113,
+          129,
           21
         ],
         "shotsBlocked": [
@@ -70,7 +70,7 @@
         ],
         "fouls": [
           0,
-          3
+          4
         ],
         "home": "USA",
         "away": "BIH"
