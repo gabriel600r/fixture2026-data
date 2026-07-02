@@ -1,70 +1,62 @@
 {
-  "updated": "2026-07-02T20:27:01Z",
+  "updated": "2026-07-02T20:27:49Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 63,
+      "minute": 66,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "M. Oyarzabal",
+          "player": "Mikel Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "M. Cucurella"
+          "assist": "Marc Cucurella"
         }
       ],
       "subs": [
         {
-          "out": "N. Seiwald",
-          "in": "C. Chukwuemeka",
-          "minute": 46,
+          "out": "Xaver Schlager",
+          "in": "Florian Grillitsch",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "X. Schlager",
-          "in": "F. Grillitsch",
-          "minute": 46,
+          "out": "Nicolas Seiwald",
+          "in": "Carney Chukwuemeka",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "M. Gregoritsch",
-          "in": "M. Arnautovic",
+          "out": "Romano Schmid",
+          "in": "Sasa Kalajdzic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "R. Schmid",
-          "in": "S. Kalajdzic",
+          "out": "Michael Gregoritsch",
+          "in": "Marko Arnautović",
           "minute": 60,
           "team": "AUT"
         }
       ],
       "stats": {
         "offsides": [
-          1,
+          2,
           3
-        ],
-        "shotsInside": [
-          9,
-          2
         ],
         "corners": [
           8,
           0
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOn": [
           7,
           0
-        ],
-        "passesAccurate": [
-          402,
-          174
         ],
         "shotsOff": [
           4,
@@ -79,32 +71,20 @@
           0
         ],
         "shotsTotal": [
-          16,
+          17,
           3
-        ],
-        "shotsOutside": [
-          7,
-          1
         ],
         "red": [
           0,
           0
         ],
-        "passesPct": [
-          91,
-          79
-        ],
         "shotsBlocked": [
-          5,
+          6,
           1
-        ],
-        "passesTotal": [
-          440,
-          221
         ],
         "fouls": [
           5,
-          8
+          9
         ],
         "home": "ESP",
         "away": "AUT"
