@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:35:24Z",
+  "updated": "2026-07-02T23:36:11Z",
   "live": [
     {
       "id": 83,
@@ -20,32 +20,24 @@
           0,
           1
         ],
-        "shotsInside": [
-          5,
-          2
-        ],
         "corners": [
-          3,
+          4,
           0
         ],
         "possession": [
-          64,
-          36
+          67,
+          33
         ],
         "shotsOn": [
           1,
-          1
-        ],
-        "passesAccurate": [
-          161,
-          82
+          0
         ],
         "shotsOff": [
           4,
           2
         ],
         "saves": [
-          1,
+          0,
           1
         ],
         "yellow": [
@@ -53,32 +45,20 @@
           0
         ],
         "shotsTotal": [
-          8,
+          9,
           3
-        ],
-        "shotsOutside": [
-          3,
-          1
         ],
         "red": [
           0,
           0
         ],
-        "passesPct": [
-          93,
-          84
-        ],
         "shotsBlocked": [
-          3,
+          4,
           1
-        ],
-        "passesTotal": [
-          173,
-          98
         ],
         "fouls": [
           3,
-          2
+          3
         ],
         "home": "POR",
         "away": "CRO"
