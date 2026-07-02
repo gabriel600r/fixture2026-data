@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:36:33Z",
+  "updated": "2026-07-02T20:37:20Z",
   "live": [
     {
       "id": 84,
@@ -73,16 +73,16 @@
           0
         ],
         "possession": [
-          68,
-          32
+          67,
+          33
         ],
         "shotsOn": [
           8,
           0
         ],
         "passesAccurate": [
-          450,
-          188
+          459,
+          199
         ],
         "shotsOff": [
           4,
@@ -110,19 +110,19 @@
         ],
         "passesPct": [
           91,
-          78
+          79
         ],
         "shotsBlocked": [
           7,
           1
         ],
         "passesTotal": [
-          492,
-          240
+          507,
+          252
         ],
         "fouls": [
-          5,
-          11
+          6,
+          12
         ],
         "home": "ESP",
         "away": "AUT"
