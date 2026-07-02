@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T23:36:58Z",
+  "updated": "2026-07-02T23:37:46Z",
   "live": [
     {
       "id": 83,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -25,8 +25,8 @@
           0
         ],
         "possession": [
-          67,
-          33
+          69,
+          31
         ],
         "shotsOn": [
           1,
@@ -58,7 +58,7 @@
         ],
         "fouls": [
           3,
-          3
+          4
         ],
         "home": "POR",
         "away": "CRO"
