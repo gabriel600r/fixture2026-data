@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T19:15:42Z",
+  "updated": "2026-07-02T19:16:30Z",
   "live": [
     {
       "id": 84,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,8 +17,8 @@
           0
         ],
         "possession": [
-          57,
-          43
+          60,
+          40
         ],
         "shotsOn": [
           1,
@@ -50,7 +50,7 @@
         ],
         "fouls": [
           2,
-          2
+          3
         ],
         "home": "ESP",
         "away": "AUT"
