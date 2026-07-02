@@ -1,13 +1,17 @@
 {
-  "updated": "2026-07-02T19:06:44Z",
+  "updated": "2026-07-02T19:07:31Z",
   "live": [
     {
       "id": 84,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
+        "offsides": [
+          0,
+          1
+        ],
         "corners": [
           1,
           0
