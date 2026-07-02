@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-02T23:34:37Z",
+  "updated": "2026-07-02T23:35:24Z",
   "live": [
     {
       "id": 83,
       "status": "1H",
-      "minute": 32,
+      "minute": 36,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "R. Dias",
+          "player": "Rúben Dias",
           "minute": 17,
           "team": "POR",
           "color": "yellow"
