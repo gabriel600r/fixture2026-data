@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:02:11Z",
+  "updated": "2026-07-02T02:02:58Z",
   "live": [
     {
       "id": 81,
@@ -92,7 +92,7 @@
           "team": "USA"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsOff": [
           3,
@@ -294,7 +294,7 @@
         "referee": "Raphael Claus, Brazil",
         "motm": {
           "player": "Malik Tillman",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "USA"
         }
       }
