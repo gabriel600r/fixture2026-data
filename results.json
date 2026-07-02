@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:51:51Z",
+  "updated": "2026-07-02T01:52:41Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 2,
       "away": 0,
       "goals": [
@@ -30,14 +30,14 @@
           "color": "red"
         },
         {
-          "player": "S. Radeljic",
+          "player": "S. Barbarez",
           "minute": 80,
           "team": "BIH",
           "color": "yellow"
         },
         {
-          "player": null,
-          "minute": 85,
+          "player": "S. Radeljic",
+          "minute": 80,
           "team": "BIH",
           "color": "yellow"
         }
@@ -100,8 +100,8 @@
           3
         ],
         "passesPct": [
-          85,
-          81
+          84,
+          80
         ],
         "shotsOn": [
           2,
@@ -116,12 +116,12 @@
           49
         ],
         "passesTotal": [
-          362,
-          351
+          369,
+          369
         ],
         "passesAccurate": [
-          307,
-          283
+          311,
+          297
         ],
         "shotsBlocked": [
           2,
@@ -275,7 +275,7 @@
         "referee": "Raphael Claus, Brazil",
         "motm": {
           "player": "Malik Tillman",
-          "rating": 7.7,
+          "rating": 7.3,
           "team": "USA"
         }
       }
