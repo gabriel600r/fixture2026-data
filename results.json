@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T01:53:28Z",
+  "updated": "2026-07-02T01:54:15Z",
   "live": [
     {
       "id": 81,
@@ -72,6 +72,18 @@
           "in": "A. Memic",
           "minute": 75,
           "team": "BIH"
+        },
+        {
+          "out": "S. Dest",
+          "in": "S. Berhalter",
+          "minute": 88,
+          "team": "USA"
+        },
+        {
+          "out": "C. Pulisic",
+          "in": "R. Pepi",
+          "minute": 88,
+          "team": "USA"
         }
       ],
       "stats": {
