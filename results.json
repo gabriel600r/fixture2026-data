@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T19:28:29Z",
+  "updated": "2026-07-02T19:29:17Z",
   "live": [
     {
       "id": 84,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 0,
       "stats": {
@@ -13,12 +13,12 @@
           1
         ],
         "corners": [
-          3,
+          4,
           0
         ],
         "possession": [
-          56,
-          44
+          58,
+          42
         ],
         "shotsOn": [
           1,
