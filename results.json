@@ -1,16 +1,21 @@
 {
-  "updated": "2026-07-02T01:47:55Z",
+  "updated": "2026-07-02T01:48:42Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 82,
-      "home": 1,
+      "minute": 83,
+      "home": 2,
       "away": 0,
       "goals": [
         {
           "player": "F. Balogun",
           "minute": 45,
+          "team": "USA"
+        },
+        {
+          "player": "M. Tillman",
+          "minute": 82,
           "team": "USA"
         }
       ],
@@ -77,7 +82,7 @@
           6
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "saves": [
@@ -101,16 +106,16 @@
           3
         ],
         "possession": [
-          53,
-          47
+          52,
+          48
         ],
         "passesTotal": [
           362,
-          336
+          342
         ],
         "passesAccurate": [
           307,
-          269
+          274
         ],
         "shotsBlocked": [
           2,
@@ -122,11 +127,11 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "fouls": [
           5,
-          9
+          10
         ],
         "home": "USA",
         "away": "BIH"
