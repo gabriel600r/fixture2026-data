@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T00:55:02Z",
+  "updated": "2026-07-02T00:55:49Z",
   "live": [
     {
       "id": 81,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 0,
       "goals": [
@@ -14,7 +14,6 @@
           "team": "USA"
         }
       ],
-      "extra": 10,
       "stats": {
         "shotsOff": [
           3,
