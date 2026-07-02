@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:34:58Z",
+  "updated": "2026-07-02T20:35:45Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 2,
       "away": 0,
       "goals": [
@@ -135,7 +135,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-1-2-3",
+            "formation": "4-2-3-1",
             "coach": "Luis de la Fuente",
             "xi": [
               {
@@ -150,7 +150,7 @@
               },
               {
                 "n": 22,
-                "name": "Pau Cubarsí Paredes",
+                "name": "Pau Cubarsí",
                 "pos": "D"
               },
               {
@@ -169,11 +169,6 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
                 "n": 20,
                 "name": "Pedri",
                 "pos": "M"
@@ -181,77 +176,82 @@
               {
                 "n": 19,
                 "name": "Lamine Yamal",
-                "pos": "F"
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Alex Baena",
+                "pos": "M"
               },
               {
                 "n": 21,
                 "name": "Mikel Oyarzabal",
                 "pos": "F"
-              },
-              {
-                "n": 15,
-                "name": "Álex Baena",
-                "pos": "M"
               }
             ]
           },
           "away": {
             "formation": "4-2-3-1",
-            "coach": "R. Rangnick",
+            "coach": "Ralf Rangnick",
             "xi": [
               {
                 "n": 1,
-                "name": "A. Schlager",
+                "name": "Alexander Schlager",
                 "pos": "G"
               },
               {
                 "n": 5,
-                "name": "S. Posch",
+                "name": "Stefan Posch",
                 "pos": "D"
               },
               {
                 "n": 3,
-                "name": "K. Danso",
+                "name": "Kevin Danso",
                 "pos": "D"
               },
               {
                 "n": 8,
-                "name": "D. Alaba",
+                "name": "David Alaba",
                 "pos": "D"
               },
               {
                 "n": 20,
-                "name": "K. Laimer",
-                "pos": "M"
+                "name": "Konrad Laimer",
+                "pos": "D"
               },
               {
                 "n": 6,
-                "name": "N. Seiwald",
+                "name": "Nicolas Seiwald",
                 "pos": "M"
               },
               {
                 "n": 4,
-                "name": "X. Schlager",
+                "name": "Xaver Schlager",
                 "pos": "M"
               },
               {
                 "n": 18,
-                "name": "R. Schmid",
+                "name": "Romano Schmid",
                 "pos": "M"
               },
               {
                 "n": 24,
-                "name": "P. Wanner",
+                "name": "Paul Wanner",
                 "pos": "M"
               },
               {
                 "n": 9,
-                "name": "M. Sabitzer",
+                "name": "Marcel Sabitzer",
                 "pos": "M"
               },
               {
                 "n": 11,
-                "name": "M. Gregoritsch",
+                "name": "Michael Gregoritsch",
                 "pos": "F"
               }
             ]
