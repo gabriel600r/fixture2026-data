@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-02T20:49:58Z",
+  "updated": "2026-07-02T20:50:46Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 87,
+      "minute": 89,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "M. Oyarzabal",
+          "player": "Mikel Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "M. Cucurella"
+          "assist": "Marc Cucurella"
         },
         {
-          "player": "P. Porro",
+          "player": "Pedro Porro",
           "minute": 66,
           "team": "ESP",
-          "assist": "A. Baena"
+          "assist": "Alejandro Baena Rodríguez"
         }
       ],
       "cardEvents": [
         {
-          "player": "S. Posch",
+          "player": "Stefan Posch",
           "minute": 83,
           "team": "AUT",
           "color": "yellow"
@@ -31,78 +31,70 @@
       ],
       "subs": [
         {
-          "out": "N. Seiwald",
-          "in": "C. Chukwuemeka",
-          "minute": 46,
+          "out": "Xaver Schlager",
+          "in": "Florian Grillitsch",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "X. Schlager",
-          "in": "F. Grillitsch",
-          "minute": 46,
+          "out": "Nicolas Seiwald",
+          "in": "Carney Chukwuemeka",
+          "minute": 45,
           "team": "AUT"
         },
         {
-          "out": "M. Gregoritsch",
-          "in": "M. Arnautovic",
+          "out": "Romano Schmid",
+          "in": "Sasa Kalajdzic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "R. Schmid",
-          "in": "S. Kalajdzic",
+          "out": "Michael Gregoritsch",
+          "in": "Marko Arnautović",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "A. Baena",
-          "in": "F. Torres",
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Ferrán Torres",
           "minute": 71,
           "team": "ESP"
         },
         {
-          "out": "D. Olmo",
-          "in": "M. Merino",
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
           "minute": 71,
           "team": "ESP"
         },
         {
           "out": "Lamine Yamal",
-          "in": "Gavi",
+          "in": "Pablo Martín Páez Gavira",
           "minute": 85,
           "team": "ESP"
         },
         {
-          "out": "S. Posch",
-          "in": "A. Prass",
-          "minute": 86,
+          "out": "Stefan Posch",
+          "in": "Alexander Prass",
+          "minute": 85,
           "team": "AUT"
         }
       ],
       "stats": {
         "offsides": [
           2,
-          3
-        ],
-        "shotsInside": [
-          12,
-          4
+          5
         ],
         "corners": [
           9,
           0
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOn": [
-          8,
+          9,
           0
-        ],
-        "passesAccurate": [
-          518,
-          234
         ],
         "shotsOff": [
           5,
@@ -117,31 +109,19 @@
           1
         ],
         "shotsTotal": [
-          20,
+          21,
           5
-        ],
-        "shotsOutside": [
-          8,
-          1
         ],
         "red": [
           0,
           0
         ],
-        "passesPct": [
-          91,
-          80
-        ],
         "shotsBlocked": [
           7,
           1
         ],
-        "passesTotal": [
-          571,
-          292
-        ],
         "fouls": [
-          7,
+          8,
           13
         ],
         "home": "ESP",
@@ -280,7 +260,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 8.0,
+          "rating": 8.82,
           "team": "ESP"
         }
       }
