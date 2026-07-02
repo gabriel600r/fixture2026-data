@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:51:33Z",
+  "updated": "2026-07-02T20:52:20Z",
   "live": [
     {
       "id": 84,
@@ -23,7 +23,8 @@
         {
           "player": "Mikel Oyarzabal",
           "minute": 89,
-          "team": "ESP"
+          "team": "ESP",
+          "assist": "Marc Cucurella"
         }
       ],
       "cardEvents": [
@@ -84,10 +85,15 @@
           "team": "AUT"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           2,
           5
+        ],
+        "shotsInside": [
+          14,
+          4
         ],
         "corners": [
           9,
@@ -100,6 +106,10 @@
         "shotsOn": [
           10,
           0
+        ],
+        "passesAccurate": [
+          543,
+          247
         ],
         "shotsOff": [
           5,
@@ -117,13 +127,25 @@
           22,
           5
         ],
+        "shotsOutside": [
+          8,
+          1
+        ],
         "red": [
           0,
           0
         ],
+        "passesPct": [
+          91,
+          81
+        ],
         "shotsBlocked": [
           7,
           1
+        ],
+        "passesTotal": [
+          598,
+          305
         ],
         "fouls": [
           8,
@@ -264,8 +286,8 @@
         },
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
-          "player": "Pedro Porro",
-          "rating": 8.82,
+          "player": "Mikel Oyarzabal",
+          "rating": 8.9,
           "team": "ESP"
         }
       }
