@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:01:58Z",
+  "updated": "2026-07-02T19:02:45Z",
   "live": [
     {
       "id": 84,
@@ -8,36 +8,36 @@
       "home": 0,
       "away": 0,
       "stats": {
-        "corners": [
-          0,
-          0
-        ],
         "possession": [
-          46,
-          54
+          35,
+          65
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "shotsOff": [
           0,
           0
         ],
+        "saves": [
+          0,
+          1
+        ],
         "yellow": [
           0,
           0
         ],
         "shotsTotal": [
-          0,
+          1,
           0
         ],
         "red": [
           0,
           0
         ],
-        "shotsBlocked": [
-          0,
+        "fouls": [
+          1,
           0
         ],
         "home": "ESP",
