@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T01:57:25Z",
+  "updated": "2026-07-02T01:58:13Z",
   "live": [
     {
       "id": 81,
@@ -86,7 +86,7 @@
           "team": "USA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           3,
@@ -129,12 +129,12 @@
           50
         ],
         "passesTotal": [
-          370,
-          375
+          374,
+          388
         ],
         "passesAccurate": [
-          312,
-          303
+          313,
+          315
         ],
         "shotsBlocked": [
           2,
@@ -150,7 +150,7 @@
         ],
         "fouls": [
           5,
-          10
+          11
         ],
         "home": "USA",
         "away": "BIH"
