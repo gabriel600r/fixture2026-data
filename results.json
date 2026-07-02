@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:29:24Z",
+  "updated": "2026-07-02T20:30:13Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 2,
       "away": 0,
       "goals": [
@@ -248,7 +248,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 8.18,
+          "rating": 7.6,
           "team": "ESP"
         }
       }
