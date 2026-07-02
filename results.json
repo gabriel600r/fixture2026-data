@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:47:08Z",
+  "updated": "2026-07-02T01:47:55Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 0,
       "goals": [
@@ -23,6 +23,12 @@
           "minute": 64,
           "team": "USA",
           "color": "red"
+        },
+        {
+          "player": "S. Radeljic",
+          "minute": 80,
+          "team": "BIH",
+          "color": "yellow"
         }
       ],
       "subs": [
