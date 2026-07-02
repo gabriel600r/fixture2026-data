@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:39:42Z",
+  "updated": "2026-07-02T20:40:29Z",
   "live": [
     {
       "id": 84,
@@ -9,52 +9,52 @@
       "away": 0,
       "goals": [
         {
-          "player": "Mikel Oyarzabal",
+          "player": "M. Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "Marc Cucurella"
+          "assist": "M. Cucurella"
         },
         {
-          "player": "Pedro Porro",
+          "player": "P. Porro",
           "minute": 66,
           "team": "ESP",
-          "assist": "Alejandro Baena Rodríguez"
+          "assist": "A. Baena"
         }
       ],
       "subs": [
         {
-          "out": "Xaver Schlager",
-          "in": "Florian Grillitsch",
-          "minute": 45,
+          "out": "N. Seiwald",
+          "in": "C. Chukwuemeka",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Nicolas Seiwald",
-          "in": "Carney Chukwuemeka",
-          "minute": 45,
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Romano Schmid",
-          "in": "Sasa Kalajdzic",
+          "out": "M. Gregoritsch",
+          "in": "M. Arnautovic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "Michael Gregoritsch",
-          "in": "Marko Arnautović",
+          "out": "R. Schmid",
+          "in": "S. Kalajdzic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Ferrán Torres",
+          "out": "A. Baena",
+          "in": "F. Torres",
           "minute": 71,
           "team": "ESP"
         },
         {
-          "out": "Daniel Olmo Carvajal",
-          "in": "Mikel Merino",
+          "out": "D. Olmo",
+          "in": "M. Merino",
           "minute": 71,
           "team": "ESP"
         }
@@ -81,8 +81,8 @@
           0
         ],
         "passesAccurate": [
-          459,
-          199
+          468,
+          200
         ],
         "shotsOff": [
           4,
@@ -117,8 +117,8 @@
           1
         ],
         "passesTotal": [
-          507,
-          252
+          516,
+          254
         ],
         "fouls": [
           6,
