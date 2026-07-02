@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:31:48Z",
+  "updated": "2026-07-02T20:32:36Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 0,
       "goals": [
@@ -98,7 +98,7 @@
         ],
         "passesPct": [
           91,
-          79
+          78
         ],
         "shotsBlocked": [
           7,
@@ -106,11 +106,11 @@
         ],
         "passesTotal": [
           475,
-          238
+          240
         ],
         "fouls": [
           5,
-          9
+          10
         ],
         "home": "ESP",
         "away": "AUT"
@@ -247,8 +247,8 @@
         },
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
-          "player": "Mikel Oyarzabal",
-          "rating": 7.6,
+          "player": "Pedro Porro",
+          "rating": 7.9,
           "team": "ESP"
         }
       }
