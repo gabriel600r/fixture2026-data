@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:34:28Z",
+  "updated": "2026-07-02T01:35:16Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 0,
       "goals": [
@@ -245,8 +245,8 @@
         },
         "referee": "Raphael Claus, Brazil",
         "motm": {
-          "player": "Folarin Balogun",
-          "rating": 7.2,
+          "player": "Alexander Freeman",
+          "rating": 7.3,
           "team": "USA"
         }
       }
