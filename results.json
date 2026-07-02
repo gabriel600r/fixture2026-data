@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:47:37Z",
+  "updated": "2026-07-02T20:48:24Z",
   "live": [
     {
       "id": 84,
@@ -69,8 +69,14 @@
         {
           "out": "Lamine Yamal",
           "in": "Gavi",
-          "minute": 86,
+          "minute": 85,
           "team": "ESP"
+        },
+        {
+          "out": "S. Posch",
+          "in": "A. Prass",
+          "minute": 86,
+          "team": "AUT"
         }
       ],
       "stats": {
@@ -87,15 +93,15 @@
           0
         ],
         "possession": [
-          65,
-          35
+          67,
+          33
         ],
         "shotsOn": [
           8,
           0
         ],
         "passesAccurate": [
-          492,
+          518,
           234
         ],
         "shotsOff": [
@@ -108,7 +114,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           20,
@@ -123,7 +129,7 @@
           0
         ],
         "passesPct": [
-          90,
+          91,
           80
         ],
         "shotsBlocked": [
@@ -131,7 +137,7 @@
           1
         ],
         "passesTotal": [
-          544,
+          571,
           292
         ],
         "fouls": [
