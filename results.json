@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:41:37Z",
+  "updated": "2026-07-02T01:42:24Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 0,
       "goals": [
@@ -47,7 +47,13 @@
         {
           "out": "S. Kolasinac",
           "in": "H. Tabakovic",
-          "minute": 76,
+          "minute": 75,
+          "team": "BIH"
+        },
+        {
+          "out": "N. Katic",
+          "in": "A. Memic",
+          "minute": 75,
           "team": "BIH"
         }
       ],
