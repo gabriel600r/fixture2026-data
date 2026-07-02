@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T00:20:21Z",
+  "updated": "2026-07-02T00:21:09Z",
   "live": [
     {
       "id": 81,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 0,
       "stats": {
@@ -144,7 +144,7 @@
             ]
           },
           "away": {
-            "formation": "3-4-1-2",
+            "formation": "5-3-2",
             "coach": "Sergej Barbarez",
             "xi": [
               {
@@ -153,13 +153,13 @@
                 "pos": "G"
               },
               {
-                "n": 18,
-                "name": "Nikola Katić",
+                "n": 7,
+                "name": "Amar Dedić",
                 "pos": "D"
               },
               {
-                "n": 21,
-                "name": "Stjepan Radeljić",
+                "n": 18,
+                "name": "Nikola Katić",
                 "pos": "D"
               },
               {
@@ -168,9 +168,14 @@
                 "pos": "D"
               },
               {
-                "n": 7,
-                "name": "Amar Dedić",
-                "pos": "M"
+                "n": 21,
+                "name": "Stjepan Radeljić",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Sead Kolašinac",
+                "pos": "D"
               },
               {
                 "n": 8,
@@ -183,14 +188,9 @@
                 "pos": "M"
               },
               {
-                "n": 5,
-                "name": "Sead Kolašinac",
-                "pos": "M"
-              },
-              {
                 "n": 19,
                 "name": "Kerim Alajbegović",
-                "pos": "F"
+                "pos": "M"
               },
               {
                 "n": 11,
