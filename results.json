@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:16:19Z",
+  "updated": "2026-07-02T01:17:07Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 1,
       "away": 0,
       "goals": [
@@ -14,9 +14,17 @@
           "team": "USA"
         }
       ],
+      "subs": [
+        {
+          "out": "A. Gigovic",
+          "in": "E. Bajraktarevic",
+          "minute": 51,
+          "team": "BIH"
+        }
+      ],
       "stats": {
         "shotsOff": [
-          3,
+          4,
           0
         ],
         "red": [
@@ -24,7 +32,7 @@
           0
         ],
         "shotsTotal": [
-          5,
+          6,
           1
         ],
         "offsides": [
@@ -36,7 +44,7 @@
           0
         ],
         "corners": [
-          3,
+          4,
           2
         ],
         "passesPct": [
@@ -52,15 +60,15 @@
           0
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "passesTotal": [
-          275,
-          172
+          282,
+          173
         ],
         "passesAccurate": [
-          242,
+          248,
           124
         ],
         "shotsBlocked": [
@@ -68,7 +76,7 @@
           0
         ],
         "shotsInside": [
-          4,
+          5,
           1
         ],
         "yellow": [
