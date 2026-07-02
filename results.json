@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:46:43Z",
+  "updated": "2026-07-02T19:47:30Z",
   "live": [
     {
       "id": 84,
@@ -15,19 +15,19 @@
           "assist": "Marc Cucurella"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "offsides": [
           1,
-          1
+          2
         ],
         "corners": [
           6,
           0
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "shotsOn": [
           4,
@@ -47,7 +47,7 @@
         ],
         "shotsTotal": [
           9,
-          1
+          2
         ],
         "red": [
           0,
@@ -55,11 +55,11 @@
         ],
         "shotsBlocked": [
           2,
-          0
+          1
         ],
         "fouls": [
           4,
-          4
+          5
         ],
         "home": "ESP",
         "away": "AUT"
