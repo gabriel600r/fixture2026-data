@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:00:44Z",
+  "updated": "2026-07-02T22:07:39Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -103,7 +103,131 @@
           "draw": 45,
           "away": 10
         },
-        "referee": "E. Eskas"
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Rafael Leão",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Zlatko Dalic",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Dominik Livaković",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Josip Stanišić",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Josip Šutalo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Marin Pongračić",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Perišić",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Luka Modrić",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Mateo Kovačić",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Nikola Vlašić",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Petar Sučić",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Martin Baturina",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ante Budimir",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Espen Eskas, Norway"
       }
     }
   ],
