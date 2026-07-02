@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:05:20Z",
+  "updated": "2026-07-02T02:06:07Z",
   "live": [
     {
       "id": 81,
@@ -92,11 +92,11 @@
           "team": "USA"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "shotsOff": [
           4,
-          2
+          3
         ],
         "red": [
           1,
@@ -104,7 +104,7 @@
         ],
         "shotsTotal": [
           8,
-          8
+          9
         ],
         "offsides": [
           2,
@@ -128,19 +128,19 @@
         ],
         "shotsOutside": [
           2,
-          3
+          4
         ],
         "possession": [
-          49,
-          51
+          48,
+          52
         ],
         "passesTotal": [
-          399,
-          424
+          408,
+          441
         ],
         "passesAccurate": [
-          337,
-          348
+          344,
+          362
         ],
         "shotsBlocked": [
           2,
