@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T01:58:13Z",
+  "updated": "2026-07-02T01:59:00Z",
   "live": [
     {
       "id": 81,
@@ -86,7 +86,7 @@
           "team": "USA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           3,
