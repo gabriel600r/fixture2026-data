@@ -1,42 +1,48 @@
 {
-  "updated": "2026-07-02T20:27:49Z",
+  "updated": "2026-07-02T20:28:36Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 66,
-      "home": 1,
+      "minute": 67,
+      "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "Mikel Oyarzabal",
+          "player": "M. Oyarzabal",
           "minute": 36,
           "team": "ESP",
-          "assist": "Marc Cucurella"
+          "assist": "M. Cucurella"
+        },
+        {
+          "player": "P. Porro",
+          "minute": 66,
+          "team": "ESP",
+          "assist": "A. Baena"
         }
       ],
       "subs": [
         {
-          "out": "Xaver Schlager",
-          "in": "Florian Grillitsch",
-          "minute": 45,
+          "out": "N. Seiwald",
+          "in": "C. Chukwuemeka",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Nicolas Seiwald",
-          "in": "Carney Chukwuemeka",
-          "minute": 45,
+          "out": "X. Schlager",
+          "in": "F. Grillitsch",
+          "minute": 46,
           "team": "AUT"
         },
         {
-          "out": "Romano Schmid",
-          "in": "Sasa Kalajdzic",
+          "out": "M. Gregoritsch",
+          "in": "M. Arnautovic",
           "minute": 60,
           "team": "AUT"
         },
         {
-          "out": "Michael Gregoritsch",
-          "in": "Marko Arnautović",
+          "out": "R. Schmid",
+          "in": "S. Kalajdzic",
           "minute": 60,
           "team": "AUT"
         }
@@ -222,7 +228,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 7.6,
+          "rating": 8.18,
           "team": "ESP"
         }
       }
