@@ -1,21 +1,29 @@
 {
-  "updated": "2026-07-02T23:21:59Z",
+  "updated": "2026-07-02T23:22:47Z",
   "live": [
     {
       "id": 83,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Rúben Dias",
+          "player": "R. Dias",
           "minute": 17,
           "team": "POR",
           "color": "yellow"
         }
       ],
       "stats": {
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          3,
+          2
+        ],
         "corners": [
           2,
           0
@@ -26,14 +34,18 @@
         ],
         "shotsOn": [
           1,
-          0
+          1
+        ],
+        "passesAccurate": [
+          74,
+          58
         ],
         "shotsOff": [
           2,
           2
         ],
         "saves": [
-          0,
+          1,
           1
         ],
         "yellow": [
@@ -44,13 +56,25 @@
           6,
           2
         ],
+        "shotsOutside": [
+          3,
+          0
+        ],
         "red": [
           0,
           0
         ],
+        "passesPct": [
+          89,
+          85
+        ],
         "shotsBlocked": [
           3,
           0
+        ],
+        "passesTotal": [
+          83,
+          68
         ],
         "fouls": [
           3,
