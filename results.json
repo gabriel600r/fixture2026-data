@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:42:24Z",
+  "updated": "2026-07-02T01:43:11Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 76,
+      "minute": 77,
       "home": 1,
       "away": 0,
       "goals": [
@@ -68,7 +68,7 @@
         ],
         "shotsTotal": [
           5,
-          4
+          5
         ],
         "offsides": [
           1,
@@ -80,7 +80,7 @@
         ],
         "corners": [
           4,
-          2
+          3
         ],
         "passesPct": [
           85,
@@ -92,23 +92,23 @@
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "possession": [
           54,
           46
         ],
         "passesTotal": [
-          348,
-          308
+          355,
+          317
         ],
         "passesAccurate": [
-          295,
-          242
+          300,
+          250
         ],
         "shotsBlocked": [
           1,
-          0
+          1
         ],
         "shotsInside": [
           4,
@@ -257,8 +257,8 @@
         },
         "referee": "Raphael Claus, Brazil",
         "motm": {
-          "player": "Folarin Balogun",
-          "rating": 6.3,
+          "player": "Tim Ream",
+          "rating": 7.3,
           "team": "USA"
         }
       }
