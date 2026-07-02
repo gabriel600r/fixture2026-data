@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:17:54Z",
+  "updated": "2026-07-02T01:18:41Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 1,
       "away": 0,
       "goals": [
@@ -30,13 +30,13 @@
         {
           "out": "E. Dzeko",
           "in": "E. Mahmic",
-          "minute": 52,
+          "minute": 51,
           "team": "BIH"
         }
       ],
       "stats": {
         "shotsOff": [
-          4,
+          3,
           0
         ],
         "red": [
@@ -44,7 +44,7 @@
           0
         ],
         "shotsTotal": [
-          6,
+          5,
           1
         ],
         "offsides": [
@@ -76,19 +76,19 @@
           37
         ],
         "passesTotal": [
-          282,
-          173
+          288,
+          179
         ],
         "passesAccurate": [
-          248,
-          124
+          252,
+          129
         ],
         "shotsBlocked": [
           1,
           0
         ],
         "shotsInside": [
-          5,
+          4,
           1
         ],
         "yellow": [
