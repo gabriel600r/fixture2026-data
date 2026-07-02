@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:11:34Z",
+  "updated": "2026-07-02T01:12:22Z",
   "live": [
     {
       "id": 81,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -212,7 +212,12 @@
             ]
           }
         },
-        "referee": "Raphael Claus, Brazil"
+        "referee": "Raphael Claus, Brazil",
+        "motm": {
+          "player": "Folarin Balogun",
+          "rating": 7.3,
+          "team": "USA"
+        }
       }
     }
   ],
