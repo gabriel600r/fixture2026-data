@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:06:27Z",
+  "updated": "2026-07-02T20:07:15Z",
   "live": [
     {
       "id": 84,
@@ -13,6 +13,20 @@
           "minute": 36,
           "team": "ESP",
           "assist": "Marc Cucurella"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Xaver Schlager",
+          "in": "Florian Grillitsch",
+          "minute": 45,
+          "team": "AUT"
+        },
+        {
+          "out": "Nicolas Seiwald",
+          "in": "Carney Chukwuemeka",
+          "minute": 45,
+          "team": "AUT"
         }
       ],
       "stats": {
