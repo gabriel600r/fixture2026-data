@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:53:55Z",
+  "updated": "2026-07-02T20:54:43Z",
   "live": [
     {
       "id": 84,
@@ -100,16 +100,16 @@
           0
         ],
         "possession": [
-          66,
-          34
+          65,
+          35
         ],
         "shotsOn": [
           10,
           0
         ],
         "passesAccurate": [
-          543,
-          247
+          550,
+          267
         ],
         "shotsOff": [
           5,
@@ -137,15 +137,15 @@
         ],
         "passesPct": [
           91,
-          81
+          82
         ],
         "shotsBlocked": [
           7,
           1
         ],
         "passesTotal": [
-          598,
-          305
+          606,
+          325
         ],
         "fouls": [
           8,
@@ -287,7 +287,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 8.9,
+          "rating": 9.3,
           "team": "ESP"
         }
       }
