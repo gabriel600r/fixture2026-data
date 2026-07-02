@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T01:36:51Z",
+  "updated": "2026-07-02T01:37:38Z",
   "live": [
     {
       "id": 81,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 0,
       "goals": [
@@ -87,12 +87,12 @@
           45
         ],
         "passesTotal": [
-          338,
-          288
+          345,
+          291
         ],
         "passesAccurate": [
-          287,
-          225
+          293,
+          226
         ],
         "shotsBlocked": [
           1,
@@ -108,7 +108,7 @@
         ],
         "fouls": [
           5,
-          7
+          8
         ],
         "home": "USA",
         "away": "BIH"
