@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-02T20:50:46Z",
+  "updated": "2026-07-02T20:51:33Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 89,
-      "home": 2,
+      "minute": 90,
+      "home": 3,
       "away": 0,
       "goals": [
         {
@@ -19,6 +19,11 @@
           "minute": 66,
           "team": "ESP",
           "assist": "Alejandro Baena Rodríguez"
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "minute": 89,
+          "team": "ESP"
         }
       ],
       "cardEvents": [
@@ -93,7 +98,7 @@
           34
         ],
         "shotsOn": [
-          9,
+          10,
           0
         ],
         "shotsOff": [
@@ -109,7 +114,7 @@
           1
         ],
         "shotsTotal": [
-          21,
+          22,
           5
         ],
         "red": [
