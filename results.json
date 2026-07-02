@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T20:46:02Z",
+  "updated": "2026-07-02T20:46:49Z",
   "live": [
     {
       "id": 84,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 2,
       "away": 0,
       "goals": [
@@ -74,27 +74,27 @@
         ],
         "shotsInside": [
           12,
-          3
+          4
         ],
         "corners": [
           9,
           0
         ],
         "possession": [
-          67,
-          33
+          65,
+          35
         ],
         "shotsOn": [
           8,
           0
         ],
         "passesAccurate": [
-          489,
-          220
+          492,
+          234
         ],
         "shotsOff": [
           5,
-          3
+          4
         ],
         "saves": [
           0,
@@ -106,7 +106,7 @@
         ],
         "shotsTotal": [
           20,
-          4
+          5
         ],
         "shotsOutside": [
           8,
@@ -117,20 +117,20 @@
           0
         ],
         "passesPct": [
-          91,
-          79
+          90,
+          80
         ],
         "shotsBlocked": [
           7,
           1
         ],
         "passesTotal": [
-          539,
-          277
+          544,
+          292
         ],
         "fouls": [
           7,
-          12
+          13
         ],
         "home": "ESP",
         "away": "AUT"
@@ -268,7 +268,7 @@
         "referee": "Glenn Nyberg, Sweden",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "ESP"
         }
       }
