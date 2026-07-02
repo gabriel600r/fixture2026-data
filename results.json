@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:54:43Z",
+  "updated": "2026-07-02T20:55:31Z",
   "live": [
     {
       "id": 84,
@@ -83,6 +83,12 @@
           "in": "A. Prass",
           "minute": 85,
           "team": "AUT"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 90,
+          "team": "ESP"
         }
       ],
       "extra": 1,
