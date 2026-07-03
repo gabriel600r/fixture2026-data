@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:26:25Z",
+  "updated": "2026-07-03T18:27:13Z",
   "live": [
     {
       "id": 88,
@@ -21,7 +21,7 @@
           2
         ],
         "shotsTotal": [
-          3,
+          4,
           3
         ],
         "shotsOn": [
@@ -33,19 +33,19 @@
           1
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "possession": [
-          32,
-          68
+          36,
+          64
         ],
         "red": [
           0,
           0
         ],
         "shotsInside": [
-          2,
+          3,
           3
         ],
         "offsides": [
@@ -65,19 +65,19 @@
           0
         ],
         "passesPct": [
-          78,
+          81,
           90
         ],
         "passesAccurate": [
-          59,
+          72,
           146
         ],
         "shotsOff": [
-          2,
+          3,
           0
         ],
         "passesTotal": [
-          76,
+          89,
           163
         ],
         "home": "AUS",
