@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:15:19Z",
+  "updated": "2026-07-03T04:16:06Z",
   "live": [
     {
       "id": 85,
@@ -50,8 +50,8 @@
           2
         ],
         "passesAccurate": [
-          195,
-          297
+          211,
+          319
         ],
         "shotsOff": [
           2,
@@ -78,7 +78,7 @@
           0
         ],
         "passesPct": [
-          82,
+          81,
           86
         ],
         "shotsBlocked": [
@@ -86,12 +86,12 @@
           2
         ],
         "passesTotal": [
-          237,
-          345
+          261,
+          373
         ],
         "fouls": [
           5,
-          5
+          6
         ],
         "home": "SUI",
         "away": "ALG"
@@ -229,7 +229,7 @@
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
           "player": "Dan Ndoye",
-          "rating": 7.7,
+          "rating": 7.9,
           "team": "SUI"
         }
       }
