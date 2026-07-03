@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:57:12Z",
+  "updated": "2026-07-03T17:00:07Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -98,7 +98,143 @@
       "away": "TBD"
     }
   },
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 88,
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "3-4-2-1",
+            "coach": "Tony Popovic",
+            "xi": [
+              {
+                "n": 18,
+                "name": "Patrick Beach",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Alessandro Circati",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Harry Souttar",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Lucas Herrington",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Jordan Bos",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Aiden O'Neill",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Jackson Irvine",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Aziz Behich",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Cristian Volpato",
+                "pos": "F"
+              },
+              {
+                "n": 8,
+                "name": "Connor Metcalfe",
+                "pos": "F"
+              },
+              {
+                "n": 17,
+                "name": "Nestory Irankunda",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Hossam Hassan",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mostafa Shobeir",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Mohamed Hany",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rami Rabia",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Yasser Ibrahim",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Karim Hafez",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Hamdy Fathy",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Omar Marmoush",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Gustavo Tejera, Uruguay"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
