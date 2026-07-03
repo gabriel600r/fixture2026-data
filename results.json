@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:22:00Z",
+  "updated": "2026-07-03T00:22:47Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 1,
       "goals": [
@@ -34,6 +34,18 @@
           "in": "I. Matanovic",
           "minute": 46,
           "team": "CRO"
+        },
+        {
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 62,
+          "team": "POR"
+        },
+        {
+          "out": "Vitinha",
+          "in": "B. Silva",
+          "minute": 62,
+          "team": "POR"
         }
       ],
       "stats": {
