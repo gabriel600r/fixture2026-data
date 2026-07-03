@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:49:37Z",
+  "updated": "2026-07-03T20:50:24Z",
   "live": [
     {
       "id": 88,
@@ -310,7 +310,7 @@
       },
       "pen": {
         "home": 2,
-        "away": 2
+        "away": 3
       },
       "penEvents": [
         {
@@ -342,6 +342,12 @@
           "team": "AUS",
           "scored": true,
           "order": 5
+        },
+        {
+          "player": "M. Salah",
+          "team": "EGY",
+          "scored": true,
+          "order": 6
         }
       ]
     }
