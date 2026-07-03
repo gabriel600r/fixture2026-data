@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:51:13Z",
+  "updated": "2026-07-03T00:52:01Z",
   "live": [
     {
       "id": 83,
@@ -76,9 +76,15 @@
           "in": "R. Neves",
           "minute": 81,
           "team": "POR"
+        },
+        {
+          "out": "N. Vlasic",
+          "in": "J. Gvardiol",
+          "minute": 90,
+          "team": "CRO"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "offsides": [
           1,
@@ -93,16 +99,16 @@
           4
         ],
         "possession": [
-          61,
-          39
+          62,
+          38
         ],
         "shotsOn": [
           2,
           6
         ],
         "passesAccurate": [
-          463,
-          273
+          496,
+          275
         ],
         "shotsOff": [
           6,
@@ -130,15 +136,15 @@
         ],
         "passesPct": [
           92,
-          87
+          86
         ],
         "shotsBlocked": [
           4,
           1
         ],
         "passesTotal": [
-          506,
-          315
+          541,
+          318
         ],
         "fouls": [
           6,
