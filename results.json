@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:20:53Z",
+  "updated": "2026-07-03T04:21:40Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 2,
       "away": 0,
       "goals": [
@@ -47,12 +47,8 @@
           0,
           1
         ],
-        "shotsInside": [
-          5,
-          4
-        ],
         "corners": [
-          2,
+          3,
           1
         ],
         "possession": [
@@ -63,12 +59,8 @@
           3,
           2
         ],
-        "passesAccurate": [
-          241,
-          321
-        ],
         "shotsOff": [
-          3,
+          2,
           2
         ],
         "saves": [
@@ -80,28 +72,16 @@
           1
         ],
         "shotsTotal": [
-          6,
+          5,
           6
-        ],
-        "shotsOutside": [
-          1,
-          2
         ],
         "red": [
           0,
           0
         ],
-        "passesPct": [
-          82,
-          84
-        ],
         "shotsBlocked": [
-          1,
+          0,
           2
-        ],
-        "passesTotal": [
-          294,
-          380
         ],
         "fouls": [
           5,
@@ -242,8 +222,8 @@
         },
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
-          "player": "Dan Ndoye",
-          "rating": 7.9,
+          "player": "D. Ndoye",
+          "rating": 7.94,
           "team": "SUI"
         }
       }
