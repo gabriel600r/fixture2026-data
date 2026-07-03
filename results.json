@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:49:17Z",
+  "updated": "2026-07-03T04:50:05Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 2,
       "away": 0,
       "goals": [
@@ -296,8 +296,8 @@
         },
         "referee": "Yael Falcon Perez, Argentina",
         "motm": {
-          "player": "D. Ndoye",
-          "rating": 8.14,
+          "player": "Dan Ndoye",
+          "rating": 8.0,
           "team": "SUI"
         }
       }
