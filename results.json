@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:35:55Z",
+  "updated": "2026-07-03T19:36:42Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 1,
       "away": 1,
       "goals": [
@@ -39,6 +39,18 @@
           "in": "H. Abdelmaguid",
           "minute": 67,
           "team": "EGY"
+        },
+        {
+          "out": "C. Volpato",
+          "in": "A. Hrustic",
+          "minute": 74,
+          "team": "AUS"
+        },
+        {
+          "out": "N. Irankunda",
+          "in": "M. Toure",
+          "minute": 74,
+          "team": "AUS"
         }
       ],
       "stats": {
