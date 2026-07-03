@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:48:50Z",
+  "updated": "2026-07-03T20:49:37Z",
   "live": [
     {
       "id": 88,
@@ -336,6 +336,12 @@
           "team": "EGY",
           "scored": true,
           "order": 4
+        },
+        {
+          "player": "A. Mabil",
+          "team": "AUS",
+          "scored": true,
+          "order": 5
         }
       ]
     }
