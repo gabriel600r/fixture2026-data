@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-03T20:15:38Z",
+  "updated": "2026-07-03T20:16:25Z",
   "live": [
     {
       "id": 88,
       "status": "ET",
-      "minute": 102,
+      "minute": 103,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "E. Ashour",
+          "player": "Emam Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "K. Hafez"
+          "assist": "Karim Hafez"
         },
         {
-          "player": "M. Hany",
+          "player": "Mohamed Hany",
           "minute": 55,
           "team": "AUS",
           "og": true
@@ -23,51 +23,51 @@
       ],
       "subs": [
         {
-          "out": "J. Bos",
-          "in": "K. Trewin",
-          "minute": 46,
+          "out": "Jordan Bos",
+          "in": "Kai Trewin",
+          "minute": 45,
           "team": "AUS"
         },
         {
-          "out": "M. Ziko",
-          "in": "H. Hassan",
+          "out": "Mostafa Zico",
+          "in": "Haissem Hassan",
           "minute": 67,
           "team": "EGY"
         },
         {
-          "out": "H. Fathy",
-          "in": "H. Abdelmaguid",
+          "out": "Hamdy Fathy",
+          "in": "Hossam Abdelmaguid",
           "minute": 67,
           "team": "EGY"
         },
         {
-          "out": "C. Volpato",
-          "in": "A. Hrustic",
+          "out": "Cristian Volpato",
+          "in": "Ajdin Hrustic",
           "minute": 74,
           "team": "AUS"
         },
         {
-          "out": "N. Irankunda",
-          "in": "M. Toure",
+          "out": "Nestory Irankunda",
+          "in": "Mohamed Toure",
           "minute": 74,
           "team": "AUS"
         },
         {
-          "out": "K. Hafez",
-          "in": "Trezeguet",
+          "out": "Karim Hafez",
+          "in": "Mahmoud Trezeguet",
           "minute": 80,
           "team": "EGY"
         },
         {
-          "out": "A. O'Neill",
-          "in": "P. Okon-Engstler",
-          "minute": 91,
+          "out": "Aiden O'Neill",
+          "in": "Paul Okon-Engstler",
+          "minute": 90,
           "team": "AUS"
         },
         {
-          "out": "C. Metcalfe",
-          "in": "A. Mabil",
-          "minute": 91,
+          "out": "Connor Metcalfe",
+          "in": "Awer Mabil",
+          "minute": 90,
           "team": "AUS"
         }
       ],
