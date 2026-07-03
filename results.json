@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:19:38Z",
+  "updated": "2026-07-03T00:20:25Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 0,
       "away": 1,
       "goals": [
@@ -19,6 +19,12 @@
           "player": "R. Dias",
           "minute": 17,
           "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Modric",
+          "minute": 60,
+          "team": "CRO",
           "color": "yellow"
         }
       ],
