@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T23:44:15Z",
+  "updated": "2026-07-03T23:45:07Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 1,
       "goals": [
@@ -65,11 +65,17 @@
           "in": "H. Varela",
           "minute": 80,
           "team": "CPV"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Paredes",
+          "minute": 84,
+          "team": "ARG"
         }
       ],
       "stats": {
         "passesAccurate": [
-          553,
+          558,
           258
         ],
         "shotsInside": [
@@ -93,7 +99,7 @@
           4
         ],
         "corners": [
-          2,
+          3,
           2
         ],
         "shotsOutside": [
@@ -109,7 +115,7 @@
           34
         ],
         "passesTotal": [
-          598,
+          605,
           302
         ],
         "shotsTotal": [
@@ -268,7 +274,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.3,
+          "rating": 8.2,
           "team": "ARG"
         }
       }
