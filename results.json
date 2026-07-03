@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:49:15Z",
+  "updated": "2026-07-03T18:50:04Z",
   "live": [
     {
       "id": 88,
@@ -9,13 +9,13 @@
       "away": 1,
       "goals": [
         {
-          "player": "Emam Ashour",
+          "player": "E. Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "Karim Hafez"
+          "assist": "K. Hafez"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsBlocked": [
           1,
@@ -37,29 +37,49 @@
           3,
           0
         ],
-        "red": [
-          0,
-          0
-        ],
         "possession": [
           40,
           60
         ],
-        "saves": [
+        "red": [
           0,
-          1
+          0
+        ],
+        "shotsInside": [
+          3,
+          3
         ],
         "offsides": [
           0,
           2
         ],
+        "shotsOutside": [
+          2,
+          0
+        ],
+        "saves": [
+          0,
+          1
+        ],
         "yellow": [
           0,
           0
         ],
+        "passesPct": [
+          79,
+          86
+        ],
+        "passesAccurate": [
+          133,
+          229
+        ],
         "shotsOff": [
           3,
           0
+        ],
+        "passesTotal": [
+          169,
+          265
         ],
         "home": "AUS",
         "away": "EGY"
