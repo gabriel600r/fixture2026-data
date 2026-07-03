@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-03T01:05:28Z",
+  "updated": "2026-07-03T01:06:15Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
       "minute": 46,
       "home": 2,
-      "away": 2,
+      "away": 1,
       "goals": [
         {
           "player": "I. Perisic",
@@ -24,11 +24,6 @@
           "minute": 90,
           "team": "POR",
           "assist": "R. Leao"
-        },
-        {
-          "player": "J. Gvardiol",
-          "minute": 90,
-          "team": "CRO"
         }
       ],
       "cardEvents": [
