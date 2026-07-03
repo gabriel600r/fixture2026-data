@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:50:26Z",
+  "updated": "2026-07-03T00:51:13Z",
   "live": [
     {
       "id": 83,
@@ -78,6 +78,7 @@
           "team": "POR"
         }
       ],
+      "extra": 1,
       "stats": {
         "offsides": [
           1,
