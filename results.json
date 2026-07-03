@@ -1,18 +1,17 @@
 {
-  "updated": "2026-07-03T00:18:04Z",
+  "updated": "2026-07-03T00:18:51Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "I. Perisic",
           "minute": 53,
-          "team": "CRO",
-          "assist": "J. Stanisic"
+          "team": "CRO"
         }
       ],
       "cardEvents": [
@@ -34,7 +33,7 @@
       "stats": {
         "offsides": [
           0,
-          1
+          2
         ],
         "shotsInside": [
           5,
@@ -45,16 +44,16 @@
           1
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "shotsOn": [
           1,
           2
         ],
         "passesAccurate": [
-          366,
-          161
+          377,
+          174
         ],
         "shotsOff": [
           4,
@@ -81,16 +80,16 @@
           0
         ],
         "passesPct": [
-          93,
-          84
+          92,
+          85
         ],
         "shotsBlocked": [
           4,
           1
         ],
         "passesTotal": [
-          395,
-          191
+          408,
+          205
         ],
         "fouls": [
           6,
