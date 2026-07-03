@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:40:57Z",
+  "updated": "2026-07-03T00:41:44Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 1,
       "goals": [
@@ -70,6 +70,12 @@
           "in": "M. Pasalic",
           "minute": 68,
           "team": "CRO"
+        },
+        {
+          "out": "C. Ronaldo",
+          "in": "R. Neves",
+          "minute": 81,
+          "team": "POR"
         }
       ],
       "stats": {
