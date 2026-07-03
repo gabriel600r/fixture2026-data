@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:57:32Z",
+  "updated": "2026-07-03T00:58:19Z",
   "live": [
     {
       "id": 83,
@@ -36,6 +36,12 @@
         {
           "player": "L. Modric",
           "minute": 59,
+          "team": "CRO",
+          "color": "yellow"
+        },
+        {
+          "player": "I. Perisic",
+          "minute": 90,
           "team": "CRO",
           "color": "yellow"
         }
