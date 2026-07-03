@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T04:05:52Z",
+  "updated": "2026-07-03T04:06:39Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 46,
-      "home": 1,
+      "minute": 47,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 10,
           "team": "SUI",
           "assist": "J. Manzambi"
+        },
+        {
+          "player": "D. Ndoye",
+          "minute": 46,
+          "team": "SUI"
         }
       ],
       "cardEvents": [
@@ -28,6 +33,10 @@
           0,
           1
         ],
+        "shotsInside": [
+          3,
+          3
+        ],
         "corners": [
           2,
           1
@@ -39,6 +48,10 @@
         "shotsOn": [
           2,
           2
+        ],
+        "passesAccurate": [
+          178,
+          277
         ],
         "shotsOff": [
           2,
@@ -56,13 +69,25 @@
           4,
           5
         ],
+        "shotsOutside": [
+          1,
+          2
+        ],
         "red": [
           0,
           0
         ],
+        "passesPct": [
+          82,
+          86
+        ],
         "shotsBlocked": [
-          0,
+          1,
           1
+        ],
+        "passesTotal": [
+          217,
+          322
         ],
         "fouls": [
           5,
