@@ -1,32 +1,44 @@
 {
-  "updated": "2026-07-03T03:30:58Z",
+  "updated": "2026-07-03T03:31:45Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "Breel Embolo",
+          "player": "B. Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "Johan Manzambi"
+          "assist": "J. Manzambi"
         }
       ],
       "stats": {
+        "offsides": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          2,
+          1
+        ],
         "corners": [
           1,
           0
         ],
         "possession": [
-          40,
-          60
+          41,
+          59
         ],
         "shotsOn": [
           2,
           1
+        ],
+        "passesAccurate": [
+          113,
+          170
         ],
         "shotsOff": [
           1,
@@ -44,13 +56,25 @@
           3,
           3
         ],
+        "shotsOutside": [
+          1,
+          2
+        ],
         "red": [
           0,
           0
         ],
+        "passesPct": [
+          87,
+          89
+        ],
         "shotsBlocked": [
           0,
           1
+        ],
+        "passesTotal": [
+          130,
+          191
         ],
         "fouls": [
           1,
