@@ -1,59 +1,48 @@
 {
-  "updated": "2026-07-03T03:45:53Z",
+  "updated": "2026-07-03T03:46:40Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 44,
+      "minute": 45,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "B. Embolo",
+          "player": "Breel Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "J. Manzambi"
+          "assist": "Johan Manzambi"
         }
       ],
       "cardEvents": [
         {
-          "player": "F. Chaibi",
+          "player": "Fares Chaibi",
           "minute": 36,
           "team": "ALG",
           "color": "yellow"
         }
       ],
+      "extra": 2,
       "stats": {
-        "offsides": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          4,
-          1
-        ],
         "corners": [
           2,
           1
         ],
         "possession": [
-          43,
-          57
+          41,
+          59
         ],
         "shotsOn": [
           2,
-          1
-        ],
-        "passesAccurate": [
-          162,
-          230
+          2
         ],
         "shotsOff": [
           2,
           1
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "yellow": [
@@ -61,28 +50,16 @@
           1
         ],
         "shotsTotal": [
-          5,
-          3
-        ],
-        "shotsOutside": [
-          1,
-          2
+          4,
+          4
         ],
         "red": [
           0,
           0
         ],
-        "passesPct": [
-          84,
-          87
-        ],
         "shotsBlocked": [
-          1,
+          0,
           1
-        ],
-        "passesTotal": [
-          192,
-          265
         ],
         "fouls": [
           5,
