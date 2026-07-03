@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:47:14Z",
+  "updated": "2026-07-03T20:48:02Z",
   "live": [
     {
       "id": 88,
@@ -310,7 +310,7 @@
       },
       "pen": {
         "home": 1,
-        "away": 1
+        "away": 2
       },
       "penEvents": [
         {
@@ -330,6 +330,12 @@
           "team": "AUS",
           "scored": true,
           "order": 3
+        },
+        {
+          "player": "R. Rabia",
+          "team": "EGY",
+          "scored": true,
+          "order": 4
         }
       ]
     }
