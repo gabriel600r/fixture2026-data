@@ -1,31 +1,45 @@
 {
-  "updated": "2026-07-03T04:20:06Z",
+  "updated": "2026-07-03T04:20:53Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 58,
+      "minute": 61,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "B. Embolo",
+          "player": "Breel Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "J. Manzambi"
+          "assist": "Johan Manzambi"
         },
         {
-          "player": "D. Ndoye",
+          "player": "Dan Ndoye",
           "minute": 46,
           "team": "SUI"
         }
       ],
       "cardEvents": [
         {
-          "player": "F. Chaibi",
+          "player": "Fares Chaibi",
           "minute": 36,
           "team": "ALG",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Houssem Aouar",
+          "in": "Jaouen Hadjam",
+          "minute": 58,
+          "team": "ALG"
+        },
+        {
+          "out": "Ramiz Zerrouki",
+          "in": "Amine Gouiri",
+          "minute": 58,
+          "team": "ALG"
         }
       ],
       "stats": {
