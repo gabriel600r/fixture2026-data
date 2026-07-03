@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T18:16:10Z",
+  "updated": "2026-07-03T18:16:57Z",
   "live": [
     {
       "id": 88,
       "status": "1H",
-      "minute": 16,
+      "minute": 17,
       "home": 0,
       "away": 1,
       "goals": [
@@ -37,8 +37,8 @@
           0
         ],
         "possession": [
-          29,
-          71
+          31,
+          69
         ],
         "red": [
           0,
@@ -65,11 +65,11 @@
           0
         ],
         "passesPct": [
-          67,
+          68,
           87
         ],
         "passesAccurate": [
-          26,
+          30,
           86
         ],
         "shotsOff": [
@@ -77,7 +77,7 @@
           0
         ],
         "passesTotal": [
-          39,
+          44,
           99
         ],
         "home": "AUS",
