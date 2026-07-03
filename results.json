@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:07:25Z",
+  "updated": "2026-07-03T21:20:14Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -26516,8 +26516,58 @@
       },
       "pen": {
         "home": 2,
-        "away": 3
-      }
+        "away": 4
+      },
+      "penEvents": [
+        {
+          "player": "H. Souttar",
+          "team": "AUS",
+          "scored": false,
+          "order": 1
+        },
+        {
+          "player": "M. Saber",
+          "team": "EGY",
+          "scored": true,
+          "order": 2
+        },
+        {
+          "player": "J. Irvine",
+          "team": "AUS",
+          "scored": true,
+          "order": 3
+        },
+        {
+          "player": "R. Rabia",
+          "team": "EGY",
+          "scored": true,
+          "order": 4
+        },
+        {
+          "player": "A. Mabil",
+          "team": "AUS",
+          "scored": true,
+          "order": 5
+        },
+        {
+          "player": "M. Salah",
+          "team": "EGY",
+          "scored": true,
+          "order": 6
+        },
+        {
+          "player": "L. Herrington",
+          "team": "AUS",
+          "scored": false,
+          "order": 7
+        },
+        {
+          "player": "H. Abdelmaguid",
+          "team": "EGY",
+          "scored": true,
+          "order": 8
+        }
+      ]
     }
   ],
   "stats": {
