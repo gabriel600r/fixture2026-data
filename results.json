@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T23:14:08Z",
+  "updated": "2026-07-03T23:14:55Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 1,
       "away": 0,
       "goals": [
@@ -17,8 +17,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          398,
-          191
+          410,
+          204
         ],
         "shotsInside": [
           2,
@@ -49,16 +49,16 @@
           2
         ],
         "fouls": [
-          6,
+          7,
           4
         ],
         "possession": [
-          65,
-          35
+          64,
+          36
         ],
         "passesTotal": [
-          425,
-          221
+          437,
+          236
         ],
         "shotsTotal": [
           4,
@@ -216,7 +216,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 7.5,
+          "rating": 7.3,
           "team": "ARG"
         }
       }
