@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T20:04:27Z",
+  "updated": "2026-07-03T20:05:14Z",
   "live": [
     {
       "id": 88,
       "status": "ET",
-      "minute": 97,
+      "minute": 92,
       "home": 1,
       "away": 1,
       "goals": [
@@ -74,11 +74,11 @@
       "stats": {
         "shotsBlocked": [
           7,
-          4
+          5
         ],
         "shotsTotal": [
           12,
-          9
+          10
         ],
         "shotsOn": [
           1,
@@ -102,7 +102,7 @@
         ],
         "shotsInside": [
           7,
-          6
+          7
         ],
         "offsides": [
           0,
@@ -125,16 +125,16 @@
           85
         ],
         "passesAccurate": [
-          333,
-          450
+          334,
+          457
         ],
         "shotsOff": [
           4,
           2
         ],
         "passesTotal": [
-          410,
-          527
+          412,
+          536
         ],
         "home": "AUS",
         "away": "EGY"
