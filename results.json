@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T23:27:36Z",
+  "updated": "2026-07-03T23:28:24Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 1,
       "goals": [
@@ -33,6 +33,12 @@
           "in": "N. Gonzalez",
           "minute": 64,
           "team": "ARG"
+        },
+        {
+          "out": "N. Da Costa",
+          "in": "D. Livramento",
+          "minute": 67,
+          "team": "CPV"
         }
       ],
       "stats": {
