@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:59:06Z",
+  "updated": "2026-07-03T00:59:53Z",
   "live": [
     {
       "id": 83,
@@ -102,7 +102,7 @@
           "team": "CRO"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "offsides": [
           1,
@@ -303,9 +303,9 @@
         },
         "referee": "Espen Eskas, Norway",
         "motm": {
-          "player": "Ivan Perišić",
+          "player": "Gonçalo Ramos",
           "rating": 7.6,
-          "team": "CRO"
+          "team": "POR"
         }
       }
     }
