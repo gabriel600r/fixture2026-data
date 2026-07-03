@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T19:16:07Z",
+  "updated": "2026-07-03T19:16:55Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 54,
-      "home": 0,
+      "minute": 55,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,12 @@
           "minute": 13,
           "team": "EGY",
           "assist": "K. Hafez"
+        },
+        {
+          "player": "H. Souttar",
+          "minute": 55,
+          "team": "AUS",
+          "assist": "A. O'Neill"
         }
       ],
       "subs": [
