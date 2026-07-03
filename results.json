@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:55:57Z",
+  "updated": "2026-07-03T00:56:44Z",
   "live": [
     {
       "id": 83,
@@ -88,9 +88,15 @@
           "in": "J. Gvardiol",
           "minute": 90,
           "team": "CRO"
+        },
+        {
+          "out": "M. Kovacic",
+          "in": "A. Kramaric",
+          "minute": 90,
+          "team": "CRO"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "offsides": [
           1,
