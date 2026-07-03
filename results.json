@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T23:29:11Z",
+  "updated": "2026-07-03T23:29:59Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 1,
       "goals": [
@@ -19,6 +19,14 @@
           "minute": 59,
           "team": "CPV",
           "assist": "R. Mendes"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "K. Lenini",
+          "minute": 68,
+          "team": "CPV",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -49,19 +57,19 @@
       ],
       "stats": {
         "passesAccurate": [
-          465,
-          251
+          505,
+          252
         ],
         "shotsInside": [
-          3,
+          4,
           2
         ],
         "passesPct": [
           93,
-          87
+          86
         ],
         "shotsOff": [
-          1,
+          2,
           1
         ],
         "yellow": [
@@ -82,18 +90,18 @@
         ],
         "fouls": [
           8,
-          4
+          5
         ],
         "possession": [
-          63,
-          37
+          64,
+          36
         ],
         "passesTotal": [
-          500,
-          290
+          542,
+          293
         ],
         "shotsTotal": [
-          5,
+          6,
           5
         ],
         "red": [
