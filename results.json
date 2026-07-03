@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T20:17:13Z",
+  "updated": "2026-07-03T20:18:00Z",
   "live": [
     {
       "id": 88,
       "status": "ET",
-      "minute": 104,
+      "minute": 105,
       "home": 1,
       "away": 1,
       "goals": [
@@ -85,7 +85,7 @@
           3
         ],
         "fouls": [
-          8,
+          9,
           10
         ],
         "corners": [
@@ -93,8 +93,8 @@
           3
         ],
         "possession": [
-          44,
-          56
+          43,
+          57
         ],
         "red": [
           0,
@@ -122,19 +122,19 @@
         ],
         "passesPct": [
           80,
-          85
+          86
         ],
         "passesAccurate": [
-          346,
-          492
+          367,
+          534
         ],
         "shotsOff": [
           4,
           3
         ],
         "passesTotal": [
-          434,
-          577
+          459,
+          622
         ],
         "home": "AUS",
         "away": "EGY"
@@ -272,7 +272,7 @@
         "referee": "Gustavo Tejera, Uruguay",
         "motm": {
           "player": "Emam Ashour",
-          "rating": 7.5,
+          "rating": 7.7,
           "team": "EGY"
         }
       }
