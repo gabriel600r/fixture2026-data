@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:05:04Z",
+  "updated": "2026-07-03T04:05:52Z",
   "live": [
     {
       "id": 85,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -201,7 +201,12 @@
             ]
           }
         },
-        "referee": "Yael Falcon Perez, Argentina"
+        "referee": "Yael Falcon Perez, Argentina",
+        "motm": {
+          "player": "B. Embolo",
+          "rating": 7.77,
+          "team": "SUI"
+        }
       }
     }
   ],
