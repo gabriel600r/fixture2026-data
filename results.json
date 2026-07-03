@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:41:26Z",
+  "updated": "2026-07-03T19:42:13Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 1,
       "away": 1,
       "goals": [
@@ -51,6 +51,12 @@
           "in": "M. Toure",
           "minute": 74,
           "team": "AUS"
+        },
+        {
+          "out": "K. Hafez",
+          "in": "Trezeguet",
+          "minute": 80,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -75,8 +81,8 @@
           0
         ],
         "possession": [
-          45,
-          55
+          47,
+          53
         ],
         "red": [
           0,
@@ -103,20 +109,20 @@
           0
         ],
         "passesPct": [
-          81,
+          83,
           85
         ],
         "passesAccurate": [
-          266,
-          359
+          305,
+          361
         ],
         "shotsOff": [
           4,
           2
         ],
         "passesTotal": [
-          327,
-          420
+          367,
+          424
         ],
         "home": "AUS",
         "away": "EGY"
