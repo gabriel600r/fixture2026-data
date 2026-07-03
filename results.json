@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:25:25Z",
+  "updated": "2026-07-03T03:26:12Z",
   "live": [
     {
       "id": 85,
@@ -9,10 +9,10 @@
       "away": 0,
       "goals": [
         {
-          "player": "B. Embolo",
+          "player": "Breel Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "J. Manzambi"
+          "assist": "Johan Manzambi"
         }
       ],
       "stats": {
