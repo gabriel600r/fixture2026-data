@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:35:25Z",
+  "updated": "2026-07-03T00:36:12Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 1,
       "goals": [
@@ -273,7 +273,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Ivan Perišić",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "CRO"
         }
       }
