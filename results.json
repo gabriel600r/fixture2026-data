@@ -1,314 +1,6 @@
 {
-  "updated": "2026-07-03T01:09:25Z",
-  "live": [
-    {
-      "id": 83,
-      "status": "2H",
-      "minute": 46,
-      "home": 2,
-      "away": 1,
-      "goals": [
-        {
-          "player": "I. Perisic",
-          "minute": 53,
-          "team": "CRO"
-        },
-        {
-          "player": "C. Ronaldo",
-          "minute": 68,
-          "team": "POR",
-          "pen": true
-        },
-        {
-          "player": "G. Ramos",
-          "minute": 90,
-          "team": "POR",
-          "assist": "R. Leao"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "R. Dias",
-          "minute": 17,
-          "team": "POR",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Modric",
-          "minute": 59,
-          "team": "CRO",
-          "color": "yellow"
-        },
-        {
-          "player": "I. Perisic",
-          "minute": 90,
-          "team": "CRO",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "A. Budimir",
-          "in": "I. Matanovic",
-          "minute": 46,
-          "team": "CRO"
-        },
-        {
-          "out": "Vitinha",
-          "in": "B. Silva",
-          "minute": 62,
-          "team": "POR"
-        },
-        {
-          "out": "P. Neto",
-          "in": "F. Conceicao",
-          "minute": 63,
-          "team": "POR"
-        },
-        {
-          "out": "B. Fernandes",
-          "in": "N. Semedo",
-          "minute": 63,
-          "team": "POR"
-        },
-        {
-          "out": "J. Cancelo",
-          "in": "G. Ramos",
-          "minute": 63,
-          "team": "POR"
-        },
-        {
-          "out": "M. Baturina",
-          "in": "M. Pasalic",
-          "minute": 68,
-          "team": "CRO"
-        },
-        {
-          "out": "C. Ronaldo",
-          "in": "R. Neves",
-          "minute": 81,
-          "team": "POR"
-        },
-        {
-          "out": "N. Vlasic",
-          "in": "J. Gvardiol",
-          "minute": 90,
-          "team": "CRO"
-        },
-        {
-          "out": "M. Kovacic",
-          "in": "A. Kramaric",
-          "minute": 90,
-          "team": "CRO"
-        }
-      ],
-      "stats": {
-        "offsides": [
-          1,
-          4
-        ],
-        "shotsInside": [
-          10,
-          11
-        ],
-        "corners": [
-          9,
-          5
-        ],
-        "possession": [
-          60,
-          40
-        ],
-        "shotsOn": [
-          3,
-          6
-        ],
-        "passesAccurate": [
-          526,
-          311
-        ],
-        "shotsOff": [
-          8,
-          6
-        ],
-        "saves": [
-          5,
-          2
-        ],
-        "yellow": [
-          1,
-          2
-        ],
-        "shotsTotal": [
-          15,
-          14
-        ],
-        "shotsOutside": [
-          5,
-          3
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesPct": [
-          91,
-          85
-        ],
-        "shotsBlocked": [
-          4,
-          2
-        ],
-        "passesTotal": [
-          576,
-          366
-        ],
-        "fouls": [
-          6,
-          12
-        ],
-        "home": "POR",
-        "away": "CRO"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Roberto Martinez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Diogo Costa",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "João Cancelo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Rúben Dias",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Renato Veiga",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nuno Mendes",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "João Neves",
-                "pos": "M"
-              },
-              {
-                "n": 23,
-                "name": "Vitinha",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Pedro Neto",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Fernandes",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Rafael Leão",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Cristiano Ronaldo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Zlatko Dalic",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Dominik Livaković",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Josip Stanišić",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Josip Šutalo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Marin Pongračić",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Ivan Perišić",
-                "pos": "D"
-              },
-              {
-                "n": 10,
-                "name": "Luka Modrić",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Mateo Kovačić",
-                "pos": "M"
-              },
-              {
-                "n": 13,
-                "name": "Nikola Vlašić",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Petar Sučić",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Martin Baturina",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Ante Budimir",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Espen Eskas, Norway",
-        "motm": {
-          "player": "Ivan Perišić",
-          "rating": 8.3,
-          "team": "CRO"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-03T01:10:11Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -25490,6 +25182,311 @@
       }
     },
     {
+      "id": 83,
+      "home": 2,
+      "away": 1,
+      "goals": [
+        {
+          "player": "I. Perisic",
+          "minute": 53,
+          "team": "CRO"
+        },
+        {
+          "player": "C. Ronaldo",
+          "minute": 68,
+          "team": "POR",
+          "pen": true
+        },
+        {
+          "player": "G. Ramos",
+          "minute": 90,
+          "team": "POR",
+          "assist": "R. Leao"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "R. Dias",
+          "minute": 17,
+          "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Modric",
+          "minute": 59,
+          "team": "CRO",
+          "color": "yellow"
+        },
+        {
+          "player": "I. Perisic",
+          "minute": 90,
+          "team": "CRO",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Budimir",
+          "in": "I. Matanovic",
+          "minute": 46,
+          "team": "CRO"
+        },
+        {
+          "out": "Vitinha",
+          "in": "B. Silva",
+          "minute": 62,
+          "team": "POR"
+        },
+        {
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 63,
+          "team": "POR"
+        },
+        {
+          "out": "B. Fernandes",
+          "in": "N. Semedo",
+          "minute": 63,
+          "team": "POR"
+        },
+        {
+          "out": "J. Cancelo",
+          "in": "G. Ramos",
+          "minute": 63,
+          "team": "POR"
+        },
+        {
+          "out": "M. Baturina",
+          "in": "M. Pasalic",
+          "minute": 68,
+          "team": "CRO"
+        },
+        {
+          "out": "C. Ronaldo",
+          "in": "R. Neves",
+          "minute": 81,
+          "team": "POR"
+        },
+        {
+          "out": "N. Vlasic",
+          "in": "J. Gvardiol",
+          "minute": 90,
+          "team": "CRO"
+        },
+        {
+          "out": "M. Kovacic",
+          "in": "A. Kramaric",
+          "minute": 90,
+          "team": "CRO"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          1,
+          4
+        ],
+        "shotsInside": [
+          10,
+          11
+        ],
+        "corners": [
+          9,
+          5
+        ],
+        "possession": [
+          60,
+          40
+        ],
+        "shotsOn": [
+          3,
+          6
+        ],
+        "passesAccurate": [
+          526,
+          311
+        ],
+        "shotsOff": [
+          8,
+          6
+        ],
+        "saves": [
+          5,
+          2
+        ],
+        "yellow": [
+          1,
+          2
+        ],
+        "shotsTotal": [
+          15,
+          14
+        ],
+        "shotsOutside": [
+          5,
+          3
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesPct": [
+          91,
+          85
+        ],
+        "shotsBlocked": [
+          4,
+          2
+        ],
+        "passesTotal": [
+          576,
+          366
+        ],
+        "fouls": [
+          6,
+          12
+        ],
+        "home": "POR",
+        "away": "CRO"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Rafael Leão",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Zlatko Dalic",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Dominik Livaković",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Josip Stanišić",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Josip Šutalo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Marin Pongračić",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Ivan Perišić",
+                "pos": "D"
+              },
+              {
+                "n": 10,
+                "name": "Luka Modrić",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Mateo Kovačić",
+                "pos": "M"
+              },
+              {
+                "n": 13,
+                "name": "Nikola Vlašić",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Petar Sučić",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Martin Baturina",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Ante Budimir",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Espen Eskas, Norway",
+        "motm": {
+          "player": "Ivan Perišić",
+          "rating": 8.3,
+          "team": "CRO"
+        }
+      }
+    },
+    {
       "id": 84,
       "home": 3,
       "away": 0,
@@ -25839,6 +25836,12 @@
         "assists": 1
       },
       {
+        "player": "C. Ronaldo",
+        "team": "POR",
+        "goals": 3,
+        "penalties": 1
+      },
+      {
         "player": "K. Havertz",
         "team": "GER",
         "goals": 3,
@@ -25941,11 +25944,6 @@
       {
         "player": "C. Larin",
         "team": "CAN",
-        "goals": 2
-      },
-      {
-        "player": "C. Ronaldo",
-        "team": "POR",
         "goals": 2
       },
       {
@@ -26241,6 +26239,12 @@
         "yellow": 2
       },
       {
+        "player": "I. Perisic",
+        "team": "CRO",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Juninho Bacuna",
         "team": "CUR",
         "red": 0,
@@ -26297,12 +26301,6 @@
       {
         "player": "A. Al Amri",
         "team": "KSA",
-        "red": 0,
-        "yellow": 1
-      },
-      {
-        "player": "A. Andrade",
-        "team": "PAN",
         "red": 0,
         "yellow": 1
       }
@@ -26436,6 +26434,20 @@
       "form": "DWWD"
     },
     {
+      "code": "POR",
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "loses": 0,
+      "gf": 8,
+      "ga": 2,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "5-0",
+      "biggestLose": "",
+      "form": "DWDW"
+    },
+    {
       "code": "BEL",
       "played": 4,
       "wins": 2,
@@ -26535,31 +26547,17 @@
     },
     {
       "code": "CRO",
-      "played": 3,
+      "played": 4,
       "wins": 2,
       "draws": 0,
-      "loses": 1,
-      "gf": 5,
-      "ga": 5,
+      "loses": 2,
+      "gf": 6,
+      "ga": 7,
       "cleanSheets": 1,
       "failedToScore": 0,
       "biggestWin": "1-0",
       "biggestLose": "2-4",
-      "form": "LWW"
-    },
-    {
-      "code": "POR",
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "loses": 0,
-      "gf": 6,
-      "ga": 1,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "5-0",
-      "biggestLose": "",
-      "form": "DWD"
+      "form": "LWWL"
     },
     {
       "code": "JPN",
