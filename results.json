@@ -1,18 +1,24 @@
 {
-  "updated": "2026-07-03T23:19:41Z",
+  "updated": "2026-07-03T23:20:28Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "L. Messi",
           "minute": 29,
           "team": "ARG",
           "assist": "L. Martinez"
+        },
+        {
+          "player": "D. Duarte",
+          "minute": 59,
+          "team": "CPV",
+          "assist": "R. Mendes"
         }
       ],
       "stats": {
