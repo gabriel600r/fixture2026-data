@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:30:21Z",
+  "updated": "2026-07-03T04:31:08Z",
   "live": [
     {
       "id": 85,
@@ -40,6 +40,18 @@
           "in": "Amine Gouiri",
           "minute": 58,
           "team": "ALG"
+        },
+        {
+          "out": "Rubén Vargas",
+          "in": "Fabian Rieder",
+          "minute": 71,
+          "team": "SUI"
+        },
+        {
+          "out": "Johan Manzambi",
+          "in": "Noah Okafor",
+          "minute": 71,
+          "team": "SUI"
         }
       ],
       "stats": {
