@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-03T19:58:03Z",
+  "updated": "2026-07-03T19:58:50Z",
   "live": [
     {
       "id": 88,
-      "status": "2H",
+      "status": "ET",
       "minute": 90,
       "home": 1,
       "away": 1,
@@ -59,7 +59,6 @@
           "team": "EGY"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsBlocked": [
           7,
