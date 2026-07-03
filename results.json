@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:28:24Z",
+  "updated": "2026-07-03T23:29:11Z",
   "live": [
     {
       "id": 86,
@@ -33,6 +33,12 @@
           "in": "N. Gonzalez",
           "minute": 64,
           "team": "ARG"
+        },
+        {
+          "out": "L. Duarte",
+          "in": "J. Monteiro",
+          "minute": 67,
+          "team": "CPV"
         },
         {
           "out": "N. Da Costa",
@@ -242,7 +248,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "ARG"
         }
       }
