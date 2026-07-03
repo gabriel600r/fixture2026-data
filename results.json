@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:46:27Z",
+  "updated": "2026-07-03T20:47:14Z",
   "live": [
     {
       "id": 88,
@@ -309,7 +309,7 @@
         }
       },
       "pen": {
-        "home": 0,
+        "home": 1,
         "away": 1
       },
       "penEvents": [
@@ -324,6 +324,12 @@
           "team": "EGY",
           "scored": true,
           "order": 2
+        },
+        {
+          "player": "J. Irvine",
+          "team": "AUS",
+          "scored": true,
+          "order": 3
         }
       ]
     }
