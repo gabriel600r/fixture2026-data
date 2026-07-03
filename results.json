@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-03T04:46:55Z",
+  "updated": "2026-07-03T04:47:42Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 2,
       "away": 0,
       "goals": [
         {
-          "player": "Breel Embolo",
+          "player": "B. Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "Johan Manzambi"
+          "assist": "J. Manzambi"
         },
         {
-          "player": "Dan Ndoye",
+          "player": "D. Ndoye",
           "minute": 46,
           "team": "SUI"
         }
       ],
       "cardEvents": [
         {
-          "player": "Fares Chaibi",
+          "player": "F. Chaibi",
           "minute": 36,
           "team": "ALG",
           "color": "yellow"
         },
         {
-          "player": "Hicham Boudaoui",
+          "player": "H. Boudaoui",
           "minute": 72,
           "team": "ALG",
           "color": "yellow"
@@ -36,51 +36,63 @@
       ],
       "subs": [
         {
-          "out": "Houssem Aouar",
-          "in": "Jaouen Hadjam",
+          "out": "H. Aouar",
+          "in": "J. Hadjam",
           "minute": 58,
           "team": "ALG"
         },
         {
-          "out": "Ramiz Zerrouki",
-          "in": "Amine Gouiri",
+          "out": "R. Zerrouki",
+          "in": "A. Gouiri",
           "minute": 58,
           "team": "ALG"
         },
         {
-          "out": "Rubén Vargas",
-          "in": "Fabian Rieder",
+          "out": "R. Vargas",
+          "in": "F. Rieder",
           "minute": 71,
           "team": "SUI"
         },
         {
-          "out": "Johan Manzambi",
-          "in": "Noah Okafor",
+          "out": "J. Manzambi",
+          "in": "N. Okafor",
           "minute": 71,
           "team": "SUI"
         },
         {
-          "out": "Riyad Mahrez",
-          "in": "Anis Hadj Moussa",
+          "out": "R. Mahrez",
+          "in": "A. Hadj Moussa",
           "minute": 71,
           "team": "ALG"
         },
         {
-          "out": "Nabil Bentaleb",
-          "in": "Hicham Boudaoui",
+          "out": "N. Bentaleb",
+          "in": "H. Boudaoui",
           "minute": 71,
           "team": "ALG"
         },
         {
-          "out": "Rafik Belghali",
-          "in": "Adil Boulbina",
+          "out": "R. Belghali",
+          "in": "A. Boulbina",
           "minute": 82,
           "team": "ALG"
         },
         {
-          "out": "Breel Embolo",
-          "in": "Zeki Amdouni",
+          "out": "B. Embolo",
+          "in": "Z. Amdouni",
           "minute": 83,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "M. Aebischer",
+          "minute": 87,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Zakaria",
+          "in": "S. Widmer",
+          "minute": 87,
           "team": "SUI"
         }
       ],
