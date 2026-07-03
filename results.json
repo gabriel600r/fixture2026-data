@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T18:41:24Z",
+  "updated": "2026-07-03T18:42:11Z",
   "live": [
     {
       "id": 88,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 1,
       "goals": [
@@ -152,7 +152,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-4-2",
             "coach": "Hossam Hassan",
             "xi": [
               {
@@ -181,6 +181,11 @@
                 "pos": "D"
               },
               {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
                 "n": 14,
                 "name": "Hamdy Fathy",
                 "pos": "M"
@@ -191,19 +196,14 @@
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Emam Ashour",
+                "n": 22,
+                "name": "Omar Marmoush",
                 "pos": "M"
               },
               {
                 "n": 10,
                 "name": "Mohamed Salah",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Omar Marmoush",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 11,
