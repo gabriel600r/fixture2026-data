@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T03:22:15Z",
+  "updated": "2026-07-03T03:23:03Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 1,
       "away": 0,
       "goals": [
@@ -37,8 +37,8 @@
           1
         ],
         "passesAccurate": [
-          67,
-          157
+          71,
+          163
         ],
         "shotsOff": [
           0,
@@ -73,12 +73,12 @@
           1
         ],
         "passesTotal": [
-          80,
-          174
+          85,
+          182
         ],
         "fouls": [
           1,
-          0
+          1
         ],
         "home": "SUI",
         "away": "ALG"
