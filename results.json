@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:22:47Z",
+  "updated": "2026-07-03T00:23:34Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 1,
       "goals": [
@@ -46,11 +46,17 @@
           "in": "B. Silva",
           "minute": 62,
           "team": "POR"
+        },
+        {
+          "out": "B. Fernandes",
+          "in": "N. Semedo",
+          "minute": 63,
+          "team": "POR"
         }
       ],
       "stats": {
         "offsides": [
-          0,
+          1,
           2
         ],
         "shotsInside": [
@@ -70,7 +76,7 @@
           3
         ],
         "passesAccurate": [
-          396,
+          399,
           185
         ],
         "shotsOff": [
@@ -106,7 +112,7 @@
           1
         ],
         "passesTotal": [
-          429,
+          432,
           217
         ],
         "fouls": [
