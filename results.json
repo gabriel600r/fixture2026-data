@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:44:52Z",
+  "updated": "2026-07-03T20:45:39Z",
   "live": [
     {
       "id": 88,
@@ -311,7 +311,15 @@
       "pen": {
         "home": 0,
         "away": 0
-      }
+      },
+      "penEvents": [
+        {
+          "player": "H. Souttar",
+          "team": "AUS",
+          "scored": false,
+          "order": 1
+        }
+      ]
     }
   ],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
