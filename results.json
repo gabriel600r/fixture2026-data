@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-03T00:13:18Z",
+  "updated": "2026-07-03T00:14:06Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "I. Perisic",
+          "minute": 53,
+          "team": "CRO"
+        }
+      ],
       "cardEvents": [
         {
           "player": "R. Dias",
@@ -45,8 +52,8 @@
           1
         ],
         "passesAccurate": [
-          348,
-          145
+          365,
+          149
         ],
         "shotsOff": [
           4,
@@ -73,7 +80,7 @@
           0
         ],
         "passesPct": [
-          93,
+          92,
           83
         ],
         "shotsBlocked": [
@@ -81,12 +88,12 @@
           1
         ],
         "passesTotal": [
-          376,
-          174
+          395,
+          179
         ],
         "fouls": [
           5,
-          6
+          7
         ],
         "home": "POR",
         "away": "CRO"
