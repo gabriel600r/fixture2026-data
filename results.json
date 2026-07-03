@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T03:34:07Z",
+  "updated": "2026-07-03T03:34:54Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 34,
+      "minute": 35,
       "home": 1,
       "away": 0,
       "goals": [
@@ -191,8 +191,8 @@
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "Houssem Aouar",
+                "n": 10,
+                "name": "Farès Chaïbi",
                 "pos": "M"
               },
               {
@@ -206,8 +206,8 @@
                 "pos": "F"
               },
               {
-                "n": 10,
-                "name": "Farès Chaïbi",
+                "n": 8,
+                "name": "Houssem Aouar",
                 "pos": "F"
               }
             ]
