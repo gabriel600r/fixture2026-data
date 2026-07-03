@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:25:56Z",
+  "updated": "2026-07-03T00:26:43Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
@@ -36,15 +36,15 @@
           "team": "CRO"
         },
         {
-          "out": "P. Neto",
-          "in": "F. Conceicao",
+          "out": "Vitinha",
+          "in": "B. Silva",
           "minute": 62,
           "team": "POR"
         },
         {
-          "out": "Vitinha",
-          "in": "B. Silva",
-          "minute": 62,
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 63,
           "team": "POR"
         },
         {
@@ -66,11 +66,11 @@
           2
         ],
         "shotsInside": [
-          5,
+          6,
           6
         ],
         "corners": [
-          6,
+          7,
           2
         ],
         "possession": [
@@ -83,10 +83,10 @@
         ],
         "passesAccurate": [
           399,
-          185
+          188
         ],
         "shotsOff": [
-          5,
+          6,
           3
         ],
         "saves": [
@@ -98,7 +98,7 @@
           1
         ],
         "shotsTotal": [
-          10,
+          11,
           7
         ],
         "shotsOutside": [
@@ -119,7 +119,7 @@
         ],
         "passesTotal": [
           432,
-          217
+          220
         ],
         "fouls": [
           6,
