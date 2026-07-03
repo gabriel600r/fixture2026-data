@@ -1,17 +1,23 @@
 {
-  "updated": "2026-07-03T00:27:31Z",
+  "updated": "2026-07-03T00:28:18Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
       "minute": 68,
-      "home": 0,
+      "home": 1,
       "away": 1,
       "goals": [
         {
           "player": "I. Perisic",
           "minute": 53,
           "team": "CRO"
+        },
+        {
+          "player": "C. Ronaldo",
+          "minute": 68,
+          "team": "POR",
+          "pen": true
         }
       ],
       "cardEvents": [
