@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:48:18Z",
+  "updated": "2026-07-03T23:49:05Z",
   "live": [
     {
       "id": 86,
@@ -81,8 +81,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          580,
-          259
+          582,
+          262
         ],
         "shotsInside": [
           6,
@@ -121,8 +121,8 @@
           33
         ],
         "passesTotal": [
-          629,
-          305
+          631,
+          308
         ],
         "shotsTotal": [
           10,
@@ -138,7 +138,7 @@
         ],
         "offsides": [
           2,
-          0
+          1
         ],
         "shotsBlocked": [
           1,
@@ -280,7 +280,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.3,
+          "rating": 8.5,
           "team": "ARG"
         }
       }
