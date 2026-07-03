@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:53:14Z",
+  "updated": "2026-07-03T04:54:02Z",
   "live": [
     {
       "id": 85,
@@ -96,7 +96,7 @@
           "team": "SUI"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "offsides": [
           0,
@@ -111,16 +111,16 @@
           2
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "shotsOn": [
           4,
           2
         ],
         "passesAccurate": [
-          333,
-          440
+          339,
+          460
         ],
         "shotsOff": [
           4,
@@ -147,20 +147,20 @@
           0
         ],
         "passesPct": [
-          82,
-          84
+          81,
+          85
         ],
         "shotsBlocked": [
           1,
           2
         ],
         "passesTotal": [
-          408,
-          522
+          416,
+          543
         ],
         "fouls": [
-          9,
-          10
+          10,
+          11
         ],
         "home": "SUI",
         "away": "ALG"
