@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T23:29:59Z",
+  "updated": "2026-07-03T23:30:47Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 1,
       "goals": [
@@ -256,7 +256,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 7.6,
+          "rating": 7.9,
           "team": "ARG"
         }
       }
