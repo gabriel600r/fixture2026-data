@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:36:09Z",
+  "updated": "2026-07-03T20:36:56Z",
   "live": [
     {
       "id": 88,
@@ -25,6 +25,12 @@
         {
           "player": "H. Hassan",
           "minute": 105,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "Y. Ibrahim",
+          "minute": 120,
           "team": "EGY",
           "color": "yellow"
         }
@@ -89,15 +95,21 @@
           "in": "M. Ryan",
           "minute": 119,
           "team": "AUS"
+        },
+        {
+          "out": "M. Attia",
+          "in": "M. Saber",
+          "minute": 120,
+          "team": "EGY"
         }
       ],
       "stats": {
         "shotsBlocked": [
-          7,
+          8,
           6
         ],
         "shotsTotal": [
-          13,
+          14,
           14
         ],
         "shotsOn": [
@@ -105,8 +117,8 @@
           4
         ],
         "fouls": [
-          11,
-          12
+          12,
+          13
         ],
         "corners": [
           4,
@@ -129,7 +141,7 @@
           3
         ],
         "shotsOutside": [
-          5,
+          6,
           6
         ],
         "saves": [
@@ -146,7 +158,7 @@
         ],
         "passesAccurate": [
           403,
-          612
+          613
         ],
         "shotsOff": [
           5,
@@ -154,7 +166,7 @@
         ],
         "passesTotal": [
           506,
-          718
+          721
         ],
         "home": "AUS",
         "away": "EGY"
