@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T01:02:19Z",
+  "updated": "2026-07-03T01:03:06Z",
   "live": [
     {
       "id": 83,
@@ -102,7 +102,7 @@
           "team": "CRO"
         }
       ],
-      "extra": 12,
+      "extra": 13,
       "stats": {
         "offsides": [
           1,
@@ -110,23 +110,23 @@
         ],
         "shotsInside": [
           9,
-          9
+          10
         ],
         "corners": [
           9,
-          4
+          5
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "shotsOn": [
           3,
           6
         ],
         "passesAccurate": [
-          521,
-          294
+          522,
+          302
         ],
         "shotsOff": [
           7,
@@ -142,7 +142,7 @@
         ],
         "shotsTotal": [
           14,
-          12
+          13
         ],
         "shotsOutside": [
           5,
@@ -158,11 +158,11 @@
         ],
         "shotsBlocked": [
           4,
-          1
+          2
         ],
         "passesTotal": [
-          570,
-          343
+          571,
+          353
         ],
         "fouls": [
           6,
