@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:29:33Z",
+  "updated": "2026-07-03T19:30:23Z",
   "live": [
     {
       "id": 88,
@@ -9,13 +9,13 @@
       "away": 1,
       "goals": [
         {
-          "player": "Emam Ashour",
+          "player": "E. Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "Karim Hafez"
+          "assist": "K. Hafez"
         },
         {
-          "player": "Mohamed Hany",
+          "player": "M. Hany",
           "minute": 55,
           "team": "AUS",
           "og": true
@@ -23,20 +23,20 @@
       ],
       "subs": [
         {
-          "out": "Jordan Bos",
-          "in": "Kai Trewin",
-          "minute": 45,
+          "out": "J. Bos",
+          "in": "K. Trewin",
+          "minute": 46,
           "team": "AUS"
         },
         {
-          "out": "Mostafa Zico",
-          "in": "Haissem Hassan",
+          "out": "M. Ziko",
+          "in": "H. Hassan",
           "minute": 67,
           "team": "EGY"
         },
         {
-          "out": "Hamdy Fathy",
-          "in": "Hossam Abdelmaguid",
+          "out": "H. Fathy",
+          "in": "H. Abdelmaguid",
           "minute": 67,
           "team": "EGY"
         }
@@ -222,7 +222,7 @@
         "referee": "Gustavo Tejera, Uruguay",
         "motm": {
           "player": "Emam Ashour",
-          "rating": 7.3,
+          "rating": 7.86,
           "team": "EGY"
         }
       }
