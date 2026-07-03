@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T03:37:15Z",
+  "updated": "2026-07-03T03:38:02Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 1,
       "away": 0,
       "goals": [
@@ -37,16 +37,16 @@
           0
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "shotsOn": [
           2,
           1
         ],
         "passesAccurate": [
-          140,
-          197
+          139,
+          203
         ],
         "shotsOff": [
           1,
@@ -58,7 +58,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "shotsTotal": [
           3,
@@ -73,7 +73,7 @@
           0
         ],
         "passesPct": [
-          87,
+          86,
           88
         ],
         "shotsBlocked": [
@@ -81,12 +81,12 @@
           1
         ],
         "passesTotal": [
-          161,
-          223
+          162,
+          232
         ],
         "fouls": [
           3,
-          3
+          4
         ],
         "home": "SUI",
         "away": "ALG"
