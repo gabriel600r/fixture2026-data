@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-03T00:14:06Z",
+  "updated": "2026-07-03T00:14:53Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "I. Perisic",
           "minute": 53,
-          "team": "CRO"
+          "team": "CRO",
+          "assist": "J. Stanisic"
         }
       ],
       "cardEvents": [
