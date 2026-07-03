@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:45:39Z",
+  "updated": "2026-07-03T20:46:27Z",
   "live": [
     {
       "id": 88,
@@ -105,11 +105,11 @@
       ],
       "stats": {
         "shotsBlocked": [
-          8,
+          9,
           6
         ],
         "shotsTotal": [
-          15,
+          16,
           14
         ],
         "shotsOn": [
@@ -133,7 +133,7 @@
           0
         ],
         "shotsInside": [
-          9,
+          10,
           8
         ],
         "offsides": [
@@ -310,7 +310,7 @@
       },
       "pen": {
         "home": 0,
-        "away": 0
+        "away": 1
       },
       "penEvents": [
         {
@@ -318,6 +318,12 @@
           "team": "AUS",
           "scored": false,
           "order": 1
+        },
+        {
+          "player": "M. Saber",
+          "team": "EGY",
+          "scored": true,
+          "order": 2
         }
       ]
     }
