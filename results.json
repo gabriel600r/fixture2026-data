@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:17:42Z",
+  "updated": "2026-07-03T19:18:30Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 1,
       "goals": [
@@ -15,10 +15,10 @@
           "assist": "K. Hafez"
         },
         {
-          "player": "H. Souttar",
+          "player": "M. Hany",
           "minute": 55,
           "team": "AUS",
-          "assist": "A. O'Neill"
+          "og": true
         }
       ],
       "subs": [
@@ -44,15 +44,15 @@
         ],
         "fouls": [
           4,
-          4
+          5
         ],
         "corners": [
           3,
           0
         ],
         "possession": [
-          45,
-          55
+          48,
+          52
         ],
         "red": [
           0,
@@ -79,20 +79,20 @@
           0
         ],
         "passesPct": [
-          79,
+          81,
           84
         ],
         "passesAccurate": [
-          171,
-          237
+          203,
+          243
         ],
         "shotsOff": [
           4,
           1
         ],
         "passesTotal": [
-          216,
-          281
+          251,
+          290
         ],
         "home": "AUS",
         "away": "EGY"
