@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:45:20Z",
+  "updated": "2026-07-03T18:46:07Z",
   "live": [
     {
       "id": 88,
@@ -15,6 +15,7 @@
           "assist": "K. Hafez"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           1,
