@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-03T23:49:52Z",
+  "updated": "2026-07-03T23:50:40Z",
   "live": [
     {
       "id": 86,
       "status": "2H",
-      "minute": 87,
+      "minute": 90,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "L. Messi",
+          "player": "Lionel Messi",
           "minute": 29,
           "team": "ARG",
-          "assist": "L. Martinez"
+          "assist": "Lisandro Martínez"
         },
         {
-          "player": "D. Duarte",
+          "player": "Deroy Duarte",
           "minute": 59,
           "team": "CPV",
-          "assist": "R. Mendes"
+          "assist": "Ryan Mendes"
         }
       ],
       "cardEvents": [
         {
-          "player": "K. Lenini",
+          "player": "Kevin Lenini Pina",
           "minute": 68,
           "team": "CPV",
           "color": "yellow"
@@ -31,67 +31,55 @@
       ],
       "subs": [
         {
-          "out": "L. Martinez",
-          "in": "J. Alvarez",
+          "out": "Lautaro Martínez",
+          "in": "Julián Álvarez",
           "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "T. Almada",
-          "in": "N. Gonzalez",
-          "minute": 64,
+          "out": "Thiago Almada",
+          "in": "Nicolás Iván Gonzalez",
+          "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "L. Duarte",
-          "in": "J. Monteiro",
+          "out": "Laros Duarte",
+          "in": "Jamiro Monteiro",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "N. Da Costa",
-          "in": "D. Livramento",
+          "out": "Nuno Da Costa",
+          "in": "Dailon Livramento",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "R. Mendes",
-          "in": "W. Semedo",
+          "out": "Ryan Mendes",
+          "in": "Willy Semedo",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "J. Cabral",
-          "in": "H. Varela",
+          "out": "Jovane Cabral",
+          "in": "Hélio Varela",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "R. de Paul",
-          "in": "L. Paredes",
+          "out": "Rodrigo De Paul",
+          "in": "Leandro Paredes",
           "minute": 84,
           "team": "ARG"
         },
         {
-          "out": "F. Medina",
-          "in": "N. Tagliafico",
+          "out": "Facundo Medina",
+          "in": "Nicolás Tagliafico",
           "minute": 86,
           "team": "ARG"
         }
       ],
       "stats": {
-        "passesAccurate": [
-          582,
-          262
-        ],
-        "shotsInside": [
-          6,
-          2
-        ],
-        "passesPct": [
-          92,
-          85
-        ],
         "shotsOff": [
           4,
           2
@@ -105,12 +93,8 @@
           4
         ],
         "corners": [
-          4,
+          5,
           2
-        ],
-        "shotsOutside": [
-          4,
-          4
         ],
         "fouls": [
           10,
@@ -120,12 +104,8 @@
           67,
           33
         ],
-        "passesTotal": [
-          631,
-          308
-        ],
         "shotsTotal": [
-          10,
+          12,
           6
         ],
         "red": [
@@ -141,7 +121,7 @@
           1
         ],
         "shotsBlocked": [
-          1,
+          3,
           2
         ],
         "home": "ARG",
@@ -279,9 +259,9 @@
         },
         "referee": "Drew Fischer, Canada",
         "motm": {
-          "player": "Lionel Messi",
-          "rating": 8.5,
-          "team": "ARG"
+          "player": "Deroy Duarte",
+          "rating": 8.06,
+          "team": "CPV"
         }
       }
     }
