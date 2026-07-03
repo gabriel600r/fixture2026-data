@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-03T19:09:49Z",
+  "updated": "2026-07-03T19:10:36Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 48,
+      "minute": 49,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Emam Ashour",
+          "player": "E. Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "Karim Hafez"
+          "assist": "K. Hafez"
         }
       ],
       "subs": [
         {
-          "out": "Jordan Bos",
-          "in": "Kai Trewin",
-          "minute": 45,
+          "out": "J. Bos",
+          "in": "K. Trewin",
+          "minute": 46,
           "team": "AUS"
         }
       ],
@@ -204,7 +204,7 @@
         "referee": "Gustavo Tejera, Uruguay",
         "motm": {
           "player": "Emam Ashour",
-          "rating": 7.2,
+          "rating": 7.94,
           "team": "EGY"
         }
       }
