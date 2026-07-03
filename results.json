@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:34:35Z",
+  "updated": "2026-07-03T20:35:22Z",
   "live": [
     {
       "id": 88,
@@ -83,6 +83,12 @@
           "in": "H. Abdelkarim",
           "minute": 106,
           "team": "EGY"
+        },
+        {
+          "out": "P. Beach",
+          "in": "M. Ryan",
+          "minute": 119,
+          "team": "AUS"
         }
       ],
       "stats": {
