@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-03T18:13:01Z",
+  "updated": "2026-07-03T18:13:48Z",
   "live": [
     {
       "id": 88,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
-          "player": null,
+          "player": "E. Ashour",
           "minute": 13,
-          "team": "EGY"
+          "team": "EGY",
+          "assist": "K. Hafez"
         }
       ],
       "stats": {
