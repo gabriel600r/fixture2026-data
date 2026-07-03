@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-03T03:13:33Z",
+  "updated": "2026-07-03T03:14:20Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "B. Embolo",
-          "minute": 11,
+          "minute": 10,
           "team": "SUI",
           "assist": "J. Manzambi"
         }
