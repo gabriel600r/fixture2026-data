@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-03T19:27:59Z",
+  "updated": "2026-07-03T19:28:46Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 64,
+      "minute": 67,
       "home": 1,
       "away": 1,
       "goals": [
         {
-          "player": "E. Ashour",
+          "player": "Emam Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "K. Hafez"
+          "assist": "Karim Hafez"
         },
         {
-          "player": "M. Hany",
+          "player": "Mohamed Hany",
           "minute": 55,
           "team": "AUS",
           "og": true
@@ -23,9 +23,9 @@
       ],
       "subs": [
         {
-          "out": "J. Bos",
-          "in": "K. Trewin",
-          "minute": 46,
+          "out": "Jordan Bos",
+          "in": "Kai Trewin",
+          "minute": 45,
           "team": "AUS"
         }
       ],
