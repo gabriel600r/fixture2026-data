@@ -1,289 +1,6 @@
 {
-  "updated": "2026-07-03T04:56:24Z",
-  "live": [
-    {
-      "id": 85,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 0,
-      "goals": [
-        {
-          "player": "Breel Embolo",
-          "minute": 10,
-          "team": "SUI",
-          "assist": "Johan Manzambi"
-        },
-        {
-          "player": "Dan Ndoye",
-          "minute": 46,
-          "team": "SUI"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Fares Chaibi",
-          "minute": 36,
-          "team": "ALG",
-          "color": "yellow"
-        },
-        {
-          "player": "Hicham Boudaoui",
-          "minute": 72,
-          "team": "ALG",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Houssem Aouar",
-          "in": "Jaouen Hadjam",
-          "minute": 58,
-          "team": "ALG"
-        },
-        {
-          "out": "Ramiz Zerrouki",
-          "in": "Amine Gouiri",
-          "minute": 58,
-          "team": "ALG"
-        },
-        {
-          "out": "Rubén Vargas",
-          "in": "Fabian Rieder",
-          "minute": 71,
-          "team": "SUI"
-        },
-        {
-          "out": "Johan Manzambi",
-          "in": "Noah Okafor",
-          "minute": 71,
-          "team": "SUI"
-        },
-        {
-          "out": "Riyad Mahrez",
-          "in": "Anis Hadj Moussa",
-          "minute": 71,
-          "team": "ALG"
-        },
-        {
-          "out": "Nabil Bentaleb",
-          "in": "Hicham Boudaoui",
-          "minute": 71,
-          "team": "ALG"
-        },
-        {
-          "out": "Rafik Belghali",
-          "in": "Adil Boulbina",
-          "minute": 82,
-          "team": "ALG"
-        },
-        {
-          "out": "Breel Embolo",
-          "in": "Zeki Amdouni",
-          "minute": 83,
-          "team": "SUI"
-        },
-        {
-          "out": "Denis Zakaria",
-          "in": "Silvan Widmer",
-          "minute": 87,
-          "team": "SUI"
-        },
-        {
-          "out": "Dan Ndoye",
-          "in": "Michel Aebischer",
-          "minute": 87,
-          "team": "SUI"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "offsides": [
-          0,
-          2
-        ],
-        "corners": [
-          4,
-          2
-        ],
-        "possession": [
-          44,
-          56
-        ],
-        "shotsOn": [
-          4,
-          2
-        ],
-        "shotsOff": [
-          4,
-          3
-        ],
-        "saves": [
-          2,
-          1
-        ],
-        "yellow": [
-          0,
-          2
-        ],
-        "shotsTotal": [
-          9,
-          8
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsBlocked": [
-          1,
-          3
-        ],
-        "fouls": [
-          10,
-          12
-        ],
-        "home": "SUI",
-        "away": "ALG"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Murat Yakin",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Gregor Kobel",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Denis Zakaria",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Nico Elvedi",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Manuel Akanji",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Ricardo Rodríguez",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Remo Freuler",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Granit Xhaka",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Dan Ndoye",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Johan Manzambi",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Rubén Vargas",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Breel Embolo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-3-3",
-            "coach": "Vladimir Petkovic",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Luca Zidane",
-                "pos": "G"
-              },
-              {
-                "n": 17,
-                "name": "Rafik Belghali",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Aïssa Mandi",
-                "pos": "D"
-              },
-              {
-                "n": 21,
-                "name": "Ramy Bensebaini",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Rayan Aït-Nouri",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Ramiz Zerrouki",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Nabil Bentaleb",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Farès Chaïbi",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Riyad Mahrez",
-                "pos": "F"
-              },
-              {
-                "n": 22,
-                "name": "Ibrahim Maza",
-                "pos": "F"
-              },
-              {
-                "n": 8,
-                "name": "Houssem Aouar",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Yael Falcon Perez, Argentina",
-        "motm": {
-          "player": "D. Ndoye",
-          "rating": 8.14,
-          "team": "SUI"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-03T04:57:11Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -26068,6 +25785,285 @@
           "team": "ESP"
         }
       }
+    },
+    {
+      "id": 85,
+      "home": 2,
+      "away": 0,
+      "goals": [
+        {
+          "player": "Breel Embolo",
+          "minute": 10,
+          "team": "SUI",
+          "assist": "Johan Manzambi"
+        },
+        {
+          "player": "Dan Ndoye",
+          "minute": 46,
+          "team": "SUI"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Fares Chaibi",
+          "minute": 36,
+          "team": "ALG",
+          "color": "yellow"
+        },
+        {
+          "player": "Hicham Boudaoui",
+          "minute": 72,
+          "team": "ALG",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Houssem Aouar",
+          "in": "Jaouen Hadjam",
+          "minute": 58,
+          "team": "ALG"
+        },
+        {
+          "out": "Ramiz Zerrouki",
+          "in": "Amine Gouiri",
+          "minute": 58,
+          "team": "ALG"
+        },
+        {
+          "out": "Rubén Vargas",
+          "in": "Fabian Rieder",
+          "minute": 71,
+          "team": "SUI"
+        },
+        {
+          "out": "Johan Manzambi",
+          "in": "Noah Okafor",
+          "minute": 71,
+          "team": "SUI"
+        },
+        {
+          "out": "Riyad Mahrez",
+          "in": "Anis Hadj Moussa",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "Nabil Bentaleb",
+          "in": "Hicham Boudaoui",
+          "minute": 71,
+          "team": "ALG"
+        },
+        {
+          "out": "Rafik Belghali",
+          "in": "Adil Boulbina",
+          "minute": 82,
+          "team": "ALG"
+        },
+        {
+          "out": "Breel Embolo",
+          "in": "Zeki Amdouni",
+          "minute": 83,
+          "team": "SUI"
+        },
+        {
+          "out": "Denis Zakaria",
+          "in": "Silvan Widmer",
+          "minute": 87,
+          "team": "SUI"
+        },
+        {
+          "out": "Dan Ndoye",
+          "in": "Michel Aebischer",
+          "minute": 87,
+          "team": "SUI"
+        }
+      ],
+      "stats": {
+        "offsides": [
+          0,
+          2
+        ],
+        "corners": [
+          4,
+          2
+        ],
+        "possession": [
+          44,
+          56
+        ],
+        "shotsOn": [
+          4,
+          2
+        ],
+        "shotsOff": [
+          4,
+          3
+        ],
+        "saves": [
+          2,
+          1
+        ],
+        "yellow": [
+          0,
+          2
+        ],
+        "shotsTotal": [
+          9,
+          8
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsBlocked": [
+          1,
+          3
+        ],
+        "fouls": [
+          10,
+          12
+        ],
+        "home": "SUI",
+        "away": "ALG"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Murat Yakin",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Gregor Kobel",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Denis Zakaria",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Akanji",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ricardo Rodríguez",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Remo Freuler",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Granit Xhaka",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Johan Manzambi",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Rubén Vargas",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Breel Embolo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-3-3",
+            "coach": "Vladimir Petkovic",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Luca Zidane",
+                "pos": "G"
+              },
+              {
+                "n": 17,
+                "name": "Rafik Belghali",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Aïssa Mandi",
+                "pos": "D"
+              },
+              {
+                "n": 21,
+                "name": "Ramy Bensebaini",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Rayan Aït-Nouri",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Ramiz Zerrouki",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Nabil Bentaleb",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Riyad Mahrez",
+                "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "Ibrahim Maza",
+                "pos": "F"
+              },
+              {
+                "n": 8,
+                "name": "Houssem Aouar",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Yael Falcon Perez, Argentina",
+        "motm": {
+          "player": "D. Ndoye",
+          "rating": 8.14,
+          "team": "SUI"
+        }
+      }
     }
   ],
   "stats": {
@@ -26174,10 +26170,10 @@
         "goals": 3
       },
       {
-        "player": "J. Manzambi",
+        "player": "Johan Manzambi",
         "team": "SUI",
         "goals": 3,
-        "assists": 1
+        "assists": 2
       },
       {
         "player": "Julián Quiñones",
@@ -26189,6 +26185,13 @@
         "player": "M. Cunha",
         "team": "BRA",
         "goals": 3
+      },
+      {
+        "player": "Breel Embolo",
+        "team": "SUI",
+        "goals": 2,
+        "penalties": 1,
+        "assists": 2
       },
       {
         "player": "M. Arnautovic",
@@ -26234,11 +26237,6 @@
         "team": "NED",
         "goals": 2,
         "assists": 2
-      },
-      {
-        "player": "D. Kamada",
-        "team": "JPN",
-        "goals": 2
       }
     ],
     "assists": [
@@ -26279,12 +26277,6 @@
         "assists": 2
       },
       {
-        "player": "B. Embolo",
-        "team": "SUI",
-        "assists": 2,
-        "goals": 1
-      },
-      {
         "player": "B. Saka",
         "team": "ENG",
         "assists": 2
@@ -26293,6 +26285,12 @@
         "player": "Brahim Díaz",
         "team": "MAR",
         "assists": 2
+      },
+      {
+        "player": "Breel Embolo",
+        "team": "SUI",
+        "assists": 2,
+        "goals": 2
       },
       {
         "player": "C. Summerville",
@@ -26336,6 +26334,12 @@
         "player": "J. Kimmich",
         "team": "GER",
         "assists": 2
+      },
+      {
+        "player": "Johan Manzambi",
+        "team": "SUI",
+        "assists": 2,
+        "goals": 3
       },
       {
         "player": "Julio Enciso",
@@ -26396,12 +26400,6 @@
       {
         "player": "A. Baena",
         "team": "ESP",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "player": "A. Hakimi",
-        "team": "MAR",
         "assists": 1,
         "goals": 1
       }
@@ -26647,6 +26645,20 @@
       "form": "DWWW"
     },
     {
+      "code": "SUI",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "loses": 0,
+      "gf": 9,
+      "ga": 3,
+      "cleanSheets": 1,
+      "failedToScore": 0,
+      "biggestWin": "4-1",
+      "biggestLose": "",
+      "form": "DWWW"
+    },
+    {
       "code": "ENG",
       "played": 4,
       "wins": 3,
@@ -26785,20 +26797,6 @@
       "biggestWin": "7-1",
       "biggestLose": "1-2",
       "form": "WWLD"
-    },
-    {
-      "code": "SUI",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 7,
-      "ga": 3,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "DWW"
     },
     {
       "code": "COL",
@@ -26955,20 +26953,6 @@
       "form": "LDWL"
     },
     {
-      "code": "ALG",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "loses": 1,
-      "gf": 5,
-      "ga": 7,
-      "cleanSheets": 0,
-      "failedToScore": 1,
-      "biggestWin": "2-1",
-      "biggestLose": "0-3",
-      "form": "LWD"
-    },
-    {
       "code": "BIH",
       "played": 4,
       "wins": 1,
@@ -27009,6 +26993,20 @@
       "biggestWin": "3-1",
       "biggestLose": "0-3",
       "form": "WLDL"
+    },
+    {
+      "code": "ALG",
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "loses": 2,
+      "gf": 5,
+      "ga": 9,
+      "cleanSheets": 0,
+      "failedToScore": 2,
+      "biggestWin": "2-1",
+      "biggestLose": "0-3",
+      "form": "LWDL"
     },
     {
       "code": "SEN",
