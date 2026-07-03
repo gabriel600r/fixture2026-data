@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T01:04:41Z",
+  "updated": "2026-07-03T01:05:28Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 90,
+      "minute": 46,
       "home": 2,
       "away": 2,
       "goals": [
@@ -107,7 +107,6 @@
           "team": "CRO"
         }
       ],
-      "extra": 15,
       "stats": {
         "offsides": [
           1,
