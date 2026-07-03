@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:35:08Z",
+  "updated": "2026-07-03T19:35:55Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 1,
       "goals": [
@@ -95,16 +95,16 @@
           85
         ],
         "passesAccurate": [
-          249,
-          340
+          253,
+          341
         ],
         "shotsOff": [
           4,
           1
         ],
         "passesTotal": [
-          307,
-          398
+          311,
+          399
         ],
         "home": "AUS",
         "away": "EGY"
