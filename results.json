@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:50:24Z",
+  "updated": "2026-07-03T20:51:12Z",
   "live": [
     {
       "id": 88,
@@ -348,6 +348,12 @@
           "team": "EGY",
           "scored": true,
           "order": 6
+        },
+        {
+          "player": "L. Herrington",
+          "team": "AUS",
+          "scored": false,
+          "order": 7
         }
       ]
     }
