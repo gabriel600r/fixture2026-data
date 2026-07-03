@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:52:15Z",
+  "updated": "2026-07-03T23:53:03Z",
   "live": [
     {
       "id": 86,
@@ -81,6 +81,18 @@
       ],
       "extra": 1,
       "stats": {
+        "passesAccurate": [
+          602,
+          262
+        ],
+        "shotsInside": [
+          7,
+          2
+        ],
+        "passesPct": [
+          92,
+          85
+        ],
         "shotsOff": [
           4,
           2
@@ -97,6 +109,10 @@
           5,
           2
         ],
+        "shotsOutside": [
+          4,
+          4
+        ],
         "fouls": [
           10,
           8
@@ -105,8 +121,12 @@
           68,
           32
         ],
+        "passesTotal": [
+          652,
+          308
+        ],
         "shotsTotal": [
-          12,
+          11,
           6
         ],
         "red": [
@@ -122,7 +142,7 @@
           1
         ],
         "shotsBlocked": [
-          3,
+          2,
           2
         ],
         "home": "ARG",
@@ -260,9 +280,9 @@
         },
         "referee": "Drew Fischer, Canada",
         "motm": {
-          "player": "Deroy Duarte",
-          "rating": 8.06,
-          "team": "CPV"
+          "player": "Lionel Messi",
+          "rating": 8.3,
+          "team": "ARG"
         }
       }
     }
