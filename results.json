@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:59:19Z",
+  "updated": "2026-07-03T04:00:14Z",
   "live": [
     {
       "id": 85,
@@ -9,15 +9,15 @@
       "away": 0,
       "goals": [
         {
-          "player": "B. Embolo",
+          "player": "Breel Embolo",
           "minute": 10,
           "team": "SUI",
-          "assist": "J. Manzambi"
+          "assist": "Johan Manzambi"
         }
       ],
       "cardEvents": [
         {
-          "player": "F. Chaibi",
+          "player": "Fares Chaibi",
           "minute": 36,
           "team": "ALG",
           "color": "yellow"
