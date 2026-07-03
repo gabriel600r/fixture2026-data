@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:28:46Z",
+  "updated": "2026-07-03T19:29:33Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
       "away": 1,
       "goals": [
@@ -27,15 +27,27 @@
           "in": "Kai Trewin",
           "minute": 45,
           "team": "AUS"
+        },
+        {
+          "out": "Mostafa Zico",
+          "in": "Haissem Hassan",
+          "minute": 67,
+          "team": "EGY"
+        },
+        {
+          "out": "Hamdy Fathy",
+          "in": "Hossam Abdelmaguid",
+          "minute": 67,
+          "team": "EGY"
         }
       ],
       "stats": {
         "shotsBlocked": [
-          1,
+          2,
           2
         ],
         "shotsTotal": [
-          6,
+          7,
           4
         ],
         "shotsOn": [
@@ -43,56 +55,36 @@
           1
         ],
         "fouls": [
-          4,
+          5,
           6
         ],
         "corners": [
           3,
           0
         ],
-        "possession": [
-          45,
-          55
-        ],
         "red": [
           0,
           0
         ],
-        "shotsInside": [
-          4,
-          4
-        ],
-        "offsides": [
-          0,
-          2
-        ],
-        "shotsOutside": [
-          2,
-          0
+        "possession": [
+          44,
+          56
         ],
         "saves": [
           0,
           1
         ],
+        "offsides": [
+          0,
+          3
+        ],
         "yellow": [
           0,
           0
         ],
-        "passesPct": [
-          80,
-          85
-        ],
-        "passesAccurate": [
-          213,
-          297
-        ],
         "shotsOff": [
           4,
           1
-        ],
-        "passesTotal": [
-          265,
-          348
         ],
         "home": "AUS",
         "away": "EGY"
