@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:23:34Z",
+  "updated": "2026-07-03T00:24:22Z",
   "live": [
     {
       "id": 83,
@@ -50,6 +50,12 @@
         {
           "out": "B. Fernandes",
           "in": "N. Semedo",
+          "minute": 63,
+          "team": "POR"
+        },
+        {
+          "out": "J. Cancelo",
+          "in": "G. Ramos",
           "minute": 63,
           "team": "POR"
         }
