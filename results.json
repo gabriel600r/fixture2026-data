@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:18:32Z",
+  "updated": "2026-07-03T18:19:19Z",
   "live": [
     {
       "id": 88,
@@ -17,12 +17,12 @@
       ],
       "stats": {
         "shotsBlocked": [
-          0,
-          1
-        ],
-        "shotsTotal": [
           1,
           2
+        ],
+        "shotsTotal": [
+          3,
+          3
         ],
         "shotsOn": [
           0,
@@ -37,16 +37,16 @@
           0
         ],
         "possession": [
-          31,
-          69
+          30,
+          70
         ],
         "red": [
           0,
           0
         ],
         "shotsInside": [
-          0,
-          2
+          2,
+          3
         ],
         "offsides": [
           0,
@@ -65,20 +65,20 @@
           0
         ],
         "passesPct": [
-          68,
-          87
+          70,
+          88
         ],
         "passesAccurate": [
-          30,
-          86
+          40,
+          116
         ],
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "passesTotal": [
-          44,
-          99
+          57,
+          132
         ],
         "home": "AUS",
         "away": "EGY"
