@@ -1,18 +1,26 @@
 {
-  "updated": "2026-07-03T19:09:02Z",
+  "updated": "2026-07-03T19:09:49Z",
   "live": [
     {
       "id": 88,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 48,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "E. Ashour",
+          "player": "Emam Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "K. Hafez"
+          "assist": "Karim Hafez"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Jordan Bos",
+          "in": "Kai Trewin",
+          "minute": 45,
+          "team": "AUS"
         }
       ],
       "stats": {
@@ -21,8 +29,8 @@
           2
         ],
         "shotsTotal": [
-          5,
-          3
+          6,
+          4
         ],
         "shotsOn": [
           1,
@@ -30,55 +38,35 @@
         ],
         "fouls": [
           4,
-          3
+          4
         ],
         "corners": [
           3,
           0
         ],
-        "possession": [
-          42,
-          58
-        ],
         "red": [
           0,
           0
         ],
-        "shotsInside": [
-          3,
-          3
-        ],
-        "offsides": [
-          0,
-          2
-        ],
-        "shotsOutside": [
-          2,
-          0
+        "possession": [
+          43,
+          57
         ],
         "saves": [
           0,
           1
         ],
+        "offsides": [
+          0,
+          2
+        ],
         "yellow": [
           0,
           0
         ],
-        "passesPct": [
-          80,
-          86
-        ],
-        "passesAccurate": [
-          147,
-          231
-        ],
         "shotsOff": [
-          3,
-          0
-        ],
-        "passesTotal": [
-          184,
-          268
+          4,
+          1
         ],
         "home": "AUS",
         "away": "EGY"
@@ -213,7 +201,12 @@
             ]
           }
         },
-        "referee": "Gustavo Tejera, Uruguay"
+        "referee": "Gustavo Tejera, Uruguay",
+        "motm": {
+          "player": "Emam Ashour",
+          "rating": 7.2,
+          "team": "EGY"
+        }
       }
     }
   ],
