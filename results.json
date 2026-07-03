@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:03:40Z",
+  "updated": "2026-07-03T20:04:27Z",
   "live": [
     {
       "id": 88,
@@ -57,6 +57,18 @@
           "in": "Trezeguet",
           "minute": 80,
           "team": "EGY"
+        },
+        {
+          "out": "A. O'Neill",
+          "in": "P. Okon-Engstler",
+          "minute": 91,
+          "team": "AUS"
+        },
+        {
+          "out": "C. Metcalfe",
+          "in": "A. Mabil",
+          "minute": 91,
+          "team": "AUS"
         }
       ],
       "stats": {
