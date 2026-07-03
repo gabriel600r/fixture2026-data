@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T20:18:00Z",
+  "updated": "2026-07-03T20:18:48Z",
   "live": [
     {
       "id": 88,
       "status": "ET",
-      "minute": 105,
+      "minute": 106,
       "home": 1,
       "away": 1,
       "goals": [
@@ -19,6 +19,14 @@
           "minute": 55,
           "team": "AUS",
           "og": true
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "H. Hassan",
+          "minute": 105,
+          "team": "EGY",
+          "color": "yellow"
         }
       ],
       "subs": [
