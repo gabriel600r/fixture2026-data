@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:10:56Z",
+  "updated": "2026-07-03T00:11:43Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -30,11 +30,11 @@
         ],
         "shotsInside": [
           5,
-          2
+          4
         ],
         "corners": [
           6,
-          0
+          1
         ],
         "possession": [
           68,
@@ -45,12 +45,12 @@
           1
         ],
         "passesAccurate": [
-          336,
-          138
+          348,
+          145
         ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "saves": [
           1,
@@ -62,7 +62,7 @@
         ],
         "shotsTotal": [
           9,
-          3
+          5
         ],
         "shotsOutside": [
           4,
@@ -81,8 +81,8 @@
           1
         ],
         "passesTotal": [
-          361,
-          167
+          376,
+          174
         ],
         "fouls": [
           5,
@@ -224,7 +224,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Nuno Mendes",
-          "rating": 7.5,
+          "rating": 7.3,
           "team": "POR"
         }
       }
