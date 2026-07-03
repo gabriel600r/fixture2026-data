@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:47:41Z",
+  "updated": "2026-07-03T18:48:28Z",
   "live": [
     {
       "id": 88,
@@ -9,13 +9,13 @@
       "away": 1,
       "goals": [
         {
-          "player": "E. Ashour",
+          "player": "Emam Ashour",
           "minute": 13,
           "team": "EGY",
-          "assist": "K. Hafez"
+          "assist": "Karim Hafez"
         }
       ],
-      "extra": 1,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
           1,
