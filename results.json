@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:50:40Z",
+  "updated": "2026-07-03T23:51:28Z",
   "live": [
     {
       "id": 86,
@@ -9,21 +9,21 @@
       "away": 1,
       "goals": [
         {
-          "player": "Lionel Messi",
+          "player": "L. Messi",
           "minute": 29,
           "team": "ARG",
-          "assist": "Lisandro Martínez"
+          "assist": "L. Martinez"
         },
         {
-          "player": "Deroy Duarte",
+          "player": "D. Duarte",
           "minute": 59,
           "team": "CPV",
-          "assist": "Ryan Mendes"
+          "assist": "R. Mendes"
         }
       ],
       "cardEvents": [
         {
-          "player": "Kevin Lenini Pina",
+          "player": "K. Lenini",
           "minute": 68,
           "team": "CPV",
           "color": "yellow"
@@ -31,54 +31,55 @@
       ],
       "subs": [
         {
-          "out": "Lautaro Martínez",
-          "in": "Julián Álvarez",
+          "out": "L. Martinez",
+          "in": "J. Alvarez",
           "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "Thiago Almada",
-          "in": "Nicolás Iván Gonzalez",
-          "minute": 63,
+          "out": "T. Almada",
+          "in": "N. Gonzalez",
+          "minute": 64,
           "team": "ARG"
         },
         {
-          "out": "Laros Duarte",
-          "in": "Jamiro Monteiro",
+          "out": "L. Duarte",
+          "in": "J. Monteiro",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "Nuno Da Costa",
-          "in": "Dailon Livramento",
+          "out": "N. Da Costa",
+          "in": "D. Livramento",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "Ryan Mendes",
-          "in": "Willy Semedo",
+          "out": "R. Mendes",
+          "in": "W. Semedo",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "Jovane Cabral",
-          "in": "Hélio Varela",
+          "out": "J. Cabral",
+          "in": "H. Varela",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "Rodrigo De Paul",
-          "in": "Leandro Paredes",
+          "out": "R. de Paul",
+          "in": "L. Paredes",
           "minute": 84,
           "team": "ARG"
         },
         {
-          "out": "Facundo Medina",
-          "in": "Nicolás Tagliafico",
+          "out": "F. Medina",
+          "in": "N. Tagliafico",
           "minute": 86,
           "team": "ARG"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           4,
