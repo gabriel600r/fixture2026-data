@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T00:48:51Z",
+  "updated": "2026-07-03T00:49:38Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 1,
       "goals": [
@@ -84,16 +84,16 @@
           3
         ],
         "shotsInside": [
-          6,
-          8
+          7,
+          9
         ],
         "corners": [
-          7,
+          8,
           4
         ],
         "possession": [
-          62,
-          38
+          61,
+          39
         ],
         "shotsOn": [
           2,
@@ -101,11 +101,11 @@
         ],
         "passesAccurate": [
           463,
-          254
+          273
         ],
         "shotsOff": [
-          5,
-          4
+          6,
+          5
         ],
         "saves": [
           5,
@@ -116,8 +116,8 @@
           1
         ],
         "shotsTotal": [
-          11,
-          11
+          12,
+          12
         ],
         "shotsOutside": [
           5,
@@ -129,7 +129,7 @@
         ],
         "passesPct": [
           92,
-          86
+          87
         ],
         "shotsBlocked": [
           4,
@@ -137,7 +137,7 @@
         ],
         "passesTotal": [
           506,
-          296
+          315
         ],
         "fouls": [
           6,
@@ -279,7 +279,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Ivan Perišić",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "CRO"
         }
       }
