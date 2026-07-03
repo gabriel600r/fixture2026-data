@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-03T01:03:06Z",
+  "updated": "2026-07-03T01:03:54Z",
   "live": [
     {
       "id": 83,
       "status": "2H",
       "minute": 90,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "I. Perisic",
@@ -24,6 +24,11 @@
           "minute": 90,
           "team": "POR",
           "assist": "R. Leao"
+        },
+        {
+          "player": "J. Gvardiol",
+          "minute": 90,
+          "team": "CRO"
         }
       ],
       "cardEvents": [
@@ -102,7 +107,7 @@
           "team": "CRO"
         }
       ],
-      "extra": 13,
+      "extra": 14,
       "stats": {
         "offsides": [
           1,
@@ -303,9 +308,9 @@
         },
         "referee": "Espen Eskas, Norway",
         "motm": {
-          "player": "Ivan Perišić",
+          "player": "Gonçalo Ramos",
           "rating": 7.9,
-          "team": "CRO"
+          "team": "POR"
         }
       }
     }
