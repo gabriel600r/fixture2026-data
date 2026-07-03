@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:38:15Z",
+  "updated": "2026-07-03T04:39:02Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 2,
       "away": 0,
       "goals": [
@@ -83,7 +83,7 @@
         ],
         "corners": [
           4,
-          1
+          2
         ],
         "possession": [
           44,
@@ -94,12 +94,12 @@
           2
         ],
         "passesAccurate": [
-          286,
-          387
+          290,
+          396
         ],
         "shotsOff": [
           2,
-          2
+          3
         ],
         "saves": [
           2,
@@ -111,18 +111,18 @@
         ],
         "shotsTotal": [
           7,
-          6
+          7
         ],
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "red": [
           0,
           0
         ],
         "passesPct": [
-          82,
+          81,
           84
         ],
         "shotsBlocked": [
@@ -130,8 +130,8 @@
           2
         ],
         "passesTotal": [
-          350,
-          459
+          356,
+          469
         ],
         "fouls": [
           6,
