@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:24:50Z",
+  "updated": "2026-07-03T04:25:37Z",
   "live": [
     {
       "id": 85,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 2,
       "away": 0,
       "goals": [
@@ -48,7 +48,7 @@
           1
         ],
         "corners": [
-          3,
+          4,
           1
         ],
         "possession": [
@@ -84,7 +84,7 @@
           2
         ],
         "fouls": [
-          5,
+          6,
           8
         ],
         "home": "SUI",
