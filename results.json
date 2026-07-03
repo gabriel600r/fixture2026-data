@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T19:45:24Z",
+  "updated": "2026-07-03T19:46:11Z",
   "live": [
     {
       "id": 88,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 1,
       "away": 1,
       "goals": [
@@ -260,7 +260,7 @@
         "referee": "Gustavo Tejera, Uruguay",
         "motm": {
           "player": "Emam Ashour",
-          "rating": 7.2,
+          "rating": 7.0,
           "team": "EGY"
         }
       }
