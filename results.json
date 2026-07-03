@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:55:10Z",
+  "updated": "2026-07-03T00:55:57Z",
   "live": [
     {
       "id": 83,
@@ -90,14 +90,14 @@
           "team": "CRO"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "offsides": [
           1,
           3
         ],
         "shotsInside": [
-          8,
+          9,
           9
         ],
         "corners": [
@@ -105,15 +105,15 @@
           4
         ],
         "possession": [
-          62,
-          38
+          63,
+          37
         ],
         "shotsOn": [
-          2,
+          3,
           6
         ],
         "passesAccurate": [
-          503,
+          512,
           280
         ],
         "shotsOff": [
@@ -129,7 +129,7 @@
           1
         ],
         "shotsTotal": [
-          13,
+          14,
           12
         ],
         "shotsOutside": [
@@ -149,7 +149,7 @@
           1
         ],
         "passesTotal": [
-          548,
+          558,
           325
         ],
         "fouls": [
@@ -292,7 +292,7 @@
         "referee": "Espen Eskas, Norway",
         "motm": {
           "player": "Ivan Perišić",
-          "rating": 7.9,
+          "rating": 7.6,
           "team": "CRO"
         }
       }
