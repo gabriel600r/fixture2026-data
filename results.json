@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T03:19:03Z",
+  "updated": "2026-07-03T03:19:50Z",
   "live": [
     {
       "id": 85,
       "status": "1H",
-      "minute": 19,
+      "minute": 20,
       "home": 1,
       "away": 0,
       "goals": [
@@ -152,7 +152,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-3-3",
             "coach": "Vladimir Petkovic",
             "xi": [
               {
@@ -191,23 +191,23 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Riyad Mahrez",
-                "pos": "M"
-              },
-              {
                 "n": 8,
                 "name": "Houssem Aouar",
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Farès Chaïbi",
-                "pos": "M"
+                "n": 7,
+                "name": "Riyad Mahrez",
+                "pos": "F"
               },
               {
                 "n": 22,
                 "name": "Ibrahim Maza",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Farès Chaïbi",
                 "pos": "F"
               }
             ]
