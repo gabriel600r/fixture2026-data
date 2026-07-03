@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:24:26Z",
+  "updated": "2026-07-03T23:25:14Z",
   "live": [
     {
       "id": 86,
@@ -19,6 +19,20 @@
           "minute": 59,
           "team": "CPV",
           "assist": "R. Mendes"
+        }
+      ],
+      "subs": [
+        {
+          "out": "L. Martinez",
+          "in": "J. Alvarez",
+          "minute": 63,
+          "team": "ARG"
+        },
+        {
+          "out": "T. Almada",
+          "in": "N. Gonzalez",
+          "minute": 64,
+          "team": "ARG"
         }
       ],
       "stats": {
