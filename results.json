@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T20:21:09Z",
+  "updated": "2026-07-03T20:21:57Z",
   "live": [
     {
       "id": 88,
       "status": "ET",
-      "minute": 106,
+      "minute": 94,
       "home": 1,
       "away": 1,
       "goals": [
@@ -77,6 +77,12 @@
           "in": "A. Mabil",
           "minute": 91,
           "team": "AUS"
+        },
+        {
+          "out": "O. Marmoush",
+          "in": "H. Abdelkarim",
+          "minute": 106,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -94,7 +100,7 @@
         ],
         "fouls": [
           9,
-          10
+          11
         ],
         "corners": [
           4,
@@ -126,7 +132,7 @@
         ],
         "yellow": [
           0,
-          0
+          1
         ],
         "passesPct": [
           79,
@@ -134,7 +140,7 @@
         ],
         "passesAccurate": [
           369,
-          551
+          553
         ],
         "shotsOff": [
           4,
@@ -142,7 +148,7 @@
         ],
         "passesTotal": [
           466,
-          642
+          644
         ],
         "home": "AUS",
         "away": "EGY"
