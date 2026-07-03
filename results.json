@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T18:11:26Z",
+  "updated": "2026-07-03T18:12:13Z",
   "live": [
     {
       "id": 88,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "stats": {
@@ -112,13 +112,13 @@
                 "pos": "M"
               },
               {
-                "n": 13,
-                "name": "Aiden O'Neill",
+                "n": 22,
+                "name": "Jackson Irvine",
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Jackson Irvine",
+                "n": 13,
+                "name": "Aiden O'Neill",
                 "pos": "M"
               },
               {
@@ -158,13 +158,13 @@
                 "pos": "D"
               },
               {
-                "n": 5,
-                "name": "Rami Rabia",
+                "n": 2,
+                "name": "Yasser Ibrahim",
                 "pos": "D"
               },
               {
-                "n": 2,
-                "name": "Yasser Ibrahim",
+                "n": 5,
+                "name": "Rami Rabia",
                 "pos": "D"
               },
               {
@@ -193,13 +193,13 @@
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "Mostafa Ziko",
+                "n": 22,
+                "name": "Omar Marmoush",
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Omar Marmoush",
+                "n": 11,
+                "name": "Mostafa Ziko",
                 "pos": "F"
               }
             ]
