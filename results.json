@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:31:08Z",
+  "updated": "2026-07-04T00:31:56Z",
   "live": [
     {
       "id": 86,
@@ -9,33 +9,33 @@
       "away": 2,
       "goals": [
         {
-          "player": "L. Messi",
+          "player": "Lionel Messi",
           "minute": 29,
           "team": "ARG",
-          "assist": "L. Martinez"
+          "assist": "Lisandro Martínez"
         },
         {
-          "player": "D. Duarte",
+          "player": "Deroy Duarte",
           "minute": 59,
           "team": "CPV",
-          "assist": "R. Mendes"
+          "assist": "Ryan Mendes"
         },
         {
-          "player": "L. Martinez",
+          "player": "Lisandro Martínez",
           "minute": 92,
           "team": "ARG",
-          "assist": "A. Mac Allister"
+          "assist": "Alexis Mac Allister"
         },
         {
-          "player": "S. Lopes Cabral",
+          "player": "Sidny Lopes Cabral",
           "minute": 103,
           "team": "CPV",
-          "assist": "Y. Semedo"
+          "assist": "Yannick Semedo"
         }
       ],
       "cardEvents": [
         {
-          "player": "K. Lenini",
+          "player": "Kevin Lenini Pina",
           "minute": 68,
           "team": "CPV",
           "color": "yellow"
@@ -43,76 +43,76 @@
       ],
       "subs": [
         {
-          "out": "L. Martinez",
-          "in": "J. Alvarez",
+          "out": "Lautaro Martínez",
+          "in": "Julián Álvarez",
           "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "T. Almada",
-          "in": "N. Gonzalez",
-          "minute": 64,
+          "out": "Thiago Almada",
+          "in": "Nicolás Iván Gonzalez",
+          "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "L. Duarte",
-          "in": "J. Monteiro",
+          "out": "Laros Duarte",
+          "in": "Jamiro Monteiro",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "N. Da Costa",
-          "in": "D. Livramento",
+          "out": "Nuno Da Costa",
+          "in": "Dailon Livramento",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "R. Mendes",
-          "in": "W. Semedo",
+          "out": "Ryan Mendes",
+          "in": "Willy Semedo",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "J. Cabral",
-          "in": "H. Varela",
+          "out": "Jovane Cabral",
+          "in": "Hélio Varela",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "R. de Paul",
-          "in": "L. Paredes",
+          "out": "Rodrigo De Paul",
+          "in": "Leandro Paredes",
           "minute": 84,
           "team": "ARG"
         },
         {
-          "out": "F. Medina",
-          "in": "N. Tagliafico",
+          "out": "Facundo Medina",
+          "in": "Nicolás Tagliafico",
           "minute": 86,
           "team": "ARG"
         },
         {
-          "out": "D. Duarte",
-          "in": "Y. Semedo",
+          "out": "Deroy Duarte",
+          "in": "Yannick Semedo",
           "minute": 100,
           "team": "CPV"
         },
         {
-          "out": "K. Lenini",
-          "in": "Benchimol",
+          "out": "Kevin Lenini Pina",
+          "in": "Gilson Benchimol",
           "minute": 100,
           "team": "CPV"
         },
         {
-          "out": "N. Molina",
-          "in": "G. Montiel",
+          "out": "Nahuel Molina",
+          "in": "Gonzalo Montiel",
           "minute": 104,
           "team": "ARG"
         }
       ],
       "stats": {
         "passesAccurate": [
-          727,
-          373
+          765,
+          375
         ],
         "shotsInside": [
           14,
@@ -120,11 +120,11 @@
         ],
         "passesPct": [
           92,
-          87
+          86
         ],
         "shotsOff": [
           4,
-          3
+          4
         ],
         "yellow": [
           0,
@@ -140,23 +140,23 @@
         ],
         "shotsOutside": [
           7,
-          5
+          6
         ],
         "fouls": [
           12,
-          10
+          12
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "passesTotal": [
-          788,
-          430
+          828,
+          435
         ],
         "shotsTotal": [
           21,
-          9
+          10
         ],
         "red": [
           0,
@@ -167,7 +167,7 @@
           3
         ],
         "offsides": [
-          2,
+          3,
           1
         ],
         "shotsBlocked": [
