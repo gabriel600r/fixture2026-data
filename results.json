@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T17:21:19Z",
+  "updated": "2026-07-04T17:22:07Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -105,13 +105,13 @@
                 "pos": "D"
               },
               {
-                "n": 4,
-                "name": "Luc De Fougerolles",
+                "n": 15,
+                "name": "Moise Bombito",
                 "pos": "D"
               },
               {
-                "n": 15,
-                "name": "Moise Bombito",
+                "n": 4,
+                "name": "Luc De Fougerolles",
                 "pos": "D"
               },
               {
