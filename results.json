@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:14:54Z",
+  "updated": "2026-07-04T00:15:42Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 100,
+      "minute": 101,
       "home": 2,
       "away": 1,
       "goals": [
@@ -89,16 +89,22 @@
           "in": "Y. Semedo",
           "minute": 100,
           "team": "CPV"
+        },
+        {
+          "out": "K. Lenini",
+          "in": "Benchimol",
+          "minute": 100,
+          "team": "CPV"
         }
       ],
       "stats": {
         "passesAccurate": [
-          663,
-          304
+          685,
+          318
         ],
         "shotsInside": [
-          10,
-          2
+          12,
+          3
         ],
         "passesPct": [
           92,
@@ -106,7 +112,7 @@
         ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "yellow": [
           0,
@@ -117,12 +123,12 @@
           7
         ],
         "corners": [
-          6,
-          2
+          7,
+          5
         ],
         "shotsOutside": [
-          6,
-          4
+          7,
+          5
         ],
         "fouls": [
           12,
@@ -133,12 +139,12 @@
           34
         ],
         "passesTotal": [
-          719,
-          358
+          741,
+          372
         ],
         "shotsTotal": [
-          16,
-          6
+          19,
+          8
         ],
         "red": [
           0,
@@ -153,8 +159,8 @@
           1
         ],
         "shotsBlocked": [
-          3,
-          2
+          6,
+          3
         ],
         "home": "ARG",
         "away": "CPV"
