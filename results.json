@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:34:40Z",
+  "updated": "2026-07-04T22:36:14Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 71,
+      "minute": 73,
       "home": 0,
       "away": 1,
       "goals": [
@@ -41,6 +41,18 @@
           "in": "D. Doue",
           "minute": 61,
           "team": "FRA"
+        },
+        {
+          "out": "G. Gomez",
+          "in": "Mauricio",
+          "minute": 71,
+          "team": "PAR"
+        },
+        {
+          "out": "M. Almiron",
+          "in": "G. Avalos",
+          "minute": 72,
+          "team": "PAR"
         }
       ],
       "stats": {
