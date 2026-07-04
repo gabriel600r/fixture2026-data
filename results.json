@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T02:54:51Z",
+  "updated": "2026-07-04T02:55:39Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 0,
       "goals": [
@@ -47,6 +47,12 @@
           "in": "R. Rios",
           "minute": 46,
           "team": "COL"
+        },
+        {
+          "out": "I. Williams",
+          "in": "I. Fatawu",
+          "minute": 62,
+          "team": "GHA"
         }
       ],
       "stats": {
