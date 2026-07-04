@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:57:59Z",
+  "updated": "2026-07-04T18:00:25Z",
   "live": [
     {
       "id": 90,
@@ -9,37 +9,37 @@
       "away": 0,
       "cardEvents": [
         {
-          "player": "Redouane Halhal",
+          "player": "R. Halhal",
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Achraf Hakimi",
+          "player": "A. Hakimi",
           "minute": 40,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Richie Laryea",
+          "player": "R. Laryea",
           "minute": 40,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Jonathan David",
+          "player": "J. David",
           "minute": 43,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Bilal El Khannouss",
+          "player": "B. El Khannouss",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
@@ -47,8 +47,8 @@
       ],
       "subs": [
         {
-          "out": "Ismael Saibari",
-          "in": "Soufiane Rahimi",
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
           "minute": 22,
           "team": "MAR"
         }
