@@ -1,18 +1,23 @@
 {
-  "updated": "2026-07-04T18:45:40Z",
+  "updated": "2026-07-04T18:46:27Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "A. Ounahi",
           "minute": 50,
           "team": "MAR",
           "assist": "A. Hakimi"
+        },
+        {
+          "player": null,
+          "minute": 82,
+          "team": "MAR"
         }
       ],
       "cardEvents": [
@@ -93,7 +98,7 @@
         {
           "out": "A. Ahmed",
           "in": "P. David",
-          "minute": 79,
+          "minute": 78,
           "team": "CAN"
         },
         {
