@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T03:23:38Z",
+  "updated": "2026-07-04T03:24:26Z",
   "live": [
     {
       "id": 87,
@@ -95,6 +95,12 @@
           "in": "P. Adu",
           "minute": 79,
           "team": "GHA"
+        },
+        {
+          "out": "L. Diaz",
+          "in": "J. Campaz",
+          "minute": 90,
+          "team": "COL"
         }
       ],
       "stats": {
