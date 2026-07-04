@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:01:06Z",
+  "updated": "2026-07-04T19:01:54Z",
   "live": [
     {
       "id": 90,
@@ -133,10 +133,10 @@
           "team": "CAN"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsOff": [
-          3,
+          4,
           1
         ],
         "red": [
@@ -156,11 +156,11 @@
           1
         ],
         "shotsTotal": [
-          9,
+          12,
           4
         ],
         "fouls": [
-          23,
+          24,
           14
         ],
         "saves": [
@@ -168,7 +168,7 @@
           3
         ],
         "shotsBlocked": [
-          3,
+          5,
           0
         ],
         "possession": [
