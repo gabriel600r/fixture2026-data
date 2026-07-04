@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T02:55:39Z",
+  "updated": "2026-07-04T02:56:26Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 0,
       "goals": [
@@ -51,6 +51,12 @@
         {
           "out": "I. Williams",
           "in": "I. Fatawu",
+          "minute": 62,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sibo",
+          "in": "E. Owusu",
           "minute": 62,
           "team": "GHA"
         }
