@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:47:19Z",
+  "updated": "2026-07-04T22:48:53Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 1,
       "goals": [
@@ -59,6 +59,12 @@
           "in": "G. Avalos",
           "minute": 71,
           "team": "PAR"
+        },
+        {
+          "out": "O. Dembele",
+          "in": "R. Cherki",
+          "minute": 84,
+          "team": "FRA"
         }
       ],
       "stats": {
