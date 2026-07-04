@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:48:53Z",
+  "updated": "2026-07-04T21:49:40Z",
   "live": [
     {
       "id": 89,
@@ -15,6 +15,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           2,
