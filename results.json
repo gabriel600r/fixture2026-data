@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T02:24:31Z",
+  "updated": "2026-07-04T02:25:19Z",
   "live": [
     {
       "id": 87,
@@ -9,15 +9,15 @@
       "away": 0,
       "goals": [
         {
-          "player": "Jhon Arias",
+          "player": "J. Arias",
           "minute": 14,
           "team": "COL",
-          "assist": "Luis Suárez"
+          "assist": "L. Suarez"
         }
       ],
       "cardEvents": [
         {
-          "player": "Jhon Arias",
+          "player": "J. Arias",
           "minute": 12,
           "team": "COL",
           "color": "yellow"
@@ -25,14 +25,14 @@
       ],
       "subs": [
         {
-          "out": "Jhon Cordoba",
-          "in": "Luis Suárez",
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
           "minute": 8,
           "team": "COL"
         },
         {
-          "out": "Marvin Senaya",
-          "in": "Alidu Seidu",
+          "out": "M. Senaya",
+          "in": "A. Seidu",
           "minute": 13,
           "team": "GHA"
         }
