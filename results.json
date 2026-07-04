@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:18:35Z",
+  "updated": "2026-07-04T18:19:22Z",
   "live": [
     {
       "id": 90,
@@ -85,12 +85,12 @@
           88
         ],
         "passesAccurate": [
-          116,
-          297
+          127,
+          316
         ],
         "offsides": [
           0,
-          2
+          3
         ],
         "shotsInside": [
           5,
@@ -113,8 +113,8 @@
           6
         ],
         "passesTotal": [
-          160,
-          336
+          173,
+          358
         ],
         "saves": [
           1,
@@ -268,7 +268,7 @@
         "referee": "Michael Oliver, England",
         "motm": {
           "player": "Azzedine Ounahi",
-          "rating": 7.2,
+          "rating": 7.7,
           "team": "MAR"
         }
       }
