@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-04T02:50:06Z",
+  "updated": "2026-07-04T02:50:53Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 56,
-      "home": 1,
+      "minute": 57,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 14,
           "team": "COL",
           "assist": "L. Suarez"
+        },
+        {
+          "player": "L. Diaz",
+          "minute": 56,
+          "team": "COL"
         }
       ],
       "cardEvents": [
@@ -51,19 +56,19 @@
       ],
       "stats": {
         "passesAccurate": [
-          347,
-          155
+          360,
+          173
         ],
         "shotsInside": [
-          5,
+          6,
           2
         ],
         "passesPct": [
           92,
-          81
+          82
         ],
         "shotsOff": [
-          3,
+          4,
           2
         ],
         "yellow": [
@@ -72,14 +77,14 @@
         ],
         "saves": [
           0,
-          2
+          3
         ],
         "corners": [
-          1,
+          2,
           2
         ],
         "shotsOutside": [
-          1,
+          2,
           4
         ],
         "fouls": [
@@ -87,15 +92,15 @@
           3
         ],
         "possession": [
-          66,
-          34
+          65,
+          35
         ],
         "passesTotal": [
-          378,
-          191
+          393,
+          211
         ],
         "shotsTotal": [
-          6,
+          8,
           6
         ],
         "red": [
@@ -103,7 +108,7 @@
           0
         ],
         "shotsOn": [
-          3,
+          4,
           0
         ],
         "offsides": [
