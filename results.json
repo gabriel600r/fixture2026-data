@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-04T21:22:43Z",
+  "updated": "2026-07-04T21:23:30Z",
   "live": [
     {
       "id": 89,
       "status": "1H",
-      "minute": 17,
+      "minute": 20,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Bradley Barcola",
+          "minute": 19,
+          "team": "FRA",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
