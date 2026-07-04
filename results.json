@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:46:04Z",
+  "updated": "2026-07-04T17:46:52Z",
   "live": [
     {
       "id": 90,
@@ -30,6 +30,12 @@
           "player": "J. David",
           "minute": 43,
           "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Ounahi",
+          "minute": 45,
+          "team": "MAR",
           "color": "yellow"
         }
       ],
