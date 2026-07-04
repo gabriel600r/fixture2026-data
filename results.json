@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T01:37:42Z",
+  "updated": "2026-07-04T01:38:29Z",
   "live": [
     {
       "id": 87,
@@ -7,6 +7,14 @@
       "minute": 8,
       "home": 0,
       "away": 0,
+      "subs": [
+        {
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
+          "minute": 8,
+          "team": "COL"
+        }
+      ],
       "stats": {
         "passesAccurate": [
           37,
