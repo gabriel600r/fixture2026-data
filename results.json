@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:51:42Z",
+  "updated": "2026-07-04T17:52:29Z",
   "live": [
     {
       "id": 90,
@@ -37,6 +37,12 @@
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
+        },
+        {
+          "player": "B. El Khannouss",
+          "minute": 45,
+          "team": "MAR",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -47,7 +53,7 @@
           "team": "MAR"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           1,
