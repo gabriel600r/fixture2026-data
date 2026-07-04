@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:14:37Z",
+  "updated": "2026-07-04T18:15:25Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 1,
       "goals": [
@@ -69,7 +69,7 @@
       ],
       "stats": {
         "shotsOff": [
-          1,
+          2,
           0
         ],
         "red": [
@@ -77,44 +77,44 @@
           0
         ],
         "yellow": [
-          2,
+          3,
           4
         ],
         "passesPct": [
-          70,
-          88
+          71,
+          89
         ],
         "passesAccurate": [
-          105,
-          290
+          110,
+          294
         ],
         "offsides": [
           0,
           2
         ],
         "shotsInside": [
-          4,
+          5,
           0
         ],
         "shotsOutside": [
           0,
-          1
+          2
         ],
         "corners": [
-          5,
+          6,
           0
         ],
         "shotsTotal": [
-          4,
-          1
+          5,
+          2
         ],
         "fouls": [
-          15,
+          16,
           6
         ],
         "passesTotal": [
-          149,
-          328
+          154,
+          332
         ],
         "saves": [
           1,
@@ -130,7 +130,7 @@
         ],
         "shotsOn": [
           2,
-          1
+          2
         ],
         "home": "CAN",
         "away": "MAR"
@@ -267,8 +267,8 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Noussair Mazraoui",
-          "rating": 7.3,
+          "player": "Azzedine Ounahi",
+          "rating": 7.2,
           "team": "MAR"
         }
       }
