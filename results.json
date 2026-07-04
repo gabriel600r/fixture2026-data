@@ -1,59 +1,59 @@
 {
-  "updated": "2026-07-04T18:30:30Z",
+  "updated": "2026-07-04T18:31:18Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 50,
           "team": "MAR",
-          "assist": "Achraf Hakimi"
+          "assist": "A. Hakimi"
         }
       ],
       "cardEvents": [
         {
-          "player": "Redouane Halhal",
+          "player": "R. Halhal",
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Achraf Hakimi",
+          "player": "A. Hakimi",
           "minute": 40,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Richie Laryea",
+          "player": "R. Laryea",
           "minute": 40,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Jonathan David",
+          "player": "J. David",
           "minute": 43,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Bilal El Khannouss",
+          "player": "B. El Khannouss",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Luc De Fougerolles",
+          "player": "L. De Fougerolles",
           "minute": 49,
           "team": "CAN",
           "color": "yellow"
@@ -61,26 +61,26 @@
       ],
       "subs": [
         {
-          "out": "Ismael Saibari",
-          "in": "Soufiane Rahimi",
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
           "minute": 22,
           "team": "MAR"
         },
         {
-          "out": "Bilal El Khannouss",
-          "in": "Chemsdine Talbi",
+          "out": "A. Bouaddi",
+          "in": "S. Amrabat",
           "minute": 63,
           "team": "MAR"
         },
         {
-          "out": "Ayyoub Bouaddi",
-          "in": "Sofyan Amrabat",
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
           "minute": 63,
           "team": "MAR"
         },
         {
-          "out": "Tani Oluwaseyi",
-          "in": "Cyle Larin",
+          "out": "T. Oluwaseyi",
+          "in": "C. Larin",
           "minute": 63,
           "team": "CAN"
         }
