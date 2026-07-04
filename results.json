@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:52:05Z",
+  "updated": "2026-07-04T18:52:52Z",
   "live": [
     {
       "id": 90,
@@ -119,6 +119,18 @@
           "in": "S. El Mourabet",
           "minute": 87,
           "team": "MAR"
+        },
+        {
+          "out": "T. Buchanan",
+          "in": "J. Nelson",
+          "minute": 88,
+          "team": "CAN"
+        },
+        {
+          "out": "N. Sigur",
+          "in": "J. Osorio",
+          "minute": 88,
+          "team": "CAN"
         }
       ],
       "stats": {
