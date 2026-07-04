@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-04T22:33:05Z",
+  "updated": "2026-07-04T22:33:52Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "cardEvents": [
         {
           "player": "B. Barcola",
