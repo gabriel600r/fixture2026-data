@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:26:28Z",
+  "updated": "2026-07-04T18:27:16Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 0,
       "away": 1,
       "goals": [
@@ -65,6 +65,24 @@
           "in": "Soufiane Rahimi",
           "minute": 22,
           "team": "MAR"
+        },
+        {
+          "out": "Bilal El Khannouss",
+          "in": "Chemsdine Talbi",
+          "minute": 63,
+          "team": "MAR"
+        },
+        {
+          "out": "Ayyoub Bouaddi",
+          "in": "Sofyan Amrabat",
+          "minute": 63,
+          "team": "MAR"
+        },
+        {
+          "out": "Tani Oluwaseyi",
+          "in": "Cyle Larin",
+          "minute": 63,
+          "team": "CAN"
         }
       ],
       "stats": {
