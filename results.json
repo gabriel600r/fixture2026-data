@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-04T01:44:52Z",
+  "updated": "2026-07-04T01:45:39Z",
   "live": [
     {
       "id": 87,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "J. Arias",
           "minute": 14,
-          "team": "COL"
+          "team": "COL",
+          "assist": "L. Suarez"
         }
       ],
       "cardEvents": [
