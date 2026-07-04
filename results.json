@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:44:57Z",
+  "updated": "2026-07-04T22:45:44Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 0,
       "away": 1,
       "goals": [
@@ -19,6 +19,12 @@
         {
           "player": "B. Barcola",
           "minute": 19,
+          "team": "FRA",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Kone",
+          "minute": 81,
           "team": "FRA",
           "color": "yellow"
         }
@@ -69,12 +75,12 @@
           1
         ],
         "passesPct": [
-          53,
+          52,
           91
         ],
         "passesAccurate": [
           66,
-          393
+          407
         ],
         "offsides": [
           0,
@@ -98,11 +104,11 @@
         ],
         "fouls": [
           7,
-          7
+          8
         ],
         "passesTotal": [
-          124,
-          433
+          127,
+          449
         ],
         "saves": [
           1,
