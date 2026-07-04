@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:10:09Z",
+  "updated": "2026-07-04T00:10:56Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 100,
+      "minute": 96,
       "home": 2,
       "away": 1,
       "goals": [
@@ -87,11 +87,11 @@
       ],
       "stats": {
         "passesAccurate": [
-          662,
-          296
+          663,
+          304
         ],
         "shotsInside": [
-          11,
+          10,
           2
         ],
         "passesPct": [
@@ -99,7 +99,7 @@
           85
         ],
         "shotsOff": [
-          5,
+          4,
           2
         ],
         "yellow": [
@@ -123,15 +123,15 @@
           10
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "passesTotal": [
-          718,
-          349
+          719,
+          358
         ],
         "shotsTotal": [
-          17,
+          16,
           6
         ],
         "red": [
@@ -285,7 +285,7 @@
         },
         "referee": "Drew Fischer, Canada",
         "motm": {
-          "player": "Lionel Messi",
+          "player": "Lisandro Martínez",
           "rating": 9.3,
           "team": "ARG"
         }
