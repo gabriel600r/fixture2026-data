@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T02:38:55Z",
+  "updated": "2026-07-04T02:39:42Z",
   "live": [
     {
       "id": 87,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 0,
       "goals": [
@@ -35,6 +35,12 @@
           "in": "A. Seidu",
           "minute": 13,
           "team": "GHA"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "R. Rios",
+          "minute": 46,
+          "team": "COL"
         }
       ],
       "stats": {
@@ -235,7 +241,12 @@
             ]
           }
         },
-        "referee": "Clement Turpin, France"
+        "referee": "Clement Turpin, France",
+        "motm": {
+          "player": "Jhon Arias",
+          "rating": 7.9,
+          "team": "COL"
+        }
       }
     }
   ],
