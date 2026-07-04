@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T17:52:29Z",
+  "updated": "2026-07-04T17:53:17Z",
   "live": [
     {
       "id": 90,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -53,7 +53,6 @@
           "team": "MAR"
         }
       ],
-      "extra": 6,
       "stats": {
         "shotsOff": [
           1,
@@ -69,11 +68,11 @@
         ],
         "passesPct": [
           72,
-          88
+          89
         ],
         "passesAccurate": [
-          94,
-          239
+          100,
+          266
         ],
         "offsides": [
           0,
@@ -97,11 +96,11 @@
         ],
         "fouls": [
           15,
-          5
+          6
         ],
         "passesTotal": [
-          130,
-          271
+          138,
+          299
         ],
         "saves": [
           1,
@@ -112,8 +111,8 @@
           0
         ],
         "possession": [
-          34,
-          66
+          33,
+          67
         ],
         "shotsOn": [
           2,
