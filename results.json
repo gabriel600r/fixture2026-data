@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:41:42Z",
+  "updated": "2026-07-04T18:43:16Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 0,
       "away": 1,
       "goals": [
@@ -88,6 +88,18 @@
           "out": "T. Oluwaseyi",
           "in": "C. Larin",
           "minute": 63,
+          "team": "CAN"
+        },
+        {
+          "out": "A. Ahmed",
+          "in": "P. David",
+          "minute": 79,
+          "team": "CAN"
+        },
+        {
+          "out": "R. Laryea",
+          "in": "J. Shaffelburg",
+          "minute": 79,
           "team": "CAN"
         }
       ],
