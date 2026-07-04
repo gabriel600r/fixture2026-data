@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:20:28Z",
+  "updated": "2026-07-04T00:21:16Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 106,
+      "minute": 107,
       "home": 2,
       "away": 2,
       "goals": [
@@ -105,22 +105,22 @@
         {
           "out": "N. Molina",
           "in": "G. Montiel",
-          "minute": 105,
+          "minute": 104,
           "team": "ARG"
         }
       ],
       "stats": {
         "passesAccurate": [
-          691,
-          339
+          705,
+          353
         ],
         "shotsInside": [
           12,
-          3
+          4
         ],
         "passesPct": [
           92,
-          86
+          87
         ],
         "shotsOff": [
           4,
@@ -151,12 +151,12 @@
           35
         ],
         "passesTotal": [
-          749,
-          393
+          764,
+          408
         ],
         "shotsTotal": [
           19,
-          8
+          9
         ],
         "red": [
           0,
@@ -164,7 +164,7 @@
         ],
         "shotsOn": [
           9,
-          2
+          3
         ],
         "offsides": [
           2,
@@ -309,7 +309,7 @@
         },
         "referee": "Drew Fischer, Canada",
         "motm": {
-          "player": "Lisandro Martínez",
+          "player": "Lionel Messi",
           "rating": 9.3,
           "team": "ARG"
         }
