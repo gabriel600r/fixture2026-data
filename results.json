@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:19:41Z",
+  "updated": "2026-07-04T00:20:28Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 105,
+      "minute": 106,
       "home": 2,
       "away": 2,
       "goals": [
@@ -29,7 +29,8 @@
         {
           "player": "S. Lopes Cabral",
           "minute": 103,
-          "team": "CPV"
+          "team": "CPV",
+          "assist": "Y. Semedo"
         }
       ],
       "cardEvents": [
@@ -100,6 +101,12 @@
           "in": "Benchimol",
           "minute": 100,
           "team": "CPV"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 105,
+          "team": "ARG"
         }
       ],
       "stats": {
