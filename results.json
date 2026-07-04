@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:51:14Z",
+  "updated": "2026-07-04T18:52:05Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 0,
       "away": 2,
       "goals": [
@@ -107,6 +107,18 @@
           "in": "J. Shaffelburg",
           "minute": 79,
           "team": "CAN"
+        },
+        {
+          "out": "I. Diop",
+          "in": "M. Saadane",
+          "minute": 87,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Ounahi",
+          "in": "S. El Mourabet",
+          "minute": 87,
+          "team": "MAR"
         }
       ],
       "stats": {
@@ -124,10 +136,10 @@
         ],
         "passesPct": [
           75,
-          85
+          84
         ],
         "passesAccurate": [
-          210,
+          213,
           377
         ],
         "offsides": [
@@ -152,11 +164,11 @@
         ],
         "fouls": [
           20,
-          9
+          10
         ],
         "passesTotal": [
-          280,
-          446
+          285,
+          448
         ],
         "saves": [
           1,
@@ -310,7 +322,7 @@
         "referee": "Michael Oliver, England",
         "motm": {
           "player": "Azzedine Ounahi",
-          "rating": 7.6,
+          "rating": 8.6,
           "team": "MAR"
         }
       }
