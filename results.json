@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T17:22:54Z",
+  "updated": "2026-07-04T17:23:42Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -13,6 +13,14 @@
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
+          "minute": 22,
+          "team": "MAR"
         }
       ],
       "stats": {
@@ -29,19 +37,19 @@
           0
         ],
         "passesPct": [
-          67,
+          74,
           89
         ],
         "passesAccurate": [
-          35,
-          116
+          51,
+          118
         ],
         "offsides": [
           0,
           1
         ],
         "shotsInside": [
-          3,
+          4,
           0
         ],
         "shotsOutside": [
@@ -53,7 +61,7 @@
           0
         ],
         "shotsTotal": [
-          3,
+          4,
           0
         ],
         "fouls": [
@@ -61,20 +69,20 @@
           1
         ],
         "passesTotal": [
-          52,
-          131
+          69,
+          133
         ],
         "saves": [
           0,
           2
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "possession": [
-          31,
-          69
+          37,
+          63
         ],
         "shotsOn": [
           2,
