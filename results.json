@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T17:44:27Z",
+  "updated": "2026-07-04T17:45:15Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,6 +23,12 @@
         {
           "player": "R. Laryea",
           "minute": 40,
+          "team": "CAN",
+          "color": "yellow"
+        },
+        {
+          "player": "J. David",
+          "minute": 43,
           "team": "CAN",
           "color": "yellow"
         }
