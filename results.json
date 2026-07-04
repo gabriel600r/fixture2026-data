@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:13:02Z",
+  "updated": "2026-07-04T18:13:49Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -43,6 +43,12 @@
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
+        },
+        {
+          "player": "L. De Fougerolles",
+          "minute": 49,
+          "team": "CAN",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -67,12 +73,12 @@
           4
         ],
         "passesPct": [
-          72,
-          89
+          70,
+          88
         ],
         "passesAccurate": [
-          101,
-          267
+          105,
+          290
         ],
         "offsides": [
           0,
@@ -99,8 +105,8 @@
           6
         ],
         "passesTotal": [
-          140,
-          300
+          149,
+          328
         ],
         "saves": [
           1,
