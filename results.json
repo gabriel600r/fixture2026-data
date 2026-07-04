@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:55:15Z",
+  "updated": "2026-07-04T18:56:04Z",
   "live": [
     {
       "id": 90,
@@ -133,7 +133,7 @@
           "team": "CAN"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           3,
@@ -156,11 +156,11 @@
           1
         ],
         "shotsTotal": [
-          8,
+          9,
           4
         ],
         "fouls": [
-          21,
+          22,
           12
         ],
         "saves": [
@@ -168,7 +168,7 @@
           3
         ],
         "shotsBlocked": [
-          2,
+          3,
           0
         ],
         "possession": [
@@ -314,8 +314,8 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Azzedine Ounahi",
-          "rating": 9.0,
+          "player": "A. Ounahi",
+          "rating": 9.23,
           "team": "MAR"
         }
       }
