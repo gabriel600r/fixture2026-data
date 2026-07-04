@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:29:15Z",
+  "updated": "2026-07-04T00:30:09Z",
   "live": [
     {
       "id": 86,
@@ -417,7 +417,19 @@
       "away": "EGY"
     }
   },
-  "prematch": [],
+  "prematch": [
+    {
+      "id": 87,
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "referee": "C. Turpin"
+      }
+    }
+  ],
   "news": [
     {
       "date": "10/04/2026",
