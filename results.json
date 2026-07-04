@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-04T00:06:55Z",
+  "updated": "2026-07-04T00:07:43Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 98,
-      "home": 1,
+      "minute": 99,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -19,6 +19,11 @@
           "minute": 59,
           "team": "CPV",
           "assist": "R. Mendes"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 92,
+          "team": "ARG"
         }
       ],
       "cardEvents": [
