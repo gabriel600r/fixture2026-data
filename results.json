@@ -1,50 +1,30 @@
 {
-  "updated": "2026-07-04T21:31:25Z",
+  "updated": "2026-07-04T21:32:13Z",
   "live": [
     {
       "id": 89,
       "status": "1H",
-      "minute": 28,
+      "minute": 29,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Bradley Barcola",
+          "player": "B. Barcola",
           "minute": 19,
           "team": "FRA",
           "color": "yellow"
         }
       ],
       "stats": {
-        "shotsOff": [
-          0,
-          0
-        ],
         "red": [
           0,
           0
         ],
+        "shotsOff": [
+          0,
+          0
+        ],
         "yellow": [
-          0,
-          1
-        ],
-        "passesPct": [
-          63,
-          91
-        ],
-        "passesAccurate": [
-          29,
-          170
-        ],
-        "offsides": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          0,
-          0
-        ],
-        "shotsOutside": [
           0,
           1
         ],
@@ -59,14 +39,6 @@
         "fouls": [
           0,
           3
-        ],
-        "passesTotal": [
-          46,
-          186
-        ],
-        "saves": [
-          0,
-          0
         ],
         "shotsBlocked": [
           0,
