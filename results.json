@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-04T17:27:40Z",
+  "updated": "2026-07-04T17:30:06Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 26,
+      "minute": 29,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "R. Halhal",
+          "player": "Redouane Halhal",
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
@@ -17,8 +17,8 @@
       ],
       "subs": [
         {
-          "out": "I. Saibari",
-          "in": "S. Rahimi",
+          "out": "Ismael Saibari",
+          "in": "Soufiane Rahimi",
           "minute": 22,
           "team": "MAR"
         }
