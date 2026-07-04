@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T02:43:41Z",
+  "updated": "2026-07-04T02:44:29Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 1,
       "away": 0,
       "goals": [
@@ -24,7 +24,7 @@
         },
         {
           "player": "C. Yirenkyi",
-          "minute": 50,
+          "minute": 49,
           "team": "GHA",
           "color": "yellow"
         }
