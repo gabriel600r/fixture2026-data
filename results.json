@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T23:00:24Z",
+  "updated": "2026-07-04T23:01:12Z",
   "live": [
     {
       "id": 89,
@@ -25,6 +25,12 @@
         {
           "player": "M. Kone",
           "minute": 81,
+          "team": "FRA",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Olise",
+          "minute": 90,
           "team": "FRA",
           "color": "yellow"
         }
@@ -67,7 +73,7 @@
           "team": "FRA"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsOff": [
           3,
