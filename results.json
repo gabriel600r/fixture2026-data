@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T03:16:30Z",
+  "updated": "2026-07-04T03:17:17Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 1,
       "away": 0,
       "goals": [
@@ -99,16 +99,16 @@
       ],
       "stats": {
         "passesAccurate": [
-          449,
-          244
+          456,
+          252
         ],
         "shotsInside": [
-          7,
+          8,
           2
         ],
         "passesPct": [
           91,
-          84
+          83
         ],
         "shotsOff": [
           5,
@@ -120,14 +120,14 @@
         ],
         "saves": [
           0,
-          4
+          5
         ],
         "corners": [
-          2,
+          3,
           2
         ],
         "shotsOutside": [
-          3,
+          4,
           6
         ],
         "fouls": [
@@ -139,11 +139,11 @@
           38
         ],
         "passesTotal": [
-          493,
-          292
+          501,
+          303
         ],
         "shotsTotal": [
-          10,
+          12,
           8
         ],
         "red": [
@@ -151,7 +151,7 @@
           0
         ],
         "shotsOn": [
-          5,
+          6,
           0
         ],
         "offsides": [
@@ -159,7 +159,7 @@
           0
         ],
         "shotsBlocked": [
-          0,
+          1,
           5
         ],
         "home": "COL",
@@ -297,9 +297,9 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Jhon Arias",
-          "rating": 8.0,
-          "team": "COL"
+          "player": "Lawrence Ati Zigi",
+          "rating": 9.3,
+          "team": "GHA"
         }
       }
     }
