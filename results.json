@@ -1,41 +1,47 @@
 {
-  "updated": "2026-07-04T00:31:56Z",
+  "updated": "2026-07-04T00:32:45Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 111,
-      "home": 2,
+      "minute": 112,
+      "home": 3,
       "away": 2,
       "goals": [
         {
-          "player": "Lionel Messi",
+          "player": "L. Messi",
           "minute": 29,
           "team": "ARG",
-          "assist": "Lisandro Martínez"
+          "assist": "L. Martinez"
         },
         {
-          "player": "Deroy Duarte",
+          "player": "D. Duarte",
           "minute": 59,
           "team": "CPV",
-          "assist": "Ryan Mendes"
+          "assist": "R. Mendes"
         },
         {
-          "player": "Lisandro Martínez",
+          "player": "L. Martinez",
           "minute": 92,
           "team": "ARG",
-          "assist": "Alexis Mac Allister"
+          "assist": "A. Mac Allister"
         },
         {
-          "player": "Sidny Lopes Cabral",
+          "player": "S. Lopes Cabral",
           "minute": 103,
           "team": "CPV",
-          "assist": "Yannick Semedo"
+          "assist": "Y. Semedo"
+        },
+        {
+          "player": "C. Romero",
+          "minute": 111,
+          "team": "ARG",
+          "assist": "L. Messi"
         }
       ],
       "cardEvents": [
         {
-          "player": "Kevin Lenini Pina",
+          "player": "K. Lenini",
           "minute": 68,
           "team": "CPV",
           "color": "yellow"
@@ -43,68 +49,68 @@
       ],
       "subs": [
         {
-          "out": "Lautaro Martínez",
-          "in": "Julián Álvarez",
+          "out": "L. Martinez",
+          "in": "J. Alvarez",
           "minute": 63,
           "team": "ARG"
         },
         {
-          "out": "Thiago Almada",
-          "in": "Nicolás Iván Gonzalez",
-          "minute": 63,
+          "out": "T. Almada",
+          "in": "N. Gonzalez",
+          "minute": 64,
           "team": "ARG"
         },
         {
-          "out": "Laros Duarte",
-          "in": "Jamiro Monteiro",
+          "out": "L. Duarte",
+          "in": "J. Monteiro",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "Nuno Da Costa",
-          "in": "Dailon Livramento",
+          "out": "N. Da Costa",
+          "in": "D. Livramento",
           "minute": 67,
           "team": "CPV"
         },
         {
-          "out": "Ryan Mendes",
-          "in": "Willy Semedo",
+          "out": "R. Mendes",
+          "in": "W. Semedo",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "Jovane Cabral",
-          "in": "Hélio Varela",
+          "out": "J. Cabral",
+          "in": "H. Varela",
           "minute": 80,
           "team": "CPV"
         },
         {
-          "out": "Rodrigo De Paul",
-          "in": "Leandro Paredes",
+          "out": "R. de Paul",
+          "in": "L. Paredes",
           "minute": 84,
           "team": "ARG"
         },
         {
-          "out": "Facundo Medina",
-          "in": "Nicolás Tagliafico",
+          "out": "F. Medina",
+          "in": "N. Tagliafico",
           "minute": 86,
           "team": "ARG"
         },
         {
-          "out": "Deroy Duarte",
-          "in": "Yannick Semedo",
+          "out": "D. Duarte",
+          "in": "Y. Semedo",
           "minute": 100,
           "team": "CPV"
         },
         {
-          "out": "Kevin Lenini Pina",
-          "in": "Gilson Benchimol",
+          "out": "K. Lenini",
+          "in": "Benchimol",
           "minute": 100,
           "team": "CPV"
         },
         {
-          "out": "Nahuel Molina",
-          "in": "Gonzalo Montiel",
+          "out": "N. Molina",
+          "in": "G. Montiel",
           "minute": 104,
           "team": "ARG"
         }
