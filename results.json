@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-04T00:18:06Z",
+  "updated": "2026-07-04T00:18:53Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 103,
+      "minute": 104,
       "home": 2,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "L. Messi",
