@@ -1,316 +1,6 @@
 {
-  "updated": "2026-07-04T03:31:35Z",
-  "live": [
-    {
-      "id": 87,
-      "status": "2H",
-      "minute": 90,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "J. Arias",
-          "minute": 14,
-          "team": "COL",
-          "assist": "L. Suarez"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "J. Arias",
-          "minute": 12,
-          "team": "COL",
-          "color": "yellow"
-        },
-        {
-          "player": "C. Yirenkyi",
-          "minute": 49,
-          "team": "GHA",
-          "color": "yellow"
-        },
-        {
-          "player": "I. Fatawu",
-          "minute": 66,
-          "team": "GHA",
-          "color": "yellow"
-        },
-        {
-          "player": "A. Seidu",
-          "minute": 76,
-          "team": "GHA",
-          "color": "yellow"
-        },
-        {
-          "player": "R. Rios",
-          "minute": 78,
-          "team": "COL",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "J. Cordoba",
-          "in": "L. Suarez",
-          "minute": 8,
-          "team": "COL"
-        },
-        {
-          "out": "M. Senaya",
-          "in": "A. Seidu",
-          "minute": 13,
-          "team": "GHA"
-        },
-        {
-          "out": "J. Rodriguez",
-          "in": "R. Rios",
-          "minute": 46,
-          "team": "COL"
-        },
-        {
-          "out": "I. Williams",
-          "in": "I. Fatawu",
-          "minute": 62,
-          "team": "GHA"
-        },
-        {
-          "out": "K. Sibo",
-          "in": "E. Owusu",
-          "minute": 62,
-          "team": "GHA"
-        },
-        {
-          "out": "J. Arias",
-          "in": "J. Quintero",
-          "minute": 73,
-          "team": "COL"
-        },
-        {
-          "out": "J. Ayew",
-          "in": "E. Nuamah",
-          "minute": 79,
-          "team": "GHA"
-        },
-        {
-          "out": "C. Yirenkyi",
-          "in": "P. Adu",
-          "minute": 79,
-          "team": "GHA"
-        },
-        {
-          "out": "L. Diaz",
-          "in": "J. Campaz",
-          "minute": 90,
-          "team": "COL"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "passesAccurate": [
-          512,
-          303
-        ],
-        "shotsInside": [
-          11,
-          2
-        ],
-        "passesPct": [
-          91,
-          84
-        ],
-        "shotsOff": [
-          8,
-          3
-        ],
-        "yellow": [
-          2,
-          3
-        ],
-        "saves": [
-          0,
-          5
-        ],
-        "corners": [
-          3,
-          2
-        ],
-        "shotsOutside": [
-          5,
-          6
-        ],
-        "fouls": [
-          13,
-          9
-        ],
-        "possession": [
-          61,
-          39
-        ],
-        "passesTotal": [
-          561,
-          362
-        ],
-        "shotsTotal": [
-          16,
-          8
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          6,
-          0
-        ],
-        "offsides": [
-          2,
-          0
-        ],
-        "shotsBlocked": [
-          2,
-          5
-        ],
-        "home": "COL",
-        "away": "GHA"
-      },
-      "extras": {
-        "pred": {
-          "home": 50,
-          "draw": 50,
-          "away": 0
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Nestor Lorenzo",
-            "xi": [
-              {
-                "n": 12,
-                "name": "Camilo Vargas",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Daniel Muñoz",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Davinson Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Jhon Lucumí",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "Johan Mojica",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Gustavo Puerta",
-                "pos": "M"
-              },
-              {
-                "n": 16,
-                "name": "Jefferson Lerma",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Jhon Arias",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "James Rodríguez",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Jhon Córdoba",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Luis Díaz",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-4-1",
-            "coach": "Carlos Queiroz",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Lawrence Ati Zigi",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Marvin Senaya",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Derrick Luckassen",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Jerome Opoku",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Gideon Mensah",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Thomas Partey",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Iñaki Williams",
-                "pos": "M"
-              },
-              {
-                "n": 3,
-                "name": "Caleb Yirenkyi",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Kwasi Sibo",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Antoine Semenyo",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Jordan Ayew",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Clement Turpin, France",
-        "motm": {
-          "player": "Jhon Arias",
-          "rating": 8.0,
-          "team": "COL"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-04T03:32:22Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -26708,6 +26398,312 @@
       }
     },
     {
+      "id": 87,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "J. Arias",
+          "minute": 14,
+          "team": "COL",
+          "assist": "L. Suarez"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "J. Arias",
+          "minute": 12,
+          "team": "COL",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Yirenkyi",
+          "minute": 49,
+          "team": "GHA",
+          "color": "yellow"
+        },
+        {
+          "player": "I. Fatawu",
+          "minute": 66,
+          "team": "GHA",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Seidu",
+          "minute": 76,
+          "team": "GHA",
+          "color": "yellow"
+        },
+        {
+          "player": "R. Rios",
+          "minute": 78,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
+          "minute": 8,
+          "team": "COL"
+        },
+        {
+          "out": "M. Senaya",
+          "in": "A. Seidu",
+          "minute": 13,
+          "team": "GHA"
+        },
+        {
+          "out": "J. Rodriguez",
+          "in": "R. Rios",
+          "minute": 46,
+          "team": "COL"
+        },
+        {
+          "out": "I. Williams",
+          "in": "I. Fatawu",
+          "minute": 62,
+          "team": "GHA"
+        },
+        {
+          "out": "K. Sibo",
+          "in": "E. Owusu",
+          "minute": 62,
+          "team": "GHA"
+        },
+        {
+          "out": "J. Arias",
+          "in": "J. Quintero",
+          "minute": 73,
+          "team": "COL"
+        },
+        {
+          "out": "J. Ayew",
+          "in": "E. Nuamah",
+          "minute": 79,
+          "team": "GHA"
+        },
+        {
+          "out": "C. Yirenkyi",
+          "in": "P. Adu",
+          "minute": 79,
+          "team": "GHA"
+        },
+        {
+          "out": "L. Diaz",
+          "in": "J. Campaz",
+          "minute": 90,
+          "team": "COL"
+        }
+      ],
+      "stats": {
+        "passesAccurate": [
+          512,
+          303
+        ],
+        "shotsInside": [
+          11,
+          2
+        ],
+        "passesPct": [
+          91,
+          84
+        ],
+        "shotsOff": [
+          8,
+          3
+        ],
+        "yellow": [
+          2,
+          3
+        ],
+        "saves": [
+          0,
+          5
+        ],
+        "corners": [
+          3,
+          2
+        ],
+        "shotsOutside": [
+          5,
+          6
+        ],
+        "fouls": [
+          13,
+          9
+        ],
+        "possession": [
+          61,
+          39
+        ],
+        "passesTotal": [
+          561,
+          362
+        ],
+        "shotsTotal": [
+          16,
+          8
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          6,
+          0
+        ],
+        "offsides": [
+          2,
+          0
+        ],
+        "shotsBlocked": [
+          2,
+          5
+        ],
+        "home": "COL",
+        "away": "GHA"
+      },
+      "extras": {
+        "pred": {
+          "home": 50,
+          "draw": 50,
+          "away": 0
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Nestor Lorenzo",
+            "xi": [
+              {
+                "n": 12,
+                "name": "Camilo Vargas",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Daniel Muñoz",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Davinson Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Jhon Lucumí",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "Johan Mojica",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Gustavo Puerta",
+                "pos": "M"
+              },
+              {
+                "n": 16,
+                "name": "Jefferson Lerma",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Jhon Arias",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "James Rodríguez",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Jhon Córdoba",
+                "pos": "F"
+              },
+              {
+                "n": 7,
+                "name": "Luis Díaz",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-4-1",
+            "coach": "Carlos Queiroz",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Lawrence Ati Zigi",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Marvin Senaya",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Derrick Luckassen",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Jerome Opoku",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Gideon Mensah",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Thomas Partey",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Iñaki Williams",
+                "pos": "M"
+              },
+              {
+                "n": 3,
+                "name": "Caleb Yirenkyi",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Kwasi Sibo",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Antoine Semenyo",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Jordan Ayew",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Clement Turpin, France",
+        "motm": {
+          "player": "Jhon Arias",
+          "rating": 8.0,
+          "team": "COL"
+        }
+      }
+    },
+    {
       "id": 88,
       "home": 1,
       "away": 1,
@@ -27499,6 +27495,12 @@
         "yellow": 2
       },
       {
+        "player": "C. Yirenkyi",
+        "team": "GHA",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Danilo",
         "team": "BRA",
         "red": 0,
@@ -27581,12 +27583,6 @@
         "team": "EGY",
         "red": 0,
         "yellow": 2
-      },
-      {
-        "player": "A. Al Ammari",
-        "team": "IRQ",
-        "red": 0,
-        "yellow": 1
       }
     ]
   },
@@ -27688,6 +27684,20 @@
       "biggestWin": "4-2",
       "biggestLose": "",
       "form": "WDWW"
+    },
+    {
+      "code": "COL",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "loses": 0,
+      "gf": 5,
+      "ga": 1,
+      "cleanSheets": 3,
+      "failedToScore": 1,
+      "biggestWin": "3-1",
+      "biggestLose": "",
+      "form": "WWDW"
     },
     {
       "code": "USA",
@@ -27802,20 +27812,6 @@
       "form": "WWLD"
     },
     {
-      "code": "COL",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "loses": 0,
-      "gf": 4,
-      "ga": 1,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "3-1",
-      "biggestLose": "",
-      "form": "WWD"
-    },
-    {
       "code": "EGY",
       "played": 4,
       "wins": 1,
@@ -27915,17 +27911,17 @@
     },
     {
       "code": "GHA",
-      "played": 3,
+      "played": 4,
       "wins": 1,
       "draws": 1,
-      "loses": 1,
+      "loses": 2,
       "gf": 2,
-      "ga": 2,
+      "ga": 3,
       "cleanSheets": 2,
-      "failedToScore": 1,
+      "failedToScore": 2,
       "biggestWin": "1-0",
       "biggestLose": "1-2",
-      "form": "WDL"
+      "form": "WDLL"
     },
     {
       "code": "RSA",
