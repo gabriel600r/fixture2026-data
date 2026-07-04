@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:21:59Z",
+  "updated": "2026-07-04T22:22:47Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -13,6 +13,14 @@
           "minute": 19,
           "team": "FRA",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "O. Alderete",
+          "in": "J. Canale",
+          "minute": 58,
+          "team": "PAR"
         }
       ],
       "stats": {
