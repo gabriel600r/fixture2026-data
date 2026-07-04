@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T17:31:42Z",
+  "updated": "2026-07-04T17:32:29Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 30,
+      "minute": 32,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -36,7 +36,23 @@
           0,
           1
         ],
+        "passesPct": [
+          75,
+          88
+        ],
+        "passesAccurate": [
+          73,
+          141
+        ],
         "offsides": [
+          0,
+          1
+        ],
+        "shotsInside": [
+          4,
+          0
+        ],
+        "shotsOutside": [
           0,
           1
         ],
@@ -51,6 +67,10 @@
         "fouls": [
           8,
           2
+        ],
+        "passesTotal": [
+          97,
+          160
         ],
         "saves": [
           1,
