@@ -1,71 +1,77 @@
 {
-  "updated": "2026-07-04T19:01:54Z",
+  "updated": "2026-07-04T19:04:15Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
       "minute": 90,
       "home": 0,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 50,
           "team": "MAR",
-          "assist": "Achraf Hakimi"
+          "assist": "A. Hakimi"
         },
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 82,
           "team": "MAR",
-          "assist": "Brahim Díaz"
+          "assist": "B. Diaz"
+        },
+        {
+          "player": "S. Rahimi",
+          "minute": 90,
+          "team": "MAR",
+          "assist": "B. Diaz"
         }
       ],
       "cardEvents": [
         {
-          "player": "Redouane Halhal",
+          "player": "R. Halhal",
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Achraf Hakimi",
+          "player": "A. Hakimi",
           "minute": 40,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Richie Laryea",
+          "player": "R. Laryea",
           "minute": 40,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Jonathan David",
+          "player": "J. David",
           "minute": 43,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Azzedine Ounahi",
+          "player": "A. Ounahi",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Bilal El Khannouss",
+          "player": "B. El Khannouss",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "Luc De Fougerolles",
+          "player": "L. De Fougerolles",
           "minute": 49,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "Cyle Larin",
+          "player": "C. Larin",
           "minute": 67,
           "team": "CAN",
           "color": "yellow"
@@ -73,62 +79,62 @@
       ],
       "subs": [
         {
-          "out": "Ismael Saibari",
-          "in": "Soufiane Rahimi",
+          "out": "I. Saibari",
+          "in": "S. Rahimi",
           "minute": 22,
           "team": "MAR"
         },
         {
-          "out": "Bilal El Khannouss",
-          "in": "Chemsdine Talbi",
+          "out": "A. Bouaddi",
+          "in": "S. Amrabat",
           "minute": 63,
           "team": "MAR"
         },
         {
-          "out": "Ayyoub Bouaddi",
-          "in": "Sofyan Amrabat",
+          "out": "B. El Khannouss",
+          "in": "C. Talbi",
           "minute": 63,
           "team": "MAR"
         },
         {
-          "out": "Tani Oluwaseyi",
-          "in": "Cyle Larin",
+          "out": "T. Oluwaseyi",
+          "in": "C. Larin",
           "minute": 63,
           "team": "CAN"
         },
         {
-          "out": "Ali Ahmed",
-          "in": "Promise David",
+          "out": "A. Ahmed",
+          "in": "P. David",
           "minute": 78,
           "team": "CAN"
         },
         {
-          "out": "Richie Laryea",
-          "in": "Jacob Shaffelburg",
-          "minute": 78,
+          "out": "R. Laryea",
+          "in": "J. Shaffelburg",
+          "minute": 79,
           "team": "CAN"
         },
         {
-          "out": "Issa Diop",
-          "in": "Marwane Saadane",
+          "out": "I. Diop",
+          "in": "M. Saadane",
           "minute": 87,
           "team": "MAR"
         },
         {
-          "out": "Azzedine Ounahi",
-          "in": "Samir El-Mourabet",
+          "out": "A. Ounahi",
+          "in": "S. El Mourabet",
           "minute": 87,
           "team": "MAR"
         },
         {
-          "out": "Niko Sigur",
-          "in": "Jonathan Osorio",
+          "out": "T. Buchanan",
+          "in": "J. Nelson",
           "minute": 87,
           "team": "CAN"
         },
         {
-          "out": "Tajon Buchanan",
-          "in": "Jayden Nelson",
+          "out": "N. Sigur",
+          "in": "J. Osorio",
           "minute": 87,
           "team": "CAN"
         }
