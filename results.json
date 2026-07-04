@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:25:10Z",
+  "updated": "2026-07-04T22:25:58Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -27,12 +27,18 @@
           "in": "G. Caballero",
           "minute": 61,
           "team": "PAR"
+        },
+        {
+          "out": "B. Barcola",
+          "in": "D. Doue",
+          "minute": 61,
+          "team": "FRA"
         }
       ],
       "stats": {
         "shotsOff": [
           2,
-          4
+          5
         ],
         "red": [
           0,
@@ -43,12 +49,12 @@
           1
         ],
         "passesPct": [
-          53,
+          55,
           91
         ],
         "passesAccurate": [
-          56,
-          331
+          60,
+          346
         ],
         "offsides": [
           0,
@@ -60,7 +66,7 @@
         ],
         "shotsOutside": [
           2,
-          6
+          7
         ],
         "corners": [
           1,
@@ -68,15 +74,15 @@
         ],
         "shotsTotal": [
           3,
-          8
+          9
         ],
         "fouls": [
           5,
           7
         ],
         "passesTotal": [
-          105,
-          364
+          110,
+          380
         ],
         "saves": [
           1,
