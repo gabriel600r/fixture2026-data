@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T18:47:16Z",
+  "updated": "2026-07-04T18:48:06Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 2,
       "goals": [
@@ -127,8 +127,8 @@
           85
         ],
         "passesAccurate": [
-          205,
-          375
+          210,
+          377
         ],
         "offsides": [
           2,
@@ -136,7 +136,7 @@
         ],
         "shotsInside": [
           5,
-          0
+          1
         ],
         "shotsOutside": [
           2,
@@ -148,15 +148,15 @@
         ],
         "shotsTotal": [
           7,
-          2
+          3
         ],
         "fouls": [
           20,
-          8
+          9
         ],
         "passesTotal": [
-          272,
-          442
+          280,
+          446
         ],
         "saves": [
           1,
@@ -167,12 +167,12 @@
           0
         ],
         "possession": [
-          39,
-          61
+          40,
+          60
         ],
         "shotsOn": [
           3,
-          2
+          3
         ],
         "home": "CAN",
         "away": "MAR"
@@ -310,7 +310,7 @@
         "referee": "Michael Oliver, England",
         "motm": {
           "player": "Azzedine Ounahi",
-          "rating": 7.3,
+          "rating": 7.6,
           "team": "MAR"
         }
       }
