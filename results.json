@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T02:59:38Z",
+  "updated": "2026-07-04T03:00:35Z",
   "live": [
     {
       "id": 87,
@@ -25,6 +25,12 @@
         {
           "player": "C. Yirenkyi",
           "minute": 49,
+          "team": "GHA",
+          "color": "yellow"
+        },
+        {
+          "player": "I. Fatawu",
+          "minute": 66,
           "team": "GHA",
           "color": "yellow"
         }
@@ -63,15 +69,15 @@
       ],
       "stats": {
         "passesAccurate": [
-          380,
-          202
+          397,
+          203
         ],
         "shotsInside": [
           7,
           2
         ],
         "passesPct": [
-          92,
+          91,
           83
         ],
         "shotsOff": [
@@ -103,8 +109,8 @@
           37
         ],
         "passesTotal": [
-          415,
-          244
+          434,
+          246
         ],
         "shotsTotal": [
           9,
