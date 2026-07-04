@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T03:09:20Z",
+  "updated": "2026-07-04T03:10:10Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 1,
       "away": 0,
       "goals": [
@@ -31,6 +31,12 @@
         {
           "player": "I. Fatawu",
           "minute": 66,
+          "team": "GHA",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Seidu",
+          "minute": 76,
           "team": "GHA",
           "color": "yellow"
         }
@@ -74,6 +80,18 @@
         }
       ],
       "stats": {
+        "passesAccurate": [
+          436,
+          235
+        ],
+        "shotsInside": [
+          7,
+          2
+        ],
+        "passesPct": [
+          91,
+          84
+        ],
         "shotsOff": [
           4,
           3
@@ -90,6 +108,10 @@
           2,
           2
         ],
+        "shotsOutside": [
+          2,
+          6
+        ],
         "fouls": [
           10,
           5
@@ -97,6 +119,10 @@
         "possession": [
           63,
           37
+        ],
+        "passesTotal": [
+          478,
+          281
         ],
         "shotsTotal": [
           9,
