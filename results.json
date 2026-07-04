@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:14:07Z",
+  "updated": "2026-07-04T00:14:54Z",
   "live": [
     {
       "id": 86,
@@ -83,6 +83,12 @@
           "in": "N. Tagliafico",
           "minute": 86,
           "team": "ARG"
+        },
+        {
+          "out": "D. Duarte",
+          "in": "Y. Semedo",
+          "minute": 100,
+          "team": "CPV"
         }
       ],
       "stats": {
@@ -286,7 +292,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lisandro Martínez",
-          "rating": 9.3,
+          "rating": 8.3,
           "team": "ARG"
         }
       }
