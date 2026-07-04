@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:35:58Z",
+  "updated": "2026-07-04T00:36:46Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 115,
+      "minute": 116,
       "home": 3,
       "away": 2,
       "goals": [
@@ -44,6 +44,12 @@
           "player": "K. Lenini",
           "minute": 68,
           "team": "CPV",
+          "color": "yellow"
+        },
+        {
+          "player": "G. Montiel",
+          "minute": 115,
+          "team": "ARG",
           "color": "yellow"
         }
       ],
@@ -117,8 +123,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          765,
-          375
+          776,
+          384
         ],
         "shotsInside": [
           15,
@@ -157,8 +163,8 @@
           35
         ],
         "passesTotal": [
-          828,
-          435
+          841,
+          444
         ],
         "shotsTotal": [
           22,
