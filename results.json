@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-04T03:07:44Z",
+  "updated": "2026-07-04T03:08:32Z",
   "live": [
     {
       "id": 87,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "J. Arias",
+          "player": "Jhon Arias",
           "minute": 14,
           "team": "COL",
-          "assist": "L. Suarez"
+          "assist": "Luis Suárez"
         }
       ],
       "cardEvents": [
         {
-          "player": "J. Arias",
+          "player": "Jhon Arias",
           "minute": 12,
           "team": "COL",
           "color": "yellow"
         },
         {
-          "player": "C. Yirenkyi",
+          "player": "Caleb Yirenkyi",
           "minute": 49,
           "team": "GHA",
           "color": "yellow"
         },
         {
-          "player": "I. Fatawu",
+          "player": "Abdul Fatawu Issahaku",
           "minute": 66,
           "team": "GHA",
           "color": "yellow"
@@ -37,34 +37,40 @@
       ],
       "subs": [
         {
-          "out": "J. Cordoba",
-          "in": "L. Suarez",
+          "out": "Jhon Cordoba",
+          "in": "Luis Suárez",
           "minute": 8,
           "team": "COL"
         },
         {
-          "out": "M. Senaya",
-          "in": "A. Seidu",
+          "out": "Marvin Senaya",
+          "in": "Alidu Seidu",
           "minute": 13,
           "team": "GHA"
         },
         {
-          "out": "J. Rodriguez",
-          "in": "R. Rios",
-          "minute": 46,
+          "out": "James Rodríguez",
+          "in": "Richard Ríos Montoya",
+          "minute": 45,
           "team": "COL"
         },
         {
-          "out": "I. Williams",
-          "in": "I. Fatawu",
+          "out": "Iñaki Williams",
+          "in": "Abdul Fatawu Issahaku",
           "minute": 62,
           "team": "GHA"
         },
         {
-          "out": "K. Sibo",
-          "in": "E. Owusu",
+          "out": "Kwasi Sibo",
+          "in": "Elisha Owusu",
           "minute": 62,
           "team": "GHA"
+        },
+        {
+          "out": "Jhon Arias",
+          "in": "Juan Quintero",
+          "minute": 73,
+          "team": "COL"
         }
       ],
       "stats": {
