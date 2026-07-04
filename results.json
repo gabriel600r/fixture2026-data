@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T03:08:32Z",
+  "updated": "2026-07-04T03:09:20Z",
   "live": [
     {
       "id": 87,
@@ -9,27 +9,27 @@
       "away": 0,
       "goals": [
         {
-          "player": "Jhon Arias",
+          "player": "J. Arias",
           "minute": 14,
           "team": "COL",
-          "assist": "Luis Suárez"
+          "assist": "L. Suarez"
         }
       ],
       "cardEvents": [
         {
-          "player": "Jhon Arias",
+          "player": "J. Arias",
           "minute": 12,
           "team": "COL",
           "color": "yellow"
         },
         {
-          "player": "Caleb Yirenkyi",
+          "player": "C. Yirenkyi",
           "minute": 49,
           "team": "GHA",
           "color": "yellow"
         },
         {
-          "player": "Abdul Fatawu Issahaku",
+          "player": "I. Fatawu",
           "minute": 66,
           "team": "GHA",
           "color": "yellow"
@@ -37,58 +37,46 @@
       ],
       "subs": [
         {
-          "out": "Jhon Cordoba",
-          "in": "Luis Suárez",
+          "out": "J. Cordoba",
+          "in": "L. Suarez",
           "minute": 8,
           "team": "COL"
         },
         {
-          "out": "Marvin Senaya",
-          "in": "Alidu Seidu",
+          "out": "M. Senaya",
+          "in": "A. Seidu",
           "minute": 13,
           "team": "GHA"
         },
         {
-          "out": "James Rodríguez",
-          "in": "Richard Ríos Montoya",
-          "minute": 45,
+          "out": "J. Rodriguez",
+          "in": "R. Rios",
+          "minute": 46,
           "team": "COL"
         },
         {
-          "out": "Iñaki Williams",
-          "in": "Abdul Fatawu Issahaku",
+          "out": "I. Williams",
+          "in": "I. Fatawu",
           "minute": 62,
           "team": "GHA"
         },
         {
-          "out": "Kwasi Sibo",
-          "in": "Elisha Owusu",
+          "out": "K. Sibo",
+          "in": "E. Owusu",
           "minute": 62,
           "team": "GHA"
         },
         {
-          "out": "Jhon Arias",
-          "in": "Juan Quintero",
+          "out": "J. Arias",
+          "in": "J. Quintero",
           "minute": 73,
           "team": "COL"
         }
       ],
       "stats": {
-        "passesAccurate": [
-          429,
-          227
-        ],
-        "shotsInside": [
-          7,
-          2
-        ],
-        "passesPct": [
-          91,
-          84
-        ],
         "shotsOff": [
           4,
-          2
+          3
         ],
         "yellow": [
           1,
@@ -102,25 +90,17 @@
           2,
           2
         ],
-        "shotsOutside": [
-          2,
-          4
-        ],
         "fouls": [
-          9,
+          10,
           5
         ],
         "possession": [
           63,
           37
         ],
-        "passesTotal": [
-          469,
-          271
-        ],
         "shotsTotal": [
           9,
-          6
+          8
         ],
         "red": [
           0,
@@ -136,7 +116,7 @@
         ],
         "shotsBlocked": [
           0,
-          4
+          5
         ],
         "home": "COL",
         "away": "GHA"
@@ -273,8 +253,8 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Jhon Arias",
-          "rating": 8.0,
+          "player": "J. Arias",
+          "rating": 7.94,
           "team": "COL"
         }
       }
