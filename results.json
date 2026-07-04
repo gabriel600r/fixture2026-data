@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:53:39Z",
+  "updated": "2026-07-04T22:55:28Z",
   "live": [
     {
       "id": 89,
@@ -67,6 +67,7 @@
           "team": "FRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           3,
@@ -82,11 +83,11 @@
         ],
         "passesPct": [
           55,
-          91
+          90
         ],
         "passesAccurate": [
-          85,
-          466
+          90,
+          488
         ],
         "offsides": [
           0,
@@ -98,7 +99,7 @@
         ],
         "shotsOutside": [
           3,
-          8
+          9
         ],
         "corners": [
           1,
@@ -106,18 +107,18 @@
         ],
         "shotsTotal": [
           4,
-          11
+          12
         ],
         "fouls": [
-          9,
+          10,
           9
         ],
         "passesTotal": [
-          154,
-          512
+          163,
+          541
         ],
         "saves": [
-          1,
+          2,
           0
         ],
         "shotsBlocked": [
@@ -130,7 +131,7 @@
         ],
         "shotsOn": [
           0,
-          2
+          3
         ],
         "home": "PAR",
         "away": "FRA"
