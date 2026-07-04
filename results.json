@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:30:54Z",
+  "updated": "2026-07-04T17:31:42Z",
   "live": [
     {
       "id": 90,
@@ -46,14 +46,14 @@
         ],
         "shotsTotal": [
           4,
-          0
+          1
         ],
         "fouls": [
           8,
           2
         ],
         "saves": [
-          0,
+          1,
           2
         ],
         "shotsBlocked": [
@@ -61,12 +61,12 @@
           0
         ],
         "possession": [
-          38,
-          62
+          40,
+          60
         ],
         "shotsOn": [
           2,
-          0
+          1
         ],
         "home": "CAN",
         "away": "MAR"
