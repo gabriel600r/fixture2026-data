@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:10:37Z",
+  "updated": "2026-07-04T18:11:25Z",
   "live": [
     {
       "id": 90,
@@ -66,9 +66,25 @@
           2,
           4
         ],
+        "passesPct": [
+          72,
+          89
+        ],
+        "passesAccurate": [
+          101,
+          267
+        ],
         "offsides": [
           0,
           2
+        ],
+        "shotsInside": [
+          4,
+          0
+        ],
+        "shotsOutside": [
+          0,
+          1
         ],
         "corners": [
           5,
@@ -81,6 +97,10 @@
         "fouls": [
           15,
           6
+        ],
+        "passesTotal": [
+          140,
+          300
         ],
         "saves": [
           1,
@@ -233,8 +253,8 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Y. Bounou",
-          "rating": 7.82,
+          "player": "Noussair Mazraoui",
+          "rating": 7.3,
           "team": "MAR"
         }
       }
