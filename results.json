@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-04T17:40:29Z",
+  "updated": "2026-07-04T17:41:16Z",
   "live": [
     {
       "id": 90,
       "status": "1H",
-      "minute": 39,
+      "minute": 40,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
           "player": "R. Halhal",
           "minute": 20,
+          "team": "MAR",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Hakimi",
+          "minute": 40,
           "team": "MAR",
           "color": "yellow"
         }
