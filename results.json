@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-04T01:44:04Z",
+  "updated": "2026-07-04T01:44:52Z",
   "live": [
     {
       "id": 87,
       "status": "1H",
-      "minute": 14,
-      "home": 0,
+      "minute": 15,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "J. Arias",
+          "minute": 14,
+          "team": "COL"
+        }
+      ],
       "cardEvents": [
         {
           "player": "J. Arias",
@@ -31,7 +38,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          45,
+          61,
           11
         ],
         "shotsInside": [
@@ -39,7 +46,7 @@
           0
         ],
         "passesPct": [
-          88,
+          90,
           73
         ],
         "shotsOff": [
@@ -55,7 +62,7 @@
           0
         ],
         "corners": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
@@ -63,15 +70,15 @@
           1
         ],
         "fouls": [
-          1,
+          2,
           0
         ],
         "possession": [
-          75,
-          25
+          81,
+          19
         ],
         "passesTotal": [
-          51,
+          68,
           15
         ],
         "shotsTotal": [
