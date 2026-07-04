@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T02:56:26Z",
+  "updated": "2026-07-04T02:57:14Z",
   "live": [
     {
       "id": 87,
@@ -63,8 +63,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          378,
-          195
+          380,
+          202
         ],
         "shotsInside": [
           7,
@@ -95,7 +95,7 @@
           4
         ],
         "fouls": [
-          8,
+          9,
           4
         ],
         "possession": [
@@ -103,8 +103,8 @@
           37
         ],
         "passesTotal": [
-          413,
-          236
+          415,
+          244
         ],
         "shotsTotal": [
           9,
@@ -262,7 +262,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Jhon Arias",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "COL"
         }
       }
