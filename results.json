@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:17:17Z",
+  "updated": "2026-07-04T00:18:06Z",
   "live": [
     {
       "id": 86,
@@ -25,6 +25,11 @@
           "minute": 92,
           "team": "ARG",
           "assist": "A. Mac Allister"
+        },
+        {
+          "player": "S. Lopes Cabral",
+          "minute": 103,
+          "team": "CPV"
         }
       ],
       "cardEvents": [
@@ -99,8 +104,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          685,
-          318
+          690,
+          326
         ],
         "shotsInside": [
           12,
@@ -108,7 +113,7 @@
         ],
         "passesPct": [
           92,
-          85
+          86
         ],
         "shotsOff": [
           4,
@@ -139,8 +144,8 @@
           34
         ],
         "passesTotal": [
-          741,
-          372
+          747,
+          380
         ],
         "shotsTotal": [
           19,
