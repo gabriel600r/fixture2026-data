@@ -1,59 +1,59 @@
 {
-  "updated": "2026-07-04T18:22:33Z",
+  "updated": "2026-07-04T18:25:41Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
-      "minute": 59,
+      "minute": 61,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "A. Ounahi",
+          "player": "Azzedine Ounahi",
           "minute": 50,
           "team": "MAR",
-          "assist": "A. Hakimi"
+          "assist": "Achraf Hakimi"
         }
       ],
       "cardEvents": [
         {
-          "player": "R. Halhal",
+          "player": "Redouane Halhal",
           "minute": 20,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "A. Hakimi",
+          "player": "Achraf Hakimi",
           "minute": 40,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "R. Laryea",
+          "player": "Richie Laryea",
           "minute": 40,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "J. David",
+          "player": "Jonathan David",
           "minute": 43,
           "team": "CAN",
           "color": "yellow"
         },
         {
-          "player": "A. Ounahi",
+          "player": "Azzedine Ounahi",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "B. El Khannouss",
+          "player": "Bilal El Khannouss",
           "minute": 45,
           "team": "MAR",
           "color": "yellow"
         },
         {
-          "player": "L. De Fougerolles",
+          "player": "Luc De Fougerolles",
           "minute": 49,
           "team": "CAN",
           "color": "yellow"
@@ -61,8 +61,8 @@
       ],
       "subs": [
         {
-          "out": "I. Saibari",
-          "in": "S. Rahimi",
+          "out": "Ismael Saibari",
+          "in": "Soufiane Rahimi",
           "minute": 22,
           "team": "MAR"
         }
@@ -80,28 +80,12 @@
           3,
           4
         ],
-        "passesPct": [
-          74,
-          88
-        ],
-        "passesAccurate": [
-          139,
-          315
-        ],
         "offsides": [
-          0,
+          1,
           3
         ],
-        "shotsInside": [
-          5,
-          0
-        ],
-        "shotsOutside": [
-          0,
-          2
-        ],
         "corners": [
-          6,
+          7,
           1
         ],
         "shotsTotal": [
@@ -110,11 +94,7 @@
         ],
         "fouls": [
           16,
-          6
-        ],
-        "passesTotal": [
-          187,
-          358
+          7
         ],
         "saves": [
           1,
@@ -125,8 +105,8 @@
           0
         ],
         "possession": [
-          35,
-          65
+          38,
+          62
         ],
         "shotsOn": [
           2,
@@ -267,8 +247,8 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Azzedine Ounahi",
-          "rating": 7.7,
+          "player": "A. Ounahi",
+          "rating": 7.79,
           "team": "MAR"
         }
       }
