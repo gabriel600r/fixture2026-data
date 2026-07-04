@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T22:22:47Z",
+  "updated": "2026-07-04T22:23:35Z",
   "live": [
     {
       "id": 89,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -38,11 +38,11 @@
         ],
         "passesPct": [
           53,
-          92
+          91
         ],
         "passesAccurate": [
-          49,
-          318
+          56,
+          331
         ],
         "offsides": [
           0,
@@ -54,26 +54,26 @@
         ],
         "shotsOutside": [
           2,
-          5
+          6
         ],
         "corners": [
           1,
-          8
+          10
         ],
         "shotsTotal": [
           3,
-          7
+          8
         ],
         "fouls": [
           5,
           7
         ],
         "passesTotal": [
-          92,
-          346
+          105,
+          364
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "shotsBlocked": [
@@ -81,12 +81,12 @@
           3
         ],
         "possession": [
-          21,
-          79
+          22,
+          78
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "home": "PAR",
         "away": "FRA"
