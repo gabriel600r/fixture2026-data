@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T00:34:21Z",
+  "updated": "2026-07-04T00:35:10Z",
   "live": [
     {
       "id": 86,
       "status": "ET",
-      "minute": 113,
+      "minute": 114,
       "home": 3,
       "away": 2,
       "goals": [
@@ -33,10 +33,10 @@
           "assist": "Y. Semedo"
         },
         {
-          "player": "C. Romero",
+          "player": "D. Borges",
           "minute": 111,
           "team": "ARG",
-          "assist": "L. Messi"
+          "og": true
         }
       ],
       "cardEvents": [
@@ -121,7 +121,7 @@
           375
         ],
         "shotsInside": [
-          14,
+          15,
           4
         ],
         "passesPct": [
@@ -129,7 +129,7 @@
           86
         ],
         "shotsOff": [
-          4,
+          5,
           4
         ],
         "yellow": [
@@ -141,7 +141,7 @@
           8
         ],
         "corners": [
-          7,
+          8,
           5
         ],
         "shotsOutside": [
@@ -161,7 +161,7 @@
           435
         ],
         "shotsTotal": [
-          21,
+          22,
           10
         ],
         "red": [
@@ -316,7 +316,7 @@
         "referee": "Drew Fischer, Canada",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 9.3,
+          "rating": 9.5,
           "team": "ARG"
         }
       }
