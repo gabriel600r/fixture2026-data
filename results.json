@@ -1,32 +1,46 @@
 {
-  "updated": "2026-07-04T01:42:29Z",
+  "updated": "2026-07-04T01:43:17Z",
   "live": [
     {
       "id": 87,
       "status": "1H",
-      "minute": 12,
+      "minute": 13,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "J. Arias",
+          "minute": 12,
+          "team": "COL",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "J. Cordoba",
           "in": "L. Suarez",
           "minute": 8,
           "team": "COL"
+        },
+        {
+          "out": "M. Senaya",
+          "in": "A. Seidu",
+          "minute": 13,
+          "team": "GHA"
         }
       ],
       "stats": {
         "passesAccurate": [
-          42,
-          10
+          45,
+          11
         ],
         "shotsInside": [
           0,
           0
         ],
         "passesPct": [
-          89,
-          77
+          88,
+          73
         ],
         "shotsOff": [
           0,
@@ -53,12 +67,12 @@
           0
         ],
         "possession": [
-          76,
-          24
+          75,
+          25
         ],
         "passesTotal": [
-          47,
-          13
+          51,
+          15
         ],
         "shotsTotal": [
           0,
