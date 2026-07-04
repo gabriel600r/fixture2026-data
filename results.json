@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-04T18:13:49Z",
+  "updated": "2026-07-04T18:14:37Z",
   "live": [
     {
       "id": 90,
       "status": "2H",
       "minute": 50,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Ounahi",
+          "minute": 50,
+          "team": "MAR",
+          "assist": "A. Hakimi"
+        }
+      ],
       "cardEvents": [
         {
           "player": "R. Halhal",
