@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-04T21:30:38Z",
+  "updated": "2026-07-04T21:31:25Z",
   "live": [
     {
       "id": 89,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "B. Barcola",
+          "player": "Bradley Barcola",
           "minute": 19,
           "team": "FRA",
           "color": "yellow"
