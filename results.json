@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-04T02:22:57Z",
+  "updated": "2026-07-04T02:23:44Z",
   "live": [
     {
       "id": 87,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": "J. Arias",
+          "player": "Jhon Arias",
           "minute": 14,
           "team": "COL",
-          "assist": "L. Suarez"
+          "assist": "Luis Suárez"
         }
       ],
       "cardEvents": [
         {
-          "player": "J. Arias",
+          "player": "Jhon Arias",
           "minute": 12,
           "team": "COL",
           "color": "yellow"
@@ -25,32 +25,19 @@
       ],
       "subs": [
         {
-          "out": "J. Cordoba",
-          "in": "L. Suarez",
+          "out": "Jhon Cordoba",
+          "in": "Luis Suárez",
           "minute": 8,
           "team": "COL"
         },
         {
-          "out": "M. Senaya",
-          "in": "A. Seidu",
+          "out": "Marvin Senaya",
+          "in": "Alidu Seidu",
           "minute": 13,
           "team": "GHA"
         }
       ],
-      "extra": 6,
       "stats": {
-        "passesAccurate": [
-          296,
-          125
-        ],
-        "shotsInside": [
-          4,
-          2
-        ],
-        "passesPct": [
-          94,
-          84
-        ],
         "shotsOff": [
           2,
           2
@@ -67,21 +54,13 @@
           1,
           2
         ],
-        "shotsOutside": [
-          1,
-          4
-        ],
         "fouls": [
-          4,
+          6,
           0
         ],
         "possession": [
-          68,
-          32
-        ],
-        "passesTotal": [
-          316,
-          149
+          67,
+          33
         ],
         "shotsTotal": [
           5,
@@ -93,10 +72,6 @@
         ],
         "shotsOn": [
           3,
-          0
-        ],
-        "offsides": [
-          0,
           0
         ],
         "shotsBlocked": [
