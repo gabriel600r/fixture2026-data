@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T20:13:16Z",
+  "updated": "2026-07-05T20:14:05Z",
   "live": [
     {
       "id": 91,
       "status": "1H",
-      "minute": 13,
+      "minute": 14,
       "home": 0,
       "away": 0,
       "stats": {
@@ -70,7 +70,7 @@
         ],
         "fouls": [
           0,
-          0
+          1
         ],
         "home": "BRA",
         "away": "NOR"
