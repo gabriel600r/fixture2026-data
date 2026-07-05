@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T21:44:05Z",
+  "updated": "2026-07-05T21:44:52Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 1,
       "goals": [
@@ -73,12 +73,12 @@
           0
         ],
         "passesTotal": [
-          258,
-          598
+          262,
+          605
         ],
         "passesAccurate": [
-          217,
-          549
+          221,
+          556
         ],
         "offsides": [
           1,
@@ -102,7 +102,7 @@
         ],
         "shotsTotal": [
           11,
-          7
+          8
         ],
         "shotsBlocked": [
           3,
@@ -114,11 +114,11 @@
         ],
         "shotsInside": [
           8,
-          6
+          7
         ],
         "shotsOn": [
           3,
-          3
+          4
         ],
         "fouls": [
           6,
@@ -259,8 +259,8 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Ørjan Nyland",
-          "rating": 8.0,
+          "player": "Erling Haaland",
+          "rating": 7.9,
           "team": "NOR"
         }
       }
