@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-05T21:51:59Z",
+  "updated": "2026-07-05T21:52:47Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
       "minute": 90,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "E. Haaland",
@@ -15,9 +15,10 @@
           "assist": "A. Schjelderup"
         },
         {
-          "player": null,
+          "player": "E. Haaland",
           "minute": 90,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "A. Schjelderup"
         }
       ],
       "subs": [
@@ -64,6 +65,7 @@
           "team": "BRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
           32,
@@ -78,24 +80,24 @@
           0
         ],
         "passesTotal": [
-          290,
-          629
+          297,
+          645
         ],
         "passesAccurate": [
-          247,
-          577
+          254,
+          590
         ],
         "offsides": [
           1,
           1
         ],
         "passesPct": [
-          85,
-          92
+          86,
+          91
         ],
         "shotsOutside": [
           3,
-          1
+          2
         ],
         "yellow": [
           0,
@@ -107,7 +109,7 @@
         ],
         "shotsTotal": [
           11,
-          8
+          9
         ],
         "shotsBlocked": [
           3,
@@ -115,7 +117,7 @@
         ],
         "corners": [
           5,
-          4
+          5
         ],
         "shotsInside": [
           8,
@@ -123,7 +125,7 @@
         ],
         "shotsOn": [
           3,
-          4
+          5
         ],
         "fouls": [
           6,
@@ -265,7 +267,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 7.9,
+          "rating": 8.2,
           "team": "NOR"
         }
       }
