@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:41:42Z",
+  "updated": "2026-07-05T21:42:30Z",
   "live": [
     {
       "id": 91,
@@ -7,6 +7,14 @@
       "minute": 80,
       "home": 0,
       "away": 1,
+      "goals": [
+        {
+          "player": "E. Haaland",
+          "minute": 80,
+          "team": "NOR",
+          "assist": "A. Schjelderup"
+        }
+      ],
       "subs": [
         {
           "out": "A. Sorloth",
