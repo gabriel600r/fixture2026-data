@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:29:43Z",
+  "updated": "2026-07-05T21:30:31Z",
   "live": [
     {
       "id": 91,
@@ -31,6 +31,18 @@
           "in": "F. Aursnes",
           "minute": 63,
           "team": "NOR"
+        },
+        {
+          "out": "G. Martinelli",
+          "in": "Neymar",
+          "minute": 68,
+          "team": "BRA"
+        },
+        {
+          "out": "Rayan",
+          "in": "Danilo Santos",
+          "minute": 68,
+          "team": "BRA"
         }
       ],
       "stats": {
