@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T22:03:04Z",
+  "updated": "2026-07-05T22:03:52Z",
   "live": [
     {
       "id": 91,
@@ -85,14 +85,14 @@
           "team": "NOR"
         }
       ],
-      "extra": 11,
+      "extra": 12,
       "stats": {
         "possession": [
           33,
           67
         ],
         "shotsOff": [
-          5,
+          6,
           3
         ],
         "red": [
@@ -100,11 +100,11 @@
           0
         ],
         "passesTotal": [
-          325,
+          326,
           677
         ],
         "passesAccurate": [
-          276,
+          277,
           616
         ],
         "offsides": [
@@ -128,7 +128,7 @@
           4
         ],
         "shotsTotal": [
-          12,
+          14,
           9
         ],
         "shotsBlocked": [
@@ -140,16 +140,16 @@
           5
         ],
         "shotsInside": [
-          8,
+          10,
           7
         ],
         "shotsOn": [
-          3,
+          4,
           5
         ],
         "fouls": [
           7,
-          4
+          6
         ],
         "home": "BRA",
         "away": "NOR"
