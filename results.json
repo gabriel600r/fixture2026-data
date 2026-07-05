@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T21:44:52Z",
+  "updated": "2026-07-05T21:46:27Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 1,
       "goals": [
@@ -73,11 +73,11 @@
           0
         ],
         "passesTotal": [
-          262,
-          605
+          271,
+          606
         ],
         "passesAccurate": [
-          221,
+          230,
           556
         ],
         "offsides": [
@@ -85,7 +85,7 @@
           1
         ],
         "passesPct": [
-          84,
+          85,
           92
         ],
         "shotsOutside": [
@@ -122,7 +122,7 @@
         ],
         "fouls": [
           6,
-          3
+          4
         ],
         "home": "BRA",
         "away": "NOR"
