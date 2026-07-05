@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:25:45Z",
+  "updated": "2026-07-05T21:26:33Z",
   "live": [
     {
       "id": 91,
@@ -25,6 +25,12 @@
           "in": "Endrick",
           "minute": 58,
           "team": "BRA"
+        },
+        {
+          "out": "J. Ryerson",
+          "in": "F. Aursnes",
+          "minute": 63,
+          "team": "NOR"
         }
       ],
       "stats": {
@@ -228,7 +234,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Ørjan Nyland",
-          "rating": 7.9,
+          "rating": 8.0,
           "team": "NOR"
         }
       }
