@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-05T20:02:54Z",
+  "updated": "2026-07-05T20:03:41Z",
   "live": [
     {
       "id": 91,
       "status": "1H",
-      "minute": 3,
+      "minute": 4,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 3,
+          "team": "NOR"
+        }
+      ],
       "stats": {
         "possession": [
           0,
