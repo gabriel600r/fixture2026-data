@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T21:31:19Z",
+  "updated": "2026-07-05T21:32:07Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 0,
       "subs": [
@@ -35,13 +35,13 @@
         {
           "out": "G. Martinelli",
           "in": "Neymar",
-          "minute": 68,
+          "minute": 67,
           "team": "BRA"
         },
         {
           "out": "Rayan",
           "in": "Danilo Santos",
-          "minute": 68,
+          "minute": 67,
           "team": "BRA"
         }
       ],
@@ -52,19 +52,19 @@
         ],
         "shotsOff": [
           5,
-          2
+          3
         ],
         "red": [
           0,
           0
         ],
         "passesTotal": [
-          232,
-          510
+          235,
+          518
         ],
         "passesAccurate": [
-          198,
-          465
+          199,
+          473
         ],
         "offsides": [
           1,
@@ -88,7 +88,7 @@
         ],
         "shotsTotal": [
           11,
-          5
+          6
         ],
         "shotsBlocked": [
           3,
@@ -96,11 +96,11 @@
         ],
         "corners": [
           3,
-          3
+          4
         ],
         "shotsInside": [
           8,
-          4
+          5
         ],
         "shotsOn": [
           3,
