@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T21:20:12Z",
+  "updated": "2026-07-05T21:21:00Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
       "away": 0,
       "subs": [
@@ -19,6 +19,12 @@
           "in": "A. Schjelderup",
           "minute": 46,
           "team": "NOR"
+        },
+        {
+          "out": "M. Cunha",
+          "in": "Endrick",
+          "minute": 58,
+          "team": "BRA"
         }
       ],
       "stats": {
@@ -36,11 +42,11 @@
         ],
         "passesTotal": [
           212,
-          417
+          428
         ],
         "passesAccurate": [
           181,
-          378
+          389
         ],
         "offsides": [
           0,
