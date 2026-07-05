@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:56:44Z",
+  "updated": "2026-07-05T21:57:31Z",
   "live": [
     {
       "id": 91,
@@ -63,6 +63,12 @@
           "in": "Ederson",
           "minute": 79,
           "team": "BRA"
+        },
+        {
+          "out": "K. Ajer",
+          "in": "L. Ostigard",
+          "minute": 90,
+          "team": "NOR"
         }
       ],
       "extra": 5,
@@ -80,12 +86,12 @@
           0
         ],
         "passesTotal": [
-          303,
-          647
+          311,
+          658
         ],
         "passesAccurate": [
-          260,
-          592
+          266,
+          600
         ],
         "offsides": [
           1,
