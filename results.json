@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-05T22:02:17Z",
+  "updated": "2026-07-05T22:03:04Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
       "minute": 90,
-      "home": 0,
+      "home": 1,
       "away": 2,
       "goals": [
         {
@@ -19,6 +19,12 @@
           "minute": 90,
           "team": "NOR",
           "assist": "A. Schjelderup"
+        },
+        {
+          "player": "Neymar",
+          "minute": 90,
+          "team": "BRA",
+          "pen": true
         }
       ],
       "cardEvents": [
@@ -79,7 +85,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
         "possession": [
           33,
