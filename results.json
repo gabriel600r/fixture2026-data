@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T22:00:41Z",
+  "updated": "2026-07-05T22:01:29Z",
   "live": [
     {
       "id": 91,
@@ -79,7 +79,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "possession": [
           33,
@@ -94,19 +94,19 @@
           0
         ],
         "passesTotal": [
-          321,
-          672
+          325,
+          677
         ],
         "passesAccurate": [
-          275,
-          612
+          276,
+          616
         ],
         "offsides": [
           1,
           1
         ],
         "passesPct": [
-          86,
+          85,
           91
         ],
         "shotsOutside": [
