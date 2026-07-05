@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T20:26:03Z",
+  "updated": "2026-07-05T20:26:51Z",
   "live": [
     {
       "id": 91,
       "status": "1H",
-      "minute": 26,
+      "minute": 27,
       "home": 0,
       "away": 0,
       "stats": {
@@ -22,11 +22,11 @@
         ],
         "passesTotal": [
           65,
-          164
+          169
         ],
         "passesAccurate": [
           53,
-          153
+          158
         ],
         "offsides": [
           0,
