@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:58:19Z",
+  "updated": "2026-07-05T21:59:06Z",
   "live": [
     {
       "id": 91,
@@ -19,6 +19,14 @@
           "minute": 90,
           "team": "NOR",
           "assist": "A. Schjelderup"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Neymar",
+          "minute": 90,
+          "team": "BRA",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -71,7 +79,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "possession": [
           33,
@@ -273,7 +281,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 9.2,
+          "rating": 9.0,
           "team": "NOR"
         }
       }
