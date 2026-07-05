@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-05T20:52:28Z",
+  "updated": "2026-07-05T21:08:16Z",
   "live": [
     {
       "id": 91,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
+      "subs": [
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 46,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Nusa",
+          "in": "A. Schjelderup",
+          "minute": 46,
+          "team": "NOR"
+        }
+      ],
       "stats": {
         "possession": [
           35,
@@ -205,7 +219,12 @@
             ]
           }
         },
-        "referee": "Ismail Elfath, USA"
+        "referee": "Ismail Elfath, USA",
+        "motm": {
+          "player": "Ørjan Nyland",
+          "rating": 7.9,
+          "team": "NOR"
+        }
       }
     }
   ],
