@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T22:01:29Z",
+  "updated": "2026-07-05T22:02:17Z",
   "live": [
     {
       "id": 91,
@@ -79,7 +79,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 9,
+      "extra": 10,
       "stats": {
         "possession": [
           33,
