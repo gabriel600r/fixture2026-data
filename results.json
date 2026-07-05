@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-05T21:40:55Z",
+  "updated": "2026-07-05T21:41:42Z",
   "live": [
     {
       "id": 91,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "subs": [
         {
           "out": "A. Sorloth",
