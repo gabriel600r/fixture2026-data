@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-05T20:41:17Z",
+  "updated": "2026-07-05T20:42:05Z",
   "live": [
     {
       "id": 91,
       "status": "1H",
-      "minute": 41,
+      "minute": 42,
       "home": 0,
       "away": 0,
       "stats": {
         "possession": [
-          34,
-          66
+          36,
+          64
         ],
         "shotsOff": [
           3,
@@ -21,23 +21,23 @@
           0
         ],
         "passesTotal": [
-          123,
-          244
+          144,
+          259
         ],
         "passesAccurate": [
-          104,
-          224
+          125,
+          238
         ],
         "offsides": [
           0,
           1
         ],
         "passesPct": [
-          85,
+          87,
           92
         ],
         "shotsOutside": [
-          0,
+          1,
           0
         ],
         "yellow": [
@@ -49,11 +49,11 @@
           1
         ],
         "shotsTotal": [
-          4,
+          5,
           2
         ],
         "shotsBlocked": [
-          0,
+          1,
           0
         ],
         "corners": [
@@ -69,7 +69,7 @@
           1
         ],
         "fouls": [
-          2,
+          3,
           2
         ],
         "home": "BRA",
