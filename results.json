@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:57:31Z",
+  "updated": "2026-07-05T21:58:19Z",
   "live": [
     {
       "id": 91,
@@ -65,13 +65,13 @@
           "team": "BRA"
         },
         {
-          "out": "K. Ajer",
+          "out": "D. Wolfe",
           "in": "L. Ostigard",
           "minute": 90,
           "team": "NOR"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "possession": [
           33,
