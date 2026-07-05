@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:55:56Z",
+  "updated": "2026-07-05T21:56:44Z",
   "live": [
     {
       "id": 91,
@@ -65,7 +65,7 @@
           "team": "BRA"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "possession": [
           33,
@@ -267,7 +267,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Erling Haaland",
-          "rating": 8.2,
+          "rating": 9.2,
           "team": "NOR"
         }
       }
