@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:08:56Z",
+  "updated": "2026-07-06T02:09:43Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 47,
+      "minute": 48,
       "home": 1,
       "away": 2,
       "goals": [
@@ -243,7 +243,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.7,
+          "rating": 8.9,
           "team": "ENG"
         }
       }
