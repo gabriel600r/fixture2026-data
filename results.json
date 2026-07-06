@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:38:17Z",
+  "updated": "2026-07-06T02:40:38Z",
   "live": [
     {
       "id": 92,
@@ -113,8 +113,8 @@
       ],
       "stats": {
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "shotsOff": [
           3,
@@ -125,11 +125,11 @@
           1
         ],
         "passesTotal": [
-          308,
+          317,
           209
         ],
         "passesAccurate": [
-          279,
+          288,
           177
         ],
         "offsides": [
