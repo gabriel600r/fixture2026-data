@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T21:00:15Z",
+  "updated": "2026-07-06T21:01:04Z",
   "live": [
     {
       "id": 93,
@@ -9,21 +9,21 @@
       "away": 1,
       "goals": [
         {
-          "player": "M. Merino",
+          "player": "Mikel Merino",
           "minute": 90,
           "team": "ESP",
-          "assist": "F. Torres"
+          "assist": "Ferrán Torres"
         }
       ],
       "cardEvents": [
         {
-          "player": "B. Silva",
+          "player": "Bernardo Silva",
           "minute": 89,
           "team": "POR",
           "color": "yellow"
         },
         {
-          "player": "R. Veiga",
+          "player": "Renato Veiga",
           "minute": 90,
           "team": "POR",
           "color": "yellow"
@@ -31,55 +31,61 @@
       ],
       "subs": [
         {
-          "out": "N. Mendes",
-          "in": "N. Semedo",
+          "out": "Nuno Mendes",
+          "in": "Nélson Semedo",
           "minute": 56,
           "team": "POR"
         },
         {
+          "out": "João Cancelo",
+          "in": "Diogo Dalot",
+          "minute": 71,
+          "team": "POR"
+        },
+        {
           "out": "Joao Felix",
-          "in": "R. Leao",
+          "in": "Rafael Leão",
           "minute": 71,
           "team": "POR"
         },
         {
-          "out": "J. Cancelo",
-          "in": "D. Dalot",
-          "minute": 71,
-          "team": "POR"
-        },
-        {
-          "out": "A. Baena",
-          "in": "F. Torres",
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Ferrán Torres",
           "minute": 75,
           "team": "ESP"
         },
         {
-          "out": "P. Neto",
-          "in": "F. Conceicao",
+          "out": "Pedro Neto",
+          "in": "Francisco Conceicao",
           "minute": 83,
           "team": "POR"
         },
         {
           "out": "Vitinha",
-          "in": "B. Silva",
+          "in": "Bernardo Silva",
           "minute": 83,
           "team": "POR"
         },
         {
           "out": "Pedri",
-          "in": "F. Ruiz",
+          "in": "Fabián Ruiz",
           "minute": 85,
           "team": "ESP"
         },
         {
-          "out": "D. Olmo",
-          "in": "M. Merino",
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
           "minute": 85,
+          "team": "ESP"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Borja Iglesias",
+          "minute": 90,
           "team": "ESP"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsTotal": [
           8,
