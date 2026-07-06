@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T20:37:45Z",
+  "updated": "2026-07-06T20:38:33Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 0,
       "subs": [
@@ -25,6 +25,12 @@
           "in": "D. Dalot",
           "minute": 71,
           "team": "POR"
+        },
+        {
+          "out": "A. Baena",
+          "in": "F. Torres",
+          "minute": 75,
+          "team": "ESP"
         }
       ],
       "stats": {
