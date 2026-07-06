@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:23:12Z",
+  "updated": "2026-07-06T02:24:00Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 3,
       "goals": [
@@ -78,7 +78,7 @@
         ],
         "passesTotal": [
           285,
-          185
+          186
         ],
         "passesAccurate": [
           261,
@@ -90,7 +90,7 @@
         ],
         "passesPct": [
           92,
-          84
+          83
         ],
         "shotsOutside": [
           4,
@@ -106,7 +106,7 @@
         ],
         "shotsTotal": [
           9,
-          4
+          5
         ],
         "shotsBlocked": [
           3,
@@ -118,14 +118,14 @@
         ],
         "shotsInside": [
           5,
-          3
+          4
         ],
         "shotsOn": [
           3,
-          3
+          4
         ],
         "fouls": [
-          9,
+          10,
           5
         ],
         "home": "MEX",
