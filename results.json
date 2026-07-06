@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:57:42Z",
+  "updated": "2026-07-06T20:58:29Z",
   "live": [
     {
       "id": 93,
@@ -79,7 +79,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsTotal": [
           8,
@@ -90,7 +90,7 @@
           6
         ],
         "fouls": [
-          8,
+          9,
           12
         ],
         "shotsInside": [
@@ -98,16 +98,16 @@
           8
         ],
         "possession": [
-          42,
-          58
+          43,
+          57
         ],
         "yellow": [
-          1,
+          2,
           0
         ],
         "passesTotal": [
-          381,
-          524
+          400,
+          529
         ],
         "corners": [
           3,
@@ -130,8 +130,8 @@
           1
         ],
         "passesAccurate": [
-          318,
-          461
+          333,
+          466
         ],
         "passesPct": [
           83,
@@ -281,7 +281,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Mikel Merino",
-          "rating": 7.3,
+          "rating": 7.6,
           "team": "ESP"
         }
       }
