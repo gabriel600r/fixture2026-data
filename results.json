@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:51:20Z",
+  "updated": "2026-07-06T20:52:08Z",
   "live": [
     {
       "id": 93,
@@ -7,6 +7,14 @@
       "minute": 89,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "B. Silva",
+          "minute": 89,
+          "team": "POR",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "N. Mendes",
