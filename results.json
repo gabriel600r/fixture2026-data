@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T20:44:56Z",
+  "updated": "2026-07-06T20:45:44Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 0,
       "subs": [
@@ -31,6 +31,18 @@
           "in": "F. Torres",
           "minute": 75,
           "team": "ESP"
+        },
+        {
+          "out": "P. Neto",
+          "in": "F. Conceicao",
+          "minute": 83,
+          "team": "POR"
+        },
+        {
+          "out": "Vitinha",
+          "in": "B. Silva",
+          "minute": 83,
+          "team": "POR"
         }
       ],
       "stats": {
