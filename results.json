@@ -1,298 +1,6 @@
 {
-  "updated": "2026-07-06T21:01:04Z",
-  "live": [
-    {
-      "id": 93,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 1,
-      "goals": [
-        {
-          "player": "Mikel Merino",
-          "minute": 90,
-          "team": "ESP",
-          "assist": "Ferrán Torres"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Bernardo Silva",
-          "minute": 89,
-          "team": "POR",
-          "color": "yellow"
-        },
-        {
-          "player": "Renato Veiga",
-          "minute": 90,
-          "team": "POR",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Nuno Mendes",
-          "in": "Nélson Semedo",
-          "minute": 56,
-          "team": "POR"
-        },
-        {
-          "out": "João Cancelo",
-          "in": "Diogo Dalot",
-          "minute": 71,
-          "team": "POR"
-        },
-        {
-          "out": "Joao Felix",
-          "in": "Rafael Leão",
-          "minute": 71,
-          "team": "POR"
-        },
-        {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Ferrán Torres",
-          "minute": 75,
-          "team": "ESP"
-        },
-        {
-          "out": "Pedro Neto",
-          "in": "Francisco Conceicao",
-          "minute": 83,
-          "team": "POR"
-        },
-        {
-          "out": "Vitinha",
-          "in": "Bernardo Silva",
-          "minute": 83,
-          "team": "POR"
-        },
-        {
-          "out": "Pedri",
-          "in": "Fabián Ruiz",
-          "minute": 85,
-          "team": "ESP"
-        },
-        {
-          "out": "Daniel Olmo Carvajal",
-          "in": "Mikel Merino",
-          "minute": 85,
-          "team": "ESP"
-        },
-        {
-          "out": "Mikel Oyarzabal",
-          "in": "Borja Iglesias",
-          "minute": 90,
-          "team": "ESP"
-        }
-      ],
-      "extra": 8,
-      "stats": {
-        "shotsTotal": [
-          8,
-          15
-        ],
-        "shotsOn": [
-          2,
-          6
-        ],
-        "fouls": [
-          9,
-          12
-        ],
-        "shotsInside": [
-          5,
-          8
-        ],
-        "possession": [
-          43,
-          57
-        ],
-        "yellow": [
-          2,
-          0
-        ],
-        "passesTotal": [
-          400,
-          529
-        ],
-        "corners": [
-          3,
-          7
-        ],
-        "shotsOutside": [
-          3,
-          7
-        ],
-        "saves": [
-          5,
-          2
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "offsides": [
-          2,
-          1
-        ],
-        "passesAccurate": [
-          333,
-          466
-        ],
-        "passesPct": [
-          83,
-          88
-        ],
-        "shotsOff": [
-          3,
-          6
-        ],
-        "shotsBlocked": [
-          3,
-          3
-        ],
-        "home": "POR",
-        "away": "ESP"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Roberto Martinez",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Diogo Costa",
-                "pos": "G"
-              },
-              {
-                "n": 20,
-                "name": "João Cancelo",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Rúben Dias",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Renato Veiga",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Nuno Mendes",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Vitinha",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "João Neves",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Pedro Neto",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Bruno Fernandes",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "João Félix",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Cristiano Ronaldo",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Luis de la Fuente",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Unai Simón",
-                "pos": "G"
-              },
-              {
-                "n": 12,
-                "name": "Pedro Porro",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Pau Cubarsí",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Aymeric Laporte",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Marc Cucurella",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Rodri",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Pedri",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Anthony Taylor, England",
-        "motm": {
-          "player": "Mikel Merino",
-          "rating": 7.7,
-          "team": "ESP"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-06T21:01:51Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -28592,6 +28300,294 @@
           "team": "ENG"
         }
       }
+    },
+    {
+      "id": 93,
+      "home": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Mikel Merino",
+          "minute": 90,
+          "team": "ESP",
+          "assist": "Ferrán Torres"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Bernardo Silva",
+          "minute": 89,
+          "team": "POR",
+          "color": "yellow"
+        },
+        {
+          "player": "Renato Veiga",
+          "minute": 90,
+          "team": "POR",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Nuno Mendes",
+          "in": "Nélson Semedo",
+          "minute": 56,
+          "team": "POR"
+        },
+        {
+          "out": "João Cancelo",
+          "in": "Diogo Dalot",
+          "minute": 71,
+          "team": "POR"
+        },
+        {
+          "out": "Joao Felix",
+          "in": "Rafael Leão",
+          "minute": 71,
+          "team": "POR"
+        },
+        {
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Ferrán Torres",
+          "minute": 75,
+          "team": "ESP"
+        },
+        {
+          "out": "Pedro Neto",
+          "in": "Francisco Conceicao",
+          "minute": 83,
+          "team": "POR"
+        },
+        {
+          "out": "Vitinha",
+          "in": "Bernardo Silva",
+          "minute": 83,
+          "team": "POR"
+        },
+        {
+          "out": "Pedri",
+          "in": "Fabián Ruiz",
+          "minute": 85,
+          "team": "ESP"
+        },
+        {
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
+          "minute": 85,
+          "team": "ESP"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Borja Iglesias",
+          "minute": 90,
+          "team": "ESP"
+        }
+      ],
+      "stats": {
+        "shotsTotal": [
+          8,
+          15
+        ],
+        "shotsOn": [
+          2,
+          6
+        ],
+        "fouls": [
+          9,
+          12
+        ],
+        "shotsInside": [
+          5,
+          8
+        ],
+        "possession": [
+          43,
+          57
+        ],
+        "yellow": [
+          2,
+          0
+        ],
+        "passesTotal": [
+          400,
+          529
+        ],
+        "corners": [
+          3,
+          7
+        ],
+        "shotsOutside": [
+          3,
+          7
+        ],
+        "saves": [
+          5,
+          2
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "offsides": [
+          2,
+          1
+        ],
+        "passesAccurate": [
+          333,
+          466
+        ],
+        "passesPct": [
+          83,
+          88
+        ],
+        "shotsOff": [
+          3,
+          6
+        ],
+        "shotsBlocked": [
+          3,
+          3
+        ],
+        "home": "POR",
+        "away": "ESP"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Roberto Martinez",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Diogo Costa",
+                "pos": "G"
+              },
+              {
+                "n": 20,
+                "name": "João Cancelo",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Rúben Dias",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Renato Veiga",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Nuno Mendes",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Vitinha",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "João Neves",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Pedro Neto",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Bruno Fernandes",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "João Félix",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Cristiano Ronaldo",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Pedri",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Alex Baena",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Anthony Taylor, England",
+        "motm": {
+          "player": "Mikel Merino",
+          "rating": 7.7,
+          "team": "ESP"
+        }
+      }
     }
   ],
   "stats": {
@@ -29034,6 +29030,12 @@
         "yellow": 2
       },
       {
+        "player": "Bernardo Silva",
+        "team": "POR",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "C. Larin",
         "team": "CAN",
         "red": 0,
@@ -29110,12 +29112,6 @@
         "team": "COD",
         "red": 0,
         "yellow": 2
-      },
-      {
-        "player": "S. Ezatolahi",
-        "team": "IRN",
-        "red": 0,
-        "yellow": 2
       }
     ]
   },
@@ -29133,6 +29129,20 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "WWWWW"
+    },
+    {
+      "code": "ESP",
+      "played": 5,
+      "wins": 4,
+      "draws": 1,
+      "loses": 0,
+      "gf": 9,
+      "ga": 0,
+      "cleanSheets": 5,
+      "failedToScore": 1,
+      "biggestWin": "4-0",
+      "biggestLose": "",
+      "form": "DWWWW"
     },
     {
       "code": "ENG",
@@ -29205,20 +29215,6 @@
       "form": "DWWDW"
     },
     {
-      "code": "ESP",
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "loses": 0,
-      "gf": 8,
-      "ga": 0,
-      "cleanSheets": 4,
-      "failedToScore": 1,
-      "biggestWin": "4-0",
-      "biggestLose": "",
-      "form": "DWWW"
-    },
-    {
       "code": "SUI",
       "played": 4,
       "wins": 3,
@@ -29289,20 +29285,6 @@
       "form": "DWWD"
     },
     {
-      "code": "POR",
-      "played": 4,
-      "wins": 2,
-      "draws": 2,
-      "loses": 0,
-      "gf": 8,
-      "ga": 2,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "5-0",
-      "biggestLose": "",
-      "form": "DWDW"
-    },
-    {
       "code": "BEL",
       "played": 4,
       "wins": 2,
@@ -29315,6 +29297,20 @@
       "biggestWin": "5-1",
       "biggestLose": "",
       "form": "DDWW"
+    },
+    {
+      "code": "POR",
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "loses": 1,
+      "gf": 8,
+      "ga": 3,
+      "cleanSheets": 2,
+      "failedToScore": 2,
+      "biggestWin": "5-0",
+      "biggestLose": "0-1",
+      "form": "DWDWL"
     },
     {
       "code": "GER",
