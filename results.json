@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-06T01:35:44Z",
+  "updated": "2026-07-06T01:37:18Z",
   "live": [
     {
       "id": 92,
       "status": "1H",
-      "minute": 36,
+      "minute": 37,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "J. Bellingham",
+          "minute": 36,
+          "team": "ENG",
+          "assist": "B. Saka"
+        }
+      ],
       "cardEvents": [
         {
           "player": "D. Rice",
