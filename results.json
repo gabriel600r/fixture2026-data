@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:52:31Z",
+  "updated": "2026-07-06T02:53:19Z",
   "live": [
     {
       "id": 92,
@@ -129,13 +129,14 @@
           "team": "ENG"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
           64,
           36
         ],
         "shotsOff": [
-          5,
+          6,
           1
         ],
         "red": [
@@ -143,12 +144,12 @@
           1
         ],
         "passesTotal": [
-          376,
-          224
+          388,
+          228
         ],
         "passesAccurate": [
-          347,
-          187
+          357,
+          188
         ],
         "offsides": [
           1,
@@ -156,10 +157,10 @@
         ],
         "passesPct": [
           92,
-          83
+          82
         ],
         "shotsOutside": [
-          4,
+          6,
           1
         ],
         "yellow": [
@@ -168,10 +169,10 @@
         ],
         "saves": [
           1,
-          2
+          3
         ],
         "shotsTotal": [
-          13,
+          15,
           5
         ],
         "shotsBlocked": [
@@ -187,11 +188,11 @@
           4
         ],
         "shotsOn": [
-          4,
+          5,
           4
         ],
         "fouls": [
-          13,
+          14,
           6
         ],
         "home": "MEX",
@@ -330,7 +331,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.9,
+          "rating": 9.2,
           "team": "ENG"
         }
       }
