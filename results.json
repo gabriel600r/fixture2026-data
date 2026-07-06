@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:43:01Z",
+  "updated": "2026-07-06T02:43:48Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 2,
       "away": 3,
       "goals": [
@@ -115,6 +115,12 @@
           "in": "Álvaro Fidalgo",
           "minute": 79,
           "team": "MEX"
+        },
+        {
+          "out": "Julián Quiñones",
+          "in": "Guillermo Martinez",
+          "minute": 81,
+          "team": "MEX"
         }
       ],
       "stats": {
@@ -123,7 +129,7 @@
           37
         ],
         "shotsOff": [
-          3,
+          4,
           1
         ],
         "red": [
@@ -131,7 +137,7 @@
           1
         ],
         "corners": [
-          6,
+          8,
           2
         ],
         "saves": [
@@ -139,7 +145,7 @@
           2
         ],
         "shotsTotal": [
-          11,
+          12,
           5
         ],
         "shotsBlocked": [
