@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:53:43Z",
+  "updated": "2026-07-06T20:54:31Z",
   "live": [
     {
       "id": 93,
@@ -73,7 +73,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsTotal": [
           8,
@@ -274,9 +274,9 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Diogo Costa",
-          "rating": 7.7,
-          "team": "POR"
+          "player": "Mikel Merino",
+          "rating": 6.6,
+          "team": "ESP"
         }
       }
     }
