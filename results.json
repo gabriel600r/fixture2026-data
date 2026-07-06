@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-06T20:32:12Z",
+  "updated": "2026-07-06T20:33:46Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 68,
+      "minute": 71,
       "home": 0,
       "away": 0,
       "subs": [
         {
-          "out": "N. Mendes",
-          "in": "N. Semedo",
+          "out": "Nuno Mendes",
+          "in": "Nélson Semedo",
           "minute": 56,
           "team": "POR"
         }
@@ -28,29 +28,17 @@
           5,
           10
         ],
-        "shotsInside": [
-          4,
-          5
-        ],
-        "possession": [
-          46,
-          54
-        ],
         "yellow": [
           0,
           0
         ],
-        "passesTotal": [
-          322,
-          374
+        "possession": [
+          44,
+          56
         ],
         "corners": [
           3,
           4
-        ],
-        "shotsOutside": [
-          2,
-          6
         ],
         "saves": [
           4,
@@ -63,14 +51,6 @@
         "offsides": [
           2,
           1
-        ],
-        "passesAccurate": [
-          272,
-          325
-        ],
-        "passesPct": [
-          84,
-          87
         ],
         "shotsOff": [
           2,
