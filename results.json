@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:31:58Z",
+  "updated": "2026-07-06T02:32:45Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 2,
       "away": 3,
       "goals": [
@@ -55,8 +55,8 @@
           "color": "red"
         },
         {
-          "player": "H. Kane",
-          "minute": 69,
+          "player": "M. Guehi",
+          "minute": 68,
           "team": "ENG",
           "color": "yellow"
         }
