@@ -1,17 +1,29 @@
 {
-  "updated": "2026-07-06T20:33:46Z",
+  "updated": "2026-07-06T20:34:34Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 0,
       "away": 0,
       "subs": [
         {
-          "out": "Nuno Mendes",
-          "in": "Nélson Semedo",
+          "out": "N. Mendes",
+          "in": "N. Semedo",
           "minute": 56,
+          "team": "POR"
+        },
+        {
+          "out": "Joao Felix",
+          "in": "R. Leao",
+          "minute": 71,
+          "team": "POR"
+        },
+        {
+          "out": "J. Cancelo",
+          "in": "D. Dalot",
+          "minute": 71,
           "team": "POR"
         }
       ],
@@ -28,17 +40,29 @@
           5,
           10
         ],
-        "yellow": [
-          0,
-          0
+        "shotsInside": [
+          4,
+          5
         ],
         "possession": [
           44,
           56
         ],
+        "yellow": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          323,
+          401
+        ],
         "corners": [
           3,
           4
+        ],
+        "shotsOutside": [
+          2,
+          6
         ],
         "saves": [
           4,
@@ -51,6 +75,14 @@
         "offsides": [
           2,
           1
+        ],
+        "passesAccurate": [
+          274,
+          351
+        ],
+        "passesPct": [
+          85,
+          88
         ],
         "shotsOff": [
           2,
