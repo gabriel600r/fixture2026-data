@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T20:21:50Z",
+  "updated": "2026-07-06T20:22:38Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "subs": [
@@ -215,9 +215,9 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Diogo Costa",
+          "player": "Rodri",
           "rating": 7.3,
-          "team": "POR"
+          "team": "ESP"
         }
       }
     }
