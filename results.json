@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:16:04Z",
+  "updated": "2026-07-06T02:16:51Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 54,
+      "minute": 55,
       "home": 1,
       "away": 2,
       "goals": [
@@ -26,12 +26,21 @@
           "team": "MEX"
         }
       ],
+      "redCards": [
+        "J. Quansah (England) 54'"
+      ],
       "cardEvents": [
         {
           "player": "D. Rice",
           "minute": 1,
           "team": "ENG",
           "color": "yellow"
+        },
+        {
+          "player": "J. Quansah",
+          "minute": 54,
+          "team": "ENG",
+          "color": "red"
         }
       ],
       "subs": [
