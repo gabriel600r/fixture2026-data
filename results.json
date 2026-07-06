@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-06T02:22:25Z",
+  "updated": "2026-07-06T02:23:12Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "J. Bellingham",
@@ -24,6 +24,12 @@
           "player": "J. Quinones",
           "minute": 42,
           "team": "MEX"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 60,
+          "team": "ENG",
+          "pen": true
         }
       ],
       "redCards": [
