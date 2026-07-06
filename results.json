@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:30:22Z",
+  "updated": "2026-07-06T02:31:10Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 3,
       "goals": [
@@ -47,6 +47,12 @@
           "minute": 54,
           "team": "ENG",
           "color": "red"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 69,
+          "team": "ENG",
+          "color": "yellow"
         }
       ],
       "subs": [
