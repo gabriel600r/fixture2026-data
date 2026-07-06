@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:32:45Z",
+  "updated": "2026-07-06T02:34:19Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 2,
       "away": 3,
       "goals": [
@@ -59,6 +59,12 @@
           "minute": 68,
           "team": "ENG",
           "color": "yellow"
+        },
+        {
+          "player": "J. Sanchez",
+          "minute": 72,
+          "team": "MEX",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -101,12 +107,12 @@
           1
         ],
         "passesTotal": [
-          305,
-          206
+          308,
+          209
         ],
         "passesAccurate": [
-          277,
-          174
+          279,
+          177
         ],
         "offsides": [
           0,
@@ -114,7 +120,7 @@
         ],
         "passesPct": [
           91,
-          84
+          85
         ],
         "shotsOutside": [
           4,
@@ -129,7 +135,7 @@
           2
         ],
         "shotsTotal": [
-          9,
+          10,
           5
         ],
         "shotsBlocked": [
@@ -141,11 +147,11 @@
           2
         ],
         "shotsInside": [
-          5,
+          6,
           4
         ],
         "shotsOn": [
-          3,
+          4,
           4
         ],
         "fouls": [
