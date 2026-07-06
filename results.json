@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:51:44Z",
+  "updated": "2026-07-06T02:52:31Z",
   "live": [
     {
       "id": 92,
@@ -121,6 +121,12 @@
           "in": "G. Martinez",
           "minute": 81,
           "team": "MEX"
+        },
+        {
+          "out": "H. Kane",
+          "in": "M. Rogers",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
       "stats": {
