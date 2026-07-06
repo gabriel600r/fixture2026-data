@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:56:06Z",
+  "updated": "2026-07-06T20:56:54Z",
   "live": [
     {
       "id": 93,
@@ -23,7 +23,7 @@
           "color": "yellow"
         },
         {
-          "player": "N. Semedo",
+          "player": "R. Veiga",
           "minute": 90,
           "team": "POR",
           "color": "yellow"
@@ -79,7 +79,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsTotal": [
           8,
@@ -281,7 +281,7 @@
         "referee": "Anthony Taylor, England",
         "motm": {
           "player": "Mikel Merino",
-          "rating": 6.6,
+          "rating": 7.3,
           "team": "ESP"
         }
       }
