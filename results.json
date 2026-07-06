@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-06T20:52:55Z",
+  "updated": "2026-07-06T20:53:43Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
       "minute": 90,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "M. Merino",
+          "minute": 90,
+          "team": "ESP",
+          "assist": "F. Torres"
+        }
+      ],
       "cardEvents": [
         {
           "player": "B. Silva",
@@ -65,6 +73,7 @@
           "team": "ESP"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsTotal": [
           8,
