@@ -1,354 +1,6 @@
 {
-  "updated": "2026-07-06T03:03:44Z",
-  "live": [
-    {
-      "id": 92,
-      "status": "2H",
-      "minute": 90,
-      "home": 2,
-      "away": 3,
-      "goals": [
-        {
-          "player": "J. Bellingham",
-          "minute": 36,
-          "team": "ENG",
-          "assist": "B. Saka"
-        },
-        {
-          "player": "J. Bellingham",
-          "minute": 38,
-          "team": "ENG",
-          "assist": "H. Kane"
-        },
-        {
-          "player": "J. Quinones",
-          "minute": 42,
-          "team": "MEX"
-        },
-        {
-          "player": "H. Kane",
-          "minute": 60,
-          "team": "ENG",
-          "pen": true
-        },
-        {
-          "player": "R. Jimenez",
-          "minute": 69,
-          "team": "MEX",
-          "pen": true
-        }
-      ],
-      "redCards": [
-        "J. Quansah (England) 54'"
-      ],
-      "cardEvents": [
-        {
-          "player": "D. Rice",
-          "minute": 1,
-          "team": "ENG",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Quansah",
-          "minute": 54,
-          "team": "ENG",
-          "color": "red"
-        },
-        {
-          "player": "M. Guehi",
-          "minute": 68,
-          "team": "ENG",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Sanchez",
-          "minute": 71,
-          "team": "MEX",
-          "color": "yellow"
-        },
-        {
-          "player": "N. O'Reilly",
-          "minute": 72,
-          "team": "ENG",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Vasquez",
-          "minute": 90,
-          "team": "MEX",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Henderson",
-          "minute": 90,
-          "team": "ENG",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "C. Montes",
-          "in": "E. Alvarez",
-          "minute": 46,
-          "team": "MEX"
-        },
-        {
-          "out": "B. Saka",
-          "in": "J. Stones",
-          "minute": 57,
-          "team": "ENG"
-        },
-        {
-          "out": "G. Mora",
-          "in": "S. Gimenez",
-          "minute": 61,
-          "team": "MEX"
-        },
-        {
-          "out": "L. Romo",
-          "in": "B. Gutierrez",
-          "minute": 61,
-          "team": "MEX"
-        },
-        {
-          "out": "N. O'Reilly",
-          "in": "D. Spence",
-          "minute": 74,
-          "team": "ENG"
-        },
-        {
-          "out": "E. Anderson",
-          "in": "D. Burn",
-          "minute": 75,
-          "team": "ENG"
-        },
-        {
-          "out": "J. Sanchez",
-          "in": "A. Fidalgo",
-          "minute": 79,
-          "team": "MEX"
-        },
-        {
-          "out": "J. Quinones",
-          "in": "G. Martinez",
-          "minute": 81,
-          "team": "MEX"
-        },
-        {
-          "out": "H. Kane",
-          "in": "M. Rogers",
-          "minute": 90,
-          "team": "ENG"
-        }
-      ],
-      "extra": 12,
-      "stats": {
-        "possession": [
-          66,
-          34
-        ],
-        "shotsOff": [
-          7,
-          1
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "passesTotal": [
-          440,
-          241
-        ],
-        "passesAccurate": [
-          407,
-          194
-        ],
-        "offsides": [
-          1,
-          0
-        ],
-        "passesPct": [
-          93,
-          80
-        ],
-        "shotsOutside": [
-          8,
-          2
-        ],
-        "yellow": [
-          2,
-          4
-        ],
-        "saves": [
-          2,
-          3
-        ],
-        "shotsTotal": [
-          18,
-          6
-        ],
-        "shotsBlocked": [
-          6,
-          0
-        ],
-        "corners": [
-          10,
-          2
-        ],
-        "shotsInside": [
-          10,
-          4
-        ],
-        "shotsOn": [
-          5,
-          5
-        ],
-        "fouls": [
-          14,
-          7
-        ],
-        "home": "MEX",
-        "away": "ENG"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-3-3",
-            "coach": "Javier Aguirre",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Raúl Rangel",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Jorge Sánchez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "César Montes",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Johan Vásquez",
-                "pos": "D"
-              },
-              {
-                "n": 23,
-                "name": "Jesús Gallardo",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Gilberto Mora",
-                "pos": "M"
-              },
-              {
-                "n": 6,
-                "name": "Erik Lira",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Luis Romo",
-                "pos": "M"
-              },
-              {
-                "n": 25,
-                "name": "Roberto Alvarado",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Raúl Jiménez",
-                "pos": "F"
-              },
-              {
-                "n": 16,
-                "name": "Julián Quiñones",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Thomas Tuchel",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Jordan Pickford",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Jarell Quansah",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Ezri Konsa",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Marc Guéhi",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nico O'Reilly",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Declan Rice",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Elliot Anderson",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Bukayo Saka",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Jude Bellingham",
-                "pos": "M"
-              },
-              {
-                "n": 18,
-                "name": "Anthony Gordon",
-                "pos": "M"
-              },
-              {
-                "n": 9,
-                "name": "Harry Kane",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Alireza Faghani, Australia",
-        "motm": {
-          "player": "Jude Bellingham",
-          "rating": 9.2,
-          "team": "ENG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-06T03:05:18Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -28304,6 +27956,350 @@
           "team": "NOR"
         }
       }
+    },
+    {
+      "id": 92,
+      "home": 2,
+      "away": 3,
+      "goals": [
+        {
+          "player": "J. Bellingham",
+          "minute": 36,
+          "team": "ENG",
+          "assist": "B. Saka"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 38,
+          "team": "ENG",
+          "assist": "H. Kane"
+        },
+        {
+          "player": "J. Quinones",
+          "minute": 42,
+          "team": "MEX"
+        },
+        {
+          "player": "H. Kane",
+          "minute": 60,
+          "team": "ENG",
+          "pen": true
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 69,
+          "team": "MEX",
+          "pen": true
+        }
+      ],
+      "redCards": [
+        "J. Quansah (England) 54'"
+      ],
+      "cardEvents": [
+        {
+          "player": "D. Rice",
+          "minute": 1,
+          "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Quansah",
+          "minute": 54,
+          "team": "ENG",
+          "color": "red"
+        },
+        {
+          "player": "M. Guehi",
+          "minute": 68,
+          "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Sanchez",
+          "minute": 71,
+          "team": "MEX",
+          "color": "yellow"
+        },
+        {
+          "player": "N. O'Reilly",
+          "minute": 72,
+          "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Vasquez",
+          "minute": 90,
+          "team": "MEX",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Henderson",
+          "minute": 90,
+          "team": "ENG",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Montes",
+          "in": "E. Alvarez",
+          "minute": 46,
+          "team": "MEX"
+        },
+        {
+          "out": "B. Saka",
+          "in": "J. Stones",
+          "minute": 57,
+          "team": "ENG"
+        },
+        {
+          "out": "G. Mora",
+          "in": "S. Gimenez",
+          "minute": 61,
+          "team": "MEX"
+        },
+        {
+          "out": "L. Romo",
+          "in": "B. Gutierrez",
+          "minute": 61,
+          "team": "MEX"
+        },
+        {
+          "out": "N. O'Reilly",
+          "in": "D. Spence",
+          "minute": 74,
+          "team": "ENG"
+        },
+        {
+          "out": "E. Anderson",
+          "in": "D. Burn",
+          "minute": 75,
+          "team": "ENG"
+        },
+        {
+          "out": "J. Sanchez",
+          "in": "A. Fidalgo",
+          "minute": 79,
+          "team": "MEX"
+        },
+        {
+          "out": "J. Quinones",
+          "in": "G. Martinez",
+          "minute": 81,
+          "team": "MEX"
+        },
+        {
+          "out": "H. Kane",
+          "in": "M. Rogers",
+          "minute": 90,
+          "team": "ENG"
+        }
+      ],
+      "stats": {
+        "possession": [
+          66,
+          34
+        ],
+        "shotsOff": [
+          7,
+          1
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "passesTotal": [
+          440,
+          241
+        ],
+        "passesAccurate": [
+          407,
+          194
+        ],
+        "offsides": [
+          1,
+          0
+        ],
+        "passesPct": [
+          93,
+          80
+        ],
+        "shotsOutside": [
+          8,
+          2
+        ],
+        "yellow": [
+          2,
+          4
+        ],
+        "saves": [
+          2,
+          3
+        ],
+        "shotsTotal": [
+          18,
+          6
+        ],
+        "shotsBlocked": [
+          6,
+          0
+        ],
+        "corners": [
+          10,
+          2
+        ],
+        "shotsInside": [
+          10,
+          4
+        ],
+        "shotsOn": [
+          5,
+          5
+        ],
+        "fouls": [
+          14,
+          7
+        ],
+        "home": "MEX",
+        "away": "ENG"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-3-3",
+            "coach": "Javier Aguirre",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Raúl Rangel",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Jorge Sánchez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "César Montes",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Johan Vásquez",
+                "pos": "D"
+              },
+              {
+                "n": 23,
+                "name": "Jesús Gallardo",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Gilberto Mora",
+                "pos": "M"
+              },
+              {
+                "n": 6,
+                "name": "Erik Lira",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Luis Romo",
+                "pos": "M"
+              },
+              {
+                "n": 25,
+                "name": "Roberto Alvarado",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Raúl Jiménez",
+                "pos": "F"
+              },
+              {
+                "n": 16,
+                "name": "Julián Quiñones",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Thomas Tuchel",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Jordan Pickford",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Jarell Quansah",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ezri Konsa",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Marc Guéhi",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nico O'Reilly",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Declan Rice",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Elliot Anderson",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Bukayo Saka",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Jude Bellingham",
+                "pos": "M"
+              },
+              {
+                "n": 18,
+                "name": "Anthony Gordon",
+                "pos": "M"
+              },
+              {
+                "n": 9,
+                "name": "Harry Kane",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Alireza Faghani, Australia",
+        "motm": {
+          "player": "Jude Bellingham",
+          "rating": 9.2,
+          "team": "ENG"
+        }
+      }
     }
   ],
   "stats": {
@@ -28328,12 +28324,25 @@
       {
         "player": "H. Kane",
         "team": "ENG",
-        "goals": 5,
-        "penalties": 1
+        "goals": 6,
+        "penalties": 2,
+        "assists": 1
       },
       {
         "player": "I. Sarr",
         "team": "SEN",
+        "goals": 4,
+        "assists": 1
+      },
+      {
+        "player": "J. Bellingham",
+        "team": "ENG",
+        "goals": 4,
+        "assists": 1
+      },
+      {
+        "player": "Julián Quiñones",
+        "team": "MEX",
         "goals": 4,
         "assists": 1
       },
@@ -28364,6 +28373,12 @@
       {
         "player": "K. Havertz",
         "team": "GER",
+        "goals": 3,
+        "penalties": 1
+      },
+      {
+        "player": "Raúl Jiménez",
+        "team": "MEX",
         "goals": 3,
         "penalties": 1
       },
@@ -28417,12 +28432,6 @@
         "assists": 2
       },
       {
-        "player": "Julián Quiñones",
-        "team": "MEX",
-        "goals": 3,
-        "assists": 1
-      },
-      {
         "player": "M. Cunha",
         "team": "BRA",
         "goals": 3
@@ -28468,17 +28477,6 @@
         "team": "JPN",
         "goals": 2,
         "assists": 1
-      },
-      {
-        "player": "Anthony Elanga",
-        "team": "SWE",
-        "goals": 2
-      },
-      {
-        "player": "B. Barcola",
-        "team": "FRA",
-        "goals": 2,
-        "assists": 1
       }
     ],
     "assists": [
@@ -28509,6 +28507,11 @@
         "assists": 3
       },
       {
+        "player": "B. Saka",
+        "team": "ENG",
+        "assists": 3
+      },
+      {
         "player": "Florian Wirtz",
         "team": "GER",
         "assists": 3
@@ -28533,11 +28536,6 @@
         "team": "MAR",
         "assists": 2,
         "goals": 1
-      },
-      {
-        "player": "B. Saka",
-        "team": "ENG",
-        "assists": 2
       },
       {
         "player": "Breel Embolo",
@@ -28654,6 +28652,12 @@
         "yellow": 1
       },
       {
+        "player": "J. Quansah",
+        "team": "ENG",
+        "red": 1,
+        "yellow": 1
+      },
+      {
         "player": "Miguel Almirón",
         "team": "PAR",
         "red": 1,
@@ -28756,6 +28760,12 @@
         "yellow": 2
       },
       {
+        "player": "Declan Rice",
+        "team": "ENG",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "Diego Gomez",
         "team": "PAR",
         "red": 0,
@@ -28814,18 +28824,6 @@
         "team": "IRN",
         "red": 0,
         "yellow": 2
-      },
-      {
-        "player": "S. Lopes Cabral",
-        "team": "CPV",
-        "red": 0,
-        "yellow": 2
-      },
-      {
-        "player": "S. Posch",
-        "team": "AUT",
-        "red": 0,
-        "yellow": 2
       }
     ]
   },
@@ -28845,18 +28843,18 @@
       "form": "WWWWW"
     },
     {
-      "code": "MEX",
-      "played": 4,
+      "code": "ENG",
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "loses": 0,
-      "gf": 8,
-      "ga": 0,
-      "cleanSheets": 4,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
+      "gf": 11,
+      "ga": 5,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "4-2",
       "biggestLose": "",
-      "form": "WWWW"
+      "form": "WDWWW"
     },
     {
       "code": "ARG",
@@ -28871,6 +28869,20 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "WWWW"
+    },
+    {
+      "code": "MEX",
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "loses": 1,
+      "gf": 10,
+      "ga": 3,
+      "cleanSheets": 4,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "2-3",
+      "form": "WWWWL"
     },
     {
       "code": "NOR",
@@ -28941,20 +28953,6 @@
       "biggestWin": "3-0",
       "biggestLose": "1-2",
       "form": "DWWWL"
-    },
-    {
-      "code": "ENG",
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "loses": 0,
-      "gf": 8,
-      "ga": 3,
-      "cleanSheets": 2,
-      "failedToScore": 1,
-      "biggestWin": "4-2",
-      "biggestLose": "",
-      "form": "WDWW"
     },
     {
       "code": "COL",
