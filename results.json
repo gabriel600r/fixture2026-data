@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T01:42:54Z",
+  "updated": "2026-07-06T01:43:41Z",
   "live": [
     {
       "id": 92,
       "status": "1H",
-      "minute": 43,
+      "minute": 44,
       "home": 1,
       "away": 2,
       "goals": [
@@ -36,8 +36,8 @@
       ],
       "stats": {
         "possession": [
-          60,
-          40
+          61,
+          39
         ],
         "shotsOff": [
           1,
@@ -48,11 +48,11 @@
           0
         ],
         "passesTotal": [
-          206,
+          211,
           137
         ],
         "passesAccurate": [
-          192,
+          197,
           118
         ],
         "offsides": [
@@ -76,7 +76,7 @@
           1
         ],
         "shotsTotal": [
-          4,
+          5,
           3
         ],
         "shotsBlocked": [
@@ -88,16 +88,16 @@
           2
         ],
         "shotsInside": [
-          2,
+          3,
           3
         ],
         "shotsOn": [
-          1,
+          2,
           3
         ],
         "fouls": [
           7,
-          2
+          3
         ],
         "home": "MEX",
         "away": "ENG"
