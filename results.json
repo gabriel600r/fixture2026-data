@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T19:51:50Z",
+  "updated": "2026-07-06T20:08:19Z",
   "live": [
     {
       "id": 93,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "stats": {
@@ -25,16 +25,16 @@
           4
         ],
         "possession": [
-          46,
-          54
+          45,
+          55
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          219,
-          261
+          218,
+          264
         ],
         "corners": [
           3,
@@ -58,10 +58,10 @@
         ],
         "passesAccurate": [
           187,
-          228
+          229
         ],
         "passesPct": [
-          85,
+          86,
           87
         ],
         "shotsOff": [
@@ -205,7 +205,12 @@
             ]
           }
         },
-        "referee": "Anthony Taylor, England"
+        "referee": "Anthony Taylor, England",
+        "motm": {
+          "player": "Unai Simón",
+          "rating": 7.5,
+          "team": "ESP"
+        }
       }
     }
   ],
