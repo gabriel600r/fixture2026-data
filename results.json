@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:36:42Z",
+  "updated": "2026-07-06T02:37:30Z",
   "live": [
     {
       "id": 92,
@@ -97,6 +97,18 @@
           "in": "B. Gutierrez",
           "minute": 61,
           "team": "MEX"
+        },
+        {
+          "out": "E. Anderson",
+          "in": "D. Burn",
+          "minute": 75,
+          "team": "ENG"
+        },
+        {
+          "out": "N. O'Reilly",
+          "in": "D. Spence",
+          "minute": 75,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -300,7 +312,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.9,
+          "rating": 9.0,
           "team": "ENG"
         }
       }
