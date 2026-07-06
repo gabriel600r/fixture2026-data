@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:58:52Z",
+  "updated": "2026-07-06T02:59:40Z",
   "live": [
     {
       "id": 92,
@@ -132,11 +132,11 @@
       "extra": 7,
       "stats": {
         "possession": [
-          65,
-          35
+          66,
+          34
         ],
         "shotsOff": [
-          5,
+          6,
           1
         ],
         "red": [
@@ -144,12 +144,12 @@
           1
         ],
         "passesTotal": [
-          413,
-          233
+          422,
+          236
         ],
         "passesAccurate": [
-          381,
-          191
+          390,
+          192
         ],
         "offsides": [
           1,
@@ -157,10 +157,10 @@
         ],
         "passesPct": [
           92,
-          82
+          81
         ],
         "shotsOutside": [
-          5,
+          6,
           2
         ],
         "yellow": [
@@ -172,7 +172,7 @@
           3
         ],
         "shotsTotal": [
-          14,
+          15,
           6
         ],
         "shotsBlocked": [
@@ -331,7 +331,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 9.0,
+          "rating": 9.2,
           "team": "ENG"
         }
       }
