@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T20:25:50Z",
+  "updated": "2026-07-06T20:26:37Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
       "away": 0,
       "subs": [
@@ -18,7 +18,7 @@
       "stats": {
         "shotsTotal": [
           6,
-          8
+          10
         ],
         "shotsOn": [
           2,
@@ -33,24 +33,24 @@
           4
         ],
         "possession": [
-          45,
-          55
+          46,
+          54
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          282,
-          350
+          296,
+          352
         ],
         "corners": [
           3,
-          2
+          4
         ],
         "shotsOutside": [
           2,
-          4
+          6
         ],
         "saves": [
           3,
@@ -65,8 +65,8 @@
           1
         ],
         "passesAccurate": [
-          239,
-          304
+          252,
+          306
         ],
         "passesPct": [
           85,
@@ -78,7 +78,7 @@
         ],
         "shotsBlocked": [
           2,
-          0
+          2
         ],
         "home": "POR",
         "away": "ESP"
@@ -215,9 +215,9 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Rodri",
-          "rating": 7.3,
-          "team": "ESP"
+          "player": "Diogo Costa",
+          "rating": 7.5,
+          "team": "POR"
         }
       }
     }
