@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T01:51:36Z",
+  "updated": "2026-07-06T02:08:08Z",
   "live": [
     {
       "id": 92,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 2,
       "goals": [
@@ -32,6 +32,14 @@
           "minute": 1,
           "team": "ENG",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "C. Montes",
+          "in": "E. Alvarez",
+          "minute": 46,
+          "team": "MEX"
         }
       ],
       "stats": {
@@ -232,7 +240,12 @@
             ]
           }
         },
-        "referee": "Alireza Faghani, Australia"
+        "referee": "Alireza Faghani, Australia",
+        "motm": {
+          "player": "Jude Bellingham",
+          "rating": 8.7,
+          "team": "ENG"
+        }
       }
     }
   ],
