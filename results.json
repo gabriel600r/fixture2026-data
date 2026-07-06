@@ -1,73 +1,73 @@
 {
-  "updated": "2026-07-06T02:40:38Z",
+  "updated": "2026-07-06T02:41:25Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 76,
+      "minute": 79,
       "home": 2,
       "away": 3,
       "goals": [
         {
-          "player": "J. Bellingham",
+          "player": "Jude Bellingham",
           "minute": 36,
           "team": "ENG",
-          "assist": "B. Saka"
+          "assist": "Bukayo Saka"
         },
         {
-          "player": "J. Bellingham",
+          "player": "Jude Bellingham",
           "minute": 38,
           "team": "ENG",
-          "assist": "H. Kane"
+          "assist": "Harry Kane"
         },
         {
-          "player": "J. Quinones",
+          "player": "Julián Quiñones",
           "minute": 42,
           "team": "MEX"
         },
         {
-          "player": "H. Kane",
+          "player": "Harry Kane",
           "minute": 60,
           "team": "ENG",
           "pen": true
         },
         {
-          "player": "R. Jimenez",
+          "player": "Raúl Jiménez",
           "minute": 69,
           "team": "MEX",
           "pen": true
         }
       ],
       "redCards": [
-        "J. Quansah (England) 54'"
+        "Jarell Quansah (England) 54'"
       ],
       "cardEvents": [
         {
-          "player": "D. Rice",
+          "player": "Declan Rice",
           "minute": 1,
           "team": "ENG",
           "color": "yellow"
         },
         {
-          "player": "J. Quansah",
+          "player": "Jarell Quansah",
           "minute": 54,
           "team": "ENG",
           "color": "red"
         },
         {
-          "player": "M. Guehi",
+          "player": "Marc Guehi",
           "minute": 68,
           "team": "ENG",
           "color": "yellow"
         },
         {
-          "player": "J. Sanchez",
+          "player": "Jorge Sánchez",
           "minute": 71,
           "team": "MEX",
           "color": "yellow"
         },
         {
-          "player": "N. O'Reilly",
+          "player": "Nico O'Reilly",
           "minute": 72,
           "team": "ENG",
           "color": "yellow"
@@ -75,46 +75,52 @@
       ],
       "subs": [
         {
-          "out": "C. Montes",
-          "in": "E. Alvarez",
-          "minute": 46,
+          "out": "César Montes",
+          "in": "Edson Álvarez",
+          "minute": 45,
           "team": "MEX"
         },
         {
-          "out": "B. Saka",
-          "in": "J. Stones",
+          "out": "Bukayo Saka",
+          "in": "John Stones",
           "minute": 57,
           "team": "ENG"
         },
         {
-          "out": "G. Mora",
-          "in": "S. Gimenez",
+          "out": "Gilberto Mora",
+          "in": "Santiago Giménez",
           "minute": 61,
           "team": "MEX"
         },
         {
-          "out": "L. Romo",
-          "in": "B. Gutierrez",
+          "out": "Luis Romo",
+          "in": "Brian Gutierrez",
           "minute": 61,
           "team": "MEX"
         },
         {
-          "out": "E. Anderson",
-          "in": "D. Burn",
+          "out": "Nico O'Reilly",
+          "in": "Djed Spence",
+          "minute": 74,
+          "team": "ENG"
+        },
+        {
+          "out": "Elliot Anderson",
+          "in": "Dan Burn",
           "minute": 75,
           "team": "ENG"
         },
         {
-          "out": "N. O'Reilly",
-          "in": "D. Spence",
-          "minute": 75,
-          "team": "ENG"
+          "out": "Jorge Sánchez",
+          "in": "Álvaro Fidalgo",
+          "minute": 79,
+          "team": "MEX"
         }
       ],
       "stats": {
         "possession": [
-          61,
-          39
+          62,
+          38
         ],
         "shotsOff": [
           3,
@@ -124,49 +130,25 @@
           0,
           1
         ],
-        "passesTotal": [
-          317,
-          209
-        ],
-        "passesAccurate": [
-          288,
-          177
-        ],
-        "offsides": [
-          0,
-          0
-        ],
-        "passesPct": [
-          91,
-          85
-        ],
-        "shotsOutside": [
-          4,
-          1
-        ],
-        "yellow": [
-          1,
-          3
+        "corners": [
+          7,
+          2
         ],
         "saves": [
           1,
           2
         ],
         "shotsTotal": [
-          10,
+          11,
           5
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
-        "corners": [
-          5,
-          2
-        ],
-        "shotsInside": [
-          6,
-          4
+        "yellow": [
+          1,
+          3
         ],
         "shotsOn": [
           4,
@@ -311,8 +293,8 @@
         },
         "referee": "Alireza Faghani, Australia",
         "motm": {
-          "player": "Jude Bellingham",
-          "rating": 9.0,
+          "player": "J. Bellingham",
+          "rating": 8.56,
           "team": "ENG"
         }
       }
