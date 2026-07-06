@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:47:21Z",
+  "updated": "2026-07-06T20:48:08Z",
   "live": [
     {
       "id": 93,
@@ -43,6 +43,18 @@
           "in": "B. Silva",
           "minute": 83,
           "team": "POR"
+        },
+        {
+          "out": "Pedri",
+          "in": "F. Ruiz",
+          "minute": 85,
+          "team": "ESP"
+        },
+        {
+          "out": "D. Olmo",
+          "in": "M. Merino",
+          "minute": 85,
+          "team": "ESP"
         }
       ],
       "stats": {
