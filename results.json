@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T02:35:07Z",
+  "updated": "2026-07-06T02:35:54Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 2,
       "away": 3,
       "goals": [
@@ -62,8 +62,14 @@
         },
         {
           "player": "J. Sanchez",
-          "minute": 72,
+          "minute": 71,
           "team": "MEX",
+          "color": "yellow"
+        },
+        {
+          "player": "N. O'Reilly",
+          "minute": 72,
+          "team": "ENG",
           "color": "yellow"
         }
       ],
@@ -294,7 +300,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 9.0,
+          "rating": 8.9,
           "team": "ENG"
         }
       }
