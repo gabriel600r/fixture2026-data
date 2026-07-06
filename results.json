@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T01:05:39Z",
+  "updated": "2026-07-06T01:07:13Z",
   "live": [
     {
       "id": 92,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -17,8 +17,8 @@
       ],
       "stats": {
         "possession": [
-          74,
-          26
+          73,
+          27
         ],
         "shotsOff": [
           0,
@@ -29,12 +29,12 @@
           0
         ],
         "passesTotal": [
-          17,
-          6
+          33,
+          12
         ],
         "passesAccurate": [
-          15,
-          3
+          29,
+          6
         ],
         "offsides": [
           0,
@@ -77,7 +77,7 @@
           0
         ],
         "fouls": [
-          1,
+          2,
           1
         ],
         "home": "MEX",
