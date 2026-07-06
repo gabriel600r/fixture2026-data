@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T21:01:51Z",
+  "updated": "2026-07-06T21:10:01Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -108,6 +108,10 @@
     "99": {
       "home": "NOR",
       "away": "ENG"
+    },
+    "98": {
+      "home": "ESP",
+      "away": "TBD"
     }
   },
   "prematch": [],
