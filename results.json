@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-06T02:31:10Z",
+  "updated": "2026-07-06T02:31:58Z",
   "live": [
     {
       "id": 92,
       "status": "2H",
-      "minute": 69,
-      "home": 1,
+      "minute": 70,
+      "home": 2,
       "away": 3,
       "goals": [
         {
@@ -29,6 +29,12 @@
           "player": "H. Kane",
           "minute": 60,
           "team": "ENG",
+          "pen": true
+        },
+        {
+          "player": "R. Jimenez",
+          "minute": 69,
+          "team": "MEX",
           "pen": true
         }
       ],
@@ -95,11 +101,11 @@
           1
         ],
         "passesTotal": [
-          307,
+          305,
           206
         ],
         "passesAccurate": [
-          279,
+          277,
           174
         ],
         "offsides": [
@@ -116,7 +122,7 @@
         ],
         "yellow": [
           0,
-          1
+          2
         ],
         "saves": [
           1,
@@ -282,7 +288,7 @@
         "referee": "Alireza Faghani, Australia",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.9,
+          "rating": 9.0,
           "team": "ENG"
         }
       }
