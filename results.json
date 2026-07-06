@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T19:17:28Z",
+  "updated": "2026-07-06T19:18:16Z",
   "live": [
     {
       "id": 93,
@@ -10,11 +10,11 @@
       "stats": {
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "fouls": [
           1,
@@ -22,19 +22,19 @@
         ],
         "shotsInside": [
           2,
-          1
+          2
         ],
         "possession": [
-          44,
-          56
+          40,
+          60
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          69,
-          93
+          75,
+          116
         ],
         "corners": [
           2,
@@ -57,12 +57,12 @@
           0
         ],
         "passesAccurate": [
-          56,
-          79
+          60,
+          101
         ],
         "passesPct": [
-          81,
-          85
+          80,
+          87
         ],
         "shotsOff": [
           1,
@@ -112,13 +112,13 @@
                 "pos": "D"
               },
               {
-                "n": 15,
-                "name": "João Neves",
+                "n": 23,
+                "name": "Vitinha",
                 "pos": "M"
               },
               {
-                "n": 23,
-                "name": "Vitinha",
+                "n": 15,
+                "name": "João Neves",
                 "pos": "M"
               },
               {
@@ -173,13 +173,13 @@
                 "pos": "D"
               },
               {
-                "n": 20,
-                "name": "Pedri",
+                "n": 16,
+                "name": "Rodri",
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "Rodri",
+                "n": 20,
+                "name": "Pedri",
                 "pos": "M"
               },
               {
