@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:28:46Z",
+  "updated": "2026-07-06T02:29:34Z",
   "live": [
     {
       "id": 92,
@@ -77,8 +77,8 @@
       ],
       "stats": {
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsOff": [
           3,
@@ -89,12 +89,12 @@
           1
         ],
         "passesTotal": [
-          293,
-          207
+          307,
+          206
         ],
         "passesAccurate": [
-          266,
-          175
+          279,
+          174
         ],
         "offsides": [
           0,
@@ -102,7 +102,7 @@
         ],
         "passesPct": [
           91,
-          85
+          84
         ],
         "shotsOutside": [
           4,
@@ -125,7 +125,7 @@
           0
         ],
         "corners": [
-          4,
+          5,
           2
         ],
         "shotsInside": [
@@ -138,7 +138,7 @@
         ],
         "fouls": [
           12,
-          5
+          6
         ],
         "home": "MEX",
         "away": "ENG"
