@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T20:19:27Z",
+  "updated": "2026-07-06T20:20:15Z",
   "live": [
     {
       "id": 93,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "subs": [
@@ -215,9 +215,9 @@
         },
         "referee": "Anthony Taylor, England",
         "motm": {
-          "player": "Unai Simón",
-          "rating": 7.5,
-          "team": "ESP"
+          "player": "Diogo Costa",
+          "rating": 7.3,
+          "team": "POR"
         }
       }
     }
