@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-07T21:09:17Z",
+  "updated": "2026-07-07T21:10:53Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 49,
+      "minute": 51,
       "home": 0,
       "away": 0,
       "subs": [
         {
-          "out": "A. Jashari",
-          "in": "D. Sow",
-          "minute": 46,
+          "out": "Ardon Jashari",
+          "in": "Djibril Sow",
+          "minute": 45,
           "team": "SUI"
         }
       ],
