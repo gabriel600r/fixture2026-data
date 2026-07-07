@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-07T21:54:51Z",
+  "updated": "2026-07-07T21:55:39Z",
   "live": [
     {
       "id": 96,
-      "status": "2H",
+      "status": "ET",
       "minute": 90,
       "home": 0,
       "away": 0,
@@ -83,7 +83,6 @@
           "team": "SUI"
         }
       ],
-      "extra": 5,
       "stats": {
         "shotsOff": [
           0,
