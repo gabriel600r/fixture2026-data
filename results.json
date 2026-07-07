@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:44:48Z",
+  "updated": "2026-07-07T17:45:36Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 81,
+      "minute": 82,
       "home": 1,
       "away": 2,
       "goals": [
@@ -57,6 +57,12 @@
           "in": "Trezeguet",
           "minute": 73,
           "team": "EGY"
+        },
+        {
+          "out": "M. Ziko",
+          "in": "O. Marmoush",
+          "minute": 80,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -69,7 +75,7 @@
           4
         ],
         "shotsInside": [
-          7,
+          8,
           3
         ],
         "passesPct": [
@@ -77,7 +83,7 @@
           84
         ],
         "shotsOn": [
-          4,
+          5,
           2
         ],
         "yellow": [
@@ -85,7 +91,7 @@
           0
         ],
         "corners": [
-          4,
+          5,
           1
         ],
         "shotsBlocked": [
@@ -93,7 +99,7 @@
           0
         ],
         "passesTotal": [
-          515,
+          520,
           288
         ],
         "shotsOutside": [
@@ -101,11 +107,11 @@
           1
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "shotsTotal": [
-          15,
+          16,
           4
         ],
         "offsides": [
@@ -117,7 +123,7 @@
           0
         ],
         "passesAccurate": [
-          465,
+          470,
           241
         ],
         "fouls": [
@@ -259,8 +265,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Yasser Ibrahim",
-          "rating": 7.9,
+          "player": "Mostafa Ziko",
+          "rating": 7.7,
           "team": "EGY"
         }
       }
