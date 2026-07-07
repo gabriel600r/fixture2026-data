@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-07T00:31:14Z",
+  "updated": "2026-07-07T00:32:02Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 31,
-      "home": 0,
+      "minute": 32,
+      "home": 1,
       "away": 1,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 9,
           "team": "BEL",
           "assist": "N. Raskin"
+        },
+        {
+          "player": "M. Tillman",
+          "minute": 31,
+          "team": "USA"
         }
       ],
       "subs": [
