@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T20:08:52Z",
+  "updated": "2026-07-07T20:09:40Z",
   "live": [
     {
       "id": 96,
@@ -21,8 +21,8 @@
           0
         ],
         "passesPct": [
-          78,
-          74
+          87,
+          71
         ],
         "shotsOn": [
           0,
@@ -41,23 +41,23 @@
           0
         ],
         "passesTotal": [
-          23,
-          19
+          38,
+          21
         ],
         "shotsOutside": [
           0,
           0
         ],
         "possession": [
-          51,
-          49
+          61,
+          39
         ],
         "shotsTotal": [
           0,
           0
         ],
         "offsides": [
-          0,
+          1,
           0
         ],
         "red": [
@@ -65,12 +65,12 @@
           0
         ],
         "passesAccurate": [
-          18,
-          14
+          33,
+          15
         ],
         "fouls": [
           1,
-          1
+          2
         ],
         "home": "SUI",
         "away": "COL"
