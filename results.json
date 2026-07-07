@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T00:09:54Z",
+  "updated": "2026-07-07T00:10:42Z",
   "live": [
     {
       "id": 94,
@@ -11,37 +11,38 @@
         {
           "player": "C. De Ketelaere",
           "minute": 9,
-          "team": "BEL"
+          "team": "BEL",
+          "assist": "N. Raskin"
         }
       ],
       "stats": {
         "shotsTotal": [
           0,
-          4
+          5
         ],
         "shotsOn": [
           0,
           2
         ],
         "fouls": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
           0,
-          1
+          2
         ],
         "possession": [
-          41,
-          59
+          34,
+          66
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          15,
-          23
+          25,
+          50
         ],
         "corners": [
           0,
@@ -64,16 +65,16 @@
           0
         ],
         "passesAccurate": [
-          10,
-          18
+          19,
+          43
         ],
         "passesPct": [
-          67,
-          78
+          76,
+          86
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "shotsBlocked": [
           0,
