@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T21:30:05Z",
+  "updated": "2026-07-07T21:30:53Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -45,6 +45,12 @@
           "in": "Jaminton Campaz",
           "minute": 66,
           "team": "COL"
+        },
+        {
+          "out": "Ricardo Rodríguez",
+          "in": "Miro Muheim",
+          "minute": 71,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -77,7 +83,7 @@
           3
         ],
         "passesTotal": [
-          383,
+          382,
           358
         ],
         "shotsOutside": [
