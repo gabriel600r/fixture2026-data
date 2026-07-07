@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:44:51Z",
+  "updated": "2026-07-07T22:45:39Z",
   "live": [
     {
       "id": 96,
@@ -313,7 +313,7 @@
         }
       },
       "pen": {
-        "home": 1,
+        "home": 2,
         "away": 1
       },
       "penEvents": [
@@ -334,6 +334,12 @@
           "team": "COL",
           "scored": false,
           "order": 3
+        },
+        {
+          "player": "Z. Amdouni",
+          "team": "SUI",
+          "scored": true,
+          "order": 4
         }
       ]
     }
