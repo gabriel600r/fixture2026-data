@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:27:44Z",
+  "updated": "2026-07-07T17:28:32Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 0,
       "away": 1,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 15,
           "team": "EGY",
           "assist": "M. Attia"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Ziko",
+          "minute": 61,
+          "team": "EGY",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -57,8 +65,8 @@
           0
         ],
         "passesTotal": [
-          412,
-          258
+          418,
+          267
         ],
         "shotsOutside": [
           7,
@@ -81,8 +89,8 @@
           0
         ],
         "passesAccurate": [
-          369,
-          217
+          375,
+          224
         ],
         "fouls": [
           11,
