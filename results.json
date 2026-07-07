@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-07T20:51:16Z",
+  "updated": "2026-07-07T21:06:53Z",
   "live": [
     {
       "id": 96,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 47,
       "home": 0,
       "away": 0,
+      "subs": [
+        {
+          "out": "A. Jashari",
+          "in": "D. Sow",
+          "minute": 46,
+          "team": "SUI"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
@@ -205,7 +213,12 @@
             ]
           }
         },
-        "referee": "Iván Barton, El Salvador"
+        "referee": "Iván Barton, El Salvador",
+        "motm": {
+          "player": "C. Vargas",
+          "rating": 7.43,
+          "team": "COL"
+        }
       }
     }
   ],
