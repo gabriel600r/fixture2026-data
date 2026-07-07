@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:30:21Z",
+  "updated": "2026-07-07T17:31:09Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,6 +29,18 @@
           "in": "H. Fathy",
           "minute": 46,
           "team": "EGY"
+        },
+        {
+          "out": "N. Tagliafico",
+          "in": "N. Gonzalez",
+          "minute": 66,
+          "team": "ARG"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Martinez",
+          "minute": 66,
+          "team": "ARG"
         }
       ],
       "stats": {
