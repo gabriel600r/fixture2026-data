@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-07T17:47:12Z",
+  "updated": "2026-07-07T17:48:02Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
       "minute": 84,
-      "home": 1,
+      "home": 2,
       "away": 2,
       "goals": [
         {
@@ -25,6 +25,11 @@
           "minute": 79,
           "team": "ARG",
           "assist": "L. Messi"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 84,
+          "team": "ARG"
         }
       ],
       "subs": [
@@ -265,8 +270,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Mostafa Ziko",
-          "rating": 7.7,
+          "player": "Yasser Ibrahim",
+          "rating": 7.9,
           "team": "EGY"
         }
       }
