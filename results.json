@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:23:12Z",
+  "updated": "2026-07-07T01:24:00Z",
   "live": [
     {
       "id": 94,
@@ -63,11 +63,11 @@
       "stats": {
         "shotsTotal": [
           3,
-          11
+          12
         ],
         "shotsOn": [
           1,
-          5
+          6
         ],
         "fouls": [
           5,
@@ -78,16 +78,16 @@
           7
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "yellow": [
           1,
           0
         ],
         "passesTotal": [
-          264,
-          263
+          297,
+          282
         ],
         "corners": [
           1,
@@ -95,7 +95,7 @@
         ],
         "shotsOutside": [
           1,
-          4
+          5
         ],
         "saves": [
           3,
@@ -110,11 +110,11 @@
           1
         ],
         "passesAccurate": [
-          225,
-          217
+          254,
+          233
         ],
         "passesPct": [
-          85,
+          86,
           83
         ],
         "shotsOff": [
@@ -261,7 +261,7 @@
         "referee": "Adham Mohammad, Jordan",
         "motm": {
           "player": "Charles De Ketelaere",
-          "rating": 8.0,
+          "rating": 8.3,
           "team": "BEL"
         }
       }
