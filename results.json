@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T01:14:29Z",
+  "updated": "2026-07-07T01:15:16Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 1,
       "away": 2,
       "goals": [
@@ -66,16 +66,16 @@
           7
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "yellow": [
           1,
           0
         ],
         "passesTotal": [
-          230,
-          251
+          251,
+          259
         ],
         "corners": [
           1,
@@ -98,12 +98,12 @@
           1
         ],
         "passesAccurate": [
-          195,
-          212
+          213,
+          214
         ],
         "passesPct": [
           85,
-          84
+          83
         ],
         "shotsOff": [
           2,
@@ -249,7 +249,7 @@
         "referee": "Adham Mohammad, Jordan",
         "motm": {
           "player": "Charles De Ketelaere",
-          "rating": 8.2,
+          "rating": 8.0,
           "team": "BEL"
         }
       }
