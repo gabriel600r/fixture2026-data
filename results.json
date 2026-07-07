@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T00:35:12Z",
+  "updated": "2026-07-07T00:35:59Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 35,
+      "minute": 36,
       "home": 1,
       "away": 2,
       "goals": [
@@ -26,6 +26,14 @@
           "assist": "L. Trossard"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "W. McKennie",
+          "minute": 35,
+          "team": "USA",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "A. Onana",
@@ -37,11 +45,11 @@
       "stats": {
         "shotsTotal": [
           1,
-          7
+          8
         ],
         "shotsOn": [
           1,
-          3
+          4
         ],
         "fouls": [
           3,
@@ -49,19 +57,19 @@
         ],
         "shotsInside": [
           0,
-          3
+          4
         ],
         "possession": [
-          45,
-          55
+          43,
+          57
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          117,
-          140
+          118,
+          153
         ],
         "corners": [
           0,
@@ -85,11 +93,11 @@
         ],
         "passesAccurate": [
           99,
-          117
+          130
         ],
         "passesPct": [
-          85,
-          84
+          84,
+          85
         ],
         "shotsOff": [
           0,
