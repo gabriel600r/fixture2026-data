@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T21:38:52Z",
+  "updated": "2026-07-07T21:39:40Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -83,16 +83,16 @@
           3
         ],
         "passesTotal": [
-          412,
-          382
+          413,
+          389
         ],
         "shotsOutside": [
           2,
           3
         ],
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "shotsTotal": [
           5,
@@ -107,11 +107,11 @@
           0
         ],
         "passesAccurate": [
-          356,
-          314
+          357,
+          321
         ],
         "fouls": [
-          9,
+          10,
           13
         ],
         "home": "SUI",
