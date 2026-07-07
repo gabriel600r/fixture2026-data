@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-07T21:14:53Z",
+  "updated": "2026-07-07T21:16:28Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Granit Xhaka",
+          "player": "G. Xhaka",
           "minute": 51,
           "team": "SUI",
           "color": "yellow"
@@ -17,15 +17,15 @@
       ],
       "subs": [
         {
-          "out": "Ardon Jashari",
-          "in": "Djibril Sow",
-          "minute": 45,
+          "out": "A. Jashari",
+          "in": "D. Sow",
+          "minute": 46,
           "team": "SUI"
         }
       ],
       "stats": {
         "shotsOff": [
-          2,
+          0,
           1
         ],
         "saves": [
@@ -33,15 +33,19 @@
           2
         ],
         "shotsInside": [
-          3,
+          2,
           3
+        ],
+        "passesPct": [
+          88,
+          85
         ],
         "shotsOn": [
           2,
           1
         ],
         "yellow": [
-          1,
+          0,
           0
         ],
         "corners": [
@@ -53,23 +57,23 @@
           3
         ],
         "passesTotal": [
-          299,
-          299
+          248,
+          256
         ],
         "shotsOutside": [
-          1,
+          0,
           2
         ],
         "possession": [
-          51,
-          49
+          49,
+          51
         ],
         "shotsTotal": [
-          4,
+          2,
           5
         ],
         "offsides": [
-          3,
+          1,
           1
         ],
         "red": [
@@ -77,12 +81,12 @@
           0
         ],
         "passesAccurate": [
-          263,
-          246
+          217,
+          218
         ],
         "fouls": [
           6,
-          7
+          6
         ],
         "home": "SUI",
         "away": "COL"
