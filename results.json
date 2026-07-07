@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:46:47Z",
+  "updated": "2026-07-07T16:47:35Z",
   "live": [
     {
       "id": 95,
@@ -15,6 +15,7 @@
           "assist": "M. Attia"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOff": [
           3,
