@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T20:44:54Z",
+  "updated": "2026-07-07T20:45:42Z",
   "live": [
     {
       "id": 96,
@@ -22,7 +22,7 @@
         ],
         "passesPct": [
           88,
-          86
+          85
         ],
         "shotsOn": [
           2,
@@ -34,15 +34,15 @@
         ],
         "corners": [
           1,
-          3
+          4
         ],
         "shotsBlocked": [
           0,
           3
         ],
         "passesTotal": [
-          238,
-          232
+          240,
+          240
         ],
         "shotsOutside": [
           0,
@@ -65,11 +65,11 @@
           0
         ],
         "passesAccurate": [
-          209,
-          199
+          211,
+          205
         ],
         "fouls": [
-          5,
+          6,
           5
         ],
         "home": "SUI",
