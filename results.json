@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:33:09Z",
+  "updated": "2026-07-07T16:33:56Z",
   "live": [
     {
       "id": 95,
@@ -45,16 +45,16 @@
           0
         ],
         "passesTotal": [
-          160,
-          128
+          172,
+          129
         ],
         "shotsOutside": [
           1,
           0
         ],
         "possession": [
-          55,
-          45
+          57,
+          43
         ],
         "shotsTotal": [
           3,
@@ -69,12 +69,12 @@
           0
         ],
         "passesAccurate": [
-          143,
+          151,
           117
         ],
         "fouls": [
           6,
-          2
+          3
         ],
         "home": "ARG",
         "away": "EGY"
