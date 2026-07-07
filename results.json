@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:43:11Z",
+  "updated": "2026-07-07T17:43:59Z",
   "live": [
     {
       "id": 95,
@@ -19,6 +19,12 @@
           "minute": 67,
           "team": "EGY",
           "assist": "H. Hassan"
+        },
+        {
+          "player": "C. Romero",
+          "minute": 79,
+          "team": "ARG",
+          "assist": "L. Messi"
         }
       ],
       "subs": [
@@ -63,7 +69,7 @@
           4
         ],
         "shotsInside": [
-          6,
+          7,
           3
         ],
         "passesPct": [
@@ -83,11 +89,11 @@
           1
         ],
         "shotsBlocked": [
-          3,
+          4,
           0
         ],
         "passesTotal": [
-          497,
+          515,
           288
         ],
         "shotsOutside": [
@@ -99,7 +105,7 @@
           36
         ],
         "shotsTotal": [
-          14,
+          15,
           4
         ],
         "offsides": [
@@ -111,7 +117,7 @@
           0
         ],
         "passesAccurate": [
-          447,
+          465,
           241
         ],
         "fouls": [
