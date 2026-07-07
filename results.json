@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:51:34Z",
+  "updated": "2026-07-07T16:53:15Z",
   "live": [
     {
       "id": 95,
@@ -15,7 +15,7 @@
           "assist": "M. Attia"
         }
       ],
-      "extra": 5,
+      "extra": 7,
       "stats": {
         "shotsOff": [
           3,
@@ -50,7 +50,7 @@
           0
         ],
         "passesTotal": [
-          281,
+          298,
           192
         ],
         "shotsOutside": [
@@ -58,15 +58,15 @@
           1
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsTotal": [
           7,
           2
         ],
         "offsides": [
-          1,
+          2,
           0
         ],
         "red": [
@@ -74,7 +74,7 @@
           0
         ],
         "passesAccurate": [
-          246,
+          263,
           169
         ],
         "fouls": [
