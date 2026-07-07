@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T16:33:56Z",
+  "updated": "2026-07-07T16:34:44Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
-      "minute": 32,
+      "minute": 33,
       "home": 0,
       "away": 1,
       "goals": [
@@ -29,7 +29,7 @@
           1
         ],
         "shotsOn": [
-          2,
+          3,
           1
         ],
         "yellow": [
@@ -49,7 +49,7 @@
           129
         ],
         "shotsOutside": [
-          1,
+          2,
           0
         ],
         "possession": [
@@ -57,7 +57,7 @@
           43
         ],
         "shotsTotal": [
-          3,
+          4,
           1
         ],
         "offsides": [
