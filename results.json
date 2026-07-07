@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T16:53:15Z",
+  "updated": "2026-07-07T16:54:05Z",
   "live": [
     {
       "id": 95,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 1,
       "goals": [
@@ -15,7 +15,6 @@
           "assist": "M. Attia"
         }
       ],
-      "extra": 7,
       "stats": {
         "shotsOff": [
           3,
