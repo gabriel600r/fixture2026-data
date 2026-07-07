@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T01:22:25Z",
+  "updated": "2026-07-07T01:23:12Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 1,
       "away": 3,
       "goals": [
@@ -28,7 +28,8 @@
         {
           "player": "H. Vanaken",
           "minute": 57,
-          "team": "BEL"
+          "team": "BEL",
+          "assist": "C. De Ketelaere"
         }
       ],
       "cardEvents": [
@@ -50,6 +51,12 @@
           "out": "S. Dest",
           "in": "G. Reyna",
           "minute": 46,
+          "team": "USA"
+        },
+        {
+          "out": "C. Pulisic",
+          "in": "S. Berhalter",
+          "minute": 59,
           "team": "USA"
         }
       ],
