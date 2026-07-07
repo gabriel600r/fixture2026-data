@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T18:01:48Z",
+  "updated": "2026-07-07T18:02:37Z",
   "live": [
     {
       "id": 95,
@@ -48,6 +48,12 @@
         },
         {
           "player": "H. Fathy",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Attia",
           "minute": 90,
           "team": "EGY",
           "color": "yellow"
