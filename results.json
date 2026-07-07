@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:41:40Z",
+  "updated": "2026-07-07T22:42:28Z",
   "live": [
     {
       "id": 96,
@@ -311,7 +311,19 @@
           "rating": 7.2,
           "team": "SUI"
         }
-      }
+      },
+      "pen": {
+        "home": 0,
+        "away": 1
+      },
+      "penEvents": [
+        {
+          "player": "J. Quintero",
+          "team": "COL",
+          "scored": true,
+          "order": 1
+        }
+      ]
     }
   ],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
