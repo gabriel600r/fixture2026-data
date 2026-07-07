@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-07T16:16:21Z",
+  "updated": "2026-07-07T16:17:10Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
       "minute": 15,
       "home": 0,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "Y. Ibrahim",
