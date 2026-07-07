@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:31:09Z",
+  "updated": "2026-07-07T01:31:57Z",
   "live": [
     {
       "id": 94,
@@ -58,6 +58,18 @@
           "in": "S. Berhalter",
           "minute": 59,
           "team": "USA"
+        },
+        {
+          "out": "D. Lukebakio",
+          "in": "J. Doku",
+          "minute": 67,
+          "team": "BEL"
+        },
+        {
+          "out": "C. De Ketelaere",
+          "in": "R. Lukaku",
+          "minute": 67,
+          "team": "BEL"
         }
       ],
       "stats": {
