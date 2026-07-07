@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-07T21:10:53Z",
+  "updated": "2026-07-07T21:11:41Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 51,
+      "minute": 52,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Granit Xhaka",
+          "minute": 51,
+          "team": "SUI",
+          "color": "yellow"
+        }
+      ],
       "subs": [
         {
           "out": "Ardon Jashari",
@@ -17,7 +25,7 @@
       ],
       "stats": {
         "shotsOff": [
-          0,
+          1,
           1
         ],
         "saves": [
@@ -25,19 +33,15 @@
           2
         ],
         "shotsInside": [
-          2,
+          3,
           3
-        ],
-        "passesPct": [
-          88,
-          85
         ],
         "shotsOn": [
           2,
           1
         ],
         "yellow": [
-          0,
+          1,
           0
         ],
         "corners": [
@@ -49,23 +53,23 @@
           3
         ],
         "passesTotal": [
-          248,
-          256
+          287,
+          284
         ],
         "shotsOutside": [
           0,
           2
         ],
         "possession": [
-          49,
-          51
+          56,
+          44
         ],
         "shotsTotal": [
-          2,
+          3,
           5
         ],
         "offsides": [
-          1,
+          3,
           1
         ],
         "red": [
@@ -73,8 +77,8 @@
           0
         ],
         "passesAccurate": [
-          217,
-          218
+          251,
+          234
         ],
         "fouls": [
           6,
@@ -215,9 +219,9 @@
         },
         "referee": "Iván Barton, El Salvador",
         "motm": {
-          "player": "Gregor Kobel",
-          "rating": 7.2,
-          "team": "SUI"
+          "player": "C. Vargas",
+          "rating": 7.38,
+          "team": "COL"
         }
       }
     }
