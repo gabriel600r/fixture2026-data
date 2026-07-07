@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-07T01:56:27Z",
+  "updated": "2026-07-07T01:57:15Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "C. De Ketelaere",
@@ -30,6 +30,11 @@
           "minute": 57,
           "team": "BEL",
           "assist": "C. De Ketelaere"
+        },
+        {
+          "player": "R. Lukaku",
+          "minute": 90,
+          "team": "BEL"
         }
       ],
       "cardEvents": [
