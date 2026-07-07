@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:42:28Z",
+  "updated": "2026-07-07T22:43:16Z",
   "live": [
     {
       "id": 96,
@@ -313,7 +313,7 @@
         }
       },
       "pen": {
-        "home": 0,
+        "home": 1,
         "away": 1
       },
       "penEvents": [
@@ -322,6 +322,12 @@
           "team": "COL",
           "scored": true,
           "order": 1
+        },
+        {
+          "player": "G. Xhaka",
+          "team": "SUI",
+          "scored": true,
+          "order": 2
         }
       ]
     }
