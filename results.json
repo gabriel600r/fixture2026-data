@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:49:10Z",
+  "updated": "2026-07-07T16:49:58Z",
   "live": [
     {
       "id": 95,
@@ -15,7 +15,7 @@
           "assist": "M. Attia"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsOff": [
           3,
@@ -50,16 +50,16 @@
           0
         ],
         "passesTotal": [
-          265,
-          182
+          278,
+          188
         ],
         "shotsOutside": [
           4,
           1
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsTotal": [
           7,
@@ -74,12 +74,12 @@
           0
         ],
         "passesAccurate": [
-          233,
-          160
+          244,
+          166
         ],
         "fouls": [
-          6,
-          4
+          7,
+          5
         ],
         "home": "ARG",
         "away": "EGY"
