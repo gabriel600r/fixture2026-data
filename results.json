@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:08:27Z",
+  "updated": "2026-07-07T17:10:05Z",
   "live": [
     {
       "id": 95,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 1,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 15,
           "team": "EGY",
           "assist": "Marwan Attia"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Emam Ashour",
+          "in": "Hamdy Fathy",
+          "minute": 45,
+          "team": "EGY"
         }
       ],
       "stats": {
@@ -209,7 +217,12 @@
             ]
           }
         },
-        "referee": "François Letexier, France"
+        "referee": "François Letexier, France",
+        "motm": {
+          "player": "Yasser Ibrahim",
+          "rating": 7.58,
+          "team": "EGY"
+        }
       }
     }
   ],
