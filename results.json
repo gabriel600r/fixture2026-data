@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T00:20:58Z",
+  "updated": "2026-07-07T00:21:45Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 21,
+      "minute": 22,
       "home": 0,
       "away": 1,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 9,
           "team": "BEL",
           "assist": "N. Raskin"
+        }
+      ],
+      "subs": [
+        {
+          "out": "A. Onana",
+          "in": "H. Vanaken",
+          "minute": 21,
+          "team": "BEL"
         }
       ],
       "stats": {
@@ -42,7 +50,7 @@
         ],
         "passesTotal": [
           67,
-          98
+          99
         ],
         "corners": [
           0,
@@ -66,7 +74,7 @@
         ],
         "passesAccurate": [
           53,
-          83
+          84
         ],
         "passesPct": [
           79,
