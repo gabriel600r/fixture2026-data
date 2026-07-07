@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T20:04:04Z",
+  "updated": "2026-07-07T20:05:39Z",
   "live": [
     {
       "id": 96,
       "status": "1H",
-      "minute": 4,
+      "minute": 5,
       "home": 0,
       "away": 0,
       "stats": {
@@ -21,8 +21,8 @@
           0
         ],
         "passesPct": [
-          86,
-          86
+          78,
+          62
         ],
         "shotsOn": [
           0,
@@ -41,16 +41,16 @@
           0
         ],
         "passesTotal": [
-          7,
-          7
+          23,
+          13
         ],
         "shotsOutside": [
           0,
           0
         ],
         "possession": [
-          50,
-          50
+          62,
+          38
         ],
         "shotsTotal": [
           0,
@@ -65,11 +65,11 @@
           0
         ],
         "passesAccurate": [
-          6,
-          6
+          18,
+          8
         ],
         "fouls": [
-          0,
+          1,
           0
         ],
         "home": "SUI",
