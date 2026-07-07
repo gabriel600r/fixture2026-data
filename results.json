@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:46:27Z",
+  "updated": "2026-07-07T22:47:15Z",
   "live": [
     {
       "id": 96,
@@ -346,6 +346,12 @@
           "team": "COL",
           "scored": true,
           "order": 5
+        },
+        {
+          "player": "M. Akanji",
+          "team": "SUI",
+          "scored": false,
+          "order": 6
         }
       ]
     }
