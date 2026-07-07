@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-07T16:15:33Z",
+  "updated": "2026-07-07T16:16:21Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
-      "minute": 14,
+      "minute": 15,
       "home": 0,
       "away": 0,
+      "goals": [
+        {
+          "player": "Y. Ibrahim",
+          "minute": 15,
+          "team": "EGY"
+        }
+      ],
       "stats": {
         "shotsOff": [
           0,
@@ -41,16 +48,16 @@
           0
         ],
         "passesTotal": [
-          79,
-          79
+          100,
+          81
         ],
         "shotsOutside": [
           0,
           0
         ],
         "possession": [
-          50,
-          50
+          55,
+          45
         ],
         "shotsTotal": [
           0,
@@ -65,11 +72,11 @@
           0
         ],
         "passesAccurate": [
-          70,
-          75
+          89,
+          77
         ],
         "fouls": [
-          3,
+          4,
           0
         ],
         "home": "ARG",
