@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:58:30Z",
+  "updated": "2026-07-07T17:59:18Z",
   "live": [
     {
       "id": 95,
@@ -37,6 +37,20 @@
           "minute": 90,
           "team": "ARG",
           "assist": "L. Martinez"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "H. Fathy",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Shobeir",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -77,7 +91,7 @@
           "team": "EGY"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOff": [
           8,
