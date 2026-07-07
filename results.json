@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T21:25:13Z",
+  "updated": "2026-07-07T21:26:02Z",
   "live": [
     {
       "id": 96,
@@ -33,6 +33,18 @@
           "in": "Djibril Sow",
           "minute": 45,
           "team": "SUI"
+        },
+        {
+          "out": "James Rodríguez",
+          "in": "Juan Quintero",
+          "minute": 66,
+          "team": "COL"
+        },
+        {
+          "out": "Jhon Arias",
+          "in": "Jaminton Campaz",
+          "minute": 66,
+          "team": "COL"
         }
       ],
       "stats": {
@@ -94,7 +106,7 @@
         ],
         "fouls": [
           9,
-          8
+          9
         ],
         "home": "SUI",
         "away": "COL"
