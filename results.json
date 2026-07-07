@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:40:47Z",
+  "updated": "2026-07-07T17:41:35Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 2,
       "goals": [
@@ -55,7 +55,7 @@
       ],
       "stats": {
         "shotsOff": [
-          6,
+          7,
           1
         ],
         "saves": [
@@ -63,7 +63,7 @@
           4
         ],
         "shotsInside": [
-          5,
+          6,
           2
         ],
         "passesPct": [
@@ -87,8 +87,8 @@
           0
         ],
         "passesTotal": [
-          487,
-          272
+          495,
+          276
         ],
         "shotsOutside": [
           8,
@@ -99,11 +99,11 @@
           36
         ],
         "shotsTotal": [
-          13,
+          14,
           3
         ],
         "offsides": [
-          2,
+          3,
           0
         ],
         "red": [
@@ -111,8 +111,8 @@
           0
         ],
         "passesAccurate": [
-          438,
-          227
+          445,
+          230
         ],
         "fouls": [
           11,
@@ -253,8 +253,8 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Mostafa Shobeir",
-          "rating": 8.6,
+          "player": "Yasser Ibrahim",
+          "rating": 7.9,
           "team": "EGY"
         }
       }
