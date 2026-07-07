@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:51:17Z",
+  "updated": "2026-07-07T22:52:05Z",
   "live": [
     {
       "id": 96,
@@ -379,7 +379,7 @@
         }
       ],
       "penHoldSince": "2026-07-07T22:51:17Z",
-      "penStableCount": 0
+      "penStableCount": 1
     }
   ],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
