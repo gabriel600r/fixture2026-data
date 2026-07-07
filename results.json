@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:12:19Z",
+  "updated": "2026-07-07T22:13:07Z",
   "live": [
     {
       "id": 96,
@@ -86,6 +86,12 @@
           "out": "D. Ndoye",
           "in": "R. Vargas",
           "minute": 90,
+          "team": "SUI"
+        },
+        {
+          "out": "F. Rieder",
+          "in": "Z. Amdouni",
+          "minute": 103,
           "team": "SUI"
         }
       ],
