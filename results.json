@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T00:52:34Z",
+  "updated": "2026-07-07T01:09:44Z",
   "live": [
     {
       "id": 94,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 2,
       "goals": [
@@ -40,6 +40,12 @@
           "in": "H. Vanaken",
           "minute": 21,
           "team": "BEL"
+        },
+        {
+          "out": "S. Dest",
+          "in": "G. Reyna",
+          "minute": 46,
+          "team": "USA"
         }
       ],
       "stats": {
@@ -72,7 +78,7 @@
           234
         ],
         "corners": [
-          0,
+          1,
           3
         ],
         "shotsOutside": [
@@ -240,7 +246,12 @@
             ]
           }
         },
-        "referee": "Adham Mohammad, Jordan"
+        "referee": "Adham Mohammad, Jordan",
+        "motm": {
+          "player": "Charles De Ketelaere",
+          "rating": 8.2,
+          "team": "BEL"
+        }
       }
     }
   ],
