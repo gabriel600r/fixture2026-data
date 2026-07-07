@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-07T16:26:45Z",
+  "updated": "2026-07-07T16:28:20Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
-      "minute": 24,
+      "minute": 27,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Y. Ibrahim",
+          "player": "Yasser Ibrahim Hanafi",
           "minute": 15,
           "team": "EGY",
-          "assist": "M. Attia"
+          "assist": "Marwan Attia"
         }
       ],
       "stats": {
@@ -28,10 +28,6 @@
           1,
           1
         ],
-        "passesPct": [
-          89,
-          93
-        ],
         "shotsOn": [
           1,
           1
@@ -44,17 +40,9 @@
           0,
           1
         ],
-        "shotsBlocked": [
-          0,
-          0
-        ],
         "passesTotal": [
           137,
           109
-        ],
-        "shotsOutside": [
-          0,
-          0
         ],
         "possession": [
           55,
@@ -77,7 +65,7 @@
           101
         ],
         "fouls": [
-          4,
+          6,
           2
         ],
         "home": "ARG",
