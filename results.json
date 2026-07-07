@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:48:02Z",
+  "updated": "2026-07-07T17:48:51Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 2,
       "away": 2,
       "goals": [
@@ -28,8 +28,9 @@
         },
         {
           "player": "L. Messi",
-          "minute": 84,
-          "team": "ARG"
+          "minute": 83,
+          "team": "ARG",
+          "assist": "G. Montiel"
         }
       ],
       "subs": [
