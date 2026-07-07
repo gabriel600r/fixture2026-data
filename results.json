@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:33:47Z",
+  "updated": "2026-07-07T22:36:08Z",
   "live": [
     {
       "id": 96,
@@ -183,7 +183,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-3-3",
+            "formation": "4-2-3-1",
             "coach": "Murat Yakin",
             "xi": [
               {
@@ -222,29 +222,29 @@
                 "pos": "M"
               },
               {
+                "n": 22,
+                "name": "Fabian Rieder",
+                "pos": "M"
+              },
+              {
                 "n": 14,
                 "name": "Ardon Jashari",
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Fabian Rieder",
-                "pos": "F"
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "M"
               },
               {
                 "n": 7,
                 "name": "Breel Embolo",
                 "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Dan Ndoye",
-                "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "4-3-3",
+            "formation": "4-4-1-1",
             "coach": "Nestor Lorenzo",
             "xi": [
               {
@@ -288,6 +288,11 @@
                 "pos": "M"
               },
               {
+                "n": 7,
+                "name": "Luis Díaz",
+                "pos": "M"
+              },
+              {
                 "n": 10,
                 "name": "James Rodríguez",
                 "pos": "F"
@@ -295,11 +300,6 @@
               {
                 "n": 25,
                 "name": "Luis Javier Suárez",
-                "pos": "F"
-              },
-              {
-                "n": 7,
-                "name": "Luis Díaz",
                 "pos": "F"
               }
             ]
