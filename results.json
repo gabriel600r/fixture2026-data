@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:55:40Z",
+  "updated": "2026-07-07T01:56:27Z",
   "live": [
     {
       "id": 94,
@@ -94,9 +94,21 @@
           "in": "A. Witsel",
           "minute": 89,
           "team": "BEL"
+        },
+        {
+          "out": "F. Balogun",
+          "in": "H. Wright",
+          "minute": 90,
+          "team": "USA"
+        },
+        {
+          "out": "A. Robinson",
+          "in": "M. Arfsten",
+          "minute": 90,
+          "team": "USA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsTotal": [
           7,
