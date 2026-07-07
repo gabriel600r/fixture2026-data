@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:54:53Z",
+  "updated": "2026-07-07T16:58:48Z",
   "live": [
     {
       "id": 95,
@@ -9,10 +9,10 @@
       "away": 1,
       "goals": [
         {
-          "player": "Y. Ibrahim",
+          "player": "Yasser Ibrahim Hanafi",
           "minute": 15,
           "team": "EGY",
-          "assist": "M. Attia"
+          "assist": "Marwan Attia"
         }
       ],
       "stats": {
@@ -27,10 +27,6 @@
         "shotsInside": [
           3,
           1
-        ],
-        "passesPct": [
-          88,
-          87
         ],
         "shotsOn": [
           3,
@@ -49,16 +45,16 @@
           0
         ],
         "passesTotal": [
-          297,
-          199
+          299,
+          200
         ],
         "shotsOutside": [
           4,
           1
         ],
         "possession": [
-          59,
-          41
+          60,
+          40
         ],
         "shotsTotal": [
           7,
@@ -73,7 +69,7 @@
           0
         ],
         "passesAccurate": [
-          261,
+          262,
           173
         ],
         "fouls": [
