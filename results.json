@@ -1,334 +1,6 @@
 {
-  "updated": "2026-07-07T18:05:50Z",
-  "live": [
-    {
-      "id": 95,
-      "status": "2H",
-      "minute": 90,
-      "home": 3,
-      "away": 2,
-      "goals": [
-        {
-          "player": "Y. Ibrahim",
-          "minute": 15,
-          "team": "EGY",
-          "assist": "M. Attia"
-        },
-        {
-          "player": "M. Ziko",
-          "minute": 67,
-          "team": "EGY",
-          "assist": "H. Hassan"
-        },
-        {
-          "player": "C. Romero",
-          "minute": 79,
-          "team": "ARG",
-          "assist": "L. Messi"
-        },
-        {
-          "player": "L. Messi",
-          "minute": 83,
-          "team": "ARG",
-          "assist": "G. Montiel"
-        },
-        {
-          "player": "E. Fernandez",
-          "minute": 90,
-          "team": "ARG",
-          "assist": "L. Martinez"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Shobeir",
-          "minute": 90,
-          "team": "EGY",
-          "color": "yellow"
-        },
-        {
-          "player": "H. Fathy",
-          "minute": 90,
-          "team": "EGY",
-          "color": "yellow"
-        },
-        {
-          "player": "M. Attia",
-          "minute": 90,
-          "team": "EGY",
-          "color": "yellow"
-        },
-        {
-          "player": "H. Hassan",
-          "minute": 90,
-          "team": "EGY",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "E. Ashour",
-          "in": "H. Fathy",
-          "minute": 46,
-          "team": "EGY"
-        },
-        {
-          "out": "N. Tagliafico",
-          "in": "N. Gonzalez",
-          "minute": 66,
-          "team": "ARG"
-        },
-        {
-          "out": "R. de Paul",
-          "in": "L. Martinez",
-          "minute": 66,
-          "team": "ARG"
-        },
-        {
-          "out": "N. Molina",
-          "in": "G. Montiel",
-          "minute": 73,
-          "team": "ARG"
-        },
-        {
-          "out": "H. Hassan",
-          "in": "Trezeguet",
-          "minute": 73,
-          "team": "EGY"
-        },
-        {
-          "out": "M. Ziko",
-          "in": "O. Marmoush",
-          "minute": 80,
-          "team": "EGY"
-        },
-        {
-          "out": "C. Romero",
-          "in": "N. Otamendi",
-          "minute": 90,
-          "team": "ARG"
-        },
-        {
-          "out": "J. Alvarez",
-          "in": "F. Medina",
-          "minute": 90,
-          "team": "ARG"
-        },
-        {
-          "out": "M. Lasheen",
-          "in": "Zizo",
-          "minute": 90,
-          "team": "EGY"
-        }
-      ],
-      "extra": 11,
-      "stats": {
-        "shotsOff": [
-          8,
-          3
-        ],
-        "saves": [
-          0,
-          4
-        ],
-        "shotsInside": [
-          11,
-          4
-        ],
-        "passesPct": [
-          90,
-          83
-        ],
-        "shotsOn": [
-          7,
-          2
-        ],
-        "yellow": [
-          0,
-          3
-        ],
-        "corners": [
-          6,
-          1
-        ],
-        "shotsBlocked": [
-          4,
-          1
-        ],
-        "passesTotal": [
-          598,
-          345
-        ],
-        "shotsOutside": [
-          8,
-          1
-        ],
-        "possession": [
-          64,
-          36
-        ],
-        "shotsTotal": [
-          19,
-          5
-        ],
-        "offsides": [
-          3,
-          0
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "passesAccurate": [
-          537,
-          287
-        ],
-        "fouls": [
-          13,
-          11
-        ],
-        "home": "ARG",
-        "away": "EGY"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-3-2",
-            "coach": "Lionel Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Emiliano Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Nahuel Molina",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Cristian Romero",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Lisandro Martínez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nicolás Tagliafico",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Leandro Paredes",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Rodrigo De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Alexis Mac Allister",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Enzo Fernández",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Lionel Messi",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Julián Alvarez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "Hossam Hassan",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Mostafa Shobeir",
-                "pos": "G"
-              },
-              {
-                "n": 3,
-                "name": "Mohamed Hany",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Yasser Ibrahim",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Rami Rabia",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Karim Hafez",
-                "pos": "D"
-              },
-              {
-                "n": 12,
-                "name": "Haissem Hassan",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Mohanad Lasheen",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Marwan Attia",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Emam Ashour",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Mohamed Salah",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Mostafa Ziko",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "François Letexier, France",
-        "motm": {
-          "player": "Lionel Messi",
-          "rating": 9.0,
-          "team": "ARG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-07T18:06:38Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -29236,10 +28908,340 @@
           "team": "BEL"
         }
       }
+    },
+    {
+      "id": 95,
+      "home": 3,
+      "away": 2,
+      "goals": [
+        {
+          "player": "Y. Ibrahim",
+          "minute": 15,
+          "team": "EGY",
+          "assist": "M. Attia"
+        },
+        {
+          "player": "M. Ziko",
+          "minute": 67,
+          "team": "EGY",
+          "assist": "H. Hassan"
+        },
+        {
+          "player": "C. Romero",
+          "minute": 79,
+          "team": "ARG",
+          "assist": "L. Messi"
+        },
+        {
+          "player": "L. Messi",
+          "minute": 83,
+          "team": "ARG",
+          "assist": "G. Montiel"
+        },
+        {
+          "player": "E. Fernandez",
+          "minute": 90,
+          "team": "ARG",
+          "assist": "L. Martinez"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "M. Shobeir",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Fathy",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Attia",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        },
+        {
+          "player": "H. Hassan",
+          "minute": 90,
+          "team": "EGY",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "E. Ashour",
+          "in": "H. Fathy",
+          "minute": 46,
+          "team": "EGY"
+        },
+        {
+          "out": "N. Tagliafico",
+          "in": "N. Gonzalez",
+          "minute": 66,
+          "team": "ARG"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Martinez",
+          "minute": 66,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 73,
+          "team": "ARG"
+        },
+        {
+          "out": "H. Hassan",
+          "in": "Trezeguet",
+          "minute": 73,
+          "team": "EGY"
+        },
+        {
+          "out": "M. Ziko",
+          "in": "O. Marmoush",
+          "minute": 80,
+          "team": "EGY"
+        },
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 90,
+          "team": "ARG"
+        },
+        {
+          "out": "J. Alvarez",
+          "in": "F. Medina",
+          "minute": 90,
+          "team": "ARG"
+        },
+        {
+          "out": "M. Lasheen",
+          "in": "Zizo",
+          "minute": 90,
+          "team": "EGY"
+        }
+      ],
+      "stats": {
+        "shotsOff": [
+          8,
+          3
+        ],
+        "saves": [
+          0,
+          4
+        ],
+        "shotsInside": [
+          11,
+          4
+        ],
+        "passesPct": [
+          90,
+          83
+        ],
+        "shotsOn": [
+          7,
+          2
+        ],
+        "yellow": [
+          0,
+          3
+        ],
+        "corners": [
+          6,
+          1
+        ],
+        "shotsBlocked": [
+          4,
+          1
+        ],
+        "passesTotal": [
+          598,
+          345
+        ],
+        "shotsOutside": [
+          8,
+          1
+        ],
+        "possession": [
+          64,
+          36
+        ],
+        "shotsTotal": [
+          19,
+          5
+        ],
+        "offsides": [
+          3,
+          0
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "passesAccurate": [
+          537,
+          287
+        ],
+        "fouls": [
+          13,
+          11
+        ],
+        "home": "ARG",
+        "away": "EGY"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-3-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Nahuel Molina",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nicolás Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Leandro Paredes",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Julián Alvarez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Hossam Hassan",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mostafa Shobeir",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Mohamed Hany",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Yasser Ibrahim",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rami Rabia",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Karim Hafez",
+                "pos": "D"
+              },
+              {
+                "n": 12,
+                "name": "Haissem Hassan",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Mohanad Lasheen",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "François Letexier, France",
+        "motm": {
+          "player": "Lionel Messi",
+          "rating": 9.0,
+          "team": "ARG"
+        }
+      }
     }
   ],
   "stats": {
     "scorers": [
+      {
+        "player": "L. Messi",
+        "team": "ARG",
+        "goals": 8,
+        "assists": 1
+      },
       {
         "player": "Kylian Mbappé",
         "team": "FRA",
@@ -29250,11 +29252,6 @@
       {
         "player": "E. Haaland",
         "team": "NOR",
-        "goals": 7
-      },
-      {
-        "player": "L. Messi",
-        "team": "ARG",
         "goals": 7
       },
       {
@@ -29390,7 +29387,7 @@
         "team": "ARG",
         "goals": 2,
         "penalties": 1,
-        "assists": 1
+        "assists": 2
       },
       {
         "player": "M. Arnautovic",
@@ -29541,6 +29538,12 @@
         "goals": 7
       },
       {
+        "player": "L. Martinez",
+        "team": "ARG",
+        "assists": 2,
+        "goals": 2
+      },
+      {
         "player": "L. Trossard",
         "team": "BEL",
         "assists": 2,
@@ -29573,11 +29576,6 @@
         "team": "FRA",
         "assists": 2,
         "goals": 4
-      },
-      {
-        "player": "P. Berg",
-        "team": "NOR",
-        "assists": 2
       }
     ],
     "cards": [
@@ -29720,6 +29718,12 @@
         "yellow": 2
       },
       {
+        "player": "H. Hassan",
+        "team": "EGY",
+        "red": 0,
+        "yellow": 2
+      },
+      {
         "player": "I. Diop",
         "team": "MAR",
         "red": 0,
@@ -29744,20 +29748,14 @@
         "yellow": 2
       },
       {
-        "player": "M. Galarza",
-        "team": "PAR",
-        "red": 0,
-        "yellow": 2
-      },
-      {
-        "player": "M. Lasheen",
+        "player": "M. Attia",
         "team": "EGY",
         "red": 0,
         "yellow": 2
       },
       {
-        "player": "N. Sadiki",
-        "team": "COD",
+        "player": "M. Galarza",
+        "team": "PAR",
         "red": 0,
         "yellow": 2
       }
@@ -29773,6 +29771,20 @@
       "gf": 14,
       "ga": 2,
       "cleanSheets": 3,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWWWW"
+    },
+    {
+      "code": "ARG",
+      "played": 5,
+      "wins": 5,
+      "draws": 0,
+      "loses": 0,
+      "gf": 14,
+      "ga": 5,
+      "cleanSheets": 2,
       "failedToScore": 0,
       "biggestWin": "3-0",
       "biggestLose": "",
@@ -29805,20 +29817,6 @@
       "biggestWin": "4-2",
       "biggestLose": "",
       "form": "WDWWW"
-    },
-    {
-      "code": "ARG",
-      "played": 4,
-      "wins": 4,
-      "draws": 0,
-      "loses": 0,
-      "gf": 11,
-      "ga": 3,
-      "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WWWW"
     },
     {
       "code": "MEX",
@@ -29989,20 +29987,6 @@
       "form": "DWLWL"
     },
     {
-      "code": "EGY",
-      "played": 4,
-      "wins": 1,
-      "draws": 3,
-      "loses": 0,
-      "gf": 6,
-      "ga": 4,
-      "cleanSheets": 0,
-      "failedToScore": 0,
-      "biggestWin": "3-1",
-      "biggestLose": "",
-      "form": "DWDD"
-    },
-    {
       "code": "CIV",
       "played": 4,
       "wins": 2,
@@ -30015,6 +29999,20 @@
       "biggestWin": "2-0",
       "biggestLose": "1-2",
       "form": "WLWL"
+    },
+    {
+      "code": "EGY",
+      "played": 5,
+      "wins": 1,
+      "draws": 3,
+      "loses": 1,
+      "gf": 8,
+      "ga": 7,
+      "cleanSheets": 0,
+      "failedToScore": 0,
+      "biggestWin": "3-1",
+      "biggestLose": "2-3",
+      "form": "DWDDL"
     },
     {
       "code": "CRO",
