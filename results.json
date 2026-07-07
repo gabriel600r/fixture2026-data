@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:45:39Z",
+  "updated": "2026-07-07T22:46:27Z",
   "live": [
     {
       "id": 96,
@@ -314,7 +314,7 @@
       },
       "pen": {
         "home": 2,
-        "away": 1
+        "away": 2
       },
       "penEvents": [
         {
@@ -340,6 +340,12 @@
           "team": "SUI",
           "scored": true,
           "order": 4
+        },
+        {
+          "player": "J. Campaz",
+          "team": "COL",
+          "scored": true,
+          "order": 5
         }
       ]
     }
