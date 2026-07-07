@@ -1,122 +1,12 @@
 {
-  "updated": "2026-07-07T15:22:03Z",
-  "live": [],
-  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
-  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
-  "min_version": "1.9.38",
-  "brackets": {
-    "73": {
-      "home": "RSA",
-      "away": "CAN"
-    },
-    "85": {
-      "home": "SUI",
-      "away": "ALG"
-    },
-    "75": {
-      "home": "NED",
-      "away": "MAR"
-    },
-    "76": {
-      "home": "BRA",
-      "away": "JPN"
-    },
-    "79": {
-      "home": "MEX",
-      "away": "ECU"
-    },
-    "74": {
-      "home": "GER",
-      "away": "PAR"
-    },
-    "78": {
-      "home": "CIV",
-      "away": "NOR"
-    },
-    "81": {
-      "home": "USA",
-      "away": "BIH"
-    },
-    "88": {
-      "home": "AUS",
-      "away": "EGY"
-    },
-    "77": {
-      "home": "FRA",
-      "away": "SWE"
-    },
-    "84": {
-      "home": "ESP",
-      "away": "AUT"
-    },
-    "86": {
-      "home": "ARG",
-      "away": "CPV"
-    },
-    "82": {
-      "home": "BEL",
-      "away": "SEN"
-    },
-    "80": {
-      "home": "ENG",
-      "away": "COD"
-    },
-    "83": {
-      "home": "POR",
-      "away": "CRO"
-    },
-    "87": {
-      "home": "COL",
-      "away": "GHA"
-    },
-    "90": {
-      "home": "CAN",
-      "away": "MAR"
-    },
-    "91": {
-      "home": "BRA",
-      "away": "NOR"
-    },
-    "89": {
-      "home": "PAR",
-      "away": "FRA"
-    },
-    "92": {
-      "home": "MEX",
-      "away": "ENG"
-    },
-    "94": {
-      "home": "USA",
-      "away": "BEL"
-    },
-    "93": {
-      "home": "POR",
-      "away": "ESP"
-    },
-    "96": {
-      "home": "SUI",
-      "away": "COL"
-    },
-    "95": {
-      "home": "ARG",
-      "away": "EGY"
-    },
-    "97": {
-      "home": "FRA",
-      "away": "MAR"
-    },
-    "99": {
-      "home": "NOR",
-      "away": "ENG"
-    },
-    "98": {
-      "home": "ESP",
-      "away": "BEL"
-    }
-  },
-  "prematch": [
+  "updated": "2026-07-07T16:02:40Z",
+  "live": [
     {
       "id": 95,
+      "status": "1H",
+      "minute": 1,
+      "home": 0,
+      "away": 0,
       "extras": {
         "pred": {
           "home": 45,
@@ -251,6 +141,120 @@
       }
     }
   ],
+  "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
+  "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
+  "min_version": "1.9.38",
+  "brackets": {
+    "73": {
+      "home": "RSA",
+      "away": "CAN"
+    },
+    "85": {
+      "home": "SUI",
+      "away": "ALG"
+    },
+    "75": {
+      "home": "NED",
+      "away": "MAR"
+    },
+    "76": {
+      "home": "BRA",
+      "away": "JPN"
+    },
+    "79": {
+      "home": "MEX",
+      "away": "ECU"
+    },
+    "74": {
+      "home": "GER",
+      "away": "PAR"
+    },
+    "78": {
+      "home": "CIV",
+      "away": "NOR"
+    },
+    "81": {
+      "home": "USA",
+      "away": "BIH"
+    },
+    "88": {
+      "home": "AUS",
+      "away": "EGY"
+    },
+    "77": {
+      "home": "FRA",
+      "away": "SWE"
+    },
+    "84": {
+      "home": "ESP",
+      "away": "AUT"
+    },
+    "86": {
+      "home": "ARG",
+      "away": "CPV"
+    },
+    "82": {
+      "home": "BEL",
+      "away": "SEN"
+    },
+    "80": {
+      "home": "ENG",
+      "away": "COD"
+    },
+    "83": {
+      "home": "POR",
+      "away": "CRO"
+    },
+    "87": {
+      "home": "COL",
+      "away": "GHA"
+    },
+    "90": {
+      "home": "CAN",
+      "away": "MAR"
+    },
+    "91": {
+      "home": "BRA",
+      "away": "NOR"
+    },
+    "89": {
+      "home": "PAR",
+      "away": "FRA"
+    },
+    "92": {
+      "home": "MEX",
+      "away": "ENG"
+    },
+    "94": {
+      "home": "USA",
+      "away": "BEL"
+    },
+    "93": {
+      "home": "POR",
+      "away": "ESP"
+    },
+    "96": {
+      "home": "SUI",
+      "away": "COL"
+    },
+    "95": {
+      "home": "ARG",
+      "away": "EGY"
+    },
+    "97": {
+      "home": "FRA",
+      "away": "MAR"
+    },
+    "99": {
+      "home": "NOR",
+      "away": "ENG"
+    },
+    "98": {
+      "home": "ESP",
+      "away": "BEL"
+    }
+  },
+  "prematch": [],
   "news": [
     {
       "date": "10/04/2026",
