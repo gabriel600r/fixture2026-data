@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:48:53Z",
+  "updated": "2026-07-07T22:49:41Z",
   "live": [
     {
       "id": 96,
@@ -360,10 +360,16 @@
           "order": 7
         },
         {
-          "player": null,
+          "player": "C. Itten",
           "team": "SUI",
           "scored": true,
           "order": 8
+        },
+        {
+          "player": "L. Diaz",
+          "team": "COL",
+          "scored": true,
+          "order": 9
         }
       ]
     }
