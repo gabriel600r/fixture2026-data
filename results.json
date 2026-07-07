@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:37:35Z",
+  "updated": "2026-07-07T17:38:23Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 2,
       "goals": [
@@ -19,14 +19,6 @@
           "minute": 67,
           "team": "EGY",
           "assist": "H. Hassan"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "M. Ziko",
-          "minute": 61,
-          "team": "EGY",
-          "color": "yellow"
         }
       ],
       "subs": [
@@ -47,6 +39,18 @@
           "in": "L. Martinez",
           "minute": 66,
           "team": "ARG"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 73,
+          "team": "ARG"
+        },
+        {
+          "out": "H. Hassan",
+          "in": "Trezeguet",
+          "minute": 74,
+          "team": "EGY"
         }
       ],
       "stats": {
