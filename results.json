@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T21:19:39Z",
+  "updated": "2026-07-07T21:22:01Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 60,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -18,6 +18,12 @@
           "player": "Denis Zakaria",
           "minute": 59,
           "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "Luis Suárez",
+          "minute": 60,
+          "team": "COL",
           "color": "yellow"
         }
       ],
