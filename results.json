@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T20:20:07Z",
+  "updated": "2026-07-07T20:20:55Z",
   "live": [
     {
       "id": 96,
       "status": "1H",
-      "minute": 20,
+      "minute": 21,
       "home": 0,
       "away": 0,
       "stats": {
@@ -33,12 +33,12 @@
           1
         ],
         "passesTotal": [
-          93,
-          85
+          101,
+          111
         ],
         "possession": [
-          52,
-          48
+          48,
+          52
         ],
         "shotsTotal": [
           0,
@@ -53,8 +53,8 @@
           0
         ],
         "passesAccurate": [
-          83,
-          70
+          90,
+          93
         ],
         "fouls": [
           4,
@@ -71,123 +71,123 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
-            "coach": "Murat Yakin",
+            "formation": "4-3-3",
+            "coach": "M. Yakin",
             "xi": [
               {
                 "n": 1,
-                "name": "Gregor Kobel",
+                "name": "G. Kobel",
                 "pos": "G"
               },
               {
                 "n": 6,
-                "name": "Denis Zakaria",
-                "pos": "D"
+                "name": "D. Zakaria",
+                "pos": "M"
               },
               {
                 "n": 4,
-                "name": "Nico Elvedi",
+                "name": "N. Elvedi",
                 "pos": "D"
               },
               {
                 "n": 5,
-                "name": "Manuel Akanji",
+                "name": "M. Akanji",
                 "pos": "D"
               },
               {
                 "n": 13,
-                "name": "Ricardo Rodríguez",
+                "name": "R. Rodríguez",
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Remo Freuler",
+                "n": 14,
+                "name": "A. Jashari",
                 "pos": "M"
               },
               {
                 "n": 10,
-                "name": "Granit Xhaka",
+                "name": "G. Xhaka",
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Fabian Rieder",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Ardon Jashari",
+                "n": 8,
+                "name": "R. Freuler",
                 "pos": "M"
               },
               {
                 "n": 11,
-                "name": "Dan Ndoye",
-                "pos": "M"
+                "name": "D. Ndoye",
+                "pos": "F"
               },
               {
                 "n": 7,
-                "name": "Breel Embolo",
+                "name": "B. Embolo",
                 "pos": "F"
+              },
+              {
+                "n": 22,
+                "name": "F. Rieder",
+                "pos": "M"
               }
             ]
           },
           "away": {
-            "formation": "4-3-3",
-            "coach": "Nestor Lorenzo",
+            "formation": "4-1-2-3",
+            "coach": "N.  Lorenzo",
             "xi": [
               {
                 "n": 12,
-                "name": "Camilo Vargas",
+                "name": "C. Vargas",
                 "pos": "G"
               },
               {
                 "n": 2,
-                "name": "Daniel Muñoz",
+                "name": "D. Muñoz",
                 "pos": "D"
               },
               {
                 "n": 23,
-                "name": "Davinson Sánchez",
+                "name": "D. Sánchez",
                 "pos": "D"
               },
               {
                 "n": 3,
-                "name": "Jhon Lucumí",
+                "name": "J. Lucumí",
                 "pos": "D"
               },
               {
                 "n": 17,
-                "name": "Johan Mojica",
+                "name": "J. Mojica",
                 "pos": "D"
               },
               {
-                "n": 14,
-                "name": "Gustavo Puerta",
+                "n": 16,
+                "name": "J. Lerma",
                 "pos": "M"
               },
               {
-                "n": 16,
-                "name": "Jefferson Lerma",
+                "n": 14,
+                "name": "G. Puerta",
                 "pos": "M"
               },
               {
                 "n": 11,
-                "name": "Jhon Arias",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "James Rodríguez",
+                "name": "J. Arias",
                 "pos": "F"
               },
               {
+                "n": 10,
+                "name": "J. Rodríguez",
+                "pos": "M"
+              },
+              {
                 "n": 25,
-                "name": "Luis Javier Suárez",
+                "name": "L. Suárez",
                 "pos": "F"
               },
               {
                 "n": 7,
-                "name": "Luis Díaz",
+                "name": "L. Díaz",
                 "pos": "F"
               }
             ]
