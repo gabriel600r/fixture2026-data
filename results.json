@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T00:11:29Z",
+  "updated": "2026-07-07T00:12:17Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 1,
       "goals": [
@@ -18,11 +18,11 @@
       "stats": {
         "shotsTotal": [
           0,
-          5
+          7
         ],
         "shotsOn": [
           0,
-          2
+          3
         ],
         "fouls": [
           1,
@@ -30,7 +30,7 @@
         ],
         "shotsInside": [
           0,
-          2
+          4
         ],
         "possession": [
           34,
@@ -78,7 +78,7 @@
         ],
         "shotsBlocked": [
           0,
-          2
+          3
         ],
         "home": "USA",
         "away": "BEL"
