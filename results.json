@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:48:51Z",
+  "updated": "2026-07-07T17:49:38Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 2,
       "away": 2,
       "goals": [
@@ -73,7 +73,7 @@
       ],
       "stats": {
         "shotsOff": [
-          7,
+          9,
           2
         ],
         "saves": [
@@ -81,15 +81,15 @@
           4
         ],
         "shotsInside": [
-          8,
+          11,
           3
         ],
         "passesPct": [
-          90,
-          84
+          91,
+          83
         ],
         "shotsOn": [
-          5,
+          6,
           2
         ],
         "yellow": [
@@ -97,7 +97,7 @@
           0
         ],
         "corners": [
-          5,
+          6,
           1
         ],
         "shotsBlocked": [
@@ -105,19 +105,19 @@
           0
         ],
         "passesTotal": [
-          532,
-          291
+          549,
+          292
         ],
         "shotsOutside": [
           8,
           1
         ],
         "possession": [
-          65,
-          35
+          66,
+          34
         ],
         "shotsTotal": [
-          16,
+          19,
           4
         ],
         "offsides": [
@@ -129,7 +129,7 @@
           0
         ],
         "passesAccurate": [
-          480,
+          497,
           243
         ],
         "fouls": [
@@ -271,9 +271,9 @@
         },
         "referee": "François Letexier, France",
         "motm": {
-          "player": "Yasser Ibrahim",
-          "rating": 7.9,
-          "team": "EGY"
+          "player": "Lionel Messi",
+          "rating": 8.2,
+          "team": "ARG"
         }
       }
     }
