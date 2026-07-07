@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-07T16:17:10Z",
+  "updated": "2026-07-07T16:17:58Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
-      "minute": 15,
+      "minute": 16,
       "home": 0,
       "away": 1,
       "goals": [
         {
           "player": "Y. Ibrahim",
           "minute": 15,
-          "team": "EGY"
+          "team": "EGY",
+          "assist": "M. Attia"
         }
       ],
       "stats": {
