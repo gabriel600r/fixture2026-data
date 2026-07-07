@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:59:18Z",
+  "updated": "2026-07-07T18:00:09Z",
   "live": [
     {
       "id": 95,
@@ -41,13 +41,13 @@
       ],
       "cardEvents": [
         {
-          "player": "H. Fathy",
+          "player": "M. Shobeir",
           "minute": 90,
           "team": "EGY",
           "color": "yellow"
         },
         {
-          "player": "M. Shobeir",
+          "player": "H. Fathy",
           "minute": 90,
           "team": "EGY",
           "color": "yellow"
@@ -89,9 +89,27 @@
           "in": "O. Marmoush",
           "minute": 80,
           "team": "EGY"
+        },
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 90,
+          "team": "ARG"
+        },
+        {
+          "out": "J. Alvarez",
+          "in": "F. Medina",
+          "minute": 90,
+          "team": "ARG"
+        },
+        {
+          "out": "M. Lasheen",
+          "in": "Zizo",
+          "minute": 90,
+          "team": "EGY"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "shotsOff": [
           8,
