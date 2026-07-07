@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T22:03:34Z",
+  "updated": "2026-07-07T22:05:09Z",
   "live": [
     {
       "id": 96,
       "status": "ET",
-      "minute": 94,
+      "minute": 96,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,6 +23,12 @@
         {
           "player": "L. Suarez",
           "minute": 60,
+          "team": "COL",
+          "color": "yellow"
+        },
+        {
+          "player": "D. Sanchez",
+          "minute": 95,
           "team": "COL",
           "color": "yellow"
         }
