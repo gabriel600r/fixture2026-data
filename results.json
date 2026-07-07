@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:38:23Z",
+  "updated": "2026-07-07T17:39:11Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 2,
       "goals": [
@@ -49,7 +49,7 @@
         {
           "out": "H. Hassan",
           "in": "Trezeguet",
-          "minute": 74,
+          "minute": 73,
           "team": "EGY"
         }
       ],
