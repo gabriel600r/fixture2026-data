@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T16:58:48Z",
+  "updated": "2026-07-07T16:59:36Z",
   "live": [
     {
       "id": 95,
@@ -9,10 +9,10 @@
       "away": 1,
       "goals": [
         {
-          "player": "Yasser Ibrahim Hanafi",
+          "player": "Y. Ibrahim",
           "minute": 15,
           "team": "EGY",
-          "assist": "Marwan Attia"
+          "assist": "M. Attia"
         }
       ],
       "stats": {
