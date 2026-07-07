@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T00:18:36Z",
+  "updated": "2026-07-07T00:19:23Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 1,
       "goals": [
@@ -181,13 +181,13 @@
                 "pos": "D"
               },
               {
-                "n": 23,
-                "name": "Nicolas Raskin",
+                "n": 24,
+                "name": "Amadou Onana",
                 "pos": "M"
               },
               {
-                "n": 24,
-                "name": "Amadou Onana",
+                "n": 23,
+                "name": "Nicolas Raskin",
                 "pos": "M"
               },
               {
