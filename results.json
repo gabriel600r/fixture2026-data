@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T18:04:13Z",
+  "updated": "2026-07-07T18:05:02Z",
   "live": [
     {
       "id": 95,
@@ -121,7 +121,7 @@
           "team": "EGY"
         }
       ],
-      "extra": 10,
+      "extra": 11,
       "stats": {
         "shotsOff": [
           8,
@@ -145,7 +145,7 @@
         ],
         "yellow": [
           0,
-          2
+          3
         ],
         "corners": [
           6,
@@ -157,7 +157,7 @@
         ],
         "passesTotal": [
           595,
-          340
+          341
         ],
         "shotsOutside": [
           8,
@@ -181,7 +181,7 @@
         ],
         "passesAccurate": [
           536,
-          283
+          284
         ],
         "fouls": [
           13,
