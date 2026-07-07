@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T01:52:30Z",
+  "updated": "2026-07-07T01:53:18Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 3,
       "goals": [
@@ -82,6 +82,18 @@
           "in": "R. Pepi",
           "minute": 72,
           "team": "USA"
+        },
+        {
+          "out": "L. Trossard",
+          "in": "A. Saelemaekers",
+          "minute": 89,
+          "team": "BEL"
+        },
+        {
+          "out": "N. Raskin",
+          "in": "A. Witsel",
+          "minute": 89,
+          "team": "BEL"
         }
       ],
       "stats": {
@@ -94,7 +106,7 @@
           6
         ],
         "fouls": [
-          9,
+          10,
           9
         ],
         "shotsInside": [
@@ -110,8 +122,8 @@
           0
         ],
         "passesTotal": [
-          481,
-          370
+          490,
+          388
         ],
         "corners": [
           3,
@@ -134,12 +146,12 @@
           1
         ],
         "passesAccurate": [
-          419,
-          301
+          427,
+          317
         ],
         "passesPct": [
           87,
-          81
+          82
         ],
         "shotsOff": [
           5,
