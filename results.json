@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T21:42:05Z",
+  "updated": "2026-07-07T21:42:53Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -51,6 +51,18 @@
           "in": "Miro Muheim",
           "minute": 71,
           "team": "SUI"
+        },
+        {
+          "out": "Luis Suárez",
+          "in": "Cucho Hernández",
+          "minute": 82,
+          "team": "COL"
+        },
+        {
+          "out": "Jefferson Lerma",
+          "in": "Richard Ríos Montoya",
+          "minute": 83,
+          "team": "COL"
         }
       ],
       "stats": {
@@ -83,16 +95,16 @@
           3
         ],
         "passesTotal": [
-          429,
-          391
+          436,
+          392
         ],
         "shotsOutside": [
           2,
           3
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "shotsTotal": [
           5,
@@ -107,8 +119,8 @@
           0
         ],
         "passesAccurate": [
-          372,
-          322
+          378,
+          323
         ],
         "fouls": [
           10,
