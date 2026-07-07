@@ -1,31 +1,37 @@
 {
-  "updated": "2026-07-07T21:18:05Z",
+  "updated": "2026-07-07T21:19:39Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 57,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "G. Xhaka",
+          "player": "Granit Xhaka",
           "minute": 51,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "Denis Zakaria",
+          "minute": 59,
           "team": "SUI",
           "color": "yellow"
         }
       ],
       "subs": [
         {
-          "out": "A. Jashari",
-          "in": "D. Sow",
-          "minute": 46,
+          "out": "Ardon Jashari",
+          "in": "Djibril Sow",
+          "minute": 45,
           "team": "SUI"
         }
       ],
       "stats": {
         "shotsOff": [
-          0,
+          2,
           1
         ],
         "saves": [
@@ -33,19 +39,15 @@
           2
         ],
         "shotsInside": [
-          2,
+          3,
           3
-        ],
-        "passesPct": [
-          88,
-          85
         ],
         "shotsOn": [
           2,
           1
         ],
         "yellow": [
-          0,
+          2,
           0
         ],
         "corners": [
@@ -57,23 +59,23 @@
           3
         ],
         "passesTotal": [
-          248,
-          256
+          339,
+          324
         ],
         "shotsOutside": [
-          0,
+          1,
           2
         ],
         "possession": [
-          49,
-          51
+          51,
+          49
         ],
         "shotsTotal": [
-          2,
+          4,
           5
         ],
         "offsides": [
-          1,
+          3,
           1
         ],
         "red": [
@@ -81,12 +83,12 @@
           0
         ],
         "passesAccurate": [
-          217,
-          218
+          293,
+          265
         ],
         "fouls": [
-          6,
-          6
+          7,
+          7
         ],
         "home": "SUI",
         "away": "COL"
@@ -223,8 +225,8 @@
         },
         "referee": "Iván Barton, El Salvador",
         "motm": {
-          "player": "Gregor Kobel",
-          "rating": 7.2,
+          "player": "G. Kobel",
+          "rating": 7.5,
           "team": "SUI"
         }
       }
