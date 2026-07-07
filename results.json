@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T21:34:52Z",
+  "updated": "2026-07-07T21:35:40Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -83,7 +83,7 @@
           3
         ],
         "passesTotal": [
-          385,
+          392,
           373
         ],
         "shotsOutside": [
@@ -100,19 +100,19 @@
         ],
         "offsides": [
           4,
-          2
+          3
         ],
         "red": [
           0,
           0
         ],
         "passesAccurate": [
-          332,
+          338,
           306
         ],
         "fouls": [
           9,
-          11
+          12
         ],
         "home": "SUI",
         "away": "COL"
@@ -250,7 +250,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "G. Kobel",
-          "rating": 7.26,
+          "rating": 7.32,
           "team": "SUI"
         }
       }
