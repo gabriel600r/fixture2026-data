@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:47:15Z",
+  "updated": "2026-07-07T22:48:53Z",
   "live": [
     {
       "id": 96,
@@ -313,7 +313,7 @@
         }
       },
       "pen": {
-        "home": 2,
+        "home": 3,
         "away": 2
       },
       "penEvents": [
@@ -352,6 +352,18 @@
           "team": "SUI",
           "scored": false,
           "order": 6
+        },
+        {
+          "player": "C. Hernandez",
+          "team": "COL",
+          "scored": false,
+          "order": 7
+        },
+        {
+          "player": null,
+          "team": "SUI",
+          "scored": true,
+          "order": 8
         }
       ]
     }
