@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T22:32:11Z",
+  "updated": "2026-07-07T22:32:59Z",
   "live": [
     {
       "id": 96,
       "status": "ET",
-      "minute": 118,
+      "minute": 119,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -99,6 +99,12 @@
           "in": "Z. Amdouni",
           "minute": 103,
           "team": "SUI"
+        },
+        {
+          "out": "J. Lucumi",
+          "in": "Y. Mina",
+          "minute": 119,
+          "team": "COL"
         }
       ],
       "stats": {
