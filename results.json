@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:55:16Z",
+  "updated": "2026-07-07T17:56:06Z",
   "live": [
     {
       "id": 95,
@@ -71,7 +71,7 @@
           "team": "EGY"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           8,
@@ -106,8 +106,8 @@
           0
         ],
         "passesTotal": [
-          573,
-          310
+          577,
+          311
         ],
         "shotsOutside": [
           8,
@@ -130,12 +130,12 @@
           0
         ],
         "passesAccurate": [
-          520,
+          524,
           258
         ],
         "fouls": [
           12,
-          9
+          10
         ],
         "home": "ARG",
         "away": "EGY"
@@ -273,7 +273,7 @@
         "referee": "François Letexier, France",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.6,
+          "rating": 9.0,
           "team": "ARG"
         }
       }
