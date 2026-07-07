@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T20:49:42Z",
+  "updated": "2026-07-07T20:51:16Z",
   "live": [
     {
       "id": 96,
@@ -84,122 +84,122 @@
         "lineups": {
           "home": {
             "formation": "4-3-3",
-            "coach": "M. Yakin",
+            "coach": "Murat Yakin",
             "xi": [
               {
                 "n": 1,
-                "name": "G. Kobel",
+                "name": "Gregor Kobel",
                 "pos": "G"
               },
               {
                 "n": 6,
-                "name": "D. Zakaria",
-                "pos": "M"
+                "name": "Denis Zakaria",
+                "pos": "D"
               },
               {
                 "n": 4,
-                "name": "N. Elvedi",
+                "name": "Nico Elvedi",
                 "pos": "D"
               },
               {
                 "n": 5,
-                "name": "M. Akanji",
+                "name": "Manuel Akanji",
                 "pos": "D"
               },
               {
                 "n": 13,
-                "name": "R. Rodríguez",
+                "name": "Ricardo Rodríguez",
                 "pos": "D"
               },
               {
-                "n": 14,
-                "name": "A. Jashari",
+                "n": 8,
+                "name": "Remo Freuler",
                 "pos": "M"
               },
               {
                 "n": 10,
-                "name": "G. Xhaka",
+                "name": "Granit Xhaka",
                 "pos": "M"
               },
               {
-                "n": 8,
-                "name": "R. Freuler",
+                "n": 14,
+                "name": "Ardon Jashari",
                 "pos": "M"
               },
               {
-                "n": 11,
-                "name": "D. Ndoye",
+                "n": 22,
+                "name": "Fabian Rieder",
                 "pos": "F"
               },
               {
                 "n": 7,
-                "name": "B. Embolo",
+                "name": "Breel Embolo",
                 "pos": "F"
               },
               {
-                "n": 22,
-                "name": "F. Rieder",
-                "pos": "M"
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "F"
               }
             ]
           },
           "away": {
-            "formation": "4-1-2-3",
-            "coach": "N.  Lorenzo",
+            "formation": "4-3-3",
+            "coach": "Nestor Lorenzo",
             "xi": [
               {
                 "n": 12,
-                "name": "C. Vargas",
+                "name": "Camilo Vargas",
                 "pos": "G"
               },
               {
                 "n": 2,
-                "name": "D. Muñoz",
+                "name": "Daniel Muñoz",
                 "pos": "D"
               },
               {
                 "n": 23,
-                "name": "D. Sánchez",
+                "name": "Davinson Sánchez",
                 "pos": "D"
               },
               {
                 "n": 3,
-                "name": "J. Lucumí",
+                "name": "Jhon Lucumí",
                 "pos": "D"
               },
               {
                 "n": 17,
-                "name": "J. Mojica",
+                "name": "Johan Mojica",
                 "pos": "D"
               },
               {
+                "n": 11,
+                "name": "Jhon Arias",
+                "pos": "M"
+              },
+              {
                 "n": 16,
-                "name": "J. Lerma",
+                "name": "Jefferson Lerma",
                 "pos": "M"
               },
               {
                 "n": 14,
-                "name": "G. Puerta",
+                "name": "Gustavo Puerta",
                 "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "J. Arias",
-                "pos": "F"
               },
               {
                 "n": 10,
-                "name": "J. Rodríguez",
-                "pos": "M"
+                "name": "James Rodríguez",
+                "pos": "F"
               },
               {
                 "n": 25,
-                "name": "L. Suárez",
+                "name": "Luis Javier Suárez",
                 "pos": "F"
               },
               {
                 "n": 7,
-                "name": "L. Díaz",
+                "name": "Luis Díaz",
                 "pos": "F"
               }
             ]
