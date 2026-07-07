@@ -1,18 +1,24 @@
 {
-  "updated": "2026-07-07T17:21:20Z",
+  "updated": "2026-07-07T17:22:55Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Y. Ibrahim",
           "minute": 15,
           "team": "EGY",
           "assist": "M. Attia"
+        },
+        {
+          "player": "M. Ziko",
+          "minute": 58,
+          "team": "EGY",
+          "assist": "M. Salah"
         }
       ],
       "subs": [
