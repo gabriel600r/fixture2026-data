@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T15:00:13Z",
+  "updated": "2026-07-07T15:22:03Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -123,7 +123,131 @@
           "draw": 45,
           "away": 10
         },
-        "referee": "F. Letexier"
+        "lineups": {
+          "home": {
+            "formation": "4-4-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Nahuel Molina",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nicolás Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 5,
+                "name": "Leandro Paredes",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Julián Alvarez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "Hossam Hassan",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Mostafa Shobeir",
+                "pos": "G"
+              },
+              {
+                "n": 3,
+                "name": "Mohamed Hany",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Yasser Ibrahim",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Rami Rabia",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Karim Hafez",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Emam Ashour",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Marwan Attia",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Mohanad Lasheen",
+                "pos": "M"
+              },
+              {
+                "n": 12,
+                "name": "Haissem Hassan",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Mohamed Salah",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "Mostafa Ziko",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "François Letexier, France"
       }
     }
   ],
