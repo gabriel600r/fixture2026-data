@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T01:31:57Z",
+  "updated": "2026-07-07T01:32:44Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 3,
       "goals": [
@@ -36,6 +36,12 @@
         {
           "player": "W. McKennie",
           "minute": 35,
+          "team": "USA",
+          "color": "yellow"
+        },
+        {
+          "player": "M. Tillman",
+          "minute": 69,
           "team": "USA",
           "color": "yellow"
         }
@@ -74,7 +80,7 @@
       ],
       "stats": {
         "shotsTotal": [
-          3,
+          4,
           13
         ],
         "shotsOn": [
@@ -83,10 +89,10 @@
         ],
         "fouls": [
           5,
-          5
+          6
         ],
         "shotsInside": [
-          2,
+          3,
           8
         ],
         "possession": [
@@ -98,11 +104,11 @@
           0
         ],
         "passesTotal": [
-          375,
-          298
+          380,
+          305
         ],
         "corners": [
-          1,
+          2,
           5
         ],
         "shotsOutside": [
@@ -122,15 +128,15 @@
           1
         ],
         "passesAccurate": [
-          326,
-          245
+          330,
+          251
         ],
         "passesPct": [
           87,
           82
         ],
         "shotsOff": [
-          2,
+          3,
           4
         ],
         "shotsBlocked": [
