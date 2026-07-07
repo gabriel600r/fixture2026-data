@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-07T00:09:06Z",
+  "updated": "2026-07-07T00:09:54Z",
   "live": [
     {
       "id": 94,
       "status": "1H",
-      "minute": 9,
+      "minute": 10,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "C. De Ketelaere",
+          "minute": 9,
+          "team": "BEL"
+        }
+      ],
       "stats": {
         "shotsTotal": [
           0,
