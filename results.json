@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-07T01:20:50Z",
+  "updated": "2026-07-07T01:21:37Z",
   "live": [
     {
       "id": 94,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "C. De Ketelaere",
@@ -24,6 +24,11 @@
           "minute": 33,
           "team": "BEL",
           "assist": "L. Trossard"
+        },
+        {
+          "player": "H. Vanaken",
+          "minute": 57,
+          "team": "BEL"
         }
       ],
       "cardEvents": [
