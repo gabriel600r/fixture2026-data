@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T21:50:52Z",
+  "updated": "2026-07-07T21:51:40Z",
   "live": [
     {
       "id": 96,
@@ -75,9 +75,15 @@
           "in": "S. Widmer",
           "minute": 87,
           "team": "SUI"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "R. Vargas",
+          "minute": 90,
+          "team": "SUI"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOff": [
           0,
