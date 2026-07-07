@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:43:16Z",
+  "updated": "2026-07-07T22:44:51Z",
   "live": [
     {
       "id": 96,
@@ -328,6 +328,12 @@
           "team": "SUI",
           "scored": true,
           "order": 2
+        },
+        {
+          "player": "D. Sanchez",
+          "team": "COL",
+          "scored": false,
+          "order": 3
         }
       ]
     }
