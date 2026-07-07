@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:32:45Z",
+  "updated": "2026-07-07T17:33:33Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 0,
       "away": 2,
       "goals": [
@@ -60,22 +60,22 @@
         ],
         "shotsInside": [
           4,
-          1
+          2
         ],
         "passesPct": [
           90,
-          84
+          83
         ],
         "shotsOn": [
           4,
-          1
+          2
         ],
         "yellow": [
           0,
           1
         ],
         "corners": [
-          2,
+          4,
           1
         ],
         "shotsBlocked": [
@@ -83,8 +83,8 @@
           0
         ],
         "passesTotal": [
-          437,
-          269
+          447,
+          272
         ],
         "shotsOutside": [
           7,
@@ -96,7 +96,7 @@
         ],
         "shotsTotal": [
           11,
-          2
+          3
         ],
         "offsides": [
           2,
@@ -107,12 +107,12 @@
           0
         ],
         "passesAccurate": [
-          393,
-          225
+          401,
+          227
         ],
         "fouls": [
           11,
-          7
+          9
         ],
         "home": "ARG",
         "away": "EGY"
