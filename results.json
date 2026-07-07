@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:50:28Z",
+  "updated": "2026-07-07T22:51:17Z",
   "live": [
     {
       "id": 96,
@@ -313,7 +313,7 @@
         }
       },
       "pen": {
-        "home": 3,
+        "home": 4,
         "away": 3
       },
       "penEvents": [
@@ -370,8 +370,16 @@
           "team": "COL",
           "scored": true,
           "order": 9
+        },
+        {
+          "player": "R. Vargas",
+          "team": "SUI",
+          "scored": true,
+          "order": 10
         }
-      ]
+      ],
+      "penHoldSince": "2026-07-07T22:51:17Z",
+      "penStableCount": 0
     }
   ],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
