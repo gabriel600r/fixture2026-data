@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T00:17:48Z",
+  "updated": "2026-07-07T00:18:36Z",
   "live": [
     {
       "id": 94,
@@ -18,7 +18,7 @@
       "stats": {
         "shotsTotal": [
           0,
-          8
+          7
         ],
         "shotsOn": [
           0,
@@ -30,19 +30,19 @@
         ],
         "shotsInside": [
           0,
-          4
+          3
         ],
         "possession": [
-          35,
-          65
+          41,
+          59
         ],
         "yellow": [
           0,
           0
         ],
         "passesTotal": [
-          44,
-          83
+          67,
+          98
         ],
         "corners": [
           0,
@@ -62,15 +62,15 @@
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "passesAccurate": [
-          34,
-          69
+          53,
+          83
         ],
         "passesPct": [
-          77,
-          83
+          79,
+          85
         ],
         "shotsOff": [
           0,
@@ -78,7 +78,7 @@
         ],
         "shotsBlocked": [
           0,
-          3
+          2
         ],
         "home": "USA",
         "away": "BEL"
