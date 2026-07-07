@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-07T17:13:19Z",
+  "updated": "2026-07-07T17:14:54Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 1,
       "goals": [
         {
-          "player": "Yasser Ibrahim Hanafi",
+          "player": "Y. Ibrahim",
           "minute": 15,
           "team": "EGY",
-          "assist": "Marwan Attia"
+          "assist": "M. Attia"
         }
       ],
       "subs": [
         {
-          "out": "Emam Ashour",
-          "in": "Hamdy Fathy",
-          "minute": 45,
+          "out": "E. Ashour",
+          "in": "H. Fathy",
+          "minute": 46,
           "team": "EGY"
         }
       ],
@@ -53,8 +53,8 @@
           0
         ],
         "passesTotal": [
-          326,
-          227
+          342,
+          229
         ],
         "shotsOutside": [
           5,
@@ -77,8 +77,8 @@
           0
         ],
         "passesAccurate": [
-          287,
-          195
+          303,
+          196
         ],
         "fouls": [
           11,
