@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T16:34:44Z",
+  "updated": "2026-07-07T16:35:32Z",
   "live": [
     {
       "id": 95,
       "status": "1H",
-      "minute": 33,
+      "minute": 34,
       "home": 0,
       "away": 1,
       "goals": [
@@ -17,7 +17,7 @@
       ],
       "stats": {
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "saves": [
@@ -29,7 +29,7 @@
           1
         ],
         "shotsOn": [
-          3,
+          2,
           1
         ],
         "yellow": [
@@ -46,15 +46,15 @@
         ],
         "passesTotal": [
           172,
-          129
+          141
         ],
         "shotsOutside": [
           2,
           0
         ],
         "possession": [
-          57,
-          43
+          54,
+          46
         ],
         "shotsTotal": [
           4,
@@ -70,11 +70,11 @@
         ],
         "passesAccurate": [
           151,
-          117
+          126
         ],
         "fouls": [
           6,
-          3
+          4
         ],
         "home": "ARG",
         "away": "EGY"
