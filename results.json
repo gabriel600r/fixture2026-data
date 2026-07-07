@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-07T21:45:17Z",
+  "updated": "2026-07-07T21:46:52Z",
   "live": [
     {
       "id": 96,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 0,
       "cardEvents": [
         {
-          "player": "Granit Xhaka",
+          "player": "G. Xhaka",
           "minute": 51,
           "team": "SUI",
           "color": "yellow"
         },
         {
-          "player": "Denis Zakaria",
+          "player": "D. Zakaria",
           "minute": 59,
           "team": "SUI",
           "color": "yellow"
         },
         {
-          "player": "Luis Suárez",
+          "player": "L. Suarez",
           "minute": 60,
           "team": "COL",
           "color": "yellow"
@@ -29,102 +29,118 @@
       ],
       "subs": [
         {
-          "out": "Ardon Jashari",
-          "in": "Djibril Sow",
-          "minute": 45,
+          "out": "A. Jashari",
+          "in": "D. Sow",
+          "minute": 46,
           "team": "SUI"
         },
         {
-          "out": "James Rodríguez",
-          "in": "Juan Quintero",
+          "out": "J. Rodriguez",
+          "in": "J. Quintero",
           "minute": 66,
           "team": "COL"
         },
         {
-          "out": "Jhon Arias",
-          "in": "Jaminton Campaz",
+          "out": "J. Arias",
+          "in": "J. Campaz",
           "minute": 66,
           "team": "COL"
         },
         {
-          "out": "Ricardo Rodríguez",
-          "in": "Miro Muheim",
+          "out": "R. Rodriguez",
+          "in": "M. Muheim",
           "minute": 71,
           "team": "SUI"
         },
         {
-          "out": "Jefferson Lerma",
-          "in": "Richard Ríos Montoya",
+          "out": "L. Suarez",
+          "in": "C. Hernandez",
           "minute": 82,
           "team": "COL"
         },
         {
-          "out": "Luis Suárez",
-          "in": "Cucho Hernández",
+          "out": "J. Lerma",
+          "in": "R. Rios",
           "minute": 82,
           "team": "COL"
+        },
+        {
+          "out": "B. Embolo",
+          "in": "C. Itten",
+          "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Zakaria",
+          "in": "S. Widmer",
+          "minute": 87,
+          "team": "SUI"
         }
       ],
       "stats": {
         "shotsOff": [
-          2,
-          2
+          0,
+          1
         ],
         "saves": [
-          2,
+          1,
           2
         ],
         "shotsInside": [
-          3,
-          4
+          2,
+          3
+        ],
+        "passesPct": [
+          88,
+          85
         ],
         "shotsOn": [
           2,
-          2
-        ],
-        "yellow": [
-          2,
           1
         ],
+        "yellow": [
+          0,
+          0
+        ],
         "corners": [
-          2,
+          1,
           4
         ],
         "shotsBlocked": [
-          1,
+          0,
           3
         ],
         "passesTotal": [
-          447,
-          407
+          248,
+          256
         ],
         "shotsOutside": [
-          2,
-          3
+          0,
+          2
         ],
         "possession": [
-          53,
-          47
+          49,
+          51
         ],
         "shotsTotal": [
-          5,
-          7
+          2,
+          5
         ],
         "offsides": [
-          4,
-          4
+          1,
+          1
         ],
         "red": [
           0,
           0
         ],
         "passesAccurate": [
-          387,
-          336
+          217,
+          218
         ],
         "fouls": [
-          10,
-          14
+          6,
+          6
         ],
         "home": "SUI",
         "away": "COL"
