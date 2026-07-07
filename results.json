@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T17:51:14Z",
+  "updated": "2026-07-07T17:52:05Z",
   "live": [
     {
       "id": 95,
       "status": "2H",
-      "minute": 87,
+      "minute": 88,
       "home": 2,
       "away": 2,
       "goals": [
@@ -105,8 +105,8 @@
           0
         ],
         "passesTotal": [
-          552,
-          295
+          564,
+          296
         ],
         "shotsOutside": [
           8,
@@ -129,8 +129,8 @@
           0
         ],
         "passesAccurate": [
-          500,
-          245
+          512,
+          246
         ],
         "fouls": [
           11,
@@ -272,7 +272,7 @@
         "referee": "François Letexier, France",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.2,
+          "rating": 9.0,
           "team": "ARG"
         }
       }
