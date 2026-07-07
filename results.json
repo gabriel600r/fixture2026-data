@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T20:24:08Z",
+  "updated": "2026-07-07T20:24:56Z",
   "live": [
     {
       "id": 96,
       "status": "1H",
-      "minute": 24,
+      "minute": 25,
       "home": 0,
       "away": 0,
       "stats": {
@@ -37,8 +37,8 @@
           1
         ],
         "passesTotal": [
-          105,
-          145
+          114,
+          155
         ],
         "possession": [
           42,
@@ -57,12 +57,12 @@
           0
         ],
         "passesAccurate": [
-          93,
-          127
+          99,
+          136
         ],
         "fouls": [
           4,
-          2
+          3
         ],
         "home": "SUI",
         "away": "COL"
