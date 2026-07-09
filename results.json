@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-09T21:23:22Z",
+  "updated": "2026-07-09T21:24:57Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 58,
-      "home": 0,
+      "minute": 61,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "K. Mbappe",
+          "minute": 60,
+          "team": "FRA"
+        }
+      ],
       "stats": {
         "possession": [
           51,
