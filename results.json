@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T20:51:26Z",
+  "updated": "2026-07-09T21:10:19Z",
   "live": [
     {
       "id": 97,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "stats": {
@@ -205,7 +205,12 @@
             ]
           }
         },
-        "referee": "Facundo Raul Tello Figueroa, Argentina"
+        "referee": "Facundo Raul Tello Figueroa, Argentina",
+        "motm": {
+          "player": "Yassine Bounou",
+          "rating": 8.2,
+          "team": "MAR"
+        }
       }
     }
   ],
