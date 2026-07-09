@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T20:27:44Z",
+  "updated": "2026-07-09T20:28:32Z",
   "live": [
     {
       "id": 97,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 0,
       "stats": {
@@ -70,7 +70,7 @@
         ],
         "fouls": [
           2,
-          3
+          4
         ],
         "home": "FRA",
         "away": "MAR"
