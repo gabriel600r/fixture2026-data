@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:59:01Z",
+  "updated": "2026-07-09T22:00:39Z",
   "live": [
     {
       "id": 97,
@@ -108,11 +108,11 @@
           2
         ],
         "shotsTotal": [
-          20,
+          21,
           4
         ],
         "shotsOn": [
-          7,
+          8,
           1
         ],
         "passesPct": [
@@ -129,27 +129,27 @@
         ],
         "saves": [
           1,
-          5
+          6
         ],
         "yellow": [
           0,
           1
         ],
         "passesAccurate": [
-          415,
-          440
+          428,
+          443
         ],
         "passesTotal": [
-          466,
-          512
+          479,
+          515
         ],
         "shotsInside": [
-          11,
+          12,
           1
         ],
         "fouls": [
           10,
-          11
+          12
         ],
         "home": "FRA",
         "away": "MAR"
