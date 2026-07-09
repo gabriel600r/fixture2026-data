@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:32:13Z",
+  "updated": "2026-07-09T21:33:01Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 2,
       "away": 0,
       "goals": [
@@ -243,8 +243,8 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Kylian Mbappé",
-          "rating": 7.5,
+          "player": "Ousmane Dembélé",
+          "rating": 8.5,
           "team": "FRA"
         }
       }
