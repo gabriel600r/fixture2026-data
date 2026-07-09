@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:56:36Z",
+  "updated": "2026-07-09T21:57:24Z",
   "live": [
     {
       "id": 97,
@@ -9,21 +9,21 @@
       "away": 0,
       "goals": [
         {
-          "player": "Kylian Mbappé",
+          "player": "K. Mbappe",
           "minute": 60,
           "team": "FRA",
-          "assist": "Désiré Doue"
+          "assist": "D. Doue"
         },
         {
-          "player": "Ousmane Dembélé",
+          "player": "O. Dembele",
           "minute": 66,
           "team": "FRA",
-          "assist": "Kylian Mbappé"
+          "assist": "K. Mbappe"
         }
       ],
       "cardEvents": [
         {
-          "player": "Issa Diop",
+          "player": "I. Diop",
           "minute": 63,
           "team": "MAR",
           "color": "yellow"
@@ -31,61 +31,61 @@
       ],
       "subs": [
         {
-          "out": "Bilal El Khannouss",
-          "in": "Soufiane Rahimi",
+          "out": "A. Bouaddi",
+          "in": "S. Amrabat",
           "minute": 62,
           "team": "MAR"
         },
         {
-          "out": "Ayyoub Bouaddi",
-          "in": "Sofyan Amrabat",
+          "out": "B. El Khannouss",
+          "in": "S. Rahimi",
           "minute": 62,
           "team": "MAR"
         },
         {
-          "out": "Manu Koné",
-          "in": "Warren Zaire-Emery",
+          "out": "M. Kone",
+          "in": "W. Zaire-Emery",
           "minute": 71,
           "team": "FRA"
         },
         {
-          "out": "Anass Salah-Eddine",
-          "in": "Zakaria El Ouahdi",
+          "out": "B. Diaz",
+          "in": "G. Yassine",
           "minute": 74,
           "team": "MAR"
         },
         {
-          "out": "Brahim Díaz",
-          "in": "Gessime Yassine",
+          "out": "A. Salah-Eddine",
+          "in": "Z. El Ouahdi",
           "minute": 74,
           "team": "MAR"
         },
         {
-          "out": "Kylian Mbappé",
-          "in": "Jean-Philippe Mateta",
+          "out": "K. Mbappe",
+          "in": "J. Mateta",
           "minute": 77,
           "team": "FRA"
         },
         {
-          "out": "Désiré Doue",
-          "in": "Bradley Barcola",
+          "out": "D. Doue",
+          "in": "B. Barcola",
           "minute": 77,
           "team": "FRA"
         },
         {
-          "out": "Chemsdine Talbi",
-          "in": "Amine Sbaï",
+          "out": "C. Talbi",
+          "in": "A. Sbai",
           "minute": 85,
           "team": "MAR"
         },
         {
-          "out": "Jules Koundé",
-          "in": "Malo Gusto",
+          "out": "J. Kounde",
+          "in": "M. Gusto",
           "minute": 87,
           "team": "FRA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "possession": [
           48,
@@ -96,6 +96,10 @@
           5
         ],
         "red": [
+          0,
+          0
+        ],
+        "offsides": [
           0,
           0
         ],
@@ -111,6 +115,10 @@
           7,
           1
         ],
+        "passesPct": [
+          89,
+          86
+        ],
         "shotsBlocked": [
           5,
           1
@@ -119,29 +127,29 @@
           9,
           3
         ],
-        "passesAccurate": [
-          404,
-          431
+        "saves": [
+          1,
+          5
         ],
         "yellow": [
           0,
           1
         ],
-        "fouls": [
-          10,
-          10
+        "passesAccurate": [
+          413,
+          434
         ],
         "passesTotal": [
-          455,
-          502
+          464,
+          506
         ],
         "shotsInside": [
           11,
           1
         ],
-        "saves": [
-          1,
-          5
+        "fouls": [
+          10,
+          10
         ],
         "home": "FRA",
         "away": "MAR"
