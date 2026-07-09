@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:49:49Z",
+  "updated": "2026-07-09T20:50:37Z",
   "live": [
     {
       "id": 97,
@@ -7,11 +7,11 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "possession": [
-          50,
-          50
+          49,
+          51
         ],
         "corners": [
           3,
@@ -26,11 +26,11 @@
           0
         ],
         "shotsOff": [
-          4,
+          5,
           0
         ],
         "shotsTotal": [
-          11,
+          13,
           0
         ],
         "shotsOn": [
@@ -42,11 +42,11 @@
           86
         ],
         "shotsBlocked": [
-          4,
+          5,
           0
         ],
         "shotsOutside": [
-          5,
+          7,
           0
         ],
         "saves": [
@@ -58,19 +58,19 @@
           0
         ],
         "passesAccurate": [
-          228,
-          223
+          236,
+          235
         ],
         "passesTotal": [
-          254,
-          259
+          263,
+          273
         ],
         "shotsInside": [
           6,
           0
         ],
         "fouls": [
-          4,
+          5,
           6
         ],
         "home": "FRA",
