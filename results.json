@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T20:12:15Z",
+  "updated": "2026-07-09T20:13:51Z",
   "live": [
     {
       "id": 97,
       "status": "1H",
-      "minute": 12,
+      "minute": 13,
       "home": 0,
       "away": 0,
       "stats": {
@@ -183,8 +183,8 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Chemsdine Talbi",
+                "n": 10,
+                "name": "Brahim Díaz",
                 "pos": "M"
               },
               {
@@ -193,13 +193,13 @@
                 "pos": "M"
               },
               {
-                "n": 23,
-                "name": "Bilal El Khannouss",
+                "n": 7,
+                "name": "Chemsdine Talbi",
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Brahim Díaz",
+                "n": 23,
+                "name": "Bilal El Khannouss",
                 "pos": "F"
               }
             ]
