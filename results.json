@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:54:11Z",
+  "updated": "2026-07-09T21:54:59Z",
   "live": [
     {
       "id": 97,
@@ -85,10 +85,11 @@
           "team": "FRA"
         }
       ],
+      "extra": 1,
       "stats": {
         "possession": [
-          48,
-          52
+          47,
+          53
         ],
         "corners": [
           5,
@@ -119,8 +120,8 @@
           3
         ],
         "passesAccurate": [
-          390,
-          419
+          393,
+          424
         ],
         "yellow": [
           0,
@@ -131,11 +132,11 @@
           9
         ],
         "passesTotal": [
-          439,
-          488
+          443,
+          494
         ],
         "shotsInside": [
-          10,
+          11,
           1
         ],
         "saves": [
@@ -277,8 +278,8 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Ousmane Dembélé",
-          "rating": 8.2,
+          "player": "Kylian Mbappé",
+          "rating": 8.79,
           "team": "FRA"
         }
       }
