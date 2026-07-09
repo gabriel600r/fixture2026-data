@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:38:37Z",
+  "updated": "2026-07-09T21:39:25Z",
   "live": [
     {
       "id": 97,
@@ -47,6 +47,18 @@
           "in": "W. Zaire-Emery",
           "minute": 71,
           "team": "FRA"
+        },
+        {
+          "out": "B. Diaz",
+          "in": "G. Yassine",
+          "minute": 74,
+          "team": "MAR"
+        },
+        {
+          "out": "A. Salah-Eddine",
+          "in": "Z. El Ouahdi",
+          "minute": 74,
+          "team": "MAR"
         }
       ],
       "stats": {
