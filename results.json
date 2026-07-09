@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:52:27Z",
+  "updated": "2026-07-09T21:53:22Z",
   "live": [
     {
       "id": 97,
@@ -85,32 +85,24 @@
           52
         ],
         "corners": [
-          4,
+          5,
           4
         ],
         "red": [
           0,
           0
         ],
-        "offsides": [
-          0,
-          0
-        ],
         "shotsOff": [
-          7,
+          8,
           2
         ],
         "shotsTotal": [
-          19,
+          20,
           4
         ],
         "shotsOn": [
           7,
           1
-        ],
-        "passesPct": [
-          89,
-          85
         ],
         "shotsBlocked": [
           5,
@@ -120,29 +112,29 @@
           9,
           3
         ],
-        "saves": [
-          1,
-          5
+        "passesAccurate": [
+          390,
+          419
         ],
         "yellow": [
           0,
           1
         ],
-        "passesAccurate": [
-          390,
-          405
+        "fouls": [
+          10,
+          9
         ],
         "passesTotal": [
           439,
-          474
+          488
         ],
         "shotsInside": [
           10,
           1
         ],
-        "fouls": [
-          10,
-          9
+        "saves": [
+          1,
+          5
         ],
         "home": "FRA",
         "away": "MAR"
