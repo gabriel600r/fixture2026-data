@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:16:22Z",
+  "updated": "2026-07-09T20:17:10Z",
   "live": [
     {
       "id": 97,
@@ -9,8 +9,8 @@
       "away": 0,
       "stats": {
         "possession": [
-          56,
-          44
+          54,
+          46
         ],
         "corners": [
           1,
@@ -37,8 +37,8 @@
           0
         ],
         "passesPct": [
-          87,
-          81
+          86,
+          83
         ],
         "shotsBlocked": [
           1,
@@ -57,19 +57,19 @@
           0
         ],
         "passesAccurate": [
-          90,
-          68
+          94,
+          78
         ],
         "passesTotal": [
-          103,
-          84
+          109,
+          94
         ],
         "shotsInside": [
           1,
           0
         ],
         "fouls": [
-          1,
+          2,
           2
         ],
         "home": "FRA",
