@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-09T20:38:18Z",
+  "updated": "2026-07-09T20:44:52Z",
   "live": [
     {
       "id": 97,
       "status": "1H",
-      "minute": 38,
+      "minute": 44,
       "home": 0,
       "away": 0,
       "stats": {
         "possession": [
-          53,
-          47
+          48,
+          52
         ],
         "corners": [
           3,
@@ -37,8 +37,8 @@
           0
         ],
         "passesPct": [
-          89,
-          83
+          90,
+          87
         ],
         "shotsBlocked": [
           3,
@@ -57,20 +57,20 @@
           0
         ],
         "passesAccurate": [
-          173,
-          143
+          203,
+          215
         ],
         "passesTotal": [
-          195,
-          173
+          226,
+          247
         ],
         "shotsInside": [
           6,
           0
         ],
         "fouls": [
-          2,
-          4
+          4,
+          6
         ],
         "home": "FRA",
         "away": "MAR"
