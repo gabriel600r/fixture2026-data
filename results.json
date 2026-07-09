@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:30:36Z",
+  "updated": "2026-07-09T21:31:25Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 2,
       "away": 0,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "O. Dembele",
           "minute": 66,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "K. Mbappe"
         }
       ],
       "cardEvents": [
@@ -44,8 +45,8 @@
       ],
       "stats": {
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "corners": [
           3,
@@ -64,15 +65,15 @@
           1
         ],
         "shotsTotal": [
-          16,
+          17,
           2
         ],
         "shotsOn": [
-          5,
+          6,
           0
         ],
         "passesPct": [
-          89,
+          90,
           83
         ],
         "shotsBlocked": [
@@ -80,7 +81,7 @@
           1
         ],
         "shotsOutside": [
-          8,
+          9,
           2
         ],
         "saves": [
@@ -92,11 +93,11 @@
           1
         ],
         "passesAccurate": [
-          342,
+          360,
           309
         ],
         "passesTotal": [
-          383,
+          402,
           371
         ],
         "shotsInside": [
