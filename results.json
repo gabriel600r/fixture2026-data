@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:47:24Z",
+  "updated": "2026-07-09T20:48:12Z",
   "live": [
     {
       "id": 97,
@@ -7,7 +7,7 @@
       "minute": 45,
       "home": 0,
       "away": 0,
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "possession": [
           50,
