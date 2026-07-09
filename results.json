@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:54:59Z",
+  "updated": "2026-07-09T21:55:48Z",
   "live": [
     {
       "id": 97,
@@ -85,11 +85,11 @@
           "team": "FRA"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "possession": [
-          47,
-          53
+          48,
+          52
         ],
         "corners": [
           5,
@@ -120,7 +120,7 @@
           3
         ],
         "passesAccurate": [
-          393,
+          404,
           424
         ],
         "yellow": [
@@ -129,10 +129,10 @@
         ],
         "fouls": [
           10,
-          9
+          10
         ],
         "passesTotal": [
-          443,
+          455,
           494
         ],
         "shotsInside": [
