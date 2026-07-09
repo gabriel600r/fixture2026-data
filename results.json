@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:45:55Z",
+  "updated": "2026-07-09T21:46:43Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 2,
       "away": 0,
       "goals": [
@@ -79,7 +79,7 @@
           51
         ],
         "corners": [
-          3,
+          4,
           3
         ],
         "red": [
@@ -123,12 +123,12 @@
           1
         ],
         "passesAccurate": [
-          379,
-          372
+          387,
+          383
         ],
         "passesTotal": [
-          426,
-          440
+          434,
+          451
         ],
         "shotsInside": [
           8,
@@ -274,7 +274,7 @@
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
           "player": "Ousmane Dembélé",
-          "rating": 8.5,
+          "rating": 8.2,
           "team": "FRA"
         }
       }
