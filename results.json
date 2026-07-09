@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:25:46Z",
+  "updated": "2026-07-09T21:26:35Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 1,
       "away": 0,
       "goals": [
@@ -15,10 +15,24 @@
           "assist": "D. Doue"
         }
       ],
+      "subs": [
+        {
+          "out": "A. Bouaddi",
+          "in": "S. Amrabat",
+          "minute": 62,
+          "team": "MAR"
+        },
+        {
+          "out": "B. El Khannouss",
+          "in": "S. Rahimi",
+          "minute": 62,
+          "team": "MAR"
+        }
+      ],
       "stats": {
         "possession": [
-          51,
-          49
+          52,
+          48
         ],
         "corners": [
           3,
@@ -37,11 +51,11 @@
           1
         ],
         "shotsTotal": [
-          15,
+          16,
           2
         ],
         "shotsOn": [
-          4,
+          5,
           0
         ],
         "passesPct": [
@@ -65,15 +79,15 @@
           0
         ],
         "passesAccurate": [
-          321,
-          286
+          333,
+          294
         ],
         "passesTotal": [
-          361,
-          343
+          374,
+          354
         ],
         "shotsInside": [
-          7,
+          8,
           0
         ],
         "fouls": [
@@ -215,9 +229,9 @@
         },
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
-          "player": "Yassine Bounou",
-          "rating": 8.2,
-          "team": "MAR"
+          "player": "Kylian Mbappé",
+          "rating": 7.2,
+          "team": "FRA"
         }
       }
     }
