@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:41:51Z",
+  "updated": "2026-07-09T21:42:39Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 2,
       "away": 0,
       "goals": [
@@ -59,6 +59,18 @@
           "in": "Z. El Ouahdi",
           "minute": 74,
           "team": "MAR"
+        },
+        {
+          "out": "K. Mbappe",
+          "in": "J. Mateta",
+          "minute": 77,
+          "team": "FRA"
+        },
+        {
+          "out": "D. Doue",
+          "in": "B. Barcola",
+          "minute": 77,
+          "team": "FRA"
         }
       ],
       "stats": {
