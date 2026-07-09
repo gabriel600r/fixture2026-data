@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:49:58Z",
+  "updated": "2026-07-09T21:50:45Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 2,
       "away": 0,
       "goals": [
@@ -86,7 +86,7 @@
         ],
         "corners": [
           4,
-          3
+          4
         ],
         "red": [
           0,
@@ -98,15 +98,15 @@
         ],
         "shotsOff": [
           6,
-          1
+          2
         ],
         "shotsTotal": [
           17,
-          2
+          4
         ],
         "shotsOn": [
           6,
-          0
+          1
         ],
         "passesPct": [
           89,
@@ -118,10 +118,10 @@
         ],
         "shotsOutside": [
           9,
-          2
+          3
         ],
         "saves": [
-          0,
+          1,
           4
         ],
         "yellow": [
@@ -130,18 +130,18 @@
         ],
         "passesAccurate": [
           387,
-          383
+          387
         ],
         "passesTotal": [
           434,
-          451
+          455
         ],
         "shotsInside": [
           8,
-          0
+          1
         ],
         "fouls": [
-          8,
+          10,
           9
         ],
         "home": "FRA",
