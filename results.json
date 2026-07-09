@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:11:57Z",
+  "updated": "2026-07-09T21:12:45Z",
   "live": [
     {
       "id": 97,
@@ -9,8 +9,8 @@
       "away": 0,
       "stats": {
         "possession": [
-          49,
-          51
+          50,
+          50
         ],
         "corners": [
           3,
@@ -38,7 +38,7 @@
         ],
         "passesPct": [
           90,
-          86
+          85
         ],
         "shotsBlocked": [
           5,
@@ -57,12 +57,12 @@
           0
         ],
         "passesAccurate": [
-          236,
-          235
+          253,
+          243
         ],
         "passesTotal": [
-          263,
-          274
+          282,
+          286
         ],
         "shotsInside": [
           6,
@@ -208,7 +208,7 @@
         "referee": "Facundo Raul Tello Figueroa, Argentina",
         "motm": {
           "player": "Yassine Bounou",
-          "rating": 8.2,
+          "rating": 8.3,
           "team": "MAR"
         }
       }
