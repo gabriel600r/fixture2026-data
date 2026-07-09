@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:35:24Z",
+  "updated": "2026-07-09T21:36:13Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 2,
       "away": 0,
       "goals": [
@@ -45,7 +45,7 @@
         {
           "out": "M. Kone",
           "in": "W. Zaire-Emery",
-          "minute": 70,
+          "minute": 71,
           "team": "FRA"
         }
       ],
@@ -79,7 +79,7 @@
           0
         ],
         "passesPct": [
-          90,
+          89,
           83
         ],
         "shotsBlocked": [
@@ -99,11 +99,11 @@
           1
         ],
         "passesAccurate": [
-          360,
+          362,
           316
         ],
         "passesTotal": [
-          402,
+          405,
           379
         ],
         "shotsInside": [
