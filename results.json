@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-09T21:29:48Z",
+  "updated": "2026-07-09T21:30:36Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
       "minute": 66,
-      "home": 1,
+      "home": 2,
       "away": 0,
       "goals": [
         {
@@ -13,6 +13,11 @@
           "minute": 60,
           "team": "FRA",
           "assist": "D. Doue"
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 66,
+          "team": "FRA"
         }
       ],
       "cardEvents": [
