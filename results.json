@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:24:57Z",
+  "updated": "2026-07-09T21:25:46Z",
   "live": [
     {
       "id": 97,
@@ -11,7 +11,8 @@
         {
           "player": "K. Mbappe",
           "minute": 60,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "D. Doue"
         }
       ],
       "stats": {
