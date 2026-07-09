@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:34:36Z",
+  "updated": "2026-07-09T21:35:24Z",
   "live": [
     {
       "id": 97,
@@ -41,6 +41,12 @@
           "in": "S. Rahimi",
           "minute": 62,
           "team": "MAR"
+        },
+        {
+          "out": "M. Kone",
+          "in": "W. Zaire-Emery",
+          "minute": 70,
+          "team": "FRA"
         }
       ],
       "stats": {
