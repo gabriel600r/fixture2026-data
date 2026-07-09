@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T21:26:35Z",
+  "updated": "2026-07-09T21:27:23Z",
   "live": [
     {
       "id": 97,
       "status": "2H",
-      "minute": 62,
+      "minute": 63,
       "home": 1,
       "away": 0,
       "goals": [
@@ -13,6 +13,14 @@
           "minute": 60,
           "team": "FRA",
           "assist": "D. Doue"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "I. Diop",
+          "minute": 63,
+          "team": "MAR",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -31,8 +39,8 @@
       ],
       "stats": {
         "possession": [
-          52,
-          48
+          51,
+          49
         ],
         "corners": [
           3,
@@ -80,11 +88,11 @@
         ],
         "passesAccurate": [
           333,
-          294
+          306
         ],
         "passesTotal": [
           374,
-          354
+          367
         ],
         "shotsInside": [
           8,
