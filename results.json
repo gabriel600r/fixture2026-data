@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:17:07Z",
+  "updated": "2026-07-10T20:17:55Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 1,
       "goals": [
@@ -28,17 +28,31 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "A. Baena",
+          "in": "F. Torres",
+          "minute": 55,
+          "team": "ESP"
+        },
+        {
+          "out": "F. Ruiz",
+          "in": "Pedri",
+          "minute": 55,
+          "team": "ESP"
+        }
+      ],
       "stats": {
         "passesAccurate": [
-          304,
-          154
+          334,
+          160
         ],
         "shotsOff": [
-          3,
+          4,
           0
         ],
         "shotsBlocked": [
-          3,
+          4,
           1
         ],
         "fouls": [
@@ -46,15 +60,15 @@
           9
         ],
         "passesTotal": [
-          343,
-          191
+          376,
+          199
         ],
         "corners": [
-          3,
+          4,
           1
         ],
         "shotsInside": [
-          6,
+          7,
           2
         ],
         "yellow": [
@@ -67,7 +81,7 @@
         ],
         "passesPct": [
           89,
-          81
+          80
         ],
         "red": [
           0,
@@ -82,16 +96,16 @@
           1
         ],
         "shotsOutside": [
-          3,
+          4,
           0
         ],
         "shotsTotal": [
-          9,
+          11,
           2
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "home": "ESP",
         "away": "BEL"
@@ -228,9 +242,9 @@
         },
         "referee": "Michael Oliver, England",
         "motm": {
-          "player": "Charles De Ketelaere",
-          "rating": 7.7,
-          "team": "BEL"
+          "player": "Fabián Ruiz",
+          "rating": 7.3,
+          "team": "ESP"
         }
       }
     }
