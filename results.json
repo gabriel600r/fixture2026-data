@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:22:46Z",
+  "updated": "2026-07-10T20:23:33Z",
   "live": [
     {
       "id": 98,
@@ -45,6 +45,18 @@
           "out": "L. Trossard",
           "in": "A. Witsel",
           "minute": 60,
+          "team": "BEL"
+        },
+        {
+          "out": "H. Vanaken",
+          "in": "R. Lukaku",
+          "minute": 60,
+          "team": "BEL"
+        },
+        {
+          "out": "M. De Cuyper",
+          "in": "J. Seys",
+          "minute": 61,
           "team": "BEL"
         }
       ],
