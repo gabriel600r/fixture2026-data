@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:56:33Z",
+  "updated": "2026-07-10T20:57:23Z",
   "live": [
     {
       "id": 98,
@@ -42,6 +42,12 @@
           "player": "A. Laporte",
           "minute": 90,
           "team": "ESP",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Witsel",
+          "minute": 90,
+          "team": "BEL",
           "color": "yellow"
         }
       ],
@@ -101,7 +107,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "passesAccurate": [
           582,
