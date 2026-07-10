@@ -1,23 +1,28 @@
 {
-  "updated": "2026-07-10T19:40:41Z",
+  "updated": "2026-07-10T19:41:29Z",
   "live": [
     {
       "id": 98,
       "status": "1H",
-      "minute": 40,
+      "minute": 41,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "F. Ruiz",
           "minute": 30,
           "team": "ESP"
+        },
+        {
+          "player": "C. De Ketelaere",
+          "minute": 41,
+          "team": "BEL"
         }
       ],
       "stats": {
         "passesAccurate": [
           238,
-          111
+          117
         ],
         "shotsOff": [
           2,
@@ -33,7 +38,7 @@
         ],
         "passesTotal": [
           270,
-          137
+          144
         ],
         "corners": [
           1,
@@ -76,8 +81,8 @@
           1
         ],
         "possession": [
-          66,
-          34
+          65,
+          35
         ],
         "home": "ESP",
         "away": "BEL"
