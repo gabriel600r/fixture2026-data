@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-10T20:49:14Z",
+  "updated": "2026-07-10T20:50:05Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 87,
-      "home": 1,
+      "minute": 88,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -18,6 +18,11 @@
           "minute": 41,
           "team": "BEL",
           "assist": "T. Castagne"
+        },
+        {
+          "player": null,
+          "minute": 88,
+          "team": "ESP"
         }
       ],
       "cardEvents": [
@@ -92,7 +97,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          539,
+          546,
           226
         ],
         "shotsOff": [
@@ -108,7 +113,7 @@
           14
         ],
         "passesTotal": [
-          596,
+          603,
           286
         ],
         "corners": [
@@ -121,14 +126,14 @@
         ],
         "yellow": [
           1,
-          0
+          1
         ],
         "saves": [
           1,
           4
         ],
         "passesPct": [
-          90,
+          91,
           79
         ],
         "red": [
