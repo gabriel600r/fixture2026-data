@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:51:40Z",
+  "updated": "2026-07-10T20:52:28Z",
   "live": [
     {
       "id": 98,
@@ -98,7 +98,7 @@
       "stats": {
         "passesAccurate": [
           570,
-          226
+          228
         ],
         "shotsOff": [
           4,
@@ -114,7 +114,7 @@
         ],
         "passesTotal": [
           627,
-          286
+          289
         ],
         "corners": [
           5,
@@ -157,8 +157,8 @@
           5
         ],
         "possession": [
-          69,
-          31
+          68,
+          32
         ],
         "home": "ESP",
         "away": "BEL"
