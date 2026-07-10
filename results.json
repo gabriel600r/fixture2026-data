@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:43:06Z",
+  "updated": "2026-07-10T19:43:53Z",
   "live": [
     {
       "id": 98,
@@ -18,6 +18,14 @@
           "minute": 41,
           "team": "BEL",
           "assist": "T. Castagne"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "P. Cubarsi",
+          "minute": 43,
+          "team": "ESP",
+          "color": "yellow"
         }
       ],
       "stats": {
