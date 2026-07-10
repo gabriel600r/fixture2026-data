@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:33:10Z",
+  "updated": "2026-07-10T20:33:58Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 1,
       "goals": [
@@ -57,6 +57,12 @@
           "out": "M. De Cuyper",
           "in": "J. Seys",
           "minute": 61,
+          "team": "BEL"
+        },
+        {
+          "out": "T. Courtois",
+          "in": "S. Lammens",
+          "minute": 71,
           "team": "BEL"
         }
       ],
