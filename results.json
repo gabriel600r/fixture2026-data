@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:21:58Z",
+  "updated": "2026-07-10T20:22:46Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 60,
+      "minute": 61,
       "home": 1,
       "away": 1,
       "goals": [
@@ -40,12 +40,18 @@
           "in": "Pedri",
           "minute": 55,
           "team": "ESP"
+        },
+        {
+          "out": "L. Trossard",
+          "in": "A. Witsel",
+          "minute": 60,
+          "team": "BEL"
         }
       ],
       "stats": {
         "passesAccurate": [
-          354,
-          174
+          374,
+          183
         ],
         "shotsOff": [
           4,
@@ -56,12 +62,12 @@
           1
         ],
         "fouls": [
-          7,
+          8,
           9
         ],
         "passesTotal": [
-          397,
-          214
+          419,
+          225
         ],
         "corners": [
           4,
