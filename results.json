@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:47:38Z",
+  "updated": "2026-07-10T20:48:26Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -75,6 +75,18 @@
           "out": "M. Oyarzabal",
           "in": "N. Williams",
           "minute": 79,
+          "team": "ESP"
+        },
+        {
+          "out": "K. De Bruyne",
+          "in": "A. Saelemaekers",
+          "minute": 86,
+          "team": "BEL"
+        },
+        {
+          "out": "D. Olmo",
+          "in": "M. Merino",
+          "minute": 86,
           "team": "ESP"
         }
       ],
