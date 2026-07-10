@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:46:17Z",
+  "updated": "2026-07-10T19:47:05Z",
   "live": [
     {
       "id": 98,
@@ -28,14 +28,14 @@
           "color": "yellow"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesAccurate": [
-          246,
+          256,
           143
         ],
         "shotsOff": [
-          2,
+          3,
           0
         ],
         "shotsBlocked": [
@@ -47,7 +47,7 @@
           6
         ],
         "passesTotal": [
-          280,
+          290,
           173
         ],
         "corners": [
@@ -83,16 +83,16 @@
           1
         ],
         "shotsOutside": [
-          2,
+          3,
           0
         ],
         "shotsTotal": [
-          7,
+          8,
           2
         ],
         "possession": [
-          61,
-          39
+          62,
+          38
         ],
         "home": "ESP",
         "away": "BEL"
