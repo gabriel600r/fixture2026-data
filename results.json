@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:46:50Z",
+  "updated": "2026-07-10T20:47:38Z",
   "live": [
     {
       "id": 98,
@@ -25,6 +25,12 @@
           "player": "P. Cubarsi",
           "minute": 43,
           "team": "ESP",
+          "color": "yellow"
+        },
+        {
+          "player": "K. De Bruyne",
+          "minute": 85,
+          "team": "BEL",
           "color": "yellow"
         }
       ],
@@ -74,8 +80,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          538,
-          212
+          539,
+          226
         ],
         "shotsOff": [
           4,
@@ -83,15 +89,15 @@
         ],
         "shotsBlocked": [
           5,
-          1
+          2
         ],
         "fouls": [
           11,
-          13
+          14
         ],
         "passesTotal": [
-          595,
-          272
+          596,
+          286
         ],
         "corners": [
           5,
@@ -111,7 +117,7 @@
         ],
         "passesPct": [
           90,
-          78
+          79
         ],
         "red": [
           0,
@@ -127,15 +133,15 @@
         ],
         "shotsOutside": [
           5,
-          0
+          1
         ],
         "shotsTotal": [
           14,
-          4
+          5
         ],
         "possession": [
-          69,
-          31
+          68,
+          32
         ],
         "home": "ESP",
         "away": "BEL"
