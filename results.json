@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-10T19:30:16Z",
+  "updated": "2026-07-10T19:31:06Z",
   "live": [
     {
       "id": 98,
       "status": "1H",
-      "minute": 30,
-      "home": 0,
+      "minute": 31,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "F. Ruiz",
+          "minute": 30,
+          "team": "ESP"
+        }
+      ],
       "stats": {
         "passesAccurate": [
           154,
