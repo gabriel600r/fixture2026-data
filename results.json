@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:54:09Z",
+  "updated": "2026-07-10T20:54:57Z",
   "live": [
     {
       "id": 98,
@@ -36,6 +36,12 @@
           "player": "K. De Bruyne",
           "minute": 85,
           "team": "BEL",
+          "color": "yellow"
+        },
+        {
+          "player": "A. Laporte",
+          "minute": 90,
+          "team": "ESP",
           "color": "yellow"
         }
       ],
@@ -95,11 +101,11 @@
           "team": "ESP"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesAccurate": [
-          570,
-          228
+          579,
+          234
         ],
         "shotsOff": [
           4,
@@ -110,12 +116,12 @@
           2
         ],
         "fouls": [
-          11,
+          12,
           14
         ],
         "passesTotal": [
-          627,
-          289
+          638,
+          297
         ],
         "corners": [
           5,
