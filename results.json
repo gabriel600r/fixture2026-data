@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:50:05Z",
+  "updated": "2026-07-10T20:50:53Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 2,
       "away": 1,
       "goals": [
@@ -20,7 +20,7 @@
           "assist": "T. Castagne"
         },
         {
-          "player": null,
+          "player": "M. Merino",
           "minute": 88,
           "team": "ESP"
         }
@@ -97,7 +97,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          546,
+          570,
           226
         ],
         "shotsOff": [
@@ -113,7 +113,7 @@
           14
         ],
         "passesTotal": [
-          603,
+          627,
           286
         ],
         "corners": [
@@ -121,7 +121,7 @@
           1
         ],
         "shotsInside": [
-          9,
+          10,
           4
         ],
         "yellow": [
@@ -130,7 +130,7 @@
         ],
         "saves": [
           1,
-          4
+          5
         ],
         "passesPct": [
           91,
@@ -141,7 +141,7 @@
           0
         ],
         "shotsOn": [
-          5,
+          7,
           2
         ],
         "offsides": [
@@ -149,16 +149,16 @@
           1
         ],
         "shotsOutside": [
-          5,
+          6,
           1
         ],
         "shotsTotal": [
-          14,
+          16,
           5
         ],
         "possession": [
-          68,
-          32
+          69,
+          31
         ],
         "home": "ESP",
         "away": "BEL"
