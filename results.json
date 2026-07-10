@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T20:25:57Z",
+  "updated": "2026-07-10T20:26:45Z",
   "live": [
     {
       "id": 98,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 1,
       "goals": [
@@ -62,8 +62,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          382,
-          184
+          402,
+          185
         ],
         "shotsOff": [
           4,
@@ -78,27 +78,27 @@
           9
         ],
         "passesTotal": [
-          427,
-          226
+          449,
+          228
         ],
         "corners": [
-          4,
+          5,
           1
         ],
         "shotsInside": [
-          7,
-          3
+          8,
+          4
         ],
         "yellow": [
           1,
           0
         ],
         "saves": [
-          0,
-          3
+          1,
+          4
         ],
         "passesPct": [
-          89,
+          90,
           81
         ],
         "red": [
@@ -106,8 +106,8 @@
           0
         ],
         "shotsOn": [
-          4,
-          1
+          5,
+          2
         ],
         "offsides": [
           2,
@@ -118,12 +118,12 @@
           0
         ],
         "shotsTotal": [
-          12,
-          3
+          13,
+          4
         ],
         "possession": [
-          65,
-          35
+          66,
+          34
         ],
         "home": "ESP",
         "away": "BEL"
