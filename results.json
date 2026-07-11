@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:12:56Z",
+  "updated": "2026-07-11T21:13:44Z",
   "live": [
     {
       "id": 99,
@@ -25,8 +25,8 @@
           0
         ],
         "possession": [
-          26,
-          74
+          21,
+          79
         ],
         "red": [
           0,
@@ -42,15 +42,15 @@
         ],
         "passesTotal": [
           28,
-          83
+          106
         ],
         "passesAccurate": [
           20,
-          75
+          97
         ],
         "passesPct": [
           71,
-          90
+          92
         ],
         "shotsTotal": [
           0,
@@ -173,13 +173,13 @@
                 "pos": "D"
               },
               {
-                "n": 8,
-                "name": "Elliot Anderson",
+                "n": 4,
+                "name": "Declan Rice",
                 "pos": "M"
               },
               {
-                "n": 4,
-                "name": "Declan Rice",
+                "n": 8,
+                "name": "Elliot Anderson",
                 "pos": "M"
               },
               {
