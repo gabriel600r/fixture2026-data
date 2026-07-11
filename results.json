@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-11T21:36:15Z",
+  "updated": "2026-07-11T21:37:03Z",
   "live": [
     {
       "id": 99,
       "status": "1H",
-      "minute": 35,
-      "home": 0,
+      "minute": 36,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": null,
+          "minute": 36,
+          "team": "NOR"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           0,
