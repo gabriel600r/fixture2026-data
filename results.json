@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:30:14Z",
+  "updated": "2026-07-11T22:31:03Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 68,
+      "minute": 69,
       "home": 1,
       "away": 1,
       "goals": [
@@ -38,6 +38,18 @@
           "out": "J. Ryerson",
           "in": "F. Aursnes",
           "minute": 60,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Sorloth",
+          "in": "O. Bobb",
+          "minute": 68,
+          "team": "NOR"
+        },
+        {
+          "out": "A. Schjelderup",
+          "in": "A. Nusa",
+          "minute": 68,
           "team": "NOR"
         }
       ],
@@ -241,9 +253,9 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Jude Bellingham",
-          "rating": 7.9,
-          "team": "ENG"
+          "player": "Andreas Schjelderup",
+          "rating": 8.0,
+          "team": "NOR"
         }
       }
     }
