@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:15:35Z",
+  "updated": "2026-07-11T22:16:23Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 1,
       "away": 1,
       "goals": [
@@ -46,15 +46,15 @@
         ],
         "shotsInside": [
           4,
-          2
+          3
         ],
         "shotsBlocked": [
           1,
-          2
+          3
         ],
         "possession": [
-          35,
-          65
+          36,
+          64
         ],
         "red": [
           0,
@@ -69,20 +69,20 @@
           0
         ],
         "passesTotal": [
-          205,
-          377
+          215,
+          378
         ],
         "passesAccurate": [
-          171,
-          356
+          181,
+          357
         ],
         "passesPct": [
-          83,
+          84,
           94
         ],
         "shotsTotal": [
           5,
-          5
+          6
         ],
         "saves": [
           1,
@@ -97,7 +97,7 @@
           3
         ],
         "corners": [
-          0,
+          1,
           2
         ],
         "home": "NOR",
@@ -235,9 +235,9 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Andreas Schjelderup",
-          "rating": 7.7,
-          "team": "NOR"
+          "player": "Jude Bellingham",
+          "rating": 7.9,
+          "team": "ENG"
         }
       }
     }
