@@ -1,21 +1,27 @@
 {
-  "updated": "2026-07-11T21:47:26Z",
+  "updated": "2026-07-11T21:48:14Z",
   "live": [
     {
       "id": 99,
       "status": "1H",
       "minute": 45,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "A. Schjelderup",
           "minute": 36,
           "team": "NOR",
           "assist": "M. Odegaard"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 45,
+          "team": "ENG",
+          "assist": "A. Gordon"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsOutside": [
           1,
