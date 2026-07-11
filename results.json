@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T21:19:26Z",
+  "updated": "2026-07-11T21:20:15Z",
   "live": [
     {
       "id": 99,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
       "away": 0,
       "stats": {
@@ -42,15 +42,15 @@
         ],
         "passesTotal": [
           75,
-          151
+          153
         ],
         "passesAccurate": [
           65,
-          142
+          143
         ],
         "passesPct": [
           87,
-          94
+          93
         ],
         "shotsTotal": [
           0,
@@ -70,7 +70,7 @@
         ],
         "corners": [
           0,
-          0
+          1
         ],
         "home": "NOR",
         "away": "ENG"
