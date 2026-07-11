@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:32:40Z",
+  "updated": "2026-07-11T22:33:28Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 1,
       "goals": [
@@ -51,6 +51,12 @@
           "in": "A. Nusa",
           "minute": 68,
           "team": "NOR"
+        },
+        {
+          "out": "A. Gordon",
+          "in": "R. James",
+          "minute": 71,
+          "team": "ENG"
         }
       ],
       "stats": {
