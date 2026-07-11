@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T21:51:25Z",
+  "updated": "2026-07-11T22:08:15Z",
   "live": [
     {
       "id": 99,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 1,
       "away": 1,
       "goals": [
@@ -19,6 +19,20 @@
           "minute": 45,
           "team": "ENG",
           "assist": "A. Gordon"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Madueke",
+          "in": "B. Saka",
+          "minute": 46,
+          "team": "ENG"
+        },
+        {
+          "out": "D. Rice",
+          "in": "E. Eze",
+          "minute": 46,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -219,7 +233,12 @@
             ]
           }
         },
-        "referee": "Clement Turpin, France"
+        "referee": "Clement Turpin, France",
+        "motm": {
+          "player": "Andreas Schjelderup",
+          "rating": 7.7,
+          "team": "NOR"
+        }
       }
     }
   ],
