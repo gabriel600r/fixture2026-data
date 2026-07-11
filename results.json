@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:50:10Z",
+  "updated": "2026-07-11T22:51:45Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 88,
+      "minute": 89,
       "home": 1,
       "away": 1,
       "goals": [
@@ -63,6 +63,12 @@
           "in": "D. Spence",
           "minute": 86,
           "team": "ENG"
+        },
+        {
+          "out": "E. Konsa",
+          "in": "M. Rogers",
+          "minute": 89,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -83,8 +89,8 @@
           3
         ],
         "possession": [
-          43,
-          57
+          42,
+          58
         ],
         "red": [
           0,
@@ -100,11 +106,11 @@
         ],
         "passesTotal": [
           356,
-          467
+          487
         ],
         "passesAccurate": [
           304,
-          433
+          452
         ],
         "passesPct": [
           85,
