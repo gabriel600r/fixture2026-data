@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-11T23:01:22Z",
+  "updated": "2026-07-11T23:02:11Z",
   "live": [
     {
       "id": 99,
-      "status": "2H",
+      "status": "ET",
       "minute": 90,
       "home": 1,
       "away": 1,
@@ -77,7 +77,6 @@
           "team": "NOR"
         }
       ],
-      "extra": 9,
       "stats": {
         "shotsOutside": [
           1,
