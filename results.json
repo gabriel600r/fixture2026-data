@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:37:03Z",
+  "updated": "2026-07-11T21:37:51Z",
   "live": [
     {
       "id": 99,
@@ -9,9 +9,10 @@
       "away": 0,
       "goals": [
         {
-          "player": null,
+          "player": "A. Schjelderup",
           "minute": 36,
-          "team": "NOR"
+          "team": "NOR",
+          "assist": "M. Odegaard"
         }
       ],
       "stats": {
