@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:31:52Z",
+  "updated": "2026-07-11T22:32:40Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 1,
       "goals": [
@@ -254,7 +254,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Andreas Schjelderup",
-          "rating": 8.0,
+          "rating": 8.2,
           "team": "NOR"
         }
       }
