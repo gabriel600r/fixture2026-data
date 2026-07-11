@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:26:04Z",
+  "updated": "2026-07-11T22:26:51Z",
   "live": [
     {
       "id": 99,
@@ -59,8 +59,8 @@
           3
         ],
         "possession": [
-          38,
-          62
+          39,
+          61
         ],
         "red": [
           0,
@@ -75,15 +75,15 @@
           0
         ],
         "passesTotal": [
-          233,
+          247,
           385
         ],
         "passesAccurate": [
-          195,
+          209,
           363
         ],
         "passesPct": [
-          84,
+          85,
           94
         ],
         "shotsTotal": [
@@ -241,9 +241,9 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Jude Bellingham",
-          "rating": 7.9,
-          "team": "ENG"
+          "player": "Andreas Schjelderup",
+          "rating": 7.6,
+          "team": "NOR"
         }
       }
     }
