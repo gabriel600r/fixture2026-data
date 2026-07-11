@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:00:34Z",
+  "updated": "2026-07-11T23:01:22Z",
   "live": [
     {
       "id": 99,
@@ -77,7 +77,7 @@
           "team": "NOR"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "shotsOutside": [
           1,
