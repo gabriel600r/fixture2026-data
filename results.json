@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:27:39Z",
+  "updated": "2026-07-11T22:28:34Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 1,
       "away": 1,
       "goals": [
@@ -241,9 +241,9 @@
         },
         "referee": "Clement Turpin, France",
         "motm": {
-          "player": "Andreas Schjelderup",
-          "rating": 7.6,
-          "team": "NOR"
+          "player": "Jude Bellingham",
+          "rating": 7.9,
+          "team": "ENG"
         }
       }
     }
