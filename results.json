@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T21:50:37Z",
+  "updated": "2026-07-11T21:51:25Z",
   "live": [
     {
       "id": 99,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 1,
       "away": 1,
       "goals": [
@@ -21,7 +21,6 @@
           "assist": "A. Gordon"
         }
       ],
-      "extra": 4,
       "stats": {
         "shotsOutside": [
           1,
@@ -56,15 +55,15 @@
           0
         ],
         "passesTotal": [
-          171,
-          341
+          173,
+          349
         ],
         "passesAccurate": [
-          145,
-          324
+          146,
+          332
         ],
         "passesPct": [
-          85,
+          84,
           95
         ],
         "shotsTotal": [
