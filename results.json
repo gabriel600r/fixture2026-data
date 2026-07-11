@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T23:13:32Z",
+  "updated": "2026-07-11T23:14:20Z",
   "live": [
     {
       "id": 99,
       "status": "ET",
-      "minute": 96,
+      "minute": 97,
       "home": 1,
       "away": 2,
       "goals": [
@@ -106,8 +106,8 @@
           3
         ],
         "possession": [
-          42,
-          58
+          43,
+          57
         ],
         "red": [
           0,
@@ -122,16 +122,16 @@
           0
         ],
         "passesTotal": [
-          397,
-          539
+          411,
+          546
         ],
         "passesAccurate": [
-          337,
-          499
+          349,
+          505
         ],
         "passesPct": [
           85,
-          93
+          92
         ],
         "shotsTotal": [
           9,
@@ -289,7 +289,7 @@
         "referee": "Clement Turpin, France",
         "motm": {
           "player": "Jude Bellingham",
-          "rating": 8.3,
+          "rating": 8.5,
           "team": "ENG"
         }
       }
