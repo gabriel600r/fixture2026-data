@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T23:24:14Z",
+  "updated": "2026-07-11T23:25:02Z",
   "live": [
     {
       "id": 99,
       "status": "ET",
-      "minute": 107,
+      "minute": 108,
       "home": 1,
       "away": 2,
       "goals": [
@@ -90,7 +90,7 @@
       ],
       "stats": {
         "shotsOutside": [
-          1,
+          2,
           4
         ],
         "offsides": [
@@ -102,7 +102,7 @@
           6
         ],
         "shotsBlocked": [
-          1,
+          2,
           3
         ],
         "possession": [
@@ -122,11 +122,11 @@
           0
         ],
         "passesTotal": [
-          456,
+          466,
           559
         ],
         "passesAccurate": [
-          390,
+          400,
           515
         ],
         "passesPct": [
@@ -134,7 +134,7 @@
           92
         ],
         "shotsTotal": [
-          9,
+          10,
           10
         ],
         "saves": [
@@ -150,7 +150,7 @@
           5
         ],
         "corners": [
-          5,
+          6,
           4
         ],
         "home": "NOR",
