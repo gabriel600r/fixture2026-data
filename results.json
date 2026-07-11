@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:27:31Z",
+  "updated": "2026-07-11T23:29:53Z",
   "live": [
     {
       "id": 99,
@@ -85,6 +85,12 @@
           "out": "T. Heggem",
           "in": "L. Ostigard",
           "minute": 91,
+          "team": "NOR"
+        },
+        {
+          "out": "E. Haaland",
+          "in": "J. Larsen",
+          "minute": 106,
           "team": "NOR"
         }
       ],
