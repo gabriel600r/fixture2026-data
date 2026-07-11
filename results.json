@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:21:59Z",
+  "updated": "2026-07-11T22:22:51Z",
   "live": [
     {
       "id": 99,
@@ -33,6 +33,12 @@
           "in": "E. Eze",
           "minute": 46,
           "team": "ENG"
+        },
+        {
+          "out": "J. Ryerson",
+          "in": "F. Aursnes",
+          "minute": 60,
+          "team": "NOR"
         }
       ],
       "stats": {
@@ -45,7 +51,7 @@
           3
         ],
         "shotsInside": [
-          6,
+          5,
           3
         ],
         "shotsBlocked": [
@@ -61,7 +67,7 @@
           0
         ],
         "shotsOn": [
-          4,
+          3,
           2
         ],
         "yellow": [
@@ -81,12 +87,12 @@
           94
         ],
         "shotsTotal": [
-          7,
+          6,
           6
         ],
         "saves": [
           1,
-          3
+          2
         ],
         "shotsOff": [
           2,
