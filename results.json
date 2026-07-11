@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:47:35Z",
+  "updated": "2026-07-11T23:47:37Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -120,6 +120,10 @@
     "101": {
       "home": "FRA",
       "away": "ESP"
+    },
+    "102": {
+      "home": "ENG",
+      "away": "TBD"
     }
   },
   "prematch": [],
