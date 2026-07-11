@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:51:45Z",
+  "updated": "2026-07-11T22:52:34Z",
   "live": [
     {
       "id": 99,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 1,
       "goals": [
@@ -69,6 +69,12 @@
           "in": "M. Rogers",
           "minute": 89,
           "team": "ENG"
+        },
+        {
+          "out": "D. Wolfe",
+          "in": "M. Pedersen",
+          "minute": 90,
+          "team": "NOR"
         }
       ],
       "stats": {
@@ -130,11 +136,11 @@
         ],
         "fouls": [
           7,
-          3
+          4
         ],
         "corners": [
           5,
-          2
+          3
         ],
         "home": "NOR",
         "away": "ENG"
