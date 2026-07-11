@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:49:01Z",
+  "updated": "2026-07-11T21:49:49Z",
   "live": [
     {
       "id": 99,
@@ -29,15 +29,15 @@
         ],
         "offsides": [
           0,
-          1
+          2
         ],
         "shotsInside": [
-          3,
-          0
+          4,
+          1
         ],
         "shotsBlocked": [
-          0,
-          0
+          1,
+          1
         ],
         "possession": [
           33,
@@ -56,20 +56,20 @@
           0
         ],
         "passesTotal": [
-          168,
-          331
+          171,
+          341
         ],
         "passesAccurate": [
-          144,
-          314
+          145,
+          324
         ],
         "passesPct": [
-          86,
+          85,
           95
         ],
         "shotsTotal": [
-          4,
-          1
+          5,
+          2
         ],
         "saves": [
           0,
@@ -85,7 +85,7 @@
         ],
         "corners": [
           0,
-          1
+          2
         ],
         "home": "NOR",
         "away": "ENG"
