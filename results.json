@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T23:07:44Z",
+  "updated": "2026-07-11T23:08:32Z",
   "live": [
     {
       "id": 99,
       "status": "ET",
-      "minute": 97,
+      "minute": 98,
       "home": 1,
       "away": 1,
       "goals": [
@@ -74,6 +74,12 @@
           "out": "D. Wolfe",
           "in": "M. Pedersen",
           "minute": 90,
+          "team": "NOR"
+        },
+        {
+          "out": "T. Heggem",
+          "in": "L. Ostigard",
+          "minute": 91,
           "team": "NOR"
         }
       ],
