@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:46:39Z",
+  "updated": "2026-07-11T21:47:26Z",
   "live": [
     {
       "id": 99,
@@ -15,6 +15,7 @@
           "assist": "M. Odegaard"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsOutside": [
           1,
