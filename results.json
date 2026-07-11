@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-11T21:30:40Z",
+  "updated": "2026-07-11T21:31:29Z",
   "live": [
     {
       "id": 99,
       "status": "1H",
-      "minute": 29,
+      "minute": 30,
       "home": 0,
       "away": 0,
       "stats": {
         "shotsOutside": [
           0,
-          0
+          1
         ],
         "offsides": [
           0,
@@ -54,7 +54,7 @@
         ],
         "shotsTotal": [
           0,
-          0
+          1
         ],
         "saves": [
           0,
@@ -62,7 +62,7 @@
         ],
         "shotsOff": [
           0,
-          0
+          1
         ],
         "fouls": [
           2,
