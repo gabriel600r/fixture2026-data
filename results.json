@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-11T23:10:07Z",
+  "updated": "2026-07-11T23:10:57Z",
   "live": [
     {
       "id": 99,
       "status": "ET",
-      "minute": 99,
+      "minute": 100,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "A. Schjelderup",
@@ -19,6 +19,11 @@
           "minute": 45,
           "team": "ENG",
           "assist": "A. Gordon"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 93,
+          "team": "ENG"
         }
       ],
       "subs": [
