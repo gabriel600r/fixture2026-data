@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:33:30Z",
+  "updated": "2026-07-12T02:34:17Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 1,
       "away": 1,
       "goals": [
@@ -29,12 +29,6 @@
           "player": "B. Embolo",
           "minute": 44,
           "team": "SUI",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Paredes",
-          "minute": 69,
-          "team": "ARG",
           "color": "yellow"
         },
         {
