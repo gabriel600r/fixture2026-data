@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:36:09Z",
+  "updated": "2026-07-12T03:36:56Z",
   "live": [
     {
       "id": 100,
@@ -63,7 +63,7 @@
         },
         {
           "player": "J. Lopez",
-          "minute": 115,
+          "minute": 114,
           "team": "ARG",
           "color": "yellow"
         }
