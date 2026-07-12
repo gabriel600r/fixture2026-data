@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:46:18Z",
+  "updated": "2026-07-12T02:47:06Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 85,
+      "minute": 86,
       "home": 1,
       "away": 1,
       "goals": [
@@ -50,6 +50,18 @@
           "in": "N. Gonzalez",
           "minute": 78,
           "team": "ARG"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 85,
+          "team": "ARG"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Martinez",
+          "minute": 86,
+          "team": "ARG"
         }
       ],
       "stats": {
@@ -58,7 +70,7 @@
           4
         ],
         "offsides": [
-          2,
+          3,
           2
         ],
         "shotsInside": [
@@ -70,8 +82,8 @@
           3
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "red": [
           0,
@@ -86,16 +98,16 @@
           2
         ],
         "passesTotal": [
-          346,
-          362
+          386,
+          399
         ],
         "passesAccurate": [
-          292,
-          321
+          329,
+          353
         ],
         "passesPct": [
-          84,
-          89
+          85,
+          88
         ],
         "shotsTotal": [
           5,
