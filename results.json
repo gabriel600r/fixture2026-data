@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:33:43Z",
+  "updated": "2026-07-12T03:35:21Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 114,
+      "minute": 115,
       "home": 2,
       "away": 1,
       "goals": [
@@ -58,6 +58,12 @@
         {
           "player": "L. Martinez",
           "minute": 98,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Lopez",
+          "minute": 115,
           "team": "ARG",
           "color": "yellow"
         }
