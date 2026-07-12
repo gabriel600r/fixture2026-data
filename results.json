@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T01:23:21Z",
+  "updated": "2026-07-12T01:24:10Z",
   "live": [
     {
       "id": 100,
@@ -21,7 +21,7 @@
           2
         ],
         "offsides": [
-          0,
+          1,
           0
         ],
         "shotsInside": [
@@ -49,23 +49,23 @@
           0
         ],
         "passesTotal": [
-          109,
-          121
+          116,
+          125
         ],
         "passesAccurate": [
-          93,
-          107
+          100,
+          111
         ],
         "passesPct": [
-          85,
-          88
+          86,
+          89
         ],
         "shotsTotal": [
           3,
           3
         ],
         "saves": [
-          0,
+          1,
           0
         ],
         "shotsOff": [
@@ -74,7 +74,7 @@
         ],
         "fouls": [
           2,
-          4
+          5
         ],
         "corners": [
           2,
