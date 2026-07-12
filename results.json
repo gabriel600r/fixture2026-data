@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:57:27Z",
+  "updated": "2026-07-12T02:58:15Z",
   "live": [
     {
       "id": 100,
@@ -88,7 +88,7 @@
           "team": "SUI"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsOutside": [
           4,
@@ -99,11 +99,11 @@
           2
         ],
         "shotsInside": [
-          4,
+          5,
           5
         ],
         "shotsBlocked": [
-          2,
+          3,
           3
         ],
         "possession": [
@@ -123,11 +123,11 @@
           2
         ],
         "passesTotal": [
-          463,
+          469,
           411
         ],
         "passesAccurate": [
-          402,
+          407,
           358
         ],
         "passesPct": [
@@ -135,7 +135,7 @@
           87
         ],
         "shotsTotal": [
-          8,
+          9,
           9
         ],
         "saves": [
@@ -290,7 +290,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Alexis Mac Allister",
-          "rating": 7.2,
+          "rating": 7.3,
           "team": "ARG"
         }
       }
