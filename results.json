@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-12T03:40:55Z",
+  "updated": "2026-07-12T03:41:43Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
       "minute": 120,
-      "home": 2,
+      "home": 3,
       "away": 1,
       "goals": [
         {
@@ -25,6 +25,11 @@
           "minute": 112,
           "team": "ARG",
           "assist": "J. Lopez"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 120,
+          "team": "ARG"
         }
       ],
       "redCards": [
@@ -343,7 +348,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.9,
+          "rating": 8.6,
           "team": "ARG"
         }
       }
