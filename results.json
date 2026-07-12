@@ -1,359 +1,6 @@
 {
-  "updated": "2026-07-12T03:44:53Z",
-  "live": [
-    {
-      "id": 100,
-      "status": "ET",
-      "minute": 120,
-      "home": 3,
-      "away": 1,
-      "goals": [
-        {
-          "player": "A. Mac Allister",
-          "minute": 10,
-          "team": "ARG",
-          "assist": "L. Messi"
-        },
-        {
-          "player": "D. Ndoye",
-          "minute": 67,
-          "team": "SUI",
-          "assist": "R. Rodriguez"
-        },
-        {
-          "player": "J. Alvarez",
-          "minute": 112,
-          "team": "ARG",
-          "assist": "J. Lopez"
-        },
-        {
-          "player": "L. Martinez",
-          "minute": 120,
-          "team": "ARG"
-        }
-      ],
-      "redCards": [
-        "B. Embolo (Switzerland) 72'"
-      ],
-      "cardEvents": [
-        {
-          "player": "B. Embolo",
-          "minute": 44,
-          "team": "SUI",
-          "color": "yellow"
-        },
-        {
-          "player": "B. Embolo",
-          "minute": 72,
-          "team": "SUI",
-          "color": "yellow"
-        },
-        {
-          "player": "B. Embolo",
-          "minute": 72,
-          "team": "SUI",
-          "color": "red"
-        },
-        {
-          "player": "T. Almada",
-          "minute": 97,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "L. Martinez",
-          "minute": 98,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "J. Lopez",
-          "minute": 114,
-          "team": "ARG",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "N. Tagliafico",
-          "in": "N. Gonzalez",
-          "minute": 78,
-          "team": "ARG"
-        },
-        {
-          "out": "R. de Paul",
-          "in": "L. Martinez",
-          "minute": 85,
-          "team": "ARG"
-        },
-        {
-          "out": "N. Molina",
-          "in": "G. Montiel",
-          "minute": 85,
-          "team": "ARG"
-        },
-        {
-          "out": "D. Sow",
-          "in": "S. Widmer",
-          "minute": 86,
-          "team": "SUI"
-        },
-        {
-          "out": "D. Ndoye",
-          "in": "Z. Amdouni",
-          "minute": 86,
-          "team": "SUI"
-        },
-        {
-          "out": "F. Rieder",
-          "in": "M. Muheim",
-          "minute": 86,
-          "team": "SUI"
-        },
-        {
-          "out": "R. Rodriguez",
-          "in": "E. Comert",
-          "minute": 90,
-          "team": "SUI"
-        },
-        {
-          "out": "E. Fernandez",
-          "in": "T. Almada",
-          "minute": 91,
-          "team": "ARG"
-        },
-        {
-          "out": "D. Zakaria",
-          "in": "A. Jashari",
-          "minute": 96,
-          "team": "SUI"
-        },
-        {
-          "out": "C. Romero",
-          "in": "N. Otamendi",
-          "minute": 106,
-          "team": "ARG"
-        },
-        {
-          "out": "L. Paredes",
-          "in": "J. Lopez",
-          "minute": 110,
-          "team": "ARG"
-        },
-        {
-          "out": "R. Freuler",
-          "in": "R. Vargas",
-          "minute": 115,
-          "team": "SUI"
-        }
-      ],
-      "stats": {
-        "shotsOutside": [
-          10,
-          6
-        ],
-        "offsides": [
-          4,
-          3
-        ],
-        "shotsInside": [
-          12,
-          5
-        ],
-        "shotsBlocked": [
-          7,
-          3
-        ],
-        "possession": [
-          59,
-          41
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "shotsOn": [
-          7,
-          5
-        ],
-        "yellow": [
-          3,
-          2
-        ],
-        "passesTotal": [
-          680,
-          474
-        ],
-        "passesAccurate": [
-          603,
-          399
-        ],
-        "passesPct": [
-          89,
-          84
-        ],
-        "shotsTotal": [
-          22,
-          11
-        ],
-        "saves": [
-          4,
-          4
-        ],
-        "shotsOff": [
-          8,
-          3
-        ],
-        "fouls": [
-          14,
-          18
-        ],
-        "corners": [
-          8,
-          2
-        ],
-        "home": "ARG",
-        "away": "SUI"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-3-2",
-            "coach": "Lionel Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Emiliano Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Nahuel Molina",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Cristian Romero",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Lisandro Martínez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "Nicolás Tagliafico",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Leandro Paredes",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Rodrigo De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Enzo Fernández",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Alexis Mac Allister",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Lionel Messi",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "Julián Alvarez",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "coach": "Murat Yakin",
-            "xi": [
-              {
-                "n": 1,
-                "name": "Gregor Kobel",
-                "pos": "G"
-              },
-              {
-                "n": 6,
-                "name": "Denis Zakaria",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Nico Elvedi",
-                "pos": "D"
-              },
-              {
-                "n": 5,
-                "name": "Manuel Akanji",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "Ricardo Rodríguez",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "Remo Freuler",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Granit Xhaka",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Djibril Sow",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Fabian Rieder",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Dan Ndoye",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Breel Embolo",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Joao Pedro Pinheiro, Portugal",
-        "motm": {
-          "player": "Lionel Messi",
-          "rating": 8.9,
-          "team": "ARG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-12T03:45:39Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -30890,6 +30537,356 @@
           "team": "ENG"
         }
       }
+    },
+    {
+      "id": 100,
+      "home": 3,
+      "away": 1,
+      "goals": [
+        {
+          "player": "A. Mac Allister",
+          "minute": 10,
+          "team": "ARG",
+          "assist": "L. Messi"
+        },
+        {
+          "player": "D. Ndoye",
+          "minute": 67,
+          "team": "SUI",
+          "assist": "R. Rodriguez"
+        },
+        {
+          "player": "J. Alvarez",
+          "minute": 112,
+          "team": "ARG",
+          "assist": "J. Lopez"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 120,
+          "team": "ARG"
+        }
+      ],
+      "redCards": [
+        "B. Embolo (Switzerland) 72'"
+      ],
+      "cardEvents": [
+        {
+          "player": "B. Embolo",
+          "minute": 44,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "B. Embolo",
+          "minute": 72,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "B. Embolo",
+          "minute": 72,
+          "team": "SUI",
+          "color": "red"
+        },
+        {
+          "player": "T. Almada",
+          "minute": 97,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 98,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "J. Lopez",
+          "minute": 114,
+          "team": "ARG",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Tagliafico",
+          "in": "N. Gonzalez",
+          "minute": 78,
+          "team": "ARG"
+        },
+        {
+          "out": "R. de Paul",
+          "in": "L. Martinez",
+          "minute": 85,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 85,
+          "team": "ARG"
+        },
+        {
+          "out": "D. Sow",
+          "in": "S. Widmer",
+          "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "Z. Amdouni",
+          "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "F. Rieder",
+          "in": "M. Muheim",
+          "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "R. Rodriguez",
+          "in": "E. Comert",
+          "minute": 90,
+          "team": "SUI"
+        },
+        {
+          "out": "E. Fernandez",
+          "in": "T. Almada",
+          "minute": 91,
+          "team": "ARG"
+        },
+        {
+          "out": "D. Zakaria",
+          "in": "A. Jashari",
+          "minute": 96,
+          "team": "SUI"
+        },
+        {
+          "out": "C. Romero",
+          "in": "N. Otamendi",
+          "minute": 106,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Paredes",
+          "in": "J. Lopez",
+          "minute": 110,
+          "team": "ARG"
+        },
+        {
+          "out": "R. Freuler",
+          "in": "R. Vargas",
+          "minute": 115,
+          "team": "SUI"
+        }
+      ],
+      "stats": {
+        "shotsOutside": [
+          10,
+          6
+        ],
+        "offsides": [
+          4,
+          3
+        ],
+        "shotsInside": [
+          12,
+          5
+        ],
+        "shotsBlocked": [
+          7,
+          3
+        ],
+        "possession": [
+          59,
+          41
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "shotsOn": [
+          7,
+          5
+        ],
+        "yellow": [
+          3,
+          2
+        ],
+        "passesTotal": [
+          680,
+          474
+        ],
+        "passesAccurate": [
+          603,
+          399
+        ],
+        "passesPct": [
+          89,
+          84
+        ],
+        "shotsTotal": [
+          22,
+          11
+        ],
+        "saves": [
+          4,
+          4
+        ],
+        "shotsOff": [
+          8,
+          3
+        ],
+        "fouls": [
+          14,
+          18
+        ],
+        "corners": [
+          8,
+          2
+        ],
+        "home": "ARG",
+        "away": "SUI"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-3-2",
+            "coach": "Lionel Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Emiliano Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Nahuel Molina",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Cristian Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "Nicolás Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Leandro Paredes",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Rodrigo De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Enzo Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "Julián Alvarez",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-2-3-1",
+            "coach": "Murat Yakin",
+            "xi": [
+              {
+                "n": 1,
+                "name": "Gregor Kobel",
+                "pos": "G"
+              },
+              {
+                "n": 6,
+                "name": "Denis Zakaria",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Nico Elvedi",
+                "pos": "D"
+              },
+              {
+                "n": 5,
+                "name": "Manuel Akanji",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "Ricardo Rodríguez",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "Remo Freuler",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Granit Xhaka",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "Djibril Sow",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Fabian Rieder",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Dan Ndoye",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Breel Embolo",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Joao Pedro Pinheiro, Portugal",
+        "motm": {
+          "player": "Lionel Messi",
+          "rating": 8.9,
+          "team": "ARG"
+        }
+      }
     }
   ],
   "stats": {
@@ -30905,7 +30902,7 @@
         "player": "L. Messi",
         "team": "ARG",
         "goals": 8,
-        "assists": 1
+        "assists": 2
       },
       {
         "player": "E. Haaland",
@@ -30966,6 +30963,13 @@
         "team": "GER",
         "goals": 3,
         "penalties": 1
+      },
+      {
+        "player": "L. Martinez",
+        "team": "ARG",
+        "goals": 3,
+        "penalties": 1,
+        "assists": 2
       },
       {
         "player": "Raúl Jiménez",
@@ -31042,13 +31046,6 @@
       {
         "player": "Breel Embolo",
         "team": "SUI",
-        "goals": 2,
-        "penalties": 1,
-        "assists": 2
-      },
-      {
-        "player": "L. Martinez",
-        "team": "ARG",
         "goals": 2,
         "penalties": 1,
         "assists": 2
@@ -31201,7 +31198,13 @@
         "player": "L. Martinez",
         "team": "ARG",
         "assists": 2,
-        "goals": 2
+        "goals": 3
+      },
+      {
+        "player": "L. Messi",
+        "team": "ARG",
+        "assists": 2,
+        "goals": 8
       },
       {
         "player": "L. Trossard",
@@ -31230,15 +31233,15 @@
         "team": "CAN",
         "assists": 2,
         "goals": 1
-      },
-      {
-        "player": "Ousmane Dembélé",
-        "team": "FRA",
-        "assists": 2,
-        "goals": 5
       }
     ],
     "cards": [
+      {
+        "player": "Breel Embolo",
+        "team": "SUI",
+        "red": 1,
+        "yellow": 2
+      },
       {
         "player": "Folarin Balogun",
         "team": "USA",
@@ -31412,12 +31415,6 @@
         "team": "CUR",
         "red": 0,
         "yellow": 2
-      },
-      {
-        "player": "L. De Fougerolles",
-        "team": "CAN",
-        "red": 0,
-        "yellow": 2
       }
     ]
   },
@@ -31431,6 +31428,20 @@
       "gf": 16,
       "ga": 2,
       "cleanSheets": 4,
+      "failedToScore": 0,
+      "biggestWin": "3-0",
+      "biggestLose": "",
+      "form": "WWWWWW"
+    },
+    {
+      "code": "ARG",
+      "played": 6,
+      "wins": 6,
+      "draws": 0,
+      "loses": 0,
+      "gf": 17,
+      "ga": 6,
+      "cleanSheets": 2,
       "failedToScore": 0,
       "biggestWin": "3-0",
       "biggestLose": "",
@@ -31463,20 +31474,6 @@
       "biggestWin": "4-2",
       "biggestLose": "",
       "form": "WDWWWW"
-    },
-    {
-      "code": "ARG",
-      "played": 5,
-      "wins": 5,
-      "draws": 0,
-      "loses": 0,
-      "gf": 14,
-      "ga": 5,
-      "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WWWWW"
     },
     {
       "code": "MEX",
@@ -31522,17 +31519,17 @@
     },
     {
       "code": "SUI",
-      "played": 5,
+      "played": 6,
       "wins": 3,
       "draws": 2,
-      "loses": 0,
-      "gf": 9,
-      "ga": 3,
+      "loses": 1,
+      "gf": 10,
+      "ga": 6,
       "cleanSheets": 2,
       "failedToScore": 1,
       "biggestWin": "4-1",
-      "biggestLose": "",
-      "form": "DWWWD"
+      "biggestLose": "1-3",
+      "form": "DWWWDL"
     },
     {
       "code": "MAR",
