@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-12T02:28:42Z",
+  "updated": "2026-07-12T02:29:29Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 67,
+      "minute": 68,
       "home": 1,
-      "away": 0,
+      "away": 1,
       "goals": [
         {
           "player": "A. Mac Allister",
@@ -15,9 +15,10 @@
           "assist": "L. Messi"
         },
         {
-          "player": null,
-          "minute": 68,
-          "team": "SUI"
+          "player": "D. Ndoye",
+          "minute": 67,
+          "team": "SUI",
+          "assist": "R. Rodriguez"
         }
       ],
       "cardEvents": [
@@ -39,7 +40,7 @@
         ],
         "shotsInside": [
           2,
-          4
+          5
         ],
         "shotsBlocked": [
           2,
@@ -55,7 +56,7 @@
         ],
         "shotsOn": [
           1,
-          4
+          5
         ],
         "yellow": [
           0,
@@ -63,11 +64,11 @@
         ],
         "passesTotal": [
           308,
-          351
+          356
         ],
         "passesAccurate": [
           256,
-          313
+          318
         ],
         "passesPct": [
           83,
@@ -75,7 +76,7 @@
         ],
         "shotsTotal": [
           5,
-          8
+          9
         ],
         "saves": [
           4,
