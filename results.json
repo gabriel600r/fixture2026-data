@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:29:42Z",
+  "updated": "2026-07-12T03:30:30Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 109,
+      "minute": 110,
       "home": 1,
       "away": 1,
       "goals": [
@@ -116,6 +116,12 @@
           "in": "N. Otamendi",
           "minute": 106,
           "team": "ARG"
+        },
+        {
+          "out": "L. Paredes",
+          "in": "J. Lopez",
+          "minute": 110,
+          "team": "ARG"
         }
       ],
       "stats": {
@@ -136,8 +142,8 @@
           3
         ],
         "possession": [
-          58,
-          42
+          60,
+          40
         ],
         "red": [
           0,
@@ -152,11 +158,11 @@
           2
         ],
         "passesTotal": [
-          624,
-          443
+          656,
+          444
         ],
         "passesAccurate": [
-          553,
+          582,
           381
         ],
         "passesPct": [
