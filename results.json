@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:12:05Z",
+  "updated": "2026-07-12T03:12:56Z",
   "live": [
     {
       "id": 100,
@@ -42,6 +42,12 @@
           "minute": 72,
           "team": "SUI",
           "color": "red"
+        },
+        {
+          "player": "T. Almada",
+          "minute": 97,
+          "team": "ARG",
+          "color": "yellow"
         }
       ],
       "subs": [
@@ -102,7 +108,7 @@
       ],
       "stats": {
         "shotsOutside": [
-          5,
+          6,
           4
         ],
         "offsides": [
@@ -118,8 +124,8 @@
           3
         ],
         "possession": [
-          57,
-          43
+          58,
+          42
         ],
         "red": [
           0,
@@ -134,11 +140,11 @@
           2
         ],
         "passesTotal": [
-          554,
+          566,
           415
         ],
         "passesAccurate": [
-          487,
+          498,
           359
         ],
         "passesPct": [
@@ -146,7 +152,7 @@
           87
         ],
         "shotsTotal": [
-          13,
+          14,
           9
         ],
         "saves": [
@@ -154,7 +160,7 @@
           2
         ],
         "shotsOff": [
-          6,
+          7,
           1
         ],
         "fouls": [
