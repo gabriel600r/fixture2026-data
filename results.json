@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:35:21Z",
+  "updated": "2026-07-12T03:36:09Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 115,
+      "minute": 116,
       "home": 2,
       "away": 1,
       "goals": [
@@ -134,6 +134,12 @@
           "in": "J. Lopez",
           "minute": 110,
           "team": "ARG"
+        },
+        {
+          "out": "R. Freuler",
+          "in": "R. Vargas",
+          "minute": 115,
+          "team": "SUI"
         }
       ],
       "stats": {
@@ -166,15 +172,15 @@
           5
         ],
         "yellow": [
-          2,
+          3,
           2
         ],
         "passesTotal": [
-          670,
+          671,
           449
         ],
         "passesAccurate": [
-          596,
+          597,
           383
         ],
         "passesPct": [
