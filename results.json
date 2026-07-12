@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-12T03:32:06Z",
+  "updated": "2026-07-12T03:32:54Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 112,
-      "home": 1,
+      "minute": 113,
+      "home": 2,
       "away": 1,
       "goals": [
         {
@@ -19,6 +19,11 @@
           "minute": 67,
           "team": "SUI",
           "assist": "R. Rodriguez"
+        },
+        {
+          "player": "J. Alvarez",
+          "minute": 112,
+          "team": "ARG"
         }
       ],
       "redCards": [
@@ -158,16 +163,16 @@
           2
         ],
         "passesTotal": [
-          659,
-          445
+          667,
+          449
         ],
         "passesAccurate": [
-          585,
-          381
+          593,
+          383
         ],
         "passesPct": [
           89,
-          86
+          85
         ],
         "shotsTotal": [
           17,
