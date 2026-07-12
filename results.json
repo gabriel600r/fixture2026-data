@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:42:31Z",
+  "updated": "2026-07-12T03:44:05Z",
   "live": [
     {
       "id": 100,
@@ -157,7 +157,7 @@
           2
         ],
         "shotsInside": [
-          11,
+          12,
           5
         ],
         "shotsBlocked": [
@@ -173,7 +173,7 @@
           1
         ],
         "shotsOn": [
-          6,
+          7,
           5
         ],
         "yellow": [
@@ -193,7 +193,7 @@
           84
         ],
         "shotsTotal": [
-          21,
+          22,
           11
         ],
         "saves": [
@@ -348,7 +348,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.6,
+          "rating": 8.9,
           "team": "ARG"
         }
       }
