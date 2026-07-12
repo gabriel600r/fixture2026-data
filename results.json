@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:30:19Z",
+  "updated": "2026-07-12T02:31:06Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 69,
+      "minute": 70,
       "home": 1,
       "away": 1,
       "goals": [
@@ -26,6 +26,12 @@
           "player": "B. Embolo",
           "minute": 44,
           "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Paredes",
+          "minute": 69,
+          "team": "ARG",
           "color": "yellow"
         }
       ],
@@ -63,11 +69,11 @@
           1
         ],
         "passesTotal": [
-          308,
+          309,
           356
         ],
         "passesAccurate": [
-          256,
+          257,
           318
         ],
         "passesPct": [
