@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:59:51Z",
+  "updated": "2026-07-12T03:00:43Z",
   "live": [
     {
       "id": 100,
@@ -88,7 +88,7 @@
           "team": "SUI"
         }
       ],
-      "extra": 8,
+      "extra": 10,
       "stats": {
         "shotsOutside": [
           4,
