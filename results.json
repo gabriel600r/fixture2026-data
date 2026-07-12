@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:20:44Z",
+  "updated": "2026-07-12T02:21:32Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 59,
+      "minute": 61,
       "home": 1,
       "away": 0,
       "goals": [
@@ -224,7 +224,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Alexis Mac Allister",
-          "rating": 7.5,
+          "rating": 7.7,
           "team": "ARG"
         }
       }
