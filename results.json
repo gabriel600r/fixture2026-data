@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:19:20Z",
+  "updated": "2026-07-12T03:20:08Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 104,
+      "minute": 105,
       "home": 1,
       "away": 1,
       "goals": [
@@ -146,11 +146,11 @@
           2
         ],
         "passesTotal": [
-          600,
+          601,
           428
         ],
         "passesAccurate": [
-          531,
+          532,
           368
         ],
         "passesPct": [
@@ -313,7 +313,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Alexis Mac Allister",
-          "rating": 7.3,
+          "rating": 7.7,
           "team": "ARG"
         }
       }
