@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:55:52Z",
+  "updated": "2026-07-12T02:56:40Z",
   "live": [
     {
       "id": 100,
@@ -80,9 +80,15 @@
           "in": "M. Muheim",
           "minute": 86,
           "team": "SUI"
+        },
+        {
+          "out": "R. Rodriguez",
+          "in": "E. Comert",
+          "minute": 90,
+          "team": "SUI"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "shotsOutside": [
           4,
@@ -101,8 +107,8 @@
           3
         ],
         "possession": [
-          52,
-          48
+          53,
+          47
         ],
         "red": [
           0,
@@ -117,11 +123,11 @@
           2
         ],
         "passesTotal": [
-          452,
-          410
+          463,
+          411
         ],
         "passesAccurate": [
-          391,
+          402,
           358
         ],
         "passesPct": [
