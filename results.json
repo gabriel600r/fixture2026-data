@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:47:53Z",
+  "updated": "2026-07-12T02:48:41Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 86,
+      "minute": 88,
       "home": 1,
       "away": 1,
       "goals": [
@@ -72,7 +72,13 @@
         {
           "out": "D. Ndoye",
           "in": "Z. Amdouni",
-          "minute": 87,
+          "minute": 86,
+          "team": "SUI"
+        },
+        {
+          "out": "F. Rieder",
+          "in": "M. Muheim",
+          "minute": 86,
           "team": "SUI"
         }
       ],
