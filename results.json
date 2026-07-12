@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:47:06Z",
+  "updated": "2026-07-12T02:47:53Z",
   "live": [
     {
       "id": 100,
@@ -52,16 +52,28 @@
           "team": "ARG"
         },
         {
+          "out": "R. de Paul",
+          "in": "L. Martinez",
+          "minute": 85,
+          "team": "ARG"
+        },
+        {
           "out": "N. Molina",
           "in": "G. Montiel",
           "minute": 85,
           "team": "ARG"
         },
         {
-          "out": "R. de Paul",
-          "in": "L. Martinez",
+          "out": "D. Sow",
+          "in": "S. Widmer",
           "minute": 86,
-          "team": "ARG"
+          "team": "SUI"
+        },
+        {
+          "out": "D. Ndoye",
+          "in": "Z. Amdouni",
+          "minute": 87,
+          "team": "SUI"
         }
       ],
       "stats": {
