@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-12T01:11:02Z",
+  "updated": "2026-07-12T01:11:50Z",
   "live": [
     {
       "id": 100,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": null,
+          "player": "A. Mac Allister",
           "minute": 10,
-          "team": "ARG"
+          "team": "ARG",
+          "assist": "L. Messi"
         }
       ],
       "stats": {
@@ -24,7 +25,7 @@
           0
         ],
         "shotsInside": [
-          0,
+          1,
           1
         ],
         "shotsBlocked": [
@@ -32,15 +33,15 @@
           1
         ],
         "possession": [
-          46,
-          54
+          47,
+          53
         ],
         "red": [
           0,
           0
         ],
         "shotsOn": [
-          0,
+          1,
           0
         ],
         "yellow": [
@@ -48,7 +49,7 @@
           0
         ],
         "passesTotal": [
-          45,
+          46,
           53
         ],
         "passesAccurate": [
@@ -56,11 +57,11 @@
           48
         ],
         "passesPct": [
-          82,
+          80,
           91
         ],
         "shotsTotal": [
-          1,
+          2,
           2
         ],
         "saves": [
@@ -76,7 +77,7 @@
           2
         ],
         "corners": [
-          1,
+          2,
           0
         ],
         "home": "ARG",
