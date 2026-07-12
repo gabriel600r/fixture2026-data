@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T01:44:12Z",
+  "updated": "2026-07-12T01:45:05Z",
   "live": [
     {
       "id": 100,
@@ -15,10 +15,18 @@
           "assist": "L. Messi"
         }
       ],
+      "cardEvents": [
+        {
+          "player": "B. Embolo",
+          "minute": 44,
+          "team": "SUI",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "shotsOutside": [
           1,
-          2
+          3
         ],
         "offsides": [
           1,
@@ -62,7 +70,7 @@
         ],
         "shotsTotal": [
           3,
-          3
+          4
         ],
         "saves": [
           1,
@@ -70,7 +78,7 @@
         ],
         "shotsOff": [
           1,
-          1
+          2
         ],
         "fouls": [
           6,
