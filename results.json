@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:39:09Z",
+  "updated": "2026-07-12T02:39:57Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 78,
+      "minute": 79,
       "home": 1,
       "away": 1,
       "goals": [
@@ -42,6 +42,14 @@
           "minute": 72,
           "team": "SUI",
           "color": "red"
+        }
+      ],
+      "subs": [
+        {
+          "out": "N. Tagliafico",
+          "in": "N. Gonzalez",
+          "minute": 78,
+          "team": "ARG"
         }
       ],
       "stats": {
