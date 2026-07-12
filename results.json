@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T02:31:54Z",
+  "updated": "2026-07-12T02:33:30Z",
   "live": [
     {
       "id": 100,
       "status": "2H",
-      "minute": 71,
+      "minute": 72,
       "home": 1,
       "away": 1,
       "goals": [
@@ -21,6 +21,9 @@
           "assist": "R. Rodriguez"
         }
       ],
+      "redCards": [
+        "B. Embolo (Switzerland) 72'"
+      ],
       "cardEvents": [
         {
           "player": "B. Embolo",
@@ -33,6 +36,18 @@
           "minute": 69,
           "team": "ARG",
           "color": "yellow"
+        },
+        {
+          "player": "B. Embolo",
+          "minute": 72,
+          "team": "SUI",
+          "color": "yellow"
+        },
+        {
+          "player": "B. Embolo",
+          "minute": 72,
+          "team": "SUI",
+          "color": "red"
         }
       ],
       "stats": {
