@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:12:56Z",
+  "updated": "2026-07-12T03:13:43Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 97,
+      "minute": 98,
       "home": 1,
       "away": 1,
       "goals": [
@@ -46,6 +46,12 @@
         {
           "player": "T. Almada",
           "minute": 97,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 98,
           "team": "ARG",
           "color": "yellow"
         }
@@ -124,8 +130,8 @@
           3
         ],
         "possession": [
-          58,
-          42
+          57,
+          43
         ],
         "red": [
           0,
@@ -141,15 +147,15 @@
         ],
         "passesTotal": [
           566,
-          415
+          420
         ],
         "passesAccurate": [
           498,
-          359
+          363
         ],
         "passesPct": [
           88,
-          87
+          86
         ],
         "shotsTotal": [
           14,
@@ -164,7 +170,7 @@
           1
         ],
         "fouls": [
-          10,
+          11,
           15
         ],
         "corners": [
