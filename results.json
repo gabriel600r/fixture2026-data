@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T01:15:09Z",
+  "updated": "2026-07-12T01:15:56Z",
   "live": [
     {
       "id": 100,
       "status": "1H",
-      "minute": 14,
+      "minute": 15,
       "home": 1,
       "away": 0,
       "goals": [
@@ -33,8 +33,8 @@
           1
         ],
         "possession": [
-          41,
-          59
+          40,
+          60
         ],
         "red": [
           0,
@@ -50,15 +50,15 @@
         ],
         "passesTotal": [
           50,
-          75
+          77
         ],
         "passesAccurate": [
           40,
-          68
+          69
         ],
         "passesPct": [
           80,
-          91
+          90
         ],
         "shotsTotal": [
           2,
@@ -130,13 +130,13 @@
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Alexis Mac Allister",
+                "n": 24,
+                "name": "Enzo Fernández",
                 "pos": "M"
               },
               {
-                "n": 24,
-                "name": "Enzo Fernández",
+                "n": 20,
+                "name": "Alexis Mac Allister",
                 "pos": "M"
               },
               {
@@ -191,13 +191,13 @@
                 "pos": "M"
               },
               {
-                "n": 22,
-                "name": "Fabian Rieder",
+                "n": 15,
+                "name": "Djibril Sow",
                 "pos": "M"
               },
               {
-                "n": 15,
-                "name": "Djibril Sow",
+                "n": 22,
+                "name": "Fabian Rieder",
                 "pos": "M"
               },
               {
