@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-12T03:32:54Z",
+  "updated": "2026-07-12T03:33:43Z",
   "live": [
     {
       "id": 100,
       "status": "ET",
-      "minute": 113,
+      "minute": 114,
       "home": 2,
       "away": 1,
       "goals": [
@@ -23,7 +23,8 @@
         {
           "player": "J. Alvarez",
           "minute": 112,
-          "team": "ARG"
+          "team": "ARG",
+          "assist": "J. Lopez"
         }
       ],
       "redCards": [
@@ -131,7 +132,7 @@
       ],
       "stats": {
         "shotsOutside": [
-          8,
+          10,
           6
         ],
         "offsides": [
@@ -155,7 +156,7 @@
           1
         ],
         "shotsOn": [
-          3,
+          5,
           5
         ],
         "yellow": [
@@ -163,11 +164,11 @@
           2
         ],
         "passesTotal": [
-          667,
+          670,
           449
         ],
         "passesAccurate": [
-          593,
+          596,
           383
         ],
         "passesPct": [
@@ -175,12 +176,12 @@
           85
         ],
         "shotsTotal": [
-          17,
+          19,
           11
         ],
         "saves": [
           4,
-          2
+          3
         ],
         "shotsOff": [
           8,
@@ -330,7 +331,7 @@
         "referee": "Joao Pedro Pinheiro, Portugal",
         "motm": {
           "player": "Lionel Messi",
-          "rating": 8.6,
+          "rating": 8.9,
           "team": "ARG"
         }
       }
