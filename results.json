@@ -1,19 +1,27 @@
 {
-  "updated": "2026-07-14T19:09:27Z",
+  "updated": "2026-07-14T19:10:15Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 10,
+      "minute": 11,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "Adrien Rabiot",
+          "minute": 9,
+          "team": "FRA",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "red": [
           0,
           0
         ],
         "yellow": [
-          0,
+          1,
           0
         ],
         "fouls": [
