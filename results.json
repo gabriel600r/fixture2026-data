@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:33:27Z",
+  "updated": "2026-07-14T19:34:15Z",
   "live": [
     {
       "id": 101,
@@ -55,8 +55,8 @@
           1
         ],
         "possession": [
-          45,
-          55
+          42,
+          58
         ],
         "shotsBlocked": [
           0,
@@ -64,15 +64,15 @@
         ],
         "shotsOff": [
           1,
-          0
+          1
         ],
         "shotsOn": [
           0,
           1
         ],
         "passesTotal": [
-          108,
-          139
+          112,
+          160
         ],
         "corners": [
           2,
@@ -80,15 +80,15 @@
         ],
         "shotsOutside": [
           1,
-          1
+          2
         ],
         "passesAccurate": [
-          89,
-          123
+          91,
+          142
         ],
         "shotsTotal": [
           1,
-          2
+          3
         ],
         "home": "FRA",
         "away": "ESP"
