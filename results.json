@@ -1,312 +1,6 @@
 {
-  "updated": "2026-07-14T20:59:13Z",
-  "live": [
-    {
-      "id": 101,
-      "status": "2H",
-      "minute": 90,
-      "home": 0,
-      "away": 2,
-      "goals": [
-        {
-          "player": "Mikel Oyarzabal",
-          "minute": 22,
-          "team": "ESP",
-          "pen": true
-        },
-        {
-          "player": "Pedro Porro",
-          "minute": 58,
-          "team": "ESP",
-          "assist": "Daniel Olmo Carvajal"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Adrien Rabiot",
-          "minute": 9,
-          "team": "FRA",
-          "color": "yellow"
-        },
-        {
-          "player": "Marc Cucurella",
-          "minute": 31,
-          "team": "ESP",
-          "color": "yellow"
-        },
-        {
-          "player": "Kylian Mbappé",
-          "minute": 86,
-          "team": "FRA",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "William Saliba",
-          "in": "Maxence Lacroix",
-          "minute": 30,
-          "team": "FRA"
-        },
-        {
-          "out": "Adrien Rabiot",
-          "in": "Manu Koné",
-          "minute": 45,
-          "team": "FRA"
-        },
-        {
-          "out": "Bradley Barcola",
-          "in": "Désiré Doue",
-          "minute": 57,
-          "team": "FRA"
-        },
-        {
-          "out": "Lucas Digne",
-          "in": "Theo Hernandez",
-          "minute": 72,
-          "team": "FRA"
-        },
-        {
-          "out": "Michael Olise",
-          "in": "Rayan Cherki",
-          "minute": 72,
-          "team": "FRA"
-        },
-        {
-          "out": "Mikel Oyarzabal",
-          "in": "Ferrán Torres",
-          "minute": 74,
-          "team": "ESP"
-        },
-        {
-          "out": "Daniel Olmo Carvajal",
-          "in": "Mikel Merino",
-          "minute": 78,
-          "team": "ESP"
-        },
-        {
-          "out": "Fabián Ruiz",
-          "in": "Pedri",
-          "minute": 78,
-          "team": "ESP"
-        },
-        {
-          "out": "Pedro Porro",
-          "in": "Marcos Llorente",
-          "minute": 84,
-          "team": "ESP"
-        },
-        {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Nico Williams",
-          "minute": 84,
-          "team": "ESP"
-        }
-      ],
-      "extra": 7,
-      "stats": {
-        "red": [
-          0,
-          0
-        ],
-        "shotsInside": [
-          4,
-          5
-        ],
-        "offsides": [
-          4,
-          5
-        ],
-        "saves": [
-          0,
-          3
-        ],
-        "yellow": [
-          2,
-          1
-        ],
-        "fouls": [
-          11,
-          12
-        ],
-        "possession": [
-          49,
-          51
-        ],
-        "shotsBlocked": [
-          2,
-          3
-        ],
-        "shotsOn": [
-          3,
-          2
-        ],
-        "shotsOff": [
-          5,
-          5
-        ],
-        "passesTotal": [
-          473,
-          500
-        ],
-        "corners": [
-          7,
-          1
-        ],
-        "shotsOutside": [
-          5,
-          5
-        ],
-        "passesAccurate": [
-          396,
-          428
-        ],
-        "shotsTotal": [
-          10,
-          10
-        ],
-        "home": "FRA",
-        "away": "ESP"
-      },
-      "extras": {
-        "pred": {
-          "home": 10,
-          "draw": 45,
-          "away": 45
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "D. Deschamps",
-            "xi": [
-              {
-                "n": 16,
-                "name": "M. Maignan",
-                "pos": "G"
-              },
-              {
-                "n": 5,
-                "name": "J. Koundé",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "D. Upamecano",
-                "pos": "D"
-              },
-              {
-                "n": 17,
-                "name": "W. Saliba",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "L. Digne",
-                "pos": "D"
-              },
-              {
-                "n": 8,
-                "name": "A. Tchouaméni",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "A. Rabiot",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "O. Dembélé",
-                "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "M. Olise",
-                "pos": "F"
-              },
-              {
-                "n": 12,
-                "name": "B. Barcola",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "Kylian Mbappé",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-2-3",
-            "coach": "Luis de la Fuente",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Unai Simón",
-                "pos": "G"
-              },
-              {
-                "n": 12,
-                "name": "Pedro Porro",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Pau Cubarsí Paredes",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Aymeric Laporte",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Marc Cucurella",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Rodri",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Fabián Ruiz",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "F"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
-              },
-              {
-                "n": 15,
-                "name": "Álex Baena",
-                "pos": "M"
-              }
-            ]
-          }
-        },
-        "referee": "Iván Barton, El Salvador",
-        "motm": {
-          "player": "Pedro Porro",
-          "rating": 7.99,
-          "team": "ESP"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-14T21:00:01Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -31193,6 +30887,308 @@
           "team": "ARG"
         }
       }
+    },
+    {
+      "id": 101,
+      "home": 0,
+      "away": 2,
+      "goals": [
+        {
+          "player": "Mikel Oyarzabal",
+          "minute": 22,
+          "team": "ESP",
+          "pen": true
+        },
+        {
+          "player": "Pedro Porro",
+          "minute": 58,
+          "team": "ESP",
+          "assist": "Daniel Olmo Carvajal"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Adrien Rabiot",
+          "minute": 9,
+          "team": "FRA",
+          "color": "yellow"
+        },
+        {
+          "player": "Marc Cucurella",
+          "minute": 31,
+          "team": "ESP",
+          "color": "yellow"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "minute": 86,
+          "team": "FRA",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "William Saliba",
+          "in": "Maxence Lacroix",
+          "minute": 30,
+          "team": "FRA"
+        },
+        {
+          "out": "Adrien Rabiot",
+          "in": "Manu Koné",
+          "minute": 45,
+          "team": "FRA"
+        },
+        {
+          "out": "Bradley Barcola",
+          "in": "Désiré Doue",
+          "minute": 57,
+          "team": "FRA"
+        },
+        {
+          "out": "Lucas Digne",
+          "in": "Theo Hernandez",
+          "minute": 72,
+          "team": "FRA"
+        },
+        {
+          "out": "Michael Olise",
+          "in": "Rayan Cherki",
+          "minute": 72,
+          "team": "FRA"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Ferrán Torres",
+          "minute": 74,
+          "team": "ESP"
+        },
+        {
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
+          "minute": 78,
+          "team": "ESP"
+        },
+        {
+          "out": "Fabián Ruiz",
+          "in": "Pedri",
+          "minute": 78,
+          "team": "ESP"
+        },
+        {
+          "out": "Pedro Porro",
+          "in": "Marcos Llorente",
+          "minute": 84,
+          "team": "ESP"
+        },
+        {
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Nico Williams",
+          "minute": 84,
+          "team": "ESP"
+        }
+      ],
+      "stats": {
+        "red": [
+          0,
+          0
+        ],
+        "shotsInside": [
+          4,
+          5
+        ],
+        "offsides": [
+          4,
+          5
+        ],
+        "saves": [
+          0,
+          3
+        ],
+        "yellow": [
+          2,
+          1
+        ],
+        "fouls": [
+          11,
+          12
+        ],
+        "possession": [
+          49,
+          51
+        ],
+        "shotsBlocked": [
+          2,
+          3
+        ],
+        "shotsOn": [
+          3,
+          2
+        ],
+        "shotsOff": [
+          5,
+          5
+        ],
+        "passesTotal": [
+          473,
+          500
+        ],
+        "corners": [
+          7,
+          1
+        ],
+        "shotsOutside": [
+          5,
+          5
+        ],
+        "passesAccurate": [
+          396,
+          428
+        ],
+        "shotsTotal": [
+          10,
+          10
+        ],
+        "home": "FRA",
+        "away": "ESP"
+      },
+      "extras": {
+        "pred": {
+          "home": 10,
+          "draw": 45,
+          "away": 45
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "D. Deschamps",
+            "xi": [
+              {
+                "n": 16,
+                "name": "M. Maignan",
+                "pos": "G"
+              },
+              {
+                "n": 5,
+                "name": "J. Koundé",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "D. Upamecano",
+                "pos": "D"
+              },
+              {
+                "n": 17,
+                "name": "W. Saliba",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "L. Digne",
+                "pos": "D"
+              },
+              {
+                "n": 8,
+                "name": "A. Tchouaméni",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "A. Rabiot",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "O. Dembélé",
+                "pos": "F"
+              },
+              {
+                "n": 11,
+                "name": "M. Olise",
+                "pos": "F"
+              },
+              {
+                "n": 12,
+                "name": "B. Barcola",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "Kylian Mbappé",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-2-3",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí Paredes",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Fabián Ruiz",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
+              }
+            ]
+          }
+        },
+        "referee": "Iván Barton, El Salvador",
+        "motm": {
+          "player": "Pedro Porro",
+          "rating": 7.99,
+          "team": "ESP"
+        }
+      }
     }
   ],
   "stats": {
@@ -31229,6 +31225,13 @@
         "assists": 1
       },
       {
+        "player": "Mikel Oyarzabal",
+        "team": "ESP",
+        "goals": 5,
+        "penalties": 1,
+        "assists": 1
+      },
+      {
         "player": "Ousmane Dembélé",
         "team": "FRA",
         "goals": 5,
@@ -31243,12 +31246,6 @@
       {
         "player": "Julián Quiñones",
         "team": "MEX",
-        "goals": 4,
-        "assists": 1
-      },
-      {
-        "player": "M. Oyarzabal",
-        "team": "ESP",
         "goals": 4,
         "assists": 1
       },
@@ -31519,15 +31516,15 @@
         "goals": 2
       },
       {
-        "player": "M. Cucurella",
-        "team": "ESP",
-        "assists": 2
-      },
-      {
         "player": "M. Salah",
         "team": "EGY",
         "assists": 2,
         "goals": 1
+      },
+      {
+        "player": "Marc Cucurella",
+        "team": "ESP",
+        "assists": 2
       },
       {
         "player": "N. Raskin",
@@ -31726,18 +31723,32 @@
   },
   "teamStats": [
     {
+      "code": "ESP",
+      "played": 7,
+      "wins": 6,
+      "draws": 1,
+      "loses": 0,
+      "gf": 13,
+      "ga": 1,
+      "cleanSheets": 6,
+      "failedToScore": 1,
+      "biggestWin": "4-0",
+      "biggestLose": "",
+      "form": "DWWWWWW"
+    },
+    {
       "code": "FRA",
-      "played": 6,
+      "played": 7,
       "wins": 6,
       "draws": 0,
-      "loses": 0,
+      "loses": 1,
       "gf": 16,
-      "ga": 2,
+      "ga": 4,
       "cleanSheets": 4,
-      "failedToScore": 0,
+      "failedToScore": 1,
       "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WWWWWW"
+      "biggestLose": "0-2",
+      "form": "WWWWWWL"
     },
     {
       "code": "ARG",
@@ -31752,20 +31763,6 @@
       "biggestWin": "3-0",
       "biggestLose": "",
       "form": "WWWWWW"
-    },
-    {
-      "code": "ESP",
-      "played": 6,
-      "wins": 5,
-      "draws": 1,
-      "loses": 0,
-      "gf": 11,
-      "ga": 1,
-      "cleanSheets": 5,
-      "failedToScore": 1,
-      "biggestWin": "4-0",
-      "biggestLose": "",
-      "form": "DWWWWW"
     },
     {
       "code": "ENG",
