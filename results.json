@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:36:57Z",
+  "updated": "2026-07-14T20:37:44Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 2,
       "goals": [
@@ -84,7 +84,7 @@
         ],
         "offsides": [
           4,
-          4
+          5
         ],
         "yellow": [
           1,
@@ -111,7 +111,7 @@
           2
         ],
         "passesTotal": [
-          353,
+          361,
           408
         ],
         "corners": [
@@ -123,8 +123,8 @@
           5
         ],
         "passesAccurate": [
-          297,
-          350
+          304,
+          351
         ],
         "shotsTotal": [
           5,
@@ -266,7 +266,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 7.87,
+          "rating": 7.73,
           "team": "ESP"
         }
       }
