@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T19:31:04Z",
+  "updated": "2026-07-14T19:31:52Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 31,
+      "minute": 32,
       "home": 0,
       "away": 1,
       "goals": [
@@ -20,6 +20,12 @@
           "player": "Adrien Rabiot",
           "minute": 9,
           "team": "FRA",
+          "color": "yellow"
+        },
+        {
+          "player": "Marc Cucurella",
+          "minute": 31,
+          "team": "ESP",
           "color": "yellow"
         }
       ],
@@ -49,8 +55,8 @@
           0
         ],
         "possession": [
-          43,
-          57
+          44,
+          56
         ],
         "shotsBlocked": [
           0,
