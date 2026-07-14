@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T20:34:33Z",
+  "updated": "2026-07-14T20:35:21Z",
   "live": [
     {
       "id": 101,
@@ -53,6 +53,18 @@
           "in": "Désiré Doue",
           "minute": 57,
           "team": "FRA"
+        },
+        {
+          "out": "Lucas Digne",
+          "in": "Theo Hernandez",
+          "minute": 72,
+          "team": "FRA"
+        },
+        {
+          "out": "Michael Olise",
+          "in": "Rayan Cherki",
+          "minute": 72,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -74,7 +86,7 @@
         ],
         "fouls": [
           8,
-          6
+          7
         ],
         "possession": [
           46,
@@ -93,8 +105,8 @@
           2
         ],
         "passesTotal": [
-          339,
-          401
+          348,
+          404
         ],
         "corners": [
           6,
@@ -105,8 +117,8 @@
           5
         ],
         "passesAccurate": [
-          285,
-          345
+          294,
+          348
         ],
         "shotsTotal": [
           5,
