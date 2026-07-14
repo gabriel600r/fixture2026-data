@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:44:54Z",
+  "updated": "2026-07-14T20:45:42Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 2,
       "goals": [
@@ -83,6 +83,12 @@
           "in": "Pedri",
           "minute": 78,
           "team": "ESP"
+        },
+        {
+          "out": "Pedro Porro",
+          "in": "Marcos Llorente",
+          "minute": 84,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -118,28 +124,28 @@
           2,
           3
         ],
-        "shotsOff": [
-          3,
-          4
-        ],
         "shotsOn": [
           1,
           2
         ],
+        "shotsOff": [
+          3,
+          4
+        ],
         "passesTotal": [
-          387,
-          434
+          395,
+          435
         ],
         "corners": [
-          6,
+          7,
           1
         ],
         "shotsOutside": [
-          3,
+          4,
           5
         ],
         "passesAccurate": [
-          322,
+          329,
           372
         ],
         "shotsTotal": [
@@ -282,7 +288,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 7.93,
+          "rating": 7.99,
           "team": "ESP"
         }
       }
