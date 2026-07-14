@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T19:21:29Z",
+  "updated": "2026-07-14T19:22:17Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 22,
+      "minute": 23,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -76,57 +76,57 @@
         "lineups": {
           "home": {
             "formation": "4-2-3-1",
-            "coach": "Didier Deschamps",
+            "coach": "D. Deschamps",
             "xi": [
               {
                 "n": 16,
-                "name": "Mike Maignan",
+                "name": "M. Maignan",
                 "pos": "G"
               },
               {
                 "n": 5,
-                "name": "Jules Koundé",
+                "name": "J. Koundé",
                 "pos": "D"
               },
               {
                 "n": 4,
-                "name": "Dayot Upamecano",
+                "name": "D. Upamecano",
                 "pos": "D"
               },
               {
                 "n": 17,
-                "name": "William Saliba",
+                "name": "W. Saliba",
                 "pos": "D"
               },
               {
                 "n": 3,
-                "name": "Lucas Digne",
+                "name": "L. Digne",
                 "pos": "D"
               },
               {
                 "n": 8,
-                "name": "Aurélien Tchouaméni",
+                "name": "A. Tchouaméni",
                 "pos": "M"
               },
               {
                 "n": 14,
-                "name": "Adrien Rabiot",
+                "name": "A. Rabiot",
                 "pos": "M"
               },
               {
                 "n": 7,
-                "name": "Ousmane Dembélé",
-                "pos": "M"
+                "name": "O. Dembélé",
+                "pos": "F"
               },
               {
                 "n": 11,
-                "name": "Michael Olise",
-                "pos": "M"
+                "name": "M. Olise",
+                "pos": "F"
               },
               {
                 "n": 12,
-                "name": "Bradley Barcola",
-                "pos": "M"
+                "name": "B. Barcola",
+                "pos": "F"
               },
               {
                 "n": 10,
@@ -136,7 +136,7 @@
             ]
           },
           "away": {
-            "formation": "4-2-3-1",
+            "formation": "4-1-2-3",
             "coach": "Luis de la Fuente",
             "xi": [
               {
@@ -151,7 +151,7 @@
               },
               {
                 "n": 22,
-                "name": "Pau Cubarsí",
+                "name": "Pau Cubarsí Paredes",
                 "pos": "D"
               },
               {
@@ -170,6 +170,11 @@
                 "pos": "M"
               },
               {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
                 "n": 8,
                 "name": "Fabián Ruiz",
                 "pos": "M"
@@ -177,22 +182,17 @@
               {
                 "n": 19,
                 "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 21,
                 "name": "Mikel Oyarzabal",
                 "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
               }
             ]
           }
