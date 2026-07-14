@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:48:05Z",
+  "updated": "2026-07-14T20:48:52Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 86,
+      "minute": 87,
       "home": 0,
       "away": 2,
       "goals": [
@@ -32,6 +32,12 @@
           "player": "Marc Cucurella",
           "minute": 31,
           "team": "ESP",
+          "color": "yellow"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "minute": 86,
+          "team": "FRA",
           "color": "yellow"
         }
       ],
@@ -119,12 +125,12 @@
           1
         ],
         "fouls": [
-          9,
+          10,
           11
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "shotsBlocked": [
           2,
@@ -139,7 +145,7 @@
           4
         ],
         "passesTotal": [
-          413,
+          418,
           439
         ],
         "corners": [
@@ -151,7 +157,7 @@
           5
         ],
         "passesAccurate": [
-          343,
+          346,
           375
         ],
         "shotsTotal": [
