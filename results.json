@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:36:09Z",
+  "updated": "2026-07-14T20:36:57Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 74,
+      "minute": 75,
       "home": 0,
       "away": 2,
       "goals": [
@@ -65,6 +65,12 @@
           "in": "Rayan Cherki",
           "minute": 72,
           "team": "FRA"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Ferrán Torres",
+          "minute": 74,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -89,8 +95,8 @@
           7
         ],
         "possession": [
-          46,
-          54
+          47,
+          53
         ],
         "shotsBlocked": [
           2,
@@ -105,8 +111,8 @@
           2
         ],
         "passesTotal": [
-          348,
-          404
+          353,
+          408
         ],
         "corners": [
           6,
@@ -117,8 +123,8 @@
           5
         ],
         "passesAccurate": [
-          294,
-          348
+          297,
+          350
         ],
         "shotsTotal": [
           5,
