@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:18:36Z",
+  "updated": "2026-07-14T20:19:24Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 1,
       "goals": [
@@ -41,6 +41,12 @@
           "in": "Manu Koné",
           "minute": 45,
           "team": "FRA"
+        },
+        {
+          "out": "Bradley Barcola",
+          "in": "Désiré Doue",
+          "minute": 57,
+          "team": "FRA"
         }
       ],
       "stats": {
@@ -65,8 +71,8 @@
           6
         ],
         "possession": [
-          48,
-          52
+          47,
+          53
         ],
         "shotsBlocked": [
           0,
@@ -81,8 +87,8 @@
           1
         ],
         "passesTotal": [
-          272,
-          308
+          275,
+          317
         ],
         "corners": [
           3,
@@ -93,8 +99,8 @@
           4
         ],
         "passesAccurate": [
-          229,
-          262
+          231,
+          271
         ],
         "shotsTotal": [
           2,
@@ -236,7 +242,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 7.06,
+          "rating": 7.14,
           "team": "ESP"
         }
       }
