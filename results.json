@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-14T20:20:12Z",
+  "updated": "2026-07-14T20:21:00Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 58,
+      "minute": 59,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "Mikel Oyarzabal",
