@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:59:35Z",
+  "updated": "2026-07-14T20:05:50Z",
   "live": [
     {
       "id": 101,
@@ -34,6 +34,12 @@
           "out": "William Saliba",
           "in": "Maxence Lacroix",
           "minute": 30,
+          "team": "FRA"
+        },
+        {
+          "out": "Adrien Rabiot",
+          "in": "Manu Koné",
+          "minute": 45,
           "team": "FRA"
         }
       ],
