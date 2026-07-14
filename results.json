@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:26:35Z",
+  "updated": "2026-07-14T20:27:23Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 65,
+      "minute": 66,
       "home": 0,
       "away": 2,
       "goals": [
@@ -77,15 +77,15 @@
           6
         ],
         "possession": [
-          47,
-          53
+          46,
+          54
         ],
         "shotsBlocked": [
-          0,
+          1,
           3
         ],
         "shotsOff": [
-          2,
+          3,
           3
         ],
         "shotsOn": [
@@ -93,11 +93,11 @@
           2
         ],
         "passesTotal": [
-          309,
-          376
+          312,
+          377
         ],
         "corners": [
-          3,
+          5,
           1
         ],
         "shotsOutside": [
@@ -105,11 +105,11 @@
           5
         ],
         "passesAccurate": [
-          259,
-          324
+          261,
+          325
         ],
         "shotsTotal": [
-          2,
+          4,
           8
         ],
         "home": "FRA",
@@ -248,7 +248,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 7.83,
+          "rating": 7.86,
           "team": "ESP"
         }
       }
