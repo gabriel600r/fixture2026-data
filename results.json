@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T20:38:32Z",
+  "updated": "2026-07-14T20:39:20Z",
   "live": [
     {
       "id": 101,
@@ -91,12 +91,12 @@
           1
         ],
         "fouls": [
-          8,
+          9,
           8
         ],
         "possession": [
-          47,
-          53
+          48,
+          52
         ],
         "shotsBlocked": [
           2,
@@ -266,7 +266,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Pedro Porro",
-          "rating": 7.73,
+          "rating": 7.93,
           "team": "ESP"
         }
       }
