@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T19:23:05Z",
+  "updated": "2026-07-14T19:23:53Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 23,
+      "minute": 24,
       "home": 0,
       "away": 1,
       "goals": [
@@ -28,6 +28,10 @@
           0,
           0
         ],
+        "shotsInside": [
+          0,
+          1
+        ],
         "yellow": [
           1,
           0
@@ -50,7 +54,7 @@
         ],
         "shotsOn": [
           0,
-          0
+          1
         ],
         "passesTotal": [
           95,
@@ -70,7 +74,7 @@
         ],
         "shotsTotal": [
           1,
-          1
+          2
         ],
         "home": "FRA",
         "away": "ESP"
