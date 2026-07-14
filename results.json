@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:14:36Z",
+  "updated": "2026-07-14T20:15:24Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 1,
       "goals": [
@@ -81,8 +81,8 @@
           1
         ],
         "passesTotal": [
-          240,
-          292
+          244,
+          299
         ],
         "corners": [
           3,
@@ -93,8 +93,8 @@
           4
         ],
         "passesAccurate": [
-          201,
-          252
+          203,
+          255
         ],
         "shotsTotal": [
           2,
@@ -236,7 +236,7 @@
         "referee": "Iván Barton, El Salvador",
         "motm": {
           "player": "Mikel Oyarzabal",
-          "rating": 7.0,
+          "rating": 7.06,
           "team": "ESP"
         }
       }
