@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:45:42Z",
+  "updated": "2026-07-14T20:46:29Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 84,
+      "minute": 85,
       "home": 0,
       "away": 2,
       "goals": [
@@ -89,6 +89,12 @@
           "in": "Marcos Llorente",
           "minute": 84,
           "team": "ESP"
+        },
+        {
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Nico Williams",
+          "minute": 84,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -114,7 +120,7 @@
         ],
         "fouls": [
           9,
-          9
+          10
         ],
         "possession": [
           48,
@@ -133,11 +139,11 @@
           4
         ],
         "passesTotal": [
-          395,
-          435
+          403,
+          437
         ],
         "corners": [
-          7,
+          6,
           1
         ],
         "shotsOutside": [
@@ -145,8 +151,8 @@
           5
         ],
         "passesAccurate": [
-          329,
-          372
+          335,
+          373
         ],
         "shotsTotal": [
           6,
