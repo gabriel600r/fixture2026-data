@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T19:10:15Z",
+  "updated": "2026-07-14T19:11:50Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -29,8 +29,12 @@
           0
         ],
         "possession": [
-          35,
-          65
+          34,
+          66
+        ],
+        "shotsBlocked": [
+          0,
+          1
         ],
         "shotsOff": [
           1,
@@ -50,7 +54,7 @@
         ],
         "shotsOutside": [
           1,
-          0
+          1
         ],
         "passesAccurate": [
           31,
@@ -58,7 +62,7 @@
         ],
         "shotsTotal": [
           1,
-          0
+          1
         ],
         "home": "FRA",
         "away": "ESP"
