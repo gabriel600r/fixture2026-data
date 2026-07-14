@@ -1,12 +1,48 @@
 {
-  "updated": "2026-07-14T19:07:03Z",
+  "updated": "2026-07-14T19:07:51Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 7,
+      "minute": 8,
       "home": 0,
       "away": 0,
+      "stats": {
+        "red": [
+          0,
+          0
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          0,
+          0
+        ],
+        "shotsOff": [
+          0,
+          0
+        ],
+        "passesTotal": [
+          27,
+          63
+        ],
+        "corners": [
+          1,
+          0
+        ],
+        "possession": [
+          31,
+          69
+        ],
+        "passesAccurate": [
+          22,
+          58
+        ],
+        "home": "FRA",
+        "away": "ESP"
+      },
       "extras": {
         "pred": {
           "home": 10,
