@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-14T19:22:17Z",
+  "updated": "2026-07-14T19:23:05Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
       "minute": 23,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": "Mikel Oyarzabal",
+          "minute": 22,
+          "team": "ESP",
+          "pen": true
+        }
+      ],
       "cardEvents": [
         {
           "player": "Adrien Rabiot",
