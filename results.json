@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:21:00Z",
+  "updated": "2026-07-14T20:21:48Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 2,
       "goals": [
@@ -17,7 +17,8 @@
         {
           "player": "Pedro Porro",
           "minute": 58,
-          "team": "ESP"
+          "team": "ESP",
+          "assist": "Daniel Olmo Carvajal"
         }
       ],
       "cardEvents": [
@@ -92,7 +93,7 @@
           2
         ],
         "passesTotal": [
-          275,
+          279,
           327
         ],
         "corners": [
@@ -104,7 +105,7 @@
           5
         ],
         "passesAccurate": [
-          231,
+          235,
           280
         ],
         "shotsTotal": [
@@ -246,8 +247,8 @@
         },
         "referee": "Iván Barton, El Salvador",
         "motm": {
-          "player": "Mikel Oyarzabal",
-          "rating": 7.14,
+          "player": "Pedro Porro",
+          "rating": 7.83,
           "team": "ESP"
         }
       }
