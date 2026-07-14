@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T20:39:20Z",
+  "updated": "2026-07-14T20:40:08Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 77,
+      "minute": 78,
       "home": 0,
       "away": 2,
       "goals": [
@@ -70,6 +70,18 @@
           "out": "Mikel Oyarzabal",
           "in": "Ferrán Torres",
           "minute": 74,
+          "team": "ESP"
+        },
+        {
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
+          "minute": 78,
+          "team": "ESP"
+        },
+        {
+          "out": "Fabián Ruiz",
+          "in": "Pedri",
+          "minute": 78,
           "team": "ESP"
         }
       ],
