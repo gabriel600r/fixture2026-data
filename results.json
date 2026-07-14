@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T19:29:26Z",
+  "updated": "2026-07-14T19:31:04Z",
   "live": [
     {
       "id": 101,
       "status": "1H",
-      "minute": 30,
+      "minute": 31,
       "home": 0,
       "away": 1,
       "goals": [
@@ -21,6 +21,14 @@
           "minute": 9,
           "team": "FRA",
           "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "William Saliba",
+          "in": "Maxence Lacroix",
+          "minute": 30,
+          "team": "FRA"
         }
       ],
       "stats": {
