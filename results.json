@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T20:52:04Z",
+  "updated": "2026-07-14T20:52:51Z",
   "live": [
     {
       "id": 101,
@@ -103,6 +103,7 @@
           "team": "ESP"
         }
       ],
+      "extra": 1,
       "stats": {
         "red": [
           0,
@@ -129,8 +130,8 @@
           12
         ],
         "possession": [
-          54,
-          46
+          55,
+          45
         ],
         "shotsBlocked": [
           2,
@@ -145,19 +146,19 @@
           4
         ],
         "passesTotal": [
-          424,
+          445,
           443
         ],
         "corners": [
-          6,
+          7,
           1
         ],
         "shotsOutside": [
-          4,
+          5,
           5
         ],
         "passesAccurate": [
-          351,
+          371,
           378
         ],
         "shotsTotal": [
