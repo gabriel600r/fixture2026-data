@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-14T20:24:59Z",
+  "updated": "2026-07-14T20:25:47Z",
   "live": [
     {
       "id": 101,
       "status": "2H",
-      "minute": 63,
+      "minute": 64,
       "home": 0,
-      "away": 3,
+      "away": 2,
       "goals": [
         {
           "player": "Mikel Oyarzabal",
@@ -93,8 +93,8 @@
           2
         ],
         "passesTotal": [
-          304,
-          344
+          308,
+          358
         ],
         "corners": [
           3,
@@ -105,8 +105,8 @@
           5
         ],
         "passesAccurate": [
-          254,
-          295
+          258,
+          307
         ],
         "shotsTotal": [
           2,
