@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-15T20:16:19Z",
+  "updated": "2026-07-15T20:17:07Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 55,
+      "minute": 56,
       "home": 1,
       "away": 0,
       "goals": [
         {
-          "player": null,
+          "player": "A. Gordon",
           "minute": 55,
-          "team": "ENG"
+          "team": "ENG",
+          "assist": "M. Rogers"
         }
       ],
       "cardEvents": [
@@ -45,7 +46,7 @@
         ],
         "shotsOff": [
           1,
-          2
+          3
         ],
         "passesPct": [
           89,
@@ -64,20 +65,20 @@
           2
         ],
         "shotsInside": [
-          1,
+          2,
           2
         ],
         "shotsTotal": [
-          1,
-          4
+          2,
+          5
         ],
         "fouls": [
           8,
           13
         ],
         "passesTotal": [
-          247,
-          311
+          253,
+          314
         ],
         "shotsBlocked": [
           0,
@@ -88,16 +89,16 @@
           0
         ],
         "passesAccurate": [
-          219,
-          280
+          224,
+          283
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "shotsOutside": [
           0,
-          2
+          3
         ],
         "home": "ENG",
         "away": "ARG"
@@ -234,8 +235,8 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Elliot Anderson",
-          "rating": 7.2,
+          "player": "Anthony Gordon",
+          "rating": 6.6,
           "team": "ENG"
         }
       }
