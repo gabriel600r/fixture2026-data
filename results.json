@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:55:31Z",
+  "updated": "2026-07-15T20:57:06Z",
   "live": [
     {
       "id": 102,
@@ -101,9 +101,15 @@
           "in": "N. O'Reilly",
           "minute": 82,
           "team": "ENG"
+        },
+        {
+          "out": "J. Stones",
+          "in": "I. Toney",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "corners": [
           1,
