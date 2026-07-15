@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:33:56Z",
+  "updated": "2026-07-15T20:34:43Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 73,
+      "minute": 74,
       "home": 1,
       "away": 0,
       "goals": [
@@ -51,19 +51,19 @@
         {
           "out": "G. Simeone",
           "in": "R. de Paul",
-          "minute": 73,
+          "minute": 72,
           "team": "ARG"
         },
         {
           "out": "N. Molina",
           "in": "G. Montiel",
-          "minute": 73,
+          "minute": 72,
           "team": "ARG"
         },
         {
           "out": "L. Martinez",
           "in": "N. Otamendi",
-          "minute": 73,
+          "minute": 72,
           "team": "ARG"
         }
       ],
