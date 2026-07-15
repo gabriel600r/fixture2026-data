@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-15T19:37:04Z",
+  "updated": "2026-07-15T19:37:53Z",
   "live": [
     {
       "id": 102,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 0,
+      "cardEvents": [
+        {
+          "player": "E. Anderson",
+          "minute": 38,
+          "team": "ENG",
+          "color": "yellow"
+        }
+      ],
       "stats": {
         "corners": [
           1,
