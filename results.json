@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T19:41:52Z",
+  "updated": "2026-07-15T19:42:41Z",
   "live": [
     {
       "id": 102,
       "status": "1H",
-      "minute": 42,
+      "minute": 43,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -12,6 +12,12 @@
           "player": "E. Anderson",
           "minute": 37,
           "team": "ENG",
+          "color": "yellow"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 42,
+          "team": "ARG",
           "color": "yellow"
         }
       ],
