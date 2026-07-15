@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:13:06Z",
+  "updated": "2026-07-15T20:13:54Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 52,
+      "minute": 53,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -22,7 +22,7 @@
         },
         {
           "player": "C. Romero",
-          "minute": 52,
+          "minute": 51,
           "team": "ARG",
           "color": "yellow"
         }
@@ -66,11 +66,11 @@
         ],
         "fouls": [
           7,
-          12
+          13
         ],
         "passesTotal": [
-          225,
-          284
+          232,
+          292
         ],
         "shotsBlocked": [
           0,
@@ -81,8 +81,8 @@
           0
         ],
         "passesAccurate": [
-          200,
-          254
+          206,
+          261
         ],
         "shotsOn": [
           0,
