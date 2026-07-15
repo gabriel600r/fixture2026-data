@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:11:29Z",
+  "updated": "2026-07-15T20:12:17Z",
   "live": [
     {
       "id": 102,
@@ -17,6 +17,12 @@
         {
           "player": "L. Martinez",
           "minute": 42,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "C. Romero",
+          "minute": 52,
           "team": "ARG",
           "color": "yellow"
         }
