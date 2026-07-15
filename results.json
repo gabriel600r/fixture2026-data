@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:49:56Z",
+  "updated": "2026-07-15T20:50:44Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 89,
+      "minute": 90,
       "home": 1,
       "away": 1,
       "goals": [
@@ -292,7 +292,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Enzo Fernández",
-          "rating": 7.7,
+          "rating": 7.6,
           "team": "ARG"
         }
       }
