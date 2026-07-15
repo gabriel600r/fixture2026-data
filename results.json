@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:17:55Z",
+  "updated": "2026-07-15T20:18:43Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 1,
       "away": 0,
       "goals": [
@@ -78,7 +78,7 @@
         ],
         "passesTotal": [
           253,
-          314
+          321
         ],
         "shotsBlocked": [
           0,
@@ -90,7 +90,7 @@
         ],
         "passesAccurate": [
           224,
-          283
+          289
         ],
         "shotsOn": [
           1,
@@ -236,7 +236,7 @@
         "referee": "Ismail Elfath, USA",
         "motm": {
           "player": "Anthony Gordon",
-          "rating": 6.6,
+          "rating": 7.0,
           "team": "ENG"
         }
       }
