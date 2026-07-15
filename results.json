@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:45:07Z",
+  "updated": "2026-07-15T19:45:55Z",
   "live": [
     {
       "id": 102,
@@ -21,6 +21,7 @@
           "color": "yellow"
         }
       ],
+      "extra": 1,
       "stats": {
         "corners": [
           1,
@@ -43,8 +44,8 @@
           0
         ],
         "possession": [
-          40,
-          60
+          39,
+          61
         ],
         "yellow": [
           1,
@@ -64,7 +65,7 @@
         ],
         "passesTotal": [
           149,
-          228
+          238
         ],
         "shotsBlocked": [
           0,
@@ -76,7 +77,7 @@
         ],
         "passesAccurate": [
           134,
-          203
+          212
         ],
         "shotsOn": [
           0,
