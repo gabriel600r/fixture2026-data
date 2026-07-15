@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-15T20:53:07Z",
+  "updated": "2026-07-15T20:53:55Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
       "minute": 90,
       "home": 1,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "A. Gordon",
@@ -17,6 +17,12 @@
         {
           "player": "E. Fernandez",
           "minute": 85,
+          "team": "ARG",
+          "assist": "L. Messi"
+        },
+        {
+          "player": "L. Martinez",
+          "minute": 90,
           "team": "ARG",
           "assist": "L. Messi"
         }
@@ -91,7 +97,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "corners": [
           1,
@@ -114,8 +120,8 @@
           1
         ],
         "possession": [
-          34,
-          66
+          33,
+          67
         ],
         "yellow": [
           1,
@@ -134,8 +140,8 @@
           15
         ],
         "passesTotal": [
-          288,
-          566
+          290,
+          580
         ],
         "shotsBlocked": [
           2,
@@ -146,8 +152,8 @@
           0
         ],
         "passesAccurate": [
-          249,
-          518
+          250,
+          531
         ],
         "shotsOn": [
           2,
