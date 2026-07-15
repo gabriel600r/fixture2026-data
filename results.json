@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:30:44Z",
+  "updated": "2026-07-15T20:31:32Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 1,
       "away": 0,
       "goals": [
@@ -61,7 +61,7 @@
           90
         ],
         "saves": [
-          1,
+          2,
           1
         ],
         "possession": [
@@ -74,11 +74,11 @@
         ],
         "shotsInside": [
           2,
-          2
+          3
         ],
         "shotsTotal": [
           4,
-          6
+          7
         ],
         "fouls": [
           9,
@@ -102,7 +102,7 @@
         ],
         "shotsOn": [
           2,
-          1
+          2
         ],
         "shotsOutside": [
           2,
