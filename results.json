@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:25:07Z",
+  "updated": "2026-07-15T20:25:56Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 64,
+      "minute": 65,
       "home": 1,
       "away": 0,
       "goals": [
@@ -35,6 +35,14 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "L. Paredes",
+          "in": "N. Gonzalez",
+          "minute": 64,
+          "team": "ARG"
+        }
+      ],
       "stats": {
         "corners": [
           1,
@@ -49,7 +57,7 @@
           4
         ],
         "passesPct": [
-          89,
+          88,
           91
         ],
         "saves": [
@@ -77,8 +85,8 @@
           13
         ],
         "passesTotal": [
-          262,
-          396
+          267,
+          408
         ],
         "shotsBlocked": [
           0,
@@ -89,8 +97,8 @@
           0
         ],
         "passesAccurate": [
-          232,
-          361
+          236,
+          371
         ],
         "shotsOn": [
           1,
