@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:54:43Z",
+  "updated": "2026-07-15T20:55:31Z",
   "live": [
     {
       "id": 102,
@@ -43,6 +43,12 @@
         {
           "player": "C. Romero",
           "minute": 51,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "R. de Paul",
+          "minute": 90,
           "team": "ARG",
           "color": "yellow"
         }
@@ -97,7 +103,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 4,
+      "extra": 5,
       "stats": {
         "corners": [
           1,
@@ -125,7 +131,7 @@
         ],
         "yellow": [
           1,
-          2
+          3
         ],
         "shotsInside": [
           2,
