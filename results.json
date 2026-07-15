@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:21:47Z",
+  "updated": "2026-07-15T19:22:35Z",
   "live": [
     {
       "id": 102,
@@ -14,14 +14,14 @@
         ],
         "offsides": [
           0,
-          1
+          2
         ],
         "shotsOff": [
           0,
           0
         ],
         "passesPct": [
-          96,
+          95,
           85
         ],
         "saves": [
@@ -29,8 +29,8 @@
           0
         ],
         "possession": [
-          41,
-          59
+          46,
+          54
         ],
         "yellow": [
           0,
@@ -49,8 +49,8 @@
           5
         ],
         "passesTotal": [
-          74,
-          110
+          103,
+          122
         ],
         "shotsBlocked": [
           0,
@@ -61,8 +61,8 @@
           0
         ],
         "passesAccurate": [
-          71,
-          94
+          98,
+          104
         ],
         "shotsOn": [
           0,
@@ -144,7 +144,7 @@
             ]
           },
           "away": {
-            "formation": "4-4-2",
+            "formation": "4-1-4-1",
             "coach": "Lionel Scaloni",
             "xi": [
               {
@@ -173,18 +173,13 @@
                 "pos": "D"
               },
               {
-                "n": 17,
-                "name": "Giuliano Simeone",
-                "pos": "M"
-              },
-              {
                 "n": 5,
                 "name": "Leandro Paredes",
                 "pos": "M"
               },
               {
-                "n": 20,
-                "name": "Alexis Mac Allister",
+                "n": 17,
+                "name": "Giuliano Simeone",
                 "pos": "M"
               },
               {
@@ -193,13 +188,18 @@
                 "pos": "M"
               },
               {
-                "n": 10,
-                "name": "Lionel Messi",
-                "pos": "F"
+                "n": 20,
+                "name": "Alexis Mac Allister",
+                "pos": "M"
               },
               {
                 "n": 9,
                 "name": "Julián Alvarez",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Lionel Messi",
                 "pos": "F"
               }
             ]
