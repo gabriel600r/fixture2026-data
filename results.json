@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:53:55Z",
+  "updated": "2026-07-15T20:54:43Z",
   "live": [
     {
       "id": 102,
@@ -97,7 +97,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "corners": [
           1,
@@ -129,11 +129,11 @@
         ],
         "shotsInside": [
           2,
-          6
+          7
         ],
         "shotsTotal": [
           5,
-          13
+          15
         ],
         "fouls": [
           9,
@@ -145,7 +145,7 @@
         ],
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "red": [
           0,
@@ -157,11 +157,11 @@
         ],
         "shotsOn": [
           2,
-          4
+          5
         ],
         "shotsOutside": [
           3,
-          7
+          8
         ],
         "home": "ENG",
         "away": "ARG"
