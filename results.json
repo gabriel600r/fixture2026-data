@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T19:49:06Z",
+  "updated": "2026-07-15T20:06:40Z",
   "live": [
     {
       "id": 102,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -35,7 +35,7 @@
           1
         ],
         "passesPct": [
-          91,
+          90,
           89
         ],
         "saves": [
@@ -43,8 +43,8 @@
           0
         ],
         "possession": [
-          44,
-          56
+          45,
+          55
         ],
         "yellow": [
           1,
@@ -60,11 +60,11 @@
         ],
         "fouls": [
           7,
-          11
+          12
         ],
         "passesTotal": [
-          190,
-          245
+          198,
+          251
         ],
         "shotsBlocked": [
           0,
@@ -75,8 +75,8 @@
           0
         ],
         "passesAccurate": [
-          172,
-          218
+          178,
+          224
         ],
         "shotsOn": [
           0,
@@ -219,7 +219,12 @@
             ]
           }
         },
-        "referee": "Ismail Elfath, USA"
+        "referee": "Ismail Elfath, USA",
+        "motm": {
+          "player": "Leandro Paredes",
+          "rating": 7.2,
+          "team": "ARG"
+        }
       }
     }
   ],
