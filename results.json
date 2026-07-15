@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:13:54Z",
+  "updated": "2026-07-15T20:14:42Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 53,
+      "minute": 54,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -49,12 +49,12 @@
           0
         ],
         "possession": [
-          45,
-          55
+          46,
+          54
         ],
         "yellow": [
           1,
-          1
+          2
         ],
         "shotsInside": [
           1,
@@ -69,7 +69,7 @@
           13
         ],
         "passesTotal": [
-          232,
+          245,
           292
         ],
         "shotsBlocked": [
@@ -81,7 +81,7 @@
           0
         ],
         "passesAccurate": [
-          206,
+          218,
           261
         ],
         "shotsOn": [
@@ -227,9 +227,9 @@
         },
         "referee": "Ismail Elfath, USA",
         "motm": {
-          "player": "Leandro Paredes",
+          "player": "Elliot Anderson",
           "rating": 7.2,
-          "team": "ARG"
+          "team": "ENG"
         }
       }
     }
