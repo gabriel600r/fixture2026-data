@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:57:06Z",
+  "updated": "2026-07-15T20:57:54Z",
   "live": [
     {
       "id": 102,
@@ -107,9 +107,15 @@
           "in": "I. Toney",
           "minute": 90,
           "team": "ENG"
+        },
+        {
+          "out": "D. Spence",
+          "in": "M. Rashford",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "corners": [
           1,
@@ -132,8 +138,8 @@
           1
         ],
         "possession": [
-          33,
-          67
+          34,
+          66
         ],
         "yellow": [
           1,
@@ -152,7 +158,7 @@
           15
         ],
         "passesTotal": [
-          290,
+          294,
           580
         ],
         "shotsBlocked": [
@@ -164,7 +170,7 @@
           0
         ],
         "passesAccurate": [
-          250,
+          253,
           531
         ],
         "shotsOn": [
