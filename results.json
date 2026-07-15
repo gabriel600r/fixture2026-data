@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:37:53Z",
+  "updated": "2026-07-15T19:38:40Z",
   "live": [
     {
       "id": 102,
@@ -10,7 +10,7 @@
       "cardEvents": [
         {
           "player": "E. Anderson",
-          "minute": 38,
+          "minute": 37,
           "team": "ENG",
           "color": "yellow"
         }
@@ -37,8 +37,8 @@
           0
         ],
         "possession": [
-          41,
-          59
+          42,
+          58
         ],
         "yellow": [
           0,
@@ -53,12 +53,12 @@
           0
         ],
         "fouls": [
-          6,
-          8
+          7,
+          9
         ],
         "passesTotal": [
-          126,
-          182
+          130,
+          185
         ],
         "shotsBlocked": [
           0,
@@ -69,8 +69,8 @@
           0
         ],
         "passesAccurate": [
-          116,
-          162
+          119,
+          164
         ],
         "shotsOn": [
           0,
