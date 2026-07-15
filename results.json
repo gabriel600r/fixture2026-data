@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T20:33:07Z",
+  "updated": "2026-07-15T20:33:56Z",
   "live": [
     {
       "id": 102,
       "status": "2H",
-      "minute": 72,
+      "minute": 73,
       "home": 1,
       "away": 0,
       "goals": [
@@ -40,6 +40,30 @@
           "out": "L. Paredes",
           "in": "N. Gonzalez",
           "minute": 64,
+          "team": "ARG"
+        },
+        {
+          "out": "A. Gordon",
+          "in": "E. Konsa",
+          "minute": 72,
+          "team": "ENG"
+        },
+        {
+          "out": "G. Simeone",
+          "in": "R. de Paul",
+          "minute": 73,
+          "team": "ARG"
+        },
+        {
+          "out": "N. Molina",
+          "in": "G. Montiel",
+          "minute": 73,
+          "team": "ARG"
+        },
+        {
+          "out": "L. Martinez",
+          "in": "N. Otamendi",
+          "minute": 73,
           "team": "ARG"
         }
       ],
@@ -98,7 +122,7 @@
         ],
         "passesAccurate": [
           245,
-          391
+          390
         ],
         "shotsOn": [
           2,
