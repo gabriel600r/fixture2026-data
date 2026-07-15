@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:43:29Z",
+  "updated": "2026-07-15T20:44:17Z",
   "live": [
     {
       "id": 102,
@@ -71,6 +71,18 @@
           "in": "L. Martinez",
           "minute": 81,
           "team": "ARG"
+        },
+        {
+          "out": "R. James",
+          "in": "D. Burn",
+          "minute": 82,
+          "team": "ENG"
+        },
+        {
+          "out": "D. Rice",
+          "in": "N. O'Reilly",
+          "minute": 83,
+          "team": "ENG"
         }
       ],
       "stats": {
