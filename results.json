@@ -1,17 +1,23 @@
 {
-  "updated": "2026-07-18T21:18:20Z",
+  "updated": "2026-07-18T21:19:08Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
-      "minute": 18,
+      "minute": 19,
       "home": 0,
-      "away": 1,
+      "away": 2,
       "goals": [
         {
           "player": "D. Rice",
           "minute": 3,
           "team": "ENG"
+        },
+        {
+          "player": "E. Konsa",
+          "minute": 19,
+          "team": "ENG",
+          "assist": "D. Rice"
         }
       ],
       "stats": {
@@ -32,12 +38,12 @@
           3
         ],
         "passesTotal": [
-          97,
-          95
+          105,
+          98
         ],
         "passesAccurate": [
-          88,
-          87
+          95,
+          90
         ],
         "red": [
           0,
@@ -52,7 +58,7 @@
           0
         ],
         "passesPct": [
-          91,
+          90,
           92
         ],
         "offsides": [
@@ -64,8 +70,8 @@
           2
         ],
         "possession": [
-          50,
-          50
+          51,
+          49
         ],
         "shotsOff": [
           0,
