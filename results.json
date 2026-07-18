@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T21:46:14Z",
+  "updated": "2026-07-18T21:47:02Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
       "minute": 45,
       "home": 0,
-      "away": 3,
+      "away": 4,
       "goals": [
         {
           "player": "D. Rice",
@@ -24,9 +24,15 @@
           "minute": 37,
           "team": "ENG",
           "assist": "M. Rashford"
+        },
+        {
+          "player": "B. Saka",
+          "minute": 45,
+          "team": "ENG",
+          "assist": "E. Eze"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "shotsBlocked": [
           2,
@@ -37,7 +43,7 @@
           2
         ],
         "fouls": [
-          4,
+          5,
           4
         ],
         "shotsTotal": [
@@ -45,12 +51,12 @@
           9
         ],
         "passesTotal": [
-          210,
-          249
+          225,
+          278
         ],
         "passesAccurate": [
-          189,
-          234
+          204,
+          262
         ],
         "red": [
           0,
@@ -65,7 +71,7 @@
           0
         ],
         "passesPct": [
-          90,
+          91,
           94
         ],
         "offsides": [
@@ -77,8 +83,8 @@
           7
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "shotsOff": [
           1,
