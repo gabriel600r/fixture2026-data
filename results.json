@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:23:09Z",
+  "updated": "2026-07-18T21:23:56Z",
   "live": [
     {
       "id": 103,
@@ -34,15 +34,15 @@
           2
         ],
         "shotsTotal": [
-          3,
+          4,
           5
         ],
         "passesTotal": [
-          120,
+          134,
           110
         ],
         "passesAccurate": [
-          108,
+          122,
           101
         ],
         "red": [
@@ -58,7 +58,7 @@
           0
         ],
         "passesPct": [
-          90,
+          91,
           92
         ],
         "offsides": [
@@ -70,11 +70,11 @@
           4
         ],
         "possession": [
-          51,
-          49
+          54,
+          46
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "corners": [
@@ -82,7 +82,7 @@
           2
         ],
         "shotsOutside": [
-          2,
+          3,
           1
         ],
         "home": "FRA",
