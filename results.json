@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-18T22:29:54Z",
+  "updated": "2026-07-18T22:30:42Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 67,
-      "home": 2,
+      "minute": 68,
+      "home": 3,
       "away": 4,
       "goals": [
         {
@@ -45,7 +45,7 @@
         },
         {
           "player": "K. Mbappe",
-          "minute": 67,
+          "minute": 66,
           "team": "FRA",
           "assist": "M. Olise"
         }
