@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:33:06Z",
+  "updated": "2026-07-18T22:33:54Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 3,
       "away": 4,
       "goals": [
@@ -283,7 +283,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 9.7,
+          "rating": 9.3,
           "team": "FRA"
         }
       }
