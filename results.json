@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:45:26Z",
+  "updated": "2026-07-18T21:46:14Z",
   "live": [
     {
       "id": 103,
@@ -26,6 +26,7 @@
           "assist": "M. Rashford"
         }
       ],
+      "extra": 1,
       "stats": {
         "shotsBlocked": [
           2,
