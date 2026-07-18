@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:11:28Z",
+  "updated": "2026-07-18T22:12:16Z",
   "live": [
     {
       "id": 103,
@@ -83,23 +83,23 @@
           6
         ],
         "shotsTotal": [
-          5,
+          6,
           11
         ],
         "passesTotal": [
-          239,
-          299
+          246,
+          315
         ],
         "passesAccurate": [
-          216,
-          280
+          221,
+          294
         ],
         "red": [
           0,
           0
         ],
         "shotsOn": [
-          2,
+          3,
           7
         ],
         "yellow": [
@@ -108,14 +108,14 @@
         ],
         "passesPct": [
           90,
-          94
+          93
         ],
         "offsides": [
           1,
           3
         ],
         "shotsInside": [
-          2,
+          3,
           9
         ],
         "possession": [
@@ -270,7 +270,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Bukayo Saka",
-          "rating": 9.0,
+          "rating": 8.9,
           "team": "ENG"
         }
       }
