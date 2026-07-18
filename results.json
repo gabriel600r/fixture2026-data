@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T21:37:28Z",
+  "updated": "2026-07-18T21:38:16Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
-      "minute": 37,
+      "minute": 38,
       "home": 0,
       "away": 3,
       "goals": [
@@ -22,7 +22,8 @@
         {
           "player": "B. Saka",
           "minute": 37,
-          "team": "ENG"
+          "team": "ENG",
+          "assist": "M. Rashford"
         }
       ],
       "stats": {
@@ -31,7 +32,7 @@
           3
         ],
         "saves": [
-          1,
+          2,
           2
         ],
         "fouls": [
@@ -40,15 +41,15 @@
         ],
         "shotsTotal": [
           5,
-          6
+          7
         ],
         "passesTotal": [
           188,
-          196
+          198
         ],
         "passesAccurate": [
           170,
-          184
+          186
         ],
         "red": [
           0,
@@ -56,7 +57,7 @@
         ],
         "shotsOn": [
           2,
-          3
+          4
         ],
         "yellow": [
           0,
@@ -72,11 +73,11 @@
         ],
         "shotsInside": [
           2,
-          4
+          5
         ],
         "possession": [
-          49,
-          51
+          48,
+          52
         ],
         "shotsOff": [
           1,
