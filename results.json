@@ -1,342 +1,6 @@
 {
-  "updated": "2026-07-18T23:01:58Z",
-  "live": [
-    {
-      "id": 103,
-      "status": "2H",
-      "minute": 90,
-      "home": 4,
-      "away": 6,
-      "goals": [
-        {
-          "player": "D. Rice",
-          "minute": 3,
-          "team": "ENG"
-        },
-        {
-          "player": "E. Konsa",
-          "minute": 18,
-          "team": "ENG",
-          "assist": "D. Rice"
-        },
-        {
-          "player": "B. Saka",
-          "minute": 37,
-          "team": "ENG",
-          "assist": "M. Rashford"
-        },
-        {
-          "player": "B. Saka",
-          "minute": 45,
-          "team": "ENG",
-          "assist": "E. Eze"
-        },
-        {
-          "player": "K. Mbappe",
-          "minute": 48,
-          "team": "FRA",
-          "assist": "M. Olise"
-        },
-        {
-          "player": "B. Barcola",
-          "minute": 54,
-          "team": "FRA",
-          "assist": "K. Mbappe"
-        },
-        {
-          "player": "K. Mbappe",
-          "minute": 66,
-          "team": "FRA",
-          "assist": "M. Olise"
-        },
-        {
-          "player": "B. Saka",
-          "minute": 87,
-          "team": "ENG",
-          "pen": true
-        },
-        {
-          "player": "O. Dembele",
-          "minute": 90,
-          "team": "FRA",
-          "assist": "D. Upamecano"
-        },
-        {
-          "player": "J. Bellingham",
-          "minute": 90,
-          "team": "ENG"
-        }
-      ],
-      "subs": [
-        {
-          "out": "R. Cherki",
-          "in": "O. Dembele",
-          "minute": 46,
-          "team": "FRA"
-        },
-        {
-          "out": "D. Doue",
-          "in": "B. Barcola",
-          "minute": 46,
-          "team": "FRA"
-        },
-        {
-          "out": "T. Hernandez",
-          "in": "L. Digne",
-          "minute": 46,
-          "team": "FRA"
-        },
-        {
-          "out": "I. Konate",
-          "in": "D. Upamecano",
-          "minute": 46,
-          "team": "FRA"
-        },
-        {
-          "out": "M. Rashford",
-          "in": "O. Watkins",
-          "minute": 46,
-          "team": "ENG"
-        },
-        {
-          "out": "I. Toney",
-          "in": "E. Anderson",
-          "minute": 79,
-          "team": "ENG"
-        },
-        {
-          "out": "E. Eze",
-          "in": "J. Bellingham",
-          "minute": 79,
-          "team": "ENG"
-        },
-        {
-          "out": "J. Quansah",
-          "in": "R. James",
-          "minute": 83,
-          "team": "ENG"
-        },
-        {
-          "out": "M. Gusto",
-          "in": "J. Kounde",
-          "minute": 90,
-          "team": "FRA"
-        },
-        {
-          "out": "M. Guehi",
-          "in": "T. Chalobah",
-          "minute": 90,
-          "team": "ENG"
-        }
-      ],
-      "extra": 9,
-      "stats": {
-        "shotsBlocked": [
-          4,
-          6
-        ],
-        "saves": [
-          4,
-          5
-        ],
-        "fouls": [
-          14,
-          8
-        ],
-        "shotsTotal": [
-          19,
-          19
-        ],
-        "passesTotal": [
-          442,
-          515
-        ],
-        "passesAccurate": [
-          402,
-          467
-        ],
-        "red": [
-          0,
-          0
-        ],
-        "shotsOn": [
-          9,
-          11
-        ],
-        "yellow": [
-          0,
-          0
-        ],
-        "passesPct": [
-          91,
-          91
-        ],
-        "offsides": [
-          3,
-          3
-        ],
-        "shotsInside": [
-          12,
-          16
-        ],
-        "possession": [
-          46,
-          54
-        ],
-        "shotsOff": [
-          6,
-          2
-        ],
-        "corners": [
-          3,
-          4
-        ],
-        "shotsOutside": [
-          7,
-          3
-        ],
-        "home": "FRA",
-        "away": "ENG"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "coach": "Didier Deschamps",
-            "xi": [
-              {
-                "n": 16,
-                "name": "Mike Maignan",
-                "pos": "G"
-              },
-              {
-                "n": 2,
-                "name": "Malo Gusto",
-                "pos": "D"
-              },
-              {
-                "n": 15,
-                "name": "Ibrahima Konaté",
-                "pos": "D"
-              },
-              {
-                "n": 26,
-                "name": "Maxence Lacroix",
-                "pos": "D"
-              },
-              {
-                "n": 19,
-                "name": "Theo Hernández",
-                "pos": "D"
-              },
-              {
-                "n": 18,
-                "name": "Warren Zaïre-Emery",
-                "pos": "M"
-              },
-              {
-                "n": 14,
-                "name": "Adrien Rabiot",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Michael Olise",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "Rayan Cherki",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Désiré Doué",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Kylian Mbappé",
-                "pos": "F"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-1-4-1",
-            "coach": "Thomas Tuchel",
-            "xi": [
-              {
-                "n": 13,
-                "name": "Dean Henderson",
-                "pos": "G"
-              },
-              {
-                "n": 26,
-                "name": "Jarell Quansah",
-                "pos": "D"
-              },
-              {
-                "n": 2,
-                "name": "Ezri Konsa",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Marc Guéhi",
-                "pos": "D"
-              },
-              {
-                "n": 25,
-                "name": "Djed Spence",
-                "pos": "D"
-              },
-              {
-                "n": 4,
-                "name": "Declan Rice",
-                "pos": "M"
-              },
-              {
-                "n": 7,
-                "name": "Bukayo Saka",
-                "pos": "M"
-              },
-              {
-                "n": 17,
-                "name": "Morgan Rogers",
-                "pos": "M"
-              },
-              {
-                "n": 21,
-                "name": "Eberechi Eze",
-                "pos": "M"
-              },
-              {
-                "n": 11,
-                "name": "Marcus Rashford",
-                "pos": "M"
-              },
-              {
-                "n": 22,
-                "name": "Ivan Toney",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Jesús Valenzuela, Venezuela",
-        "motm": {
-          "player": "Bukayo Saka",
-          "rating": 9.3,
-          "team": "ENG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-18T23:02:46Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -31851,10 +31515,349 @@
           "team": "ARG"
         }
       }
+    },
+    {
+      "id": 103,
+      "home": 4,
+      "away": 6,
+      "goals": [
+        {
+          "player": "D. Rice",
+          "minute": 3,
+          "team": "ENG"
+        },
+        {
+          "player": "E. Konsa",
+          "minute": 18,
+          "team": "ENG",
+          "assist": "D. Rice"
+        },
+        {
+          "player": "B. Saka",
+          "minute": 37,
+          "team": "ENG",
+          "assist": "M. Rashford"
+        },
+        {
+          "player": "B. Saka",
+          "minute": 45,
+          "team": "ENG",
+          "assist": "E. Eze"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 48,
+          "team": "FRA",
+          "assist": "M. Olise"
+        },
+        {
+          "player": "B. Barcola",
+          "minute": 54,
+          "team": "FRA",
+          "assist": "K. Mbappe"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 66,
+          "team": "FRA",
+          "assist": "M. Olise"
+        },
+        {
+          "player": "B. Saka",
+          "minute": 87,
+          "team": "ENG",
+          "pen": true
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 90,
+          "team": "FRA",
+          "assist": "D. Upamecano"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 90,
+          "team": "ENG"
+        }
+      ],
+      "subs": [
+        {
+          "out": "R. Cherki",
+          "in": "O. Dembele",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "D. Doue",
+          "in": "B. Barcola",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "T. Hernandez",
+          "in": "L. Digne",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "I. Konate",
+          "in": "D. Upamecano",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "M. Rashford",
+          "in": "O. Watkins",
+          "minute": 46,
+          "team": "ENG"
+        },
+        {
+          "out": "I. Toney",
+          "in": "E. Anderson",
+          "minute": 79,
+          "team": "ENG"
+        },
+        {
+          "out": "E. Eze",
+          "in": "J. Bellingham",
+          "minute": 79,
+          "team": "ENG"
+        },
+        {
+          "out": "J. Quansah",
+          "in": "R. James",
+          "minute": 83,
+          "team": "ENG"
+        },
+        {
+          "out": "M. Gusto",
+          "in": "J. Kounde",
+          "minute": 90,
+          "team": "FRA"
+        },
+        {
+          "out": "M. Guehi",
+          "in": "T. Chalobah",
+          "minute": 90,
+          "team": "ENG"
+        }
+      ],
+      "stats": {
+        "shotsBlocked": [
+          4,
+          6
+        ],
+        "saves": [
+          4,
+          5
+        ],
+        "fouls": [
+          14,
+          8
+        ],
+        "shotsTotal": [
+          19,
+          19
+        ],
+        "passesTotal": [
+          442,
+          515
+        ],
+        "passesAccurate": [
+          402,
+          467
+        ],
+        "red": [
+          0,
+          0
+        ],
+        "shotsOn": [
+          9,
+          11
+        ],
+        "yellow": [
+          0,
+          0
+        ],
+        "passesPct": [
+          91,
+          91
+        ],
+        "offsides": [
+          3,
+          3
+        ],
+        "shotsInside": [
+          12,
+          16
+        ],
+        "possession": [
+          46,
+          54
+        ],
+        "shotsOff": [
+          6,
+          2
+        ],
+        "corners": [
+          3,
+          4
+        ],
+        "shotsOutside": [
+          7,
+          3
+        ],
+        "home": "FRA",
+        "away": "ENG"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-2-3-1",
+            "coach": "Didier Deschamps",
+            "xi": [
+              {
+                "n": 16,
+                "name": "Mike Maignan",
+                "pos": "G"
+              },
+              {
+                "n": 2,
+                "name": "Malo Gusto",
+                "pos": "D"
+              },
+              {
+                "n": 15,
+                "name": "Ibrahima Konaté",
+                "pos": "D"
+              },
+              {
+                "n": 26,
+                "name": "Maxence Lacroix",
+                "pos": "D"
+              },
+              {
+                "n": 19,
+                "name": "Theo Hernández",
+                "pos": "D"
+              },
+              {
+                "n": 18,
+                "name": "Warren Zaïre-Emery",
+                "pos": "M"
+              },
+              {
+                "n": 14,
+                "name": "Adrien Rabiot",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Michael Olise",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "Rayan Cherki",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "Désiré Doué",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Kylian Mbappé",
+                "pos": "F"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-1-4-1",
+            "coach": "Thomas Tuchel",
+            "xi": [
+              {
+                "n": 13,
+                "name": "Dean Henderson",
+                "pos": "G"
+              },
+              {
+                "n": 26,
+                "name": "Jarell Quansah",
+                "pos": "D"
+              },
+              {
+                "n": 2,
+                "name": "Ezri Konsa",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Marc Guéhi",
+                "pos": "D"
+              },
+              {
+                "n": 25,
+                "name": "Djed Spence",
+                "pos": "D"
+              },
+              {
+                "n": 4,
+                "name": "Declan Rice",
+                "pos": "M"
+              },
+              {
+                "n": 7,
+                "name": "Bukayo Saka",
+                "pos": "M"
+              },
+              {
+                "n": 17,
+                "name": "Morgan Rogers",
+                "pos": "M"
+              },
+              {
+                "n": 21,
+                "name": "Eberechi Eze",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Marcus Rashford",
+                "pos": "M"
+              },
+              {
+                "n": 22,
+                "name": "Ivan Toney",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Bukayo Saka",
+          "rating": 9.3,
+          "team": "ENG"
+        }
+      }
     }
   ],
   "stats": {
     "scorers": [
+      {
+        "player": "Kylian Mbappé",
+        "team": "FRA",
+        "goals": 10,
+        "penalties": 1,
+        "assists": 4
+      },
       {
         "player": "L. Messi",
         "team": "ARG",
@@ -31862,11 +31865,10 @@
         "assists": 4
       },
       {
-        "player": "Kylian Mbappé",
-        "team": "FRA",
-        "goals": 8,
-        "penalties": 1,
-        "assists": 3
+        "player": "J. Bellingham",
+        "team": "ENG",
+        "goals": 7,
+        "assists": 1
       },
       {
         "player": "E. Haaland",
@@ -31874,23 +31876,17 @@
         "goals": 7
       },
       {
+        "player": "Ousmane Dembélé",
+        "team": "FRA",
+        "goals": 6,
+        "assists": 2
+      },
+      {
         "player": "H. Kane",
         "team": "ENG",
         "goals": 6,
         "penalties": 2,
         "assists": 1
-      },
-      {
-        "player": "J. Bellingham",
-        "team": "ENG",
-        "goals": 6,
-        "assists": 1
-      },
-      {
-        "player": "Ousmane Dembélé",
-        "team": "FRA",
-        "goals": 5,
-        "assists": 2
       },
       {
         "player": "Mikel Oyarzabal",
@@ -31925,6 +31921,13 @@
         "assists": 1
       },
       {
+        "player": "B. Saka",
+        "team": "ENG",
+        "goals": 3,
+        "penalties": 1,
+        "assists": 3
+      },
+      {
         "player": "D. Undav",
         "team": "GER",
         "goals": 3,
@@ -31935,6 +31938,12 @@
         "team": "SUI",
         "goals": 3,
         "assists": 2
+      },
+      {
+        "player": "B. Barcola",
+        "team": "FRA",
+        "goals": 3,
+        "assists": 1
       },
       {
         "player": "C. De Ketelaere",
@@ -32016,28 +32025,17 @@
         "assists": 2
       },
       {
-        "player": "A. Diallo",
-        "team": "CIV",
-        "goals": 2
-      },
-      {
-        "player": "M. Arnautovic",
-        "team": "AUT",
+        "player": "C. Summerville",
+        "team": "NED",
         "goals": 2,
-        "penalties": 1
-      },
-      {
-        "player": "Y. Tielemans",
-        "team": "BEL",
-        "goals": 2,
-        "penalties": 1
+        "assists": 2
       }
     ],
     "assists": [
       {
         "player": "Michael Olise",
         "team": "FRA",
-        "assists": 5
+        "assists": 7
       },
       {
         "player": "Brahim Díaz",
@@ -32048,6 +32046,12 @@
         "player": "Bruno Guimarães",
         "team": "BRA",
         "assists": 4
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "FRA",
+        "assists": 4,
+        "goals": 10
       },
       {
         "player": "L. Messi",
@@ -32081,18 +32085,13 @@
       {
         "player": "B. Saka",
         "team": "ENG",
-        "assists": 3
+        "assists": 3,
+        "goals": 3
       },
       {
         "player": "Florian Wirtz",
         "team": "GER",
         "assists": 3
-      },
-      {
-        "player": "Kylian Mbappé",
-        "team": "FRA",
-        "assists": 3,
-        "goals": 8
       },
       {
         "player": "Roberto Alvarado",
@@ -32132,6 +32131,12 @@
         "team": "GER",
         "assists": 2,
         "goals": 3
+      },
+      {
+        "player": "Declan Rice",
+        "team": "ENG",
+        "assists": 2,
+        "goals": 1
       },
       {
         "player": "H. Aouar",
@@ -32193,12 +32198,6 @@
         "player": "N. Raskin",
         "team": "BEL",
         "assists": 2
-      },
-      {
-        "player": "N. Saliba",
-        "team": "CAN",
-        "assists": 2,
-        "goals": 1
       }
     ],
     "cards": [
@@ -32414,32 +32413,32 @@
       "form": "DWWWWWW"
     },
     {
-      "code": "FRA",
-      "played": 7,
-      "wins": 6,
-      "draws": 0,
-      "loses": 1,
-      "gf": 16,
-      "ga": 4,
-      "cleanSheets": 4,
-      "failedToScore": 1,
-      "biggestWin": "3-0",
-      "biggestLose": "0-2",
-      "form": "WWWWWWL"
-    },
-    {
       "code": "ENG",
-      "played": 7,
-      "wins": 5,
+      "played": 8,
+      "wins": 6,
       "draws": 1,
       "loses": 1,
-      "gf": 14,
-      "ga": 8,
+      "gf": 20,
+      "ga": 12,
       "cleanSheets": 2,
       "failedToScore": 1,
       "biggestWin": "4-2",
       "biggestLose": "1-2",
-      "form": "WDWWWWL"
+      "form": "WDWWWWLW"
+    },
+    {
+      "code": "FRA",
+      "played": 8,
+      "wins": 6,
+      "draws": 0,
+      "loses": 2,
+      "gf": 20,
+      "ga": 10,
+      "cleanSheets": 4,
+      "failedToScore": 1,
+      "biggestWin": "3-0",
+      "biggestLose": "0-2",
+      "form": "WWWWWWLL"
     },
     {
       "code": "MEX",
