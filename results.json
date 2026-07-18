@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-18T22:10:40Z",
+  "updated": "2026-07-18T22:11:28Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 48,
-      "home": 0,
+      "minute": 49,
+      "home": 1,
       "away": 4,
       "goals": [
         {
@@ -30,6 +30,11 @@
           "minute": 45,
           "team": "ENG",
           "assist": "E. Eze"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 48,
+          "team": "FRA"
         }
       ],
       "subs": [
@@ -67,7 +72,7 @@
       "stats": {
         "shotsBlocked": [
           2,
-          3
+          4
         ],
         "saves": [
           2,
@@ -75,19 +80,19 @@
         ],
         "fouls": [
           5,
-          4
+          6
         ],
         "shotsTotal": [
           5,
-          10
+          11
         ],
         "passesTotal": [
-          238,
-          291
+          239,
+          299
         ],
         "passesAccurate": [
           216,
-          273
+          280
         ],
         "red": [
           0,
@@ -102,7 +107,7 @@
           0
         ],
         "passesPct": [
-          91,
+          90,
           94
         ],
         "offsides": [
@@ -111,11 +116,11 @@
         ],
         "shotsInside": [
           2,
-          7
+          9
         ],
         "possession": [
-          45,
-          55
+          44,
+          56
         ],
         "shotsOff": [
           1,
@@ -123,11 +128,11 @@
         ],
         "corners": [
           2,
-          2
+          3
         ],
         "shotsOutside": [
           3,
-          3
+          2
         ],
         "home": "FRA",
         "away": "ENG"
