@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:45:55Z",
+  "updated": "2026-07-18T22:46:43Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 3,
       "away": 4,
       "goals": [
@@ -91,6 +91,12 @@
           "out": "E. Eze",
           "in": "J. Bellingham",
           "minute": 79,
+          "team": "ENG"
+        },
+        {
+          "out": "J. Quansah",
+          "in": "R. James",
+          "minute": 83,
           "team": "ENG"
         }
       ],
