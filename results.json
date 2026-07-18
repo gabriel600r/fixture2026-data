@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:48:37Z",
+  "updated": "2026-07-18T21:49:25Z",
   "live": [
     {
       "id": 103,
@@ -32,7 +32,7 @@
           "assist": "E. Eze"
         }
       ],
-      "extra": 3,
+      "extra": 4,
       "stats": {
         "shotsBlocked": [
           2,
@@ -51,11 +51,11 @@
           10
         ],
         "passesTotal": [
-          225,
+          226,
           286
         ],
         "passesAccurate": [
-          204,
+          205,
           270
         ],
         "red": [
@@ -80,7 +80,7 @@
         ],
         "shotsInside": [
           2,
-          8
+          7
         ],
         "possession": [
           44,
@@ -96,7 +96,7 @@
         ],
         "shotsOutside": [
           3,
-          2
+          3
         ],
         "home": "FRA",
         "away": "ENG"
