@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T21:11:07Z",
+  "updated": "2026-07-18T21:11:55Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
-      "minute": 11,
+      "minute": 12,
       "home": 0,
       "away": 1,
       "goals": [
@@ -16,7 +16,7 @@
       ],
       "stats": {
         "shotsBlocked": [
-          1,
+          2,
           2
         ],
         "saves": [
@@ -28,16 +28,16 @@
           1
         ],
         "shotsTotal": [
-          1,
+          2,
           3
         ],
         "passesTotal": [
-          45,
-          52
+          50,
+          64
         ],
         "passesAccurate": [
-          39,
-          49
+          42,
+          60
         ],
         "red": [
           0,
@@ -52,7 +52,7 @@
           0
         ],
         "passesPct": [
-          87,
+          84,
           94
         ],
         "offsides": [
@@ -64,8 +64,8 @@
           2
         ],
         "possession": [
-          45,
-          55
+          42,
+          58
         ],
         "shotsOff": [
           0,
@@ -76,7 +76,7 @@
           1
         ],
         "shotsOutside": [
-          0,
+          1,
           1
         ],
         "home": "FRA",
