@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:45:07Z",
+  "updated": "2026-07-18T22:45:55Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 82,
+      "minute": 83,
       "home": 3,
       "away": 4,
       "goals": [
@@ -97,10 +97,10 @@
       "stats": {
         "shotsBlocked": [
           3,
-          5
+          6
         ],
         "saves": [
-          3,
+          4,
           4
         ],
         "fouls": [
@@ -108,15 +108,15 @@
           8
         ],
         "shotsTotal": [
-          15,
-          15
+          16,
+          17
         ],
         "passesTotal": [
-          385,
+          391,
           457
         ],
         "passesAccurate": [
-          350,
+          356,
           419
         ],
         "red": [
@@ -125,7 +125,7 @@
         ],
         "shotsOn": [
           7,
-          8
+          9
         ],
         "yellow": [
           0,
@@ -140,15 +140,15 @@
           3
         ],
         "shotsInside": [
-          10,
-          12
+          11,
+          14
         ],
         "possession": [
-          45,
-          55
+          46,
+          54
         ],
         "shotsOff": [
-          5,
+          6,
           2
         ],
         "corners": [
@@ -295,7 +295,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Kylian Mbappé",
-          "rating": 9.9,
+          "rating": 10.0,
           "team": "FRA"
         }
       }
