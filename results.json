@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:42:41Z",
+  "updated": "2026-07-18T22:43:29Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 80,
+      "minute": 81,
       "home": 3,
       "away": 4,
       "goals": [
@@ -90,7 +90,7 @@
         {
           "out": "E. Eze",
           "in": "J. Bellingham",
-          "minute": 80,
+          "minute": 79,
           "team": "ENG"
         }
       ],
@@ -112,11 +112,11 @@
           15
         ],
         "passesTotal": [
-          373,
+          378,
           449
         ],
         "passesAccurate": [
-          338,
+          343,
           412
         ],
         "red": [
