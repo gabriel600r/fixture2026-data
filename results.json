@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:29:06Z",
+  "updated": "2026-07-18T22:29:54Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 2,
       "away": 4,
       "goals": [
@@ -42,6 +42,12 @@
           "minute": 54,
           "team": "FRA",
           "assist": "K. Mbappe"
+        },
+        {
+          "player": "K. Mbappe",
+          "minute": 67,
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "subs": [
@@ -83,30 +89,30 @@
         ],
         "saves": [
           3,
-          3
+          4
         ],
         "fouls": [
           7,
           7
         ],
         "shotsTotal": [
-          10,
+          11,
           15
         ],
         "passesTotal": [
-          317,
-          411
+          335,
+          413
         ],
         "passesAccurate": [
-          285,
-          377
+          301,
+          379
         ],
         "red": [
           0,
           0
         ],
         "shotsOn": [
-          5,
+          6,
           8
         ],
         "yellow": [
@@ -126,8 +132,8 @@
           12
         ],
         "possession": [
-          43,
-          57
+          44,
+          56
         ],
         "shotsOff": [
           3,
@@ -138,7 +144,7 @@
           4
         ],
         "shotsOutside": [
-          4,
+          5,
           3
         ],
         "home": "FRA",
