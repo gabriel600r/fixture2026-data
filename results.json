@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T21:36:40Z",
+  "updated": "2026-07-18T21:37:28Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
       "minute": 37,
       "home": 0,
-      "away": 2,
+      "away": 3,
       "goals": [
         {
           "player": "D. Rice",
@@ -18,6 +18,11 @@
           "minute": 18,
           "team": "ENG",
           "assist": "D. Rice"
+        },
+        {
+          "player": "B. Saka",
+          "minute": 37,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -27,7 +32,7 @@
         ],
         "saves": [
           1,
-          1
+          2
         ],
         "fouls": [
           4,
@@ -38,12 +43,12 @@
           6
         ],
         "passesTotal": [
-          175,
-          189
+          188,
+          196
         ],
         "passesAccurate": [
-          158,
-          177
+          170,
+          184
         ],
         "red": [
           0,
@@ -70,15 +75,15 @@
           4
         ],
         "possession": [
-          48,
-          52
+          49,
+          51
         ],
         "shotsOff": [
           1,
           0
         ],
         "corners": [
-          1,
+          2,
           2
         ],
         "shotsOutside": [
