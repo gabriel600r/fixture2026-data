@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:12:16Z",
+  "updated": "2026-07-18T22:13:04Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 49,
+      "minute": 50,
       "home": 1,
       "away": 4,
       "goals": [
@@ -34,7 +34,8 @@
         {
           "player": "K. Mbappe",
           "minute": 48,
-          "team": "FRA"
+          "team": "FRA",
+          "assist": "M. Olise"
         }
       ],
       "subs": [
@@ -87,12 +88,12 @@
           11
         ],
         "passesTotal": [
-          246,
-          315
+          252,
+          322
         ],
         "passesAccurate": [
-          221,
-          294
+          227,
+          300
         ],
         "red": [
           0,
