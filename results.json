@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-18T22:58:43Z",
+  "updated": "2026-07-18T22:59:31Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
       "minute": 90,
-      "home": 3,
+      "home": 4,
       "away": 5,
       "goals": [
         {
@@ -54,6 +54,12 @@
           "minute": 87,
           "team": "ENG",
           "pen": true
+        },
+        {
+          "player": "O. Dembele",
+          "minute": 90,
+          "team": "FRA",
+          "assist": "D. Upamecano"
         }
       ],
       "subs": [
@@ -118,7 +124,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 6,
+      "extra": 7,
       "stats": {
         "shotsBlocked": [
           4,
@@ -137,11 +143,11 @@
           18
         ],
         "passesTotal": [
-          436,
+          438,
           497
         ],
         "passesAccurate": [
-          397,
+          399,
           453
         ],
         "red": [
@@ -169,8 +175,8 @@
           15
         ],
         "possession": [
-          46,
-          54
+          47,
+          53
         ],
         "shotsOff": [
           7,
