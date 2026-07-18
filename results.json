@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:54:43Z",
+  "updated": "2026-07-18T22:55:31Z",
   "live": [
     {
       "id": 103,
@@ -112,10 +112,10 @@
           "team": "FRA"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "shotsBlocked": [
-          3,
+          4,
           6
         ],
         "saves": [
@@ -127,16 +127,16 @@
           8
         ],
         "shotsTotal": [
-          17,
+          18,
           18
         ],
         "passesTotal": [
-          401,
-          468
+          418,
+          491
         ],
         "passesAccurate": [
-          366,
-          429
+          381,
+          450
         ],
         "red": [
           0,
@@ -175,7 +175,7 @@
           4
         ],
         "shotsOutside": [
-          6,
+          7,
           3
         ],
         "home": "FRA",
