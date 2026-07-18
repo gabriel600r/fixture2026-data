@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T22:41:53Z",
+  "updated": "2026-07-18T22:42:41Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
-      "minute": 79,
+      "minute": 80,
       "home": 3,
       "away": 4,
       "goals": [
@@ -79,6 +79,18 @@
           "out": "M. Rashford",
           "in": "O. Watkins",
           "minute": 46,
+          "team": "ENG"
+        },
+        {
+          "out": "I. Toney",
+          "in": "E. Anderson",
+          "minute": 79,
+          "team": "ENG"
+        },
+        {
+          "out": "E. Eze",
+          "in": "J. Bellingham",
+          "minute": 80,
           "team": "ENG"
         }
       ],
