@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T23:00:21Z",
+  "updated": "2026-07-18T23:01:10Z",
   "live": [
     {
       "id": 103,
       "status": "2H",
       "minute": 90,
       "home": 4,
-      "away": 5,
+      "away": 6,
       "goals": [
         {
           "player": "D. Rice",
@@ -60,6 +60,11 @@
           "minute": 90,
           "team": "FRA",
           "assist": "D. Upamecano"
+        },
+        {
+          "player": "J. Bellingham",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
       "subs": [
@@ -124,7 +129,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 7,
+      "extra": 8,
       "stats": {
         "shotsBlocked": [
           4,
@@ -144,11 +149,11 @@
         ],
         "passesTotal": [
           441,
-          502
+          503
         ],
         "passesAccurate": [
           401,
-          456
+          457
         ],
         "red": [
           0,
