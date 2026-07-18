@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:01:10Z",
+  "updated": "2026-07-18T23:01:58Z",
   "live": [
     {
       "id": 103,
@@ -129,7 +129,7 @@
           "team": "ENG"
         }
       ],
-      "extra": 8,
+      "extra": 9,
       "stats": {
         "shotsBlocked": [
           4,
@@ -144,16 +144,16 @@
           8
         ],
         "shotsTotal": [
-          20,
-          18
+          19,
+          19
         ],
         "passesTotal": [
-          441,
-          503
+          442,
+          515
         ],
         "passesAccurate": [
-          401,
-          457
+          402,
+          467
         ],
         "red": [
           0,
@@ -161,7 +161,7 @@
         ],
         "shotsOn": [
           9,
-          10
+          11
         ],
         "yellow": [
           0,
@@ -176,15 +176,15 @@
           3
         ],
         "shotsInside": [
-          13,
-          15
+          12,
+          16
         ],
         "possession": [
           46,
           54
         ],
         "shotsOff": [
-          7,
+          6,
           2
         ],
         "corners": [
