@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T21:51:01Z",
+  "updated": "2026-07-18T22:09:05Z",
   "live": [
     {
       "id": 103,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 4,
       "goals": [
@@ -30,6 +30,38 @@
           "minute": 45,
           "team": "ENG",
           "assist": "E. Eze"
+        }
+      ],
+      "subs": [
+        {
+          "out": "R. Cherki",
+          "in": "O. Dembele",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "D. Doue",
+          "in": "B. Barcola",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "T. Hernandez",
+          "in": "L. Digne",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "I. Konate",
+          "in": "D. Upamecano",
+          "minute": 46,
+          "team": "FRA"
+        },
+        {
+          "out": "M. Rashford",
+          "in": "O. Watkins",
+          "minute": 46,
+          "team": "ENG"
         }
       ],
       "stats": {
@@ -230,7 +262,12 @@
             ]
           }
         },
-        "referee": "Jesús Valenzuela, Venezuela"
+        "referee": "Jesús Valenzuela, Venezuela",
+        "motm": {
+          "player": "Bukayo Saka",
+          "rating": 9.0,
+          "team": "ENG"
+        }
       }
     }
   ],
