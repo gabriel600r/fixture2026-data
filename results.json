@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:55:31Z",
+  "updated": "2026-07-18T22:56:19Z",
   "live": [
     {
       "id": 103,
@@ -110,6 +110,12 @@
           "in": "J. Kounde",
           "minute": 90,
           "team": "FRA"
+        },
+        {
+          "out": "M. Guehi",
+          "in": "T. Chalobah",
+          "minute": 90,
+          "team": "ENG"
         }
       ],
       "extra": 3,
@@ -314,7 +320,7 @@
         "referee": "Jesús Valenzuela, Venezuela",
         "motm": {
           "player": "Bukayo Saka",
-          "rating": 9.7,
+          "rating": 9.6,
           "team": "ENG"
         }
       }
