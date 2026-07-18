@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:19:08Z",
+  "updated": "2026-07-18T21:19:57Z",
   "live": [
     {
       "id": 103,
@@ -15,7 +15,7 @@
         },
         {
           "player": "E. Konsa",
-          "minute": 19,
+          "minute": 18,
           "team": "ENG",
           "assist": "D. Rice"
         }
@@ -23,7 +23,7 @@
       "stats": {
         "shotsBlocked": [
           2,
-          2
+          3
         ],
         "saves": [
           0,
@@ -35,15 +35,15 @@
         ],
         "shotsTotal": [
           3,
-          3
+          5
         ],
         "passesTotal": [
           105,
-          98
+          99
         ],
         "passesAccurate": [
           95,
-          90
+          91
         ],
         "red": [
           0,
@@ -51,7 +51,7 @@
         ],
         "shotsOn": [
           1,
-          1
+          2
         ],
         "yellow": [
           0,
@@ -67,7 +67,7 @@
         ],
         "shotsInside": [
           1,
-          2
+          4
         ],
         "possession": [
           51,
@@ -79,7 +79,7 @@
         ],
         "corners": [
           1,
-          1
+          2
         ],
         "shotsOutside": [
           2,
