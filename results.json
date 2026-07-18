@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-18T21:02:22Z",
+  "updated": "2026-07-18T21:03:10Z",
   "live": [
     {
       "id": 103,
       "status": "1H",
-      "minute": 2,
+      "minute": 3,
       "home": 0,
-      "away": 0,
+      "away": 1,
+      "goals": [
+        {
+          "player": null,
+          "minute": 3,
+          "team": "ENG"
+        }
+      ],
       "stats": {
         "shotsBlocked": [
           0,
