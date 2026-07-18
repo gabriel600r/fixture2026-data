@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:12:43Z",
+  "updated": "2026-07-18T21:13:30Z",
   "live": [
     {
       "id": 103,
@@ -21,30 +21,30 @@
         ],
         "saves": [
           0,
-          0
+          1
         ],
         "fouls": [
           1,
           1
         ],
         "shotsTotal": [
-          2,
+          3,
           3
         ],
         "passesTotal": [
-          50,
-          64
+          53,
+          72
         ],
         "passesAccurate": [
-          42,
-          60
+          45,
+          67
         ],
         "red": [
           0,
           0
         ],
         "shotsOn": [
-          0,
+          1,
           1
         ],
         "yellow": [
@@ -52,20 +52,20 @@
           0
         ],
         "passesPct": [
-          84,
-          94
+          85,
+          93
         ],
         "offsides": [
           0,
-          0
+          1
         ],
         "shotsInside": [
           1,
           2
         ],
         "possession": [
-          42,
-          58
+          41,
+          59
         ],
         "shotsOff": [
           0,
@@ -76,7 +76,7 @@
           1
         ],
         "shotsOutside": [
-          1,
+          2,
           1
         ],
         "home": "FRA",
@@ -119,13 +119,13 @@
                 "pos": "D"
               },
               {
-                "n": 14,
-                "name": "Adrien Rabiot",
+                "n": 18,
+                "name": "Warren Zaïre-Emery",
                 "pos": "M"
               },
               {
-                "n": 18,
-                "name": "Warren Zaïre-Emery",
+                "n": 14,
+                "name": "Adrien Rabiot",
                 "pos": "M"
               },
               {
@@ -151,7 +151,7 @@
             ]
           },
           "away": {
-            "formation": "4-1-2-3",
+            "formation": "4-1-4-1",
             "coach": "Thomas Tuchel",
             "xi": [
               {
@@ -165,17 +165,17 @@
                 "pos": "D"
               },
               {
-                "n": 6,
-                "name": "Marc Guéhi",
-                "pos": "D"
-              },
-              {
                 "n": 2,
                 "name": "Ezri Konsa",
                 "pos": "D"
               },
               {
-                "n": 24,
+                "n": 6,
+                "name": "Marc Guéhi",
+                "pos": "D"
+              },
+              {
+                "n": 25,
                 "name": "Djed Spence",
                 "pos": "D"
               },
@@ -185,8 +185,8 @@
                 "pos": "M"
               },
               {
-                "n": 21,
-                "name": "Eberechi Eze",
+                "n": 7,
+                "name": "Bukayo Saka",
                 "pos": "M"
               },
               {
@@ -195,19 +195,19 @@
                 "pos": "M"
               },
               {
-                "n": 7,
-                "name": "Bukayo Saka",
+                "n": 21,
+                "name": "Eberechi Eze",
+                "pos": "M"
+              },
+              {
+                "n": 11,
+                "name": "Marcus Rashford",
                 "pos": "M"
               },
               {
                 "n": 22,
                 "name": "Ivan Toney",
                 "pos": "F"
-              },
-              {
-                "n": 11,
-                "name": "Marcus Rashford",
-                "pos": "M"
               }
             ]
           }
