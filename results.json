@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:32:57Z",
+  "updated": "2026-07-19T21:33:46Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 102,
+      "minute": 103,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -99,15 +99,21 @@
           "in": "Eric García",
           "minute": 99,
           "team": "ESP"
+        },
+        {
+          "out": "Julián Álvarez",
+          "in": "Marcos Senesi",
+          "minute": 102,
+          "team": "ARG"
         }
       ],
       "stats": {
         "passesAccurate": [
-          658,
-          280
+          677,
+          282
         ],
         "shotsTotal": [
-          16,
+          17,
           0
         ],
         "fouls": [
@@ -115,11 +121,11 @@
           21
         ],
         "shotsOff": [
-          3,
+          4,
           0
         ],
         "shotsOutside": [
-          9,
+          10,
           0
         ],
         "corners": [
@@ -131,16 +137,16 @@
           1
         ],
         "possession": [
-          67,
-          33
+          68,
+          32
         ],
         "offsides": [
           2,
           1
         ],
         "passesTotal": [
-          727,
-          356
+          746,
+          358
         ],
         "shotsOn": [
           11,
