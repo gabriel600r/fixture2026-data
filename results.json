@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:27:07Z",
+  "updated": "2026-07-19T20:27:55Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 50,
+      "minute": 51,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -31,8 +31,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          322,
-          174
+          329,
+          178
         ],
         "shotsTotal": [
           4,
@@ -59,16 +59,16 @@
           0
         ],
         "possession": [
-          64,
-          36
+          63,
+          37
         ],
         "offsides": [
           2,
           1
         ],
         "passesTotal": [
-          359,
-          218
+          367,
+          222
         ],
         "shotsOn": [
           3,
@@ -221,9 +221,9 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "E. Martínez",
-          "rating": 7.36,
-          "team": "ARG"
+          "player": "Unai Simón",
+          "rating": 7.41,
+          "team": "ESP"
         }
       }
     }
