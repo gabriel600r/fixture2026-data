@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-19T21:44:57Z",
+  "updated": "2026-07-19T21:45:45Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 108,
+      "minute": 109,
       "home": 1,
       "away": 0,
       "goals": [
         {
           "player": "Ferrán Torres",
           "minute": 106,
-          "team": "ESP"
+          "team": "ESP",
+          "assist": "Nico Williams"
         }
       ],
       "cardEvents": [
@@ -122,15 +123,15 @@
       ],
       "stats": {
         "passesAccurate": [
-          704,
-          302
+          706,
+          307
         ],
         "shotsTotal": [
           20,
           0
         ],
         "fouls": [
-          16,
+          17,
           22
         ],
         "shotsOff": [
@@ -158,8 +159,8 @@
           1
         ],
         "passesTotal": [
-          777,
-          386
+          781,
+          394
         ],
         "shotsOn": [
           12,
