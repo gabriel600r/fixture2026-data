@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:58:33Z",
+  "updated": "2026-07-19T21:59:21Z",
   "live": [
     {
       "id": 104,
@@ -127,11 +127,11 @@
           "team": "ARG"
         }
       ],
-      "extra": 2,
+      "extra": 3,
       "stats": {
         "passesAccurate": [
-          754,
-          345
+          755,
+          348
         ],
         "shotsTotal": [
           20,
@@ -166,8 +166,8 @@
           1
         ],
         "passesTotal": [
-          837,
-          446
+          841,
+          452
         ],
         "shotsOn": [
           12,
@@ -183,7 +183,7 @@
         ],
         "shotsInside": [
           9,
-          0
+          1
         ],
         "shotsBlocked": [
           3,
