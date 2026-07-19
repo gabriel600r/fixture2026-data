@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:38:19Z",
+  "updated": "2026-07-19T20:39:07Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 61,
+      "minute": 62,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -39,6 +39,18 @@
           "in": "Nahuel Molina",
           "minute": 58,
           "team": "ARG"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Ferrán Torres",
+          "minute": 62,
+          "team": "ESP"
+        },
+        {
+          "out": "Fabián Ruiz",
+          "in": "Pedri",
+          "minute": 62,
+          "team": "ESP"
         }
       ],
       "stats": {
@@ -47,7 +59,7 @@
           214
         ],
         "shotsTotal": [
-          4,
+          5,
           0
         ],
         "fouls": [
@@ -59,7 +71,7 @@
           0
         ],
         "shotsOutside": [
-          3,
+          4,
           0
         ],
         "corners": [
@@ -95,6 +107,10 @@
           2
         ],
         "shotsInside": [
+          1,
+          0
+        ],
+        "shotsBlocked": [
           1,
           0
         ],
