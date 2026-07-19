@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:35:54Z",
+  "updated": "2026-07-19T20:36:42Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 59,
+      "minute": 60,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -43,8 +43,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          366,
-          211
+          378,
+          214
         ],
         "shotsTotal": [
           4,
@@ -79,8 +79,8 @@
           1
         ],
         "passesTotal": [
-          410,
-          261
+          422,
+          265
         ],
         "shotsOn": [
           3,
