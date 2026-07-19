@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:16:38Z",
+  "updated": "2026-07-19T18:31:27Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -145,7 +145,7 @@
         },
         "lineups": {
           "home": {
-            "formation": "4-2-3-1",
+            "formation": "4-1-2-3",
             "coach": "Luis de la Fuente",
             "xi": [
               {
@@ -160,7 +160,7 @@
               },
               {
                 "n": 22,
-                "name": "Pau Cubarsí",
+                "name": "Pau Cubarsí Paredes",
                 "pos": "D"
               },
               {
@@ -179,6 +179,11 @@
                 "pos": "M"
               },
               {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
                 "n": 8,
                 "name": "Fabián Ruiz",
                 "pos": "M"
@@ -186,42 +191,37 @@
               {
                 "n": 19,
                 "name": "Lamine Yamal",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "Alex Baena",
-                "pos": "M"
+                "pos": "F"
               },
               {
                 "n": 21,
                 "name": "Mikel Oyarzabal",
                 "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
               }
             ]
           },
           "away": {
             "formation": "4-4-2",
-            "coach": "Lionel Scaloni",
+            "coach": "L. Scaloni",
             "xi": [
               {
                 "n": 23,
-                "name": "Emiliano Martínez",
+                "name": "E. Martínez",
                 "pos": "G"
               },
               {
                 "n": 4,
-                "name": "Gonzalo Montiel",
+                "name": "G. Montiel",
                 "pos": "D"
               },
               {
                 "n": 13,
-                "name": "Cristian Romero",
+                "name": "C. Romero",
                 "pos": "D"
               },
               {
@@ -231,37 +231,37 @@
               },
               {
                 "n": 3,
-                "name": "Nicolás Tagliafico",
+                "name": "N. Tagliafico",
                 "pos": "D"
               },
               {
                 "n": 7,
-                "name": "Rodrigo De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "Alexis Mac Allister",
+                "name": "R. De Paul",
                 "pos": "M"
               },
               {
                 "n": 24,
-                "name": "Enzo Fernández",
+                "name": "E. Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "A. Mac Allister",
                 "pos": "M"
               },
               {
                 "n": 15,
-                "name": "Nicolás González",
-                "pos": "M"
+                "name": "N. González",
+                "pos": "F"
               },
               {
                 "n": 10,
-                "name": "Lionel Messi",
+                "name": "L. Messi",
                 "pos": "F"
               },
               {
                 "n": 9,
-                "name": "Julián Alvarez",
+                "name": "J. Álvarez",
                 "pos": "F"
               }
             ]
