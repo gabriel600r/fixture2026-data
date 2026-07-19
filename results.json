@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-19T21:43:21Z",
+  "updated": "2026-07-19T21:44:09Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 106,
-      "home": 0,
+      "minute": 107,
+      "home": 1,
       "away": 0,
+      "goals": [
+        {
+          "player": "Ferrán Torres",
+          "minute": 106,
+          "team": "ESP"
+        }
+      ],
       "cardEvents": [
         {
           "player": "Lisandro Martínez",
