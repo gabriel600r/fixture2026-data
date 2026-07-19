@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:26:30Z",
+  "updated": "2026-07-19T21:27:18Z",
   "live": [
     {
       "id": 104,
@@ -91,7 +91,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          641,
+          644,
           280
         ],
         "shotsTotal": [
@@ -127,7 +127,7 @@
           1
         ],
         "passesTotal": [
-          707,
+          712,
           354
         ],
         "shotsOn": [
