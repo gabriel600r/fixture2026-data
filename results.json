@@ -1,336 +1,6 @@
 {
-  "updated": "2026-07-19T22:02:40Z",
-  "live": [
-    {
-      "id": 104,
-      "status": "ET",
-      "minute": 120,
-      "home": 1,
-      "away": 0,
-      "goals": [
-        {
-          "player": "Ferrán Torres",
-          "minute": 106,
-          "team": "ESP",
-          "assist": "Nico Williams"
-        }
-      ],
-      "cardEvents": [
-        {
-          "player": "Lisandro Martínez",
-          "minute": 41,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "Leandro Paredes",
-          "minute": 52,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "Enzo Fernández",
-          "minute": 82,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "Cristian Romero",
-          "minute": 90,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "Lionel Sebastián Scaloni",
-          "minute": 104,
-          "team": "ARG",
-          "color": "yellow"
-        },
-        {
-          "player": "Alexis Mac Allister",
-          "minute": 111,
-          "team": "ARG",
-          "color": "yellow"
-        }
-      ],
-      "subs": [
-        {
-          "out": "Lisandro Martínez",
-          "in": "Nicolás Otamendi",
-          "minute": 44,
-          "team": "ARG"
-        },
-        {
-          "out": "Nicolás Iván Gonzalez",
-          "in": "Leandro Paredes",
-          "minute": 45,
-          "team": "ARG"
-        },
-        {
-          "out": "Gonzalo Montiel",
-          "in": "Nahuel Molina",
-          "minute": 58,
-          "team": "ARG"
-        },
-        {
-          "out": "Mikel Oyarzabal",
-          "in": "Ferrán Torres",
-          "minute": 62,
-          "team": "ESP"
-        },
-        {
-          "out": "Fabián Ruiz",
-          "in": "Pedri",
-          "minute": 62,
-          "team": "ESP"
-        },
-        {
-          "out": "Cristian Romero",
-          "in": "Facundo Medina",
-          "minute": 70,
-          "team": "ARG"
-        },
-        {
-          "out": "Rodrigo De Paul",
-          "in": "Giuliano Simeone Baldini",
-          "minute": 70,
-          "team": "ARG"
-        },
-        {
-          "out": "Alejandro Baena Rodríguez",
-          "in": "Nico Williams",
-          "minute": 75,
-          "team": "ESP"
-        },
-        {
-          "out": "Daniel Olmo Carvajal",
-          "in": "Mikel Merino",
-          "minute": 75,
-          "team": "ESP"
-        },
-        {
-          "out": "Rodrigo Hernandez Cascante",
-          "in": "Martín Zubimendi",
-          "minute": 99,
-          "team": "ESP"
-        },
-        {
-          "out": "Aymeric Laporte",
-          "in": "Eric García",
-          "minute": 99,
-          "team": "ESP"
-        },
-        {
-          "out": "Julián Álvarez",
-          "in": "Marcos Senesi",
-          "minute": 102,
-          "team": "ARG"
-        }
-      ],
-      "extra": 6,
-      "stats": {
-        "passesAccurate": [
-          762,
-          357
-        ],
-        "shotsTotal": [
-          20,
-          2
-        ],
-        "fouls": [
-          21,
-          25
-        ],
-        "shotsOff": [
-          5,
-          1
-        ],
-        "shotsOutside": [
-          11,
-          1
-        ],
-        "corners": [
-          9,
-          4
-        ],
-        "red": [
-          0,
-          1
-        ],
-        "possession": [
-          65,
-          35
-        ],
-        "offsides": [
-          4,
-          1
-        ],
-        "passesTotal": [
-          852,
-          462
-        ],
-        "shotsOn": [
-          12,
-          0
-        ],
-        "saves": [
-          0,
-          11
-        ],
-        "yellow": [
-          0,
-          5
-        ],
-        "shotsInside": [
-          9,
-          1
-        ],
-        "shotsBlocked": [
-          3,
-          1
-        ],
-        "home": "ESP",
-        "away": "ARG"
-      },
-      "extras": {
-        "pred": {
-          "home": 45,
-          "draw": 45,
-          "away": 10
-        },
-        "lineups": {
-          "home": {
-            "formation": "4-1-2-3",
-            "coach": "Luis de la Fuente",
-            "xi": [
-              {
-                "n": 23,
-                "name": "Unai Simón",
-                "pos": "G"
-              },
-              {
-                "n": 12,
-                "name": "Pedro Porro",
-                "pos": "D"
-              },
-              {
-                "n": 22,
-                "name": "Pau Cubarsí Paredes",
-                "pos": "D"
-              },
-              {
-                "n": 14,
-                "name": "Aymeric Laporte",
-                "pos": "D"
-              },
-              {
-                "n": 24,
-                "name": "Marc Cucurella",
-                "pos": "D"
-              },
-              {
-                "n": 16,
-                "name": "Rodri",
-                "pos": "M"
-              },
-              {
-                "n": 10,
-                "name": "Dani Olmo",
-                "pos": "M"
-              },
-              {
-                "n": 8,
-                "name": "Fabián Ruiz",
-                "pos": "M"
-              },
-              {
-                "n": 19,
-                "name": "Lamine Yamal",
-                "pos": "F"
-              },
-              {
-                "n": 21,
-                "name": "Mikel Oyarzabal",
-                "pos": "F"
-              },
-              {
-                "n": 15,
-                "name": "Álex Baena",
-                "pos": "M"
-              }
-            ]
-          },
-          "away": {
-            "formation": "4-4-2",
-            "coach": "L. Scaloni",
-            "xi": [
-              {
-                "n": 23,
-                "name": "E. Martínez",
-                "pos": "G"
-              },
-              {
-                "n": 4,
-                "name": "G. Montiel",
-                "pos": "D"
-              },
-              {
-                "n": 13,
-                "name": "C. Romero",
-                "pos": "D"
-              },
-              {
-                "n": 6,
-                "name": "Lisandro Martínez",
-                "pos": "D"
-              },
-              {
-                "n": 3,
-                "name": "N. Tagliafico",
-                "pos": "D"
-              },
-              {
-                "n": 7,
-                "name": "R. De Paul",
-                "pos": "M"
-              },
-              {
-                "n": 24,
-                "name": "E. Fernández",
-                "pos": "M"
-              },
-              {
-                "n": 20,
-                "name": "A. Mac Allister",
-                "pos": "M"
-              },
-              {
-                "n": 15,
-                "name": "N. González",
-                "pos": "F"
-              },
-              {
-                "n": 10,
-                "name": "L. Messi",
-                "pos": "F"
-              },
-              {
-                "n": 9,
-                "name": "J. Álvarez",
-                "pos": "F"
-              }
-            ]
-          }
-        },
-        "referee": "Slavko Vinčić, Slovenia",
-        "motm": {
-          "player": "E. Martínez",
-          "rating": 9.8,
-          "team": "ARG"
-        }
-      }
-    }
-  ],
+  "updated": "2026-07-19T22:03:28Z",
+  "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
   "min_version": "1.9.38",
@@ -32177,6 +31847,332 @@
           "team": "ENG"
         }
       }
+    },
+    {
+      "id": 104,
+      "home": 1,
+      "away": 0,
+      "goals": [
+        {
+          "player": "Ferrán Torres",
+          "minute": 106,
+          "team": "ESP",
+          "assist": "Nico Williams"
+        }
+      ],
+      "cardEvents": [
+        {
+          "player": "Lisandro Martínez",
+          "minute": 41,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Leandro Paredes",
+          "minute": 52,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Enzo Fernández",
+          "minute": 82,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Cristian Romero",
+          "minute": 90,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Lionel Sebastián Scaloni",
+          "minute": 104,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Alexis Mac Allister",
+          "minute": 111,
+          "team": "ARG",
+          "color": "yellow"
+        }
+      ],
+      "subs": [
+        {
+          "out": "Lisandro Martínez",
+          "in": "Nicolás Otamendi",
+          "minute": 44,
+          "team": "ARG"
+        },
+        {
+          "out": "Nicolás Iván Gonzalez",
+          "in": "Leandro Paredes",
+          "minute": 45,
+          "team": "ARG"
+        },
+        {
+          "out": "Gonzalo Montiel",
+          "in": "Nahuel Molina",
+          "minute": 58,
+          "team": "ARG"
+        },
+        {
+          "out": "Mikel Oyarzabal",
+          "in": "Ferrán Torres",
+          "minute": 62,
+          "team": "ESP"
+        },
+        {
+          "out": "Fabián Ruiz",
+          "in": "Pedri",
+          "minute": 62,
+          "team": "ESP"
+        },
+        {
+          "out": "Cristian Romero",
+          "in": "Facundo Medina",
+          "minute": 70,
+          "team": "ARG"
+        },
+        {
+          "out": "Rodrigo De Paul",
+          "in": "Giuliano Simeone Baldini",
+          "minute": 70,
+          "team": "ARG"
+        },
+        {
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Nico Williams",
+          "minute": 75,
+          "team": "ESP"
+        },
+        {
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
+          "minute": 75,
+          "team": "ESP"
+        },
+        {
+          "out": "Rodrigo Hernandez Cascante",
+          "in": "Martín Zubimendi",
+          "minute": 99,
+          "team": "ESP"
+        },
+        {
+          "out": "Aymeric Laporte",
+          "in": "Eric García",
+          "minute": 99,
+          "team": "ESP"
+        },
+        {
+          "out": "Julián Álvarez",
+          "in": "Marcos Senesi",
+          "minute": 102,
+          "team": "ARG"
+        }
+      ],
+      "stats": {
+        "passesAccurate": [
+          762,
+          357
+        ],
+        "shotsTotal": [
+          20,
+          2
+        ],
+        "fouls": [
+          21,
+          25
+        ],
+        "shotsOff": [
+          5,
+          1
+        ],
+        "shotsOutside": [
+          11,
+          1
+        ],
+        "corners": [
+          9,
+          4
+        ],
+        "red": [
+          0,
+          1
+        ],
+        "possession": [
+          65,
+          35
+        ],
+        "offsides": [
+          4,
+          1
+        ],
+        "passesTotal": [
+          852,
+          462
+        ],
+        "shotsOn": [
+          12,
+          0
+        ],
+        "saves": [
+          0,
+          11
+        ],
+        "yellow": [
+          0,
+          5
+        ],
+        "shotsInside": [
+          9,
+          1
+        ],
+        "shotsBlocked": [
+          3,
+          1
+        ],
+        "home": "ESP",
+        "away": "ARG"
+      },
+      "extras": {
+        "pred": {
+          "home": 45,
+          "draw": 45,
+          "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-2-3",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí Paredes",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Fabián Ruiz",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "L. Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "E. Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "G. Montiel",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "C. Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "N. Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "R. De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "E. Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "A. Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "N. González",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "L. Messi",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "J. Álvarez",
+                "pos": "F"
+              }
+            ]
+          }
+        },
+        "referee": "Slavko Vinčić, Slovenia",
+        "motm": {
+          "player": "E. Martínez",
+          "rating": 9.8,
+          "team": "ARG"
+        }
+      }
     }
   ],
   "stats": {
@@ -32226,7 +32222,7 @@
         "assists": 1
       },
       {
-        "player": "L. Martinez",
+        "player": "Lisandro Martínez",
         "team": "ARG",
         "goals": 4,
         "penalties": 1,
@@ -32502,16 +32498,16 @@
         "goals": 1
       },
       {
-        "player": "L. Martinez",
-        "team": "ARG",
-        "assists": 2,
-        "goals": 4
-      },
-      {
         "player": "L. Trossard",
         "team": "BEL",
         "assists": 2,
         "goals": 2
+      },
+      {
+        "player": "Lisandro Martínez",
+        "team": "ARG",
+        "assists": 2,
+        "goals": 4
       },
       {
         "player": "M. Salah",
@@ -32622,6 +32618,12 @@
         "yellow": 3
       },
       {
+        "player": "Lisandro Martínez",
+        "team": "ARG",
+        "red": 0,
+        "yellow": 3
+      },
+      {
         "player": "A. Fathi",
         "team": "QAT",
         "red": 0,
@@ -32654,6 +32656,12 @@
       {
         "player": "C. Yirenkyi",
         "team": "GHA",
+        "red": 0,
+        "yellow": 2
+      },
+      {
+        "player": "Cristian Romero",
+        "team": "ARG",
         "red": 0,
         "yellow": 2
       },
@@ -32698,49 +32706,37 @@
         "team": "EGY",
         "red": 0,
         "yellow": 2
-      },
-      {
-        "player": "I. Perisic",
-        "team": "CRO",
-        "red": 0,
-        "yellow": 2
-      },
-      {
-        "player": "Juninho Bacuna",
-        "team": "CUR",
-        "red": 0,
-        "yellow": 2
       }
     ]
   },
   "teamStats": [
     {
-      "code": "ARG",
-      "played": 7,
-      "wins": 7,
-      "draws": 0,
-      "loses": 0,
-      "gf": 19,
-      "ga": 7,
-      "cleanSheets": 2,
-      "failedToScore": 0,
-      "biggestWin": "3-0",
-      "biggestLose": "",
-      "form": "WWWWWWW"
-    },
-    {
       "code": "ESP",
-      "played": 7,
-      "wins": 6,
+      "played": 8,
+      "wins": 7,
       "draws": 1,
       "loses": 0,
-      "gf": 13,
+      "gf": 14,
       "ga": 1,
-      "cleanSheets": 6,
+      "cleanSheets": 7,
       "failedToScore": 1,
       "biggestWin": "4-0",
       "biggestLose": "",
-      "form": "DWWWWWW"
+      "form": "DWWWWWWW"
+    },
+    {
+      "code": "ARG",
+      "played": 8,
+      "wins": 7,
+      "draws": 0,
+      "loses": 1,
+      "gf": 19,
+      "ga": 8,
+      "cleanSheets": 2,
+      "failedToScore": 1,
+      "biggestWin": "3-0",
+      "biggestLose": "0-1",
+      "form": "WWWWWWWL"
     },
     {
       "code": "ENG",
