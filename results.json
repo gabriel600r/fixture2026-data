@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:00:10Z",
+  "updated": "2026-07-19T18:01:49Z",
   "live": [],
   "update_en": "A new version is out with several improvements: substitutions, assists, stats and more. Update to get them! ⚽",
   "update_es": "Hay una nueva versión con varias mejoras: sustituciones, asistencias, estadísticas y más. ¡Actualizá para tenerlas! ⚽",
@@ -142,6 +142,130 @@
           "home": 45,
           "draw": 45,
           "away": 10
+        },
+        "lineups": {
+          "home": {
+            "formation": "4-1-2-3",
+            "coach": "Luis de la Fuente",
+            "xi": [
+              {
+                "n": 23,
+                "name": "Unai Simón",
+                "pos": "G"
+              },
+              {
+                "n": 12,
+                "name": "Pedro Porro",
+                "pos": "D"
+              },
+              {
+                "n": 22,
+                "name": "Pau Cubarsí Paredes",
+                "pos": "D"
+              },
+              {
+                "n": 14,
+                "name": "Aymeric Laporte",
+                "pos": "D"
+              },
+              {
+                "n": 24,
+                "name": "Marc Cucurella",
+                "pos": "D"
+              },
+              {
+                "n": 16,
+                "name": "Rodri",
+                "pos": "M"
+              },
+              {
+                "n": 10,
+                "name": "Dani Olmo",
+                "pos": "M"
+              },
+              {
+                "n": 8,
+                "name": "Fabián Ruiz",
+                "pos": "M"
+              },
+              {
+                "n": 19,
+                "name": "Lamine Yamal",
+                "pos": "F"
+              },
+              {
+                "n": 21,
+                "name": "Mikel Oyarzabal",
+                "pos": "F"
+              },
+              {
+                "n": 15,
+                "name": "Álex Baena",
+                "pos": "M"
+              }
+            ]
+          },
+          "away": {
+            "formation": "4-4-2",
+            "coach": "L. Scaloni",
+            "xi": [
+              {
+                "n": 23,
+                "name": "E. Martínez",
+                "pos": "G"
+              },
+              {
+                "n": 4,
+                "name": "G. Montiel",
+                "pos": "D"
+              },
+              {
+                "n": 13,
+                "name": "C. Romero",
+                "pos": "D"
+              },
+              {
+                "n": 6,
+                "name": "Lisandro Martínez",
+                "pos": "D"
+              },
+              {
+                "n": 3,
+                "name": "N. Tagliafico",
+                "pos": "D"
+              },
+              {
+                "n": 7,
+                "name": "R. De Paul",
+                "pos": "M"
+              },
+              {
+                "n": 24,
+                "name": "E. Fernández",
+                "pos": "M"
+              },
+              {
+                "n": 20,
+                "name": "A. Mac Allister",
+                "pos": "M"
+              },
+              {
+                "n": 15,
+                "name": "N. González",
+                "pos": "F"
+              },
+              {
+                "n": 10,
+                "name": "L. Messi",
+                "pos": "F"
+              },
+              {
+                "n": 9,
+                "name": "J. Álvarez",
+                "pos": "F"
+              }
+            ]
+          }
         }
       }
     }
