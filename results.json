@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:35:22Z",
+  "updated": "2026-07-19T21:36:10Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 104,
+      "minute": 105,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -29,6 +29,12 @@
         {
           "player": "Cristian Romero",
           "minute": 90,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Lionel Sebastián Scaloni",
+          "minute": 105,
           "team": "ARG",
           "color": "yellow"
         }
@@ -110,7 +116,7 @@
       "stats": {
         "passesAccurate": [
           693,
-          284
+          289
         ],
         "shotsTotal": [
           19,
@@ -146,7 +152,7 @@
         ],
         "passesTotal": [
           762,
-          362
+          367
         ],
         "shotsOn": [
           11,
