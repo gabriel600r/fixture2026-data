@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:04:14Z",
+  "updated": "2026-07-19T20:23:05Z",
   "live": [
     {
       "id": 104,
-      "status": "HT",
-      "minute": null,
+      "status": "2H",
+      "minute": 46,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -20,6 +20,12 @@
           "out": "Lisandro Martínez",
           "in": "Nicolás Otamendi",
           "minute": 44,
+          "team": "ARG"
+        },
+        {
+          "out": "Nicolás Iván Gonzalez",
+          "in": "Leandro Paredes",
+          "minute": 45,
           "team": "ARG"
         }
       ],
@@ -213,7 +219,12 @@
             ]
           }
         },
-        "referee": "Slavko Vinčić, Slovenia"
+        "referee": "Slavko Vinčić, Slovenia",
+        "motm": {
+          "player": "Rodri",
+          "rating": 7.2,
+          "team": "ESP"
+        }
       }
     }
   ],
