@@ -1,16 +1,20 @@
 {
-  "updated": "2026-07-19T19:12:01Z",
+  "updated": "2026-07-19T19:12:49Z",
   "live": [
     {
       "id": 104,
       "status": "1H",
-      "minute": 6,
+      "minute": 7,
       "home": 0,
       "away": 0,
       "stats": {
         "passesAccurate": [
-          22,
-          39
+          31,
+          42
+        ],
+        "shotsTotal": [
+          1,
+          0
         ],
         "fouls": [
           1,
@@ -25,19 +29,27 @@
           0
         ],
         "possession": [
-          37,
-          63
+          44,
+          56
         ],
         "passesTotal": [
-          25,
-          42
+          36,
+          46
         ],
         "shotsOn": [
-          0,
+          1,
           0
+        ],
+        "saves": [
+          0,
+          1
         ],
         "yellow": [
           0,
+          0
+        ],
+        "shotsInside": [
+          1,
           0
         ],
         "home": "ESP",
