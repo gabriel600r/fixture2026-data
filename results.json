@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:12:05Z",
+  "updated": "2026-07-19T21:12:53Z",
   "live": [
     {
       "id": 104,
@@ -23,6 +23,12 @@
         {
           "player": "Enzo Fernández",
           "minute": 82,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Cristian Romero",
+          "minute": 90,
           "team": "ARG",
           "color": "yellow"
         }
@@ -83,7 +89,7 @@
           "team": "ESP"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesAccurate": [
           569,
