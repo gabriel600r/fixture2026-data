@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T19:50:29Z",
+  "updated": "2026-07-19T19:51:17Z",
   "live": [
     {
       "id": 104,
@@ -15,13 +15,22 @@
           "color": "yellow"
         }
       ],
+      "subs": [
+        {
+          "out": "Lisandro Martínez",
+          "in": "Nicolás Otamendi",
+          "minute": 44,
+          "team": "ARG"
+        }
+      ],
+      "extra": 1,
       "stats": {
         "passesAccurate": [
-          268,
+          272,
           135
         ],
         "shotsTotal": [
-          2,
+          3,
           0
         ],
         "fouls": [
@@ -29,11 +38,11 @@
           9
         ],
         "shotsOff": [
-          0,
+          1,
           0
         ],
         "shotsOutside": [
-          1,
+          2,
           0
         ],
         "corners": [
@@ -45,15 +54,15 @@
           0
         ],
         "possession": [
-          64,
-          36
+          65,
+          35
         ],
         "offsides": [
           2,
           1
         ],
         "passesTotal": [
-          298,
+          302,
           169
         ],
         "shotsOn": [
