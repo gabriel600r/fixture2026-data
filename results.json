@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:55:22Z",
+  "updated": "2026-07-19T21:56:56Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 119,
+      "minute": 120,
       "home": 1,
       "away": 0,
       "goals": [
@@ -129,15 +129,15 @@
       ],
       "stats": {
         "passesAccurate": [
-          755,
-          327
+          754,
+          342
         ],
         "shotsTotal": [
           20,
-          0
+          1
         ],
         "fouls": [
-          18,
+          19,
           24
         ],
         "shotsOff": [
@@ -146,7 +146,7 @@
         ],
         "shotsOutside": [
           11,
-          0
+          1
         ],
         "corners": [
           9,
@@ -157,16 +157,16 @@
           1
         ],
         "possession": [
-          67,
-          33
+          66,
+          34
         ],
         "offsides": [
           4,
           1
         ],
         "passesTotal": [
-          835,
-          422
+          837,
+          441
         ],
         "shotsOn": [
           12,
@@ -186,7 +186,7 @@
         ],
         "shotsBlocked": [
           3,
-          0
+          1
         ],
         "home": "ESP",
         "away": "ARG"
