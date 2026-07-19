@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:43:08Z",
+  "updated": "2026-07-19T20:43:56Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 66,
+      "minute": 67,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -249,9 +249,9 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "Rodri",
-          "rating": 7.07,
-          "team": "ESP"
+          "player": "E. Martínez",
+          "rating": 7.53,
+          "team": "ARG"
         }
       }
     }
