@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T20:52:44Z",
+  "updated": "2026-07-19T20:53:32Z",
   "live": [
     {
       "id": 104,
@@ -79,8 +79,8 @@
       ],
       "stats": {
         "passesAccurate": [
-          425,
-          244
+          430,
+          249
         ],
         "shotsTotal": [
           8,
@@ -88,7 +88,7 @@
         ],
         "fouls": [
           11,
-          13
+          14
         ],
         "shotsOff": [
           1,
@@ -115,8 +115,8 @@
           1
         ],
         "passesTotal": [
-          476,
-          301
+          483,
+          307
         ],
         "shotsOn": [
           5,
@@ -274,7 +274,7 @@
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
           "player": "E. Martínez",
-          "rating": 7.6,
+          "rating": 7.57,
           "team": "ARG"
         }
       }
