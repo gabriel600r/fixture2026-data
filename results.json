@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:48:09Z",
+  "updated": "2026-07-19T21:48:58Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 111,
+      "minute": 112,
       "home": 1,
       "away": 0,
       "goals": [
@@ -43,6 +43,12 @@
         {
           "player": "Lionel Sebastián Scaloni",
           "minute": 104,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Alexis Mac Allister",
+          "minute": 111,
           "team": "ARG",
           "color": "yellow"
         }
@@ -123,7 +129,7 @@
       ],
       "stats": {
         "passesAccurate": [
-          718,
+          721,
           318
         ],
         "shotsTotal": [
@@ -132,7 +138,7 @@
         ],
         "fouls": [
           17,
-          22
+          23
         ],
         "shotsOff": [
           5,
@@ -159,7 +165,7 @@
           1
         ],
         "passesTotal": [
-          796,
+          799,
           411
         ],
         "shotsOn": [
