@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T19:32:53Z",
+  "updated": "2026-07-19T19:33:41Z",
   "live": [
     {
       "id": 104,
       "status": "1H",
-      "minute": 27,
+      "minute": 28,
       "home": 0,
       "away": 0,
       "stats": {
@@ -17,7 +17,7 @@
           0
         ],
         "fouls": [
-          4,
+          5,
           3
         ],
         "shotsOff": [
@@ -42,7 +42,7 @@
         ],
         "passesTotal": [
           170,
-          105
+          106
         ],
         "shotsOn": [
           1,
