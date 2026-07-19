@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:36:58Z",
+  "updated": "2026-07-19T21:37:46Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 106,
+      "minute": 107,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -34,7 +34,7 @@
         },
         {
           "player": "Lionel Sebastián Scaloni",
-          "minute": 105,
+          "minute": 104,
           "team": "ARG",
           "color": "yellow"
         }
@@ -116,7 +116,7 @@
       "stats": {
         "passesAccurate": [
           693,
-          289
+          296
         ],
         "shotsTotal": [
           19,
@@ -152,7 +152,7 @@
         ],
         "passesTotal": [
           762,
-          367
+          375
         ],
         "shotsOn": [
           11,
