@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:08:03Z",
+  "updated": "2026-07-19T21:08:51Z",
   "live": [
     {
       "id": 104,
@@ -83,14 +83,14 @@
           "team": "ESP"
         }
       ],
-      "extra": 1,
+      "extra": 2,
       "stats": {
         "passesAccurate": [
-          554,
+          566,
           256
         ],
         "shotsTotal": [
-          12,
+          13,
           0
         ],
         "fouls": [
@@ -98,11 +98,11 @@
           17
         ],
         "shotsOff": [
-          2,
+          3,
           0
         ],
         "shotsOutside": [
-          7,
+          8,
           0
         ],
         "corners": [
@@ -122,8 +122,8 @@
           1
         ],
         "passesTotal": [
-          613,
-          319
+          626,
+          322
         ],
         "shotsOn": [
           8,
