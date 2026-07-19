@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:59:57Z",
+  "updated": "2026-07-19T21:00:46Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 83,
+      "minute": 84,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -17,6 +17,12 @@
         {
           "player": "Leandro Paredes",
           "minute": 52,
+          "team": "ARG",
+          "color": "yellow"
+        },
+        {
+          "player": "Enzo Fernández",
+          "minute": 82,
           "team": "ARG",
           "color": "yellow"
         }
