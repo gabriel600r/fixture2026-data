@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T20:24:41Z",
+  "updated": "2026-07-19T20:25:30Z",
   "live": [
     {
       "id": 104,
@@ -32,7 +32,7 @@
       "stats": {
         "passesAccurate": [
           322,
-          167
+          174
         ],
         "shotsTotal": [
           4,
@@ -52,7 +52,7 @@
         ],
         "corners": [
           2,
-          0
+          1
         ],
         "red": [
           0,
@@ -68,7 +68,7 @@
         ],
         "passesTotal": [
           359,
-          210
+          218
         ],
         "shotsOn": [
           3,
@@ -221,9 +221,9 @@
         },
         "referee": "Slavko Vinčić, Slovenia",
         "motm": {
-          "player": "Rodri",
-          "rating": 7.2,
-          "team": "ESP"
+          "player": "E. Martínez",
+          "rating": 7.36,
+          "team": "ARG"
         }
       }
     }
