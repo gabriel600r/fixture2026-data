@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:01:52Z",
+  "updated": "2026-07-19T22:02:40Z",
   "live": [
     {
       "id": 104,
@@ -127,10 +127,10 @@
           "team": "ARG"
         }
       ],
-      "extra": 5,
+      "extra": 6,
       "stats": {
         "passesAccurate": [
-          755,
+          762,
           357
         ],
         "shotsTotal": [
@@ -138,7 +138,7 @@
           2
         ],
         "fouls": [
-          20,
+          21,
           25
         ],
         "shotsOff": [
@@ -166,8 +166,8 @@
           1
         ],
         "passesTotal": [
-          844,
-          461
+          852,
+          462
         ],
         "shotsOn": [
           12,
