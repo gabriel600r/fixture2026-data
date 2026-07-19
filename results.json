@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T19:55:16Z",
+  "updated": "2026-07-19T19:56:05Z",
   "live": [
     {
       "id": 104,
-      "status": "1H",
-      "minute": 45,
+      "status": "HT",
+      "minute": null,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -23,7 +23,6 @@
           "team": "ARG"
         }
       ],
-      "extra": 4,
       "stats": {
         "passesAccurate": [
           299,
