@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-19T21:16:06Z",
+  "updated": "2026-07-19T21:16:54Z",
   "live": [
     {
       "id": 104,
-      "status": "2H",
+      "status": "ET",
       "minute": 90,
       "home": 0,
       "away": 0,
@@ -89,14 +89,13 @@
           "team": "ESP"
         }
       ],
-      "extra": 9,
       "stats": {
         "passesAccurate": [
-          581,
+          583,
           268
         ],
         "shotsTotal": [
-          14,
+          15,
           0
         ],
         "fouls": [
@@ -112,7 +111,7 @@
           0
         ],
         "corners": [
-          8,
+          9,
           1
         ],
         "red": [
@@ -128,16 +127,16 @@
           1
         ],
         "passesTotal": [
-          645,
+          647,
           337
         ],
         "shotsOn": [
-          9,
+          10,
           0
         ],
         "saves": [
           0,
-          9
+          10
         ],
         "yellow": [
           0,
