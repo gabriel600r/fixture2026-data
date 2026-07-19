@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:34:18Z",
+  "updated": "2026-07-19T20:35:06Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 57,
+      "minute": 58,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -32,6 +32,12 @@
           "out": "Nicolás Iván Gonzalez",
           "in": "Leandro Paredes",
           "minute": 45,
+          "team": "ARG"
+        },
+        {
+          "out": "Gonzalo Montiel",
+          "in": "Nahuel Molina",
+          "minute": 58,
           "team": "ARG"
         }
       ],
