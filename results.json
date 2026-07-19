@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:47:09Z",
+  "updated": "2026-07-19T20:47:57Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 70,
+      "minute": 71,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -51,6 +51,18 @@
           "in": "Pedri",
           "minute": 62,
           "team": "ESP"
+        },
+        {
+          "out": "Cristian Romero",
+          "in": "Facundo Medina",
+          "minute": 70,
+          "team": "ARG"
+        },
+        {
+          "out": "Rodrigo De Paul",
+          "in": "Giuliano Simeone Baldini",
+          "minute": 70,
+          "team": "ARG"
         }
       ],
       "stats": {
