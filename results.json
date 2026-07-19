@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T21:50:34Z",
+  "updated": "2026-07-19T21:51:22Z",
   "live": [
     {
       "id": 104,
       "status": "ET",
-      "minute": 114,
+      "minute": 115,
       "home": 1,
       "away": 0,
       "goals": [
@@ -161,12 +161,12 @@
           33
         ],
         "offsides": [
-          2,
+          4,
           1
         ],
         "passesTotal": [
-          833,
-          411
+          834,
+          412
         ],
         "shotsOn": [
           12,
