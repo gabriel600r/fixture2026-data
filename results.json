@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T20:51:56Z",
+  "updated": "2026-07-19T20:52:44Z",
   "live": [
     {
       "id": 104,
       "status": "2H",
-      "minute": 75,
+      "minute": 76,
       "home": 0,
       "away": 0,
       "cardEvents": [
@@ -63,11 +63,23 @@
           "in": "Giuliano Simeone Baldini",
           "minute": 70,
           "team": "ARG"
+        },
+        {
+          "out": "Alejandro Baena Rodríguez",
+          "in": "Nico Williams",
+          "minute": 75,
+          "team": "ESP"
+        },
+        {
+          "out": "Daniel Olmo Carvajal",
+          "in": "Mikel Merino",
+          "minute": 75,
+          "team": "ESP"
         }
       ],
       "stats": {
         "passesAccurate": [
-          418,
+          425,
           244
         ],
         "shotsTotal": [
@@ -103,7 +115,7 @@
           1
         ],
         "passesTotal": [
-          468,
+          476,
           301
         ],
         "shotsOn": [
