@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:30:32Z",
+  "updated": "2026-07-19T21:31:20Z",
   "live": [
     {
       "id": 104,
@@ -87,12 +87,24 @@
           "in": "Mikel Merino",
           "minute": 75,
           "team": "ESP"
+        },
+        {
+          "out": "Rodrigo Hernandez Cascante",
+          "in": "Martín Zubimendi",
+          "minute": 99,
+          "team": "ESP"
+        },
+        {
+          "out": "Aymeric Laporte",
+          "in": "Eric García",
+          "minute": 99,
+          "team": "ESP"
         }
       ],
       "stats": {
         "passesAccurate": [
-          643,
-          278
+          650,
+          280
         ],
         "shotsTotal": [
           16,
@@ -127,8 +139,8 @@
           1
         ],
         "passesTotal": [
-          711,
-          353
+          718,
+          356
         ],
         "shotsOn": [
           11,
