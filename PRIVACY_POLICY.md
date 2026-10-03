@@ -1,6 +1,6 @@
 # Privacy Policy — Fixture Fútbol: Ligas En Vivo
 
-**Last updated:** October 5, 2026
+**Last updated:** October 3, 2026
 
 **Developer:** EgeaINC (Gabriel Egea)
 
