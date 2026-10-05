@@ -1,6 +1,6 @@
 # Privacy Policy — Fixture Fútbol: Ligas En Vivo
 
-**Last updated:** October 3, 2026
+**Last updated:** October 5, 2026
 
 **Developer:** EgeaINC (Gabriel Egea)
 
@@ -39,7 +39,7 @@ The App connects to the internet for the following:
 
 ## Advertising
 
-The App shows ads provided by **Google AdMob**: native ads between the day's matches and a medium rectangle in the match screen. Ads are always labeled as ads, never cover a match and never open full screen. **PRO subscribers do not see ads, and the App does not request ads for them.**
+The App shows ads provided by **Google AdMob**: native ads between the matches and in each competition's tables (standings and top scorers), and a medium rectangle in the match screen. Ads are always labeled as ads, never cover a match and never open full screen. **PRO subscribers do not see ads, and the App does not request ads for them.**
 
 To show and measure ads, Google AdMob may collect and process:
 
